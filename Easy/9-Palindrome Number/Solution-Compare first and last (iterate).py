@@ -16,9 +16,3 @@ class Solution:
             else:
                 return False
         return True
-        if x < 0:
-            return False
-        n = 0
-        while x // (10 ** n) != 0:
-            n += 1
-        return self.is_palindrome(x, n - 1)
