@@ -16,6 +16,7 @@
 |191|[Number of 1 Bits](./Easy/0191-Number%20of%201%20Bits#191-number-of-1-bits)|[Solution](./Easy/0191-Number%20of%201%20Bits#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/number-of-1-bits/)|
 |263|[Ugly Number](./Easy/0263-Ugly%20Number#263-ugly-number)|[Solution](./Easy/0263-Ugly%20Number#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/ugly-number/)|
 |409|[Longest Palindrome](./Easy/0409-Longest%20Palindrome#409-longest-palindrome)|[Solution](./Easy/0409-Longest%20Palindrome#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/longest-palindrome/)|
+|461|[Hamming Distance](./Easy/0461-Hamming%20Distance#461-hamming-distance)|[Solution](./Easy/0461-Hamming%20Distance#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/hamming-distance/)|
 |559|[Maximum Depth of N-ary Tree](./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#559-maximum-depth-of-n-ary-tree)|[Solution](./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|
 |617|[Merge Two Binary Trees](./Easy/0617-Merge%20Two%20Binary%20Trees#617-merge-two-binary-trees)|[Solution](./Easy/0617-Merge%20Two%20Binary%20Trees#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/merge-two-binary-trees/)|
 |654|[Maximum Binary Tree](./Medium/0654-Maximum%20Binary%20Tree#654-maximum-binary-tree)|[Solution](./Medium/0654-Maximum%20Binary%20Tree#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/maximum-binary-tree/)|
