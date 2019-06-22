@@ -36,11 +36,17 @@ impl Solution {
 }
 ```
 
-### 2. n / 2 (C)
-```C
-bool isPowerOfTwo(int n){
-    if(n <= 0) return false;
-    if(n == 1) return true;
-    return n % 2 == 0 && isPowerOfTwo(n / 2);
+### 2. n / 2 (Rust)
+```Rust
+impl Solution {
+    pub fn is_power_of_two(n: i32) -> bool {
+        if n <= 0 {
+            false
+        } else if n == 1 {
+            true
+        } else {
+            n % 2 == 0 && Self::is_power_of_two(n / 2)
+        }
+    }
 }
 ```
