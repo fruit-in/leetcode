@@ -21,6 +21,7 @@
 |344|[Reverse String](./Easy/0344-Reverse%20String#344-reverse-string)|[Solution](./Easy/0344-Reverse%20String#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/reverse-string/)|
 |409|[Longest Palindrome](./Easy/0409-Longest%20Palindrome#409-longest-palindrome)|[Solution](./Easy/0409-Longest%20Palindrome#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/longest-palindrome/)|
 |461|[Hamming Distance](./Easy/0461-Hamming%20Distance#461-hamming-distance)|[Solution](./Easy/0461-Hamming%20Distance#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/hamming-distance/)|
+|500|[Keyboard Row](./Easy/0500-Keyboard%20Row#500-keyboard-row)|[Solution](./Easy/0500-Keyboard%20Row#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/keyboard-row/)|
 |509|[Fibonacci Number](./Easy/0509-Fibonacci%20Number#509-fibonacci-number)|[Solution](./Easy/0509-Fibonacci%20Number#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/fibonacci-number/)|
 |559|[Maximum Depth of N-ary Tree](./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#559-maximum-depth-of-n-ary-tree)|[Solution](./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|
 |617|[Merge Two Binary Trees](./Easy/0617-Merge%20Two%20Binary%20Trees#617-merge-two-binary-trees)|[Solution](./Easy/0617-Merge%20Two%20Binary%20Trees#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/merge-two-binary-trees/)|
