@@ -24,28 +24,25 @@ Bonus points if you could solve it both recursively and iteratively.
 
 ## Solutions
 
-### 1. Recursion (C)
-```C
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     struct TreeNode *left;
- *     struct TreeNode *right;
- * };
- */
+### 1. Recursion (Python3)
+```Python3
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
 
-bool isMirror(struct TreeNode* root, struct TreeNode* toor){
-    if(root == NULL && toor == NULL)
-        return true;
-    if(root == NULL || toor == NULL || root -> val != toor -> val)
-        return false;
-    return isMirror(root -> left, toor -> right) && isMirror(root -> right, toor -> left);
-}
+class Solution:
+    def isSymmetric(self, root: TreeNode) -> bool:
+        def isMirror(root: TreeNode, toor: TreeNode) -> bool:
+            if not root and not toor:
+                return True
+            if not root or not toor or root.val != toor.val:
+                return False
+            return isMirror(root.left, toor.right) and isMirror(root.right, toor.left)
 
-bool isSymmetric(struct TreeNode* root){
-     return isMirror(root, root);
-}
+        return isMirror(root, root)
 ```
 
 ### 2. Iteration (Python3)
