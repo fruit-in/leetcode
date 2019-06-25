@@ -9,48 +9,55 @@ Merge two sorted linked lists and return it as a new list. The new list should b
 
 ## Solutions
 
-### 1. Iteration (Python3)
-```Python3
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+### 1. Iteration (C)
+```C
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     struct ListNode *next;
+ * };
+ */
 
-class Solution:
-    def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
-        head = ListNode(0)
-        p = head
-        while l1 and l2:
-            if l1.val < l2.val:
-                p.next = l1
-                l1 = l1.next
-            else:
-                p.next = l2
-                l2 = l2.next
-            p = p.next
-        p.next = l1 if l1 else l2
-        return head.next
+struct ListNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2){
+    struct ListNode* head = (struct ListNode*)malloc(sizeof(struct ListNode));
+    struct ListNode* p = head;
+    while(l1 != NULL && l2 != NULL)
+        if(l1 -> val < l2 -> val){
+            p -> next = l1;
+            p = p -> next;
+            l1 = l1 -> next;
+        }else{
+            p -> next = l2;
+            p = p -> next;
+            l2 = l2 -> next;
+        }
+    p -> next = l1 == NULL ? l2 : l1;
+    return head -> next;
+}
 ```
 
-### 2. Recursion (Python3)
-```Python3
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+### 2. Recursion (C)
+```C
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     struct ListNode *next;
+ * };
+ */
 
-class Solution:
-    def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
-        if not l1:
-            return l2
-        if not l2:
-            return l1
-        if l1.val < l2.val:
-            l1.next = self.mergeTwoLists(l1.next, l2)
-            return l1
-        else:
-            l2.next = self.mergeTwoLists(l1, l2.next)
-            return l2
+struct ListNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2){
+    if(l1 == NULL)
+        return l2;
+    if(l2 == NULL)
+        return l1;
+    if(l1 -> val < l2 -> val){
+        l1 -> next = mergeTwoLists(l1 -> next, l2);
+        return l1;
+    }else{
+        l2 -> next = mergeTwoLists(l1, l2 -> next);
+        return l2;
+    }
+}
 ```
