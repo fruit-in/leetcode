@@ -38,24 +38,22 @@ Two binary trees are considered the same if they are structurally identical and 
 
 ## Solutions
 
-### 1. Recursion (C)
-```C
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     struct TreeNode *left;
- *     struct TreeNode *right;
- * };
- */
+### 1. Recursion (Python3)
+```Python3
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
 
-bool isSameTree(struct TreeNode* p, struct TreeNode* q){
-    if(p == NULL && q == NULL)
-        return true;
-    if(p == NULL || q == NULL || p -> val != q -> val)
-        return false;
-    return isSameTree(p -> left, q -> left) && isSameTree(p -> right, q -> right);
-}
+class Solution:
+    def isSameTree(self, p: TreeNode, q: TreeNode) -> bool:
+        if not p and not q:
+            return True
+        if not p or not q or p.val != q.val:
+            return False
+        return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
 ```
 
 ### 2. Iteration (Python3)
