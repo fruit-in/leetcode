@@ -49,3 +49,4 @@
 |969|[Pancake Sorting](./Medium/0969-Pancake%20Sorting#969-pancake-sorting)|[Solution](./Medium/0969-Pancake%20Sorting#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/pancake-sorting/)|
 |985|[Sum of Even Numbers After Queries](./Easy/0985-Sum%20of%20Even%20Numbers%20After%20Queries#985-sum-of-even-numbers-after-queries)|[Solution](./Easy/0985-Sum%20of%20Even%20Numbers%20After%20Queries#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|
 |1018|[Binary Prefix Divisible By 5](./Easy/1018-Binary%20Prefix%20Divisible%20By%205#1018-binary-prefix-divisible-by-5)|[Solution](./Easy/1018-Binary%20Prefix%20Divisible%20By%205#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|
+|1051|[Height Checker](./Easy/1051-Height%20Checker#1051-height-checker)|[Solution](./Easy/1051-Height%20Checker#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/height-checker/)|
