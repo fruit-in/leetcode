@@ -34,6 +34,7 @@
 |771|[Jewels and Stones](./Easy/0771-Jewels%20and%20Stones#771-jewels-and-stones)|[Solution](./Easy/0771-Jewels%20and%20Stones#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/jewels-and-stones/)|
 |804|[Unique Morse Code Words](./Easy/0804-Unique%20Morse%20Code%20Words#804-unique-morse-code-words)|[Solution](./Easy/0804-Unique%20Morse%20Code%20Words#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/unique-morse-code-words/)|
 |824|[Goat Latin](./Easy/0824-Goat%20Latin#824-goat-latin)|[Solution](./Easy/0824-Goat%20Latin#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/goat-latin/)|
+|830|[Positions of Large Groups](./Easy/0830-Positions%20of%20Large%20Groups#830-positions-of-large-groups)|[Solution](./Easy/0830-Positions%20of%20Large%20Groups#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/positions-of-large-groups/)|
 |832|[Flipping an Image](./Easy/0832-Flipping%20an%20Image#832-flipping-an-image)|[Solution](./Easy/0832-Flipping%20an%20Image#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/flipping-an-image/)|
 |852|[Peak Index in a Mountain Array](./Easy/0852-Peak%20Index%20in%20a%20Mountain%20Array#852-peak-index-in-a-mountain-array)|[Solution](./Easy/0852-Peak%20Index%20in%20a%20Mountain%20Array#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|
 |859|[Buddy Strings](./Easy/0859-Buddy%20Strings#859-buddy-strings)|[Solution](./Easy/0859-Buddy%20Strings#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/buddy-strings/)|
