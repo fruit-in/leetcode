@@ -20,24 +20,22 @@ return its depth = 3.
 
 ## Solutions
 
-### 1. Recursion (C)
-```C
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     struct TreeNode *left;
- *     struct TreeNode *right;
- * };
- */
+### 1. Recursion (Python3)
+```Python3
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
 
-int maxDepth(struct TreeNode* root){
-    if(root == NULL)
-        return 0;
-    int lmax = maxDepth(root -> left);
-    int rmax = maxDepth(root -> right);
-    return (lmax > rmax ? lmax : rmax) + 1;
-}
+class Solution:
+    def maxDepth(self, root: TreeNode) -> int:
+        if not root:
+            return 0
+        lmax = self.maxDepth(root.left)
+        rmax = self.maxDepth(root.right)
+        return max(lmax, rmax) + 1
 ```
 
 ### 2. Iteration (Python3)
