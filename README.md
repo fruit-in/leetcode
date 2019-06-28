@@ -17,6 +17,7 @@
 |191|[Number of 1 Bits](./Easy/0191-Number%20of%201%20Bits#191-number-of-1-bits)|[Solution](./Easy/0191-Number%20of%201%20Bits#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/number-of-1-bits/)|
 |231|[Power of Two](./Easy/0231-Power%20of%20Two#231-power-of-two)|[Solution](./Easy/0231-Power%20of%20Two#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/power-of-two/)|
 |263|[Ugly Number](./Easy/0263-Ugly%20Number#263-ugly-number)|[Solution](./Easy/0263-Ugly%20Number#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/ugly-number/)|
+|292|[Nim Game](./Easy/0292-Nim%20Game#292-nim-game)|[Solution](./Easy/0292-Nim%20Game#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/nim-game/)|
 |338|[Counting Bits](./Medium/0338-Counting%20Bits#338-counting-bits)|[Solution](./Medium/0338-Counting%20Bits#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/counting-bits/)|
 |344|[Reverse String](./Easy/0344-Reverse%20String#344-reverse-string)|[Solution](./Easy/0344-Reverse%20String#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/reverse-string/)|
 |409|[Longest Palindrome](./Easy/0409-Longest%20Palindrome#409-longest-palindrome)|[Solution](./Easy/0409-Longest%20Palindrome#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/longest-palindrome/)|
