@@ -41,6 +41,7 @@
 |859|[Buddy Strings](./Easy/0859-Buddy%20Strings#859-buddy-strings)|[Solution](./Easy/0859-Buddy%20Strings#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/buddy-strings/)|
 |867|[Transpose Matrix](./Easy/0867-Transpose%20Matrix#867-transpose-matrix)|[Solution](./Easy/0867-Transpose%20Matrix#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/transpose-matrix/)|
 |868|[Binary Gap](./Easy/0868-Binary%20Gap#868-binary-gap)|[Solution](./Easy/0868-Binary%20Gap#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/binary-gap/)|
+|872|[Leaf-Similar Trees](./Easy/0872-Leaf-Similar%20Trees#872-leaf-similar-trees)|[Solution](./Easy/0872-Leaf-Similar%20Trees#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/leaf-similar-trees/)|
 |908|[Smallest Range I](./Easy/0908-Smallest%20Range%20I#908-smallest-range-i)|[Solution](./Easy/0908-Smallest%20Range%20I#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/smallest-range-i/)|
 |921|[Minimum Add to Make Parentheses Valid](./Medium/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid#921-minimum-add-to-make-parentheses-valid)|[Solution](./Medium/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|
 |922|[Sort Array By Parity II](./Easy/0922-Sort%20Array%20By%20Parity%20II#922-sort-array-by-parity-ii)|[Solution](./Easy/0922-Sort%20Array%20By%20Parity%20II#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/sort-array-by-parity-ii/)|
