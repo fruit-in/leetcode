@@ -54,4 +54,5 @@
 |1018|[Binary Prefix Divisible By 5](./Easy/1018-Binary%20Prefix%20Divisible%20By%205#1018-binary-prefix-divisible-by-5)|[Solution](./Easy/1018-Binary%20Prefix%20Divisible%20By%205#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|
 |1025|[Divisor Game](./Easy/1025-Divisor%20Game#1025-divisor-game)|[Solution](./Easy/1025-Divisor%20Game#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/divisor-game/)|
 |1029|[Two City Scheduling](./Easy/1029-Two%20City%20Scheduling#1029-two-city-scheduling)|[Solution](./Easy/1029-Two%20City%20Scheduling#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/two-city-scheduling/)|
+|1046|[Last Stone Weight](./Easy/1046-Last%20Stone%20Weight#1046-last-stone-weight)|[Solution](./Easy/1046-Last%20Stone%20Weight#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/last-stone-weight/)|
 |1051|[Height Checker](./Easy/1051-Height%20Checker#1051-height-checker)|[Solution](./Easy/1051-Height%20Checker#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/height-checker/)|
