@@ -21,7 +21,7 @@ The binary search tree is guaranteed to have unique values.
 
 ## Solutions
 
-### 1. Recursion (Python3)
+### 1. DFS (Python3)
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:
