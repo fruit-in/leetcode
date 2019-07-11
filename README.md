@@ -48,6 +48,7 @@
 |922|[Sort Array By Parity II](./Easy/0922-Sort%20Array%20By%20Parity%20II#922-sort-array-by-parity-ii)|[Solution](./Easy/0922-Sort%20Array%20By%20Parity%20II#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/sort-array-by-parity-ii/)|
 |929|[Unique Email Addresses](./Easy/0929-Unique%20Email%20Addresses#929-unique-email-addresses)|[Solution](./Easy/0929-Unique%20Email%20Addresses#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/unique-email-addresses/)|
 |938|[Range Sum of BST](./Easy/0938-Range%20Sum%20of%20BST#938-range-sum-of-bst)|[Solution](./Easy/0938-Range%20Sum%20of%20BST#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/range-sum-of-bst/)|
+|941|[Valid Mountain Array](./Easy/0941-Valid%20Mountain%20Array#941-valid-mountain-array)|[Solution](./Easy/0941-Valid%20Mountain%20Array#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/valid-mountain-array/)|
 |942|[DI String Match](./Easy/0942-DI%20String%20Match#942-di-string-match)|[Solution](./Easy/0942-DI%20String%20Match#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/di-string-match/)|
 |965|[Univalued Binary Tree](./Easy/0965-Univalued%20Binary%20Tree#965-univalued-binary-tree)|[Solution](./Easy/0965-Univalued%20Binary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/univalued-binary-tree/)|
 |969|[Pancake Sorting](./Medium/0969-Pancake%20Sorting#969-pancake-sorting)|[Solution](./Medium/0969-Pancake%20Sorting#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/pancake-sorting/)|
