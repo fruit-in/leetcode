@@ -15,6 +15,7 @@
 |118|[Pascal's Triangle](./Easy/0118-Pascal's%20Triangle#118-pascal's-triangle)|[Solution](./Easy/0118-Pascal's%20Triangle#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/pascals-triangle/)|
 |119|[Pascal's Triangle II](./Easy/0119-Pascal's%20Triangle%20II#119-pascal's-triangle-ii)|[Solution](./Easy/0119-Pascal's%20Triangle%20II#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/pascals-triangle-ii/)|
 |191|[Number of 1 Bits](./Easy/0191-Number%20of%201%20Bits#191-number-of-1-bits)|[Solution](./Easy/0191-Number%20of%201%20Bits#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/number-of-1-bits/)|
+|226|[Invert Binary Tree](./Easy/0226-Invert%20Binary%20Tree#226-invert-binary-tree)|[Solution](./Easy/0226-Invert%20Binary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/invert-binary-tree/)|
 |231|[Power of Two](./Easy/0231-Power%20of%20Two#231-power-of-two)|[Solution](./Easy/0231-Power%20of%20Two#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/power-of-two/)|
 |263|[Ugly Number](./Easy/0263-Ugly%20Number#263-ugly-number)|[Solution](./Easy/0263-Ugly%20Number#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/ugly-number/)|
 |292|[Nim Game](./Easy/0292-Nim%20Game#292-nim-game)|[Solution](./Easy/0292-Nim%20Game#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/nim-game/)|
