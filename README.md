@@ -22,6 +22,7 @@
 |338|[Counting Bits](./Medium/0338-Counting%20Bits#338-counting-bits)|[Solution](./Medium/0338-Counting%20Bits#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/counting-bits/)|
 |344|[Reverse String](./Easy/0344-Reverse%20String#344-reverse-string)|[Solution](./Easy/0344-Reverse%20String#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/reverse-string/)|
 |409|[Longest Palindrome](./Easy/0409-Longest%20Palindrome#409-longest-palindrome)|[Solution](./Easy/0409-Longest%20Palindrome#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/longest-palindrome/)|
+|459|[Repeated Substring Pattern](./Easy/0459-Repeated%20Substring%20Pattern#459-repeated-substring-pattern)|[Solution](./Easy/0459-Repeated%20Substring%20Pattern#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/repeated-substring-pattern/)|
 |461|[Hamming Distance](./Easy/0461-Hamming%20Distance#461-hamming-distance)|[Solution](./Easy/0461-Hamming%20Distance#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/hamming-distance/)|
 |500|[Keyboard Row](./Easy/0500-Keyboard%20Row#500-keyboard-row)|[Solution](./Easy/0500-Keyboard%20Row#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/keyboard-row/)|
 |509|[Fibonacci Number](./Easy/0509-Fibonacci%20Number#509-fibonacci-number)|[Solution](./Easy/0509-Fibonacci%20Number#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/fibonacci-number/)|
