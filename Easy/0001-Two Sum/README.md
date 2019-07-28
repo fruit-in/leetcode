@@ -20,7 +20,6 @@ class Solution:
         for k, v in enumerate(nums):
             if target - v in nums[k + 1:]:
                 return [k, k + 1 + nums[k + 1:].index(target - v)]
-
 ```
 
 ### 2. One Pass Hash Table (Python3)
