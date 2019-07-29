@@ -1,3 +1,11 @@
+# Explore
+## Introduction to Data Structure
+### Queue & Stack
+|#|Title|Solutions|Difficulty|LeetCode|
+|-|-|-|-|-|
+|622|[Design Circular Queue](./Medium/0622-Design%20Circular%20Queue#622-design-circular-queue)|[Solution](./Medium/0622-Design%20Circular%20Queue#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/design-circular-queue/)|
+
+# Problems
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
 |1|[Two Sum](./Easy/0001-Two%20Sum#1-two-sum)|[Solution](./Easy/0001-Two%20Sum#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/two-sum/)|
