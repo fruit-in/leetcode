@@ -5,6 +5,8 @@
 |-|-|-|-|-|
 |622|[Design Circular Queue](./Medium/0622-Design%20Circular%20Queue#622-design-circular-queue)|[Solution](./Medium/0622-Design%20Circular%20Queue#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/design-circular-queue/)|
 |155|[Min Stack](./Easy/0155-Min%20Stack#155-min-stack)|[Solution](./Easy/0155-Min%20Stack#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/min-stack/)|
+|20|[Valid Parentheses](./Easy/0020-Valid%20Parentheses#20-valid-parentheses)|[Solution](./Easy/0020-Valid%20Parentheses#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/valid-parentheses/)|
+|150|[Evaluate Reverse Polish Notation](./Medium/0150-Evaluate Reverse Polish Notation#150-evaluate-reverse-polish-notation)|[Solution](./Medium/0150-Evaluate Reverse Polish Notation#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
 
 # Problems
 |#|Title|Solutions|Difficulty|LeetCode|
@@ -23,6 +25,7 @@
 |111|[Minimum Depth of Binary Tree](./Easy/0111-Minimum%20Depth%20of%20Binary%20Tree#111-minimum-depth-of-binary-tree)|[Solution](./Easy/0111-Minimum%20Depth%20of%20Binary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|
 |118|[Pascal's Triangle](./Easy/0118-Pascal's%20Triangle#118-pascal's-triangle)|[Solution](./Easy/0118-Pascal's%20Triangle#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/pascals-triangle/)|
 |119|[Pascal's Triangle II](./Easy/0119-Pascal's%20Triangle%20II#119-pascal's-triangle-ii)|[Solution](./Easy/0119-Pascal's%20Triangle%20II#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/pascals-triangle-ii/)|
+|150|[Evaluate Reverse Polish Notation](./Medium/0150-Evaluate Reverse Polish Notation#150-evaluate-reverse-polish-notation)|[Solution](./Medium/0150-Evaluate Reverse Polish Notation#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
 |155|[Min Stack](./Easy/0155-Min%20Stack#155-min-stack)|[Solution](./Easy/0155-Min%20Stack#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/min-stack/)|
 |191|[Number of 1 Bits](./Easy/0191-Number%20of%201%20Bits#191-number-of-1-bits)|[Solution](./Easy/0191-Number%20of%201%20Bits#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/number-of-1-bits/)|
 |201|[Bitwise AND of Numbers Range](./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range#201-bitwise-and-of-numbers-range)|[Solution](./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|
