@@ -7,6 +7,7 @@
 |155|[Min Stack](./Easy/0155-Min%20Stack#155-min-stack)|[Solution](./Easy/0155-Min%20Stack#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/min-stack/)|
 |20|[Valid Parentheses](./Easy/0020-Valid%20Parentheses#20-valid-parentheses)|[Solution](./Easy/0020-Valid%20Parentheses#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/valid-parentheses/)|
 |150|[Evaluate Reverse Polish Notation](./Medium/0150-Evaluate Reverse Polish Notation#150-evaluate-reverse-polish-notation)|[Solution](./Medium/0150-Evaluate Reverse Polish Notation#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
+|94|[Binary Tree Inorder Traversal](./Medium/0094-Binary Tree Inorder Traversal#94-binary-tree-inorder-traversal)|[Solution](./Medium/0094-Binary Tree Inorder Traversal#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
 
 # Problems
 |#|Title|Solutions|Difficulty|LeetCode|
@@ -19,6 +20,7 @@
 |21|[Merge Two Sorted Lists](./Easy/0021-Merge%20Two%20Sorted%20Lists#21-merge-two-sorted-lists)|[Solution](./Easy/0021-Merge%20Two%20Sorted%20Lists#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/merge-two-sorted-lists/)|
 |69|[Sqrt(x)](./Easy/0069-Sqrt\(x\)#69-Sqrt(x))|[Solution](./Easy/0069-Sqrt\(x\)#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/sqrtx/)|
 |75|[Sort Colors](./Medium/0075-Sort%20Colors#75-sort-colors)|[Solution](./Medium/0075-Sort%20Colors#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/sort-colors/)|
+|94|[Binary Tree Inorder Traversal](./Medium/0094-Binary Tree Inorder Traversal#94-binary-tree-inorder-traversal)|[Solution](./Medium/0094-Binary Tree Inorder Traversal#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
 |100|[Same Tree](./Easy/0100-Same%20Tree#100-same-tree)|[Solution](./Easy/0100-Same%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/same-tree/)|
 |101|[Symmetric Tree](./Easy/0101-Symmetric%20Tree#101-symmetric-tree)|[Solution](./Easy/0101-Symmetric%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/symmetric-tree/)|
 |104|[Maximum Depth of Binary Tree](./Easy/0104-Maximum%20Depth%20of%20Binary%20Tree#104-maximum-depth-of-binary-tree)|[Solution](./Easy/0104-Maximum%20Depth%20of%20Binary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
