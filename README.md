@@ -8,6 +8,7 @@
 |20|[Valid Parentheses](./Easy/0020-Valid%20Parentheses#20-valid-parentheses)|[Solution](./Easy/0020-Valid%20Parentheses#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/valid-parentheses/)|
 |150|[Evaluate Reverse Polish Notation](./Medium/0150-Evaluate Reverse Polish Notation#150-evaluate-reverse-polish-notation)|[Solution](./Medium/0150-Evaluate Reverse Polish Notation#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
 |94|[Binary Tree Inorder Traversal](./Medium/0094-Binary Tree Inorder Traversal#94-binary-tree-inorder-traversal)|[Solution](./Medium/0094-Binary Tree Inorder Traversal#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
+|232|[Implement Queue using Stacks](./Easy/0232-Implement%20Queue%20using%20Stacks#232-implement-queue-using-stacks)|[Solution](./Easy/0232-Implement%20Queue%20using%20Stacks#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/implement-queue-using-stacks/)|
 
 # Problems
 |#|Title|Solutions|Difficulty|LeetCode|
@@ -33,6 +34,7 @@
 |201|[Bitwise AND of Numbers Range](./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range#201-bitwise-and-of-numbers-range)|[Solution](./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|
 |226|[Invert Binary Tree](./Easy/0226-Invert%20Binary%20Tree#226-invert-binary-tree)|[Solution](./Easy/0226-Invert%20Binary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/invert-binary-tree/)|
 |231|[Power of Two](./Easy/0231-Power%20of%20Two#231-power-of-two)|[Solution](./Easy/0231-Power%20of%20Two#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/power-of-two/)|
+|232|[Implement Queue using Stacks](./Easy/0232-Implement%20Queue%20using%20Stacks#232-implement-queue-using-stacks)|[Solution](./Easy/0232-Implement%20Queue%20using%20Stacks#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/implement-queue-using-stacks/)|
 |263|[Ugly Number](./Easy/0263-Ugly%20Number#263-ugly-number)|[Solution](./Easy/0263-Ugly%20Number#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/ugly-number/)|
 |292|[Nim Game](./Easy/0292-Nim%20Game#292-nim-game)|[Solution](./Easy/0292-Nim%20Game#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/nim-game/)|
 |338|[Counting Bits](./Medium/0338-Counting%20Bits#338-counting-bits)|[Solution](./Medium/0338-Counting%20Bits#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/counting-bits/)|
