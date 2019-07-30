@@ -1,15 +1,52 @@
 # Explore
 ## Introduction to Data Structure
+### Array and String
+|#|Title|Solutions|Difficulty|LeetCode|
+|-|-|-|-|-|
+|283|Move Zeroes|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/move-zeroes/)|
+|724|Find Pivot Index|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/find-pivot-index/)|
+|747|Largest Number At Least Twice of Others|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|
+|66|Plus One|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/plus-one/)|
+|498|Diagonal Traverse|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/diagonal-traverse/)|
+|54|Spiral Matrix|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/spiral-matrix/)|
+|118|[Pascal's Triangle](./Easy/0118-Pascal's%20Triangle#118-pascal's-triangle)|[Solution](./Easy/0118-Pascal's%20Triangle#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/pascals-triangle/)|
+|67|Add Binary|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/add-binary/)|
+|28|Implement strStr()|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/implement-strstr/)|
+|14|[Longest Common Prefix](./Easy/0014-Longest%20Common%20Prefix#14-longest-common-prefix)|[Solution](./Easy/0014-Longest%20Common%20Prefix#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/longest-common-prefix/)|
+|344|[Reverse String](./Easy/0344-Reverse%20String#344-reverse-string)|[Solution](./Easy/0344-Reverse%20String#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/reverse-string/)|
+|561|Array Partition I|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/array-partition-i/)|
+|167|Two Sum II - Input array is sorted|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|
+|27|Remove Element|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/remove-element/)|
+|485|Max Consecutive Ones|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/max-consecutive-ones/)|
+|209|Minimum Size Subarray Sum|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/minimum-size-subarray-sum/)|
+|189|Rotate Array|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/rotate-array/)|
+|119|[Pascal's Triangle II](./Easy/0119-Pascal's%20Triangle%20II#119-pascal's-triangle-ii)|[Solution](./Easy/0119-Pascal's%20Triangle%20II#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/pascals-triangle-ii/)|
+|151|Reverse Words in a String|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/reverse-words-in-a-string/)|
+|557|Reverse Words in a String III|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|
+|26|Remove Duplicates from Sorted Array|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
+|283|Move Zeroes|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/move-zeroes/)|
+
 ### Queue & Stack
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
 |622|[Design Circular Queue](./Medium/0622-Design%20Circular%20Queue#622-design-circular-queue)|[Solution](./Medium/0622-Design%20Circular%20Queue#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/design-circular-queue/)|
+|200|Number of Islands|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/number-of-islands/)|
+|752|Open the Lock|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/open-the-lock/)|
+|279|Perfect Squares|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/perfect-squares/)|
 |155|[Min Stack](./Easy/0155-Min%20Stack#155-min-stack)|[Solution](./Easy/0155-Min%20Stack#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/min-stack/)|
 |20|[Valid Parentheses](./Easy/0020-Valid%20Parentheses#20-valid-parentheses)|[Solution](./Easy/0020-Valid%20Parentheses#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/valid-parentheses/)|
+|739|Daily Temperatures|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/daily-temperatures/)|
 |150|[Evaluate Reverse Polish Notation](./Medium/0150-Evaluate%20Reverse%20Polish%20Notation#150-evaluate-reverse-polish-notation)|[Solution](./Medium/0150-Evaluate%20Reverse%20Polish%20Notation#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
+|133|Clone Graph|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/clone-graph/)|
+|494|Target Sum|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/target-sum/)|
 |94|[Binary Tree Inorder Traversal](./Medium/0094-Binary%20Tree%20Inorder%20Traversal#94-binary-tree-inorder-traversal)|[Solution](./Medium/0094-Binary%20Tree%20Inorder%20Traversal#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
 |232|[Implement Queue using Stacks](./Easy/0232-Implement%20Queue%20using%20Stacks#232-implement-queue-using-stacks)|[Solution](./Easy/0232-Implement%20Queue%20using%20Stacks#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/implement-queue-using-stacks/)|
 |225|[Implement Stack using Queues](./Easy/0225-Implement%20Stack%20using%20Queues#225-implement-stack-using-queues)|[Solution](./Easy/0225-Implement%20Stack%20using%20Queues#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/implement-stack-using-queues/)|
+|394|Decode String|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/decode-string/)|
+|733|Flood Fill|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/flood-fill/)|
+|542|01 Matrix|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/01-matrix/)|
+|841|Keys and Rooms|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/keys-and-rooms/)|
+
 
 # Problems
 |#|Title|Solutions|Difficulty|LeetCode|
@@ -52,7 +89,7 @@
 |654|[Maximum Binary Tree](./Medium/0654-Maximum%20Binary%20Tree#654-maximum-binary-tree)|[Solution](./Medium/0654-Maximum%20Binary%20Tree#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/maximum-binary-tree/)|
 |657|[Robot Return to Origin](./Easy/0657-Robot%20Return%20to%20Origin#657-robot-return-to-origin)|[Solution](./Easy/0657-Robot%20Return%20to%20Origin#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/robot-return-to-origin/)|
 |704|[Binary Search](./Easy/0704-Binary%20Search#704-binary-search)|[Solution](./Easy/0704-Binary%20Search#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/binary-search/)|
-|709|[709. To Lower Case](./Easy/0709-To%20Lower%20Case#709-to-lower-case)|[Solution](./Easy/0709-To%20Lower%20Case#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/to-lower-case/)|
+|709|[To Lower Case](./Easy/0709-To%20Lower%20Case#709-to-lower-case)|[Solution](./Easy/0709-To%20Lower%20Case#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/to-lower-case/)|
 |728|[Self Dividing Numbers](./Easy/0728-Self%20Dividing%20Numbers#728-self-dividing-numbers)|[Solution](./Easy/0728-Self%20Dividing%20Numbers#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/self-dividing-numbers/)|
 |754|[Reach a Number](./Easy/0754-Reach%20a%20Number#754-reach-a-number)|[Solution](./Easy/0754-Reach%20a%20Number#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/reach-a-number/)|
 |771|[Jewels and Stones](./Easy/0771-Jewels%20and%20Stones#771-jewels-and-stones)|[Solution](./Easy/0771-Jewels%20and%20Stones#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/jewels-and-stones/)|
