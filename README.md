@@ -9,6 +9,7 @@
 |150|[Evaluate Reverse Polish Notation](./Medium/0150-Evaluate Reverse Polish Notation#150-evaluate-reverse-polish-notation)|[Solution](./Medium/0150-Evaluate Reverse Polish Notation#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
 |94|[Binary Tree Inorder Traversal](./Medium/0094-Binary Tree Inorder Traversal#94-binary-tree-inorder-traversal)|[Solution](./Medium/0094-Binary Tree Inorder Traversal#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
 |232|[Implement Queue using Stacks](./Easy/0232-Implement%20Queue%20using%20Stacks#232-implement-queue-using-stacks)|[Solution](./Easy/0232-Implement%20Queue%20using%20Stacks#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/implement-queue-using-stacks/)|
+|225|[Implement Stack using Queues](./Easy/0225-Implement%20Stack%20using%20Queues#225-implement-stack-using-queues)|[Solution](./Easy/0225-Implement%20Stack%20using%20Queues#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/implement-stack-using-queues/)|
 
 # Problems
 |#|Title|Solutions|Difficulty|LeetCode|
@@ -32,6 +33,7 @@
 |155|[Min Stack](./Easy/0155-Min%20Stack#155-min-stack)|[Solution](./Easy/0155-Min%20Stack#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/min-stack/)|
 |191|[Number of 1 Bits](./Easy/0191-Number%20of%201%20Bits#191-number-of-1-bits)|[Solution](./Easy/0191-Number%20of%201%20Bits#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/number-of-1-bits/)|
 |201|[Bitwise AND of Numbers Range](./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range#201-bitwise-and-of-numbers-range)|[Solution](./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|
+|225|[Implement Stack using Queues](./Easy/0225-Implement%20Stack%20using%20Queues#225-implement-stack-using-queues)|[Solution](./Easy/0225-Implement%20Stack%20using%20Queues#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/implement-stack-using-queues/)|
 |226|[Invert Binary Tree](./Easy/0226-Invert%20Binary%20Tree#226-invert-binary-tree)|[Solution](./Easy/0226-Invert%20Binary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/invert-binary-tree/)|
 |231|[Power of Two](./Easy/0231-Power%20of%20Two#231-power-of-two)|[Solution](./Easy/0231-Power%20of%20Two#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/power-of-two/)|
 |232|[Implement Queue using Stacks](./Easy/0232-Implement%20Queue%20using%20Stacks#232-implement-queue-using-stacks)|[Solution](./Easy/0232-Implement%20Queue%20using%20Stacks#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/implement-queue-using-stacks/)|
