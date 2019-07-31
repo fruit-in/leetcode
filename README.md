@@ -64,6 +64,29 @@
 |542|01 Matrix|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/01-matrix/)|
 |841|Keys and Rooms|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/keys-and-rooms/)|
 
+### Hash Table
+|#|Title|Solutions|Difficulty|LeetCode|
+|-|-|-|-|-|
+|705|Design HashSet|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/design-hashset)|
+|706|Design HashMap|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/design-hashmap)|
+|217|Contains Duplicate|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/contains-duplicate)|
+|136|Single Number|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/single-number)|
+|349|Intersection of Two Arrays|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/intersection-of-two-arrays)|
+|202|Happy Number|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/happy-number)|
+|1|[Two Sum](./Easy/0001-Two%20Sum#1-two-sum)|[Solution](./Easy/0001-Two%20Sum#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/two-sum/)|
+|205|Isomorphic Strings|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/isomorphic-strings)|
+|599|Minimum Index Sum of Two Lists|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/minimum-index-sum-of-two-lists)|
+|387|First Unique Character in a String|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/first-unique-character-in-a-string)|
+|350|Intersection of Two Arrays II|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/intersection-of-two-arrays-ii)|
+|219|Contains Duplicate II|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/contains-duplicate-ii)|
+|49|Group Anagrams|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/group-anagrams)|
+|36|Valid Sudoku|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/valid-sudoku)|
+|652|Find Duplicate Subtrees|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/find-duplicate-subtrees)|
+|771|[Jewels and Stones](./Easy/0771-Jewels%20and%20Stones#771-jewels-and-stones)|[Solution](./Easy/0771-Jewels%20and%20Stones#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/jewels-and-stones/)|
+|3|Longest Substring Without Repeating Characters|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/longest-substring-without-repeating-characters)|
+|454|4Sum II|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/4sum-ii)|
+|347|Top K Frequent Elements|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/top-k-frequent-elements)|
+|380|Insert Delete GetRandom O(1)|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/insert-delete-getrandom-o1)|
 
 # Problems
 |#|Title|Solutions|Difficulty|LeetCode|
