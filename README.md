@@ -97,7 +97,7 @@
 |102|Binary Tree Level Order Traversal|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-level-order-traversal)|
 |104|[Maximum Depth of Binary Tree](./Easy/0104-Maximum%20Depth%20of%20Binary%20Tree#104-maximum-depth-of-binary-tree)|[Solution](./Easy/0104-Maximum%20Depth%20of%20Binary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
 |101|[Symmetric Tree](./Easy/0101-Symmetric%20Tree#101-symmetric-tree)|[Solution](./Easy/0101-Symmetric%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/symmetric-tree/)|
-|112|Path Sum|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/path-sum)|
+|112|Path Sum|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/path-sum/)|
 |106|Construct Binary Tree from Inorder and Postorder Traversal|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|
 |105|Construct Binary Tree from Preorder and Inorder Traversal|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|
 |116|Populating Next Right Pointers in Each Node|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|
@@ -116,8 +116,16 @@
 |703|Kth Largest Element in a Stream|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|
 |235|Lowest Common Ancestor of a Binary Search Tree|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|
 |220|Contains Duplicate III|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/contains-duplicate-iii/)|
-|110|Balanced Binary Tree|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/balanced-binary-tree)|
+|110|Balanced Binary Tree|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/balanced-binary-tree/)|
 |108|Convert Sorted Array to Binary Search Tree|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|
+
+### N-ary Tree
+|#|Title|Solutions|Difficulty|LeetCode|
+|-|-|-|-|-|
+|589|N-ary Tree Preorder Traversal|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/n-ary-tree-preorder-traversal)|
+|590|N-ary Tree Postorder Traversal|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/n-ary-tree-postorder-traversal)|
+|429|N-ary Tree Level Order Traversal|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|
+|559|[Maximum Depth of N-ary Tree](./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#559-maximum-depth-of-n-ary-tree)|[Solution](./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|
 
 
 # Problems
