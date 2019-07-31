@@ -1,6 +1,6 @@
 # Explore
 ## Introduction to Data Structure
-### Array and String> {{{
+### Array and String
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
 |283|Move Zeroes|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/move-zeroes/)|
@@ -25,8 +25,8 @@
 |557|Reverse Words in a String III|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|
 |26|Remove Duplicates from Sorted Array|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
 |283|Move Zeroes|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/move-zeroes/)|
-> }}}
-### Linked List> {{{
+
+### Linked List
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
 |707|Design Linked List|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/design-linked-list)|
@@ -42,8 +42,8 @@
 |430|Flatten a Multilevel Doubly Linked List|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|
 |138|Copy List with Random Pointer|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/copy-list-with-random-pointer/)|
 |61|Rotate List|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/rotate-list)|
-> }}}
-### Queue & Stack> {{{
+
+### Queue & Stack
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
 |622|[Design Circular Queue](./Medium/0622-Design%20Circular%20Queue#622-design-circular-queue)|[Solution](./Medium/0622-Design%20Circular%20Queue#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/design-circular-queue/)|
@@ -63,8 +63,8 @@
 |733|Flood Fill|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/flood-fill/)|
 |542|01 Matrix|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/01-matrix/)|
 |841|Keys and Rooms|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/keys-and-rooms/)|
-> }}}
-### Hash Table> {{{
+
+### Hash Table
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
 |705|Design HashSet|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/design-hashset)|
@@ -87,8 +87,8 @@
 |454|4Sum II|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/4sum-ii)|
 |347|Top K Frequent Elements|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/top-k-frequent-elements)|
 |380|Insert Delete GetRandom O(1)|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/insert-delete-getrandom-o1)|
-> }}}
-### Binary Tree> {{{
+
+### Binary Tree
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
 |144|Binary Tree Preorder Traversal|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-preorder-traversal)|
@@ -104,9 +104,23 @@
 |117|Populating Next Right Pointers in Each Node II|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|
 |236|Lowest Common Ancestor of a Binary Tree|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|
 |297|Serialize and Deserialize Binary Tree|Solution|[Hard](./Hard)|[Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)|
-> }}}
 
-# Problems> {{{
+### Binary Search Tree
+|#|Title|Solutions|Difficulty|LeetCode|
+|-|-|-|-|-|
+|98|Validate Binary Search Tree|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/validate-binary-search-tree/)|
+|173|Binary Search Tree Iterator|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-search-tree-iterator/)|
+|700|[Search in a Binary Search Tree](./Easy/0700-Search%20in%20a%20Binary%20Search%20Tree#700-search-in-a-binary-search-tree)|[Solution](./Easy/0700-Search%20in%20a%20Binary%20Search%20Tree#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/search-in-a-binary-search-tree/)|
+|701|Insert into a Binary Search Tree|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|
+|450|Delete Node in a BST|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/delete-node-in-a-bst/)|
+|703|Kth Largest Element in a Stream|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|
+|235|Lowest Common Ancestor of a Binary Search Tree|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|
+|220|Contains Duplicate III|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/contains-duplicate-iii/)|
+|110|Balanced Binary Tree|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/balanced-binary-tree)|
+|108|Convert Sorted Array to Binary Search Tree|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|
+
+
+# Problems
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
 |1|[Two Sum](./Easy/0001-Two%20Sum#1-two-sum)|[Solution](./Easy/0001-Two%20Sum#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/two-sum/)|
@@ -146,6 +160,7 @@
 |622|[Design Circular Queue](./Medium/0622-Design%20Circular%20Queue#622-design-circular-queue)|[Solution](./Medium/0622-Design%20Circular%20Queue#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/design-circular-queue/)|
 |654|[Maximum Binary Tree](./Medium/0654-Maximum%20Binary%20Tree#654-maximum-binary-tree)|[Solution](./Medium/0654-Maximum%20Binary%20Tree#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/maximum-binary-tree/)|
 |657|[Robot Return to Origin](./Easy/0657-Robot%20Return%20to%20Origin#657-robot-return-to-origin)|[Solution](./Easy/0657-Robot%20Return%20to%20Origin#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/robot-return-to-origin/)|
+|700|[Search in a Binary Search Tree](./Easy/0700-Search%20in%20a%20Binary%20Search%20Tree#700-search-in-a-binary-search-tree)|[Solution](./Easy/0700-Search%20in%20a%20Binary%20Search%20Tree#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/search-in-a-binary-search-tree/)|
 |704|[Binary Search](./Easy/0704-Binary%20Search#704-binary-search)|[Solution](./Easy/0704-Binary%20Search#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/binary-search/)|
 |709|[To Lower Case](./Easy/0709-To%20Lower%20Case#709-to-lower-case)|[Solution](./Easy/0709-To%20Lower%20Case#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/to-lower-case/)|
 |724|[Find Pivot Index](./Easy/0724-Find%20Pivot%20Index#724-find-pivot-index)|[Solution](./Easy/0724-Find%20Pivot%20Index#solution)|[Easy](./Easy)|[Link](https://leetcode.com/problems/find-pivot-index/)|
@@ -182,4 +197,4 @@
 |1046|[Last Stone Weight](./Easy/1046-Last%20Stone%20Weight#1046-last-stone-weight)|[Solution](./Easy/1046-Last%20Stone%20Weight#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/last-stone-weight/)|
 |1051|[Height Checker](./Easy/1051-Height%20Checker#1051-height-checker)|[Solution](./Easy/1051-Height%20Checker#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/height-checker/)|
 |1071|[Greatest Common Divisor of Strings](./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings#1071-greatest-common-divisor-of-strings)|[Solution](./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|
-|1108|[Defanging an IP Address](./Easy/1108-Defanging%20an%20IP%20Address#1108-defanging-an-ip-address)|[Solution](./Easy/1108-Defanging%20an%20IP%20Address#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/defanging-an-ip-address/)|> }}}
+|1108|[Defanging an IP Address](./Easy/1108-Defanging%20an%20IP%20Address#1108-defanging-an-ip-address)|[Solution](./Easy/1108-Defanging%20an%20IP%20Address#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/defanging-an-ip-address/)|
