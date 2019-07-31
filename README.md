@@ -122,10 +122,21 @@
 ### N-ary Tree
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
-|589|N-ary Tree Preorder Traversal|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/n-ary-tree-preorder-traversal)|
-|590|N-ary Tree Postorder Traversal|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/n-ary-tree-postorder-traversal)|
-|429|N-ary Tree Level Order Traversal|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|
+|589|N-ary Tree Preorder Traversal|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|
+|590|N-ary Tree Postorder Traversal|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|
+|429|N-ary Tree Level Order Traversal|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|
 |559|[Maximum Depth of N-ary Tree](./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#559-maximum-depth-of-n-ary-tree)|[Solution](./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|
+
+### Trie
+|#|Title|Solutions|Difficulty|LeetCode|
+|-|-|-|-|-|
+|208|Implement Trie (Prefix Tree)|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/implement-trie-prefix-tree)|
+|677|Map Sum Pairs|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/map-sum-pairs)|
+|648|Replace Words|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/replace-words)|
+|211|Add and Search Word - Data structure design|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/add-and-search-word-data-structure-design)|
+|421|Maximum XOR of Two Numbers in an Array|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)|
+|212|Word Search II|Solution|[Hard](./Hard)|[Link](https://leetcode.com/problems/word-search-ii)|
+|336|Palindrome Pairs|Solution|[Hard](./Hard)|[Link](https://leetcode.com/problems/palindrome-pairs)|
 
 
 # Problems
