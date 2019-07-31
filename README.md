@@ -1,6 +1,6 @@
 # Explore
 ## Introduction to Data Structure
-### Array and String
+### Array and String> {{{
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
 |283|Move Zeroes|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/move-zeroes/)|
@@ -25,8 +25,8 @@
 |557|Reverse Words in a String III|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|
 |26|Remove Duplicates from Sorted Array|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
 |283|Move Zeroes|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/move-zeroes/)|
-
-### Linked List
+> }}}
+### Linked List> {{{
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
 |707|Design Linked List|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/design-linked-list)|
@@ -42,8 +42,8 @@
 |430|Flatten a Multilevel Doubly Linked List|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|
 |138|Copy List with Random Pointer|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/copy-list-with-random-pointer/)|
 |61|Rotate List|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/rotate-list)|
-
-### Queue & Stack
+> }}}
+### Queue & Stack> {{{
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
 |622|[Design Circular Queue](./Medium/0622-Design%20Circular%20Queue#622-design-circular-queue)|[Solution](./Medium/0622-Design%20Circular%20Queue#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/design-circular-queue/)|
@@ -63,8 +63,8 @@
 |733|Flood Fill|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/flood-fill/)|
 |542|01 Matrix|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/01-matrix/)|
 |841|Keys and Rooms|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/keys-and-rooms/)|
-
-### Hash Table
+> }}}
+### Hash Table> {{{
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
 |705|Design HashSet|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/design-hashset)|
@@ -87,8 +87,26 @@
 |454|4Sum II|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/4sum-ii)|
 |347|Top K Frequent Elements|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/top-k-frequent-elements)|
 |380|Insert Delete GetRandom O(1)|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/insert-delete-getrandom-o1)|
+> }}}
+### Binary Tree> {{{
+|#|Title|Solutions|Difficulty|LeetCode|
+|-|-|-|-|-|
+|144|Binary Tree Preorder Traversal|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-preorder-traversal)|
+|94|[Binary Tree Inorder Traversal](./Medium/0094-Binary%20Tree%20Inorder%20Traversal#94-binary-tree-inorder-traversal)|[Solution](./Medium/0094-Binary%20Tree%20Inorder%20Traversal#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
+|145|Binary Tree Postorder Traversal|Solution|[Hard](./Hard)|[Link](https://leetcode.com/problems/binary-tree-postorder-traversal)|
+|102|Binary Tree Level Order Traversal|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-level-order-traversal)|
+|104|[Maximum Depth of Binary Tree](./Easy/0104-Maximum%20Depth%20of%20Binary%20Tree#104-maximum-depth-of-binary-tree)|[Solution](./Easy/0104-Maximum%20Depth%20of%20Binary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
+|101|[Symmetric Tree](./Easy/0101-Symmetric%20Tree#101-symmetric-tree)|[Solution](./Easy/0101-Symmetric%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/symmetric-tree/)|
+|112|Path Sum|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/path-sum)|
+|106|Construct Binary Tree from Inorder and Postorder Traversal|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|
+|105|Construct Binary Tree from Preorder and Inorder Traversal|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|
+|116|Populating Next Right Pointers in Each Node|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|
+|117|Populating Next Right Pointers in Each Node II|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|
+|236|Lowest Common Ancestor of a Binary Tree|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|
+|297|Serialize and Deserialize Binary Tree|Solution|[Hard](./Hard)|[Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)|
+> }}}
 
-# Problems
+# Problems> {{{
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
 |1|[Two Sum](./Easy/0001-Two%20Sum#1-two-sum)|[Solution](./Easy/0001-Two%20Sum#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/two-sum/)|
@@ -164,4 +182,4 @@
 |1046|[Last Stone Weight](./Easy/1046-Last%20Stone%20Weight#1046-last-stone-weight)|[Solution](./Easy/1046-Last%20Stone%20Weight#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/last-stone-weight/)|
 |1051|[Height Checker](./Easy/1051-Height%20Checker#1051-height-checker)|[Solution](./Easy/1051-Height%20Checker#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/height-checker/)|
 |1071|[Greatest Common Divisor of Strings](./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings#1071-greatest-common-divisor-of-strings)|[Solution](./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|
-|1108|[Defanging an IP Address](./Easy/1108-Defanging%20an%20IP%20Address#1108-defanging-an-ip-address)|[Solution](./Easy/1108-Defanging%20an%20IP%20Address#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/defanging-an-ip-address/)|
+|1108|[Defanging an IP Address](./Easy/1108-Defanging%20an%20IP%20Address#1108-defanging-an-ip-address)|[Solution](./Easy/1108-Defanging%20an%20IP%20Address#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/defanging-an-ip-address/)|> }}}
