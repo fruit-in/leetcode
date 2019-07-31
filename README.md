@@ -6,7 +6,7 @@
 |283|Move Zeroes|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/move-zeroes/)|
 |724|[Find Pivot Index](./Easy/0724-Find%20Pivot%20Index#724-find-pivot-index)|[Solution](./Easy/0724-Find%20Pivot%20Index#solution)|[Easy](./Easy)|[Link](https://leetcode.com/problems/find-pivot-index/)|
 |747|[Largest Number At Least Twice of Others](./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others#747-largest-number-at-least-twice-of-others)|[Solution](./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others#solution)|[Easy](./Easy)|[Link](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|
-|66|Plus One|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/plus-one/)|
+|66|[Plus One](./Easy/0066-Plus%20One#66-plus-one)|[Solution](./Easy/0066-Plus%20One#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/plus-one/)|
 |498|Diagonal Traverse|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/diagonal-traverse/)|
 |54|Spiral Matrix|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/spiral-matrix/)|
 |118|[Pascal's Triangle](./Easy/0118-Pascal's%20Triangle#118-pascal's-triangle)|[Solution](./Easy/0118-Pascal's%20Triangle#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/pascals-triangle/)|
@@ -148,6 +148,7 @@
 |14|[Longest Common Prefix](./Easy/0014-Longest%20Common%20Prefix#14-longest-common-prefix)|[Solution](./Easy/0014-Longest%20Common%20Prefix#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/longest-common-prefix/)|
 |20|[Valid Parentheses](./Easy/0020-Valid%20Parentheses#20-valid-parentheses)|[Solution](./Easy/0020-Valid%20Parentheses#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/valid-parentheses/)|
 |21|[Merge Two Sorted Lists](./Easy/0021-Merge%20Two%20Sorted%20Lists#21-merge-two-sorted-lists)|[Solution](./Easy/0021-Merge%20Two%20Sorted%20Lists#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/merge-two-sorted-lists/)|
+|66|[Plus One](./Easy/0066-Plus%20One#66-plus-one)|[Solution](./Easy/0066-Plus%20One#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/plus-one/)|
 |69|[Sqrt(x)](./Easy/0069-Sqrt\(x\)#69-Sqrt(x))|[Solution](./Easy/0069-Sqrt\(x\)#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/sqrtx/)|
 |75|[Sort Colors](./Medium/0075-Sort%20Colors#75-sort-colors)|[Solution](./Medium/0075-Sort%20Colors#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/sort-colors/)|
 |94|[Binary Tree Inorder Traversal](./Medium/0094-Binary%20Tree%20Inorder%20Traversal#94-binary-tree-inorder-traversal)|[Solution](./Medium/0094-Binary%20Tree%20Inorder%20Traversal#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
