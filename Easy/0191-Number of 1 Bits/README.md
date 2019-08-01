@@ -31,21 +31,30 @@ If this function is called many times, how would you optimize it?
 
 ## Solutions
 
-### 1. Check Every Bits (C)
-```C
-int hammingWeight(uint32_t n){
-    return n ? hammingWeight(n >> 1) + (n & 1) : 0;
+### 1. Check Every Bits (Rust)
+```Rust
+impl Solution {
+    pub fn hamming_weight(n: u32) -> i32 {
+        if n == 0 {
+            0
+        } else {
+            Self::hamming_weight(n >> 1) + (n & 1)
+        }
+    }
 }
 ```
 
-### 2. n & (n - 1) (C)
-```C
-int hammingWeight(uint32_t n){
-    int ones = 0;
-    while(n != 0){
-        ones++;
-        n &= n - 1;
+### 2. n & (n - 1) (Rust)
+```Rust
+impl Solution {
+    pub fn hamming_weight(n: u32) -> i32 {
+        let mut ans = 0;
+        let mut n = n;
+        while n != 0 {
+            ans += 1;
+            n &= n - 1;
+        }
+        ans
     }
-    return ones;
 }
 ```
