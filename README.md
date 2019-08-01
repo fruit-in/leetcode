@@ -3,7 +3,6 @@
 ### Array and String
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
-|283|Move Zeroes|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/move-zeroes/)|
 |724|[Find Pivot Index](./Easy/0724-Find%20Pivot%20Index#724-find-pivot-index)|[Solution](./Easy/0724-Find%20Pivot%20Index#solution)|[Easy](./Easy)|[Link](https://leetcode.com/problems/find-pivot-index/)|
 |747|[Largest Number At Least Twice of Others](./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others#747-largest-number-at-least-twice-of-others)|[Solution](./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others#solution)|[Easy](./Easy)|[Link](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|
 |66|[Plus One](./Easy/0066-Plus%20One#66-plus-one)|[Solution](./Easy/0066-Plus%20One#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/plus-one/)|
@@ -24,7 +23,7 @@
 |151|Reverse Words in a String|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/reverse-words-in-a-string/)|
 |557|Reverse Words in a String III|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|
 |26|Remove Duplicates from Sorted Array|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
-|283|Move Zeroes|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/move-zeroes/)|
+|283|[Move Zeroes](./Easy/0283-Move%20Zeroes#283-move-zeroes)|[Solution](./Easy/0283-Move%20Zeroes#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/move-zeroes/)|
 
 ### Linked List
 |#|Title|Solutions|Difficulty|LeetCode|
@@ -168,6 +167,7 @@
 |231|[Power of Two](./Easy/0231-Power%20of%20Two#231-power-of-two)|[Solution](./Easy/0231-Power%20of%20Two#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/power-of-two/)|
 |232|[Implement Queue using Stacks](./Easy/0232-Implement%20Queue%20using%20Stacks#232-implement-queue-using-stacks)|[Solution](./Easy/0232-Implement%20Queue%20using%20Stacks#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/implement-queue-using-stacks/)|
 |263|[Ugly Number](./Easy/0263-Ugly%20Number#263-ugly-number)|[Solution](./Easy/0263-Ugly%20Number#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/ugly-number/)|
+|283|[Move Zeroes](./Easy/0283-Move%20Zeroes#283-move-zeroes)|[Solution](./Easy/0283-Move%20Zeroes#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/move-zeroes/)|
 |292|[Nim Game](./Easy/0292-Nim%20Game#292-nim-game)|[Solution](./Easy/0292-Nim%20Game#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/nim-game/)|
 |338|[Counting Bits](./Medium/0338-Counting%20Bits#338-counting-bits)|[Solution](./Medium/0338-Counting%20Bits#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/counting-bits/)|
 |344|[Reverse String](./Easy/0344-Reverse%20String#344-reverse-string)|[Solution](./Easy/0344-Reverse%20String#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/reverse-string/)|
