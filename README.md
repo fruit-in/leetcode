@@ -71,7 +71,7 @@
 |217|Contains Duplicate|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/contains-duplicate)|
 |136|Single Number|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/single-number)|
 |349|Intersection of Two Arrays|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/intersection-of-two-arrays)|
-|202|Happy Number|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/happy-number)|
+|202|[Happy Number](./Easy/0202-Happy%20Number#202-happy-number)|[Solution](./Easy/0202-Happy%20Number#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/happy-number/)|
 |1|[Two Sum](./Easy/0001-Two%20Sum#1-two-sum)|[Solution](./Easy/0001-Two%20Sum#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/two-sum/)|
 |205|Isomorphic Strings|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/isomorphic-strings)|
 |599|Minimum Index Sum of Two Lists|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/minimum-index-sum-of-two-lists)|
@@ -163,6 +163,7 @@
 |155|[Min Stack](./Easy/0155-Min%20Stack#155-min-stack)|[Solution](./Easy/0155-Min%20Stack#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/min-stack/)|
 |191|[Number of 1 Bits](./Easy/0191-Number%20of%201%20Bits#191-number-of-1-bits)|[Solution](./Easy/0191-Number%20of%201%20Bits#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/number-of-1-bits/)|
 |201|[Bitwise AND of Numbers Range](./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range#201-bitwise-and-of-numbers-range)|[Solution](./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|
+|202|[Happy Number](./Easy/0202-Happy%20Number#202-happy-number)|[Solution](./Easy/0202-Happy%20Number#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/happy-number/)|
 |225|[Implement Stack using Queues](./Easy/0225-Implement%20Stack%20using%20Queues#225-implement-stack-using-queues)|[Solution](./Easy/0225-Implement%20Stack%20using%20Queues#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/implement-stack-using-queues/)|
 |226|[Invert Binary Tree](./Easy/0226-Invert%20Binary%20Tree#226-invert-binary-tree)|[Solution](./Easy/0226-Invert%20Binary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/invert-binary-tree/)|
 |231|[Power of Two](./Easy/0231-Power%20of%20Two#231-power-of-two)|[Solution](./Easy/0231-Power%20of%20Two#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/power-of-two/)|
