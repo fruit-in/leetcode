@@ -16,7 +16,7 @@
 |344|[Reverse String](./Easy/0344-Reverse%20String#344-reverse-string)|[Solution](./Easy/0344-Reverse%20String#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/reverse-string/)|
 |561|Array Partition I|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/array-partition-i/)|
 |167|Two Sum II - Input array is sorted|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|
-|27|Remove Element|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/remove-element/)|
+|27|[Remove Element](./Easy/0027-Remove%20Element#27-remove-element)|[Solution](./Easy/0027-Remove%20Element#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/remove-element/)|
 |485|Max Consecutive Ones|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/max-consecutive-ones/)|
 |209|Minimum Size Subarray Sum|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/minimum-size-subarray-sum/)|
 |189|Rotate Array|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/rotate-array/)|
@@ -148,6 +148,7 @@
 |14|[Longest Common Prefix](./Easy/0014-Longest%20Common%20Prefix#14-longest-common-prefix)|[Solution](./Easy/0014-Longest%20Common%20Prefix#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/longest-common-prefix/)|
 |20|[Valid Parentheses](./Easy/0020-Valid%20Parentheses#20-valid-parentheses)|[Solution](./Easy/0020-Valid%20Parentheses#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/valid-parentheses/)|
 |21|[Merge Two Sorted Lists](./Easy/0021-Merge%20Two%20Sorted%20Lists#21-merge-two-sorted-lists)|[Solution](./Easy/0021-Merge%20Two%20Sorted%20Lists#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/merge-two-sorted-lists/)|
+|27|[Remove Element](./Easy/0027-Remove%20Element#27-remove-element)|[Solution](./Easy/0027-Remove%20Element#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/remove-element/)|
 |66|[Plus One](./Easy/0066-Plus%20One#66-plus-one)|[Solution](./Easy/0066-Plus%20One#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/plus-one/)|
 |69|[Sqrt(x)](./Easy/0069-Sqrt\(x\)#69-Sqrt(x))|[Solution](./Easy/0069-Sqrt\(x\)#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/sqrtx/)|
 |75|[Sort Colors](./Medium/0075-Sort%20Colors#75-sort-colors)|[Solution](./Medium/0075-Sort%20Colors#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/sort-colors/)|
