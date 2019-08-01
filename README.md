@@ -92,7 +92,7 @@
 |-|-|-|-|-|
 |144|Binary Tree Preorder Traversal|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-preorder-traversal)|
 |94|[Binary Tree Inorder Traversal](./Medium/0094-Binary%20Tree%20Inorder%20Traversal#94-binary-tree-inorder-traversal)|[Solution](./Medium/0094-Binary%20Tree%20Inorder%20Traversal#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
-|145|Binary Tree Postorder Traversal|Solution|[Hard](./Hard)|[Link](https://leetcode.com/problems/binary-tree-postorder-traversal)|
+|145|[Binary Tree Postorder Traversal](./Easy/0145-Binary%20Tree%20Postorder%20Traversal#145-binary-tree-postorder-traversal)|[Solution](./Easy/0145-Binary%20Tree%20Postorder%20Traversal#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/binary-tree-postorder-traversal/)|
 |102|Binary Tree Level Order Traversal|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-level-order-traversal)|
 |104|[Maximum Depth of Binary Tree](./Easy/0104-Maximum%20Depth%20of%20Binary%20Tree#104-maximum-depth-of-binary-tree)|[Solution](./Easy/0104-Maximum%20Depth%20of%20Binary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
 |101|[Symmetric Tree](./Easy/0101-Symmetric%20Tree#101-symmetric-tree)|[Solution](./Easy/0101-Symmetric%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/symmetric-tree/)|
@@ -158,6 +158,7 @@
 |111|[Minimum Depth of Binary Tree](./Easy/0111-Minimum%20Depth%20of%20Binary%20Tree#111-minimum-depth-of-binary-tree)|[Solution](./Easy/0111-Minimum%20Depth%20of%20Binary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|
 |118|[Pascal's Triangle](./Easy/0118-Pascal's%20Triangle#118-pascal's-triangle)|[Solution](./Easy/0118-Pascal's%20Triangle#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/pascals-triangle/)|
 |119|[Pascal's Triangle II](./Easy/0119-Pascal's%20Triangle%20II#119-pascal's-triangle-ii)|[Solution](./Easy/0119-Pascal's%20Triangle%20II#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/pascals-triangle-ii/)|
+|145|[Binary Tree Postorder Traversal](./Easy/0145-Binary%20Tree%20Postorder%20Traversal#145-binary-tree-postorder-traversal)|[Solution](./Easy/0145-Binary%20Tree%20Postorder%20Traversal#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/binary-tree-postorder-traversal/)|
 |150|[Evaluate Reverse Polish Notation](./Medium/0150-Evaluate%20Reverse%20Polish%20Notation#150-evaluate-reverse-polish-notation)|[Solution](./Medium/0150-Evaluate%20Reverse%20Polish%20Notation#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
 |155|[Min Stack](./Easy/0155-Min%20Stack#155-min-stack)|[Solution](./Easy/0155-Min%20Stack#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/min-stack/)|
 |191|[Number of 1 Bits](./Easy/0191-Number%20of%201%20Bits#191-number-of-1-bits)|[Solution](./Easy/0191-Number%20of%201%20Bits#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/number-of-1-bits/)|
