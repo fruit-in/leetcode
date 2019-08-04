@@ -16,7 +16,7 @@
 |561|Array Partition I|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/array-partition-i/)|
 |167|Two Sum II - Input array is sorted|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|
 |27|[Remove Element](./Easy/0027-Remove%20Element#27-remove-element)|[Solution](./Easy/0027-Remove%20Element#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/remove-element/)|
-|485|Max Consecutive Ones|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/max-consecutive-ones/)|
+|485|[Max Consecutive Ones](./Easy/0485-Max%20Consecutive%20Ones#485-max-consecutive-ones)|[Solution](./Easy/0485-Max%20Consecutive%20Ones#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/max-consecutive-ones/)|
 |209|Minimum Size Subarray Sum|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/minimum-size-subarray-sum/)|
 |189|Rotate Array|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/rotate-array/)|
 |119|[Pascal's Triangle II](./Easy/0119-Pascal's%20Triangle%20II#119-pascal's-triangle-ii)|[Solution](./Easy/0119-Pascal's%20Triangle%20II#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/pascals-triangle-ii/)|
@@ -176,6 +176,7 @@
 |409|[Longest Palindrome](./Easy/0409-Longest%20Palindrome#409-longest-palindrome)|[Solution](./Easy/0409-Longest%20Palindrome#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/longest-palindrome/)|
 |459|[Repeated Substring Pattern](./Easy/0459-Repeated%20Substring%20Pattern#459-repeated-substring-pattern)|[Solution](./Easy/0459-Repeated%20Substring%20Pattern#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/repeated-substring-pattern/)|
 |461|[Hamming Distance](./Easy/0461-Hamming%20Distance#461-hamming-distance)|[Solution](./Easy/0461-Hamming%20Distance#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/hamming-distance/)|
+|485|[Max Consecutive Ones](./Easy/0485-Max%20Consecutive%20Ones#485-max-consecutive-ones)|[Solution](./Easy/0485-Max%20Consecutive%20Ones#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/max-consecutive-ones/)|
 |500|[Keyboard Row](./Easy/0500-Keyboard%20Row#500-keyboard-row)|[Solution](./Easy/0500-Keyboard%20Row#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/keyboard-row/)|
 |509|[Fibonacci Number](./Easy/0509-Fibonacci%20Number#509-fibonacci-number)|[Solution](./Easy/0509-Fibonacci%20Number#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/fibonacci-number/)|
 |559|[Maximum Depth of N-ary Tree](./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#559-maximum-depth-of-n-ary-tree)|[Solution](./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|
