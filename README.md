@@ -79,7 +79,7 @@
 |350|Intersection of Two Arrays II|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/intersection-of-two-arrays-ii)|
 |219|Contains Duplicate II|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/contains-duplicate-ii)|
 |49|Group Anagrams|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/group-anagrams)|
-|36|Valid Sudoku|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/valid-sudoku)|
+|36|[Valid Sudoku](./Medium/0036-Valid%20Sudoku#36-valid-sudoku)|[Solution](./Medium/0036-Valid%20Sudoku#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/valid-sudoku/)|
 |652|Find Duplicate Subtrees|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/find-duplicate-subtrees)|
 |771|[Jewels and Stones](./Easy/0771-Jewels%20and%20Stones#771-jewels-and-stones)|[Solution](./Easy/0771-Jewels%20and%20Stones#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/jewels-and-stones/)|
 |3|Longest Substring Without Repeating Characters|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/longest-substring-without-repeating-characters)|
@@ -148,6 +148,7 @@
 |20|[Valid Parentheses](./Easy/0020-Valid%20Parentheses#20-valid-parentheses)|[Solution](./Easy/0020-Valid%20Parentheses#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/valid-parentheses/)|
 |21|[Merge Two Sorted Lists](./Easy/0021-Merge%20Two%20Sorted%20Lists#21-merge-two-sorted-lists)|[Solution](./Easy/0021-Merge%20Two%20Sorted%20Lists#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/merge-two-sorted-lists/)|
 |27|[Remove Element](./Easy/0027-Remove%20Element#27-remove-element)|[Solution](./Easy/0027-Remove%20Element#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/remove-element/)|
+|36|[Valid Sudoku](./Medium/0036-Valid%20Sudoku#36-valid-sudoku)|[Solution](./Medium/0036-Valid%20Sudoku#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/valid-sudoku/)|
 |66|[Plus One](./Easy/0066-Plus%20One#66-plus-one)|[Solution](./Easy/0066-Plus%20One#solutions)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/plus-one/)|
 |69|[Sqrt(x)](./Easy/0069-Sqrt\(x\)#69-Sqrt(x))|[Solution](./Easy/0069-Sqrt\(x\)#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/sqrtx/)|
 |75|[Sort Colors](./Medium/0075-Sort%20Colors#75-sort-colors)|[Solution](./Medium/0075-Sort%20Colors#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/sort-colors/)|
