@@ -22,7 +22,7 @@ Given an array that is definitely a mountain, return any <code>i</code> such tha
 2. <code>0 <= A[i] <= 10<sup>6</sup></code>
 3. A is a mountain, as defined above.
 
-## Solution (Rust)
+## Solutions (Rust)
 
 ### 1. Binary Search
 ```Rust
