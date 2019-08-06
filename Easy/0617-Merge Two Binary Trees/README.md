@@ -23,9 +23,9 @@ Merged tree:
 
 **Note:** The merging process must start from the root nodes of both trees.
 
-## Solutions
+## Solutions (Python)
 
-### 1. Recursion (Python3)
+### 1. Recursion
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:
@@ -45,7 +45,7 @@ class Solution:
         return t1
 ```
 
-### 2. Iteration (Python3)
+### 2. Iteration
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:

@@ -37,9 +37,9 @@ Note that an empty string is also considered valid.
 <strong>Output:</strong> true
 </pre>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Remove Valid Parentheses by Stack (Python3)
+### 1. Remove Valid Parentheses by Stack
 ```Python3
 class Solution:
     def isValid(self, s: str) -> bool:
@@ -55,7 +55,7 @@ class Solution:
         return not stack
 ```
 
-### 2. Remove Valid Parentheses from String (Python3)
+### 2. Remove Valid Parentheses from String
 ```Python3
 class Solution:
     def isValid(self, s: str) -> bool:

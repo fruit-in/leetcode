@@ -13,9 +13,9 @@ The maximum number of consecutive 1s is 3.
 * The input array will only contain <code>0</code> and <code>1</code>.
 * The length of input array is a positive integer and will not exceed 10,000
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Linear Scan (Rust)
+### 1. Linear Scan
 ```Rust
 impl Solution {
     pub fn find_max_consecutive_ones(nums: Vec<i32>) -> i32 {

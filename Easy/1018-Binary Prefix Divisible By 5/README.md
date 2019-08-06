@@ -34,9 +34,9 @@ Only the first number is divisible by 5, so answer[0] is true.
 1. <code>1 <= A.length <= 30000</code>
 2. <code>A[i]</code> is <code>0</code> or <code>1</code>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def prefixesDivBy5(self, A: List[int]) -> List[bool]:

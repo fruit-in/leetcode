@@ -25,9 +25,9 @@ palindrome.
 #### Follow up:
 Coud you solve it without converting the integer to a string?
 
-## Solutions
+## Solutions (Python)
 
-### 1. Two Points (Python3)
+### 1. Two Points
 ```Python3
 class Solution:
     def isPalindrome(self, x: int) -> bool:
@@ -49,7 +49,7 @@ class Solution:
         return True
 ```
 
-### 2. Revert Left Half (Python3)
+### 2. Revert Left Half
 ```Python3
 class Solution:
     def isPalindrome(self, x: int) -> bool:
@@ -71,7 +71,7 @@ class Solution:
         return rev == right
 ```
 
-### 3. Revert Right Half (Python3)
+### 3. Revert Right Half
 ```Python3
 class Solution:
     def isPalindrome(self, x: int) -> bool:

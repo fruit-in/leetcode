@@ -19,9 +19,9 @@ You may assume all the characters consist of printable ascii characters.
 
 #### Note:
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Two Pointers (Rust)
+### 1. Two Pointers
 ```Rust
 impl Solution {
     pub fn reverse_string(s: &mut Vec<char>) {

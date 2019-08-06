@@ -43,9 +43,9 @@ There aren't any consecutive pairs of 1's in the binary representation of 8, so 
 #### Note:
 * <code>1 <= N <= 10<sup>9</sup></code>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. One Pass (Rust)
+### 1. One Pass
 ```Rust
 impl Solution {
     pub fn binary_gap(n: i32) -> i32 {
@@ -68,7 +68,7 @@ impl Solution {
 }
 ```
 
-### 2. Store Indexes (Rust)
+### 2. Store Indexes
 ```Rust
 impl Solution {
     pub fn binary_gap(n: i32) -> i32 {

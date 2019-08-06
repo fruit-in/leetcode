@@ -29,9 +29,9 @@ The final answer should be in lexicographic order.
 
 **Note:** <code>1 <= S.length <= 1000</code>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Solution (Rust)
+### 1. Solution
 ```Rust
 impl Solution {
     pub fn large_group_positions(s: String) -> Vec<Vec<i32>> {

@@ -28,9 +28,9 @@ Ugly numbers are **positive numbers** whose prime factors only include <code>2, 
 1. <code>1</code> is typically treated as an ugly number.
 2. Input is within the 32-bit signed integer range: [−2<sup>31</sup>,  2<sup>31</sup> − 1].
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Solution (Rust)
+### 1. Solution
 ```Rust
 impl Solution {
     pub fn is_ugly(num: i32) -> bool {

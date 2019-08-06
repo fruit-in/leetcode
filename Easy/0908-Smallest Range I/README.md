@@ -31,9 +31,9 @@ Return the smallest possible difference between the maximum value of <code>B</co
 2. <code>0 <= A[i] <= 10000</code>
 3. <code>0 <= K <= 10000</code>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Mathematical (Rust)
+### 1. Mathematical
 ```Rust
 impl Solution {
     pub fn smallest_range_i(a: Vec<i32>, k: i32) -> i32 {

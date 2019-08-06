@@ -19,9 +19,9 @@ The transpose of a matrix is the matrix flipped over it's main diagonal, switchi
 1. <code>1 <= A.length <= 1000</code>
 2. <code>1 <= A[0].length <= 1000</code>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def transpose(self, A: List[List[int]]) -> List[List[int]]:

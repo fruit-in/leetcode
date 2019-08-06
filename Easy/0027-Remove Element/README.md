@@ -43,9 +43,9 @@ for (int i = 0; i < len; i++) {
 }
 </pre>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Two Pointers (Rust)
+### 1. Two Pointers
 ```Rust
 impl Solution {
     pub fn remove_element(nums: &mut Vec<i32>, val: i32) -> i32 {

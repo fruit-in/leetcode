@@ -19,9 +19,9 @@ Implement function ToLowerCase() that has a string parameter str, and returns th
 <strong>Output:</strong> "lovely"
 </pre>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Convert Every Chars (Rust)
+### 1. Convert Every Chars
 ```Rust
 impl Solution {
     pub fn to_lower_case(str: String) -> String {

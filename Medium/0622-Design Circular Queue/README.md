@@ -31,9 +31,9 @@ circularQueue.Rear();  // return 4
 * The number of operations will be in the range of [1, 1000].
 * Please do not use the built-in Queue library.
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Solution (Rust)
+### 1. Solution
 ```Rust
 struct MyCircularQueue {
     data: Vec<i32>,

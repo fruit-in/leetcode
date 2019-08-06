@@ -37,9 +37,9 @@ Given the array-form <code>A</code> of a non-negative integer <code>X</code>, re
 3. <code>0 <= K <= 10000</code>
 4. If <code>A.length > 1</code>, then <code>A[0] != 0</code>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def addToArrayForm(self, A: List[int], K: int) -> List[int]:

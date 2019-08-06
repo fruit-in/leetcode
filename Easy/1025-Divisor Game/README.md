@@ -26,9 +26,9 @@ Return <code>True</code> if and only if Alice wins the game, assuming both playe
 #### Note:
 1. <code>1 <= N <= 1000</code>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Solution (Rust)
+### 1. Solution
 ```Rust
 impl Solution {
     pub fn divisor_game(n: i32) -> bool {

@@ -13,11 +13,9 @@ Given a range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of 
 <strong>Output:</strong> 0
 </pre>
 
-#### Note:
+## Solutions (Rust)
 
-## Solutions
-
-### 1. Solution (Rust)
+### 1. Solution
 ```Rust
 impl Solution {
     pub fn range_bitwise_and(m: i32, n: i32) -> i32 {
@@ -30,7 +28,7 @@ impl Solution {
 }
 ```
 
-### 2. Solution (Rust)
+### 2. Solution
 ```Rust
 impl Solution {
     pub fn range_bitwise_and(m: i32, n: i32) -> i32 {
@@ -43,7 +41,7 @@ impl Solution {
 }
 ```
 
-### 3. Solution (Rust)
+### 3. Solution
 ```Rust
 impl Solution {
     pub fn range_bitwise_and(m: i32, n: i32) -> i32 {
@@ -56,7 +54,7 @@ impl Solution {
 }
 ```
 
-### 4. Solution (Rust)
+### 4. Solution
 ```Rust
 impl Solution {
     pub fn range_bitwise_and(m: i32, n: i32) -> i32 {

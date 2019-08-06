@@ -17,9 +17,9 @@ Given two integers <code>x</code> and <code>y</code>, calculate the Hamming dist
 The above arrows point to positions where the corresponding bits are different.
 </pre>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. XOR (Rust)
+### 1. XOR
 ```Rust
 impl Solution {
     pub fn hamming_distance(x: i32, y: i32) -> i32 {

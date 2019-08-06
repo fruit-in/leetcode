@@ -11,9 +11,9 @@ Given an array <code>nums</code>, write a function to move all <code>0</code>'s 
 1. You must do this **in-place** without making a copy of the array.
 2. Minimize the total number of operations.
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Two Pointers (Rust)
+### 1. Two Pointers
 ```Rust
 impl Solution {
     pub fn move_zeroes(nums: &mut Vec<i32>) {
@@ -31,7 +31,7 @@ impl Solution {
 }
 ```
 
-### 2. One Pointer (Rust)
+### 2. One Pointer
 ```Rust
 impl Solution {
     pub fn move_zeroes(nums: &mut Vec<i32>) {

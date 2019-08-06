@@ -36,9 +36,9 @@ If we chose D = {}, then a column ["b","a","h"] would not be in non-decreasing s
 1. <code>1 <= A.length <= 100</code>
 2. <code>1 <= A[i].length <= 1000</code>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def minDeletionSize(self, A: List[str]) -> int:

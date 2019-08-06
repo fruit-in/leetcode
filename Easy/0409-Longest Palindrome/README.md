@@ -14,9 +14,9 @@ Assume the length of given string will not exceed 1,010.
 One longest palindrome that can be built is "dccaccd", whose length is 7.
 </pre>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Greedy (Rust)
+### 1. Greedy
 ```Rust
 use std::collections::HashMap;
 

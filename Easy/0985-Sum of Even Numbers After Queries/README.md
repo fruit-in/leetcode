@@ -26,9 +26,9 @@ After adding 2 to A[3], the array is [-2,-1,3,6], and the sum of even values is 
 4. <code>-10000 <= queries[i][0] <= 10000</code>
 5. <code>0 <= queries[i][1] < A.length</code>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def sumEvenAfterQueries(self, A: List[int], queries: List[List[int]]) -> List[int]:

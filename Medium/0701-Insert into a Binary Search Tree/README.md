@@ -34,9 +34,9 @@ This tree is also valid:
           4
 </pre>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Recursion (Python3)
+### 1. Recursion
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:

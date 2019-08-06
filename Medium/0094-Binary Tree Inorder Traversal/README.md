@@ -15,9 +15,9 @@ Given a binary tree, return the *inorder* traversal of its nodes' values.
 
 <strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?
 
-## Solutions
+## Solutions (Python)
 
-### 1. Recursion (Python3)
+### 1. Recursion
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:
@@ -34,7 +34,7 @@ class Solution:
             [root.val] + self.inorderTraversal(root.right)
 ```
 
-### 2. Stack (Python3)
+### 2. Stack
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:

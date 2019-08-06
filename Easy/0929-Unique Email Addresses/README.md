@@ -28,9 +28,9 @@ Given a list of <code>emails</code>, we send one email to each address in the li
 * All local and domain names are non-empty.
 * Local names do not start with a <code>'+'</code> character.
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def numUniqueEmails(self, emails: List[str]) -> int:

@@ -17,9 +17,9 @@ You may return any answer array that satisfies this condition.
 2. <code>A.length % 2 == 0</code>
 3. <code>0 <= A[i] <= 1000</code>
 
-## Solutions
+## Solutions (Python)
 
-### 1. One Pass (Python3)
+### 1. One Pass
 ```Python3
 class Solution:
     def sortArrayByParityII(self, A: List[int]) -> List[int]:
@@ -35,7 +35,7 @@ class Solution:
         return result
 ```
 
-### 2. Two Points (Python3)
+### 2. Two Points
 ```Python3
 class Solution:
     def sortArrayByParityII(self, A: List[int]) -> List[int]:

@@ -28,9 +28,9 @@ Note that other answers, such as [3, 3], would also be accepted.
 1. <code>1 <= A.length <= 100</code>
 2. <code>A[i]</code> is a permutation of <code>[1, 2, ..., A.length]</code>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Move to the First Position, then Move to the Correct Position (Python3)
+### 1. Move to the First Position, then Move to the Correct Position
 ```Python3
 class Solution:
     def pancakeSort(self, A: List[int]) -> List[int]:

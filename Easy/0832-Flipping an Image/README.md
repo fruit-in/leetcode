@@ -27,9 +27,9 @@ Then invert the image: [[1,1,0,0],[0,1,1,0],[0,0,0,1],[1,0,1,0]]
 * <code>1 <= A.length = A[0].length <= 20</code>
 * <code>0 <= A[i][j] <= 1</code>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def flipAndInvertImage(self, A: List[List[int]]) -> List[List[int]]:

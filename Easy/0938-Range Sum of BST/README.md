@@ -19,9 +19,9 @@ The binary search tree is guaranteed to have unique values.
 1. The number of nodes in the tree is at most <code>10000</code>.
 2. The final answer is guaranteed to be less than <code>2<sup>31</sup></code>.
 
-## Solutions
+## Solutions (Python)
 
-### 1. DFS (Python3)
+### 1. DFS
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:

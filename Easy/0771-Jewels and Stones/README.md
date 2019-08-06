@@ -19,9 +19,9 @@ The letters in <code>J</code> are guaranteed distinct, and all characters in <co
 * <code>S</code> and <code>J</code> will consist of letters and have length at most 50.
 * The characters in <code>J</code> are distinct.
 
-## Solutions
+## Solutions (Rust)
 
-### 1. HashMap (Rust)
+### 1. HashMap
 ```Rust
 use std::collections::HashMap;
 

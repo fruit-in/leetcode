@@ -22,9 +22,9 @@ But the following <code>[1,2,2,null,3,null,3]</code> is not:
 #### Note:
 Bonus points if you could solve it both recursively and iteratively.
 
-## Solutions
+## Solutions (Python)
 
-### 1. Recursion (Python3)
+### 1. Recursion
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:
@@ -45,7 +45,7 @@ class Solution:
         return isMirror(root, root)
 ```
 
-### 2. Iteration (Python3)
+### 2. Iteration
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:

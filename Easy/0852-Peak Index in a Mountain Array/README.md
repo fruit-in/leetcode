@@ -22,18 +22,9 @@ Given an array that is definitely a mountain, return any <code>i</code> such tha
 2. <code>0 <= A[i] <= 10<sup>6</sup></code>
 3. A is a mountain, as defined above.
 
-## Solutions
+## Solution (Rust)
 
-### 1. Linear Scan (Python3)
-```Python3
-class Solution:
-    def peakIndexInMountainArray(self, A: List[int]) -> int:
-        for i in range(1, len(A) - 1):
-            if A[i] > A[i + 1]:
-                return i
-```
-
-### 2. Binary Search (Rust)
+### 1. Binary Search
 ```Rust
 impl Solution {
     pub fn peak_index_in_mountain_array(a: Vec<i32>) -> i32 {
@@ -52,4 +43,14 @@ impl Solution {
         }
     }
 }
+```
+## Solutions (Python)
+
+### 1. Linear Scan
+```Python3
+class Solution:
+    def peakIndexInMountainArray(self, A: List[int]) -> int:
+        for i in range(1, len(A) - 1):
+            if A[i] > A[i + 1]:
+                return i
 ```

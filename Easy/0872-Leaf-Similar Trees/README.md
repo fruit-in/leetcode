@@ -12,9 +12,9 @@ Return <code>true</code> if and only if the two given trees with head nodes <cod
 #### Note:
 * Both of the given trees will have between <code>1</code> and <code>100</code> nodes.
 
-## Solutions
+## Solutions (Python)
 
-### 1. DFS (Python3)
+### 1. DFS
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:

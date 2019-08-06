@@ -13,9 +13,9 @@ Given a List of words, return the words that can be typed using letters of **alp
 1. You may use one character in the keyboard more than once.
 2. You may assume the input string will only contain letters of alphabet.
 
-## Solutions
+## Solutions (Python)
 
-### 1. Set (Python3)
+### 1. Set
 ```Python3
 class Solution:
     def findWords(self, words: List[str]) -> List[str]:

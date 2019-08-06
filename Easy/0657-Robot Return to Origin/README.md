@@ -21,9 +21,9 @@ at the origin where it started. Therefore, we return true.
 because it is not at the origin at the end of its moves.
 </pre>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Simulation (Rust)
+### 1. Simulation
 ```Rust
 impl Solution {
     pub fn judge_circle(moves: String) -> bool {
@@ -43,7 +43,7 @@ impl Solution {
 }
 ```
 
-### 2. Count (Python3)
+### 2. Count
 ```Python3
 class Solution:
     def judgeCircle(self, moves: str) -> bool:

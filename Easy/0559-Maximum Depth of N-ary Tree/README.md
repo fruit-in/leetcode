@@ -11,9 +11,9 @@ We should return its max depth, which is 3.
 1. The depth of the tree is at most <code>1000</code>.
 2. The total number of nodes is at most <code>5000</code>.
 
-## Solutions
+## Solutions (Python)
 
-### 1. DFS (Python3)
+### 1. DFS
 ```Python3
 """
 # Definition for a Node.
@@ -32,7 +32,7 @@ class Solution:
         return max(map(self.maxDepth, root.children)) + 1
 ```
 
-### 2. BFS (Python3)
+### 2. BFS
 ```Python3
 """
 # Definition for a Node.

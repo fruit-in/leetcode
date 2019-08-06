@@ -29,9 +29,9 @@ There are 2 different transformations, "--...-." and "--...--.".
 * Each <code>words[i]</code> will have length in range <code>[1, 12]</code>.
 * <code>words[i]</code> will only consist of lowercase letters.
 
-## Solutions
+## Solutions (Python)
 
-### 1. Set (Python3)
+### 1. Set
 ```Python3
 class Solution:
     def uniqueMorseRepresentations(self, words: List[str]) -> int:

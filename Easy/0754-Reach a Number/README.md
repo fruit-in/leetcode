@@ -27,9 +27,9 @@ On the third move we step from -1 to 2.
 #### Note:
 * <code>target</code> will be a non-zero integer in the range <code>[-10<sup>9</sup>, 10<sup>9</sup>]</code>.
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Mathematical (Rust)
+### 1. Mathematical
 ```Rust
 impl Solution {
     pub fn reach_number(target: i32) -> i32 {

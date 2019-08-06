@@ -24,9 +24,9 @@ If it is, return the **index** of the largest element, otherwise return -1.
 1. <code>nums</code> will have a length in the range <code>[1, 50]</code>.
 2. Every <code>nums[i]</code> will be an integer in the range <code>[0, 99]</code>.
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Linear Scan (Rust)
+### 1. Linear Scan
 ```Rust
 impl Solution {
     pub fn dominant_index(nums: Vec<i32>) -> i32 {

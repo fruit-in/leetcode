@@ -21,9 +21,9 @@ Given an integer, write a function to determine if it is a power of two.
 <strong>Output:</strong> false
 </pre>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Count Bits (Rust)
+### 1. Count Bits
 ```Rust
 impl Solution {
     pub fn is_power_of_two(n: i32) -> bool {
@@ -36,7 +36,7 @@ impl Solution {
 }
 ```
 
-### 2. n / 2 (Rust)
+### 2. n / 2
 ```Rust
 impl Solution {
     pub fn is_power_of_two(n: i32) -> bool {

@@ -21,9 +21,9 @@ Given a non-empty string check if it can be constructed by taking a substring of
 <strong>Explanation:</strong> It's the substring "abc" four times. (And the substring "abcabc" twice.)
 </pre>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def repeatedSubstringPattern(self, s: str) -> bool:
@@ -34,7 +34,7 @@ class Solution:
         return False
 ```
 
-### 2. Solution (Python3)
+### 2. Solution
 ```Python3
 class Solution:
     def repeatedSubstringPattern(self, s: str) -> bool:

@@ -26,9 +26,9 @@ There is no index that satisfies the conditions in the problem statement.
 * The length of <code>nums</code> will be in the range <code>[0, 10000]</code>.
 * Each element <code>nums[i]</code> will be an integer in the range <code>[-1000, 1000]</code>.
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Linear Scan (Rust)
+### 1. Linear Scan
 ```Rust
 impl Solution {
     pub fn pivot_index(nums: Vec<i32>) -> i32 {

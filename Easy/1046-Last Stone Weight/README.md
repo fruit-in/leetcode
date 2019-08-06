@@ -22,9 +22,9 @@ we combine 1 and 1 to get 0 so the array converts to [1] then that's the value o
 1. <code>1 <= stones.length <= 30</code>
 2. <code>1 <= stones[i] <= 1000</code>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:

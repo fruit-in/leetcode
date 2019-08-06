@@ -32,9 +32,9 @@ ogdmaaaaaaaaaa"
 * <code>S</code> contains only uppercase, lowercase and spaces. Exactly one space between each word.
 * <code>1 <= S.length <= 150</code>.
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def toGoatLatin(self, S: str) -> str:

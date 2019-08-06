@@ -32,9 +32,9 @@ Given <code>N</code>, calculate <code>F(N)</code>.
 #### Note:
 0 ≤ <code>N</code> ≤ 30.
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Recursion (Rust)
+### 1. Recursion
 ```Rust
 impl Solution {
     pub fn fib(n: i32) -> i32 {
@@ -47,7 +47,7 @@ impl Solution {
 }
 ```
 
-### 2. Iteration (Rust)
+### 2. Iteration
 ```Rust
 impl Solution {
     pub fn fib(n: i32) -> i32 {

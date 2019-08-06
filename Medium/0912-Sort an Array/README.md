@@ -17,9 +17,9 @@ Given an array of integers <code>nums</code>, sort the array in ascending order.
 1. <code>1 <= A.length <= 10000</code>
 2. <code>-50000 <= A[i] <= 50000</code>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Bubble Sort (Rust)
+### 1. Bubble Sort
 ```Rust
 impl Solution {
     pub fn sort_array(nums: Vec<i32>) -> Vec<i32> {
@@ -37,7 +37,7 @@ impl Solution {
 }
 ```
 
-### 2. Selection Sort (Rust)
+### 2. Selection Sort
 ```Rust
 impl Solution {
     pub fn sort_array(nums: Vec<i32>) -> Vec<i32> {
@@ -57,7 +57,7 @@ impl Solution {
 }
 ```
 
-### 3. Insertion Sort (Rust)
+### 3. Insertion Sort
 ```Rust
 impl Solution {
     pub fn sort_array(nums: Vec<i32>) -> Vec<i32> {
@@ -77,7 +77,7 @@ impl Solution {
 }
 ```
 
-### 4. Merge Sort (Rust)
+### 4. Merge Sort
 ```Rust
 impl Solution {
     pub fn sort_array(nums: Vec<i32>) -> Vec<i32> {
@@ -110,7 +110,7 @@ impl Solution {
 }
 ```
 
-### 5. Quick Sort (Rust)
+### 5. Quick Sort
 ```Rust
 impl Solution {
     pub fn sort_array(nums: Vec<i32>) -> Vec<i32> {
@@ -133,7 +133,7 @@ impl Solution {
 }
 ```
 
-### 6. Counting Sort (Rust)
+### 6. Counting Sort
 ```Rust
 impl Solution {
     pub fn sort_array(nums: Vec<i32>) -> Vec<i32> {
@@ -154,7 +154,7 @@ impl Solution {
 }
 ```
 
-### 7. Radix Sort (Rust)
+### 7. Radix Sort
 ```Rust
 impl Solution {
     pub fn sort_array(nums: Vec<i32>) -> Vec<i32> {

@@ -20,9 +20,9 @@ Given a **sorted** (in ascending order) integer array <code>nums</code> of <code
 2. <code>n</code> will be in the range <code>[1, 10000]</code>.
 3. The value of each element in <code>nums</code> will be in the range <code>[-9999, 9999]</code>.
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Binary Search (Rust)
+### 1. Binary Search
 ```Rust
 impl Solution {
     pub fn search(nums: Vec<i32>, target: i32) -> i32 {

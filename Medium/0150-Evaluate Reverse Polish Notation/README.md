@@ -35,9 +35,9 @@ Valid operators are <code>+</code>, <code>-</code>, <code>*</code>, <code>/</cod
 = 22
 </pre>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Stack (Rust)
+### 1. Stack
 ```Rust
 impl Solution {
     pub fn eval_rpn(tokens: Vec<String>) -> i32 {

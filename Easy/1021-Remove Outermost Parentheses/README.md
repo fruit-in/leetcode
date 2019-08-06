@@ -39,9 +39,9 @@ After removing outer parentheses of each part, this is "" + "" = "".
 2. <code>S[i]</code> is <code>"("</code> or <code>")"</code>
 3. <code>S</code> is a valid parentheses string
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Solution (Rust)
+### 1. Solution
 ```Rust
 impl Solution {
     pub fn remove_outer_parentheses(s: String) -> String {

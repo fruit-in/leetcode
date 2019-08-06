@@ -19,9 +19,9 @@ If there is no common prefix, return an empty string <code>""</code>.
 #### Note:
 All given inputs are in lowercase letters <code>a-z</code>.
 
-## Solutions
+## Solutions (Python)
 
-### 1. Binary Search (Python3)
+### 1. Binary Search
 ```Python3
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
@@ -41,7 +41,7 @@ class Solution:
         return prefix
 ```
 
-### 2. Divide & Conquer (Python3)
+### 2. Divide & Conquer
 ```Python3
 class Solution:
     def longestCommonPrefix(self, strs):
@@ -58,7 +58,7 @@ class Solution:
             return prefix1[:len(prefix2)]
 ```
 
-### 3. Horizontal Scanning (Python3)
+### 3. Horizontal Scanning
 ```Python3
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
@@ -73,7 +73,7 @@ class Solution:
         return prefix
 ```
 
-### 4. Vertical Scanning (Python3)
+### 4. Vertical Scanning
 ```Python3
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:

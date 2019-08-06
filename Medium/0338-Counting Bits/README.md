@@ -18,9 +18,9 @@ Given a non negative integer number **num**. For every numbers **i** in the rang
 * Space complexity should be **O(n)**.
 * Can you do it like a boss? Do it without using any builtin function like <strong>__builtin_popcount</strong> in c++ or in any other language.
 
-## Solutions
+## Solutions (Rust)
 
-### 1. i % n (n = 2<sup>⌊log<sub>2</sub>(n)⌋</sup>) (Rust)
+### 1. i % n (n = 2<sup>⌊log<sub>2</sub>(n)⌋</sup>)
 ```Rust
 impl Solution {
     pub fn count_bits(num: i32) -> Vec<i32> {
@@ -35,7 +35,7 @@ impl Solution {
 }
 ```
 
-### 2. i & (i - 1) (Rust)
+### 2. i & (i - 1)
 ```Rust
 impl Solution {
     pub fn count_bits(num: i32) -> Vec<i32> {

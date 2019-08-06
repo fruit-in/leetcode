@@ -17,9 +17,9 @@ minStack.top();      --> Returns 0.
 minStack.getMin();   --> Returns -2.
 </pre>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Two Stacks (Rust)
+### 1. Two Stacks
 ```Rust
 struct MinStack {
     data: Vec<i32>,
@@ -74,7 +74,7 @@ impl MinStack {
  */
 ```
 
-### 2. One Stack (Rust)
+### 2. One Stack
 ```Rust
 struct MinStack {
     data: Vec<(i32, i32)>,

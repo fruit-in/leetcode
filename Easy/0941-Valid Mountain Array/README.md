@@ -29,9 +29,9 @@ Recall that A is a mountain array if and only if:
 1. <code>0 <= A.length <= 10000</code>
 2. <code>0 <= A[i] <= 10000</code>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. One Pass (Rust)
+### 1. One Pass
 ```Rust
 impl Solution {
     pub fn valid_mountain_array(a: Vec<i32>) -> bool {

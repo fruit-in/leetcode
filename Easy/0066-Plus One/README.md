@@ -19,9 +19,9 @@ You may assume the integer does not contain any leading zero, except the number 
 <strong>Explanation:</strong> The array represents the integer 4321.
 </pre>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Solution (Rust)
+### 1. Solution
 ```Rust
 impl Solution {
     pub fn plus_one(digits: Vec<i32>) -> Vec<i32> {

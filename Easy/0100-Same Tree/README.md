@@ -36,9 +36,9 @@ Two binary trees are considered the same if they are structurally identical and 
 <strong>Output:</strong> false
 </pre>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Recursion (Python3)
+### 1. Recursion
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:
@@ -56,7 +56,7 @@ class Solution:
         return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
 ```
 
-### 2. Iteration (Python3)
+### 2. Iteration
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:

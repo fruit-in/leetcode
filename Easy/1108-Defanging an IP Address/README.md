@@ -18,9 +18,9 @@ A *defanged IP address* replaces every period <code>"."</code> with <code>"[.]"<
 #### Constraints:
 * The given <code>address</code> is a valid IPv4 address.
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Solution (Rust)
+### 1. Solution
 ```Rust
 impl Solution {
     pub fn defang_i_paddr(address: String) -> String {

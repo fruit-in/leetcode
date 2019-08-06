@@ -21,9 +21,9 @@ The total minimum cost is 10 + 30 + 50 + 20 = 110 to have half the people interv
 2. It is guaranteed that <code>costs.length</code> is even.
 3. <code>1 <= costs[i][0], costs[i][1] <= 1000</code>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def twoCitySchedCost(self, costs: List[List[int]]) -> int:

@@ -36,9 +36,9 @@ Given two strings <code>A</code> and <code>B</code> of lowercase letters, return
 2. <code>0 <= B.length <= 20000</code>
 3. <code>A</code> and <code>B</code> consist only of lowercase letters.
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def buddyStrings(self, A: str, B: str) -> bool:

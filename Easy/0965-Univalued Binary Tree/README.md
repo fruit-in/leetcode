@@ -21,9 +21,9 @@ Return <code>true</code> if and only if the given tree is univalued.
 1. The number of nodes in the given tree will be in the range <code>[1, 100]</code>.
 2. Each node's value will be an integer in the range <code>[0, 99]</code>.
 
-## Solutions
+## Solutions (Python)
 
-### 1. DFS (Python3)
+### 1. DFS
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:
@@ -46,7 +46,7 @@ class Solution:
         return left and right
 ```
 
-### 2. BFS (Python3)
+### 2. BFS
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:

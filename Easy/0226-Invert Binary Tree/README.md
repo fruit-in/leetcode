@@ -26,9 +26,9 @@ Google: 90% of our engineers use the software you wrote (Homebrew),
 but you can’t invert a binary tree on a whiteboard so f*** off.
 </pre>
 
-## Solutions
+## Solutions (Python)
 
-### 1. DFS (Python3)
+### 1. DFS
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:
@@ -44,7 +44,7 @@ class Solution:
         return root
 ```
 
-### 2. BFS (Python3)
+### 2. BFS
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:

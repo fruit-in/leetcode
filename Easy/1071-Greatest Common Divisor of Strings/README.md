@@ -26,9 +26,9 @@ Return the largest string <code>X</code> such that <code>X</code> divides str1 a
 2. <code>1 <= str2.length <= 1000</code>
 3. <code>str1[i]</code> and <code>str2[i]</code> are English uppercase letters.
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def gcdOfStrings(self, str1: str, str2: str) -> str:

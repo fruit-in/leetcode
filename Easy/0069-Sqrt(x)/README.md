@@ -20,9 +20,9 @@ Since the return type is an integer, the decimal digits are truncated and only t
 
 #### Note:
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Brute Force (Rust)
+### 1. Brute Force
 ```Rust
 impl Solution {
     pub fn my_sqrt(x: i32) -> i32 {
@@ -35,7 +35,7 @@ impl Solution {
 }
 ```
 
-### 2. Binary Search (Rust)
+### 2. Binary Search
 ```Rust
 impl Solution {
     pub fn my_sqrt(x: i32) -> i32 {
@@ -59,7 +59,7 @@ impl Solution {
 }
 ```
 
-### 3. (n + 1)<sup>2</sup> = n<sup>2</sup> + 2n + 1 (Rust)
+### 3. (n + 1)<sup>2</sup> = n<sup>2</sup> + 2n + 1
 ```Rust
 impl Solution {
     pub fn my_sqrt(x: i32) -> i32 {
@@ -74,7 +74,7 @@ impl Solution {
 }
 ```
 
-### 4. Newton's Method (Rust)
+### 4. Newton's Method
 ```Rust
 impl Solution {
     pub fn my_sqrt(x: i32) -> i32 {

@@ -51,9 +51,9 @@ Since there are two 8's in the top left 3x3 sub-box, it is invalid.
 * The given board contain only digits <code>1-9</code> and the character <code>'.'</code>.
 * The given board size is always <code>9x9</code>.
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Solution1 (Rust)
+### 1. Solution1
 ```Rust
 use std::collections::HashSet;
 
@@ -106,7 +106,7 @@ impl Solution {
 }
 ```
 
-### 2. Solution2 (Rust)
+### 2. Solution2
 ```Rust
 impl Solution {
     pub fn is_valid_sudoku(board: Vec<Vec<char>>) -> bool {

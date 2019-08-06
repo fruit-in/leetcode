@@ -23,9 +23,9 @@ In the example above, if we want to search the value <code>5</code>, since there
 
 Note that an empty tree is represented by <code>NULL</code>, therefore you would see the expected output (serialized tree format) as <code>[]</code>, not <code>null</code>.
 
-## Solutions
+## Solutions (Python)
 
-### 1. DFS (Python3)
+### 1. DFS
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:

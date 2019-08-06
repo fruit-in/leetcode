@@ -7,9 +7,9 @@ Merge two sorted linked lists and return it as a new list. The new list should b
 <strong>Output:</strong> 1->1->2->3->4->4
 </pre>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Iteration (Python3)
+### 1. Iteration
 ```Python3
 # Definition for singly-linked list.
 # class ListNode:
@@ -33,7 +33,7 @@ class Solution:
         return head.next
 ```
 
-### 2. Recursion (Python3)
+### 2. Recursion
 ```Python3
 # Definition for singly-linked list.
 # class ListNode:

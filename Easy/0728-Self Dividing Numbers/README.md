@@ -16,9 +16,9 @@ Given a lower and upper number bound, output a list of every possible self divid
 #### Note:
 * The boundaries of each input argument are <code>1 <= left <= right <= 10000</code>.
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def selfDividingNumbers(self, left: int, right: int) -> List[int]:

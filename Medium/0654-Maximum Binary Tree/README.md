@@ -23,9 +23,9 @@ Construct the maximum tree by the given array and output the root node of this t
 #### Note:
 1. The size of the given array will be in the range [1,1000].
 
-## Solutions
+## Solutions (Python)
 
-### 1. Recursion (Python3)
+### 1. Recursion
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:

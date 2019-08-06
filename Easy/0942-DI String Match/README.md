@@ -27,9 +27,9 @@ Return **any** permutation <code>A</code> of <code>[0, 1, ..., N]</code> such th
 1. <code>1 <= S.length <= 10000</code>
 2. <code>S</code> only contains characters <code>"I"</code> or <code>"D"</code>.
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def diStringMatch(self, S: str) -> List[int]:

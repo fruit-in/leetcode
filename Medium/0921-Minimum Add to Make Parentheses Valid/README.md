@@ -36,18 +36,9 @@ Given a parentheses string, return the minimum number of parentheses we must add
 1. <code>S.length <= 1000</code>
 2. S only consists of <code>'('</code> and <code>')'</code> characters.
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Remove Valid Parentheses from String (Python3)
-```Python3
-class Solution:
-    def minAddToMakeValid(self, S: str) -> int:
-        while S.count("()"):
-            S = S.replace("()", "")
-        return len(S)
-```
-
-### 2. Remove Valid Parentheses by Stack (Rust)
+### 1. Remove Valid Parentheses by Stack
 ```Rust
 impl Solution {
     pub fn min_add_to_make_valid(s: String) -> i32 {
@@ -64,7 +55,7 @@ impl Solution {
 }
 ```
 
-### 3. Balance (Rust)
+### 2. Balance
 ```Rust
 impl Solution {
     pub fn min_add_to_make_valid(s: String) -> i32 {
@@ -82,4 +73,15 @@ impl Solution {
         left + right
     }
 }
+```
+
+## Solutions (Python)
+
+### 1. Remove Valid Parentheses from String
+```Python3
+class Solution:
+    def minAddToMakeValid(self, S: str) -> int:
+        while S.count("()"):
+            S = S.replace("()", "")
+        return len(S)
 ```

@@ -14,9 +14,9 @@ A happy number is a number defined by the following process: Starting with any p
 1<sup>2</sup> + 0<sup>2</sup> + 0<sup>2</sup> = 1
 </pre>
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Set (Rust)
+### 1. Set
 ```Rust
 use std::collections::HashSet;
 

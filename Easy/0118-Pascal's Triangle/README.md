@@ -17,9 +17,9 @@ In Pascal's triangle, each number is the sum of the two numbers directly above i
 ]
 </pre>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:

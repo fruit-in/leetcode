@@ -18,9 +18,9 @@ Given binary tree [3,9,20,null,null,15,7],
 return its minimum depth = 2.
 </pre>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Recursion (Python3)
+### 1. Recursion
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:
@@ -46,7 +46,7 @@ class Solution:
             return lmin if lmin else rmin
 ```
 
-### 2. Iteration (Python3)
+### 2. Iteration
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:

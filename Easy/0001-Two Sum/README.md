@@ -11,9 +11,9 @@ Because nums[<strong>0</strong>] + nums[<strong>1</strong>] = 2 + 7 = 9,
 return [<strong>0</strong>, <strong>1</strong>].
 </pre>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Brute Force (Python3)
+### 1. Brute Force
 ```Python3
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
@@ -22,7 +22,7 @@ class Solution:
                 return [k, k + 1 + nums[k + 1:].index(target - v)]
 ```
 
-### 2. One Pass Hash Table (Python3)
+### 2. One Pass Hash Table
 ```Python3
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
@@ -33,7 +33,7 @@ class Solution:
             s[v] = k
 ```
 
-### 3. Two Pass Hash Table (Python3)
+### 3. Two Pass Hash Table
 ```Python3
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:

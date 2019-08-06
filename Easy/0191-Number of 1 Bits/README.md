@@ -29,9 +29,9 @@ Write a function that takes an unsigned integer and return the number of '1' bit
 #### Follow up:
 If this function is called many times, how would you optimize it?
 
-## Solutions
+## Solutions (Rust)
 
-### 1. Check Every Bits (Rust)
+### 1. Check Every Bits
 ```Rust
 impl Solution {
     pub fn hamming_weight(n: u32) -> i32 {
@@ -44,7 +44,7 @@ impl Solution {
 }
 ```
 
-### 2. n & (n - 1) (Rust)
+### 2. n & (n - 1)
 ```Rust
 impl Solution {
     pub fn hamming_weight(n: u32) -> i32 {

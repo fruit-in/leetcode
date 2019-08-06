@@ -15,9 +15,9 @@ Students with heights 4, 3 and the last 1 are not standing in the right position
 1. <code>1 <= heights.length <= 100</code>
 2. <code>1 <= heights[i] <= 100</code>
 
-## Solutions
+## Solutions (Python)
 
-### 1. Solution (Python3)
+### 1. Solution
 ```Python3
 class Solution:
     def heightChecker(self, heights: List[int]) -> int:

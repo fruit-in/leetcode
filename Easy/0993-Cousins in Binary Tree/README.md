@@ -32,9 +32,9 @@ Return <code>true</code> if and only if the nodes corresponding to the values <c
 1. The number of nodes in the tree will be between <code>2</code> and <code>100</code>.
 2. Each node has a unique integer value from <code>1</code> to <code>100</code>.
 
-## Solutions
+## Solutions (Python)
 
-### 1. DFS (Python3)
+### 1. DFS
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:
@@ -59,7 +59,7 @@ class Solution:
         return depth[x] == depth[y] and parent[x] != parent[y]
 ```
 
-### 2. BFS (Python3)
+### 2. BFS
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:
