@@ -15,9 +15,9 @@ Given a binary tree, return the *postorder* traversal of its nodes' values.
 
 **Follow up:** Recursive solution is trivial, could you do it iteratively?
 
-## Solutions
+## Solutions (Python)
 
-### 1. Recursion (Python3)
+### 1. Recursion
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:
@@ -34,7 +34,7 @@ class Solution:
             self.postorderTraversal(root.right) + [root.val]
 ```
 
-### 2. Iteration (Python3)
+### 2. Iteration
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:

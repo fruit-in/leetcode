@@ -92,7 +92,7 @@
 |-|-|-|-|-|
 |144|Binary Tree Preorder Traversal|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-preorder-traversal)|
 |94|[Binary Tree Inorder Traversal](./Medium/0094-Binary%20Tree%20Inorder%20Traversal#94-binary-tree-inorder-traversal)|[Solution](./Medium/0094-Binary%20Tree%20Inorder%20Traversal#solutions)|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
-|145|[Binary Tree Postorder Traversal](./Hard/0145-Binary%20Tree%20Postorder%20Traversal#145-binary-tree-postorder-traversal)|[Solution](./Hard/0145-Binary%20Tree%20Postorder%20Traversal#solutions)|[Hard](./Hard)|[Link](https://leetcode.com/problems/binary-tree-postorder-traversal/)|
+|145|[Binary Tree Postorder Traversal](./Hard/0145-Binary%20Tree%20Postorder%20Traversal#145-binary-tree-postorder-traversal)|[Python](./Hard/0145-Binary%20Tree%20Postorder%20Traversal#solutions-(python))|[Hard](./Hard)|[Link](https://leetcode.com/problems/binary-tree-postorder-traversal/)|
 |102|Binary Tree Level Order Traversal|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-level-order-traversal)|
 |104|[Maximum Depth of Binary Tree](./Easy/0104-Maximum%20Depth%20of%20Binary%20Tree#104-maximum-depth-of-binary-tree)|[Solution](./Easy/0104-Maximum%20Depth%20of%20Binary%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
 |101|[Symmetric Tree](./Easy/0101-Symmetric%20Tree#101-symmetric-tree)|[Solution](./Easy/0101-Symmetric%20Tree#solutions)|[Easy](./Easy)|[Link](https://leetcode.com/problems/symmetric-tree/)|
