@@ -24,7 +24,20 @@ Given an array that is definitely a mountain, return any <code>i</code> such tha
 
 ## Solutions (Rust)
 
-### 1. Binary Search
+### 1. Linear Scan
+```Rust
+impl Solution {
+    pub fn peak_index_in_mountain_array(a: Vec<i32>) -> i32 {
+        let mut i = 1;
+        while i + 1 < a.len() && a[i] <= a[i + 1] {
+            i += 1;
+        }
+        i as i32
+    }
+}
+```
+
+### 2. Binary Search
 ```Rust
 impl Solution {
     pub fn peak_index_in_mountain_array(a: Vec<i32>) -> i32 {
@@ -43,14 +56,4 @@ impl Solution {
         }
     }
 }
-```
-## Solutions (Python)
-
-### 1. Linear Scan
-```Python3
-class Solution:
-    def peakIndexInMountainArray(self, A: List[int]) -> int:
-        for i in range(1, len(A) - 1):
-            if A[i] > A[i + 1]:
-                return i
 ```
