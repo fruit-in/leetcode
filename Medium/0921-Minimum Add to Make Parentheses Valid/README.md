@@ -38,7 +38,20 @@ Given a parentheses string, return the minimum number of parentheses we must add
 
 ## Solutions (Rust)
 
-### 1. Remove Valid Parentheses by Stack
+### 1. Remove Valid Parentheses from String
+```Rust
+impl Solution {
+    pub fn min_add_to_make_valid(s: String) -> i32 {
+        let mut s = s;
+        while s.contains("()") {
+            s = s.replace("()", "");
+        }
+        s.len() as i32
+    }
+}
+```
+
+### 2. Remove Valid Parentheses by Stack
 ```Rust
 impl Solution {
     pub fn min_add_to_make_valid(s: String) -> i32 {
@@ -55,7 +68,7 @@ impl Solution {
 }
 ```
 
-### 2. Balance
+### 3. Balance
 ```Rust
 impl Solution {
     pub fn min_add_to_make_valid(s: String) -> i32 {
@@ -73,15 +86,4 @@ impl Solution {
         left + right
     }
 }
-```
-
-## Solutions (Python)
-
-### 1. Remove Valid Parentheses from String
-```Python3
-class Solution:
-    def minAddToMakeValid(self, S: str) -> int:
-        while S.count("()"):
-            S = S.replace("()", "")
-        return len(S)
 ```
