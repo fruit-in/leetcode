@@ -90,7 +90,7 @@
 ### Binary Tree
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
-|144|Binary Tree Preorder Traversal|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-preorder-traversal)|
+|144|[Binary Tree Preorder Traversal](./Medium/0144-Binary%20Tree%20Preorder%20Traversal#144-binary-tree-preorder-traversal)|[Python](./Medium/0144-Binary%20Tree%20Preorder%20Traversal#solutions-python)|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-preorder-traversal/)|
 |94|[Binary Tree Inorder Traversal](./Medium/0094-Binary%20Tree%20Inorder%20Traversal#94-binary-tree-inorder-traversal)|[Python](./Medium/0094-Binary%20Tree%20Inorder%20Traversal#solutions-python)|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
 |145|[Binary Tree Postorder Traversal](./Hard/0145-Binary%20Tree%20Postorder%20Traversal#145-binary-tree-postorder-traversal)|[Python](./Hard/0145-Binary%20Tree%20Postorder%20Traversal#solutions-python)|[Hard](./Hard)|[Link](https://leetcode.com/problems/binary-tree-postorder-traversal/)|
 |102|Binary Tree Level Order Traversal|Solution|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-level-order-traversal)|
@@ -159,6 +159,7 @@
 |111|[Minimum Depth of Binary Tree](./Easy/0111-Minimum%20Depth%20of%20Binary%20Tree#111-minimum-depth-of-binary-tree)|[Python](./Easy/0111-Minimum%20Depth%20of%20Binary%20Tree#solutions-python)|[Easy](./Easy)|[Link](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|
 |118|[Pascal's Triangle](./Easy/0118-Pascal's%20Triangle#118-pascal's-triangle)|[Python](./Easy/0118-Pascal's%20Triangle#solutions-python)|[Easy](./Easy)|[Link](https://leetcode.com/problems/pascals-triangle/)|
 |119|[Pascal's Triangle II](./Easy/0119-Pascal's%20Triangle%20II#119-pascal's-triangle-ii)|[Python](./Easy/0119-Pascal's%20Triangle%20II#solutions-python)|[Easy](./Easy)|[Link](https://leetcode.com/problems/pascals-triangle-ii/)|
+|144|[Binary Tree Preorder Traversal](./Medium/0144-Binary%20Tree%20Preorder%20Traversal#144-binary-tree-preorder-traversal)|[Python](./Medium/0144-Binary%20Tree%20Preorder%20Traversal#solutions-python)|[Medium](./Medium)|[Link](https://leetcode.com/problems/binary-tree-preorder-traversal/)|
 |145|[Binary Tree Postorder Traversal](./Hard/0145-Binary%20Tree%20Postorder%20Traversal#145-binary-tree-postorder-traversal)|[Python](./Hard/0145-Binary%20Tree%20Postorder%20Traversal#solutions-python)|[Hard](./Hard)|[Link](https://leetcode.com/problems/binary-tree-postorder-traversal/)|
 |150|[Evaluate Reverse Polish Notation](./Medium/0150-Evaluate%20Reverse%20Polish%20Notation#150-evaluate-reverse-polish-notation)|[Rust](./Medium/0150-Evaluate%20Reverse%20Polish%20Notation#solutions-rust)|[Medium](./Medium)|[Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|
 |155|[Min Stack](./Easy/0155-Min%20Stack#155-min-stack)|[Rust](./Easy/0155-Min%20Stack#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/min-stack/)|
