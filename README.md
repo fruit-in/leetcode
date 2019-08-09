@@ -121,7 +121,7 @@
 ### N-ary Tree
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
-|589|N-ary Tree Preorder Traversal|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|
+|589|[N-ary Tree Preorder Traversal](./Easy/0589-N-ary%20Tree%20Preorder%20Traversal#589-n-ary-tree-preorder-traversal)|[Python](./Easy/0589-N-ary%20Tree%20Preorder%20Traversal#solutions-python)|[Easy](./Easy)|[Link](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|
 |590|N-ary Tree Postorder Traversal|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|
 |429|N-ary Tree Level Order Traversal|Solution|[Easy](./Easy)|[Link](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|
 |559|[Maximum Depth of N-ary Tree](./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#559-maximum-depth-of-n-ary-tree)|[Python](./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#solutions-python)|[Easy](./Easy)|[Link](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|
@@ -183,6 +183,7 @@
 |500|[Keyboard Row](./Easy/0500-Keyboard%20Row#500-keyboard-row)|[Python](./Easy/0500-Keyboard%20Row#solutions-python)|[Easy](./Easy)|[Link](https://leetcode.com/problems/keyboard-row/)|
 |509|[Fibonacci Number](./Easy/0509-Fibonacci%20Number#509-fibonacci-number)|[Rust](./Easy/0509-Fibonacci%20Number#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/fibonacci-number/)|
 |559|[Maximum Depth of N-ary Tree](./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#559-maximum-depth-of-n-ary-tree)|[Python](./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#solutions-python)|[Easy](./Easy)|[Link](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|
+|589|[N-ary Tree Preorder Traversal](./Easy/0589-N-ary%20Tree%20Preorder%20Traversal#589-n-ary-tree-preorder-traversal)|[Python](./Easy/0589-N-ary%20Tree%20Preorder%20Traversal#solutions-python)|[Easy](./Easy)|[Link](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|
 |617|[Merge Two Binary Trees](./Easy/0617-Merge%20Two%20Binary%20Trees#617-merge-two-binary-trees)|[Python](./Easy/0617-Merge%20Two%20Binary%20Trees#solutions-python)|[Easy](./Easy)|[Link](https://leetcode.com/problems/merge-two-binary-trees/)|
 |622|[Design Circular Queue](./Medium/0622-Design%20Circular%20Queue#622-design-circular-queue)|[Rust](./Medium/0622-Design%20Circular%20Queue#solutions-rust)|[Medium](./Medium)|[Link](https://leetcode.com/problems/design-circular-queue/)|
 |654|[Maximum Binary Tree](./Medium/0654-Maximum%20Binary%20Tree#654-maximum-binary-tree)|[Python](./Medium/0654-Maximum%20Binary%20Tree#solutions-python)|[Medium](./Medium)|[Link](https://leetcode.com/problems/maximum-binary-tree/)|
