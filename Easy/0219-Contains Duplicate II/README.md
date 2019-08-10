@@ -70,7 +70,7 @@ impl Solution {
             v.push((nums[i], i));
         }
         v.sort_unstable();
-        for i in 1..nums.len() {
+        for i in 1..v.len() {
             if v[i - 1].0 == v[i].0 && v[i].1 <= v[i - 1].1 + k {
                 return true;
             }
