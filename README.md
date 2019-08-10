@@ -114,7 +114,7 @@
 |450|Delete Node in a BST||[Medium](./Medium)|[Link](https://leetcode.com/problems/delete-node-in-a-bst/)|
 |703|Kth Largest Element in a Stream||[Easy](./Easy)|[Link](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|
 |235|Lowest Common Ancestor of a Binary Search Tree||[Easy](./Easy)|[Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|
-|220|Contains Duplicate III||[Medium](./Medium)|[Link](https://leetcode.com/problems/contains-duplicate-iii/)|
+|220|[Contains Duplicate III](./Medium/0220-Contains%20Duplicate%20III#220-contains-duplicate-iii)|[Rust](./Medium/0220-Contains%20Duplicate%20III#solutions-rust)|[Medium](./Medium)|[Link](https://leetcode.com/problems/contains-duplicate-iii/)|
 |110|Balanced Binary Tree||[Easy](./Easy)|[Link](https://leetcode.com/problems/balanced-binary-tree/)|
 |108|Convert Sorted Array to Binary Search Tree||[Easy](./Easy)|[Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|
 
@@ -168,6 +168,7 @@
 |202|[Happy Number](./Easy/0202-Happy%20Number#202-happy-number)|[Rust](./Easy/0202-Happy%20Number#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/happy-number/)|
 |217|[Contains Duplicate](./Easy/0217-Contains%20Duplicate#217-contains-duplicate)|[Rust](./Easy/0217-Contains%20Duplicate#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/contains-duplicate/)|
 |219|[Contains Duplicate II](./Easy/0219-Contains%20Duplicate%20II#219-contains-duplicate-ii)|[Rust](./Easy/0219-Contains%20Duplicate%20II#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/contains-duplicate-ii/)|
+|220|[Contains Duplicate III](./Medium/0220-Contains%20Duplicate%20III#220-contains-duplicate-iii)|[Rust](./Medium/0220-Contains%20Duplicate%20III#solutions-rust)|[Medium](./Medium)|[Link](https://leetcode.com/problems/contains-duplicate-iii/)|
 |225|[Implement Stack using Queues](./Easy/0225-Implement%20Stack%20using%20Queues#225-implement-stack-using-queues)|[Rust](./Easy/0225-Implement%20Stack%20using%20Queues#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/implement-stack-using-queues/)|
 |226|[Invert Binary Tree](./Easy/0226-Invert%20Binary%20Tree#226-invert-binary-tree)|[Python](./Easy/0226-Invert%20Binary%20Tree#solutions-python)|[Easy](./Easy)|[Link](https://leetcode.com/problems/invert-binary-tree/)|
 |231|[Power of Two](./Easy/0231-Power%20of%20Two#231-power-of-two)|[Rust](./Easy/0231-Power%20of%20Two#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/power-of-two/)|
