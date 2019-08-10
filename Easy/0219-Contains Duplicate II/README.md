@@ -25,14 +25,13 @@ Given an array of integers and an integer *k*, find out whether there are two di
 ```Rust
 impl Solution {
     pub fn contains_nearby_duplicate(nums: Vec<i32>, k: i32) -> bool {
+        let k = k as usize;
         let len = nums.len();
         for i in 0..len {
-            let mut j = i + 1;
-            while j <= i + k as usize && j < len {
-                if nums[i] == nums[j] {
+            for n in &nums[(i + 1)..len.min(i + 1 + k)] {
+                if nums[i] - n == 0 {
                     return true;
                 }
-                j += 1;
             }
         }
         false
