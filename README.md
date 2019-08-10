@@ -77,7 +77,7 @@
 |599|Minimum Index Sum of Two Lists||[Easy](./Easy)|[Link](https://leetcode.com/problems/minimum-index-sum-of-two-lists)|
 |387|First Unique Character in a String||[Easy](./Easy)|[Link](https://leetcode.com/problems/first-unique-character-in-a-string)|
 |350|Intersection of Two Arrays II||[Easy](./Easy)|[Link](https://leetcode.com/problems/intersection-of-two-arrays-ii)|
-|219|Contains Duplicate II||[Easy](./Easy)|[Link](https://leetcode.com/problems/contains-duplicate-ii)|
+|219|[Contains Duplicate II](./Easy/0219-Contains%20Duplicate%20II#219-contains-duplicate-ii)|[Rust](./Easy/0219-Contains%20Duplicate%20II#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/contains-duplicate-ii/)|
 |49|Group Anagrams||[Medium](./Medium)|[Link](https://leetcode.com/problems/group-anagrams)|
 |36|[Valid Sudoku](./Medium/0036-Valid%20Sudoku#36-valid-sudoku)|[Rust](./Medium/0036-Valid%20Sudoku#solutions-rust)|[Medium](./Medium)|[Link](https://leetcode.com/problems/valid-sudoku/)|
 |652|Find Duplicate Subtrees||[Medium](./Medium)|[Link](https://leetcode.com/problems/find-duplicate-subtrees)|
@@ -167,6 +167,7 @@
 |201|[Bitwise AND of Numbers Range](./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range#201-bitwise-and-of-numbers-range)|[Rust](./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range#solutions-rust)|[Medium](./Medium)|[Link](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|
 |202|[Happy Number](./Easy/0202-Happy%20Number#202-happy-number)|[Rust](./Easy/0202-Happy%20Number#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/happy-number/)|
 |217|[Contains Duplicate](./Easy/0217-Contains%20Duplicate#217-contains-duplicate)|[Rust](./Easy/0217-Contains%20Duplicate#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/contains-duplicate/)|
+|219|[Contains Duplicate II](./Easy/0219-Contains%20Duplicate%20II#219-contains-duplicate-ii)|[Rust](./Easy/0219-Contains%20Duplicate%20II#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/contains-duplicate-ii/)|
 |225|[Implement Stack using Queues](./Easy/0225-Implement%20Stack%20using%20Queues#225-implement-stack-using-queues)|[Rust](./Easy/0225-Implement%20Stack%20using%20Queues#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/implement-stack-using-queues/)|
 |226|[Invert Binary Tree](./Easy/0226-Invert%20Binary%20Tree#226-invert-binary-tree)|[Python](./Easy/0226-Invert%20Binary%20Tree#solutions-python)|[Easy](./Easy)|[Link](https://leetcode.com/problems/invert-binary-tree/)|
 |231|[Power of Two](./Easy/0231-Power%20of%20Two#231-power-of-two)|[Rust](./Easy/0231-Power%20of%20Two#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/power-of-two/)|
