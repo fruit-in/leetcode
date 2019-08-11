@@ -24,7 +24,7 @@ hashSet.contains(2);    // returns false (already removed)
 * The number of operations will be in the range of <code>[1, 10000]</code>.
 * Please do not use the built-in HashSet library.
 
-## Solutions (Python)
+## Solutions (Rust)
 
 ### 1. Solution
 ```Rust
