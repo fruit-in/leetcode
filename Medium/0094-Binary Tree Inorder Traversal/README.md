@@ -34,7 +34,7 @@ class Solution:
             [root.val] + self.inorderTraversal(root.right)
 ```
 
-### 2. Stack
+### 2. Iteration
 ```Python3
 # Definition for a binary tree node.
 # class TreeNode:
