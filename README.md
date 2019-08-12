@@ -3,13 +3,14 @@
   * [Introduction to Data Structure](#introduction-to-data-structure)
     * [Array and String](#array-and-string)
     * [Linked List](#linked-list)
-    * [Queue & Stack](#queue&stack)
+    * [Queue & Stack](#queue--stack)
     * [Hash Table](#hash-table)
     * [Binary Tree](#binary-tree)
     * [Binary Search Tree](#binary-search-tree)
     * [N-ary Tree](#n-ary-tree)
     * [Trie](#trie)
 * [Problems](#problems)
+
 
 # Explore
 ## Introduction to Data Structure
@@ -149,6 +150,42 @@
 |421|Maximum XOR of Two Numbers in an Array||[Medium](./Medium)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)|
 |212|Word Search II||[Hard](./Hard)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/word-search-ii)|
 |336|Palindrome Pairs||[Hard](./Hard)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/palindrome-pairs)|
+
+## Introduction to Algorithms
+### Recursion I
+|#|Title|Solution|Difficulty|Coding|
+|-|-|:-:|-|:-:|
+|344|[Reverse String](./Easy/0344-Reverse%20String#344-reverse-string)|[<img src="https://www.rust-lang.org/static/images/favicon.ico" width="26">](./Easy/0344-Reverse%20String#solutions-rust)|[Easy](./Easy)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/reverse-string/)|
+|24|Swap Nodes in Pairs||[Medium](./Medium)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/swap-nodes-in-pairs)|
+|118|[Pascal's Triangle](./Easy/0118-Pascal's%20Triangle#118-pascal's-triangle)|[<img src="https://www.python.org/static/favicon.ico" width="26">](./Easy/0118-Pascal's%20Triangle#solutions-python)|[Easy](./Easy)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/pascals-triangle/)|
+|119|[Pascal's Triangle II](./Easy/0119-Pascal's%20Triangle%20II#119-pascal's-triangle-ii)|[<img src="https://www.python.org/static/favicon.ico" width="26">](./Easy/0119-Pascal's%20Triangle%20II#solutions-python)|[Easy](./Easy)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/pascals-triangle-ii/)|
+|206|Reverse Linked List||[Easy](./Easy)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/reverse-linked-list)|
+|509|[Fibonacci Number](./Easy/0509-Fibonacci%20Number#509-fibonacci-number)|[<img src="https://www.rust-lang.org/static/images/favicon.ico" width="26">](./Easy/0509-Fibonacci%20Number#solutions-rust)|[Easy](./Easy)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/fibonacci-number/)|
+|70|Climbing Stairs||[Easy](./Easy)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/climbing-stairs)|
+|104|[Maximum Depth of Binary Tree](./Easy/0104-Maximum%20Depth%20of%20Binary%20Tree#104-maximum-depth-of-binary-tree)|[<img src="https://www.python.org/static/favicon.ico" width="26">](./Easy/0104-Maximum%20Depth%20of%20Binary%20Tree#solutions-python)|[Easy](./Easy)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
+|50|Pow(x, n)||[Medium](./Medium)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/powx-n)|
+|21|[Merge Two Sorted Lists](./Easy/0021-Merge%20Two%20Sorted%20Lists#21-merge-two-sorted-lists)|[<img src="https://www.python.org/static/favicon.ico" width="26">](./Easy/0021-Merge%20Two%20Sorted%20Lists#solutions-python)|[Easy](./Easy)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/merge-two-sorted-lists/)|
+|779|K-th Symbol in Grammar||[Medium](./Medium)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/k-th-symbol-in-grammar)|
+|95|Unique Binary Search Trees II||[Medium](./Medium)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/unique-binary-search-trees-ii)|
+
+
+### Recursion II
+|#|Title|Solution|Difficulty|Coding|
+|-|-|:-:|-|:-:|
+|912|[Sort an Array](./Medium/0912-Sort%20an%20Array#912-sort-an-array)|[<img src="https://www.rust-lang.org/static/images/favicon.ico" width="26">](./Medium/0912-Sort%20an%20Array#solutions-rust)|[Medium](./Medium)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/sort-an-array/)|
+|98|Validate Binary Search Tree||[Medium](./Medium)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/validate-binary-search-tree/)|
+|240|Search a 2D Matrix II||[Medium](./Medium)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/search-a-2d-matrix-ii)|
+|52|N-Queens II||[Hard](./Hard)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/n-queens-ii)|
+|37|Sudoku Solver||[Hard](./Hard)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/sudoku-solver)|
+|77|Combinations||[Medium](./Medium)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/combinations)|
+|100|[Same Tree](./Easy/0100-Same%20Tree#100-same-tree)|[<img src="https://www.python.org/static/favicon.ico" width="26">](./Easy/0100-Same%20Tree#solutions-python)|[Easy](./Easy)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/same-tree/)|
+|22|Generate Parentheses||[Medium](./Medium)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/generate-parentheses)|
+|94|[Binary Tree Inorder Traversal](./Medium/0094-Binary%20Tree%20Inorder%20Traversal#94-binary-tree-inorder-traversal)|[<img src="https://www.python.org/static/favicon.ico" width="26">](./Medium/0094-Binary%20Tree%20Inorder%20Traversal#solutions-python)&nbsp;&nbsp;[<img src="https://www.rust-lang.org/static/images/favicon.ico" width="26">](./Medium/0094-Binary%20Tree%20Inorder%20Traversal#solutions-rust)|[Medium](./Medium)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/binary-tree-inorder-traversal/)|
+|102|[Binary Tree Level Order Traversal](./Medium/0102-Binary%20Tree%20Level%20Order%20Traversal#102-binary-tree-level-order-traversal)|[<img src="https://www.python.org/static/favicon.ico" width="26">](./Medium/0102-Binary%20Tree%20Level%20Order%20Traversal#solutions-python)|[Medium](./Medium)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/binary-tree-level-order-traversal/)|
+|84|Largest Rectangle in Histogram||[Hard](./Hard)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/largest-rectangle-in-histogram)|
+|46|Permutations||[Medium](./Medium)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/permutations)|
+|17|Letter Combinations of a Phone Number||[Medium](./Medium)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|
+|218|The Skyline Problem||[Hard](./Hard)|[<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" width="26">](https://leetcode.com/problems/the-skyline-problem)|
 
 
 # Problems
