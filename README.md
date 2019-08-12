@@ -67,7 +67,7 @@
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
 |705|[Design HashSet](./Easy/0705-Design%20HashSet#705-design-hashset)|[Rust](./Easy/0705-Design%20HashSet#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/design-hashset/)|
-|706|Design HashMap||[Easy](./Easy)|[Link](https://leetcode.com/problems/design-hashmap)|
+|706|[Design HashMap](./Easy/0706-Design%20HashMap#706-design-hashmap)|[Rust](./Easy/0706-Design%20HashMap#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/design-hashmap/)|
 |217|[Contains Duplicate](./Easy/0217-Contains%20Duplicate#217-contains-duplicate)|[Rust](./Easy/0217-Contains%20Duplicate#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/contains-duplicate/)|
 |136|Single Number||[Easy](./Easy)|[Link](https://leetcode.com/problems/single-number)|
 |349|Intersection of Two Arrays||[Easy](./Easy)|[Link](https://leetcode.com/problems/intersection-of-two-arrays)|
@@ -198,6 +198,7 @@
 |701|[Insert into a Binary Search Tree](./Medium/0701-Insert%20into%20a%20Binary%20Search%20Tree#701-insert-into-a-binary-search-tree)|[Python](./Medium/0701-Insert%20into%20a%20Binary%20Search%20Tree#solutions-python)|[Medium](./Medium)|[Link](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|
 |704|[Binary Search](./Easy/0704-Binary%20Search#704-binary-search)|[Rust](./Easy/0704-Binary%20Search#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/binary-search/)|
 |705|[Design HashSet](./Easy/0705-Design%20HashSet#705-design-hashset)|[Rust](./Easy/0705-Design%20HashSet#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/design-hashset/)|
+|706|[Design HashMap](./Easy/0706-Design%20HashMap#706-design-hashmap)|[Rust](./Easy/0706-Design%20HashMap#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/design-hashmap/)|
 |709|[To Lower Case](./Easy/0709-To%20Lower%20Case#709-to-lower-case)|[Rust](./Easy/0709-To%20Lower%20Case#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/to-lower-case/)|
 |724|[Find Pivot Index](./Easy/0724-Find%20Pivot%20Index#724-find-pivot-index)|[Rust](./Easy/0724-Find%20Pivot%20Index#solution-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/find-pivot-index/)|
 |728|[Self Dividing Numbers](./Easy/0728-Self%20Dividing%20Numbers#728-self-dividing-numbers)|[Python](./Easy/0728-Self%20Dividing%20Numbers#solutions-python)|[Easy](./Easy)|[Link](https://leetcode.com/problems/self-dividing-numbers/)|
