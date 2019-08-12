@@ -3,8 +3,8 @@
 ### Array and String
 |#|Title|Solutions|Difficulty|LeetCode|
 |-|-|-|-|-|
-|724|[Find Pivot Index](./Easy/0724-Find%20Pivot%20Index#724-find-pivot-index)|[Rust](./Easy/0724-Find%20Pivot%20Index#solution-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/find-pivot-index/)|
-|747|[Largest Number At Least Twice of Others](./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others#747-largest-number-at-least-twice-of-others)|[Rust](./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others#solution-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|
+|724|[Find Pivot Index](./Easy/0724-Find%20Pivot%20Index#724-find-pivot-index)|[Rust](./Easy/0724-Find%20Pivot%20Index#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/find-pivot-index/)|
+|747|[Largest Number At Least Twice of Others](./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others#747-largest-number-at-least-twice-of-others)|[Rust](./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|
 |66|[Plus One](./Easy/0066-Plus%20One#66-plus-one)|[Rust](./Easy/0066-Plus%20One#solutions-rust)|[Easy](./Easy/)|[Link](https://leetcode.com/problems/plus-one/)|
 |498|Diagonal Traverse||[Medium](./Medium)|[Link](https://leetcode.com/problems/diagonal-traverse/)|
 |54|Spiral Matrix||[Medium](./Medium)|[Link](https://leetcode.com/problems/spiral-matrix/)|
@@ -200,9 +200,9 @@
 |705|[Design HashSet](./Easy/0705-Design%20HashSet#705-design-hashset)|[Rust](./Easy/0705-Design%20HashSet#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/design-hashset/)|
 |706|[Design HashMap](./Easy/0706-Design%20HashMap#706-design-hashmap)|[Rust](./Easy/0706-Design%20HashMap#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/design-hashmap/)|
 |709|[To Lower Case](./Easy/0709-To%20Lower%20Case#709-to-lower-case)|[Rust](./Easy/0709-To%20Lower%20Case#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/to-lower-case/)|
-|724|[Find Pivot Index](./Easy/0724-Find%20Pivot%20Index#724-find-pivot-index)|[Rust](./Easy/0724-Find%20Pivot%20Index#solution-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/find-pivot-index/)|
+|724|[Find Pivot Index](./Easy/0724-Find%20Pivot%20Index#724-find-pivot-index)|[Rust](./Easy/0724-Find%20Pivot%20Index#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/find-pivot-index/)|
 |728|[Self Dividing Numbers](./Easy/0728-Self%20Dividing%20Numbers#728-self-dividing-numbers)|[Python](./Easy/0728-Self%20Dividing%20Numbers#solutions-python)|[Easy](./Easy)|[Link](https://leetcode.com/problems/self-dividing-numbers/)|
-|747|[Largest Number At Least Twice of Others](./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others#747-largest-number-at-least-twice-of-others)|[Rust](./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others#solution-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|
+|747|[Largest Number At Least Twice of Others](./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others#747-largest-number-at-least-twice-of-others)|[Rust](./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|
 |754|[Reach a Number](./Easy/0754-Reach%20a%20Number#754-reach-a-number)|[Rust](./Easy/0754-Reach%20a%20Number#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/reach-a-number/)|
 |771|[Jewels and Stones](./Easy/0771-Jewels%20and%20Stones#771-jewels-and-stones)|[Rust](./Easy/0771-Jewels%20and%20Stones#solutions-rust)|[Easy](./Easy)|[Link](https://leetcode.com/problems/jewels-and-stones/)|
 |804|[Unique Morse Code Words](./Easy/0804-Unique%20Morse%20Code%20Words#804-unique-morse-code-words)|[Python](./Easy/0804-Unique%20Morse%20Code%20Words#solutions-python)|[Easy](./Easy)|[Link](https://leetcode.com/problems/unique-morse-code-words/)|
