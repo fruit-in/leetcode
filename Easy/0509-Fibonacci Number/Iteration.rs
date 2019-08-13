@@ -1,6 +1,6 @@
 impl Solution {
     pub fn fib(n: i32) -> i32 {
-        if n == 0 || n == 1{
+        if n == 0 || n == 1 {
             return n;
         }
         let mut pre1 = 1;
