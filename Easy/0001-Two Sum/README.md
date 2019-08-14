@@ -44,3 +44,61 @@ class Solution:
             if target - v in s.keys() and s[target - v] != k:
                 return [k, s[target - v]]
 ```
+
+## Solutions (Rust)
+
+### 1. Brute Force
+```Rust
+impl Solution {
+    pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
+        for i in 0..nums.len() {
+            for j in (i + 1)..nums.len() {
+                if nums[i] + nums[j] == target {
+                    return vec![i as i32, j as i32];
+                }
+            }
+        }
+        Vec::new()
+    }
+}
+```
+
+### 2. One Pass Hash Table
+```Rust
+use std::collections::HashMap;
+
+impl Solution {
+    pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
+        let mut map = HashMap::new();
+        for i in 0..nums.len() {
+            match map.get(&nums[i]) {
+                Some(&j) => return vec![j as i32, i as i32],
+                None => map.insert(target - nums[i], i),
+            };
+        }
+        Vec::new()
+    }
+}
+```
+
+### 3. Two Pass Hash Table
+```Rust
+use std::collections::HashMap;
+
+impl Solution {
+    pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
+        let mut map = HashMap::new();
+        for i in 0..nums.len() {
+            map.insert(target - nums[i], i);
+        }
+        for i in 0..nums.len() {
+            if let Some(&j) = map.get(&nums[i]) {
+                if i != j {
+                    return vec![i as i32, j as i32];
+                }
+            }
+        }
+        Vec::new()
+    }
+}
+```
