@@ -265,6 +265,7 @@
 867 |[Transpose Matrix][867]                                                  |[![p]][867sp]                           |[Easy][e]  |[![l]][867l]
 868 |[Binary Gap][868]                                                        |[![r]][868sr]                           |[Easy][e]  |[![l]][868l]
 872 |[Leaf-Similar Trees][872]                                                |[![p]][872sp]                           |[Easy][e]  |[![l]][872l]
+876 |[Middle of the Linked List][876]                                         |[![p]][876sp]                           |[Easy][e]  |[![l]][876l]
 908 |[Smallest Range I][908]                                                  |[![r]][908sr]                           |[Easy][e]  |[![l]][908l]
 912 |[Sort an Array][912]                                                     |[![r]][912sr]                           |[Medium][m]|[![l]][912l]
 921 |[Minimum Add to Make Parentheses Valid][921]                             |[![r]][921sr]                           |[Medium][m]|[![l]][921l]
@@ -373,6 +374,7 @@
 [867]:./Easy/0867-Transpose%20Matrix#867-transpose-matrix
 [868]:./Easy/0868-Binary%20Gap#868-binary-gap
 [872]:./Easy/0872-Leaf-Similar%20Trees#872-leaf-similar-trees
+[876]:./Easy/0876-Middle%20of%20the%20Linked%20List#876-middle-of-the-linked-list
 [908]:./Easy/0908-Smallest%20Range%20I#908-smallest-range-i
 [912]:./Medium/0912-Sort%20an%20Array#912-sort-an-array
 [921]:./Medium/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid#921-minimum-add-to-make-parentheses-valid
@@ -474,6 +476,7 @@
 [867sp]:./Easy/0867-Transpose%20Matrix#solutions-python
 [868sr]:./Easy/0868-Binary%20Gap#solutions-rust
 [872sp]:./Easy/0872-Leaf-Similar%20Trees#solutions-python
+[876sp]:./Easy/0876-Middle%20of%20the%20Linked%20List#solutions-python
 [908sr]:./Easy/0908-Smallest%20Range%20I#solutions-rust
 [912sr]:./Medium/0912-Sort%20an%20Array#solutions-rust
 [921sr]:./Medium/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid#solutions-rust
@@ -651,6 +654,7 @@
 [867l]:https://leetcode.com/problems/transpose-matrix/
 [868l]:https://leetcode.com/problems/binary-gap/
 [872l]:https://leetcode.com/problems/leaf-similar-trees/
+[876l]:https://leetcode.com/problems/middle-of-the-linked-list/
 [908l]:https://leetcode.com/problems/smallest-range-i/
 [912l]:https://leetcode.com/problems/sort-an-array/
 [921l]:https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
