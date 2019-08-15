@@ -237,6 +237,7 @@
 461 |[Hamming Distance][461]                                                  |[![r]][461sr]                           |[Easy][e]  |[![l]][461l]
 485 |[Max Consecutive Ones][485]                                              |[![r]][485sr]                           |[Easy][e]  |[![l]][485l]
 500 |[Keyboard Row][500]                                                      |[![p]][500sp]                           |[Easy][e]  |[![l]][500l]
+504 |[Base 7][504]                                                            |[![p]][504sp]                           |[Easy][e]  |[![l]][504l]
 509 |[Fibonacci Number][509]                                                  |[![r]][509sr]                           |[Easy][e]  |[![l]][509l]
 559 |[Maximum Depth of N-ary Tree][559]                                       |[![p]][559sp]                           |[Easy][e]  |[![l]][559l]
 589 |[N-ary Tree Preorder Traversal][589]                                     |[![p]][589sp]                           |[Easy][e]  |[![l]][589l]
@@ -346,6 +347,7 @@
 [461]:./Easy/0461-Hamming%20Distance#461-hamming-distance
 [485]:./Easy/0485-Max%20Consecutive%20Ones#485-max-consecutive-ones
 [500]:./Easy/0500-Keyboard%20Row#500-keyboard-row
+[504]:./Easy/0504-Base%207#504-base-7
 [509]:./Easy/0509-Fibonacci%20Number#509-fibonacci-number
 [559]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#559-maximum-depth-of-n-ary-tree
 [589]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal#589-n-ary-tree-preorder-traversal
@@ -448,6 +450,7 @@
 [461sr]:./Easy/0461-Hamming%20Distance#solutions-rust
 [485sr]:./Easy/0485-Max%20Consecutive%20Ones#solutions-rust
 [500sp]:./Easy/0500-Keyboard%20Row#solutions-python
+[504sp]:./Easy/0504-Base%207#solutions-python
 [509sr]:./Easy/0509-Fibonacci%20Number#solutions-rust
 [559sp]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree#solutions-python
 [589sp]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal#solutions-python
@@ -613,6 +616,7 @@
 [494l]:https://leetcode.com/problems/target-sum/
 [498l]:https://leetcode.com/problems/diagonal-traverse/
 [500l]:https://leetcode.com/problems/keyboard-row/
+[504l]:https://leetcode.com/problems/base-7/
 [509l]:https://leetcode.com/problems/fibonacci-number/
 [542l]:https://leetcode.com/problems/01-matrix/
 [557l]:https://leetcode.com/problems/reverse-words-in-a-string-iii/
