@@ -244,7 +244,7 @@
 617 |[Merge Two Binary Trees][617]                                            |[![p]][617sp]                           |[Easy][e]  |[![l]][617l]
 622 |[Design Circular Queue][622]                                             |[![r]][622sr]                           |[Medium][m]|[![l]][622l]
 654 |[Maximum Binary Tree][654]                                               |[![p]][654sp]                           |[Medium][m]|[![l]][654l]
-657 |[Robot Return to Origin][657]                                            |[![r]][657sr]                           |[Easy][e]  |[![l]][657l]
+657 |[Robot Return to Origin][657]                                            |[![p]][657sp]&nbsp;&nbsp;[![r]][657sr]  |[Easy][e]  |[![l]][657l]
 700 |[Search in a Binary Search Tree][700]                                    |[![p]][700sp]                           |[Easy][e]  |[![l]][700l]
 701 |[Insert into a Binary Search Tree][701]                                  |[![p]][701sp]                           |[Medium][m]|[![l]][701l]
 704 |[Binary Search][704]                                                     |[![r]][704sr]                           |[Easy][e]  |[![l]][704l]
@@ -455,6 +455,7 @@
 [617sp]:./Easy/0617-Merge%20Two%20Binary%20Trees#solutions-python
 [622sr]:./Medium/0622-Design%20Circular%20Queue#solutions-rust
 [654sp]:./Medium/0654-Maximum%20Binary%20Tree#solutions-python
+[657sp]:./Easy/0657-Robot%20Return%20to%20Origin#solutions-python
 [657sr]:./Easy/0657-Robot%20Return%20to%20Origin#solutions-rust
 [700sp]:./Easy/0700-Search%20in%20a%20Binary%20Search%20Tree#solutions-python
 [701sp]:./Medium/0701-Insert%20into%20a%20Binary%20Search%20Tree#solutions-python

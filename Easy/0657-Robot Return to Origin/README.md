@@ -21,6 +21,33 @@ at the origin where it started. Therefore, we return true.
 because it is not at the origin at the end of its moves.
 </pre>
 
+## Solutions (Python)
+
+### 1. Simulation
+```Python3
+class Solution:
+    def judgeCircle(self, moves: str) -> bool:
+        x, y = 0, 0
+        for c in moves:
+            if c == 'R':
+                x += 1
+            elif c == 'L':
+                x -= 1
+            elif c == 'U':
+                y += 1
+            elif c == 'D':
+                y -= 1
+        return x == 0 and y == 0
+```
+
+### 2. Count
+```Python3
+class Solution:
+    def judgeCircle(self, moves: str) -> bool:
+        return moves.count('R') == moves.count('L') \
+               and moves.count('U') == moves.count('D')
+```
+
 ## Solutions (Rust)
 
 ### 1. Simulation
@@ -44,9 +71,11 @@ impl Solution {
 ```
 
 ### 2. Count
-```Python3
-class Solution:
-    def judgeCircle(self, moves: str) -> bool:
-        return moves.count('R') == moves.count('L') \
-               and moves.count('U') == moves.count('D')
+```Rust
+impl Solution {
+    pub fn judge_circle(moves: String) -> bool {
+        moves.matches('R').count() == moves.matches('L').count() &&
+        moves.matches('U').count() == moves.matches('D').count()
+    }
+}
 ```
