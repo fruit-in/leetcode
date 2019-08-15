@@ -289,6 +289,7 @@
 1051|[Height Checker][1051]                                                   |[![p]][1051sp]                          |[Easy][e]  |[![l]][1051l]
 1071|[Greatest Common Divisor of Strings][1071]                               |[![p]][1071sp]                          |[Easy][e]  |[![l]][1071l]
 1108|[Defanging an IP Address][1108]                                          |[![r]][1108sr]                          |[Easy][e]  |[![l]][1108l]
+1122|[Relative Sort Array][1122]                                              |[![r]][1122sr]                          |[Easy][e]  |[![l]][1122l]
 1137|[N-th Tribonacci Number][1137]                                           |[![r]][1137sr]                          |[Easy][e]  |[![l]][1137l]
 1154|[Day of the Year][1154]                                                  |[![r]][1154sr]                          |[Easy][e]  |[![l]][1154l]
 
@@ -399,6 +400,7 @@
 [1051]:./Easy/1051-Height%20Checker#1051-height-checker
 [1071]:./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings#1071-greatest-common-divisor-of-strings
 [1108]:./Easy/1108-Defanging%20an%20IP%20Address#1108-defanging-an-ip-address
+[1122]:./Easy/1122-Relative%20Sort%20Array#1122-relative-sort-array
 [1137]:./Easy/1137-N-th%20Tribonacci%20Number#1137-n-th-tribonacci-number
 [1154]:./Easy/1154-Day%20of%20the%20Year#1154-day-of-the-year
 
@@ -503,6 +505,7 @@
 [1051sp]:./Easy/1051-Height%20Checker#solutions-python
 [1071sp]:./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings#solutions-python
 [1108sr]:./Easy/1108-Defanging%20an%20IP%20Address#solutions-rust
+[1122sr]:./Easy/1122-Relative%20Sort%20Array#solutions-rust
 [1137sr]:./Easy/1137-N-th%20Tribonacci%20Number#solutions-rust
 [1154sr]:./Easy/1154-Day%20of%20the%20Year#solutions-rust
 
@@ -682,5 +685,6 @@
 [1051l]:https://leetcode.com/problems/height-checker/
 [1071l]:https://leetcode.com/problems/greatest-common-divisor-of-strings/
 [1108l]:https://leetcode.com/problems/defanging-an-ip-address/
+[1122l]:https://leetcode.com/problems/relative-sort-array/
 [1137l]:https://leetcode.com/problems/n-th-tribonacci-number/
 [1154l]:https://leetcode.com/problems/day-of-the-year/
