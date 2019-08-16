@@ -339,7 +339,7 @@
 [226]:./Easy/0226-Invert%20Binary%20Tree#226-invert-binary-tree
 [231]:./Easy/0231-Power%20of%20Two#231-power-of-two
 [232]:./Easy/0232-Implement%20Queue%20using%20Stacks#232-implement-queue-using-stacks
-[237]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List#delete-node-in-a-linked-list
+[237]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List#237-delete-node-in-a-linked-list
 [263]:./Easy/0263-Ugly%20Number#263-ugly-number
 [283]:./Easy/0283-Move%20Zeroes#283-move-zeroes
 [292]:./Easy/0292-Nim%20Game#292-nim-game
