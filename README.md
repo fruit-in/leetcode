@@ -47,7 +47,7 @@
 142 |Linked List Cycle II                                                     |                                        |[Medium][m]|[![l]][142l]
 160 |Intersection of Two Linked Lists                                         |                                        |[Easy][e]  |[![l]][160l]
 206 |Reverse Linked List                                                      |                                        |[Easy][e]  |[![l]][206l]
-203 |Remove Linked List Elements                                              |                                        |[Easy][e]  |[![l]][203l]
+203 |[Remove Linked List Elements][203]                                       |[![p]][203sp]                           |[Easy][e]  |[![l]][203l]
 328 |Odd Even Linked List                                                     |                                        |[Medium][m]|[![l]][328l]
 234 |Palindrome Linked List                                                   |                                        |[Easy][e]  |[![l]][234l]
 21  |[Merge Two Sorted Lists][21]                                             |[![p]][21sp]                            |[Easy][e]  |[![l]][21l]
@@ -218,6 +218,7 @@
 191 |[Number of 1 Bits][191]                                                  |[![r]][191sr]                           |[Easy][e]  |[![l]][191l]
 201 |[Bitwise AND of Numbers Range][201]                                      |[![r]][201sr]                           |[Medium][m]|[![l]][201l]
 202 |[Happy Number][202]                                                      |[![r]][202sr]                           |[Easy][e]  |[![l]][202l]
+203 |[Remove Linked List Elements][203]                                       |[![p]][203sp]                           |[Easy][e]  |[![l]][203l]
 217 |[Contains Duplicate][217]                                                |[![r]][217sr]                           |[Easy][e]  |[![l]][217l]
 219 |[Contains Duplicate II][219]                                             |[![r]][219sr]                           |[Easy][e]  |[![l]][219l]
 220 |[Contains Duplicate III][220]                                            |[![r]][220sr]                           |[Medium][m]|[![l]][220l]
@@ -329,6 +330,7 @@
 [191]:./Easy/0191-Number%20of%201%20Bits#191-number-of-1-bits
 [201]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range#201-bitwise-and-of-numbers-range
 [202]:./Easy/0202-Happy%20Number#202-happy-number
+[203]:./Easy/0203-Remove%20Linked%20List%20Elements#remove-linked-list-elements
 [217]:./Easy/0217-Contains%20Duplicate#217-contains-duplicate
 [219]:./Easy/0219-Contains%20Duplicate%20II#219-contains-duplicate-ii
 [220]:./Medium/0220-Contains%20Duplicate%20III#220-contains-duplicate-iii
@@ -433,6 +435,7 @@
 [191sr]:./Easy/0191-Number%20of%201%20Bits#solutions-rust
 [201sr]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range#solutions-rust
 [202sr]:./Easy/0202-Happy%20Number#solutions-rust
+[203sp]:./Easy/0203-Remove%20Linked%20List%20Elements#solutions-python
 [217sr]:./Easy/0217-Contains%20Duplicate#solutions-rust
 [219sr]:./Easy/0219-Contains%20Duplicate%20II#solutions-rust
 [220sr]:./Medium/0220-Contains%20Duplicate%20III#solutions-rust
