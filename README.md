@@ -226,6 +226,7 @@
 226 |[Invert Binary Tree][226]                                                |[![p]][226sp]                           |[Easy][e]  |[![l]][226l]
 231 |[Power of Two][231]                                                      |[![r]][231sr]                           |[Easy][e]  |[![l]][231l]
 232 |[Implement Queue using Stacks][232]                                      |[![r]][232sr]                           |[Easy][e]  |[![l]][232l]
+237 |[Delete Node in a Linked List][237]                                      |[![p]][237sp]                           |[Easy][e]  |[![l]][237l]
 263 |[Ugly Number][263]                                                       |[![r]][263sr]                           |[Easy][e]  |[![l]][263l]
 283 |[Move Zeroes][283]                                                       |[![r]][283sr]                           |[Easy][e]  |[![l]][283l]
 292 |[Nim Game][292]                                                          |[![r]][292sr]                           |[Easy][e]  |[![l]][292l]
@@ -338,6 +339,7 @@
 [226]:./Easy/0226-Invert%20Binary%20Tree#226-invert-binary-tree
 [231]:./Easy/0231-Power%20of%20Two#231-power-of-two
 [232]:./Easy/0232-Implement%20Queue%20using%20Stacks#232-implement-queue-using-stacks
+[237]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List#delete-node-in-a-linked-list
 [263]:./Easy/0263-Ugly%20Number#263-ugly-number
 [283]:./Easy/0283-Move%20Zeroes#283-move-zeroes
 [292]:./Easy/0292-Nim%20Game#292-nim-game
@@ -443,6 +445,7 @@
 [226sp]:./Easy/0226-Invert%20Binary%20Tree#solutions-python
 [231sr]:./Easy/0231-Power%20of%20Two#solutions-rust
 [232sr]:./Easy/0232-Implement%20Queue%20using%20Stacks#solutions-rust
+[237sp]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List#solutions-python
 [263sr]:./Easy/0263-Ugly%20Number#solutions-rust
 [283sr]:./Easy/0283-Move%20Zeroes#solutions-rust
 [292sr]:./Easy/0292-Nim%20Game#solutions-rust
@@ -594,6 +597,7 @@
 [234l]:https://leetcode.com/problems/palindrome-linked-list/
 [235l]:https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [236l]:https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+[237l]:https://leetcode.com/problems/delete-node-in-a-linked-list/
 [240l]:https://leetcode.com/problems/search-a-2d-matrix-ii/
 [263l]:https://leetcode.com/problems/ugly-number/
 [279l]:https://leetcode.com/problems/perfect-squares/
