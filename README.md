@@ -194,6 +194,7 @@
 1   |[Two Sum][1]                                                             |[![p]][1sp]&nbsp;&nbsp;[![r]][1sr]      |[Easy][e]  |[![l]][1l]
 7   |[Reverse Integer][7]                                                     |[![p]][7sp]                             |[Easy][e]  |[![l]][7l]
 9   |[Palindrome Number][9]                                                   |[![p]][9sp]                             |[Easy][e]  |[![l]][9l]
+13  |[Roman to Integer][13]                                                   |[![r]][13sr]                            |[Easy][e]  |[![l]][13l]
 14  |[Longest Common Prefix][14]                                              |[![p]][14sp]                            |[Easy][e]  |[![l]][14l]
 20  |[Valid Parentheses][20]                                                  |[![p]][20sp]                            |[Easy][e]  |[![l]][20l]
 21  |[Merge Two Sorted Lists][21]                                             |[![p]][21sp]                            |[Easy][e]  |[![l]][21l]
@@ -307,6 +308,7 @@
 [1]:./Easy/0001-Two%20Sum#1-two-sum
 [7]:./Easy/0007-Reverse%20Integer#7-reverse-integer
 [9]:./Easy/0009-Palindrome%20Number#9-palindrome-number
+[13]:./Easy/0013-Roman%20to%20Integer#13-roman-to-integer
 [14]:./Easy/0014-Longest%20Common%20Prefix#14-longest-common-prefix
 [20]:./Easy/0020-Valid%20Parentheses#20-valid-parentheses
 [21]:./Easy/0021-Merge%20Two%20Sorted%20Lists#21-merge-two-sorted-lists
@@ -412,6 +414,7 @@
 [1sr]:./Easy/0001-Two%20Sum#solutions-rust
 [7sp]:./Easy/0007-Reverse%20Integer#solutions-python
 [9sp]:./Easy/0009-Palindrome%20Number#solutions-python
+[13sr]:./Easy/0013-Roman%20to%20Integer#solutions-rust
 [14sp]:./Easy/0014-Longest%20Common%20Prefix#solutions-python
 [20sp]:./Easy/0020-Valid%20Parentheses#solutions-python
 [21sp]:./Easy/0021-Merge%20Two%20Sorted%20Lists#solutions-python
@@ -520,6 +523,7 @@
 [3l]:https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [7l]:https://leetcode.com/problems/reverse-integer/
 [9l]:https://leetcode.com/problems/palindrome-number/
+[13l]:https://leetcode.com/problems/roman-to-integer/
 [14l]:https://leetcode.com/problems/longest-common-prefix/
 [17l]:https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 [20l]:https://leetcode.com/problems/valid-parentheses/
