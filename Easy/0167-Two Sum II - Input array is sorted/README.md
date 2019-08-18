@@ -14,10 +14,10 @@ The function twoSum should return indices of the two numbers such that they add 
 <strong>Explanation:</strong> The sum of 2 and 7 is 9. Therefore index1 = 1, index2 = 2.
 </pre>
 
-## Solutions (Python)
+## Solutions (Rust)
 
 ### 1. Binary Search
-```Python3
+```Rust
 impl Solution {
     pub fn two_sum(numbers: Vec<i32>, target: i32) -> Vec<i32> {
         let len = numbers.len();
@@ -44,7 +44,7 @@ impl Solution {
 ```
 
 ### 2. Two Pointers
-```Python3
+```Rust
 impl Solution {
     pub fn two_sum(numbers: Vec<i32>, target: i32) -> Vec<i32> {
         let mut i = 0;

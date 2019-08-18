@@ -331,7 +331,7 @@
 [145]:./Hard/0145-Binary%20Tree%20Postorder%20Traversal#145-binary-tree-postorder-traversal
 [150]:./Medium/0150-Evaluate%20Reverse%20Polish%20Notation#150-evaluate-reverse-polish-notation
 [155]:./Easy/0155-Min%20Stack#155-min-stack
-[167]:./Easy/0167-Two%20Sum%20II%20-%20Input%20array%20is%20sorted#two-sum-ii-input-array-is-sorted
+[167]:./Easy/0167-Two%20Sum%20II%20-%20Input%20array%20is%20sorted#two-sum-ii---input-array-is-sorted
 [191]:./Easy/0191-Number%20of%201%20Bits#191-number-of-1-bits
 [201]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range#201-bitwise-and-of-numbers-range
 [202]:./Easy/0202-Happy%20Number#202-happy-number
