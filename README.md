@@ -28,7 +28,7 @@
 14  |[Longest Common Prefix][14]                                              |[![p]][14sp]                            |[Easy][e]  |[![l]][14l]
 344 |[Reverse String][344]                                                    |[![r]][344sr]                           |[Easy][e]  |[![l]][344l]
 561 |Array Partition I                                                        |                                        |[Easy][e]  |[![l]][561l]
-167 |Two Sum II - Input array is sorted                                       |                                        |[Easy][e]  |[![l]][167l]
+167 |[Two Sum II - Input array is sorted][167]                                |[![r]][167sr]                           |[Easy][e]  |[![l]][167l]
 27  |[Remove Element][27]                                                     |[![r]][27sr]                            |[Easy][e]  |[![l]][27l]
 485 |[Max Consecutive Ones][485]                                              |[![r]][485sr]                           |[Easy][e]  |[![l]][485l]
 209 |Minimum Size Subarray Sum                                                |                                        |[Medium][m]|[![l]][209l]
@@ -216,6 +216,7 @@
 145 |[Binary Tree Postorder Traversal][145]                                   |[![p]][145sp]                           |[Hard][h]  |[![l]][145l]
 150 |[Evaluate Reverse Polish Notation][150]                                  |[![r]][150sr]                           |[Medium][m]|[![l]][150l]
 155 |[Min Stack][155]                                                         |[![r]][155sr]                           |[Easy][e]  |[![l]][155l]
+167 |[Two Sum II - Input array is sorted][167]                                |[![r]][167sr]                           |[Easy][e]  |[![l]][167l]
 191 |[Number of 1 Bits][191]                                                  |[![r]][191sr]                           |[Easy][e]  |[![l]][191l]
 201 |[Bitwise AND of Numbers Range][201]                                      |[![r]][201sr]                           |[Medium][m]|[![l]][201l]
 202 |[Happy Number][202]                                                      |[![r]][202sr]                           |[Easy][e]  |[![l]][202l]
@@ -330,6 +331,7 @@
 [145]:./Hard/0145-Binary%20Tree%20Postorder%20Traversal#145-binary-tree-postorder-traversal
 [150]:./Medium/0150-Evaluate%20Reverse%20Polish%20Notation#150-evaluate-reverse-polish-notation
 [155]:./Easy/0155-Min%20Stack#155-min-stack
+[167]:./Easy/0167-Two%20Sum%20II%20-%20Input%20array%20is%20sorted#two-sum-ii-input-array-is-sorted
 [191]:./Easy/0191-Number%20of%201%20Bits#191-number-of-1-bits
 [201]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range#201-bitwise-and-of-numbers-range
 [202]:./Easy/0202-Happy%20Number#202-happy-number
@@ -437,6 +439,7 @@
 [145sp]:./Hard/0145-Binary%20Tree%20Postorder%20Traversal#solutions-python
 [150sr]:./Medium/0150-Evaluate%20Reverse%20Polish%20Notation#solutions-rust
 [155sr]:./Easy/0155-Min%20Stack#solutions-rust
+[167sr]:./Easy/0167-Two%20Sum%20II%20-%20Input%20array%20is%20sorted#solutions-rust
 [191sr]:./Easy/0191-Number%20of%201%20Bits#solutions-rust
 [201sr]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range#solutions-rust
 [202sr]:./Easy/0202-Happy%20Number#solutions-rust
