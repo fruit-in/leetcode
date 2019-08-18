@@ -40,6 +40,7 @@
 232 |[Implement Queue using Stacks][232]                                      |[![r]][232sr]                           |[Easy][e]  |[![l]][232l]
 237 |[Delete Node in a Linked List][237]                                      |[![p]][237sp]                           |[Easy][e]  |[![l]][237l]
 263 |[Ugly Number][263]                                                       |[![r]][263sr]                           |[Easy][e]  |[![l]][263l]
+279 |[Perfect Squares][279]                                                   |[![r]][279sr]                           |[Medium][m]|[![l]][279l]
 283 |[Move Zeroes][283]                                                       |[![r]][283sr]                           |[Easy][e]  |[![l]][283l]
 292 |[Nim Game][292]                                                          |[![r]][292sr]                           |[Easy][e]  |[![l]][292l]
 338 |[Counting Bits][338]                                                     |[![r]][338sr]                           |[Medium][m]|[![l]][338l]
@@ -155,6 +156,7 @@
 [232]:./Easy/0232-Implement%20Queue%20using%20Stacks/README.md#232-implement-queue-using-stacks
 [237]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List/README.md#237-delete-node-in-a-linked-list
 [263]:./Easy/0263-Ugly%20Number/README.md#263-ugly-number
+[279]:./Medium/0279-Perfect%20Squares/README.md#279-perfect-squares
 [283]:./Easy/0283-Move%20Zeroes/README.md#283-move-zeroes
 [292]:./Easy/0292-Nim%20Game/README.md#292-nim-game
 [338]:./Medium/0338-Counting%20Bits/README.md#338-counting-bits
@@ -263,6 +265,7 @@
 [232sr]:./Easy/0232-Implement%20Queue%20using%20Stacks/README.md#solutions-rust
 [237sp]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List/README.md#solutions-python
 [263sr]:./Easy/0263-Ugly%20Number/README.md#solutions-rust
+[279sr]:./Medium/0279-Perfect%20Squares/README.md#solutions-rust
 [283sr]:./Easy/0283-Move%20Zeroes/README.md#solutions-rust
 [292sr]:./Easy/0292-Nim%20Game/README.md#solutions-rust
 [338sr]:./Medium/0338-Counting%20Bits/README.md#solutions-rust
