@@ -61,6 +61,7 @@
 622 |[Design Circular Queue][622]                                             |[![r]][622sr]                           |[Medium][m]|[![l]][622l]
 654 |[Maximum Binary Tree][654]                                               |[![p]][654sp]                           |[Medium][m]|[![l]][654l]
 657 |[Robot Return to Origin][657]                                            |[![p]][657sp]&nbsp;&nbsp;[![r]][657sr]  |[Easy][e]  |[![l]][657l]
+665 |[Non-decreasing Array][665]                                              |[![p]][665sp]                           |[Easy][e]  |[![l]][665l]
 700 |[Search in a Binary Search Tree][700]                                    |[![p]][700sp]                           |[Easy][e]  |[![l]][700l]
 701 |[Insert into a Binary Search Tree][701]                                  |[![p]][701sp]                           |[Medium][m]|[![l]][701l]
 704 |[Binary Search][704]                                                     |[![r]][704sr]                           |[Easy][e]  |[![l]][704l]
@@ -177,6 +178,7 @@
 [622]:./Medium/0622-Design%20Circular%20Queue/README.md#622-design-circular-queue
 [654]:./Medium/0654-Maximum%20Binary%20Tree/README.md#654-maximum-binary-tree
 [657]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#657-robot-return-to-origin
+[665]:./Easy/0665-Non-decreasing%20Array/README.md#665-non-decreasing-array
 [700]:./Easy/0700-Search%20in%20a%20Binary%20Search%20Tree/README.md#700-search-in-a-binary-search-tree
 [701]:./Medium/0701-Insert%20into%20a%20Binary%20Search%20Tree/README.md#701-insert-into-a-binary-search-tree
 [704]:./Easy/0704-Binary%20Search/README.md#704-binary-search
@@ -287,6 +289,7 @@
 [654sp]:./Medium/0654-Maximum%20Binary%20Tree/README.md#solutions-python
 [657sp]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#solutions-python
 [657sr]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#solutions-rust
+[665sp]:./Easy/0665-Non-decreasing%20Array/README.md#solutions-python
 [700sp]:./Easy/0700-Search%20in%20a%20Binary%20Search%20Tree/README.md#solutions-python
 [701sp]:./Medium/0701-Insert%20into%20a%20Binary%20Search%20Tree/README.md#solutions-python
 [704sr]:./Easy/0704-Binary%20Search/README.md#solutions-rust
@@ -461,6 +464,7 @@
 [652l]:https://leetcode.com/problems/find-duplicate-subtrees/
 [654l]:https://leetcode.com/problems/maximum-binary-tree/
 [657l]:https://leetcode.com/problems/robot-return-to-origin/
+[665l]:https://leetcode.com/problems/non-decreasing-array/
 [677l]:https://leetcode.com/problems/map-sum-pairs/
 [700l]:https://leetcode.com/problems/search-in-a-binary-search-tree/
 [701l]:https://leetcode.com/problems/insert-into-a-binary-search-tree/
