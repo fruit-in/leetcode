@@ -8,6 +8,7 @@
 14  |[Longest Common Prefix][14]                                              |[![p]][14sp]                            |[Easy][e]  |[![l]][14l]
 20  |[Valid Parentheses][20]                                                  |[![p]][20sp]                            |[Easy][e]  |[![l]][20l]
 21  |[Merge Two Sorted Lists][21]                                             |[![p]][21sp]                            |[Easy][e]  |[![l]][21l]
+26  |[Remove Duplicates from Sorted Array][26]                                |[![r]][26sr]                            |[Easy][e]  |[![l]][26l]
 27  |[Remove Element][27]                                                     |[![r]][27sr]                            |[Easy][e]  |[![l]][27l]
 36  |[Valid Sudoku][36]                                                       |[![r]][36sr]                            |[Medium][m]|[![l]][36l]
 50  |[Pow(x, n)][50]                                                          |[![r]][50sr]                            |[Medium][m]|[![l]][50l]
@@ -125,6 +126,7 @@
 [14]:./Easy/0014-Longest%20Common%20Prefix/README.md#14-longest-common-prefix
 [20]:./Easy/0020-Valid%20Parentheses/README.md#20-valid-parentheses
 [21]:./Easy/0021-Merge%20Two%20Sorted%20Lists/README.md#21-merge-two-sorted-lists
+[26]:./Easy/0026-Remove%20Duplicates%20from%20Sorted%20Array/README.md#26-remove-duplicates-from-sorted-array
 [27]:./Easy/0027-Remove%20Element/README.md#27-remove-element
 [36]:./Medium/0036-Valid%20Sudoku/README.md#36-valid-sudoku
 [50]:./Medium/0050-Pow\(x,%20n\)/README.md#50-powx-n
@@ -234,6 +236,7 @@
 [14sp]:./Easy/0014-Longest%20Common%20Prefix/README.md#solutions-python
 [20sp]:./Easy/0020-Valid%20Parentheses/README.md#solutions-python
 [21sp]:./Easy/0021-Merge%20Two%20Sorted%20Lists/README.md#solutions-python
+[26sr]:./Easy/0026-Remove%20Duplicates%20from%20Sorted%20Array/README.md#solutions-rust
 [27sr]:./Easy/0027-Remove%20Element/README.md#solutions-rust
 [36sr]:./Medium/0036-Valid%20Sudoku/README.md#solutions-rust
 [50sr]:./Medium/0050-Pow\(x,%20n\)/README.md#solutions-rust
