@@ -10,6 +10,7 @@
 21  |[Merge Two Sorted Lists][21]                                             |[![p]][21sp]                            |[Easy][e]  |[![l]][21l]
 26  |[Remove Duplicates from Sorted Array][26]                                |[![r]][26sr]                            |[Easy][e]  |[![l]][26l]
 27  |[Remove Element][27]                                                     |[![r]][27sr]                            |[Easy][e]  |[![l]][27l]
+28  |[Implement strStr()][28]                                                 |[![p]][28sp]                            |[Easy][e]  |[![l]][28l]
 36  |[Valid Sudoku][36]                                                       |[![r]][36sr]                            |[Medium][m]|[![l]][36l]
 50  |[Pow(x, n)][50]                                                          |[![r]][50sr]                            |[Medium][m]|[![l]][50l]
 66  |[Plus One][66]                                                           |[![r]][66sr]                            |[Easy][e]  |[![l]][66l]
@@ -128,6 +129,7 @@
 [21]:./Easy/0021-Merge%20Two%20Sorted%20Lists/README.md#21-merge-two-sorted-lists
 [26]:./Easy/0026-Remove%20Duplicates%20from%20Sorted%20Array/README.md#26-remove-duplicates-from-sorted-array
 [27]:./Easy/0027-Remove%20Element/README.md#27-remove-element
+[28]:./Easy/0028-Implement%20strStr\(\)/README.md#28-implement-strstr
 [36]:./Medium/0036-Valid%20Sudoku/README.md#36-valid-sudoku
 [50]:./Medium/0050-Pow\(x,%20n\)/README.md#50-powx-n
 [66]:./Easy/0066-Plus%20One/README.md#66-plus-one
@@ -238,6 +240,7 @@
 [21sp]:./Easy/0021-Merge%20Two%20Sorted%20Lists/README.md#solutions-python
 [26sr]:./Easy/0026-Remove%20Duplicates%20from%20Sorted%20Array/README.md#solutions-rust
 [27sr]:./Easy/0027-Remove%20Element/README.md#solutions-rust
+[28sp]:./Easy/0028-Implement%20strStr\(\)/README.md#solutions-python
 [36sr]:./Medium/0036-Valid%20Sudoku/README.md#solutions-rust
 [50sr]:./Medium/0050-Pow\(x,%20n\)/README.md#solutions-rust
 [66sr]:./Easy/0066-Plus%20One/README.md#solutions-rust
