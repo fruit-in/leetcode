@@ -15,6 +15,7 @@
 36  |[Valid Sudoku][36]                                                       |[![r]][36sr]                            |[Medium][m]|[![l]][36l]
 38  |[Count and Say][38]                                                      |[![p]][38sp]                            |[Easy][e]  |[![l]][38l]
 50  |[Pow(x, n)][50]                                                          |[![r]][50sr]                            |[Medium][m]|[![l]][50l]
+58  |[Length of Last Word][58]                                                |[![r]][58sr]                            |[Easy][e]  |[![l]][58l]
 66  |[Plus One][66]                                                           |[![r]][66sr]                            |[Easy][e]  |[![l]][66l]
 69  |[Sqrt(x)][69]                                                            |[![r]][69sr]                            |[Easy][e]  |[![l]][69l]
 75  |[Sort Colors][75]                                                        |[![r]][75sr]                            |[Medium][m]|[![l]][75l]
@@ -136,6 +137,7 @@
 [36]:./Medium/0036-Valid%20Sudoku/README.md#36-valid-sudoku
 [38]:./Easy/0038-Count%20and%20Say/README.md#38-count-and-say
 [50]:./Medium/0050-Pow\(x,%20n\)/README.md#50-powx-n
+[58]:./Easy/0058-Length%20of%20Last%20Word/README.md#58-length-of-last-word
 [66]:./Easy/0066-Plus%20One/README.md#66-plus-one
 [69]:./Easy/0069-Sqrt\(x\)/README.md#69-sqrtx
 [75]:./Medium/0075-Sort%20Colors/README.md#75-sort-colors
@@ -249,6 +251,7 @@
 [36sr]:./Medium/0036-Valid%20Sudoku/README.md#solutions-rust
 [38sp]:./Easy/0038-Count%20and%20Say/README.md#solutions-python
 [50sr]:./Medium/0050-Pow\(x,%20n\)/README.md#solutions-rust
+[58sr]:./Easy/0058-Length%20of%20Last%20Word/README.md#solutions-rust
 [66sr]:./Easy/0066-Plus%20One/README.md#solutions-rust
 [69sr]:./Easy/0069-Sqrt\(x\)/README.md#solutions-rust
 [75sr]:./Medium/0075-Sort%20Colors/README.md#solutions-rust
@@ -373,6 +376,7 @@
 [50l]:https://leetcode.com/problems/powx-n/
 [52l]:https://leetcode.com/problems/n-queens-ii/
 [54l]:https://leetcode.com/problems/spiral-matrix/
+[58l]:https://leetcode.com/problems/length-of-last-word/
 [61l]:https://leetcode.com/problems/rotate-list/
 [66l]:https://leetcode.com/problems/plus-one/
 [67l]:https://leetcode.com/problems/add-binary/
