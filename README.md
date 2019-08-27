@@ -19,6 +19,7 @@
 66  |[Plus One][66]                                                           |[![r]][66sr]                            |[Easy][e]  |[![l]][66l]
 69  |[Sqrt(x)][69]                                                            |[![r]][69sr]                            |[Easy][e]  |[![l]][69l]
 75  |[Sort Colors][75]                                                        |[![r]][75sr]                            |[Medium][m]|[![l]][75l]
+83  |[Remove Duplicates from Sorted List][83]                                 |[![p]][83sp]                            |[Easy][e]  |[![l]][83l]
 88  |[Merge Sorted Array][88]                                                 |[![r]][88sp]                            |[Easy][e]  |[![l]][88l]
 94  |[Binary Tree Inorder Traversal][94]                                      |[![p]][94sp]&nbsp;&nbsp;[![r]][94sr]    |[Medium][m]|[![l]][94l]
 100 |[Same Tree][100]                                                         |[![p]][100sp]                           |[Easy][e]  |[![l]][100l]
@@ -144,6 +145,7 @@
 [66]:./Easy/0066-Plus%20One/README.md#66-plus-one
 [69]:./Easy/0069-Sqrt\(x\)/README.md#69-sqrtx
 [75]:./Medium/0075-Sort%20Colors/README.md#75-sort-colors
+[83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README.md#83-remove-duplicates-from-sorted-list
 [88]:./Easy/0088-Merge%20Sorted%20Array/README.md#88-merge-sorted-array
 [94]:./Medium/0094-Binary%20Tree%20Inorder%20Traversal/README.md#94-binary-tree-inorder-traversal
 [100]:./Easy/0100-Same%20Tree/README.md#100-same-tree
@@ -261,6 +263,7 @@
 [66sr]:./Easy/0066-Plus%20One/README.md#solutions-rust
 [69sr]:./Easy/0069-Sqrt\(x\)/README.md#solutions-rust
 [75sr]:./Medium/0075-Sort%20Colors/README.md#solutions-rust
+[83sp]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README.md#solutions-python
 [88sp]:./Easy/0088-Merge%20Sorted%20Array/README.md#solutions-python
 [94sp]:./Medium/0094-Binary%20Tree%20Inorder%20Traversal/README.md#solutions-python
 [94sr]:./Medium/0094-Binary%20Tree%20Inorder%20Traversal/README.md#solutions-rust
@@ -393,6 +396,7 @@
 [70l]:https://leetcode.com/problems/climbing-stairs/
 [75l]:https://leetcode.com/problems/sort-colors/
 [77l]:https://leetcode.com/problems/combinations/
+[83l]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [84l]:https://leetcode.com/problems/largest-rectangle-in-histogram/
 [88l]:https://leetcode.com/problems/merge-sorted-array/
 [94l]:https://leetcode.com/problems/binary-tree-inorder-traversal/
