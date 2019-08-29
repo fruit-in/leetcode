@@ -55,6 +55,7 @@
 338 |[Counting Bits][338]                                                     |[![r]][338sr]                           |[Medium][m]|[![l]][338l]
 344 |[Reverse String][344]                                                    |[![r]][344sr]                           |[Easy][e]  |[![l]][344l]
 409 |[Longest Palindrome][409]                                                |[![r]][409sr]                           |[Easy][e]  |[![l]][409l]
+414 |[Third Maximum Number][414]                                              |[![r]][414sr]                           |[Easy][e]  |[![l]][414l]
 429 |[N-ary Tree Level Order Traversal][429]                                  |[![p]][429sp]                           |[Easy][e]  |[![l]][429l]
 454 |[4Sum II][454]                                                           |[![r]][454sr]                           |[Medium][m]|[![l]][454l]
 459 |[Repeated Substring Pattern][459]                                        |[![p]][459sp]                           |[Easy][e]  |[![l]][459l]
@@ -181,6 +182,7 @@
 [338]:./Medium/0338-Counting%20Bits/README.md#338-counting-bits
 [344]:./Easy/0344-Reverse%20String/README.md#344-reverse-string
 [409]:./Easy/0409-Longest%20Palindrome/README.md#409-longest-palindrome
+[414]:./Easy/0414-Third%20Maximum%20Number/README.md#414-third-maximum-number
 [429]:./Easy/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#429-n-ary-tree-level-order-traversal
 [454]:./Medium/0454-4Sum%20II/README.md#454-4sum-ii
 [459]:./Easy/0459-Repeated%20Substring%20Pattern/README.md#459-repeated-substring-pattern
@@ -300,6 +302,7 @@
 [338sr]:./Medium/0338-Counting%20Bits/README.md#solutions-rust
 [344sr]:./Easy/0344-Reverse%20String/README.md#solutions-rust
 [409sr]:./Easy/0409-Longest%20Palindrome/README.md#solutions-rust
+[414sr]:./Easy/0414-Third%20Maximum%20Number/README.md#solutions-rust
 [429sp]:./Easy/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#solutions-python
 [454sr]:./Medium/0454-4Sum%20II/README.md#solutions-rust
 [459sp]:./Easy/0459-Repeated%20Substring%20Pattern/README.md#solutions-python
@@ -472,6 +475,7 @@
 [387l]:https://leetcode.com/problems/first-unique-character-in-a-string/
 [394l]:https://leetcode.com/problems/decode-string/
 [409l]:https://leetcode.com/problems/longest-palindrome/
+[414l]:https://leetcode.com/problems/third-maximum-number/
 [421l]:https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 [429l]:https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 [430l]:https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
