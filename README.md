@@ -17,6 +17,7 @@
 50  |[Pow(x, n)][50]                                                          |[![r]][50sr]                            |[Medium][m]|[![l]][50l]
 58  |[Length of Last Word][58]                                                |[![r]][58sr]                            |[Easy][e]  |[![l]][58l]
 66  |[Plus One][66]                                                           |[![r]][66sr]                            |[Easy][e]  |[![l]][66l]
+67  |[Add Binary][67]                                                         |[![p]][67sp]                            |[Easy][e]  |[![l]][67l]
 69  |[Sqrt(x)][69]                                                            |[![r]][69sr]                            |[Easy][e]  |[![l]][69l]
 75  |[Sort Colors][75]                                                        |[![r]][75sr]                            |[Medium][m]|[![l]][75l]
 83  |[Remove Duplicates from Sorted List][83]                                 |[![p]][83sp]                            |[Easy][e]  |[![l]][83l]
@@ -144,6 +145,7 @@
 [50]:./Medium/0050-Pow\(x,%20n\)/README.md#50-powx-n
 [58]:./Easy/0058-Length%20of%20Last%20Word/README.md#58-length-of-last-word
 [66]:./Easy/0066-Plus%20One/README.md#66-plus-one
+[67]:./Easy/0067-Add%20Binary/README.md#67-add-binary
 [69]:./Easy/0069-Sqrt\(x\)/README.md#69-sqrtx
 [75]:./Medium/0075-Sort%20Colors/README.md#75-sort-colors
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README.md#83-remove-duplicates-from-sorted-list
@@ -263,6 +265,7 @@
 [50sr]:./Medium/0050-Pow\(x,%20n\)/README.md#solutions-rust
 [58sr]:./Easy/0058-Length%20of%20Last%20Word/README.md#solutions-rust
 [66sr]:./Easy/0066-Plus%20One/README.md#solutions-rust
+[67sp]:./Easy/0067-Add%20Binary/README.md#solutions-python
 [69sr]:./Easy/0069-Sqrt\(x\)/README.md#solutions-rust
 [75sr]:./Medium/0075-Sort%20Colors/README.md#solutions-rust
 [83sp]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README.md#solutions-python
