@@ -57,6 +57,7 @@
 338 |[Counting Bits][338]                                                     |[![r]][338sr]                           |[Medium][m]|[![l]][338l]
 344 |[Reverse String][344]                                                    |[![r]][344sr]                           |[Easy][e]  |[![l]][344l]
 345 |[Reverse Vowels of a String][345]                                        |[![p]][345sp]                           |[Easy][e]  |[![l]][345l]
+371 |[Sum of Two Integers][371]                                               |[![r]][371sr]                           |[Easy][e]  |[![l]][371l]
 409 |[Longest Palindrome][409]                                                |[![r]][409sr]                           |[Easy][e]  |[![l]][409l]
 414 |[Third Maximum Number][414]                                              |[![r]][414sr]                           |[Easy][e]  |[![l]][414l]
 429 |[N-ary Tree Level Order Traversal][429]                                  |[![p]][429sp]                           |[Easy][e]  |[![l]][429l]
@@ -187,6 +188,7 @@
 [338]:./Medium/0338-Counting%20Bits/README.md#338-counting-bits
 [344]:./Easy/0344-Reverse%20String/README.md#344-reverse-string
 [345]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README.md#345-reverse-vowels-of-a-string
+[371]:./Easy/0371-Sum%20of%20Two%20Integers/README.md#371-sum-of-two-integers
 [409]:./Easy/0409-Longest%20Palindrome/README.md#409-longest-palindrome
 [414]:./Easy/0414-Third%20Maximum%20Number/README.md#414-third-maximum-number
 [429]:./Easy/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#429-n-ary-tree-level-order-traversal
@@ -310,6 +312,7 @@
 [338sr]:./Medium/0338-Counting%20Bits/README.md#solutions-rust
 [344sr]:./Easy/0344-Reverse%20String/README.md#solutions-rust
 [345sp]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README.md#solutions-python
+[371sr]:./Easy/0371-Sum%20of%20Two%20Integers/README.md#solutions-rust
 [409sr]:./Easy/0409-Longest%20Palindrome/README.md#solutions-rust
 [414sr]:./Easy/0414-Third%20Maximum%20Number/README.md#solutions-rust
 [429sp]:./Easy/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#solutions-python
@@ -481,6 +484,7 @@
 [347l]:https://leetcode.com/problems/top-k-frequent-elements/
 [349l]:https://leetcode.com/problems/intersection-of-two-arrays/
 [350l]:https://leetcode.com/problems/intersection-of-two-arrays-ii/
+[371l]:https://leetcode.com/problems/sum-of-two-integers/
 [380l]:https://leetcode.com/problems/insert-delete-getrandom-o1/
 [387l]:https://leetcode.com/problems/first-unique-character-in-a-string/
 [394l]:https://leetcode.com/problems/decode-string/
