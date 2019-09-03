@@ -50,6 +50,7 @@
 231 |[Power of Two][231]                                                      |[![r]][231sr]                           |[Easy][e]  |[![l]][231l]
 232 |[Implement Queue using Stacks][232]                                      |[![r]][232sr]                           |[Easy][e]  |[![l]][232l]
 237 |[Delete Node in a Linked List][237]                                      |[![p]][237sp]                           |[Easy][e]  |[![l]][237l]
+242 |[Valid Anagram][242]                                                     |[![r]][242sr]                           |[Easy][e]  |[![l]][242l]
 263 |[Ugly Number][263]                                                       |[![r]][263sr]                           |[Easy][e]  |[![l]][263l]
 279 |[Perfect Squares][279]                                                   |[![r]][279sr]                           |[Medium][m]|[![l]][279l]
 283 |[Move Zeroes][283]                                                       |[![r]][283sr]                           |[Easy][e]  |[![l]][283l]
@@ -181,6 +182,7 @@
 [231]:./Easy/0231-Power%20of%20Two/README.md#231-power-of-two
 [232]:./Easy/0232-Implement%20Queue%20using%20Stacks/README.md#232-implement-queue-using-stacks
 [237]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List/README.md#237-delete-node-in-a-linked-list
+[242]:./Easy/0242-Valid%20Anagram/README.md#242-valid-anagram
 [263]:./Easy/0263-Ugly%20Number/README.md#263-ugly-number
 [279]:./Medium/0279-Perfect%20Squares/README.md#279-perfect-squares
 [283]:./Easy/0283-Move%20Zeroes/README.md#283-move-zeroes
@@ -305,6 +307,7 @@
 [231sr]:./Easy/0231-Power%20of%20Two/README.md#solutions-rust
 [232sr]:./Easy/0232-Implement%20Queue%20using%20Stacks/README.md#solutions-rust
 [237sp]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List/README.md#solutions-python
+[242sr]:./Easy/0242-Valid%20Anagram/README.md#solutions-rust
 [263sr]:./Easy/0263-Ugly%20Number/README.md#solutions-rust
 [279sr]:./Medium/0279-Perfect%20Squares/README.md#solutions-rust
 [283sr]:./Easy/0283-Move%20Zeroes/README.md#solutions-rust
@@ -471,6 +474,7 @@
 [236l]:https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 [237l]:https://leetcode.com/problems/delete-node-in-a-linked-list/
 [240l]:https://leetcode.com/problems/search-a-2d-matrix-ii/
+[242l]:https://leetcode.com/problems/valid-anagram/
 [263l]:https://leetcode.com/problems/ugly-number/
 [279l]:https://leetcode.com/problems/perfect-squares/
 [283l]:https://leetcode.com/problems/move-zeroes/
