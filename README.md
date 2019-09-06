@@ -32,6 +32,7 @@
 111 |[Minimum Depth of Binary Tree][111]                                      |[![p]][111sp]                           |[Easy][e]  |[![l]][111l]
 118 |[Pascal's Triangle][118]                                                 |[![p]][118sp]                           |[Easy][e]  |[![l]][118l]
 119 |[Pascal's Triangle II][119]                                              |[![p]][119sp]                           |[Easy][e]  |[![l]][119l]
+121 |[Best Time to Buy and Sell Stock][121]                                   |[![r]][121sr]                           |[Easy][e]  |[![l]][121l]
 144 |[Binary Tree Preorder Traversal][144]                                    |[![p]][144sp]                           |[Medium][m]|[![l]][144l]
 145 |[Binary Tree Postorder Traversal][145]                                   |[![p]][145sp]                           |[Hard][h]  |[![l]][145l]
 150 |[Evaluate Reverse Polish Notation][150]                                  |[![r]][150sr]                           |[Medium][m]|[![l]][150l]
@@ -166,6 +167,7 @@
 [111]:./Easy/0111-Minimum%20Depth%20of%20Binary%20Tree/README.md#111-minimum-depth-of-binary-tree
 [118]:./Easy/0118-Pascal's%20Triangle/README.md#118-pascal's-triangle
 [119]:./Easy/0119-Pascal's%20Triangle%20II/README.md#119-pascal's-triangle-ii
+[121]:./Easy/0121-Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md#121-best-time-to-buy-and-sell-stock
 [144]:./Medium/0144-Binary%20Tree%20Preorder%20Traversal/README.md#144-binary-tree-preorder-traversal
 [145]:./Hard/0145-Binary%20Tree%20Postorder%20Traversal/README.md#145-binary-tree-postorder-traversal
 [150]:./Medium/0150-Evaluate%20Reverse%20Polish%20Notation/README.md#150-evaluate-reverse-polish-notation
@@ -293,6 +295,7 @@
 [111sp]:./Easy/0111-Minimum%20Depth%20of%20Binary%20Tree/README.md#solutions-python
 [118sp]:./Easy/0118-Pascal's%20Triangle/README.md#solutions-python
 [119sp]:./Easy/0119-Pascal's%20Triangle%20II/README.md#solutions-python
+[121sr]:./Easy/0121-Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md#solutions-rust
 [144sp]:./Medium/0144-Binary%20Tree%20Preorder%20Traversal/README.md#solutions-python
 [145sp]:./Hard/0145-Binary%20Tree%20Postorder%20Traversal/README.md#solutions-python
 [150sr]:./Medium/0150-Evaluate%20Reverse%20Polish%20Notation/README.md#solutions-rust
@@ -441,6 +444,7 @@
 [117l]:https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
 [118l]:https://leetcode.com/problems/pascals-triangle/
 [119l]:https://leetcode.com/problems/pascals-triangle-ii/
+[121l]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [133l]:https://leetcode.com/problems/clone-graph/
 [136l]:https://leetcode.com/problems/single-number/
 [138l]:https://leetcode.com/problems/copy-list-with-random-pointer/
