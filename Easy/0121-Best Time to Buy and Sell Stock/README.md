@@ -26,15 +26,15 @@ Note that you cannot sell a stock before you buy one.
 ```Rust
 impl Solution {
     pub fn max_profit(prices: Vec<i32>) -> i32 {
-        let mut max_profit = 0;
+        let mut profit = 0;
         for (i, buy) in prices.iter().enumerate() {
             for sell in &prices[(i + 1)..] {
-                if sell - buy > max_profit {
-                    max_profit = sell - buy;
+                if sell - buy > profit {
+                    profit = sell - buy;
                 }
             }
         }
-        max_profit
+        profit
     }
 }
 ```
@@ -43,13 +43,13 @@ impl Solution {
 ```Rust
 impl Solution {
     pub fn max_profit(prices: Vec<i32>) -> i32 {
-        let mut max_profit = 0;
+        let mut profit = 0;
         let mut min_price = std::i32::MAX;
         for n in prices {
-            max_profit = max_profit.max(n - min_price);
+            profit = profit.max(n - min_price);
             min_price = min_price.min(n);
         }
-        max_profit
+        profit
     }
 }
 ```
