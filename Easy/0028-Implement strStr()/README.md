@@ -23,7 +23,7 @@ For the purpose of this problem, we will return 0 when ```needle``` is an empty 
 ## Solutions (Python)
 
 ### 1. Linear Scan
-```Python
+```Python3
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
         if not needle:
