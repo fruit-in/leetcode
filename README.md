@@ -127,6 +127,7 @@
 1122|[Relative Sort Array][1122]                                              |[![r]][1122sr]                          |[Easy][e]  |[![l]][1122l]
 1137|[N-th Tribonacci Number][1137]                                           |[![r]][1137sr]                          |[Easy][e]  |[![l]][1137l]
 1154|[Day of the Year][1154]                                                  |[![r]][1154sr]                          |[Easy][e]  |[![l]][1154l]
+1185|[Day of the Week][1185]                                                  |[![r]][1185sr]                          |[Easy][e]  |[![l]][1185l]
 
 
 [p]:./ico/python.ico
@@ -263,6 +264,7 @@
 [1122]:./Easy/1122-Relative%20Sort%20Array/README.md#1122-relative-sort-array
 [1137]:./Easy/1137-N-th%20Tribonacci%20Number/README.md#1137-n-th-tribonacci-number
 [1154]:./Easy/1154-Day%20of%20the%20Year/README.md#1154-day-of-the-year
+[1185]:./Easy/1185-Day%20of%20the%20Week/README.md#1185-day-of-the-week
 
 [1sp]:./Easy/0001-Two%20Sum/README.md#solutions-python
 [1sr]:./Easy/0001-Two%20Sum/README.md#solutions-rust
@@ -393,6 +395,7 @@
 [1122sr]:./Easy/1122-Relative%20Sort%20Array/README.md#solutions-rust
 [1137sr]:./Easy/1137-N-th%20Tribonacci%20Number/README.md#solutions-rust
 [1154sr]:./Easy/1154-Day%20of%20the%20Year/README.md#solutions-rust
+[1185sr]:./Easy/1185-Day%20of%20the%20Week/README.md#solutions-rust
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -591,3 +594,4 @@
 [1122l]:https://leetcode.com/problems/relative-sort-array/
 [1137l]:https://leetcode.com/problems/n-th-tribonacci-number/
 [1154l]:https://leetcode.com/problems/day-of-the-year/
+[1185l]:https://leetcode.com/problems/day-of-the-week/
