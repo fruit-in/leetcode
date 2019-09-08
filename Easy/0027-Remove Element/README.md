@@ -14,7 +14,7 @@ Your function should return length = <strong>2</strong>, with the first two elem
 It doesn't matter what you leave beyond the returned length.
 </pre>
 
-#### Example 1:
+#### Example 2:
 <pre>
 Given <em>nums</em> = <strong>[0,1,2,2,3,0,4,2]</strong>, <em>val</em> = <strong>2</strong>,
 
