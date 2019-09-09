@@ -15,6 +15,7 @@
 36  |[Valid Sudoku][36]                                                       |[![r]][36sr]                            |[Medium][m]|[![l]][36l]
 38  |[Count and Say][38]                                                      |[![p]][38sp]                            |[Easy][e]  |[![l]][38l]
 50  |[Pow(x, n)][50]                                                          |[![r]][50sr]                            |[Medium][m]|[![l]][50l]
+53  |[Maximum Subarray][53]                                                   |[![r]][53sr]                            |[Easy][e]  |[![l]][53l]
 58  |[Length of Last Word][58]                                                |[![r]][58sr]                            |[Easy][e]  |[![l]][58l]
 66  |[Plus One][66]                                                           |[![r]][66sr]                            |[Easy][e]  |[![l]][66l]
 67  |[Add Binary][67]                                                         |[![p]][67sp]                            |[Easy][e]  |[![l]][67l]
@@ -152,6 +153,7 @@
 [36]:./Medium/0036-Valid%20Sudoku/README.md#36-valid-sudoku
 [38]:./Easy/0038-Count%20and%20Say/README.md#38-count-and-say
 [50]:./Medium/0050-Pow\(x,%20n\)/README.md#50-powx-n
+[53]:./Easy/0053-Maximum%20Subarray/README.md#53-maximum-subarray
 [58]:./Easy/0058-Length%20of%20Last%20Word/README.md#58-length-of-last-word
 [66]:./Easy/0066-Plus%20One/README.md#66-plus-one
 [67]:./Easy/0067-Add%20Binary/README.md#67-add-binary
@@ -281,6 +283,7 @@
 [36sr]:./Medium/0036-Valid%20Sudoku/README.md#solutions-rust
 [38sp]:./Easy/0038-Count%20and%20Say/README.md#solutions-python
 [50sr]:./Medium/0050-Pow\(x,%20n\)/README.md#solutions-rust
+[53sr]:./Easy/0053-Maximum%20Subarray/README.md#solutions-rust
 [58sr]:./Easy/0058-Length%20of%20Last%20Word/README.md#solutions-rust
 [66sr]:./Easy/0066-Plus%20One/README.md#solutions-rust
 [67sp]:./Easy/0067-Add%20Binary/README.md#solutions-python
@@ -420,6 +423,7 @@
 [49l]:https://leetcode.com/problems/group-anagrams/
 [50l]:https://leetcode.com/problems/powx-n/
 [52l]:https://leetcode.com/problems/n-queens-ii/
+[53l]:https://leetcode.com/problems/maximum-subarray/
 [54l]:https://leetcode.com/problems/spiral-matrix/
 [58l]:https://leetcode.com/problems/length-of-last-word/
 [61l]:https://leetcode.com/problems/rotate-list/
