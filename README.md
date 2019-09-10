@@ -42,6 +42,7 @@
 167 |[Two Sum II - Input array is sorted][167]                                |[![r]][167sr]                           |[Easy][e]  |[![l]][167l]
 168 |[Excel Sheet Column Title][168]                                          |[![p]][168sp]                           |[Easy][e]  |[![l]][168l]
 171 |[Excel Sheet Column Number][171]                                         |[![p]][171sp]                           |[Easy][e]  |[![l]][171l]
+189 |[Rotate Array][189]                                                      |[![r]][189sr]                           |[Easy][e]  |[![l]][189l]
 191 |[Number of 1 Bits][191]                                                  |[![r]][191sr]                           |[Easy][e]  |[![l]][191l]
 201 |[Bitwise AND of Numbers Range][201]                                      |[![r]][201sr]                           |[Medium][m]|[![l]][201l]
 202 |[Happy Number][202]                                                      |[![r]][202sr]                           |[Easy][e]  |[![l]][202l]
@@ -180,6 +181,7 @@
 [167]:./Easy/0167-Two%20Sum%20II%20-%20Input%20array%20is%20sorted/README.md#167-two-sum-ii---input-array-is-sorted
 [168]:./Easy/0168-Excel%20Sheet%20Column%20Title/README.md#168-excel-sheet-column-title
 [171]:./Easy/0171-Excel%20Sheet%20Column%20Number/README.md#171-excel-sheet-column-number
+[189]:./Easy/0189-Rotate%20Array/README.md#189-rotate-array
 [191]:./Easy/0191-Number%20of%201%20Bits/README.md#191-number-of-1-bits
 [201]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range/README.md#201-bitwise-and-of-numbers-range
 [202]:./Easy/0202-Happy%20Number/README.md#202-happy-number
@@ -311,6 +313,7 @@
 [167sr]:./Easy/0167-Two%20Sum%20II%20-%20Input%20array%20is%20sorted/README.md#solutions-rust
 [168sp]:./Easy/0168-Excel%20Sheet%20Column%20Title/README.md#solutions-python
 [171sp]:./Easy/0171-Excel%20Sheet%20Column%20Number/README.md#solutions-python
+[189sr]:./Easy/0189-Rotate%20Array/README.md#solutions-rust
 [191sr]:./Easy/0191-Number%20of%201%20Bits/README.md#solutions-rust
 [201sr]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range/README.md#solutions-rust
 [202sr]:./Easy/0202-Happy%20Number/README.md#solutions-rust
