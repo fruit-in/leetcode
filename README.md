@@ -60,6 +60,7 @@
 237 |[Delete Node in a Linked List][237]                                      |[![p]][237sp]                           |[Easy][e]  |[![l]][237l]
 242 |[Valid Anagram][242]                                                     |[![r]][242sr]                           |[Easy][e]  |[![l]][242l]
 263 |[Ugly Number][263]                                                       |[![r]][263sr]                           |[Easy][e]  |[![l]][263l]
+278 |[First Bad Version][278]                                                 |[![p]][278sp]                           |[Easy][e]  |[![l]][278l]
 279 |[Perfect Squares][279]                                                   |[![r]][279sr]                           |[Medium][m]|[![l]][279l]
 283 |[Move Zeroes][283]                                                       |[![r]][283sr]                           |[Easy][e]  |[![l]][283l]
 292 |[Nim Game][292]                                                          |[![r]][292sr]                           |[Easy][e]  |[![l]][292l]
@@ -202,6 +203,7 @@
 [237]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List/README.md#237-delete-node-in-a-linked-list
 [242]:./Easy/0242-Valid%20Anagram/README.md#242-valid-anagram
 [263]:./Easy/0263-Ugly%20Number/README.md#263-ugly-number
+[278]:./Easy/0278-First%20Bad%20Version/README.md#278-first-bad-version
 [279]:./Medium/0279-Perfect%20Squares/README.md#279-perfect-squares
 [283]:./Easy/0283-Move%20Zeroes/README.md#283-move-zeroes
 [292]:./Easy/0292-Nim%20Game/README.md#292-nim-game
@@ -337,6 +339,7 @@
 [237sp]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List/README.md#solutions-python
 [242sr]:./Easy/0242-Valid%20Anagram/README.md#solutions-rust
 [263sr]:./Easy/0263-Ugly%20Number/README.md#solutions-rust
+[278sp]:./Easy/0278-First%20Bad%20Version/README.md#solutions-python
 [279sr]:./Medium/0279-Perfect%20Squares/README.md#solutions-rust
 [283sr]:./Easy/0283-Move%20Zeroes/README.md#solutions-rust
 [292sr]:./Easy/0292-Nim%20Game/README.md#solutions-rust
@@ -511,6 +514,7 @@
 [240l]:https://leetcode.com/problems/search-a-2d-matrix-ii/
 [242l]:https://leetcode.com/problems/valid-anagram/
 [263l]:https://leetcode.com/problems/ugly-number/
+[278l]:https://leetcode.com/problems/first-bad-version/
 [279l]:https://leetcode.com/problems/perfect-squares/
 [283l]:https://leetcode.com/problems/move-zeroes/
 [292l]:https://leetcode.com/problems/nim-game/
