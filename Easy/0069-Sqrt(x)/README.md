@@ -18,8 +18,6 @@ Since the return type is an integer, the decimal digits are truncated and only t
 <strong>Explanation:</strong> The square root of 8 is 2.82842..., and since the decimal part is truncated, 2 is returned.
 </pre>
 
-#### Note:
-
 ## Solutions (Rust)
 
 ### 1. Brute Force
