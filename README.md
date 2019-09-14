@@ -79,6 +79,7 @@
 500 |[Keyboard Row][500]                                                      |[![p]][500sp]                           |[Easy][e]  |[![l]][500l]
 504 |[Base 7][504]                                                            |[![p]][504sp]                           |[Easy][e]  |[![l]][504l]
 509 |[Fibonacci Number][509]                                                  |[![r]][509sr]                           |[Easy][e]  |[![l]][509l]
+520 |[Detect Capital][520]                                                    |[![r]][520sr]                           |[Easy][e]  |[![l]][520l]
 559 |[Maximum Depth of N-ary Tree][559]                                       |[![p]][559sp]                           |[Easy][e]  |[![l]][559l]
 589 |[N-ary Tree Preorder Traversal][589]                                     |[![p]][589sp]                           |[Easy][e]  |[![l]][589l]
 590 |[N-ary Tree Postorder Traversal][590]                                    |[![p]][590sp]                           |[Easy][e]  |[![l]][590l]
@@ -223,6 +224,7 @@
 [500]:./Easy/0500-Keyboard%20Row/README.md#500-keyboard-row
 [504]:./Easy/0504-Base%207/README.md#504-base-7
 [509]:./Easy/0509-Fibonacci%20Number/README.md#509-fibonacci-number
+[520]:./Easy/0520-Detect%20Capital/README.md#520-detect-capital
 [559]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree/README.md#559-maximum-depth-of-n-ary-tree
 [589]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal/README.md#589-n-ary-tree-preorder-traversal
 [590]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#590-n-ary-tree-postorder-traversal
@@ -360,6 +362,7 @@
 [500sp]:./Easy/0500-Keyboard%20Row/README.md#solutions-python
 [504sp]:./Easy/0504-Base%207/README.md#solutions-python
 [509sr]:./Easy/0509-Fibonacci%20Number/README.md#solutions-rust
+[520sr]:./Easy/0520-Detect%20Capital/README.md#solutions-rust
 [559sp]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree/README.md#solutions-python
 [589sp]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal/README.md#solutions-python
 [590sp]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#solutions-python
@@ -549,6 +552,7 @@
 [500l]:https://leetcode.com/problems/keyboard-row/
 [504l]:https://leetcode.com/problems/base-7/
 [509l]:https://leetcode.com/problems/fibonacci-number/
+[520l]:https://leetcode.com/problems/detect-capital/
 [542l]:https://leetcode.com/problems/01-matrix/
 [557l]:https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [559l]:https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
