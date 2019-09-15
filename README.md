@@ -39,6 +39,7 @@
 121 |[Best Time to Buy and Sell Stock][121]                                   |[![r]][121sr]                           |[Easy][e]  |[![l]][121l]
 122 |[Best Time to Buy and Sell Stock II][122]                                |[![r]][122sr]                           |[Easy][e]  |[![l]][122l]
 125 |[Valid Palindrome][125]                                                  |[![p]][125sp]                           |[Easy][e]  |[![l]][125l]
+136 |[Single Number][136]                                                     |[![r]][136sr]                           |[Easy][e]  |[![l]][136l]
 141 |[Linked List Cycle][141]                                                 |[![p]][141sp]                           |[Easy][e]  |[![l]][141l]
 144 |[Binary Tree Preorder Traversal][144]                                    |[![p]][144sp]                           |[Medium][m]|[![l]][144l]
 145 |[Binary Tree Postorder Traversal][145]                                   |[![p]][145sp]                           |[Hard][h]  |[![l]][145l]
@@ -189,6 +190,7 @@
 [121]:./Easy/0121-Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md#121-best-time-to-buy-and-sell-stock
 [122]:./Easy/0122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README.md#122-best-time-to-buy-and-sell-stock-ii
 [125]:./Easy/0125-Valid%20Palindrome/README.md#125-valid-palindrome
+[136]:./Easy/0136-Single%20Number/README.md#136-single-number
 [141]:./Easy/0141-Linked%20List%20Cycle/README.md#141-linked-list-cycle
 [144]:./Medium/0144-Binary%20Tree%20Preorder%20Traversal/README.md#144-binary-tree-preorder-traversal
 [145]:./Hard/0145-Binary%20Tree%20Postorder%20Traversal/README.md#145-binary-tree-postorder-traversal
@@ -332,6 +334,7 @@
 [121sr]:./Easy/0121-Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md#solutions-rust
 [122sr]:./Easy/0122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README.md#solutions-rust
 [125sp]:./Easy/0125-Valid%20Palindrome/README.md#solutions-python
+[136sr]:./Easy/0136-Single%20Number/README.md#solutions-rust
 [141sp]:./Easy/0141-Linked%20List%20Cycle/README.md#solutions-python
 [144sp]:./Medium/0144-Binary%20Tree%20Preorder%20Traversal/README.md#solutions-python
 [145sp]:./Hard/0145-Binary%20Tree%20Postorder%20Traversal/README.md#solutions-python
