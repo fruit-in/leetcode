@@ -33,6 +33,7 @@
 108 |[Convert Sorted Array to Binary Search Tree][108]                        |[![p]][108sp]                           |[Easy][e]  |[![l]][108l]
 110 |[Balanced Binary Tree][110]                                              |[![p]][110sp]                           |[Easy][e]  |[![l]][110l]
 111 |[Minimum Depth of Binary Tree][111]                                      |[![p]][111sp]                           |[Easy][e]  |[![l]][111l]
+112 |[Path Sum][112]                                                          |[![p]][112sp]                           |[Easy][e]  |[![l]][112l]
 118 |[Pascal's Triangle][118]                                                 |[![p]][118sp]                           |[Easy][e]  |[![l]][118l]
 119 |[Pascal's Triangle II][119]                                              |[![p]][119sp]                           |[Easy][e]  |[![l]][119l]
 121 |[Best Time to Buy and Sell Stock][121]                                   |[![r]][121sr]                           |[Easy][e]  |[![l]][121l]
@@ -181,6 +182,7 @@
 [108]:./Easy/0108-Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/README.md#108-convert-sorted-array-to-binary-search-tree
 [110]:./Easy/0110-Balanced%20Binary%20Tree/README.md#110-balanced-binary-tree
 [111]:./Easy/0111-Minimum%20Depth%20of%20Binary%20Tree/README.md#111-minimum-depth-of-binary-tree
+[112]:./Easy/0112-Path%20Sum/README.md#112-path-sum
 [118]:./Easy/0118-Pascal's%20Triangle/README.md#118-pascal's-triangle
 [119]:./Easy/0119-Pascal's%20Triangle%20II/README.md#119-pascal's-triangle-ii
 [121]:./Easy/0121-Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md#121-best-time-to-buy-and-sell-stock
@@ -322,6 +324,7 @@
 [108sp]:./Easy/0108-Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/README.md#solutions-python
 [110sp]:./Easy/0110-Balanced%20Binary%20Tree/README.md#solutions-python
 [111sp]:./Easy/0111-Minimum%20Depth%20of%20Binary%20Tree/README.md#solutions-python
+[112sp]:./Easy/0112-Path%20Sum/README.md#solutions-python
 [118sp]:./Easy/0118-Pascal's%20Triangle/README.md#solutions-python
 [119sp]:./Easy/0119-Pascal's%20Triangle%20II/README.md#solutions-python
 [121sr]:./Easy/0121-Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md#solutions-rust
