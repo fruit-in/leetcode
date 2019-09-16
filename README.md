@@ -147,6 +147,7 @@
 
 [p]:./ico/python.ico
 [r]:./ico/rust.ico
+[c]:./ico/c.png
 [l]:./ico/leetcode.png
 
 [e]:./Easy
