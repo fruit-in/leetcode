@@ -47,6 +47,7 @@
 155 |[Min Stack][155]                                                         |[![r]][155sr]                           |[Easy][e]  |[![l]][155l]
 167 |[Two Sum II - Input array is sorted][167]                                |[![r]][167sr]                           |[Easy][e]  |[![l]][167l]
 168 |[Excel Sheet Column Title][168]                                          |[![p]][168sp]                           |[Easy][e]  |[![l]][168l]
+169 |[Majority Element][169]                                                  |[![r]][169sr]                           |[Easy][e]  |[![l]][169l]
 171 |[Excel Sheet Column Number][171]                                         |[![p]][171sp]                           |[Easy][e]  |[![l]][171l]
 189 |[Rotate Array][189]                                                      |[![r]][189sr]                           |[Easy][e]  |[![l]][189l]
 191 |[Number of 1 Bits][191]                                                  |[![r]][191sr]                           |[Easy][e]  |[![l]][191l]
@@ -198,6 +199,7 @@
 [155]:./Easy/0155-Min%20Stack/README.md#155-min-stack
 [167]:./Easy/0167-Two%20Sum%20II%20-%20Input%20array%20is%20sorted/README.md#167-two-sum-ii---input-array-is-sorted
 [168]:./Easy/0168-Excel%20Sheet%20Column%20Title/README.md#168-excel-sheet-column-title
+[169]:./Easy/0169-Majority%20Element/README.md#169-majority-element
 [171]:./Easy/0171-Excel%20Sheet%20Column%20Number/README.md#171-excel-sheet-column-number
 [189]:./Easy/0189-Rotate%20Array/README.md#189-rotate-array
 [191]:./Easy/0191-Number%20of%201%20Bits/README.md#191-number-of-1-bits
@@ -342,6 +344,7 @@
 [155sr]:./Easy/0155-Min%20Stack/README.md#solutions-rust
 [167sr]:./Easy/0167-Two%20Sum%20II%20-%20Input%20array%20is%20sorted/README.md#solutions-rust
 [168sp]:./Easy/0168-Excel%20Sheet%20Column%20Title/README.md#solutions-python
+[169sr]:./Easy/0169-Majority%20Element/README.md#solutions-rust
 [171sp]:./Easy/0171-Excel%20Sheet%20Column%20Number/README.md#solutions-python
 [189sr]:./Easy/0189-Rotate%20Array/README.md#solutions-rust
 [191sr]:./Easy/0191-Number%20of%201%20Bits/README.md#solutions-rust
@@ -509,6 +512,7 @@
 [160l]:https://leetcode.com/problems/intersection-of-two-linked-lists/
 [167l]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [168l]:https://leetcode.com/problems/excel-sheet-column-title/
+[169l]:https://leetcode.com/problems/majority-element/
 [171l]:https://leetcode.com/problems/excel-sheet-column-number/
 [173l]:https://leetcode.com/problems/binary-search-tree-iterator/
 [189l]:https://leetcode.com/problems/rotate-array/
