@@ -1,7 +1,7 @@
 ## Problems
 |#  |Title                                                                    |Solution                                |Difficulty |Coding
 ----|-------------------------------------------------------------------------|:--------------------------------------:|-----------|:----:
-1   |[Two Sum][1]                                                             |[![p]][1sp]&nbsp;&nbsp;[![r]][1sr]      |[Easy][e]  |[![l]][1l]
+1   |[Two Sum][1]                                                             |[![p]][1sp]&nbsp;&nbsp;[![r]][1sr]&nbsp;&nbsp;[![c][1sc]]      |[Easy][e]  |[![l]][1l]
 7   |[Reverse Integer][7]                                                     |[![p]][7sp]                             |[Easy][e]  |[![l]][7l]
 9   |[Palindrome Number][9]                                                   |[![p]][9sp]                             |[Easy][e]  |[![l]][9l]
 13  |[Roman to Integer][13]                                                   |[![r]][13sr]                            |[Easy][e]  |[![l]][13l]
@@ -299,6 +299,7 @@
 [1185]:./Easy/1185-Day%20of%20the%20Week/README.md#1185-day-of-the-week
 [1189]:./Easy/1189-Maximum%20Number%20of%20Balloons/README.md#1189-maximum-number-of-balloons
 
+[1sc]:./Easy/0001-Two%20Sum/README.md#solutions-c
 [1sp]:./Easy/0001-Two%20Sum/README.md#solutions-python
 [1sr]:./Easy/0001-Two%20Sum/README.md#solutions-rust
 [7sp]:./Easy/0007-Reverse%20Integer/README.md#solutions-python
