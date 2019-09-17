@@ -74,6 +74,7 @@
 344 |[Reverse String][344]                                                    |[![r]][344sr]                           |[Easy][e]  |[![l]][344l]
 345 |[Reverse Vowels of a String][345]                                        |[![p]][345sp]                           |[Easy][e]  |[![l]][345l]
 371 |[Sum of Two Integers][371]                                               |[![r]][371sr]                           |[Easy][e]  |[![l]][371l]
+392 |[Is Subsequence][392]                                                    |[![r]][392sr]                           |[Easy][e]  |[![l]][392l]
 409 |[Longest Palindrome][409]                                                |[![r]][409sr]                           |[Easy][e]  |[![l]][409l]
 414 |[Third Maximum Number][414]                                              |[![r]][414sr]                           |[Easy][e]  |[![l]][414l]
 429 |[N-ary Tree Level Order Traversal][429]                                  |[![p]][429sp]                           |[Easy][e]  |[![l]][429l]
@@ -227,6 +228,7 @@
 [344]:./Easy/0344-Reverse%20String/README.md#344-reverse-string
 [345]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README.md#345-reverse-vowels-of-a-string
 [371]:./Easy/0371-Sum%20of%20Two%20Integers/README.md#371-sum-of-two-integers
+[392]:./Easy/0392-Is%20Subsequence/README.md#392-is-subsequence
 [409]:./Easy/0409-Longest%20Palindrome/README.md#409-longest-palindrome
 [414]:./Easy/0414-Third%20Maximum%20Number/README.md#414-third-maximum-number
 [429]:./Easy/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#429-n-ary-tree-level-order-traversal
@@ -372,6 +374,7 @@
 [344sr]:./Easy/0344-Reverse%20String/README.md#solutions-rust
 [345sp]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README.md#solutions-python
 [371sr]:./Easy/0371-Sum%20of%20Two%20Integers/README.md#solutions-rust
+[392sr]:./Easy/0392-Is%20Subsequence/README.md#solutions-rust
 [409sr]:./Easy/0409-Longest%20Palindrome/README.md#solutions-rust
 [414sr]:./Easy/0414-Third%20Maximum%20Number/README.md#solutions-rust
 [429sp]:./Easy/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#solutions-python
@@ -559,6 +562,7 @@
 [371l]:https://leetcode.com/problems/sum-of-two-integers/
 [380l]:https://leetcode.com/problems/insert-delete-getrandom-o1/
 [387l]:https://leetcode.com/problems/first-unique-character-in-a-string/
+[392l]:https://leetcode.com/problems/is-subsequence/
 [394l]:https://leetcode.com/problems/decode-string/
 [409l]:https://leetcode.com/problems/longest-palindrome/
 [414l]:https://leetcode.com/problems/third-maximum-number/
