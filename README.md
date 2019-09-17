@@ -1,7 +1,7 @@
 ## Problems
 |#  |Title                                                                    |Solution                                |Difficulty |Coding
 ----|-------------------------------------------------------------------------|:--------------------------------------:|-----------|:----:
-1   |[Two Sum][1]                                                             |[![p]][1sp]&nbsp;&nbsp;[![r]][1sr]&nbsp;&nbsp;[![c][1sc]]      |[Easy][e]  |[![l]][1l]
+1   |[Two Sum][1]                                                             |[![p]][1sp]&nbsp;&nbsp;[![r]][1sr]&nbsp;&nbsp;[![c]][1sc]      |[Easy][e]  |[![l]][1l]
 7   |[Reverse Integer][7]                                                     |[![p]][7sp]                             |[Easy][e]  |[![l]][7l]
 9   |[Palindrome Number][9]                                                   |[![p]][9sp]                             |[Easy][e]  |[![l]][9l]
 13  |[Roman to Integer][13]                                                   |[![r]][13sr]                            |[Easy][e]  |[![l]][13l]
