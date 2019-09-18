@@ -49,6 +49,7 @@
 168 |[Excel Sheet Column Title][168]                                          |[![p]][168sp]                           |[Easy][e]  |[![l]][168l]
 169 |[Majority Element][169]                                                  |[![r]][169sr]                           |[Easy][e]  |[![l]][169l]
 171 |[Excel Sheet Column Number][171]                                         |[![p]][171sp]                           |[Easy][e]  |[![l]][171l]
+172 |[Factorial Trailing Zeroes][172]                                         |[![r]][172sr]                           |[Easy][e]  |[![l]][172l]
 189 |[Rotate Array][189]                                                      |[![r]][189sr]                           |[Easy][e]  |[![l]][189l]
 191 |[Number of 1 Bits][191]                                                  |[![r]][191sr]                           |[Easy][e]  |[![l]][191l]
 201 |[Bitwise AND of Numbers Range][201]                                      |[![r]][201sr]                           |[Medium][m]|[![l]][201l]
@@ -203,6 +204,7 @@
 [168]:./Easy/0168-Excel%20Sheet%20Column%20Title/README.md#168-excel-sheet-column-title
 [169]:./Easy/0169-Majority%20Element/README.md#169-majority-element
 [171]:./Easy/0171-Excel%20Sheet%20Column%20Number/README.md#171-excel-sheet-column-number
+[172]:./Easy/0172-Factorial%20Trailing%20Zeroes/README.md#172-factorial-trailing-zeroes
 [189]:./Easy/0189-Rotate%20Array/README.md#189-rotate-array
 [191]:./Easy/0191-Number%20of%201%20Bits/README.md#191-number-of-1-bits
 [201]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range/README.md#201-bitwise-and-of-numbers-range
@@ -350,6 +352,7 @@
 [168sp]:./Easy/0168-Excel%20Sheet%20Column%20Title/README.md#solutions-python
 [169sr]:./Easy/0169-Majority%20Element/README.md#solutions-rust
 [171sp]:./Easy/0171-Excel%20Sheet%20Column%20Number/README.md#solutions-python
+[172sr]:./Easy/0172-Factorial%20Trailing%20Zeroes/README.md#solutions-rust
 [189sr]:./Easy/0189-Rotate%20Array/README.md#solutions-rust
 [191sr]:./Easy/0191-Number%20of%201%20Bits/README.md#solutions-rust
 [201sr]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range/README.md#solutions-rust
@@ -519,6 +522,7 @@
 [168l]:https://leetcode.com/problems/excel-sheet-column-title/
 [169l]:https://leetcode.com/problems/majority-element/
 [171l]:https://leetcode.com/problems/excel-sheet-column-number/
+[172l]:https://leetcode.com/problems/factorial-trailing-zeroes/
 [173l]:https://leetcode.com/problems/binary-search-tree-iterator/
 [189l]:https://leetcode.com/problems/rotate-array/
 [191l]:https://leetcode.com/problems/number-of-1-bits/
