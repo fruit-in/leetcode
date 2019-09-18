@@ -10,14 +10,51 @@ The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this c
 
 **Example:**
 
+<pre>
+<strong>Input:</strong> [1,8,6,2,5,4,8,3,7]
+<strong>Output:</strong> 49
+</pre>
+
+## Solutions (Rust)
+
+### 1. Brute Force
+```Rust
+impl Solution {
+    pub fn max_area(height: Vec<i32>) -> i32 {
+        let mut most = 0;
+        for i in 0..height.len() {
+            for j in (i + 1)..height.len() {
+                most = most.max((j - i) as i32 * height[i].min(height[j]));
+            }
+        }
+        most
+    }
+}
 ```
-Input: [1,8,6,2,5,4,8,3,7]
-Output: 49
+
+### 2. Two Pointers
+```Rust
+impl Solution {
+    pub fn max_area(height: Vec<i32>) -> i32 {
+        let mut l = 0;
+        let mut r = height.len() - 1;
+        let mut most = 0;
+        while l < r {
+            most = most.max((r - l) as i32 * height[l].min(height[r]));
+            if height[l] < height[r] {
+                l += 1;
+            } else {
+                r -= 1;
+            }
+        }
+        most
+    }
+}
 ```
 
 ## Solutions (C)
 
-### 1.Two Pointers
+### 1. Two Pointers
 
 ```c
 int maxArea(int* height, int heightSize){

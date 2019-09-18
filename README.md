@@ -312,6 +312,7 @@
 [1sr]:./Easy/0001-Two%20Sum/README.md#solutions-rust
 [7sp]:./Easy/0007-Reverse%20Integer/README.md#solutions-python
 [9sp]:./Easy/0009-Palindrome%20Number/README.md#solutions-python
+[11sr]:./Medium/0011-Container%20With%20Most%20Water/README.md#solutions-rust
 [11sc]:./Medium/0011-Container%20With%20Most%20Water/README.md#solutions-c
 [13sr]:./Easy/0013-Roman%20to%20Integer/README.md#solutions-rust
 [14sp]:./Easy/0014-Longest%20Common%20Prefix/README.md#solutions-python
