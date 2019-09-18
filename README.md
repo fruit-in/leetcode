@@ -84,6 +84,7 @@
 459 |[Repeated Substring Pattern][459]                                        |[![p]][459sp]                           |[Easy][e]  |[![l]][459l]
 461 |[Hamming Distance][461]                                                  |[![r]][461sr]                           |[Easy][e]  |[![l]][461l]
 485 |[Max Consecutive Ones][485]                                              |[![r]][485sr]                           |[Easy][e]  |[![l]][485l]
+492 |[Construct the Rectangle][492]                                           |[![r]][492sr]                           |[Easy][e]  |[![l]][492l]
 500 |[Keyboard Row][500]                                                      |[![p]][500sp]                           |[Easy][e]  |[![l]][500l]
 504 |[Base 7][504]                                                            |[![p]][504sp]                           |[Easy][e]  |[![l]][504l]
 509 |[Fibonacci Number][509]                                                  |[![r]][509sr]                           |[Easy][e]  |[![l]][509l]
@@ -240,6 +241,7 @@
 [459]:./Easy/0459-Repeated%20Substring%20Pattern/README.md#459-repeated-substring-pattern
 [461]:./Easy/0461-Hamming%20Distance/README.md#461-hamming-distance
 [485]:./Easy/0485-Max%20Consecutive%20Ones/README.md#485-max-consecutive-ones
+[492]:./Easy/0492-Construct%20the%20Rectangle/README.md#492-construct-the-rectangle
 [500]:./Easy/0500-Keyboard%20Row/README.md#500-keyboard-row
 [504]:./Easy/0504-Base%207/README.md#504-base-7
 [509]:./Easy/0509-Fibonacci%20Number/README.md#509-fibonacci-number
@@ -389,6 +391,7 @@
 [459sp]:./Easy/0459-Repeated%20Substring%20Pattern/README.md#solutions-python
 [461sr]:./Easy/0461-Hamming%20Distance/README.md#solutions-rust
 [485sr]:./Easy/0485-Max%20Consecutive%20Ones/README.md#solutions-rust
+[492sr]:./Easy/0492-Construct%20the%20Rectangle/README.md#solutions-rust
 [500sp]:./Easy/0500-Keyboard%20Row/README.md#solutions-python
 [504sp]:./Easy/0504-Base%207/README.md#solutions-python
 [509sr]:./Easy/0509-Fibonacci%20Number/README.md#solutions-rust
@@ -583,6 +586,7 @@
 [459l]:https://leetcode.com/problems/repeated-substring-pattern/
 [461l]:https://leetcode.com/problems/hamming-distance/
 [485l]:https://leetcode.com/problems/max-consecutive-ones/
+[492l]:https://leetcode.com/problems/construct-the-rectangle/
 [494l]:https://leetcode.com/problems/target-sum/
 [498l]:https://leetcode.com/problems/diagonal-traverse/
 [500l]:https://leetcode.com/problems/keyboard-row/
