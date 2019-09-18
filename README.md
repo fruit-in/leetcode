@@ -52,6 +52,7 @@
 172 |[Factorial Trailing Zeroes][172]                                         |[![r]][172sr]                           |[Easy][e]  |[![l]][172l]
 189 |[Rotate Array][189]                                                      |[![r]][189sr]                           |[Easy][e]  |[![l]][189l]
 191 |[Number of 1 Bits][191]                                                  |[![r]][191sr]                           |[Easy][e]  |[![l]][191l]
+198 |[House Robber][198]                                                      |[![r]][198sr]                           |[Easy][e]  |[![l]][198l]
 201 |[Bitwise AND of Numbers Range][201]                                      |[![r]][201sr]                           |[Medium][m]|[![l]][201l]
 202 |[Happy Number][202]                                                      |[![r]][202sr]                           |[Easy][e]  |[![l]][202l]
 203 |[Remove Linked List Elements][203]                                       |[![p]][203sp]                           |[Easy][e]  |[![l]][203l]
@@ -207,6 +208,7 @@
 [172]:./Easy/0172-Factorial%20Trailing%20Zeroes/README.md#172-factorial-trailing-zeroes
 [189]:./Easy/0189-Rotate%20Array/README.md#189-rotate-array
 [191]:./Easy/0191-Number%20of%201%20Bits/README.md#191-number-of-1-bits
+[198]:./Easy/0198-House%20Robber/README.md#198-house-robber
 [201]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range/README.md#201-bitwise-and-of-numbers-range
 [202]:./Easy/0202-Happy%20Number/README.md#202-happy-number
 [203]:./Easy/0203-Remove%20Linked%20List%20Elements/README.md#remove-linked-list-elements
@@ -355,6 +357,7 @@
 [172sr]:./Easy/0172-Factorial%20Trailing%20Zeroes/README.md#solutions-rust
 [189sr]:./Easy/0189-Rotate%20Array/README.md#solutions-rust
 [191sr]:./Easy/0191-Number%20of%201%20Bits/README.md#solutions-rust
+[198sr]:./Easy/0198-House%20Robber/README.md#solutions-rust
 [201sr]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range/README.md#solutions-rust
 [202sr]:./Easy/0202-Happy%20Number/README.md#solutions-rust
 [203sp]:./Easy/0203-Remove%20Linked%20List%20Elements/README.md#solutions-python
@@ -526,6 +529,7 @@
 [173l]:https://leetcode.com/problems/binary-search-tree-iterator/
 [189l]:https://leetcode.com/problems/rotate-array/
 [191l]:https://leetcode.com/problems/number-of-1-bits/
+[198l]:https://leetcode.com/problems/house-robber/
 [200l]:https://leetcode.com/problems/number-of-islands/
 [201l]:https://leetcode.com/problems/bitwise-and-of-numbers-range/
 [202l]:https://leetcode.com/problems/happy-number/
