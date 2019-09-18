@@ -104,6 +104,8 @@ impl Solution {
 ```
 
 ## Solutions (C)
+
+### 1. Brute Force
 ```C
 int* twoSum(int* nums, int numsSize, int target, int* returnSize){
     static int a[2]={0};
