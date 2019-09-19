@@ -145,6 +145,7 @@
 1071|[Greatest Common Divisor of Strings][1071]                         |[![p]][1071sp]                                 |[Easy][e]  |[![l]][1071l]
 1108|[Defanging an IP Address][1108]                                    |[![r]][1108sr]                                 |[Easy][e]  |[![l]][1108l]
 1122|[Relative Sort Array][1122]                                        |[![r]][1122sr]                                 |[Easy][e]  |[![l]][1122l]
+1128|[Number of Equivalent Domino Pairs][1128]                          |[![r]][1128sr]                                 |[Easy][e]  |[![l]][1128l]
 1137|[N-th Tribonacci Number][1137]                                     |[![r]][1137sr]                                 |[Easy][e]  |[![l]][1137l]
 1154|[Day of the Year][1154]                                            |[![r]][1154sr]                                 |[Easy][e]  |[![l]][1154l]
 1184|[Distance Between Bus Stops][1184]                                 |[![r]][1184sr]                                 |[Easy][e]  |[![l]][1184l]
@@ -305,6 +306,7 @@
 [1071]:./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings/README.md#1071-greatest-common-divisor-of-strings
 [1108]:./Easy/1108-Defanging%20an%20IP%20Address/README.md#1108-defanging-an-ip-address
 [1122]:./Easy/1122-Relative%20Sort%20Array/README.md#1122-relative-sort-array
+[1128]:./Easy/1128-Number%20of%20Equivalent%20Domino%20Pairs/README.md#1128-number-of-equivalent-domino-pairs
 [1137]:./Easy/1137-N-th%20Tribonacci%20Number/README.md#1137-n-th-tribonacci-number
 [1154]:./Easy/1154-Day%20of%20the%20Year/README.md#1154-day-of-the-year
 [1184]:./Easy/1184-Distance%20Between%20Bus%20Stops/README.md#1184-distance-between-bus-stops
@@ -460,6 +462,7 @@
 [1071sp]:./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings/README.md#solutions-python
 [1108sr]:./Easy/1108-Defanging%20an%20IP%20Address/README.md#solutions-rust
 [1122sr]:./Easy/1122-Relative%20Sort%20Array/README.md#solutions-rust
+[1128sr]:./Easy/1128-Number%20of%20Equivalent%20Domino%20Pairs/README.md#solutions-rust
 [1137sr]:./Easy/1137-N-th%20Tribonacci%20Number/README.md#solutions-rust
 [1154sr]:./Easy/1154-Day%20of%20the%20Year/README.md#solutions-rust
 [1184sr]:./Easy/1184-Distance%20Between%20Bus%20Stops/README.md#solutions-rust
@@ -673,6 +676,7 @@
 [1071l]:https://leetcode.com/problems/greatest-common-divisor-of-strings/
 [1108l]:https://leetcode.com/problems/defanging-an-ip-address/
 [1122l]:https://leetcode.com/problems/relative-sort-array/
+[1128l]:https://leetcode.com/problems/number-of-equivalent-domino-pairs/
 [1137l]:https://leetcode.com/problems/n-th-tribonacci-number/
 [1154l]:https://leetcode.com/problems/day-of-the-year/
 [1184l]:https://leetcode.com/problems/distance-between-bus-stops/
