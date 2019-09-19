@@ -78,6 +78,7 @@
 344 |[Reverse String][344]                                              |[![r]][344sr]                                  |[Easy][e]  |[![l]][344l]
 345 |[Reverse Vowels of a String][345]                                  |[![p]][345sp]                                  |[Easy][e]  |[![l]][345l]
 371 |[Sum of Two Integers][371]                                         |[![r]][371sr]                                  |[Easy][e]  |[![l]][371l]
+374 |[Guess Number Higher or Lower][374]                                |[![p]][374sp]                                  |[Easy][e]  |[![l]][374l]
 392 |[Is Subsequence][392]                                              |[![r]][392sr]                                  |[Easy][e]  |[![l]][392l]
 409 |[Longest Palindrome][409]                                          |[![r]][409sr]                                  |[Easy][e]  |[![l]][409l]
 414 |[Third Maximum Number][414]                                        |[![r]][414sr]                                  |[Easy][e]  |[![l]][414l]
@@ -237,6 +238,7 @@
 [344]:./Easy/0344-Reverse%20String/README.md#344-reverse-string
 [345]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README.md#345-reverse-vowels-of-a-string
 [371]:./Easy/0371-Sum%20of%20Two%20Integers/README.md#371-sum-of-two-integers
+[374]:./Easy/0374-Guess%20Number%20Higher%20or%20Lower/README.md#374-guess-number-higher-or-lower
 [392]:./Easy/0392-Is%20Subsequence/README.md#392-is-subsequence
 [409]:./Easy/0409-Longest%20Palindrome/README.md#409-longest-palindrome
 [414]:./Easy/0414-Third%20Maximum%20Number/README.md#414-third-maximum-number
@@ -390,6 +392,7 @@
 [344sr]:./Easy/0344-Reverse%20String/README.md#solutions-rust
 [345sp]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README.md#solutions-python
 [371sr]:./Easy/0371-Sum%20of%20Two%20Integers/README.md#solutions-rust
+[374sp]:./Easy/0374-Guess%20Number%20Higher%20or%20Lower/README.md#solutions-python
 [392sr]:./Easy/0392-Is%20Subsequence/README.md#solutions-rust
 [409sr]:./Easy/0409-Longest%20Palindrome/README.md#solutions-rust
 [414sr]:./Easy/0414-Third%20Maximum%20Number/README.md#solutions-rust
@@ -581,6 +584,7 @@
 [349l]:https://leetcode.com/problems/intersection-of-two-arrays/
 [350l]:https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [371l]:https://leetcode.com/problems/sum-of-two-integers/
+[374l]:https://leetcode.com/problems/guess-number-higher-or-lower/
 [380l]:https://leetcode.com/problems/insert-delete-getrandom-o1/
 [387l]:https://leetcode.com/problems/first-unique-character-in-a-string/
 [392l]:https://leetcode.com/problems/is-subsequence/
