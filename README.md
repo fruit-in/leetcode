@@ -68,6 +68,7 @@
 234 |[Palindrome Linked List][234]                                            |[![p]][234sp]                           |[Easy][e]  |[![l]][234l]
 237 |[Delete Node in a Linked List][237]                                      |[![p]][237sp]                           |[Easy][e]  |[![l]][237l]
 242 |[Valid Anagram][242]                                                     |[![r]][242sr]                           |[Easy][e]  |[![l]][242l]
+258 |[Add Digits][258]                                                        |[![r]][258sr]                           |[Easy][e]  |[![l]][258l]
 263 |[Ugly Number][263]                                                       |[![r]][263sr]                           |[Easy][e]  |[![l]][263l]
 278 |[First Bad Version][278]                                                 |[![p]][278sp]                           |[Easy][e]  |[![l]][278l]
 279 |[Perfect Squares][279]                                                   |[![r]][279sr]                           |[Medium][m]|[![l]][279l]
@@ -226,6 +227,7 @@
 [234]:./Easy/0234-Palindrome%20Linked%20List/README.md#234-palindrome-linked-list
 [237]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List/README.md#237-delete-node-in-a-linked-list
 [242]:./Easy/0242-Valid%20Anagram/README.md#242-valid-anagram
+[258]:./Easy/0258-Add%20Digits/README.md#258-add-digits
 [263]:./Easy/0263-Ugly%20Number/README.md#263-ugly-number
 [278]:./Easy/0278-First%20Bad%20Version/README.md#278-first-bad-version
 [279]:./Medium/0279-Perfect%20Squares/README.md#279-perfect-squares
@@ -378,6 +380,7 @@
 [234sp]:./Easy/0234-Palindrome%20Linked%20List/README.md#solutions-python
 [237sp]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List/README.md#solutions-python
 [242sr]:./Easy/0242-Valid%20Anagram/README.md#solutions-rust
+[258sr]:./Easy/0258-Add%20Digits/README.md#solutions-rust
 [263sr]:./Easy/0263-Ugly%20Number/README.md#solutions-rust
 [278sp]:./Easy/0278-First%20Bad%20Version/README.md#solutions-python
 [279sr]:./Medium/0279-Perfect%20Squares/README.md#solutions-rust
@@ -562,6 +565,7 @@
 [237l]:https://leetcode.com/problems/delete-node-in-a-linked-list/
 [240l]:https://leetcode.com/problems/search-a-2d-matrix-ii/
 [242l]:https://leetcode.com/problems/valid-anagram/
+[258l]:https://leetcode.com/problems/add-digits/
 [263l]:https://leetcode.com/problems/ugly-number/
 [278l]:https://leetcode.com/problems/first-bad-version/
 [279l]:https://leetcode.com/problems/perfect-squares/
