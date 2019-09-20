@@ -53,6 +53,7 @@
 171 |[Excel Sheet Column Number][171]                                   |[![p]][171sp]                                  |[Easy][e]  |[![l]][171l]
 172 |[Factorial Trailing Zeroes][172]                                   |[![r]][172sr]                                  |[Easy][e]  |[![l]][172l]
 189 |[Rotate Array][189]                                                |[![r]][189sr]                                  |[Easy][e]  |[![l]][189l]
+190 |[Reverse Bits][190]                                                |[![p]][190sp]                                  |[Easy][e]  |[![l]][190l]
 191 |[Number of 1 Bits][191]                                            |[![r]][191sr]                                  |[Easy][e]  |[![l]][191l]
 198 |[House Robber][198]                                                |[![r]][198sr]                                  |[Easy][e]  |[![l]][198l]
 201 |[Bitwise AND of Numbers Range][201]                                |[![r]][201sr]                                  |[Medium][m]|[![l]][201l]
@@ -215,6 +216,7 @@
 [171]:./Easy/0171-Excel%20Sheet%20Column%20Number/README.md#171-excel-sheet-column-number
 [172]:./Easy/0172-Factorial%20Trailing%20Zeroes/README.md#172-factorial-trailing-zeroes
 [189]:./Easy/0189-Rotate%20Array/README.md#189-rotate-array
+[190]:./Easy/0190-Reverse%20Bits/README.md#190-reverse-bits
 [191]:./Easy/0191-Number%20of%201%20Bits/README.md#191-number-of-1-bits
 [198]:./Easy/0198-House%20Robber/README.md#198-house-robber
 [201]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range/README.md#201-bitwise-and-of-numbers-range
@@ -373,6 +375,7 @@
 [171sp]:./Easy/0171-Excel%20Sheet%20Column%20Number/README.md#solutions-python
 [172sr]:./Easy/0172-Factorial%20Trailing%20Zeroes/README.md#solutions-rust
 [189sr]:./Easy/0189-Rotate%20Array/README.md#solutions-rust
+[190sp]:./Easy/0190-Reverse%20Bits/README.md#solutions-python
 [191sr]:./Easy/0191-Number%20of%201%20Bits/README.md#solutions-rust
 [198sr]:./Easy/0198-House%20Robber/README.md#solutions-rust
 [201sr]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range/README.md#solutions-rust
@@ -550,6 +553,7 @@
 [172l]:https://leetcode.com/problems/factorial-trailing-zeroes/
 [173l]:https://leetcode.com/problems/binary-search-tree-iterator/
 [189l]:https://leetcode.com/problems/rotate-array/
+[190l]:https://leetcode.com/problems/reverse-bits/
 [191l]:https://leetcode.com/problems/number-of-1-bits/
 [198l]:https://leetcode.com/problems/house-robber/
 [200l]:https://leetcode.com/problems/number-of-islands/
