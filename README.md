@@ -46,6 +46,7 @@
 145 |[Binary Tree Postorder Traversal][145]                             |[![p]][145sp]                                  |[Hard][h]  |[![l]][145l]
 150 |[Evaluate Reverse Polish Notation][150]                            |[![r]][150sr]                                  |[Medium][m]|[![l]][150l]
 155 |[Min Stack][155]                                                   |[![r]][155sr]                                  |[Easy][e]  |[![l]][155l]
+160 |[Intersection of Two Linked Lists][160]                            |[![p]][160sp]                                  |[Easy][e]  |[![l]][160l]
 167 |[Two Sum II - Input array is sorted][167]                          |[![r]][167sr]                                  |[Easy][e]  |[![l]][167l]
 168 |[Excel Sheet Column Title][168]                                    |[![p]][168sp]                                  |[Easy][e]  |[![l]][168l]
 169 |[Majority Element][169]                                            |[![r]][169sr]                                  |[Easy][e]  |[![l]][169l]
@@ -207,6 +208,7 @@
 [145]:./Hard/0145-Binary%20Tree%20Postorder%20Traversal/README.md#145-binary-tree-postorder-traversal
 [150]:./Medium/0150-Evaluate%20Reverse%20Polish%20Notation/README.md#150-evaluate-reverse-polish-notation
 [155]:./Easy/0155-Min%20Stack/README.md#155-min-stack
+[160]:./Easy/0160-Intersection%20of%20Two%20Linked%20Lists/README.md#160-intersection-of-two-linked-lists
 [167]:./Easy/0167-Two%20Sum%20II%20-%20Input%20array%20is%20sorted/README.md#167-two-sum-ii---input-array-is-sorted
 [168]:./Easy/0168-Excel%20Sheet%20Column%20Title/README.md#168-excel-sheet-column-title
 [169]:./Easy/0169-Majority%20Element/README.md#169-majority-element
@@ -364,6 +366,7 @@
 [145sp]:./Hard/0145-Binary%20Tree%20Postorder%20Traversal/README.md#solutions-python
 [150sr]:./Medium/0150-Evaluate%20Reverse%20Polish%20Notation/README.md#solutions-rust
 [155sr]:./Easy/0155-Min%20Stack/README.md#solutions-rust
+[160sp]:./Easy/0160-Intersection%20of%20Two%20Linked%20Lists/README.md#solutions-python
 [167sr]:./Easy/0167-Two%20Sum%20II%20-%20Input%20array%20is%20sorted/README.md#solutions-rust
 [168sp]:./Easy/0168-Excel%20Sheet%20Column%20Title/README.md#solutions-python
 [169sr]:./Easy/0169-Majority%20Element/README.md#solutions-rust
