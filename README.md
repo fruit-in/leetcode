@@ -59,6 +59,7 @@
 201 |[Bitwise AND of Numbers Range][201]                                |[![r]][201sr]                                  |[Medium][m]|[![l]][201l]
 202 |[Happy Number][202]                                                |[![r]][202sr]                                  |[Easy][e]  |[![l]][202l]
 203 |[Remove Linked List Elements][203]                                 |[![p]][203sp]                                  |[Easy][e]  |[![l]][203l]
+204 |[Count Primes][204]                                                |[![r]][204sr]                                  |[Easy][e]  |[![l]][204l]
 206 |[Reverse Linked List][206]                                         |[![p]][206sp]                                  |[Easy][e]  |[![l]][206l]
 217 |[Contains Duplicate][217]                                          |[![r]][217sr]                                  |[Easy][e]  |[![l]][217l]
 219 |[Contains Duplicate II][219]                                       |[![r]][219sr]                                  |[Easy][e]  |[![l]][219l]
@@ -222,6 +223,7 @@
 [201]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range/README.md#201-bitwise-and-of-numbers-range
 [202]:./Easy/0202-Happy%20Number/README.md#202-happy-number
 [203]:./Easy/0203-Remove%20Linked%20List%20Elements/README.md#remove-linked-list-elements
+[204]:./Easy/0204-Count%20Primes/README.md#204-count-primes
 [206]:./Easy/0206-Reverse%20Linked%20List/README.md#206-reverse-linked-list
 [217]:./Easy/0217-Contains%20Duplicate/README.md#217-contains-duplicate
 [219]:./Easy/0219-Contains%20Duplicate%20II/README.md#219-contains-duplicate-ii
@@ -381,6 +383,7 @@
 [201sr]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range/README.md#solutions-rust
 [202sr]:./Easy/0202-Happy%20Number/README.md#solutions-rust
 [203sp]:./Easy/0203-Remove%20Linked%20List%20Elements/README.md#solutions-python
+[204sr]:./Easy/0204-Count%20Primes/README.md#solutions-rust
 [206sp]:./Easy/0206-Reverse%20Linked%20List/README.md#solutions-python
 [217sr]:./Easy/0217-Contains%20Duplicate/README.md#solutions-rust
 [219sr]:./Easy/0219-Contains%20Duplicate%20II/README.md#solutions-rust
@@ -560,6 +563,7 @@
 [201l]:https://leetcode.com/problems/bitwise-and-of-numbers-range/
 [202l]:https://leetcode.com/problems/happy-number/
 [203l]:https://leetcode.com/problems/remove-linked-list-elements/
+[204l]:https://leetcode.com/problems/count-primes/
 [205l]:https://leetcode.com/problems/isomorphic-strings/
 [206l]:https://leetcode.com/problems/reverse-linked-list/
 [208l]:https://leetcode.com/problems/implement-trie-prefix-tree/
