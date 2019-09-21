@@ -222,7 +222,7 @@
 [198]:./Easy/0198-House%20Robber/README.md#198-house-robber
 [201]:./Medium/0201-Bitwise%20AND%20of%20Numbers%20Range/README.md#201-bitwise-and-of-numbers-range
 [202]:./Easy/0202-Happy%20Number/README.md#202-happy-number
-[203]:./Easy/0203-Remove%20Linked%20List%20Elements/README.md#remove-linked-list-elements
+[203]:./Easy/0203-Remove%20Linked%20List%20Elements/README.md#203-remove-linked-list-elements
 [204]:./Easy/0204-Count%20Primes/README.md#204-count-primes
 [206]:./Easy/0206-Reverse%20Linked%20List/README.md#206-reverse-linked-list
 [217]:./Easy/0217-Contains%20Duplicate/README.md#217-contains-duplicate
