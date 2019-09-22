@@ -84,3 +84,20 @@ class Solution:
             x //= 10
         return x == rev or x == (rev // 10)
 ```
+
+## Solutions (C)
+### 1.Elementary Math
+```C
+bool isPalindrome(int x){
+    int origin = x;
+    long sum = 0; 
+    while(x > 0)
+    {
+        sum = sum *10 + x % 10;
+        x /= 10;
+    }  
+    if(sum == origin)
+        return true;
+    return false;
+}
+```

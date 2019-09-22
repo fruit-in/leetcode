@@ -3,7 +3,7 @@
 ----|-------------------------------------------------------------------|:---------------------------------------------:|-----------|:----:
 1   |[Two Sum][1]                                                       |[![p]][1sp]&nbsp;[![r]][1sr]&nbsp;[![c]][1sc]  |[Easy][e]  |[![l]][1l]
 7   |[Reverse Integer][7]                                               |[![p]][7sp]&nbsp;[![c]][7sc]                   |[Easy][e]  |[![l]][7l]
-9   |[Palindrome Number][9]                                             |[![p]][9sp]                                    |[Easy][e]  |[![l]][9l]
+9   |[Palindrome Number][9]                                             |[![p]][9sp]&nbsp;[![c]][9sc]                   |[Easy][e]  |[![l]][9l]
 11  |[Container With Most Water][11]                                    |[![c]][11sc]                                   |[Medium][m]|[![l]][11l]
 13  |[Roman to Integer][13]                                             |[![r]][13sr]                                   |[Easy][e]  |[![l]][13l]
 14  |[Longest Common Prefix][14]                                        |[![p]][14sp]                                   |[Easy][e]  |[![l]][14l]
@@ -319,6 +319,7 @@
 [7sp]:./Easy/0007-Reverse%20Integer/README.md#solutions-python
 [7sc]:./Easy/0007-Reverse%20Integer/README.md#solutions-c
 [9sp]:./Easy/0009-Palindrome%20Number/README.md#solutions-python
+[9sc]:./Easy/0009-Palindrome%20Number/README.md#solutions-c
 [11sr]:./Medium/0011-Container%20With%20Most%20Water/README.md#solutions-rust
 [11sc]:./Medium/0011-Container%20With%20Most%20Water/README.md#solutions-c
 [13sr]:./Easy/0013-Roman%20to%20Integer/README.md#solutions-rust
