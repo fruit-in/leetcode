@@ -60,6 +60,7 @@
 202 |[Happy Number][202]                                                |[![r]][202sr]                                  |[Easy][e]  |[![l]][202l]
 203 |[Remove Linked List Elements][203]                                 |[![p]][203sp]                                  |[Easy][e]  |[![l]][203l]
 204 |[Count Primes][204]                                                |[![r]][204sr]                                  |[Easy][e]  |[![l]][204l]
+205 |[Isomorphic Strings][205]                                          |[![p]][205sp]                                  |[Easy][e]  |[![l]][205l]
 206 |[Reverse Linked List][206]                                         |[![p]][206sp]                                  |[Easy][e]  |[![l]][206l]
 217 |[Contains Duplicate][217]                                          |[![r]][217sr]                                  |[Easy][e]  |[![l]][217l]
 219 |[Contains Duplicate II][219]                                       |[![r]][219sr]                                  |[Easy][e]  |[![l]][219l]
@@ -224,6 +225,7 @@
 [202]:./Easy/0202-Happy%20Number/README.md#202-happy-number
 [203]:./Easy/0203-Remove%20Linked%20List%20Elements/README.md#203-remove-linked-list-elements
 [204]:./Easy/0204-Count%20Primes/README.md#204-count-primes
+[205]:./Easy/0205-Isomorphic%20Strings/README.md#205-isomorphic-strings
 [206]:./Easy/0206-Reverse%20Linked%20List/README.md#206-reverse-linked-list
 [217]:./Easy/0217-Contains%20Duplicate/README.md#217-contains-duplicate
 [219]:./Easy/0219-Contains%20Duplicate%20II/README.md#219-contains-duplicate-ii
@@ -384,6 +386,7 @@
 [202sr]:./Easy/0202-Happy%20Number/README.md#solutions-rust
 [203sp]:./Easy/0203-Remove%20Linked%20List%20Elements/README.md#solutions-python
 [204sr]:./Easy/0204-Count%20Primes/README.md#solutions-rust
+[205sp]:./Easy/0205-Isomorphic%20Strings/README.md#solutions-python
 [206sp]:./Easy/0206-Reverse%20Linked%20List/README.md#solutions-python
 [217sr]:./Easy/0217-Contains%20Duplicate/README.md#solutions-rust
 [219sr]:./Easy/0219-Contains%20Duplicate%20II/README.md#solutions-rust
