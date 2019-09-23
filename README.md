@@ -77,6 +77,7 @@
 278 |[First Bad Version][278]                                           |[![p]][278sp]                                  |[Easy][e]  |[![l]][278l]
 279 |[Perfect Squares][279]                                             |[![r]][279sr]                                  |[Medium][m]|[![l]][279l]
 283 |[Move Zeroes][283]                                                 |[![r]][283sr]                                  |[Easy][e]  |[![l]][283l]
+290 |[Word Pattern][290]                                                |[![p]][290sp]                                  |[Easy][e]  |[![l]][290l]
 292 |[Nim Game][292]                                                    |[![r]][292sr]                                  |[Easy][e]  |[![l]][292l]
 338 |[Counting Bits][338]                                               |[![r]][338sr]                                  |[Medium][m]|[![l]][338l]
 344 |[Reverse String][344]                                              |[![r]][344sr]                                  |[Easy][e]  |[![l]][344l]
@@ -243,6 +244,7 @@
 [278]:./Easy/0278-First%20Bad%20Version/README.md#278-first-bad-version
 [279]:./Medium/0279-Perfect%20Squares/README.md#279-perfect-squares
 [283]:./Easy/0283-Move%20Zeroes/README.md#283-move-zeroes
+[290]:./Easy/0290-Word%20Pattern/README.md#290-word-pattern
 [292]:./Easy/0292-Nim%20Game/README.md#292-nim-game
 [338]:./Medium/0338-Counting%20Bits/README.md#338-counting-bits
 [344]:./Easy/0344-Reverse%20String/README.md#344-reverse-string
@@ -405,6 +407,7 @@
 [278sp]:./Easy/0278-First%20Bad%20Version/README.md#solutions-python
 [279sr]:./Medium/0279-Perfect%20Squares/README.md#solutions-rust
 [283sr]:./Easy/0283-Move%20Zeroes/README.md#solutions-rust
+[290sp]:./Easy/0290-Word%20Pattern/README.md#solutions-python
 [292sr]:./Easy/0292-Nim%20Game/README.md#solutions-rust
 [338sr]:./Medium/0338-Counting%20Bits/README.md#solutions-rust
 [344sr]:./Easy/0344-Reverse%20String/README.md#solutions-rust
@@ -595,6 +598,7 @@
 [278l]:https://leetcode.com/problems/first-bad-version/
 [279l]:https://leetcode.com/problems/perfect-squares/
 [283l]:https://leetcode.com/problems/move-zeroes/
+[290l]:https://leetcode.com/problems/word-pattern/
 [292l]:https://leetcode.com/problems/nim-game/
 [297l]:https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 [328l]:https://leetcode.com/problems/odd-even-linked-list/
