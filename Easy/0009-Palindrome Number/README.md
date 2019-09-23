@@ -86,7 +86,7 @@ class Solution:
 ```
 
 ## Solutions (C)
-### 1.Elementary Math
+### 1. Elementary Math
 ```C
 bool isPalindrome(int x){
     int origin = x;
