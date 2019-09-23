@@ -155,6 +155,7 @@
 1184|[Distance Between Bus Stops][1184]                                 |[![r]][1184sr]                                 |[Easy][e]  |[![l]][1184l]
 1185|[Day of the Week][1185]                                            |[![r]][1185sr]                                 |[Easy][e]  |[![l]][1185l]
 1189|[Maximum Number of Balloons][1189]                                 |[![r]][1189sr]                                 |[Easy][e]  |[![l]][1189l]
+1200|[Minimum Absolute Difference][1200]                                |[![r]][1200sr]                                 |[Easy][e]  |[![l]][1200l]
 
 
 [p]:./ico/python.ico
@@ -320,6 +321,7 @@
 [1184]:./Easy/1184-Distance%20Between%20Bus%20Stops/README.md#1184-distance-between-bus-stops
 [1185]:./Easy/1185-Day%20of%20the%20Week/README.md#1185-day-of-the-week
 [1189]:./Easy/1189-Maximum%20Number%20of%20Balloons/README.md#1189-maximum-number-of-balloons
+[1200]:./Easy/1200-Minimum%20Absolute%20Difference/README.md#1200-minimum-absolute-difference
 
 [1sc]:./Easy/0001-Two%20Sum/README.md#solutions-c
 [1sp]:./Easy/0001-Two%20Sum/README.md#solutions-python
@@ -482,6 +484,7 @@
 [1184sr]:./Easy/1184-Distance%20Between%20Bus%20Stops/README.md#solutions-rust
 [1185sr]:./Easy/1185-Day%20of%20the%20Week/README.md#solutions-rust
 [1189sr]:./Easy/1189-Maximum%20Number%20of%20Balloons/README.md#solutions-rust
+[1200sr]:./Easy/1200-Minimum%20Absolute%20Difference/README.md#solutions-rust
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -698,3 +701,4 @@
 [1184l]:https://leetcode.com/problems/distance-between-bus-stops/
 [1185l]:https://leetcode.com/problems/day-of-the-week/
 [1189l]:https://leetcode.com/problems/maximum-number-of-balloons/
+[1200l]:https://leetcode.com/problems/minimum-absolute-difference/
