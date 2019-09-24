@@ -70,6 +70,7 @@
 231 |[Power of Two][231]                                                |[![r]][231sr]                                  |[Easy][e]  |[![l]][231l]
 232 |[Implement Queue using Stacks][232]                                |[![r]][232sr]                                  |[Easy][e]  |[![l]][232l]
 234 |[Palindrome Linked List][234]                                      |[![p]][234sp]                                  |[Easy][e]  |[![l]][234l]
+235 |[Lowest Common Ancestor of a Binary Search Tree][235]              |[![p]][235sp]                                  |[Easy][e]  |[![l]][235l]
 237 |[Delete Node in a Linked List][237]                                |[![p]][237sp]                                  |[Easy][e]  |[![l]][237l]
 242 |[Valid Anagram][242]                                               |[![r]][242sr]                                  |[Easy][e]  |[![l]][242l]
 258 |[Add Digits][258]                                                  |[![r]][258sr]                                  |[Easy][e]  |[![l]][258l]
@@ -237,6 +238,7 @@
 [231]:./Easy/0231-Power%20of%20Two/README.md#231-power-of-two
 [232]:./Easy/0232-Implement%20Queue%20using%20Stacks/README.md#232-implement-queue-using-stacks
 [234]:./Easy/0234-Palindrome%20Linked%20List/README.md#234-palindrome-linked-list
+[235]:./Easy/0235-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/README.md#235-lowest-common-ancestor-of-a-binary-search-tree
 [237]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List/README.md#237-delete-node-in-a-linked-list
 [242]:./Easy/0242-Valid%20Anagram/README.md#242-valid-anagram
 [258]:./Easy/0258-Add%20Digits/README.md#258-add-digits
@@ -400,6 +402,7 @@
 [231sr]:./Easy/0231-Power%20of%20Two/README.md#solutions-rust
 [232sr]:./Easy/0232-Implement%20Queue%20using%20Stacks/README.md#solutions-rust
 [234sp]:./Easy/0234-Palindrome%20Linked%20List/README.md#solutions-python
+[235sp]:./Easy/0235-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/README.md#solutions-python
 [237sp]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List/README.md#solutions-python
 [242sr]:./Easy/0242-Valid%20Anagram/README.md#solutions-rust
 [258sr]:./Easy/0258-Add%20Digits/README.md#solutions-rust
