@@ -73,6 +73,7 @@
 235 |[Lowest Common Ancestor of a Binary Search Tree][235]              |[![p]][235sp]                                  |[Easy][e]  |[![l]][235l]
 237 |[Delete Node in a Linked List][237]                                |[![p]][237sp]                                  |[Easy][e]  |[![l]][237l]
 242 |[Valid Anagram][242]                                               |[![r]][242sr]                                  |[Easy][e]  |[![l]][242l]
+257 |[Binary Tree Paths][257]                                           |[![p]][257sp]                                  |[Easy][e]  |[![l]][257l]
 258 |[Add Digits][258]                                                  |[![r]][258sr]                                  |[Easy][e]  |[![l]][258l]
 263 |[Ugly Number][263]                                                 |[![r]][263sr]                                  |[Easy][e]  |[![l]][263l]
 278 |[First Bad Version][278]                                           |[![p]][278sp]                                  |[Easy][e]  |[![l]][278l]
@@ -241,6 +242,7 @@
 [235]:./Easy/0235-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/README.md#235-lowest-common-ancestor-of-a-binary-search-tree
 [237]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List/README.md#237-delete-node-in-a-linked-list
 [242]:./Easy/0242-Valid%20Anagram/README.md#242-valid-anagram
+[257]:./Easy/0257-Binary%20Tree%20Paths/README.md#257-binary-tree-paths
 [258]:./Easy/0258-Add%20Digits/README.md#258-add-digits
 [263]:./Easy/0263-Ugly%20Number/README.md#263-ugly-number
 [278]:./Easy/0278-First%20Bad%20Version/README.md#278-first-bad-version
@@ -405,6 +407,7 @@
 [235sp]:./Easy/0235-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/README.md#solutions-python
 [237sp]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List/README.md#solutions-python
 [242sr]:./Easy/0242-Valid%20Anagram/README.md#solutions-rust
+[257sp]:./Easy/0257-Binary%20Tree%20Paths/README.md#solutions-python
 [258sr]:./Easy/0258-Add%20Digits/README.md#solutions-rust
 [263sr]:./Easy/0263-Ugly%20Number/README.md#solutions-rust
 [278sp]:./Easy/0278-First%20Bad%20Version/README.md#solutions-python
@@ -596,6 +599,7 @@
 [237l]:https://leetcode.com/problems/delete-node-in-a-linked-list/
 [240l]:https://leetcode.com/problems/search-a-2d-matrix-ii/
 [242l]:https://leetcode.com/problems/valid-anagram/
+[257l]:https://leetcode.com/problems/binary-tree-paths/
 [258l]:https://leetcode.com/problems/add-digits/
 [263l]:https://leetcode.com/problems/ugly-number/
 [278l]:https://leetcode.com/problems/first-bad-version/
