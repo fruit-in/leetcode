@@ -76,6 +76,7 @@
 257 |[Binary Tree Paths][257]                                           |[![p]][257sp]                                  |[Easy][e]  |[![l]][257l]
 258 |[Add Digits][258]                                                  |[![r]][258sr]                                  |[Easy][e]  |[![l]][258l]
 263 |[Ugly Number][263]                                                 |[![r]][263sr]                                  |[Easy][e]  |[![l]][263l]
+268 |[Missing Number][268]                                              |[![r]][268sr]                                  |[Easy][e]  |[![l]][268l]
 278 |[First Bad Version][278]                                           |[![p]][278sp]                                  |[Easy][e]  |[![l]][278l]
 279 |[Perfect Squares][279]                                             |[![r]][279sr]                                  |[Medium][m]|[![l]][279l]
 283 |[Move Zeroes][283]                                                 |[![r]][283sr]                                  |[Easy][e]  |[![l]][283l]
@@ -245,6 +246,7 @@
 [257]:./Easy/0257-Binary%20Tree%20Paths/README.md#257-binary-tree-paths
 [258]:./Easy/0258-Add%20Digits/README.md#258-add-digits
 [263]:./Easy/0263-Ugly%20Number/README.md#263-ugly-number
+[268]:./Easy/0268-Missing%20Number/README.md#268-missing-number
 [278]:./Easy/0278-First%20Bad%20Version/README.md#278-first-bad-version
 [279]:./Medium/0279-Perfect%20Squares/README.md#279-perfect-squares
 [283]:./Easy/0283-Move%20Zeroes/README.md#283-move-zeroes
@@ -410,6 +412,7 @@
 [257sp]:./Easy/0257-Binary%20Tree%20Paths/README.md#solutions-python
 [258sr]:./Easy/0258-Add%20Digits/README.md#solutions-rust
 [263sr]:./Easy/0263-Ugly%20Number/README.md#solutions-rust
+[268sr]:./Easy/0268-Missing%20Number/README.md#solutions-rust
 [278sp]:./Easy/0278-First%20Bad%20Version/README.md#solutions-python
 [279sr]:./Medium/0279-Perfect%20Squares/README.md#solutions-rust
 [283sr]:./Easy/0283-Move%20Zeroes/README.md#solutions-rust
@@ -602,6 +605,7 @@
 [257l]:https://leetcode.com/problems/binary-tree-paths/
 [258l]:https://leetcode.com/problems/add-digits/
 [263l]:https://leetcode.com/problems/ugly-number/
+[268l]:https://leetcode.com/problems/missing-number/
 [278l]:https://leetcode.com/problems/first-bad-version/
 [279l]:https://leetcode.com/problems/perfect-squares/
 [283l]:https://leetcode.com/problems/move-zeroes/
