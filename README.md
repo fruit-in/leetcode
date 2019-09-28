@@ -83,6 +83,7 @@
 290 |[Word Pattern][290]                                                |[![p]][290sp]                                  |[Easy][e]  |[![l]][290l]
 292 |[Nim Game][292]                                                    |[![r]][292sr]                                  |[Easy][e]  |[![l]][292l]
 299 |[Bulls and Cows][299]                                              |[![p]][299sp]                                  |[Easy][e]  |[![l]][299l]
+303 |[Range Sum Query - Immutable][303]                                 |[![p]][303sp]                                  |[Easy][e]  |[![l]][303l]
 338 |[Counting Bits][338]                                               |[![r]][338sr]                                  |[Medium][m]|[![l]][338l]
 344 |[Reverse String][344]                                              |[![r]][344sr]                                  |[Easy][e]  |[![l]][344l]
 345 |[Reverse Vowels of a String][345]                                  |[![p]][345sp]                                  |[Easy][e]  |[![l]][345l]
@@ -254,6 +255,7 @@
 [290]:./Easy/0290-Word%20Pattern/README.md#290-word-pattern
 [292]:./Easy/0292-Nim%20Game/README.md#292-nim-game
 [299]:./Easy/0299-Bulls%20and%20Cows/README.md#299-bulls-and-cows
+[303]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README.md#303-range-sum-query---immutable
 [338]:./Medium/0338-Counting%20Bits/README.md#338-counting-bits
 [344]:./Easy/0344-Reverse%20String/README.md#344-reverse-string
 [345]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README.md#345-reverse-vowels-of-a-string
@@ -421,6 +423,7 @@
 [290sp]:./Easy/0290-Word%20Pattern/README.md#solutions-python
 [292sr]:./Easy/0292-Nim%20Game/README.md#solutions-rust
 [299sp]:./Easy/0299-Bulls%20and%20Cows/README.md#solutions-python
+[303sp]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README.md#solutions-python
 [338sr]:./Medium/0338-Counting%20Bits/README.md#solutions-rust
 [344sr]:./Easy/0344-Reverse%20String/README.md#solutions-rust
 [345sp]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README.md#solutions-python
@@ -616,6 +619,7 @@
 [292l]:https://leetcode.com/problems/nim-game/
 [297l]:https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 [299l]:https://leetcode.com/problems/bulls-and-cows/
+[303l]:https://leetcode.com/problems/range-sum-query-immutable/
 [328l]:https://leetcode.com/problems/odd-even-linked-list/
 [336l]:https://leetcode.com/problems/palindrome-pairs/
 [338l]:https://leetcode.com/problems/counting-bits/
