@@ -85,6 +85,7 @@
 299 |[Bulls and Cows][299]                                              |[![p]][299sp]                                  |[Easy][e]  |[![l]][299l]
 303 |[Range Sum Query - Immutable][303]                                 |[![p]][303sp]                                  |[Easy][e]  |[![l]][303l]
 338 |[Counting Bits][338]                                               |[![r]][338sr]                                  |[Medium][m]|[![l]][338l]
+342 |[Power of Four][342]                                               |[![r]][342sr]                                  |[Easy][e]  |[![l]][342l]
 344 |[Reverse String][344]                                              |[![r]][344sr]                                  |[Easy][e]  |[![l]][344l]
 345 |[Reverse Vowels of a String][345]                                  |[![p]][345sp]                                  |[Easy][e]  |[![l]][345l]
 371 |[Sum of Two Integers][371]                                         |[![r]][371sr]                                  |[Easy][e]  |[![l]][371l]
@@ -257,6 +258,7 @@
 [299]:./Easy/0299-Bulls%20and%20Cows/README.md#299-bulls-and-cows
 [303]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README.md#303-range-sum-query---immutable
 [338]:./Medium/0338-Counting%20Bits/README.md#338-counting-bits
+[342]:./Easy/0342-Power%20of%20Four/README.md#342-power-of-four
 [344]:./Easy/0344-Reverse%20String/README.md#344-reverse-string
 [345]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README.md#345-reverse-vowels-of-a-string
 [371]:./Easy/0371-Sum%20of%20Two%20Integers/README.md#371-sum-of-two-integers
@@ -425,6 +427,7 @@
 [299sp]:./Easy/0299-Bulls%20and%20Cows/README.md#solutions-python
 [303sp]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README.md#solutions-python
 [338sr]:./Medium/0338-Counting%20Bits/README.md#solutions-rust
+[342sr]:./Easy/0342-Power%20of%20Four/README.md#solutions-rust
 [344sr]:./Easy/0344-Reverse%20String/README.md#solutions-rust
 [345sp]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README.md#solutions-python
 [371sr]:./Easy/0371-Sum%20of%20Two%20Integers/README.md#solutions-rust
@@ -623,6 +626,7 @@
 [328l]:https://leetcode.com/problems/odd-even-linked-list/
 [336l]:https://leetcode.com/problems/palindrome-pairs/
 [338l]:https://leetcode.com/problems/counting-bits/
+[342l]:https://leetcode.com/problems/power-of-four/
 [344l]:https://leetcode.com/problems/reverse-string/
 [345l]:https://leetcode.com/problems/reverse-vowels-of-a-string/
 [347l]:https://leetcode.com/problems/top-k-frequent-elements/
