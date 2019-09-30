@@ -4,14 +4,14 @@ Given an integer, write a function to determine if it is a power of two.
 #### Example 1:
 <pre>
 <strong>Input:</strong> 1
-<strong>Output:</strong>  true
+<strong>Output:</strong> true
 <strong>Explanation:</strong> 2<sup>0</sup> = 1
 </pre>
 
 #### Example 2:
 <pre>
 <strong>Input:</strong> 16
-<strong>Output:</strong>  true
+<strong>Output:</strong> true
 <strong>Explanation:</strong> 2<sup>4</sup> = 16
 </pre>
 
@@ -23,7 +23,7 @@ Given an integer, write a function to determine if it is a power of two.
 
 ## Solutions (Rust)
 
-### 1. Count Bits
+### 1. n & (n - 1)
 ```Rust
 impl Solution {
     pub fn is_power_of_two(n: i32) -> bool {
