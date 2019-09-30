@@ -88,6 +88,7 @@
 342 |[Power of Four][342]                                               |[![r]][342sr]                                  |[Easy][e]  |[![l]][342l]
 344 |[Reverse String][344]                                              |[![r]][344sr]                                  |[Easy][e]  |[![l]][344l]
 345 |[Reverse Vowels of a String][345]                                  |[![p]][345sp]                                  |[Easy][e]  |[![l]][345l]
+349 |[Intersection of Two Arrays][349]                                  |[![r]][349sr]                                  |[Easy][e]  |[![l]][349l]
 371 |[Sum of Two Integers][371]                                         |[![r]][371sr]                                  |[Easy][e]  |[![l]][371l]
 374 |[Guess Number Higher or Lower][374]                                |[![p]][374sp]                                  |[Easy][e]  |[![l]][374l]
 392 |[Is Subsequence][392]                                              |[![r]][392sr]                                  |[Easy][e]  |[![l]][392l]
@@ -261,6 +262,7 @@
 [342]:./Easy/0342-Power%20of%20Four/README.md#342-power-of-four
 [344]:./Easy/0344-Reverse%20String/README.md#344-reverse-string
 [345]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README.md#345-reverse-vowels-of-a-string
+[349]:./Easy/0349-Intersection%20of%20Two%20Arrays/README.md#349-intersection-of-two-arrays
 [371]:./Easy/0371-Sum%20of%20Two%20Integers/README.md#371-sum-of-two-integers
 [374]:./Easy/0374-Guess%20Number%20Higher%20or%20Lower/README.md#374-guess-number-higher-or-lower
 [392]:./Easy/0392-Is%20Subsequence/README.md#392-is-subsequence
@@ -430,6 +432,7 @@
 [342sr]:./Easy/0342-Power%20of%20Four/README.md#solutions-rust
 [344sr]:./Easy/0344-Reverse%20String/README.md#solutions-rust
 [345sp]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README.md#solutions-python
+[349sr]:./Easy/0349-Intersection%20of%20Two%20Arrays/README.md#solutions-rust
 [371sr]:./Easy/0371-Sum%20of%20Two%20Integers/README.md#solutions-rust
 [374sp]:./Easy/0374-Guess%20Number%20Higher%20or%20Lower/README.md#solutions-python
 [392sr]:./Easy/0392-Is%20Subsequence/README.md#solutions-rust
