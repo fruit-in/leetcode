@@ -104,6 +104,7 @@
 492 |[Construct the Rectangle][492]                                     |[![r]][492sr]                                  |[Easy][e]  |[![l]][492l]
 500 |[Keyboard Row][500]                                                |[![p]][500sp]                                  |[Easy][e]  |[![l]][500l]
 504 |[Base 7][504]                                                      |[![p]][504sp]                                  |[Easy][e]  |[![l]][504l]
+507 |[Perfect Number][507]                                              |[![r]][507sr]                                  |[Easy][e]  |[![l]][507l]
 509 |[Fibonacci Number][509]                                            |[![r]][509sr]                                  |[Easy][e]  |[![l]][509l]
 520 |[Detect Capital][520]                                              |[![r]][520sr]                                  |[Easy][e]  |[![l]][520l]
 559 |[Maximum Depth of N-ary Tree][559]                                 |[![p]][559sp]                                  |[Easy][e]  |[![l]][559l]
@@ -280,6 +281,7 @@
 [492]:./Easy/0492-Construct%20the%20Rectangle/README.md#492-construct-the-rectangle
 [500]:./Easy/0500-Keyboard%20Row/README.md#500-keyboard-row
 [504]:./Easy/0504-Base%207/README.md#504-base-7
+[507]:./Easy/0507-Perfect%20Number/README.md#507-perfect-number
 [509]:./Easy/0509-Fibonacci%20Number/README.md#509-fibonacci-number
 [520]:./Easy/0520-Detect%20Capital/README.md#520-detect-capital
 [559]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree/README.md#559-maximum-depth-of-n-ary-tree
@@ -452,6 +454,7 @@
 [492sr]:./Easy/0492-Construct%20the%20Rectangle/README.md#solutions-rust
 [500sp]:./Easy/0500-Keyboard%20Row/README.md#solutions-python
 [504sp]:./Easy/0504-Base%207/README.md#solutions-python
+[507sr]:./Easy/0507-Perfect%20Number/README.md#solutions-rust
 [509sr]:./Easy/0509-Fibonacci%20Number/README.md#solutions-rust
 [520sr]:./Easy/0520-Detect%20Capital/README.md#solutions-rust
 [559sp]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree/README.md#solutions-python
@@ -664,6 +667,7 @@
 [498l]:https://leetcode.com/problems/diagonal-traverse/
 [500l]:https://leetcode.com/problems/keyboard-row/
 [504l]:https://leetcode.com/problems/base-7/
+[507l]:https://leetcode.com/problems/perfect-number/
 [509l]:https://leetcode.com/problems/fibonacci-number/
 [520l]:https://leetcode.com/problems/detect-capital/
 [542l]:https://leetcode.com/problems/01-matrix/
