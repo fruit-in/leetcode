@@ -108,6 +108,7 @@
 509 |[Fibonacci Number][509]                                            |[![r]][509sr]                                  |[Easy][e]  |[![l]][509l]
 520 |[Detect Capital][520]                                              |[![r]][520sr]                                  |[Easy][e]  |[![l]][520l]
 559 |[Maximum Depth of N-ary Tree][559]                                 |[![p]][559sp]                                  |[Easy][e]  |[![l]][559l]
+575 |[Distribute Candies][575]                                          |[![r]][575sr]                                  |[Easy][e]  |[![l]][575l]
 589 |[N-ary Tree Preorder Traversal][589]                               |[![p]][589sp]                                  |[Easy][e]  |[![l]][589l]
 590 |[N-ary Tree Postorder Traversal][590]                              |[![p]][590sp]                                  |[Easy][e]  |[![l]][590l]
 617 |[Merge Two Binary Trees][617]                                      |[![p]][617sp]                                  |[Easy][e]  |[![l]][617l]
@@ -285,6 +286,7 @@
 [509]:./Easy/0509-Fibonacci%20Number/README.md#509-fibonacci-number
 [520]:./Easy/0520-Detect%20Capital/README.md#520-detect-capital
 [559]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree/README.md#559-maximum-depth-of-n-ary-tree
+[575]:./Easy/0575-Distribute%20Candies/README.md#575-distribute-candies
 [589]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal/README.md#589-n-ary-tree-preorder-traversal
 [590]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#590-n-ary-tree-postorder-traversal
 [617]:./Easy/0617-Merge%20Two%20Binary%20Trees/README.md#617-merge-two-binary-trees
@@ -458,6 +460,7 @@
 [509sr]:./Easy/0509-Fibonacci%20Number/README.md#solutions-rust
 [520sr]:./Easy/0520-Detect%20Capital/README.md#solutions-rust
 [559sp]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree/README.md#solutions-python
+[575sr]:./Easy/0575-Distribute%20Candies/README.md#solutions-rust
 [589sp]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal/README.md#solutions-python
 [590sp]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#solutions-python
 [617sp]:./Easy/0617-Merge%20Two%20Binary%20Trees/README.md#solutions-python
@@ -674,6 +677,7 @@
 [557l]:https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [559l]:https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
 [561l]:https://leetcode.com/problems/array-partition-i/
+[575l]:https://leetcode.com/problems/distribute-candies/
 [589l]:https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 [590l]:https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 [599l]:https://leetcode.com/problems/minimum-index-sum-of-two-lists/
