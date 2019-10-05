@@ -111,6 +111,7 @@
 575 |[Distribute Candies][575]                                          |[![r]][575sr]                                  |[Easy][e]  |[![l]][575l]
 589 |[N-ary Tree Preorder Traversal][589]                               |[![p]][589sp]                                  |[Easy][e]  |[![l]][589l]
 590 |[N-ary Tree Postorder Traversal][590]                              |[![p]][590sp]                                  |[Easy][e]  |[![l]][590l]
+605 |[Can Place Flowers][605]                                           |[![r]][605sr]                                  |[Easy][e]  |[![l]][605l]
 617 |[Merge Two Binary Trees][617]                                      |[![p]][617sp]                                  |[Easy][e]  |[![l]][617l]
 622 |[Design Circular Queue][622]                                       |[![r]][622sr]                                  |[Medium][m]|[![l]][622l]
 654 |[Maximum Binary Tree][654]                                         |[![p]][654sp]                                  |[Medium][m]|[![l]][654l]
@@ -289,6 +290,7 @@
 [575]:./Easy/0575-Distribute%20Candies/README.md#575-distribute-candies
 [589]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal/README.md#589-n-ary-tree-preorder-traversal
 [590]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#590-n-ary-tree-postorder-traversal
+[605]:./Easy/0605-Can%20Place%20Flowers/README.md#605-can-place-flowers
 [617]:./Easy/0617-Merge%20Two%20Binary%20Trees/README.md#617-merge-two-binary-trees
 [622]:./Medium/0622-Design%20Circular%20Queue/README.md#622-design-circular-queue
 [654]:./Medium/0654-Maximum%20Binary%20Tree/README.md#654-maximum-binary-tree
@@ -463,6 +465,7 @@
 [575sr]:./Easy/0575-Distribute%20Candies/README.md#solutions-rust
 [589sp]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal/README.md#solutions-python
 [590sp]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#solutions-python
+[605sr]:./Easy/0605-Can%20Place%20Flowers/README.md#solutions-rust
 [617sp]:./Easy/0617-Merge%20Two%20Binary%20Trees/README.md#solutions-python
 [622sr]:./Medium/0622-Design%20Circular%20Queue/README.md#solutions-rust
 [654sp]:./Medium/0654-Maximum%20Binary%20Tree/README.md#solutions-python
@@ -681,6 +684,7 @@
 [589l]:https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 [590l]:https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 [599l]:https://leetcode.com/problems/minimum-index-sum-of-two-lists/
+[605l]:https://leetcode.com/problems/can-place-flowers/
 [617l]:https://leetcode.com/problems/merge-two-binary-trees/
 [622l]:https://leetcode.com/problems/design-circular-queue/
 [648l]:https://leetcode.com/problems/replace-words/
