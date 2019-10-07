@@ -126,6 +126,7 @@
 724 |[Find Pivot Index][724]                                            |[![r]][724sr]                                  |[Easy][e]  |[![l]][724l]
 728 |[Self Dividing Numbers][728]                                       |[![p]][728sp]                                  |[Easy][e]  |[![l]][728l]
 744 |[Find Smallest Letter Greater Than Target][744]                    |[![r]][744sr]                                  |[Easy][e]  |[![l]][744l]
+746 |[Min Cost Climbing Stairs][746]                                    |[![r]][746sr]                                  |[Easy][e]  |[![l]][746l]
 747 |[Largest Number At Least Twice of Others][747]                     |[![r]][747sr]                                  |[Easy][e]  |[![l]][747l]
 754 |[Reach a Number][754]                                              |[![r]][754sr]                                  |[Easy][e]  |[![l]][754l]
 771 |[Jewels and Stones][771]                                           |[![r]][771sr]                                  |[Easy][e]  |[![l]][771l]
@@ -306,6 +307,7 @@
 [724]:./Easy/0724-Find%20Pivot%20Index/README.md#724-find-pivot-index
 [728]:./Easy/0728-Self%20Dividing%20Numbers/README.md#728-self-dividing-numbers
 [744]:./Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README.md#744-find-smallest-letter-greater-than-target
+[746]:./Easy/0746-Min%20Cost%20Climbing%20Stairs/README.md#746-min-cost-climbing-stairs
 [747]:./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README.md#747-largest-number-at-least-twice-of-others
 [754]:./Easy/0754-Reach%20a%20Number/README.md#754-reach-a-number
 [771]:./Easy/0771-Jewels%20and%20Stones/README.md#771-jewels-and-stones
@@ -483,6 +485,7 @@
 [724sr]:./Easy/0724-Find%20Pivot%20Index/README.md#solutions-rust
 [728sp]:./Easy/0728-Self%20Dividing%20Numbers/README.md#solutions-python
 [744sr]:./Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README.md#solutions-rust
+[746sr]:./Easy/0746-Min%20Cost%20Climbing%20Stairs/README.md#solutions-rust
 [747sr]:./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README.md#solutions-rust
 [754sr]:./Easy/0754-Reach%20a%20Number/README.md#solutions-rust
 [771sr]:./Easy/0771-Jewels%20and%20Stones/README.md#solutions-rust
@@ -709,6 +712,7 @@
 [733l]:https://leetcode.com/problems/flood-fill/
 [739l]:https://leetcode.com/problems/daily-temperatures/
 [744l]:https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+[746l]:https://leetcode.com/problems/min-cost-climbing-stairs/
 [747l]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 [752l]:https://leetcode.com/problems/open-the-lock/
 [754l]:https://leetcode.com/problems/reach-a-number/
