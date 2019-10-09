@@ -163,6 +163,7 @@
 1051|[Height Checker][1051]                                             |[![p]][1051sp]                                 |[Easy][e]  |[![l]][1051l]
 1071|[Greatest Common Divisor of Strings][1071]                         |[![p]][1071sp]                                 |[Easy][e]  |[![l]][1071l]
 1078|[Occurrences After Bigram][1078]                                   |[![p]][1078sp]                                 |[Easy][e]  |[![l]][1078l]
+1089|[Duplicate Zeros][1089]                                            |[![r]][1089sr]                                 |[Easy][e]  |[![l]][1089l]
 1108|[Defanging an IP Address][1108]                                    |[![r]][1108sr]                                 |[Easy][e]  |[![l]][1108l]
 1122|[Relative Sort Array][1122]                                        |[![r]][1122sr]                                 |[Easy][e]  |[![l]][1122l]
 1128|[Number of Equivalent Domino Pairs][1128]                          |[![r]][1128sr]                                 |[Easy][e]  |[![l]][1128l]
@@ -345,6 +346,7 @@
 [1051]:./Easy/1051-Height%20Checker/README.md#1051-height-checker
 [1071]:./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings/README.md#1071-greatest-common-divisor-of-strings
 [1078]:./Easy/1078-Occurrences%20After%20Bigram/README.md#1078-occurrences-after-bigram
+[1089]:./Easy/1089-Duplicate%20Zeros/README.md#1089-duplicate-zeros
 [1108]:./Easy/1108-Defanging%20an%20IP%20Address/README.md#1108-defanging-an-ip-address
 [1122]:./Easy/1122-Relative%20Sort%20Array/README.md#1122-relative-sort-array
 [1128]:./Easy/1128-Number%20of%20Equivalent%20Domino%20Pairs/README.md#1128-number-of-equivalent-domino-pairs
@@ -524,6 +526,7 @@
 [1051sp]:./Easy/1051-Height%20Checker/README.md#solutions-python
 [1071sp]:./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings/README.md#solutions-python
 [1078sp]:./Easy/1078-Occurrences%20After%20Bigram/README.md#solutions-python
+[1089sr]:./Easy/1089-Duplicate%20Zeros/README.md#solutions-rust
 [1108sr]:./Easy/1108-Defanging%20an%20IP%20Address/README.md#solutions-rust
 [1122sr]:./Easy/1122-Relative%20Sort%20Array/README.md#solutions-rust
 [1128sr]:./Easy/1128-Number%20of%20Equivalent%20Domino%20Pairs/README.md#solutions-rust
@@ -755,6 +758,7 @@
 [1051l]:https://leetcode.com/problems/height-checker/
 [1071l]:https://leetcode.com/problems/greatest-common-divisor-of-strings/
 [1078l]:https://leetcode.com/problems/occurrences-after-bigram/
+[1089l]:https://leetcode.com/problems/duplicate-zeros/
 [1108l]:https://leetcode.com/problems/defanging-an-ip-address/
 [1122l]:https://leetcode.com/problems/relative-sort-array/
 [1128l]:https://leetcode.com/problems/number-of-equivalent-domino-pairs/
