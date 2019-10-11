@@ -174,6 +174,7 @@
 1189|[Maximum Number of Balloons][1189]                                 |[![r]][1189sr]                                 |[Easy][e]  |[![l]][1189l]
 1200|[Minimum Absolute Difference][1200]                                |[![r]][1200sr]                                 |[Easy][e]  |[![l]][1200l]
 1207|[Unique Number of Occurrences][1207]                               |[![r]][1207sr]                                 |[Easy][e]  |[![l]][1207l]
+1217|[Play with Chips][1217]                                            |[![r]][1217sr]                                 |[Easy][e]  |[![l]][1217l]
 
 
 [p]:./ico/python.ico
@@ -358,6 +359,7 @@
 [1189]:./Easy/1189-Maximum%20Number%20of%20Balloons/README.md#1189-maximum-number-of-balloons
 [1200]:./Easy/1200-Minimum%20Absolute%20Difference/README.md#1200-minimum-absolute-difference
 [1207]:./Easy/1207-Unique%20Number%20of%20Occurrences/README.md#1207-unique-number-of-occurrences
+[1217]:./Easy/1217-Play%20with%20Chips/README.md#1217-play-with-chips
 
 [1sc]:./Easy/0001-Two%20Sum/README.md#solutions-c
 [1sp]:./Easy/0001-Two%20Sum/README.md#solutions-python
@@ -539,6 +541,7 @@
 [1189sr]:./Easy/1189-Maximum%20Number%20of%20Balloons/README.md#solutions-rust
 [1200sr]:./Easy/1200-Minimum%20Absolute%20Difference/README.md#solutions-rust
 [1207sr]:./Easy/1207-Unique%20Number%20of%20Occurrences/README.md#solutions-rust
+[1217sr]:./Easy/1217-Play%20with%20Chips/README.md#solutions-rust
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -772,3 +775,4 @@
 [1189l]:https://leetcode.com/problems/maximum-number-of-balloons/
 [1200l]:https://leetcode.com/problems/minimum-absolute-difference/
 [1207l]:https://leetcode.com/problems/unique-number-of-occurrences/
+[1217l]:https://leetcode.com/problems/play-with-chips/
