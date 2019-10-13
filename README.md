@@ -95,6 +95,7 @@
 374 |[Guess Number Higher or Lower][374]                                |[![p]][374sp]                                  |[Easy][e]  |[![l]][374l]
 392 |[Is Subsequence][392]                                              |[![r]][392sr]                                  |[Easy][e]  |[![l]][392l]
 409 |[Longest Palindrome][409]                                          |[![r]][409sr]                                  |[Easy][e]  |[![l]][409l]
+412 |[Fizz Buzz][412]                                                   |[![p]][412sp]                                  |[Easy][e]  |[![l]][412l]
 414 |[Third Maximum Number][414]                                        |[![r]][414sr]                                  |[Easy][e]  |[![l]][414l]
 415 |[Add Strings][415]                                                 |[![p]][415sp]                                  |[Easy][e]  |[![l]][415l]
 429 |[N-ary Tree Level Order Traversal][429]                            |[![p]][429sp]                                  |[Easy][e]  |[![l]][429l]
@@ -281,6 +282,7 @@
 [374]:./Easy/0374-Guess%20Number%20Higher%20or%20Lower/README.md#374-guess-number-higher-or-lower
 [392]:./Easy/0392-Is%20Subsequence/README.md#392-is-subsequence
 [409]:./Easy/0409-Longest%20Palindrome/README.md#409-longest-palindrome
+[412]:./Easy/0412-Fizz%20Buzz/README.md#412-fizz-buzz
 [414]:./Easy/0414-Third%20Maximum%20Number/README.md#414-third-maximum-number
 [415]:./Easy/0415-Add%20Strings/README.md#415-add-strings
 [429]:./Easy/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#429-n-ary-tree-level-order-traversal
@@ -463,6 +465,7 @@
 [374sp]:./Easy/0374-Guess%20Number%20Higher%20or%20Lower/README.md#solutions-python
 [392sr]:./Easy/0392-Is%20Subsequence/README.md#solutions-rust
 [409sr]:./Easy/0409-Longest%20Palindrome/README.md#solutions-rust
+[412sp]:./Easy/0412-Fizz%20Buzz/README.md#solutions-python
 [414sr]:./Easy/0414-Third%20Maximum%20Number/README.md#solutions-rust
 [415sp]:./Easy/0415-Add%20Strings/README.md#solutions-python
 [429sp]:./Easy/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#solutions-python
@@ -679,6 +682,7 @@
 [392l]:https://leetcode.com/problems/is-subsequence/
 [394l]:https://leetcode.com/problems/decode-string/
 [409l]:https://leetcode.com/problems/longest-palindrome/
+[412l]:https://leetcode.com/problems/fizz-buzz/
 [414l]:https://leetcode.com/problems/third-maximum-number/
 [415l]:https://leetcode.com/problems/add-strings/
 [421l]:https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
