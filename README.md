@@ -117,6 +117,7 @@
 590 |[N-ary Tree Postorder Traversal][590]                              |[![p]][590sp]                                  |[Easy][e]  |[![l]][590l]
 598 |[Range Addition II][598]                                           |[![r]][598sr]                                  |[Easy][e]  |[![l]][598l]
 605 |[Can Place Flowers][605]                                           |[![r]][605sr]                                  |[Easy][e]  |[![l]][605l]
+606 |[Construct String from Binary Tree][606]                           |[![p]][606sp]                                  |[Easy][e]  |[![l]][606l]
 617 |[Merge Two Binary Trees][617]                                      |[![p]][617sp]                                  |[Easy][e]  |[![l]][617l]
 622 |[Design Circular Queue][622]                                       |[![r]][622sr]                                  |[Medium][m]|[![l]][622l]
 654 |[Maximum Binary Tree][654]                                         |[![p]][654sp]                                  |[Medium][m]|[![l]][654l]
@@ -307,6 +308,7 @@
 [590]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#590-n-ary-tree-postorder-traversal
 [598]:./Easy/0598-Range%20Addition%20II/README.md#598-range-addition-ii
 [605]:./Easy/0605-Can%20Place%20Flowers/README.md#605-can-place-flowers
+[606]:./Easy/0606-Construct%20String%20from%20Binary%20Tree/README.md#606-construct-string-from-binary-tree
 [617]:./Easy/0617-Merge%20Two%20Binary%20Trees/README.md#617-merge-two-binary-trees
 [622]:./Medium/0622-Design%20Circular%20Queue/README.md#622-design-circular-queue
 [654]:./Medium/0654-Maximum%20Binary%20Tree/README.md#654-maximum-binary-tree
@@ -493,6 +495,7 @@
 [590sp]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#solutions-python
 [598sr]:./Easy/0598-Range%20Addition%20II/README.md#solutions-rust
 [605sr]:./Easy/0605-Can%20Place%20Flowers/README.md#solutions-rust
+[606sp]:./Easy/0606-Construct%20String%20from%20Binary%20Tree/README.md#solutions-python
 [617sp]:./Easy/0617-Merge%20Two%20Binary%20Trees/README.md#solutions-python
 [622sr]:./Medium/0622-Design%20Circular%20Queue/README.md#solutions-rust
 [654sp]:./Medium/0654-Maximum%20Binary%20Tree/README.md#solutions-python
@@ -722,6 +725,7 @@
 [598l]:https://leetcode.com/problems/range-addition-ii/
 [599l]:https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 [605l]:https://leetcode.com/problems/can-place-flowers/
+[606l]:https://leetcode.com/problems/construct-string-from-binary-tree/
 [617l]:https://leetcode.com/problems/merge-two-binary-trees/
 [622l]:https://leetcode.com/problems/design-circular-queue/
 [648l]:https://leetcode.com/problems/replace-words/
