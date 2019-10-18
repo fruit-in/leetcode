@@ -84,6 +84,7 @@
 292 |[Nim Game][292]                                                    |[![r]][292sr]                                  |[Easy][e]  |[![l]][292l]
 299 |[Bulls and Cows][299]                                              |[![p]][299sp]                                  |[Easy][e]  |[![l]][299l]
 303 |[Range Sum Query - Immutable][303]                                 |[![p]][303sp]                                  |[Easy][e]  |[![l]][303l]
+326 |[Power of Three][326]                                              |[![p]][326sp]                                  |[Easy][e]  |[![l]][326l]
 338 |[Counting Bits][338]                                               |[![r]][338sr]                                  |[Medium][m]|[![l]][338l]
 342 |[Power of Four][342]                                               |[![r]][342sr]                                  |[Easy][e]  |[![l]][342l]
 344 |[Reverse String][344]                                              |[![r]][344sr]                                  |[Easy][e]  |[![l]][344l]
@@ -277,6 +278,7 @@
 [292]:./Easy/0292-Nim%20Game/README.md#292-nim-game
 [299]:./Easy/0299-Bulls%20and%20Cows/README.md#299-bulls-and-cows
 [303]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README.md#303-range-sum-query---immutable
+[326]:./Easy/0326-Power%20of%20Three/README.md#326-power-of-three
 [338]:./Medium/0338-Counting%20Bits/README.md#338-counting-bits
 [342]:./Easy/0342-Power%20of%20Four/README.md#342-power-of-four
 [344]:./Easy/0344-Reverse%20String/README.md#344-reverse-string
@@ -466,6 +468,7 @@
 [292sr]:./Easy/0292-Nim%20Game/README.md#solutions-rust
 [299sp]:./Easy/0299-Bulls%20and%20Cows/README.md#solutions-python
 [303sp]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README.md#solutions-python
+[326sp]:./Easy/0326-Power%20of%20Three/README.md#solutions-python
 [338sr]:./Medium/0338-Counting%20Bits/README.md#solutions-rust
 [342sr]:./Easy/0342-Power%20of%20Four/README.md#solutions-rust
 [344sr]:./Easy/0344-Reverse%20String/README.md#solutions-rust
@@ -683,6 +686,7 @@
 [297l]:https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 [299l]:https://leetcode.com/problems/bulls-and-cows/
 [303l]:https://leetcode.com/problems/range-sum-query-immutable/
+[326l]:https://leetcode.com/problems/power-of-three/
 [328l]:https://leetcode.com/problems/odd-even-linked-list/
 [336l]:https://leetcode.com/problems/palindrome-pairs/
 [338l]:https://leetcode.com/problems/counting-bits/
