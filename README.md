@@ -133,6 +133,7 @@
 705 |[Design HashSet][705]                                              |[![r]][705sr]                                  |[Easy][e]  |[![l]][705l]
 706 |[Design HashMap][706]                                              |[![r]][706sr]                                  |[Easy][e]  |[![l]][706l]
 709 |[To Lower Case][709]                                               |[![r]][709sr]                                  |[Easy][e]  |[![l]][709l]
+717 |[1-bit and 2-bit Characters][717]                                  |[![r]][717sr]                                  |[Easy][e]  |[![l]][717l]
 724 |[Find Pivot Index][724]                                            |[![r]][724sr]                                  |[Easy][e]  |[![l]][724l]
 728 |[Self Dividing Numbers][728]                                       |[![p]][728sp]                                  |[Easy][e]  |[![l]][728l]
 744 |[Find Smallest Letter Greater Than Target][744]                    |[![r]][744sr]                                  |[Easy][e]  |[![l]][744l]
@@ -328,6 +329,7 @@
 [705]:./Easy/0705-Design%20HashSet/README.md#705-design-hashset
 [706]:./Easy/0706-Design%20HashMap/README.md#706-design-hashmap
 [709]:./Easy/0709-To%20Lower%20Case/README.md#709-to-lower-case
+[717]:./Easy/0717-1-bit%20and%202-bit%20Characters/README.md#717-1-bit-and-2-bit-characters
 [724]:./Easy/0724-Find%20Pivot%20Index/README.md#724-find-pivot-index
 [728]:./Easy/0728-Self%20Dividing%20Numbers/README.md#728-self-dividing-numbers
 [744]:./Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README.md#744-find-smallest-letter-greater-than-target
@@ -520,6 +522,7 @@
 [705sr]:./Easy/0705-Design%20HashSet/README.md#solutions-rust
 [706sr]:./Easy/0706-Design%20HashMap/README.md#solutions-rust
 [709sr]:./Easy/0709-To%20Lower%20Case/README.md#solutions-rust
+[717sr]:./Easy/0717-1-bit%20and%202-bit%20Characters/README.md#solutions-rust
 [724sr]:./Easy/0724-Find%20Pivot%20Index/README.md#solutions-rust
 [728sp]:./Easy/0728-Self%20Dividing%20Numbers/README.md#solutions-python
 [744sr]:./Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README.md#solutions-rust
@@ -758,6 +761,7 @@
 [706l]:https://leetcode.com/problems/design-hashmap/
 [707l]:https://leetcode.com/problems/design-linked-list/
 [709l]:https://leetcode.com/problems/to-lower-case/
+[717l]:https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [724l]:https://leetcode.com/problems/find-pivot-index/
 [728l]:https://leetcode.com/problems/self-dividing-numbers/
 [733l]:https://leetcode.com/problems/flood-fill/
