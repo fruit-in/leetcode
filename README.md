@@ -94,6 +94,7 @@
 367 |[Valid Perfect Square][367]                                        |[![r]][367sr]                                  |[Easy][e]  |[![l]][367l]
 371 |[Sum of Two Integers][371]                                         |[![r]][371sr]                                  |[Easy][e]  |[![l]][371l]
 374 |[Guess Number Higher or Lower][374]                                |[![p]][374sp]                                  |[Easy][e]  |[![l]][374l]
+383 |[Ransom Note][383]                                                 |[![p]][383sp]                                  |[Easy][e]  |[![l]][383l]
 392 |[Is Subsequence][392]                                              |[![r]][392sr]                                  |[Easy][e]  |[![l]][392l]
 409 |[Longest Palindrome][409]                                          |[![r]][409sr]                                  |[Easy][e]  |[![l]][409l]
 412 |[Fizz Buzz][412]                                                   |[![p]][412sp]                                  |[Easy][e]  |[![l]][412l]
@@ -290,6 +291,7 @@
 [367]:./Easy/0367-Valid%20Perfect%20Square/README.md#367-valid-perfect-square
 [371]:./Easy/0371-Sum%20of%20Two%20Integers/README.md#371-sum-of-two-integers
 [374]:./Easy/0374-Guess%20Number%20Higher%20or%20Lower/README.md#374-guess-number-higher-or-lower
+[383]:./Easy/0383-Ransom%20Note/README.md#383-ransom-note
 [392]:./Easy/0392-Is%20Subsequence/README.md#392-is-subsequence
 [409]:./Easy/0409-Longest%20Palindrome/README.md#409-longest-palindrome
 [412]:./Easy/0412-Fizz%20Buzz/README.md#412-fizz-buzz
@@ -482,6 +484,7 @@
 [367sr]:./Easy/0367-Valid%20Perfect%20Square/README.md#solutions-rust
 [371sr]:./Easy/0371-Sum%20of%20Two%20Integers/README.md#solutions-rust
 [374sp]:./Easy/0374-Guess%20Number%20Higher%20or%20Lower/README.md#solutions-python
+[383sp]:./Easy/0383-Ransom%20Note/README.md#solutions-python
 [392sr]:./Easy/0392-Is%20Subsequence/README.md#solutions-rust
 [409sr]:./Easy/0409-Longest%20Palindrome/README.md#solutions-rust
 [412sp]:./Easy/0412-Fizz%20Buzz/README.md#solutions-python
@@ -706,6 +709,7 @@
 [371l]:https://leetcode.com/problems/sum-of-two-integers/
 [374l]:https://leetcode.com/problems/guess-number-higher-or-lower/
 [380l]:https://leetcode.com/problems/insert-delete-getrandom-o1/
+[383l]:https://leetcode.com/problems/ransom-note/
 [387l]:https://leetcode.com/problems/first-unique-character-in-a-string/
 [392l]:https://leetcode.com/problems/is-subsequence/
 [394l]:https://leetcode.com/problems/decode-string/
