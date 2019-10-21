@@ -96,6 +96,7 @@
 374 |[Guess Number Higher or Lower][374]                                |[![p]][374sp]                                  |[Easy][e]  |[![l]][374l]
 383 |[Ransom Note][383]                                                 |[![p]][383sp]                                  |[Easy][e]  |[![l]][383l]
 387 |[First Unique Character in a String][387]                          |[![r]][387sr]                                  |[Easy][e]  |[![l]][387l]
+389 |[Find the Difference][389]                                         |[![r]][389sr]                                  |[Easy][e]  |[![l]][389l]
 392 |[Is Subsequence][392]                                              |[![r]][392sr]                                  |[Easy][e]  |[![l]][392l]
 409 |[Longest Palindrome][409]                                          |[![r]][409sr]                                  |[Easy][e]  |[![l]][409l]
 412 |[Fizz Buzz][412]                                                   |[![p]][412sp]                                  |[Easy][e]  |[![l]][412l]
@@ -295,6 +296,7 @@
 [374]:./Easy/0374-Guess%20Number%20Higher%20or%20Lower/README.md#374-guess-number-higher-or-lower
 [383]:./Easy/0383-Ransom%20Note/README.md#383-ransom-note
 [387]:./Easy/0387-First%20Unique%20Character%20in%20a%20String/README.md#387-first-unique-character-in-a-string
+[389]:./Easy/0389-Find%20the%20Difference/README.md#389-find-the-difference
 [392]:./Easy/0392-Is%20Subsequence/README.md#392-is-subsequence
 [409]:./Easy/0409-Longest%20Palindrome/README.md#409-longest-palindrome
 [412]:./Easy/0412-Fizz%20Buzz/README.md#412-fizz-buzz
@@ -490,6 +492,7 @@
 [374sp]:./Easy/0374-Guess%20Number%20Higher%20or%20Lower/README.md#solutions-python
 [383sp]:./Easy/0383-Ransom%20Note/README.md#solutions-python
 [387sr]:./Easy/0387-First%20Unique%20Character%20in%20a%20String/README.md#solutions-rust
+[389sr]:./Easy/0389-Find%20the%20Difference/README.md#solutions-rust
 [392sr]:./Easy/0392-Is%20Subsequence/README.md#solutions-rust
 [409sr]:./Easy/0409-Longest%20Palindrome/README.md#solutions-rust
 [412sp]:./Easy/0412-Fizz%20Buzz/README.md#solutions-python
@@ -717,6 +720,7 @@
 [380l]:https://leetcode.com/problems/insert-delete-getrandom-o1/
 [383l]:https://leetcode.com/problems/ransom-note/
 [387l]:https://leetcode.com/problems/first-unique-character-in-a-string/
+[389l]:https://leetcode.com/problems/find-the-difference/
 [392l]:https://leetcode.com/problems/is-subsequence/
 [394l]:https://leetcode.com/problems/decode-string/
 [409l]:https://leetcode.com/problems/longest-palindrome/
