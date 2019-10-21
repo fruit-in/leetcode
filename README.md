@@ -187,6 +187,7 @@
 1200|[Minimum Absolute Difference][1200]                                |[![r]][1200sr]                                 |[Easy][e]  |[![l]][1200l]
 1207|[Unique Number of Occurrences][1207]                               |[![r]][1207sr]                                 |[Easy][e]  |[![l]][1207l]
 1217|[Play with Chips][1217]                                            |[![r]][1217sr]                                 |[Easy][e]  |[![l]][1217l]
+1221|[Split a String in Balanced Strings][1221]                         |[![r]][1221sr]                                 |[Easy][e]  |[![l]][1221l]
 
 
 [p]:./ico/python.ico
@@ -384,6 +385,7 @@
 [1200]:./Easy/1200-Minimum%20Absolute%20Difference/README.md#1200-minimum-absolute-difference
 [1207]:./Easy/1207-Unique%20Number%20of%20Occurrences/README.md#1207-unique-number-of-occurrences
 [1217]:./Easy/1217-Play%20with%20Chips/README.md#1217-play-with-chips
+[1221]:./Easy/1221-Split%20a%20String%20in%20Balanced%20Strings/README.md#1221-split-a-string-in-balanced-strings
 
 [1sc]:./Easy/0001-Two%20Sum/README.md#solutions-c
 [1sp]:./Easy/0001-Two%20Sum/README.md#solutions-python
@@ -578,6 +580,7 @@
 [1200sr]:./Easy/1200-Minimum%20Absolute%20Difference/README.md#solutions-rust
 [1207sr]:./Easy/1207-Unique%20Number%20of%20Occurrences/README.md#solutions-rust
 [1217sr]:./Easy/1217-Play%20with%20Chips/README.md#solutions-rust
+[1221sr]:./Easy/1221-Split%20a%20String%20in%20Balanced%20Strings/README.md#solutions-rust
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -823,3 +826,4 @@
 [1200l]:https://leetcode.com/problems/minimum-absolute-difference/
 [1207l]:https://leetcode.com/problems/unique-number-of-occurrences/
 [1217l]:https://leetcode.com/problems/play-with-chips/
+[1221l]:https://leetcode.com/problems/split-a-string-in-balanced-strings/
