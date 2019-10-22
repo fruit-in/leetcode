@@ -170,6 +170,7 @@
 985 |[Sum of Even Numbers After Queries][985]                           |[![p]][985sp]                                  |[Easy][e]  |[![l]][985l]
 989 |[Add to Array-Form of Interger][989]                               |[![p]][989sp]                                  |[Easy][e]  |[![l]][989l]
 993 |[Cousins in Binary Tree][993]                                      |[![p]][993sp]                                  |[Easy][e]  |[![l]][993l]
+1002|[Find Common Characters][1002]                                     |[![p]][1002sp]                                 |[Easy][e]  |[![l]][1002l]
 1018|[Binary Prefix Divisible By 5][1018]                               |[![p]][1018sp]                                 |[Easy][e]  |[![l]][1018l]
 1021|[Remove Outermost Parentheses][1021]                               |[![r]][1021sr]                                 |[Easy][e]  |[![l]][1021l]
 1025|[Divisor Game][1025]                                               |[![r]][1025sr]                                 |[Easy][e]  |[![l]][1025l]
@@ -371,6 +372,7 @@
 [985]:./Easy/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README.md#985-sum-of-even-numbers-after-queries
 [989]:./Easy/0989-Add%20to%20Array-Form%20of%20Interger/README.md#989-add-to-array-form-of-interger
 [993]:./Easy/0993-Cousins%20in%20Binary%20Tree/README.md#993-cousins-in-binary-tree
+[1002]:./Easy/1002-Find%20Common%20Characters/README.md#1002-find-common-characters
 [1018]:./Easy/1018-Binary%20Prefix%20Divisible%20By%205/README.md#1018-binary-prefix-divisible-by-5
 [1021]:./Easy/1021-Remove%20Outermost%20Parentheses/README.md#1021-remove-outermost-parentheses
 [1025]:./Easy/1025-Divisor%20Game/README.md#1025-divisor-game
@@ -569,6 +571,7 @@
 [985sp]:./Easy/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README.md#solutions-python
 [989sp]:./Easy/0989-Add%20to%20Array-Form%20of%20Interger/README.md#solutions-python
 [993sp]:./Easy/0993-Cousins%20in%20Binary%20Tree/README.md#solutions-python
+[1002sp]:./Easy/1002-Find%20Common%20Characters/README.md#solutions-python
 [1018sp]:./Easy/1018-Binary%20Prefix%20Divisible%20By%205/README.md#solutions-python
 [1021sr]:./Easy/1021-Remove%20Outermost%20Parentheses/README.md#solutions-rust
 [1025sr]:./Easy/1025-Divisor%20Game/README.md#solutions-rust
@@ -817,6 +820,7 @@
 [985l]:https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [989l]:https://leetcode.com/problems/add-to-array-form-of-interger/
 [993l]:https://leetcode.com/problems/cousins-in-binary-tree/
+[1002l]:https://leetcode.com/problems/find-common-characters/
 [1018l]:https://leetcode.com/problems/binary-prefix-divisible-by-5/
 [1021l]:https://leetcode.com/problems/remove-outermost-parentheses/
 [1025l]:https://leetcode.com/problems/divisor-game/
