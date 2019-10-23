@@ -17,8 +17,6 @@ You may assume all the characters consist of printable ascii characters.
 <strong>Output:</strong> ["h","a","n","n","a","H"]
 </pre>
 
-#### Note:
-
 ## Solutions (Rust)
 
 ### 1. Two Pointers
