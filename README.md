@@ -146,6 +146,7 @@
 771 |[Jewels and Stones][771]                                           |[![r]][771sr]                                  |[Easy][e]  |[![l]][771l]
 804 |[Unique Morse Code Words][804]                                     |[![p]][804sp]                                  |[Easy][e]  |[![l]][804l]
 806 |[Number of Lines To Write String][806]                             |[![p]][806sp]                                  |[Easy][e]  |[![l]][806l]
+812 |[Largest Triangle Area][812]                                       |[![r]][812sr]                                  |[Easy][e]  |[![l]][812l]
 824 |[Goat Latin][824]                                                  |[![p]][824sp]                                  |[Easy][e]  |[![l]][824l]
 830 |[Positions of Large Groups][830]                                   |[![r]][830sr]                                  |[Easy][e]  |[![l]][830l]
 832 |[Flipping an Image][832]                                           |[![p]][832sp]                                  |[Easy][e]  |[![l]][832l]
@@ -349,6 +350,7 @@
 [771]:./Easy/0771-Jewels%20and%20Stones/README.md#771-jewels-and-stones
 [804]:./Easy/0804-Unique%20Morse%20Code%20Words/README.md#804-unique-morse-code-words
 [806]:./Easy/0806-Number%20of%20Lines%20To%20Write%20String/README.md#806-number-of-lines-to-write-string
+[812]:./Easy/0812-Largest%20Triangle%20Area/README.md#812-largest-triangle-area
 [824]:./Easy/0824-Goat%20Latin/README.md#824-goat-latin
 [830]:./Easy/0830-Positions%20of%20Large%20Groups/README.md#830-positions-of-large-groups
 [832]:./Easy/0832-Flipping%20an%20Image/README.md#832-flipping-an-image
@@ -549,6 +551,7 @@
 [771sr]:./Easy/0771-Jewels%20and%20Stones/README.md#solutions-rust
 [804sp]:./Easy/0804-Unique%20Morse%20Code%20Words/README.md#solutions-python
 [806sp]:./Easy/0806-Number%20of%20Lines%20To%20Write%20String/README.md#solutions-python
+[812sr]:./Easy/0812-Largest%20Triangle%20Area/README.md#solutions-rust
 [824sp]:./Easy/0824-Goat%20Latin/README.md#solutions-python
 [830sr]:./Easy/0830-Positions%20of%20Large%20Groups/README.md#solutions-rust
 [832sp]:./Easy/0832-Flipping%20an%20Image/README.md#solutions-python
@@ -798,6 +801,7 @@
 [779l]:https://leetcode.com/problems/k-th-symbol-in-grammar/
 [804l]:https://leetcode.com/problems/unique-morse-code-words/
 [806l]:https://leetcode.com/problems/number-of-lines-to-write-string/
+[812l]:https://leetcode.com/problems/largest-triangle-area/
 [824l]:https://leetcode.com/problems/goat-latin/
 [830l]:https://leetcode.com/problems/positions-of-large-groups/
 [832l]:https://leetcode.com/problems/flipping-an-image/
