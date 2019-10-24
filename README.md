@@ -178,6 +178,7 @@
 1021|[Remove Outermost Parentheses][1021]                               |[![r]][1021sr]                                 |[Easy][e]  |[![l]][1021l]
 1025|[Divisor Game][1025]                                               |[![r]][1025sr]                                 |[Easy][e]  |[![l]][1025l]
 1029|[Two City Scheduling][1029]                                        |[![p]][1029sp]                                 |[Easy][e]  |[![l]][1029l]
+1042|[Flower Planting With No Adjacent][1042]                           |[![r]][1042sr]                                 |[Easy][e]  |[![l]][1042l]
 1046|[Last Stone Weight][1046]                                          |[![p]][1046sp]                                 |[Easy][e]  |[![l]][1046l]
 1051|[Height Checker][1051]                                             |[![p]][1051sp]                                 |[Easy][e]  |[![l]][1051l]
 1071|[Greatest Common Divisor of Strings][1071]                         |[![p]][1071sp]                                 |[Easy][e]  |[![l]][1071l]
@@ -383,6 +384,7 @@
 [1021]:./Easy/1021-Remove%20Outermost%20Parentheses/README.md#1021-remove-outermost-parentheses
 [1025]:./Easy/1025-Divisor%20Game/README.md#1025-divisor-game
 [1029]:./Easy/1029-Two%20City%20Scheduling/README.md#1029-two-city-scheduling
+[1042]:./Easy/1042-Flower%20Planting%20With%20No%20Adjacent/README.md#1042-flower-planting-with-no-adjacent
 [1046]:./Easy/1046-Last%20Stone%20Weight/README.md#1046-last-stone-weight
 [1051]:./Easy/1051-Height%20Checker/README.md#1051-height-checker
 [1071]:./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings/README.md#1071-greatest-common-divisor-of-strings
@@ -585,6 +587,7 @@
 [1021sr]:./Easy/1021-Remove%20Outermost%20Parentheses/README.md#solutions-rust
 [1025sr]:./Easy/1025-Divisor%20Game/README.md#solutions-rust
 [1029sp]:./Easy/1029-Two%20City%20Scheduling/README.md#solutions-python
+[1042sr]:./Easy/1042-Flower%20Planting%20With%20No%20Adjacent/README.md#solutions-rust
 [1046sp]:./Easy/1046-Last%20Stone%20Weight/README.md#solutions-python
 [1051sp]:./Easy/1051-Height%20Checker/README.md#solutions-python
 [1071sp]:./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings/README.md#solutions-python
@@ -837,6 +840,7 @@
 [1021l]:https://leetcode.com/problems/remove-outermost-parentheses/
 [1025l]:https://leetcode.com/problems/divisor-game/
 [1029l]:https://leetcode.com/problems/two-city-scheduling/
+[1042l]:https://leetcode.com/problems/flower-planting-with-no-adjacent/
 [1046l]:https://leetcode.com/problems/last-stone-weight/
 [1051l]:https://leetcode.com/problems/height-checker/
 [1071l]:https://leetcode.com/problems/greatest-common-divisor-of-strings/
