@@ -174,6 +174,7 @@
 993 |[Cousins in Binary Tree][993]                                      |[![p]][993sp]                                  |[Easy][e]  |[![l]][993l]
 1002|[Find Common Characters][1002]                                     |[![p]][1002sp]                                 |[Easy][e]  |[![l]][1002l]
 1005|[Maximize Sum Of Array After K Negations][1005]                    |[![r]][1005sr]                                 |[Easy][e]  |[![l]][1005l]
+1009|[Complement of Base 10 Integer][1009]                              |[![r]][1009sr]                                 |[Easy][e]  |[![l]][1009l]
 1018|[Binary Prefix Divisible By 5][1018]                               |[![p]][1018sp]                                 |[Easy][e]  |[![l]][1018l]
 1021|[Remove Outermost Parentheses][1021]                               |[![r]][1021sr]                                 |[Easy][e]  |[![l]][1021l]
 1025|[Divisor Game][1025]                                               |[![r]][1025sr]                                 |[Easy][e]  |[![l]][1025l]
@@ -380,6 +381,7 @@
 [993]:./Easy/0993-Cousins%20in%20Binary%20Tree/README.md#993-cousins-in-binary-tree
 [1002]:./Easy/1002-Find%20Common%20Characters/README.md#1002-find-common-characters
 [1005]:./Easy/1005-Maximize%20Sum%20Of%20Array%20After%20K%20Negations/README.md#1005-maximize-sum-of-array-after-k-negations
+[1009]:./Easy/1009-Complement%20of%20Base%2010%20Integer/README.md#1009-complement-of-base-10-integer
 [1018]:./Easy/1018-Binary%20Prefix%20Divisible%20By%205/README.md#1018-binary-prefix-divisible-by-5
 [1021]:./Easy/1021-Remove%20Outermost%20Parentheses/README.md#1021-remove-outermost-parentheses
 [1025]:./Easy/1025-Divisor%20Game/README.md#1025-divisor-game
@@ -583,6 +585,7 @@
 [993sp]:./Easy/0993-Cousins%20in%20Binary%20Tree/README.md#solutions-python
 [1002sp]:./Easy/1002-Find%20Common%20Characters/README.md#solutions-python
 [1005sr]:./Easy/1005-Maximize%20Sum%20Of%20Array%20After%20K%20Negations/README.md#solutions-rust
+[1009sr]:./Easy/1009-Complement%20of%20Base%2010%20Integer/README.md#solutions-rust
 [1018sp]:./Easy/1018-Binary%20Prefix%20Divisible%20By%205/README.md#solutions-python
 [1021sr]:./Easy/1021-Remove%20Outermost%20Parentheses/README.md#solutions-rust
 [1025sr]:./Easy/1025-Divisor%20Game/README.md#solutions-rust
@@ -836,6 +839,7 @@
 [993l]:https://leetcode.com/problems/cousins-in-binary-tree/
 [1002l]:https://leetcode.com/problems/find-common-characters/
 [1005l]:https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
+[1009l]:https://leetcode.com/problems/complement-of-base-10-integer/
 [1018l]:https://leetcode.com/problems/binary-prefix-divisible-by-5/
 [1021l]:https://leetcode.com/problems/remove-outermost-parentheses/
 [1025l]:https://leetcode.com/problems/divisor-game/
