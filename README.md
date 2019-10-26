@@ -182,6 +182,7 @@
 1022|[Sum of Root To Leaf Binary Numbers][1022]                         |[![p]][1022sp]                                 |[Easy][e]  |[![l]][1022l]
 1025|[Divisor Game][1025]                                               |[![r]][1025sr]                                 |[Easy][e]  |[![l]][1025l]
 1029|[Two City Scheduling][1029]                                        |[![p]][1029sp]                                 |[Easy][e]  |[![l]][1029l]
+1030|[Matrix Cells in Distance Order][1030]                             |[![r]][1030sr]                                 |[Easy][e]  |[![l]][1030l]
 1042|[Flower Planting With No Adjacent][1042]                           |[![r]][1042sr]                                 |[Easy][e]  |[![l]][1042l]
 1046|[Last Stone Weight][1046]                                          |[![p]][1046sp]                                 |[Easy][e]  |[![l]][1046l]
 1051|[Height Checker][1051]                                             |[![p]][1051sp]                                 |[Easy][e]  |[![l]][1051l]
@@ -392,6 +393,7 @@
 [1022]:./Easy/1022-Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/README.md#1022-sum-of-root-to-leaf-binary-numbers
 [1025]:./Easy/1025-Divisor%20Game/README.md#1025-divisor-game
 [1029]:./Easy/1029-Two%20City%20Scheduling/README.md#1029-two-city-scheduling
+[1030]:./Easy/1030-Matrix%20Cells%20in%20Distance%20Order/README.md#1030-matrix-cells-in-distance-order
 [1042]:./Easy/1042-Flower%20Planting%20With%20No%20Adjacent/README.md#1042-flower-planting-with-no-adjacent
 [1046]:./Easy/1046-Last%20Stone%20Weight/README.md#1046-last-stone-weight
 [1051]:./Easy/1051-Height%20Checker/README.md#1051-height-checker
@@ -599,6 +601,7 @@
 [1022sp]:./Easy/1022-Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/README.md#solutions-python
 [1025sr]:./Easy/1025-Divisor%20Game/README.md#solutions-rust
 [1029sp]:./Easy/1029-Two%20City%20Scheduling/README.md#solutions-python
+[1030sr]:./Easy/1030-Matrix%20Cells%20in%20Distance%20Order/README.md#solutions-rust
 [1042sr]:./Easy/1042-Flower%20Planting%20With%20No%20Adjacent/README.md#solutions-rust
 [1046sp]:./Easy/1046-Last%20Stone%20Weight/README.md#solutions-python
 [1051sp]:./Easy/1051-Height%20Checker/README.md#solutions-python
@@ -856,6 +859,7 @@
 [1022l]:https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 [1025l]:https://leetcode.com/problems/divisor-game/
 [1029l]:https://leetcode.com/problems/two-city-scheduling/
+[1030l]:https://leetcode.com/problems/matrix-cells-in-distance-order/
 [1042l]:https://leetcode.com/problems/flower-planting-with-no-adjacent/
 [1046l]:https://leetcode.com/problems/last-stone-weight/
 [1051l]:https://leetcode.com/problems/height-checker/
