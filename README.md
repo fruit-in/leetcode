@@ -184,6 +184,7 @@
 1029|[Two City Scheduling][1029]                                        |[![p]][1029sp]                                 |[Easy][e]  |[![l]][1029l]
 1030|[Matrix Cells in Distance Order][1030]                             |[![r]][1030sr]                                 |[Easy][e]  |[![l]][1030l]
 1033|[Moving Stones Until Consecutive][1033]                            |[![r]][1033sr]                                 |[Easy][e]  |[![l]][1033l]
+1037|[Valid Boomerang][1037]                                            |[![r]][1037sr]                                 |[Easy][e]  |[![l]][1037l]
 1042|[Flower Planting With No Adjacent][1042]                           |[![r]][1042sr]                                 |[Easy][e]  |[![l]][1042l]
 1046|[Last Stone Weight][1046]                                          |[![p]][1046sp]                                 |[Easy][e]  |[![l]][1046l]
 1051|[Height Checker][1051]                                             |[![p]][1051sp]                                 |[Easy][e]  |[![l]][1051l]
@@ -396,6 +397,7 @@
 [1029]:./Easy/1029-Two%20City%20Scheduling/README.md#1029-two-city-scheduling
 [1030]:./Easy/1030-Matrix%20Cells%20in%20Distance%20Order/README.md#1030-matrix-cells-in-distance-order
 [1033]:./Easy/1033-Moving%20Stones%20Until%20Consecutive/README.md#1033-moving-stones-until-consecutive
+[1037]:./Easy/1037-Valid%20Boomerang/README.md#1037-valid-boomerang
 [1042]:./Easy/1042-Flower%20Planting%20With%20No%20Adjacent/README.md#1042-flower-planting-with-no-adjacent
 [1046]:./Easy/1046-Last%20Stone%20Weight/README.md#1046-last-stone-weight
 [1051]:./Easy/1051-Height%20Checker/README.md#1051-height-checker
@@ -605,6 +607,7 @@
 [1029sp]:./Easy/1029-Two%20City%20Scheduling/README.md#solutions-python
 [1030sr]:./Easy/1030-Matrix%20Cells%20in%20Distance%20Order/README.md#solutions-rust
 [1033sr]:./Easy/1033-Moving%20Stones%20Until%20Consecutive/README.md#solutions-rust
+[1037sr]:./Easy/1037-Valid%20Boomerang/README.md#solutions-rust
 [1042sr]:./Easy/1042-Flower%20Planting%20With%20No%20Adjacent/README.md#solutions-rust
 [1046sp]:./Easy/1046-Last%20Stone%20Weight/README.md#solutions-python
 [1051sp]:./Easy/1051-Height%20Checker/README.md#solutions-python
@@ -864,6 +867,7 @@
 [1029l]:https://leetcode.com/problems/two-city-scheduling/
 [1030l]:https://leetcode.com/problems/matrix-cells-in-distance-order/
 [1033l]:https://leetcode.com/problems/moving-stones-until-consecutive/
+[1037l]:https://leetcode.com/problems/valid-boomerang/
 [1042l]:https://leetcode.com/problems/flower-planting-with-no-adjacent/
 [1046l]:https://leetcode.com/problems/last-stone-weight/
 [1051l]:https://leetcode.com/problems/height-checker/
