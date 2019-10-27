@@ -187,6 +187,7 @@
 1037|[Valid Boomerang][1037]                                            |[![r]][1037sr]                                 |[Easy][e]  |[![l]][1037l]
 1042|[Flower Planting With No Adjacent][1042]                           |[![r]][1042sr]                                 |[Easy][e]  |[![l]][1042l]
 1046|[Last Stone Weight][1046]                                          |[![p]][1046sp]                                 |[Easy][e]  |[![l]][1046l]
+1047|[Remove All Adjacent Duplicates In String][1047]                   |[![p]][1047sp]                                 |[Easy][e]  |[![l]][1047l]
 1051|[Height Checker][1051]                                             |[![p]][1051sp]                                 |[Easy][e]  |[![l]][1051l]
 1071|[Greatest Common Divisor of Strings][1071]                         |[![p]][1071sp]                                 |[Easy][e]  |[![l]][1071l]
 1078|[Occurrences After Bigram][1078]                                   |[![p]][1078sp]                                 |[Easy][e]  |[![l]][1078l]
@@ -400,6 +401,7 @@
 [1037]:./Easy/1037-Valid%20Boomerang/README.md#1037-valid-boomerang
 [1042]:./Easy/1042-Flower%20Planting%20With%20No%20Adjacent/README.md#1042-flower-planting-with-no-adjacent
 [1046]:./Easy/1046-Last%20Stone%20Weight/README.md#1046-last-stone-weight
+[1047]:./Easy/1047-Remove%20All%20Adjacent%20Duplicates%20In%20String/README.md#1047-remove-all-adjacent-duplicates-in-string
 [1051]:./Easy/1051-Height%20Checker/README.md#1051-height-checker
 [1071]:./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings/README.md#1071-greatest-common-divisor-of-strings
 [1078]:./Easy/1078-Occurrences%20After%20Bigram/README.md#1078-occurrences-after-bigram
@@ -610,6 +612,7 @@
 [1037sr]:./Easy/1037-Valid%20Boomerang/README.md#solutions-rust
 [1042sr]:./Easy/1042-Flower%20Planting%20With%20No%20Adjacent/README.md#solutions-rust
 [1046sp]:./Easy/1046-Last%20Stone%20Weight/README.md#solutions-python
+[1047sp]:./Easy/1047-Remove%20All%20Adjacent%20Duplicates%20In%20String/README.md#solutions-python
 [1051sp]:./Easy/1051-Height%20Checker/README.md#solutions-python
 [1071sp]:./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings/README.md#solutions-python
 [1078sp]:./Easy/1078-Occurrences%20After%20Bigram/README.md#solutions-python
@@ -870,6 +873,7 @@
 [1037l]:https://leetcode.com/problems/valid-boomerang/
 [1042l]:https://leetcode.com/problems/flower-planting-with-no-adjacent/
 [1046l]:https://leetcode.com/problems/last-stone-weight/
+[1047l]:https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [1051l]:https://leetcode.com/problems/height-checker/
 [1071l]:https://leetcode.com/problems/greatest-common-divisor-of-strings/
 [1078l]:https://leetcode.com/problems/occurrences-after-bigram/
