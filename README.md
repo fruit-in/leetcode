@@ -198,6 +198,7 @@
 1128|[Number of Equivalent Domino Pairs][1128]                          |[![r]][1128sr]                                 |[Easy][e]  |[![l]][1128l]
 1137|[N-th Tribonacci Number][1137]                                     |[![r]][1137sr]                                 |[Easy][e]  |[![l]][1137l]
 1154|[Day of the Year][1154]                                            |[![r]][1154sr]                                 |[Easy][e]  |[![l]][1154l]
+1160|[Find Words That Can Be Formed by Characters][1160]                |[![p]][1160sp]                                 |[Easy][e]  |[![l]][1160l]
 1184|[Distance Between Bus Stops][1184]                                 |[![r]][1184sr]                                 |[Easy][e]  |[![l]][1184l]
 1185|[Day of the Week][1185]                                            |[![r]][1185sr]                                 |[Easy][e]  |[![l]][1185l]
 1189|[Maximum Number of Balloons][1189]                                 |[![r]][1189sr]                                 |[Easy][e]  |[![l]][1189l]
@@ -413,6 +414,7 @@
 [1128]:./Easy/1128-Number%20of%20Equivalent%20Domino%20Pairs/README.md#1128-number-of-equivalent-domino-pairs
 [1137]:./Easy/1137-N-th%20Tribonacci%20Number/README.md#1137-n-th-tribonacci-number
 [1154]:./Easy/1154-Day%20of%20the%20Year/README.md#1154-day-of-the-year
+[1160]:./Easy/1160-Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/README.md#1160-find-words-that-can-be-formed-by-characters
 [1184]:./Easy/1184-Distance%20Between%20Bus%20Stops/README.md#1184-distance-between-bus-stops
 [1185]:./Easy/1185-Day%20of%20the%20Week/README.md#1185-day-of-the-week
 [1189]:./Easy/1189-Maximum%20Number%20of%20Balloons/README.md#1189-maximum-number-of-balloons
@@ -625,6 +627,7 @@
 [1128sr]:./Easy/1128-Number%20of%20Equivalent%20Domino%20Pairs/README.md#solutions-rust
 [1137sr]:./Easy/1137-N-th%20Tribonacci%20Number/README.md#solutions-rust
 [1154sr]:./Easy/1154-Day%20of%20the%20Year/README.md#solutions-rust
+[1160sp]:./Easy/1160-Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/README.md#solutions-python
 [1184sr]:./Easy/1184-Distance%20Between%20Bus%20Stops/README.md#solutions-rust
 [1185sr]:./Easy/1185-Day%20of%20the%20Week/README.md#solutions-rust
 [1189sr]:./Easy/1189-Maximum%20Number%20of%20Balloons/README.md#solutions-rust
@@ -887,6 +890,7 @@
 [1128l]:https://leetcode.com/problems/number-of-equivalent-domino-pairs/
 [1137l]:https://leetcode.com/problems/n-th-tribonacci-number/
 [1154l]:https://leetcode.com/problems/day-of-the-year/
+[1160l]:https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 [1184l]:https://leetcode.com/problems/distance-between-bus-stops/
 [1185l]:https://leetcode.com/problems/day-of-the-week/
 [1189l]:https://leetcode.com/problems/maximum-number-of-balloons/
