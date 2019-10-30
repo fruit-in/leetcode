@@ -210,6 +210,7 @@
 1217|[Play with Chips][1217]                                            |[![r]][1217sr]                                 |[Easy][e]  |[![l]][1217l]
 1221|[Split a String in Balanced Strings][1221]                         |[![r]][1221sr]                                 |[Easy][e]  |[![l]][1221l]
 1232|[Check If It Is a Straight Line][1232]                             |[![r]][1232sr]                                 |[Easy][e]  |[![l]][1232l]
+1237|[Find Positive Integer Solution for a Given Equation][1237]        |[![p]][1237sp]                                 |[Easy][e]  |[![l]][1237l]
 
 
 [p]:./ico/python.ico
@@ -430,6 +431,7 @@
 [1217]:./Easy/1217-Play%20with%20Chips/README.md#1217-play-with-chips
 [1221]:./Easy/1221-Split%20a%20String%20in%20Balanced%20Strings/README.md#1221-split-a-string-in-balanced-strings
 [1232]:./Easy/1232-Check%20If%20It%20Is%20a%20Straight%20Line/README.md#1232-check-if-it-is-a-straight-line
+[1237]:./Easy/1237-Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/README.md#1237-find-positive-integer-solution-for-a-given-equation
 
 [1sc]:./Easy/0001-Two%20Sum/README.md#solutions-c
 [1sp]:./Easy/0001-Two%20Sum/README.md#solutions-python
@@ -647,6 +649,7 @@
 [1217sr]:./Easy/1217-Play%20with%20Chips/README.md#solutions-rust
 [1221sr]:./Easy/1221-Split%20a%20String%20in%20Balanced%20Strings/README.md#solutions-rust
 [1232sr]:./Easy/1232-Check%20If%20It%20Is%20a%20Straight%20Line/README.md#solutions-rust
+[1237sp]:./Easy/1237-Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/README.md#solutions-python
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -914,3 +917,4 @@
 [1217l]:https://leetcode.com/problems/play-with-chips/
 [1221l]:https://leetcode.com/problems/split-a-string-in-balanced-strings/
 [1232l]:https://leetcode.com/problems/check-if-it-is-a-straight-line/
+[1237l]:https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
