@@ -164,6 +164,7 @@
 921 |[Minimum Add to Make Parentheses Valid][921]                       |[![r]][921sr]                                  |[Medium][m]|[![l]][921l]
 922 |[Sort Array By Parity II][922]                                     |[![p]][922sp]                                  |[Easy][e]  |[![l]][922l]
 929 |[Unique Email Addresses][929]                                      |[![p]][929sp]                                  |[Easy][e]  |[![l]][929l]
+933 |[Number of Recent Calls][933]                                      |[![r]][933sr]                                  |[Easy][e]  |[![l]][933l]
 938 |[Range Sum of BST][938]                                            |[![p]][938sp]                                  |[Easy][e]  |[![l]][938l]
 941 |[Valid Mountain Array][941]                                        |[![r]][941sr]                                  |[Easy][e]  |[![l]][941l]
 942 |[DI String Match][942]                                             |[![p]][942sp]                                  |[Easy][e]  |[![l]][942l]
@@ -385,6 +386,7 @@
 [921]:./Medium/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid/README.md#921-minimum-add-to-make-parentheses-valid
 [922]:./Easy/0922-Sort%20Array%20By%20Parity%20II/README.md#922-sort-array-by-parity-ii
 [929]:./Easy/0929-Unique%20Email%20Addresses/README.md#929-unique-email-addresses
+[933]:./Easy/0933-Number%20of%20Recent%20Calls/README.md#933-number-of-recent-calls
 [938]:./Easy/0938-Range%20Sum%20of%20BST/README.md#938-range-sum-of-bst
 [941]:./Easy/0941-Valid%20Mountain%20Array/README.md#941-valid-mountain-array
 [942]:./Easy/0942-DI%20String%20Match/README.md#942-di-string-match
@@ -603,6 +605,7 @@
 [921sr]:./Medium/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid/README.md#solutions-rust
 [922sp]:./Easy/0922-Sort%20Array%20By%20Parity%20II/README.md#solutions-python
 [929sp]:./Easy/0929-Unique%20Email%20Addresses/README.md#solutions-python
+[933sr]:./Easy/0933-Number%20of%20Recent%20Calls/README.md#solutions-rust
 [938sp]:./Easy/0938-Range%20Sum%20of%20BST/README.md#solutions-python
 [941sr]:./Easy/0941-Valid%20Mountain%20Array/README.md#solutions-rust
 [942sp]:./Easy/0942-DI%20String%20Match/README.md#solutions-python
@@ -871,6 +874,7 @@
 [921l]:https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 [922l]:https://leetcode.com/problems/sort-array-by-parity-ii/
 [929l]:https://leetcode.com/problems/unique-email-addresses/
+[933l]:https://leetcode.com/problems/number-of-recent-calls/
 [938l]:https://leetcode.com/problems/range-sum-of-bst/
 [941l]:https://leetcode.com/problems/valid-mountain-array/
 [942l]:https://leetcode.com/problems/di-string-match/
