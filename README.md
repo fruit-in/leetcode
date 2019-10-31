@@ -126,6 +126,7 @@
 606 |[Construct String from Binary Tree][606]                           |[![p]][606sp]                                  |[Easy][e]  |[![l]][606l]
 617 |[Merge Two Binary Trees][617]                                      |[![p]][617sp]                                  |[Easy][e]  |[![l]][617l]
 622 |[Design Circular Queue][622]                                       |[![r]][622sr]                                  |[Medium][m]|[![l]][622l]
+628 |[Maximum Product of Three Numbers][628]                            |[![p]][628sp]                                  |[Easy][e]  |[![l]][628l]
 654 |[Maximum Binary Tree][654]                                         |[![p]][654sp]                                  |[Medium][m]|[![l]][654l]
 657 |[Robot Return to Origin][657]                                      |[![p]][657sp]&nbsp;[![r]][657sr]               |[Easy][e]  |[![l]][657l]
 665 |[Non-decreasing Array][665]                                        |[![p]][665sp]                                  |[Easy][e]  |[![l]][665l]
@@ -348,6 +349,7 @@
 [606]:./Easy/0606-Construct%20String%20from%20Binary%20Tree/README.md#606-construct-string-from-binary-tree
 [617]:./Easy/0617-Merge%20Two%20Binary%20Trees/README.md#617-merge-two-binary-trees
 [622]:./Medium/0622-Design%20Circular%20Queue/README.md#622-design-circular-queue
+[628]:./Easy/0628-Maximum%20Product%20of%20Three%20Numbers/README.md#628-maximum-product-of-three-numbers
 [654]:./Medium/0654-Maximum%20Binary%20Tree/README.md#654-maximum-binary-tree
 [657]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#657-robot-return-to-origin
 [665]:./Easy/0665-Non-decreasing%20Array/README.md#665-non-decreasing-array
@@ -566,6 +568,7 @@
 [606sp]:./Easy/0606-Construct%20String%20from%20Binary%20Tree/README.md#solutions-python
 [617sp]:./Easy/0617-Merge%20Two%20Binary%20Trees/README.md#solutions-python
 [622sr]:./Medium/0622-Design%20Circular%20Queue/README.md#solutions-rust
+[628sp]:./Easy/0628-Maximum%20Product%20of%20Three%20Numbers/README.md#solutions-python
 [654sp]:./Medium/0654-Maximum%20Binary%20Tree/README.md#solutions-python
 [657sp]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#solutions-python
 [657sr]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#solutions-rust
@@ -826,6 +829,7 @@
 [606l]:https://leetcode.com/problems/construct-string-from-binary-tree/
 [617l]:https://leetcode.com/problems/merge-two-binary-trees/
 [622l]:https://leetcode.com/problems/design-circular-queue/
+[628l]:https://leetcode.com/problems/maximum-product-of-three-numbers/
 [648l]:https://leetcode.com/problems/replace-words/
 [652l]:https://leetcode.com/problems/find-duplicate-subtrees/
 [654l]:https://leetcode.com/problems/maximum-binary-tree/
