@@ -103,6 +103,7 @@
 414 |[Third Maximum Number][414]                                        |[![r]][414sr]                                  |[Easy][e]  |[![l]][414l]
 415 |[Add Strings][415]                                                 |[![p]][415sp]                                  |[Easy][e]  |[![l]][415l]
 429 |[N-ary Tree Level Order Traversal][429]                            |[![p]][429sp]                                  |[Easy][e]  |[![l]][429l]
+447 |[Number of Boomerangs][447]                                        |[![r]][447sr]                                  |[Easy][e]  |[![l]][447l]
 454 |[4Sum II][454]                                                     |[![r]][454sr]                                  |[Medium][m]|[![l]][454l]
 459 |[Repeated Substring Pattern][459]                                  |[![p]][459sp]                                  |[Easy][e]  |[![l]][459l]
 461 |[Hamming Distance][461]                                            |[![r]][461sr]                                  |[Easy][e]  |[![l]][461l]
@@ -327,6 +328,7 @@
 [414]:./Easy/0414-Third%20Maximum%20Number/README.md#414-third-maximum-number
 [415]:./Easy/0415-Add%20Strings/README.md#415-add-strings
 [429]:./Easy/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#429-n-ary-tree-level-order-traversal
+[447]:./Easy/0447-Number%20of%20Boomerangs/README.md#447-number-of-boomerangs
 [454]:./Medium/0454-4Sum%20II/README.md#454-4sum-ii
 [459]:./Easy/0459-Repeated%20Substring%20Pattern/README.md#459-repeated-substring-pattern
 [461]:./Easy/0461-Hamming%20Distance/README.md#461-hamming-distance
@@ -547,6 +549,7 @@
 [414sr]:./Easy/0414-Third%20Maximum%20Number/README.md#solutions-rust
 [415sp]:./Easy/0415-Add%20Strings/README.md#solutions-python
 [429sp]:./Easy/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#solutions-python
+[447sr]:./Easy/0447-Number%20of%20Boomerangs/README.md#solutions-rust
 [454sr]:./Medium/0454-4Sum%20II/README.md#solutions-rust
 [459sp]:./Easy/0459-Repeated%20Substring%20Pattern/README.md#solutions-python
 [461sr]:./Easy/0461-Hamming%20Distance/README.md#solutions-rust
@@ -802,6 +805,7 @@
 [421l]:https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 [429l]:https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 [430l]:https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+[447l]:https://leetcode.com/problems/number-of-boomerangs/
 [450l]:https://leetcode.com/problems/delete-node-in-a-bst/
 [454l]:https://leetcode.com/problems/4sum-ii/
 [459l]:https://leetcode.com/problems/repeated-substring-pattern/
