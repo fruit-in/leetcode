@@ -154,6 +154,7 @@
 824 |[Goat Latin][824]                                                  |[![p]][824sp]                                  |[Easy][e]  |[![l]][824l]
 830 |[Positions of Large Groups][830]                                   |[![r]][830sr]                                  |[Easy][e]  |[![l]][830l]
 832 |[Flipping an Image][832]                                           |[![p]][832sp]                                  |[Easy][e]  |[![l]][832l]
+849 |[Maximize Distance to Closest Person][849]                         |[![r]][849sr]                                  |[Easy][e]  |[![l]][849l]
 852 |[Peak Index in a Mountain Array][852]                              |[![r]][852sr]                                  |[Easy][e]  |[![l]][852l]
 859 |[Buddy Strings][859]                                               |[![p]][859sp]                                  |[Easy][e]  |[![l]][859l]
 860 |[Lemonade Change][860]                                             |[![r]][860sr]                                  |[Easy][e]  |[![l]][860l]
@@ -379,6 +380,7 @@
 [824]:./Easy/0824-Goat%20Latin/README.md#824-goat-latin
 [830]:./Easy/0830-Positions%20of%20Large%20Groups/README.md#830-positions-of-large-groups
 [832]:./Easy/0832-Flipping%20an%20Image/README.md#832-flipping-an-image
+[849]:./Easy/0849-Maximize%20Distance%20to%20Closest%20Person/README.md#849-maximize-distance-to-closest-person
 [852]:./Easy/0852-Peak%20Index%20in%20a%20Mountain%20Array/README.md#852-peak-index-in-a-mountain-array
 [859]:./Easy/0859-Buddy%20Strings/README.md#859-buddy-strings
 [860]:./Easy/0860-Lemonade%20Change/README.md#860-lemonade-change
@@ -601,6 +603,7 @@
 [824sp]:./Easy/0824-Goat%20Latin/README.md#solutions-python
 [830sr]:./Easy/0830-Positions%20of%20Large%20Groups/README.md#solutions-rust
 [832sp]:./Easy/0832-Flipping%20an%20Image/README.md#solutions-python
+[849sr]:./Easy/0849-Maximize%20Distance%20to%20Closest%20Person/README.md#solutions-rust
 [852sr]:./Easy/0852-Peak%20Index%20in%20a%20Mountain%20Array/README.md#solutions-rust
 [859sp]:./Easy/0859-Buddy%20Strings/README.md#solutions-python
 [860sr]:./Easy/0860-Lemonade%20Change/README.md#solutions-rust
@@ -872,6 +875,7 @@
 [830l]:https://leetcode.com/problems/positions-of-large-groups/
 [832l]:https://leetcode.com/problems/flipping-an-image/
 [841l]:https://leetcode.com/problems/keys-and-rooms/
+[849l]:https://leetcode.com/problems/maximize-distance-to-closest-person/
 [852l]:https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [859l]:https://leetcode.com/problems/buddy-strings/
 [860l]:https://leetcode.com/problems/lemonade-change/
