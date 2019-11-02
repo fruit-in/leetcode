@@ -147,6 +147,7 @@
 746 |[Min Cost Climbing Stairs][746]                                    |[![r]][746sr]                                  |[Easy][e]  |[![l]][746l]
 747 |[Largest Number At Least Twice of Others][747]                     |[![r]][747sr]                                  |[Easy][e]  |[![l]][747l]
 754 |[Reach a Number][754]                                              |[![r]][754sr]                                  |[Easy][e]  |[![l]][754l]
+762 |[Prime Number of Set Bits in Binary Representation][762]           |[![p]][762sp]                                  |[Easy][e]  |[![l]][762l]
 771 |[Jewels and Stones][771]                                           |[![r]][771sr]                                  |[Easy][e]  |[![l]][771l]
 804 |[Unique Morse Code Words][804]                                     |[![p]][804sp]                                  |[Easy][e]  |[![l]][804l]
 806 |[Number of Lines To Write String][806]                             |[![p]][806sp]                                  |[Easy][e]  |[![l]][806l]
@@ -373,6 +374,7 @@
 [746]:./Easy/0746-Min%20Cost%20Climbing%20Stairs/README.md#746-min-cost-climbing-stairs
 [747]:./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README.md#747-largest-number-at-least-twice-of-others
 [754]:./Easy/0754-Reach%20a%20Number/README.md#754-reach-a-number
+[762]:./Easy/0762-Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/README.md#762-prime-number-of-set-bits-in-binary-representation
 [771]:./Easy/0771-Jewels%20and%20Stones/README.md#771-jewels-and-stones
 [804]:./Easy/0804-Unique%20Morse%20Code%20Words/README.md#804-unique-morse-code-words
 [806]:./Easy/0806-Number%20of%20Lines%20To%20Write%20String/README.md#806-number-of-lines-to-write-string
@@ -596,6 +598,7 @@
 [746sr]:./Easy/0746-Min%20Cost%20Climbing%20Stairs/README.md#solutions-rust
 [747sr]:./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README.md#solutions-rust
 [754sr]:./Easy/0754-Reach%20a%20Number/README.md#solutions-rust
+[762sp]:./Easy/0762-Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/README.md#solutions-python
 [771sr]:./Easy/0771-Jewels%20and%20Stones/README.md#solutions-rust
 [804sp]:./Easy/0804-Unique%20Morse%20Code%20Words/README.md#solutions-python
 [806sp]:./Easy/0806-Number%20of%20Lines%20To%20Write%20String/README.md#solutions-python
@@ -866,6 +869,7 @@
 [747l]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 [752l]:https://leetcode.com/problems/open-the-lock/
 [754l]:https://leetcode.com/problems/reach-a-number/
+[762l]:https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
 [771l]:https://leetcode.com/problems/jewels-and-stones/
 [779l]:https://leetcode.com/problems/k-th-symbol-in-grammar/
 [804l]:https://leetcode.com/problems/unique-morse-code-words/
