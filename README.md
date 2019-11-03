@@ -99,6 +99,7 @@
 389 |[Find the Difference][389]                                         |[![r]][389sr]                                  |[Easy][e]  |[![l]][389l]
 392 |[Is Subsequence][392]                                              |[![r]][392sr]                                  |[Easy][e]  |[![l]][392l]
 401 |[Binary Watch][401]                                                |[![p]][401sp]                                  |[Easy][e]  |[![l]][401l]
+404 |[Sum of Left Leaves][404]                                          |[![p]][404sp]                                  |[Easy][e]  |[![l]][404l]
 409 |[Longest Palindrome][409]                                          |[![r]][409sr]                                  |[Easy][e]  |[![l]][409l]
 412 |[Fizz Buzz][412]                                                   |[![p]][412sp]                                  |[Easy][e]  |[![l]][412l]
 414 |[Third Maximum Number][414]                                        |[![r]][414sr]                                  |[Easy][e]  |[![l]][414l]
@@ -327,6 +328,7 @@
 [389]:./Easy/0389-Find%20the%20Difference/README.md#389-find-the-difference
 [392]:./Easy/0392-Is%20Subsequence/README.md#392-is-subsequence
 [401]:./Easy/0401-Binary%20Watch/README.md#401-binary-watch
+[404]:./Easy/0404-Sum%20of%20Left%20Leaves/README.md#404-sum-of-left-leaves
 [409]:./Easy/0409-Longest%20Palindrome/README.md#409-longest-palindrome
 [412]:./Easy/0412-Fizz%20Buzz/README.md#412-fizz-buzz
 [414]:./Easy/0414-Third%20Maximum%20Number/README.md#414-third-maximum-number
@@ -551,6 +553,7 @@
 [389sr]:./Easy/0389-Find%20the%20Difference/README.md#solutions-rust
 [392sr]:./Easy/0392-Is%20Subsequence/README.md#solutions-rust
 [401sp]:./Easy/0401-Binary%20Watch/README.md#solutions-python
+[404sp]:./Easy/0404-Sum%20of%20Left%20Leaves/README.md#solutions-python
 [409sr]:./Easy/0409-Longest%20Palindrome/README.md#solutions-rust
 [412sp]:./Easy/0412-Fizz%20Buzz/README.md#solutions-python
 [414sr]:./Easy/0414-Third%20Maximum%20Number/README.md#solutions-rust
@@ -807,6 +810,7 @@
 [389l]:https://leetcode.com/problems/find-the-difference/
 [392l]:https://leetcode.com/problems/is-subsequence/
 [401l]:https://leetcode.com/problems/binary-watch/
+[404l]:https://leetcode.com/problems/sum-of-left-leaves/
 [409l]:https://leetcode.com/problems/longest-palindrome/
 [412l]:https://leetcode.com/problems/fizz-buzz/
 [414l]:https://leetcode.com/problems/third-maximum-number/
