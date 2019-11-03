@@ -98,6 +98,7 @@
 387 |[First Unique Character in a String][387]                          |[![r]][387sr]                                  |[Easy][e]  |[![l]][387l]
 389 |[Find the Difference][389]                                         |[![r]][389sr]                                  |[Easy][e]  |[![l]][389l]
 392 |[Is Subsequence][392]                                              |[![r]][392sr]                                  |[Easy][e]  |[![l]][392l]
+401 |[Binary Watch][401]                                                |[![p]][401sp]                                  |[Easy][e]  |[![l]][401l]
 409 |[Longest Palindrome][409]                                          |[![r]][409sr]                                  |[Easy][e]  |[![l]][409l]
 412 |[Fizz Buzz][412]                                                   |[![p]][412sp]                                  |[Easy][e]  |[![l]][412l]
 414 |[Third Maximum Number][414]                                        |[![r]][414sr]                                  |[Easy][e]  |[![l]][414l]
@@ -325,6 +326,7 @@
 [387]:./Easy/0387-First%20Unique%20Character%20in%20a%20String/README.md#387-first-unique-character-in-a-string
 [389]:./Easy/0389-Find%20the%20Difference/README.md#389-find-the-difference
 [392]:./Easy/0392-Is%20Subsequence/README.md#392-is-subsequence
+[401]:./Easy/0401-Binary%20Watch/README.md#401-binary-watch
 [409]:./Easy/0409-Longest%20Palindrome/README.md#409-longest-palindrome
 [412]:./Easy/0412-Fizz%20Buzz/README.md#412-fizz-buzz
 [414]:./Easy/0414-Third%20Maximum%20Number/README.md#414-third-maximum-number
@@ -548,6 +550,7 @@
 [387sr]:./Easy/0387-First%20Unique%20Character%20in%20a%20String/README.md#solutions-rust
 [389sr]:./Easy/0389-Find%20the%20Difference/README.md#solutions-rust
 [392sr]:./Easy/0392-Is%20Subsequence/README.md#solutions-rust
+[401sp]:./Easy/0401-Binary%20Watch/README.md#solutions-python
 [409sr]:./Easy/0409-Longest%20Palindrome/README.md#solutions-rust
 [412sp]:./Easy/0412-Fizz%20Buzz/README.md#solutions-python
 [414sr]:./Easy/0414-Third%20Maximum%20Number/README.md#solutions-rust
@@ -803,7 +806,7 @@
 [387l]:https://leetcode.com/problems/first-unique-character-in-a-string/
 [389l]:https://leetcode.com/problems/find-the-difference/
 [392l]:https://leetcode.com/problems/is-subsequence/
-[394l]:https://leetcode.com/problems/decode-string/
+[401l]:https://leetcode.com/problems/binary-watch/
 [409l]:https://leetcode.com/problems/longest-palindrome/
 [412l]:https://leetcode.com/problems/fizz-buzz/
 [414l]:https://leetcode.com/problems/third-maximum-number/
