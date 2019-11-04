@@ -107,6 +107,7 @@
 415 |[Add Strings][415]                                                 |[![p]][415sp]                                  |[Easy][e]  |[![l]][415l]
 429 |[N-ary Tree Level Order Traversal][429]                            |[![p]][429sp]                                  |[Easy][e]  |[![l]][429l]
 434 |[Number of Segments in a String][434]                              |[![p]][434sp]                                  |[Easy][e]  |[![l]][434l]
+437 |[Path Sum III][437]                                                |[![p]][437sp]                                  |[Easy][e]  |[![l]][437l]
 447 |[Number of Boomerangs][447]                                        |[![r]][447sr]                                  |[Easy][e]  |[![l]][447l]
 454 |[4Sum II][454]                                                     |[![r]][454sr]                                  |[Medium][m]|[![l]][454l]
 459 |[Repeated Substring Pattern][459]                                  |[![p]][459sp]                                  |[Easy][e]  |[![l]][459l]
@@ -338,6 +339,7 @@
 [415]:./Easy/0415-Add%20Strings/README.md#415-add-strings
 [429]:./Easy/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#429-n-ary-tree-level-order-traversal
 [434]:./Easy/0434-Number%20of%20Segments%20in%20a%20String/README.md#434-number-of-segments-in-a-string
+[437]:./Easy/0437-Path%20Sum%20III/README.md#437-path-sum-iii
 [447]:./Easy/0447-Number%20of%20Boomerangs/README.md#447-number-of-boomerangs
 [454]:./Medium/0454-4Sum%20II/README.md#454-4sum-ii
 [459]:./Easy/0459-Repeated%20Substring%20Pattern/README.md#459-repeated-substring-pattern
@@ -565,6 +567,7 @@
 [415sp]:./Easy/0415-Add%20Strings/README.md#solutions-python
 [429sp]:./Easy/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#solutions-python
 [434sp]:./Easy/0434-Number%20of%20Segments%20in%20a%20String/README.md#solutions-python
+[437sp]:./Easy/0437-Path%20Sum%20III/README.md#solutions-python
 [447sr]:./Easy/0447-Number%20of%20Boomerangs/README.md#solutions-rust
 [454sr]:./Medium/0454-4Sum%20II/README.md#solutions-rust
 [459sp]:./Easy/0459-Repeated%20Substring%20Pattern/README.md#solutions-python
@@ -826,6 +829,7 @@
 [429l]:https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 [430l]:https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
 [434l]:https://leetcode.com/problems/number-of-segments-in-a-string/
+[437l]:https://leetcode.com/problems/path-sum-iii/
 [447l]:https://leetcode.com/problems/number-of-boomerangs/
 [450l]:https://leetcode.com/problems/delete-node-in-a-bst/
 [454l]:https://leetcode.com/problems/4sum-ii/
