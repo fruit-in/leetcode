@@ -112,6 +112,7 @@
 443 |[String Compression][443]                                          |[![p]][443sp]                                  |[Easy][e]  |[![l]][443l]
 447 |[Number of Boomerangs][447]                                        |[![r]][447sr]                                  |[Easy][e]  |[![l]][447l]
 448 |[Find All Numbers Disappeared in an Array][448]                    |[![r]][448sr]                                  |[Easy][e]  |[![l]][448l]
+453 |[Minimum Moves to Equal Array Elements][453]                       |[![r]][453sr]                                  |[Easy][e]  |[![l]][453l]
 454 |[4Sum II][454]                                                     |[![r]][454sr]                                  |[Medium][m]|[![l]][454l]
 459 |[Repeated Substring Pattern][459]                                  |[![p]][459sp]                                  |[Easy][e]  |[![l]][459l]
 461 |[Hamming Distance][461]                                            |[![r]][461sr]                                  |[Easy][e]  |[![l]][461l]
@@ -347,6 +348,7 @@
 [443]:./Easy/0443-String%20Compression/README.md#443-string-compression
 [447]:./Easy/0447-Number%20of%20Boomerangs/README.md#447-number-of-boomerangs
 [448]:./Easy/0448-Find%20All%20Numbers%20Disappeared%20in%20an%20Array/README.md#448-find-all-numbers-disappeared-in-an-array
+[453]:./Easy/0453-Minimum%20Moves%20to%20Equal%20Array%20Elements/README.md#453-minimum-moves-to-equal-array-elements
 [454]:./Medium/0454-4Sum%20II/README.md#454-4sum-ii
 [459]:./Easy/0459-Repeated%20Substring%20Pattern/README.md#459-repeated-substring-pattern
 [461]:./Easy/0461-Hamming%20Distance/README.md#461-hamming-distance
@@ -578,6 +580,7 @@
 [443sp]:./Easy/0443-String%20Compression/README.md#solutions-python
 [447sr]:./Easy/0447-Number%20of%20Boomerangs/README.md#solutions-rust
 [448sr]:./Easy/0448-Find%20All%20Numbers%20Disappeared%20in%20an%20Array/README.md#solutions-rust
+[453sr]:./Easy/0453-Minimum%20Moves%20to%20Equal%20Array%20Elements/README.md#solutions-rust
 [454sr]:./Medium/0454-4Sum%20II/README.md#solutions-rust
 [459sp]:./Easy/0459-Repeated%20Substring%20Pattern/README.md#solutions-python
 [461sr]:./Easy/0461-Hamming%20Distance/README.md#solutions-rust
@@ -843,7 +846,7 @@
 [443l]:https://leetcode.com/problems/string-compression/
 [447l]:https://leetcode.com/problems/number-of-boomerangs/
 [448l]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
-[450l]:https://leetcode.com/problems/delete-node-in-a-bst/
+[453l]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 [454l]:https://leetcode.com/problems/4sum-ii/
 [459l]:https://leetcode.com/problems/repeated-substring-pattern/
 [461l]:https://leetcode.com/problems/hamming-distance/
