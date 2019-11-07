@@ -111,6 +111,7 @@
 441 |[Arranging Coins][441]                                             |[![p]][441sp]                                  |[Easy][e]  |[![l]][441l]
 443 |[String Compression][443]                                          |[![p]][443sp]                                  |[Easy][e]  |[![l]][443l]
 447 |[Number of Boomerangs][447]                                        |[![r]][447sr]                                  |[Easy][e]  |[![l]][447l]
+448 |[Find All Numbers Disappeared in an Array][448]                    |[![r]][448sr]                                  |[Easy][e]  |[![l]][448l]
 454 |[4Sum II][454]                                                     |[![r]][454sr]                                  |[Medium][m]|[![l]][454l]
 459 |[Repeated Substring Pattern][459]                                  |[![p]][459sp]                                  |[Easy][e]  |[![l]][459l]
 461 |[Hamming Distance][461]                                            |[![r]][461sr]                                  |[Easy][e]  |[![l]][461l]
@@ -345,6 +346,7 @@
 [441]:./Easy/0441-Arranging%20Coins/README.md#441-arranging-coins
 [443]:./Easy/0443-String%20Compression/README.md#443-string-compression
 [447]:./Easy/0447-Number%20of%20Boomerangs/README.md#447-number-of-boomerangs
+[448]:./Easy/0448-Find%20All%20Numbers%20Disappeared%20in%20an%20Array/README.md#448-find-all-numbers-disappeared-in-an-array
 [454]:./Medium/0454-4Sum%20II/README.md#454-4sum-ii
 [459]:./Easy/0459-Repeated%20Substring%20Pattern/README.md#459-repeated-substring-pattern
 [461]:./Easy/0461-Hamming%20Distance/README.md#461-hamming-distance
@@ -575,6 +577,7 @@
 [441sp]:./Easy/0441-Arranging%20Coins/README.md#solutions-python
 [443sp]:./Easy/0443-String%20Compression/README.md#solutions-python
 [447sr]:./Easy/0447-Number%20of%20Boomerangs/README.md#solutions-rust
+[448sr]:./Easy/0448-Find%20All%20Numbers%20Disappeared%20in%20an%20Array/README.md#solutions-rust
 [454sr]:./Medium/0454-4Sum%20II/README.md#solutions-rust
 [459sp]:./Easy/0459-Repeated%20Substring%20Pattern/README.md#solutions-python
 [461sr]:./Easy/0461-Hamming%20Distance/README.md#solutions-rust
@@ -839,6 +842,7 @@
 [441l]:https://leetcode.com/problems/arranging-coins/
 [443l]:https://leetcode.com/problems/string-compression/
 [447l]:https://leetcode.com/problems/number-of-boomerangs/
+[448l]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [450l]:https://leetcode.com/problems/delete-node-in-a-bst/
 [454l]:https://leetcode.com/problems/4sum-ii/
 [459l]:https://leetcode.com/problems/repeated-substring-pattern/
