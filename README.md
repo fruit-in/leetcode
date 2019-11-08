@@ -118,6 +118,7 @@
 459 |[Repeated Substring Pattern][459]                                  |[![p]][459sp]                                  |[Easy][e]  |[![l]][459l]
 461 |[Hamming Distance][461]                                            |[![r]][461sr]                                  |[Easy][e]  |[![l]][461l]
 463 |[Island Perimeter][463]                                            |[![r]][463sr]                                  |[Easy][e]  |[![l]][463l]
+475 |[Heaters][475]                                                     |[![r]][475sr]                                  |[Easy][e]  |[![l]][475l]
 476 |[Number Complement][476]                                           |[![r]][476sr]                                  |[Easy][e]  |[![l]][476l]
 482 |[License Key Formatting][482]                                      |[![p]][482sp]                                  |[Easy][e]  |[![l]][482l]
 485 |[Max Consecutive Ones][485]                                        |[![r]][485sr]                                  |[Easy][e]  |[![l]][485l]
@@ -356,6 +357,7 @@
 [459]:./Easy/0459-Repeated%20Substring%20Pattern/README.md#459-repeated-substring-pattern
 [461]:./Easy/0461-Hamming%20Distance/README.md#461-hamming-distance
 [463]:./Easy/0463-Island%20Perimeter/README.md#463-island-perimeter
+[475]:./Easy/0475-Heaters/README.md#475-heaters
 [476]:./Easy/0476-Number%20Complement/README.md#476-number-complement
 [482]:./Easy/0482-License%20Key%20Formatting/README.md#482-license-key-formatting
 [485]:./Easy/0485-Max%20Consecutive%20Ones/README.md#485-max-consecutive-ones
@@ -590,6 +592,7 @@
 [459sp]:./Easy/0459-Repeated%20Substring%20Pattern/README.md#solutions-python
 [461sr]:./Easy/0461-Hamming%20Distance/README.md#solutions-rust
 [463sr]:./Easy/0463-Island%20Perimeter/README.md#solutions-rust
+[475sr]:./Easy/0475-Heaters/README.md#solutions-rust
 [476sr]:./Easy/0476-Number%20Complement/README.md#solutions-rust
 [482sp]:./Easy/0482-License%20Key%20Formatting/README.md#solutions-python
 [485sr]:./Easy/0485-Max%20Consecutive%20Ones/README.md#solutions-rust
@@ -858,6 +861,7 @@
 [459l]:https://leetcode.com/problems/repeated-substring-pattern/
 [461l]:https://leetcode.com/problems/hamming-distance/
 [463l]:https://leetcode.com/problems/island-perimeter/
+[475l]:https://leetcode.com/problems/heaters/
 [476l]:https://leetcode.com/problems/number-complement/
 [482l]:https://leetcode.com/problems/license-key-formatting/
 [485l]:https://leetcode.com/problems/max-consecutive-ones/
