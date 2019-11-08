@@ -123,6 +123,7 @@
 482 |[License Key Formatting][482]                                      |[![p]][482sp]                                  |[Easy][e]  |[![l]][482l]
 485 |[Max Consecutive Ones][485]                                        |[![r]][485sr]                                  |[Easy][e]  |[![l]][485l]
 492 |[Construct the Rectangle][492]                                     |[![r]][492sr]                                  |[Easy][e]  |[![l]][492l]
+496 |[Next Greater Element I][496]                                      |[![r]][496sr]                                  |[Easy][e]  |[![l]][496l]
 500 |[Keyboard Row][500]                                                |[![p]][500sp]                                  |[Easy][e]  |[![l]][500l]
 504 |[Base 7][504]                                                      |[![p]][504sp]                                  |[Easy][e]  |[![l]][504l]
 507 |[Perfect Number][507]                                              |[![r]][507sr]                                  |[Easy][e]  |[![l]][507l]
@@ -362,6 +363,7 @@
 [482]:./Easy/0482-License%20Key%20Formatting/README.md#482-license-key-formatting
 [485]:./Easy/0485-Max%20Consecutive%20Ones/README.md#485-max-consecutive-ones
 [492]:./Easy/0492-Construct%20the%20Rectangle/README.md#492-construct-the-rectangle
+[496]:./Easy/0496-Next%20Greater%20Element%20I/README.md#496-next-greater-element-i
 [500]:./Easy/0500-Keyboard%20Row/README.md#500-keyboard-row
 [504]:./Easy/0504-Base%207/README.md#504-base-7
 [507]:./Easy/0507-Perfect%20Number/README.md#507-perfect-number
@@ -597,6 +599,7 @@
 [482sp]:./Easy/0482-License%20Key%20Formatting/README.md#solutions-python
 [485sr]:./Easy/0485-Max%20Consecutive%20Ones/README.md#solutions-rust
 [492sr]:./Easy/0492-Construct%20the%20Rectangle/README.md#solutions-rust
+[496sr]:./Easy/0496-Next%20Greater%20Element%20I/README.md#solutions-rust
 [500sp]:./Easy/0500-Keyboard%20Row/README.md#solutions-python
 [504sp]:./Easy/0504-Base%207/README.md#solutions-python
 [507sr]:./Easy/0507-Perfect%20Number/README.md#solutions-rust
@@ -866,8 +869,7 @@
 [482l]:https://leetcode.com/problems/license-key-formatting/
 [485l]:https://leetcode.com/problems/max-consecutive-ones/
 [492l]:https://leetcode.com/problems/construct-the-rectangle/
-[494l]:https://leetcode.com/problems/target-sum/
-[498l]:https://leetcode.com/problems/diagonal-traverse/
+[496l]:https://leetcode.com/problems/next-greater-element-i/
 [500l]:https://leetcode.com/problems/keyboard-row/
 [504l]:https://leetcode.com/problems/base-7/
 [507l]:https://leetcode.com/problems/perfect-number/
