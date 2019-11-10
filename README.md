@@ -125,6 +125,7 @@
 492 |[Construct the Rectangle][492]                                     |[![r]][492sr]                                  |[Easy][e]  |[![l]][492l]
 496 |[Next Greater Element I][496]                                      |[![r]][496sr]                                  |[Easy][e]  |[![l]][496l]
 500 |[Keyboard Row][500]                                                |[![p]][500sp]                                  |[Easy][e]  |[![l]][500l]
+501 |[Find Mode in Binary Search Tree][501]                             |[![p]][501sp]                                  |[Easy][e]  |[![l]][501l]
 504 |[Base 7][504]                                                      |[![p]][504sp]                                  |[Easy][e]  |[![l]][504l]
 506 |[Relative Ranks][506]                                              |[![r]][506sr]                                  |[Easy][e]  |[![l]][506l]
 507 |[Perfect Number][507]                                              |[![r]][507sr]                                  |[Easy][e]  |[![l]][507l]
@@ -366,6 +367,7 @@
 [492]:./Easy/0492-Construct%20the%20Rectangle/README.md#492-construct-the-rectangle
 [496]:./Easy/0496-Next%20Greater%20Element%20I/README.md#496-next-greater-element-i
 [500]:./Easy/0500-Keyboard%20Row/README.md#500-keyboard-row
+[501]:./Easy/0501-Find%20Mode%20in%20Binary%20Search%20Tree/README.md#501-find-mode-in-binary-search-tree
 [504]:./Easy/0504-Base%207/README.md#504-base-7
 [506]:./Easy/0506-Relative%20Ranks/README.md#506-relative-ranks
 [507]:./Easy/0507-Perfect%20Number/README.md#507-perfect-number
@@ -603,6 +605,7 @@
 [492sr]:./Easy/0492-Construct%20the%20Rectangle/README.md#solutions-rust
 [496sr]:./Easy/0496-Next%20Greater%20Element%20I/README.md#solutions-rust
 [500sp]:./Easy/0500-Keyboard%20Row/README.md#solutions-python
+[501sp]:./Easy/0501-Find%20Mode%20in%20Binary%20Search%20Tree/README.md#solutions-python
 [504sp]:./Easy/0504-Base%207/README.md#solutions-python
 [506sr]:./Easy/0506-Relative%20Ranks/README.md#solutions-rust
 [507sr]:./Easy/0507-Perfect%20Number/README.md#solutions-rust
@@ -874,6 +877,7 @@
 [492l]:https://leetcode.com/problems/construct-the-rectangle/
 [496l]:https://leetcode.com/problems/next-greater-element-i/
 [500l]:https://leetcode.com/problems/keyboard-row/
+[501l]:https://leetcode.com/problems/find-mode-in-binary-search-tree/
 [504l]:https://leetcode.com/problems/base-7/
 [506l]:https://leetcode.com/problems/relative-ranks/
 [507l]:https://leetcode.com/problems/perfect-number/
