@@ -105,7 +105,7 @@
 412 |[Fizz Buzz][412]                                                   |[![p]][412sp]                                  |[Easy][e]  |[![l]][412l]
 414 |[Third Maximum Number][414]                                        |[![r]][414sr]                                  |[Easy][e]  |[![l]][414l]
 415 |[Add Strings][415]                                                 |[![p]][415sp]                                  |[Easy][e]  |[![l]][415l]
-429 |[N-ary Tree Level Order Traversal][429]                            |[![p]][429sp]                                  |[Easy][e]  |[![l]][429l]
+429 |[N-ary Tree Level Order Traversal][429]                            |[![p]][429sp]                                  |[Medium][e]|[![l]][429l]
 434 |[Number of Segments in a String][434]                              |[![p]][434sp]                                  |[Easy][e]  |[![l]][434l]
 437 |[Path Sum III][437]                                                |[![p]][437sp]                                  |[Easy][e]  |[![l]][437l]
 441 |[Arranging Coins][441]                                             |[![p]][441sp]                                  |[Easy][e]  |[![l]][441l]
@@ -347,7 +347,7 @@
 [412]:./Easy/0412-Fizz%20Buzz/README.md#412-fizz-buzz
 [414]:./Easy/0414-Third%20Maximum%20Number/README.md#414-third-maximum-number
 [415]:./Easy/0415-Add%20Strings/README.md#415-add-strings
-[429]:./Easy/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#429-n-ary-tree-level-order-traversal
+[429]:./Medium/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#429-n-ary-tree-level-order-traversal
 [434]:./Easy/0434-Number%20of%20Segments%20in%20a%20String/README.md#434-number-of-segments-in-a-string
 [437]:./Easy/0437-Path%20Sum%20III/README.md#437-path-sum-iii
 [441]:./Easy/0441-Arranging%20Coins/README.md#441-arranging-coins
@@ -585,7 +585,7 @@
 [412sp]:./Easy/0412-Fizz%20Buzz/README.md#solutions-python
 [414sr]:./Easy/0414-Third%20Maximum%20Number/README.md#solutions-rust
 [415sp]:./Easy/0415-Add%20Strings/README.md#solutions-python
-[429sp]:./Easy/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#solutions-python
+[429sp]:./Medium/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#solutions-python
 [434sp]:./Easy/0434-Number%20of%20Segments%20in%20a%20String/README.md#solutions-python
 [437sp]:./Easy/0437-Path%20Sum%20III/README.md#solutions-python
 [441sp]:./Easy/0441-Arranging%20Coins/README.md#solutions-python
