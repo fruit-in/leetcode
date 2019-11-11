@@ -131,6 +131,7 @@
 507 |[Perfect Number][507]                                              |[![r]][507sr]                                  |[Easy][e]  |[![l]][507l]
 509 |[Fibonacci Number][509]                                            |[![r]][509sr]                                  |[Easy][e]  |[![l]][509l]
 520 |[Detect Capital][520]                                              |[![r]][520sr]                                  |[Easy][e]  |[![l]][520l]
+521 |[Longest Uncommon Subsequence I][521]                              |[![r]][521sr]                                  |[Easy][e]  |[![l]][521l]
 551 |[Student Attendance Record I][551]                                 |[![p]][551sp]                                  |[Easy][e]  |[![l]][551l]
 554 |[Brick Wall][554]                                                  |[![r]][554sr]                                  |[Medium][m]|[![l]][554l]
 559 |[Maximum Depth of N-ary Tree][559]                                 |[![p]][559sp]                                  |[Easy][e]  |[![l]][559l]
@@ -373,6 +374,7 @@
 [507]:./Easy/0507-Perfect%20Number/README.md#507-perfect-number
 [509]:./Easy/0509-Fibonacci%20Number/README.md#509-fibonacci-number
 [520]:./Easy/0520-Detect%20Capital/README.md#520-detect-capital
+[521]:./Easy/0521-Longest%20Uncommon%20Subsequence%20I/README.md#521-longest-uncommon-subsequence-i
 [551]:./Easy/0551-Student%20Attendance%20Record%20I/README.md#551-student-attendance-record-i
 [554]:./Medium/0554-Brick%20Wall/README.md#554-brick-wall
 [559]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree/README.md#559-maximum-depth-of-n-ary-tree
@@ -611,6 +613,7 @@
 [507sr]:./Easy/0507-Perfect%20Number/README.md#solutions-rust
 [509sr]:./Easy/0509-Fibonacci%20Number/README.md#solutions-rust
 [520sr]:./Easy/0520-Detect%20Capital/README.md#solutions-rust
+[521sr]:./Easy/0521-Longest%20Uncommon%20Subsequence%20I/README.md#solutions-rust
 [551sp]:./Easy/0551-Student%20Attendance%20Record%20I/README.md#solutions-python
 [554sr]:./Medium/0554-Brick%20Wall/README.md#solutions-rust
 [559sp]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree/README.md#solutions-python
@@ -883,6 +886,7 @@
 [507l]:https://leetcode.com/problems/perfect-number/
 [509l]:https://leetcode.com/problems/fibonacci-number/
 [520l]:https://leetcode.com/problems/detect-capital/
+[521l]:https://leetcode.com/problems/longest-uncommon-subsequence-i/
 [542l]:https://leetcode.com/problems/01-matrix/
 [551l]:https://leetcode.com/problems/student-attendance-record-i/
 [554l]:https://leetcode.com/problems/brick-wall/
