@@ -105,7 +105,7 @@
 412 |[Fizz Buzz][412]                                                   |[![p]][412sp]                                  |[Easy][e]  |[![l]][412l]
 414 |[Third Maximum Number][414]                                        |[![r]][414sr]                                  |[Easy][e]  |[![l]][414l]
 415 |[Add Strings][415]                                                 |[![p]][415sp]                                  |[Easy][e]  |[![l]][415l]
-429 |[N-ary Tree Level Order Traversal][429]                            |[![p]][429sp]                                  |[Medium][e]|[![l]][429l]
+429 |[N-ary Tree Level Order Traversal][429]                            |[![p]][429sp]                                  |[Medium][m]|[![l]][429l]
 434 |[Number of Segments in a String][434]                              |[![p]][434sp]                                  |[Easy][e]  |[![l]][434l]
 437 |[Path Sum III][437]                                                |[![p]][437sp]                                  |[Easy][e]  |[![l]][437l]
 441 |[Arranging Coins][441]                                             |[![p]][441sp]                                  |[Easy][e]  |[![l]][441l]
