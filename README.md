@@ -134,6 +134,7 @@
 521 |[Longest Uncommon Subsequence I][521]                              |[![r]][521sr]                                  |[Easy][e]  |[![l]][521l]
 530 |[Minimum Absolute Difference in BST][530]                          |[![p]][530sp]                                  |[Easy][e]  |[![l]][530l]
 532 |[K-diff Pairs in an Array][532]                                    |[![r]][532sr]                                  |[Easy][e]  |[![l]][532l]
+538 |[Convert BST to Greater Tree][538]                                 |[![p]][538sp]                                  |[Easy][e]  |[![l]][538l]
 551 |[Student Attendance Record I][551]                                 |[![p]][551sp]                                  |[Easy][e]  |[![l]][551l]
 554 |[Brick Wall][554]                                                  |[![r]][554sr]                                  |[Medium][m]|[![l]][554l]
 559 |[Maximum Depth of N-ary Tree][559]                                 |[![p]][559sp]                                  |[Easy][e]  |[![l]][559l]
@@ -380,6 +381,7 @@
 [521]:./Easy/0521-Longest%20Uncommon%20Subsequence%20I/README.md#521-longest-uncommon-subsequence-i
 [530]:./Easy/0530-Minimum%20Absolute%20Difference%20in%20BST/README.md#530-minimum-absolute-difference-in-bst
 [532]:./Easy/0532-K-diff%20Pairs%20in%20an%20Array/README.md#532-k-diff-pairs-in-an-array
+[538]:./Easy/0538-Convert%20BST%20to%20Greater%20Tree/README.md#538-convert-bst-to-greater-tree
 [551]:./Easy/0551-Student%20Attendance%20Record%20I/README.md#551-student-attendance-record-i
 [554]:./Medium/0554-Brick%20Wall/README.md#554-brick-wall
 [559]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree/README.md#559-maximum-depth-of-n-ary-tree
@@ -622,6 +624,7 @@
 [521sr]:./Easy/0521-Longest%20Uncommon%20Subsequence%20I/README.md#solutions-rust
 [530sp]:./Easy/0530-Minimum%20Absolute%20Difference%20in%20BST/README.md#solutions-python
 [532sr]:./Easy/0532-K-diff%20Pairs%20in%20an%20Array/README.md#solutions-rust
+[538sp]:./Easy/0538-Convert%20BST%20to%20Greater%20Tree/README.md#solutions-python
 [551sp]:./Easy/0551-Student%20Attendance%20Record%20I/README.md#solutions-python
 [554sr]:./Medium/0554-Brick%20Wall/README.md#solutions-rust
 [559sp]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree/README.md#solutions-python
@@ -898,6 +901,7 @@
 [521l]:https://leetcode.com/problems/longest-uncommon-subsequence-i/
 [530l]:https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 [532l]:https://leetcode.com/problems/k-diff-pairs-in-an-array/
+[538l]:https://leetcode.com/problems/convert-bst-to-greater-tree/
 [551l]:https://leetcode.com/problems/student-attendance-record-i/
 [554l]:https://leetcode.com/problems/brick-wall/
 [557l]:https://leetcode.com/problems/reverse-words-in-a-string-iii/
