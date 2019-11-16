@@ -136,6 +136,7 @@
 532 |[K-diff Pairs in an Array][532]                                    |[![r]][532sr]                                  |[Easy][e]  |[![l]][532l]
 538 |[Convert BST to Greater Tree][538]                                 |[![p]][538sp]                                  |[Easy][e]  |[![l]][538l]
 541 |[Reverse String II][541]                                           |[![p]][541sp]                                  |[Easy][e]  |[![l]][541l]
+543 |[Diameter of Binary Tree][543]                                     |[![p]][543sp]                                  |[Easy][e]  |[![l]][543l]
 551 |[Student Attendance Record I][551]                                 |[![p]][551sp]                                  |[Easy][e]  |[![l]][551l]
 554 |[Brick Wall][554]                                                  |[![r]][554sr]                                  |[Medium][m]|[![l]][554l]
 559 |[Maximum Depth of N-ary Tree][559]                                 |[![p]][559sp]                                  |[Easy][e]  |[![l]][559l]
@@ -384,6 +385,7 @@
 [532]:./Easy/0532-K-diff%20Pairs%20in%20an%20Array/README.md#532-k-diff-pairs-in-an-array
 [538]:./Easy/0538-Convert%20BST%20to%20Greater%20Tree/README.md#538-convert-bst-to-greater-tree
 [541]:./Easy/0541-Reverse%20String%20II/README.md#541-reverse-string-ii
+[543]:./Easy/0543-Diameter%20of%20Binary%20Tree/README.md#543-diameter-of-binary-tree
 [551]:./Easy/0551-Student%20Attendance%20Record%20I/README.md#551-student-attendance-record-i
 [554]:./Medium/0554-Brick%20Wall/README.md#554-brick-wall
 [559]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree/README.md#559-maximum-depth-of-n-ary-tree
@@ -628,6 +630,7 @@
 [532sr]:./Easy/0532-K-diff%20Pairs%20in%20an%20Array/README.md#solutions-rust
 [538sp]:./Easy/0538-Convert%20BST%20to%20Greater%20Tree/README.md#solutions-python
 [541sp]:./Easy/0541-Reverse%20String%20II/README.md#solutions-python
+[543sp]:./Easy/0543-Diameter%20of%20Binary%20Tree/README.md#solutions-python
 [551sp]:./Easy/0551-Student%20Attendance%20Record%20I/README.md#solutions-python
 [554sr]:./Medium/0554-Brick%20Wall/README.md#solutions-rust
 [559sp]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree/README.md#solutions-python
@@ -906,6 +909,7 @@
 [532l]:https://leetcode.com/problems/k-diff-pairs-in-an-array/
 [538l]:https://leetcode.com/problems/convert-bst-to-greater-tree/
 [541l]:https://leetcode.com/problems/reverse-string-ii/
+[543l]:https://leetcode.com/problems/diameter-of-binary-tree/
 [551l]:https://leetcode.com/problems/student-attendance-record-i/
 [554l]:https://leetcode.com/problems/brick-wall/
 [557l]:https://leetcode.com/problems/reverse-words-in-a-string-iii/
