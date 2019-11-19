@@ -142,6 +142,7 @@
 557 |[Reverse Words in a String III][557]                               |[![p]][557sp]                                  |[Easy][e]  |[![l]][557l]
 558 |[Quad Tree Intersection][558]                                      |[![p]][558sp]                                  |[Easy][e]  |[![l]][558l]
 559 |[Maximum Depth of N-ary Tree][559]                                 |[![p]][559sp]                                  |[Easy][e]  |[![l]][559l]
+561 |[Array Partition I][561]                                           |[![r]][561sr]                                  |[Easy][e]  |[![l]][561l]
 575 |[Distribute Candies][575]                                          |[![r]][575sr]                                  |[Easy][e]  |[![l]][575l]
 589 |[N-ary Tree Preorder Traversal][589]                               |[![p]][589sp]                                  |[Easy][e]  |[![l]][589l]
 590 |[N-ary Tree Postorder Traversal][590]                              |[![p]][590sp]                                  |[Easy][e]  |[![l]][590l]
@@ -393,6 +394,7 @@
 [557]:./Easy/0557-Reverse%20Words%20in%20a%20String%20III/README.md#557-reverse-words-in-a-string-iii
 [558]:./Easy/0558-Quad%20Tree%20Intersection/README.md#558-quad-tree-intersection
 [559]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree/README.md#559-maximum-depth-of-n-ary-tree
+[561]:./Easy/0561-Array%20Partition%20I/README.md#561-array-partition-i
 [575]:./Easy/0575-Distribute%20Candies/README.md#575-distribute-candies
 [589]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal/README.md#589-n-ary-tree-preorder-traversal
 [590]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#590-n-ary-tree-postorder-traversal
@@ -640,6 +642,7 @@
 [557sp]:./Easy/0557-Reverse%20Words%20in%20a%20String%20III/README.md#solutions-python
 [558sp]:./Easy/0558-Quad%20Tree%20Intersection/README.md#solutions-python
 [559sp]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree/README.md#solutions-python
+[561sr]:./Easy/0561-Array%20Partition%20I/README.md#solutions-rust
 [575sr]:./Easy/0575-Distribute%20Candies/README.md#solutions-rust
 [589sp]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal/README.md#solutions-python
 [590sp]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#solutions-python
