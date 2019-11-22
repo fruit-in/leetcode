@@ -145,6 +145,7 @@
 561 |[Array Partition I][561]                                           |[![r]][561sr]                                  |[Easy][e]  |[![l]][561l]
 563 |[Binary Tree Tilt][563]                                            |[![p]][563sp]                                  |[Easy][e]  |[![l]][563l]
 566 |[Reshape the Matrix][566]                                          |[![r]][566sr]                                  |[Easy][e]  |[![l]][566l]
+572 |[Subtree of Another Tree][572]                                     |[![p]][572sp]                                  |[Easy][e]  |[![l]][572l]
 575 |[Distribute Candies][575]                                          |[![r]][575sr]                                  |[Easy][e]  |[![l]][575l]
 589 |[N-ary Tree Preorder Traversal][589]                               |[![p]][589sp]                                  |[Easy][e]  |[![l]][589l]
 590 |[N-ary Tree Postorder Traversal][590]                              |[![p]][590sp]                                  |[Easy][e]  |[![l]][590l]
@@ -399,6 +400,7 @@
 [561]:./Easy/0561-Array%20Partition%20I/README.md#561-array-partition-i
 [563]:./Easy/0563-Binary%20Tree%20Tilt/README.md#563-binary-tree-tilt
 [566]:./Easy/0566-Reshape%20the%20Matrix/README.md#566-reshape-the-matrix
+[572]:./Easy/0572-Subtree%20of%20Another%20Tree/README.md#572-subtree-of-another-tree
 [575]:./Easy/0575-Distribute%20Candies/README.md#575-distribute-candies
 [589]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal/README.md#589-n-ary-tree-preorder-traversal
 [590]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#590-n-ary-tree-postorder-traversal
@@ -649,6 +651,7 @@
 [561sr]:./Easy/0561-Array%20Partition%20I/README.md#solutions-rust
 [563sp]:./Easy/0563-Binary%20Tree%20Tilt/README.md#solutions-python
 [566sr]:./Easy/0566-Reshape%20the%20Matrix/README.md#solutions-rust
+[572sp]:./Easy/0572-Subtree%20of%20Another%20Tree/README.md#solutions-python
 [575sr]:./Easy/0575-Distribute%20Candies/README.md#solutions-rust
 [589sp]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal/README.md#solutions-python
 [590sp]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#solutions-python
@@ -933,6 +936,7 @@
 [561l]:https://leetcode.com/problems/array-partition-i/
 [563l]:https://leetcode.com/problems/binary-tree-tilt/
 [566l]:https://leetcode.com/problems/reshape-the-matrix/
+[572l]:https://leetcode.com/problems/subtree-of-another-tree/
 [575l]:https://leetcode.com/problems/distribute-candies/
 [589l]:https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 [590l]:https://leetcode.com/problems/n-ary-tree-postorder-traversal/
