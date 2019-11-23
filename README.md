@@ -157,6 +157,7 @@
 628 |[Maximum Product of Three Numbers][628]                            |[![p]][628sp]                                  |[Easy][e]  |[![l]][628l]
 654 |[Maximum Binary Tree][654]                                         |[![p]][654sp]                                  |[Medium][m]|[![l]][654l]
 657 |[Robot Return to Origin][657]                                      |[![p]][657sp]&nbsp;[![r]][657sr]               |[Easy][e]  |[![l]][657l]
+661 |[Image Smoother][661]                                              |[![r]][661sr]                                  |[Easy][e]  |[![l]][661l]
 665 |[Non-decreasing Array][665]                                        |[![p]][665sp]                                  |[Easy][e]  |[![l]][665l]
 682 |[Baseball Game][682]                                               |[![p]][682sp]                                  |[Easy][e]  |[![l]][682l]
 693 |[Binary Number with Alternating Bits][693]                         |[![r]][693sr]                                  |[Easy][e]  |[![l]][693l]
@@ -412,6 +413,7 @@
 [628]:./Easy/0628-Maximum%20Product%20of%20Three%20Numbers/README.md#628-maximum-product-of-three-numbers
 [654]:./Medium/0654-Maximum%20Binary%20Tree/README.md#654-maximum-binary-tree
 [657]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#657-robot-return-to-origin
+[661]:./Easy/0661-Image%20Smoother/README.md#661-image-smoother
 [665]:./Easy/0665-Non-decreasing%20Array/README.md#665-non-decreasing-array
 [682]:./Easy/0682-Baseball%20Game/README.md#682-baseball-game
 [693]:./Easy/0693-Binary%20Number%20with%20Alternating%20Bits/README.md#693-binary-number-with-alternating-bits
@@ -664,6 +666,7 @@
 [654sp]:./Medium/0654-Maximum%20Binary%20Tree/README.md#solutions-python
 [657sp]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#solutions-python
 [657sr]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#solutions-rust
+[661sr]:./Easy/0661-Image%20Smoother/README.md#solutions-rust
 [665sp]:./Easy/0665-Non-decreasing%20Array/README.md#solutions-python
 [682sp]:./Easy/0682-Baseball%20Game/README.md#solutions-python
 [693sr]:./Easy/0693-Binary%20Number%20with%20Alternating%20Bits/README.md#solutions-rust
@@ -951,6 +954,7 @@
 [652l]:https://leetcode.com/problems/find-duplicate-subtrees/
 [654l]:https://leetcode.com/problems/maximum-binary-tree/
 [657l]:https://leetcode.com/problems/robot-return-to-origin/
+[661l]:https://leetcode.com/problems/image-smoother/
 [665l]:https://leetcode.com/problems/non-decreasing-array/
 [677l]:https://leetcode.com/problems/map-sum-pairs/
 [682l]:https://leetcode.com/problems/baseball-game/
