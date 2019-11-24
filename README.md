@@ -147,6 +147,7 @@
 566 |[Reshape the Matrix][566]                                          |[![r]][566sr]                                  |[Easy][e]  |[![l]][566l]
 572 |[Subtree of Another Tree][572]                                     |[![p]][572sp]                                  |[Easy][e]  |[![l]][572l]
 575 |[Distribute Candies][575]                                          |[![r]][575sr]                                  |[Easy][e]  |[![l]][575l]
+581 |[Shortest Unsorted Continuous Subarray][581]                       |[![r]][581sr]                                  |[Easy][e]  |[![l]][581l]
 589 |[N-ary Tree Preorder Traversal][589]                               |[![p]][589sp]                                  |[Easy][e]  |[![l]][589l]
 590 |[N-ary Tree Postorder Traversal][590]                              |[![p]][590sp]                                  |[Easy][e]  |[![l]][590l]
 598 |[Range Addition II][598]                                           |[![r]][598sr]                                  |[Easy][e]  |[![l]][598l]
@@ -403,6 +404,7 @@
 [566]:./Easy/0566-Reshape%20the%20Matrix/README.md#566-reshape-the-matrix
 [572]:./Easy/0572-Subtree%20of%20Another%20Tree/README.md#572-subtree-of-another-tree
 [575]:./Easy/0575-Distribute%20Candies/README.md#575-distribute-candies
+[581]:./Easy/0581-Shortest%20Unsorted%20Continuous%20Subarray/README.md#581-shortest-unsorted-continuous-subarray
 [589]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal/README.md#589-n-ary-tree-preorder-traversal
 [590]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#590-n-ary-tree-postorder-traversal
 [598]:./Easy/0598-Range%20Addition%20II/README.md#598-range-addition-ii
@@ -655,6 +657,7 @@
 [566sr]:./Easy/0566-Reshape%20the%20Matrix/README.md#solutions-rust
 [572sp]:./Easy/0572-Subtree%20of%20Another%20Tree/README.md#solutions-python
 [575sr]:./Easy/0575-Distribute%20Candies/README.md#solutions-rust
+[581sr]:./Easy/0581-Shortest%20Unsorted%20Continuous%20Subarray/README.md#solutions-rust
 [589sp]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal/README.md#solutions-python
 [590sp]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#solutions-python
 [598sr]:./Easy/0598-Range%20Addition%20II/README.md#solutions-rust
@@ -941,6 +944,7 @@
 [566l]:https://leetcode.com/problems/reshape-the-matrix/
 [572l]:https://leetcode.com/problems/subtree-of-another-tree/
 [575l]:https://leetcode.com/problems/distribute-candies/
+[581l]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 [589l]:https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 [590l]:https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 [598l]:https://leetcode.com/problems/range-addition-ii/
