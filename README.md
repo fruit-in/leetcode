@@ -152,6 +152,7 @@
 590 |[N-ary Tree Postorder Traversal][590]                              |[![p]][590sp]                                  |[Easy][e]  |[![l]][590l]
 594 |[Longest Harmonious Subsequence][594]                              |[![r]][594sr]                                  |[Easy][e]  |[![l]][594l]
 598 |[Range Addition II][598]                                           |[![r]][598sr]                                  |[Easy][e]  |[![l]][598l]
+599 |[Minimum Index Sum of Two Lists][599]                              |[![r]][599sr]                                  |[Easy][e]  |[![l]][599l]
 605 |[Can Place Flowers][605]                                           |[![r]][605sr]                                  |[Easy][e]  |[![l]][605l]
 606 |[Construct String from Binary Tree][606]                           |[![p]][606sp]                                  |[Easy][e]  |[![l]][606l]
 617 |[Merge Two Binary Trees][617]                                      |[![p]][617sp]                                  |[Easy][e]  |[![l]][617l]
@@ -410,6 +411,7 @@
 [590]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#590-n-ary-tree-postorder-traversal
 [594]:./Easy/0594-Longest%20Harmonious%20Subsequence/README.md#594-longest-harmonious-subsequence
 [598]:./Easy/0598-Range%20Addition%20II/README.md#598-range-addition-ii
+[599]:./Easy/0599-Minimum%20Index%20Sum%20of%20Two%20Lists/README.md#599-minimum-index-sum-of-two-lists
 [605]:./Easy/0605-Can%20Place%20Flowers/README.md#605-can-place-flowers
 [606]:./Easy/0606-Construct%20String%20from%20Binary%20Tree/README.md#606-construct-string-from-binary-tree
 [617]:./Easy/0617-Merge%20Two%20Binary%20Trees/README.md#617-merge-two-binary-trees
@@ -664,6 +666,7 @@
 [590sp]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#solutions-python
 [594sr]:./Easy/0594-Longest%20Harmonious%20Subsequence/README.md#solutions-rust
 [598sr]:./Easy/0598-Range%20Addition%20II/README.md#solutions-rust
+[599sr]:./Easy/0599-Minimum%20Index%20Sum%20of%20Two%20Lists/README.md#solutions-rust
 [605sr]:./Easy/0605-Can%20Place%20Flowers/README.md#solutions-rust
 [606sp]:./Easy/0606-Construct%20String%20from%20Binary%20Tree/README.md#solutions-python
 [617sp]:./Easy/0617-Merge%20Two%20Binary%20Trees/README.md#solutions-python
