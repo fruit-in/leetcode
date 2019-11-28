@@ -159,6 +159,7 @@
 622 |[Design Circular Queue][622]                                       |[![r]][622sr]                                  |[Medium][m]|[![l]][622l]
 628 |[Maximum Product of Three Numbers][628]                            |[![p]][628sp]                                  |[Easy][e]  |[![l]][628l]
 633 |[Sum of Square Numbers][633]                                       |[![r]][633sr]                                  |[Easy][e]  |[![l]][633l]
+637 |[Average of Levels in Binary Tree][637]                            |[![p]][637sp]                                  |[Easy][e]  |[![l]][637l]
 654 |[Maximum Binary Tree][654]                                         |[![p]][654sp]                                  |[Medium][m]|[![l]][654l]
 657 |[Robot Return to Origin][657]                                      |[![p]][657sp]&nbsp;[![r]][657sr]               |[Easy][e]  |[![l]][657l]
 661 |[Image Smoother][661]                                              |[![r]][661sr]                                  |[Easy][e]  |[![l]][661l]
@@ -419,6 +420,7 @@
 [622]:./Medium/0622-Design%20Circular%20Queue/README.md#622-design-circular-queue
 [628]:./Easy/0628-Maximum%20Product%20of%20Three%20Numbers/README.md#628-maximum-product-of-three-numbers
 [633]:./Easy/0633-Sum%20of%20Square%20Numbers/README.md#633-sum-of-square-numbers
+[637]:./Easy/0637-Average%20of%20Levels%20in%20Binary%20Tree/README.md#637-average-of-levels-in-binary-tree
 [654]:./Medium/0654-Maximum%20Binary%20Tree/README.md#654-maximum-binary-tree
 [657]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#657-robot-return-to-origin
 [661]:./Easy/0661-Image%20Smoother/README.md#661-image-smoother
@@ -675,6 +677,7 @@
 [622sr]:./Medium/0622-Design%20Circular%20Queue/README.md#solutions-rust
 [628sp]:./Easy/0628-Maximum%20Product%20of%20Three%20Numbers/README.md#solutions-python
 [633sr]:./Easy/0633-Sum%20of%20Square%20Numbers/README.md#solutions-rust
+[637sp]:./Easy/0637-Average%20of%20Levels%20in%20Binary%20Tree/README.md#solutions-python
 [654sp]:./Medium/0654-Maximum%20Binary%20Tree/README.md#solutions-python
 [657sp]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#solutions-python
 [657sr]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#solutions-rust
@@ -965,6 +968,7 @@
 [622l]:https://leetcode.com/problems/design-circular-queue/
 [628l]:https://leetcode.com/problems/maximum-product-of-three-numbers/
 [633l]:https://leetcode.com/problems/sum-of-square-numbers/
+[637l]:https://leetcode.com/problems/average-of-levels-in-binary-tree/
 [648l]:https://leetcode.com/problems/replace-words/
 [652l]:https://leetcode.com/problems/find-duplicate-subtrees/
 [654l]:https://leetcode.com/problems/maximum-binary-tree/
