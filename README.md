@@ -161,6 +161,7 @@
 633 |[Sum of Square Numbers][633]                                       |[![r]][633sr]                                  |[Easy][e]  |[![l]][633l]
 637 |[Average of Levels in Binary Tree][637]                            |[![p]][637sp]                                  |[Easy][e]  |[![l]][637l]
 643 |[Maximum Average Subarray I][643]                                  |[![r]][643sr]                                  |[Easy][e]  |[![l]][643l]
+645 |[Set Mismatch][645]                                                |[![r]][645sr]                                  |[Easy][e]  |[![l]][645l]
 654 |[Maximum Binary Tree][654]                                         |[![p]][654sp]                                  |[Medium][m]|[![l]][654l]
 657 |[Robot Return to Origin][657]                                      |[![p]][657sp]&nbsp;[![r]][657sr]               |[Easy][e]  |[![l]][657l]
 661 |[Image Smoother][661]                                              |[![r]][661sr]                                  |[Easy][e]  |[![l]][661l]
@@ -423,6 +424,7 @@
 [633]:./Easy/0633-Sum%20of%20Square%20Numbers/README.md#633-sum-of-square-numbers
 [637]:./Easy/0637-Average%20of%20Levels%20in%20Binary%20Tree/README.md#637-average-of-levels-in-binary-tree
 [643]:./Easy/0643-Maximum%20Average%20Subarray%20I/README.md#643-maximum-average-subarray-i
+[645]:./Easy/0645-Set%20Mismatch/README.md#645-set-mismatch
 [654]:./Medium/0654-Maximum%20Binary%20Tree/README.md#654-maximum-binary-tree
 [657]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#657-robot-return-to-origin
 [661]:./Easy/0661-Image%20Smoother/README.md#661-image-smoother
@@ -681,6 +683,7 @@
 [633sr]:./Easy/0633-Sum%20of%20Square%20Numbers/README.md#solutions-rust
 [637sp]:./Easy/0637-Average%20of%20Levels%20in%20Binary%20Tree/README.md#solutions-python
 [643sr]:./Easy/0643-Maximum%20Average%20Subarray%20I/README.md#solutions-rust
+[645sr]:./Easy/0645-Set%20Mismatch/README.md#solutions-rust
 [654sp]:./Medium/0654-Maximum%20Binary%20Tree/README.md#solutions-python
 [657sp]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#solutions-python
 [657sr]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#solutions-rust
@@ -973,6 +976,7 @@
 [633l]:https://leetcode.com/problems/sum-of-square-numbers/
 [637l]:https://leetcode.com/problems/average-of-levels-in-binary-tree/
 [643l]:https://leetcode.com/problems/maximum-average-subarray-i/
+[645l]:https://leetcode.com/problems/set-mismatch/
 [648l]:https://leetcode.com/problems/replace-words/
 [652l]:https://leetcode.com/problems/find-duplicate-subtrees/
 [654l]:https://leetcode.com/problems/maximum-binary-tree/
