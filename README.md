@@ -211,6 +211,7 @@
 944 |[Delete Columns to Make Sorted][944]                               |[![p]][944sp]                                  |[Easy][e]  |[![l]][944l]
 965 |[Univalued Binary Tree][965]                                       |[![p]][965sp]                                  |[Easy][e]  |[![l]][965l]
 969 |[Pancake Sorting][969]                                             |[![p]][969sp]                                  |[Medium][m]|[![l]][969l]
+970 |[Powerful Integers][970]                                           |[![r]][970sr]                                  |[Easy][e]  |[![l]][970l]
 985 |[Sum of Even Numbers After Queries][985]                           |[![p]][985sp]                                  |[Easy][e]  |[![l]][985l]
 989 |[Add to Array-Form of Interger][989]                               |[![p]][989sp]                                  |[Easy][e]  |[![l]][989l]
 993 |[Cousins in Binary Tree][993]                                      |[![p]][993sp]                                  |[Easy][e]  |[![l]][993l]
@@ -474,6 +475,7 @@
 [944]:./Easy/0944-Delete%20Columns%20to%20Make%20Sorted/README.md#944-delete-columns-to-make-sorted
 [965]:./Easy/0965-Univalued%20Binary%20Tree/README.md#965-univalued-binary-tree
 [969]:./Medium/0969-Pancake%20Sorting/README.md#969-pancake-sorting
+[970]:./Easy/0970-Powerful%20Integers/README.md#970-powerful-integers
 [985]:./Easy/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README.md#985-sum-of-even-numbers-after-queries
 [989]:./Easy/0989-Add%20to%20Array-Form%20of%20Interger/README.md#989-add-to-array-form-of-interger
 [993]:./Easy/0993-Cousins%20in%20Binary%20Tree/README.md#993-cousins-in-binary-tree
@@ -734,6 +736,7 @@
 [944sp]:./Easy/0944-Delete%20Columns%20to%20Make%20Sorted/README.md#solutions-python
 [965sp]:./Easy/0965-Univalued%20Binary%20Tree/README.md#solutions-python
 [969sp]:./Medium/0969-Pancake%20Sorting/README.md#solutions-python
+[970sr]:./Easy/0970-Powerful%20Integers/README.md#solutions-rust
 [985sp]:./Easy/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README.md#solutions-python
 [989sp]:./Easy/0989-Add%20to%20Array-Form%20of%20Interger/README.md#solutions-python
 [993sp]:./Easy/0993-Cousins%20in%20Binary%20Tree/README.md#solutions-python
@@ -1035,6 +1038,7 @@
 [944l]:https://leetcode.com/problems/delete-columns-to-make-sorted/
 [965l]:https://leetcode.com/problems/univalued-binary-tree/
 [969l]:https://leetcode.com/problems/pancake-sorting/
+[970l]:https://leetcode.com/problems/powerful-integers/
 [985l]:https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [989l]:https://leetcode.com/problems/add-to-array-form-of-interger/
 [993l]:https://leetcode.com/problems/cousins-in-binary-tree/
