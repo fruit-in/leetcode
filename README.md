@@ -198,6 +198,7 @@
 868 |[Binary Gap][868]                                                  |[![r]][868sr]                                  |[Easy][e]  |[![l]][868l]
 872 |[Leaf-Similar Trees][872]                                          |[![p]][872sp]                                  |[Easy][e]  |[![l]][872l]
 876 |[Middle of the Linked List][876]                                   |[![p]][876sp]                                  |[Easy][e]  |[![l]][876l]
+892 |[Surface Area of 3D Shapes][892]                                   |[![r]][892sr]                                  |[Easy][e]  |[![l]][892l]
 905 |[Sort Array By Parity][905]                                        |[![r]][905sr]                                  |[Easy][e]  |[![l]][905l]
 908 |[Smallest Range I][908]                                            |[![r]][908sr]                                  |[Easy][e]  |[![l]][908l]
 912 |[Sort an Array][912]                                               |[![r]][912sr]                                  |[Medium][m]|[![l]][912l]
@@ -462,6 +463,7 @@
 [868]:./Easy/0868-Binary%20Gap/README.md#868-binary-gap
 [872]:./Easy/0872-Leaf-Similar%20Trees/README.md#872-leaf-similar-trees
 [876]:./Easy/0876-Middle%20of%20the%20Linked%20List/README.md#876-middle-of-the-linked-list
+[892]:./Easy/0892-Surface%20Area%20of%203D%20Shapes/README.md#892-surface-area-of-3d-shapes
 [905]:./Easy/0905-Sort%20Array%20By%20Parity/README.md#905-sort-array-by-parity
 [908]:./Easy/0908-Smallest%20Range%20I/README.md#908-smallest-range-i
 [912]:./Medium/0912-Sort%20an%20Array/README.md#912-sort-an-array
@@ -723,6 +725,7 @@
 [868sr]:./Easy/0868-Binary%20Gap/README.md#solutions-rust
 [872sp]:./Easy/0872-Leaf-Similar%20Trees/README.md#solutions-python
 [876sp]:./Easy/0876-Middle%20of%20the%20Linked%20List/README.md#solutions-python
+[892sr]:./Easy/0892-Surface%20Area%20of%203D%20Shapes/README.md#solutions-rust
 [905sr]:./Easy/0905-Sort%20Array%20By%20Parity/README.md#solutions-rust
 [908sr]:./Easy/0908-Smallest%20Range%20I/README.md#solutions-rust
 [912sr]:./Medium/0912-Sort%20an%20Array/README.md#solutions-rust
@@ -1025,6 +1028,7 @@
 [868l]:https://leetcode.com/problems/binary-gap/
 [872l]:https://leetcode.com/problems/leaf-similar-trees/
 [876l]:https://leetcode.com/problems/middle-of-the-linked-list/
+[892l]:https://leetcode.com/problems/surface-area-of-3d-shapes/
 [905l]:https://leetcode.com/problems/sort-array-by-parity/
 [908l]:https://leetcode.com/problems/smallest-range-i/
 [912l]:https://leetcode.com/problems/sort-an-array/
