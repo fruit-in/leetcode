@@ -168,6 +168,7 @@
 [661][661l]  |[Image Smoother][661]                                         |![r]
 [665][665l]  |[Non-decreasing Array][665]                                   |![p]
 [669][669l]  |[Trim a Binary Search Tree][669]                              |![p]
+[671][671l]  |[Second Minimum Node In a Binary Tree][671]                   |![p]
 [682][682l]  |[Baseball Game][682]                                          |![p]
 [693][693l]  |[Binary Number with Alternating Bits][693]                    |![r]
 [700][700l]  |[Search in a Binary Search Tree][700]                         |![p]
@@ -432,6 +433,7 @@
 [661]:./Easy/0661-Image%20Smoother/README.md#661-image-smoother
 [665]:./Easy/0665-Non-decreasing%20Array/README.md#665-non-decreasing-array
 [669]:./Easy/0669-Trim%20a%20Binary%20Search%20Tree/README.md#669-trim-a-binary-search-tree
+[671]:./Easy/0671-Second%20Minimum%20Node%20In%20a%20Binary%20Tree/README.md#671-second-minimum-node-in-a-binary-tree
 [682]:./Easy/0682-Baseball%20Game/README.md#682-baseball-game
 [693]:./Easy/0693-Binary%20Number%20with%20Alternating%20Bits/README.md#693-binary-number-with-alternating-bits
 [700]:./Easy/0700-Search%20in%20a%20Binary%20Search%20Tree/README.md#700-search-in-a-binary-search-tree
@@ -731,6 +733,7 @@
 [661l]:https://leetcode.com/problems/image-smoother/
 [665l]:https://leetcode.com/problems/non-decreasing-array/
 [669l]:https://leetcode.com/problems/trim-a-binary-search-tree/
+[671l]:https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
 [677l]:https://leetcode.com/problems/map-sum-pairs/
 [682l]:https://leetcode.com/problems/baseball-game/
 [693l]:https://leetcode.com/problems/binary-number-with-alternating-bits/
