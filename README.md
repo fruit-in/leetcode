@@ -220,6 +220,7 @@
 [965][965l]  |[Univalued Binary Tree][965]                                  |![p]
 [969][969l]  |[Pancake Sorting][969]                                        |![p]
 [970][970l]  |[Powerful Integers][970]                                      |![r]
+[976][976l]  |[Largest Perimeter Triangle][976]                             |![r]
 [985][985l]  |[Sum of Even Numbers After Queries][985]                      |![p]
 [989][989l]  |[Add to Array-Form of Interger][989]                          |![p]
 [993][993l]  |[Cousins in Binary Tree][993]                                 |![p]
@@ -488,6 +489,7 @@
 [965]:./Easy/0965-Univalued%20Binary%20Tree/README.md#965-univalued-binary-tree
 [969]:./Medium/0969-Pancake%20Sorting/README.md#969-pancake-sorting
 [970]:./Easy/0970-Powerful%20Integers/README.md#970-powerful-integers
+[976]:./Easy/0976-Largest%20Perimeter%20Triangle/README.md#976-largest-perimeter-triangle
 [985]:./Easy/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README.md#985-sum-of-even-numbers-after-queries
 [989]:./Easy/0989-Add%20to%20Array-Form%20of%20Interger/README.md#989-add-to-array-form-of-interger
 [993]:./Easy/0993-Cousins%20in%20Binary%20Tree/README.md#993-cousins-in-binary-tree
@@ -798,6 +800,7 @@
 [965l]:https://leetcode.com/problems/univalued-binary-tree/
 [969l]:https://leetcode.com/problems/pancake-sorting/
 [970l]:https://leetcode.com/problems/powerful-integers/
+[976l]:https://leetcode.com/problems/largest-perimeter-triangle/
 [985l]:https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [989l]:https://leetcode.com/problems/add-to-array-form-of-interger/
 [993l]:https://leetcode.com/problems/cousins-in-binary-tree/
