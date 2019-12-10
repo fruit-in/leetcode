@@ -173,6 +173,7 @@
 [680][680l]  |[Valid Palindrome II][680]                                    |![p]
 [682][682l]  |[Baseball Game][682]                                          |![p]
 [686][686l]  |[Repeated String Match][686]                                  |![p]
+[687][687l]  |[Longest Univalue Path][687]                                  |![p]
 [693][693l]  |[Binary Number with Alternating Bits][693]                    |![r]
 [700][700l]  |[Search in a Binary Search Tree][700]                         |![p]
 [701][701l]  |[Insert into a Binary Search Tree][701]                       |![p]
@@ -442,6 +443,7 @@
 [680]:./Easy/0680-Valid%20Palindrome%20II/README.md#680-valid-palindrome-ii
 [682]:./Easy/0682-Baseball%20Game/README.md#682-baseball-game
 [686]:./Easy/0686-Repeated%20String%20Match/README.md#686-repeated-string-match
+[687]:./Easy/0687-Longest%20Univalue%20Path/README.md#687-longest-univalue-path
 [693]:./Easy/0693-Binary%20Number%20with%20Alternating%20Bits/README.md#693-binary-number-with-alternating-bits
 [700]:./Easy/0700-Search%20in%20a%20Binary%20Search%20Tree/README.md#700-search-in-a-binary-search-tree
 [701]:./Medium/0701-Insert%20into%20a%20Binary%20Search%20Tree/README.md#701-insert-into-a-binary-search-tree
@@ -747,6 +749,7 @@
 [680l]:https://leetcode.com/problems/valid-palindrome-ii/
 [682l]:https://leetcode.com/problems/baseball-game/
 [686l]:https://leetcode.com/problems/repeated-string-match/
+[687l]:https://leetcode.com/problems/longest-univalue-path/
 [693l]:https://leetcode.com/problems/binary-number-with-alternating-bits/
 [700l]:https://leetcode.com/problems/search-in-a-binary-search-tree/
 [701l]:https://leetcode.com/problems/insert-into-a-binary-search-tree/
