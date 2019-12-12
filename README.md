@@ -180,6 +180,7 @@
 [697][697l]  |[Degree of an Array][697]                                     |![r]
 [700][700l]  |[Search in a Binary Search Tree][700]                         |![p]
 [701][701l]  |[Insert into a Binary Search Tree][701]                       |![p]
+[703][703l]  |[Kth Largest Element in a Stream][703]                        |![r]
 [704][704l]  |[Binary Search][704]                                          |![r]
 [705][705l]  |[Design HashSet][705]                                         |![r]
 [706][706l]  |[Design HashMap][706]                                         |![r]
@@ -453,6 +454,7 @@
 [697]:./Easy/0697-Degree%20of%20an%20Array/README.md#697-degree-of-an-array
 [700]:./Easy/0700-Search%20in%20a%20Binary%20Search%20Tree/README.md#700-search-in-a-binary-search-tree
 [701]:./Medium/0701-Insert%20into%20a%20Binary%20Search%20Tree/README.md#701-insert-into-a-binary-search-tree
+[703]:./Easy/0703-Kth%20Largest%20Element%20in%20a%20Stream/README.md#703-kth-largest-element-in-a-stream
 [704]:./Easy/0704-Binary%20Search/README.md#704-binary-search
 [705]:./Easy/0705-Design%20HashSet/README.md#705-design-hashset
 [706]:./Easy/0706-Design%20HashMap/README.md#706-design-hashmap
