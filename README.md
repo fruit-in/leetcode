@@ -177,6 +177,7 @@
 [690][690l]  |[Employee Importance][690]                                    |![p]
 [693][693l]  |[Binary Number with Alternating Bits][693]                    |![r]
 [696][696l]  |[Count Binary Substrings][696]                                |![p]
+[697][697l]  |[Degree of an Array][697]                                     |![r]
 [700][700l]  |[Search in a Binary Search Tree][700]                         |![p]
 [701][701l]  |[Insert into a Binary Search Tree][701]                       |![p]
 [704][704l]  |[Binary Search][704]                                          |![r]
@@ -449,6 +450,7 @@
 [690]:./Easy/0690-Employee%20Importance/README.md#690-employee-importance
 [693]:./Easy/0693-Binary%20Number%20with%20Alternating%20Bits/README.md#693-binary-number-with-alternating-bits
 [696]:./Easy/0696-Count%20Binary%20Substrings/README.md#696-count-binary-substrings
+[697]:./Easy/0697-Degree%20of%20an%20Array/README.md#697-degree-of-an-array
 [700]:./Easy/0700-Search%20in%20a%20Binary%20Search%20Tree/README.md#700-search-in-a-binary-search-tree
 [701]:./Medium/0701-Insert%20into%20a%20Binary%20Search%20Tree/README.md#701-insert-into-a-binary-search-tree
 [704]:./Easy/0704-Binary%20Search/README.md#704-binary-search
@@ -757,6 +759,7 @@
 [690l]:https://leetcode.com/problems/employee-importance/
 [693l]:https://leetcode.com/problems/binary-number-with-alternating-bits/
 [696l]:https://leetcode.com/problems/count-binary-substrings/
+[697l]:https://leetcode.com/problems/degree-of-an-array/
 [700l]:https://leetcode.com/problems/search-in-a-binary-search-tree/
 [701l]:https://leetcode.com/problems/insert-into-a-binary-search-tree/
 [703l]:https://leetcode.com/problems/kth-largest-element-in-a-stream/
