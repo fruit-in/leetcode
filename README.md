@@ -186,6 +186,7 @@
 [706][706l]  |[Design HashMap][706]                                         |![r]
 [709][709l]  |[To Lower Case][709]                                          |![r]
 [717][717l]  |[1-bit and 2-bit Characters][717]                             |![r]
+[720][720l]  |[Longest Word in Dictionary][720]                             |![p]
 [724][724l]  |[Find Pivot Index][724]                                       |![r]
 [728][728l]  |[Self Dividing Numbers][728]                                  |![p]
 [733][733l]  |[Flood Fill][733]                                             |![r]
@@ -460,6 +461,7 @@
 [706]:./Easy/0706-Design%20HashMap/README.md#706-design-hashmap
 [709]:./Easy/0709-To%20Lower%20Case/README.md#709-to-lower-case
 [717]:./Easy/0717-1-bit%20and%202-bit%20Characters/README.md#717-1-bit-and-2-bit-characters
+[720]:./Easy/0720-Longest%20Word%20in%20Dictionary/README.md#720-longest-word-in-dictionary
 [724]:./Easy/0724-Find%20Pivot%20Index/README.md#724-find-pivot-index
 [728]:./Easy/0728-Self%20Dividing%20Numbers/README.md#728-self-dividing-numbers
 [733]:./Easy/0733-Flood%20Fill/README.md#733-flood-fill
@@ -771,6 +773,7 @@
 [707l]:https://leetcode.com/problems/design-linked-list/
 [709l]:https://leetcode.com/problems/to-lower-case/
 [717l]:https://leetcode.com/problems/1-bit-and-2-bit-characters/
+[720l]:https://leetcode.com/problems/longest-word-in-dictionary/
 [724l]:https://leetcode.com/problems/find-pivot-index/
 [728l]:https://leetcode.com/problems/self-dividing-numbers/
 [733l]:https://leetcode.com/problems/flood-fill/
