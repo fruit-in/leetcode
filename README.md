@@ -193,6 +193,7 @@
 [744][744l]  |[Find Smallest Letter Greater Than Target][744]               |![r]
 [746][746l]  |[Min Cost Climbing Stairs][746]                               |![r]
 [747][747l]  |[Largest Number At Least Twice of Others][747]                |![r]
+[748][748l]  |[Shortest Completing Word][748]                               |![p]
 [754][754l]  |[Reach a Number][754]                                         |![r]
 [762][762l]  |[Prime Number of Set Bits in Binary Representation][762]      |![p]
 [771][771l]  |[Jewels and Stones][771]                                      |![r]
@@ -468,6 +469,7 @@
 [744]:./Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README.md#744-find-smallest-letter-greater-than-target
 [746]:./Easy/0746-Min%20Cost%20Climbing%20Stairs/README.md#746-min-cost-climbing-stairs
 [747]:./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README.md#747-largest-number-at-least-twice-of-others
+[748]:./Easy/0748-Shortest%20Completing%20Word/README.md#748-shortest-completing-word
 [754]:./Easy/0754-Reach%20a%20Number/README.md#754-reach-a-number
 [762]:./Easy/0762-Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/README.md#762-prime-number-of-set-bits-in-binary-representation
 [771]:./Easy/0771-Jewels%20and%20Stones/README.md#771-jewels-and-stones
@@ -781,6 +783,7 @@
 [744l]:https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 [746l]:https://leetcode.com/problems/min-cost-climbing-stairs/
 [747l]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/
+[748l]:https://leetcode.com/problems/shortest-completing-word/
 [752l]:https://leetcode.com/problems/open-the-lock/
 [754l]:https://leetcode.com/problems/reach-a-number/
 [762l]:https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
