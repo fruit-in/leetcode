@@ -196,6 +196,7 @@
 [748][748l]  |[Shortest Completing Word][748]                               |![p]
 [754][754l]  |[Reach a Number][754]                                         |![r]
 [762][762l]  |[Prime Number of Set Bits in Binary Representation][762]      |![p]
+[766][766l]  |[Toeplitz Matrix][766]                                        |![r]
 [771][771l]  |[Jewels and Stones][771]                                      |![r]
 [804][804l]  |[Unique Morse Code Words][804]                                |![p]
 [806][806l]  |[Number of Lines To Write String][806]                        |![p]
@@ -472,6 +473,7 @@
 [748]:./Easy/0748-Shortest%20Completing%20Word/README.md#748-shortest-completing-word
 [754]:./Easy/0754-Reach%20a%20Number/README.md#754-reach-a-number
 [762]:./Easy/0762-Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/README.md#762-prime-number-of-set-bits-in-binary-representation
+[766]:./Easy/0766-Toeplitz%20Matrix/README.md#766-toeplitz-matrix
 [771]:./Easy/0771-Jewels%20and%20Stones/README.md#771-jewels-and-stones
 [804]:./Easy/0804-Unique%20Morse%20Code%20Words/README.md#804-unique-morse-code-words
 [806]:./Easy/0806-Number%20of%20Lines%20To%20Write%20String/README.md#806-number-of-lines-to-write-string
@@ -787,6 +789,7 @@
 [752l]:https://leetcode.com/problems/open-the-lock/
 [754l]:https://leetcode.com/problems/reach-a-number/
 [762l]:https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
+[766l]:https://leetcode.com/problems/toeplitz-matrix/
 [771l]:https://leetcode.com/problems/jewels-and-stones/
 [779l]:https://leetcode.com/problems/k-th-symbol-in-grammar/
 [804l]:https://leetcode.com/problems/unique-morse-code-words/
