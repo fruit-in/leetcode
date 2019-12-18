@@ -204,6 +204,7 @@
 [796][796l]  |[Rotate String][796]                                          |![r]
 [804][804l]  |[Unique Morse Code Words][804]                                |![p]
 [806][806l]  |[Number of Lines To Write String][806]                        |![p]
+[811][811l]  |[Subdomain Visit Count][811]                                  |![r]
 [812][812l]  |[Largest Triangle Area][812]                                  |![r]
 [824][824l]  |[Goat Latin][824]                                             |![p]
 [830][830l]  |[Positions of Large Groups][830]                              |![r]
@@ -485,6 +486,7 @@
 [796]:./Easy/0796-Rotate%20String/README.md#796-rotate-string
 [804]:./Easy/0804-Unique%20Morse%20Code%20Words/README.md#804-unique-morse-code-words
 [806]:./Easy/0806-Number%20of%20Lines%20To%20Write%20String/README.md#806-number-of-lines-to-write-string
+[811]:./Easy/0811-Subdomain%20Visit%20Count/README.md#811-subdomain-visit-count
 [812]:./Easy/0812-Largest%20Triangle%20Area/README.md#812-largest-triangle-area
 [824]:./Easy/0824-Goat%20Latin/README.md#824-goat-latin
 [830]:./Easy/0830-Positions%20of%20Large%20Groups/README.md#830-positions-of-large-groups
@@ -806,6 +808,7 @@
 [796l]:https://leetcode.com/problems/rotate-string/
 [804l]:https://leetcode.com/problems/unique-morse-code-words/
 [806l]:https://leetcode.com/problems/number-of-lines-to-write-string/
+[811l]:https://leetcode.com/problems/subdomain-visit-count/
 [812l]:https://leetcode.com/problems/largest-triangle-area/
 [824l]:https://leetcode.com/problems/goat-latin/
 [830l]:https://leetcode.com/problems/positions-of-large-groups/
