@@ -207,6 +207,7 @@
 [811][811l]  |[Subdomain Visit Count][811]                                  |![r]
 [812][812l]  |[Largest Triangle Area][812]                                  |![r]
 [819][819l]  |[Most Common Word][819]                                       |![p]
+[821][821l]  |[Shortest Distance to a Character][821]                       |![p]
 [824][824l]  |[Goat Latin][824]                                             |![p]
 [830][830l]  |[Positions of Large Groups][830]                              |![r]
 [832][832l]  |[Flipping an Image][832]                                      |![p]
@@ -490,6 +491,7 @@
 [811]:./Easy/0811-Subdomain%20Visit%20Count/README.md#811-subdomain-visit-count
 [812]:./Easy/0812-Largest%20Triangle%20Area/README.md#812-largest-triangle-area
 [819]:./Easy/0819-Most%20Common%20Word/README.md#819-most-common-word
+[821]:./Easy/0821-Shortest%20Distance%20to%20a%20Character/README.md#821-shortest-distance-to-a-character
 [824]:./Easy/0824-Goat%20Latin/README.md#824-goat-latin
 [830]:./Easy/0830-Positions%20of%20Large%20Groups/README.md#830-positions-of-large-groups
 [832]:./Easy/0832-Flipping%20an%20Image/README.md#832-flipping-an-image
@@ -813,6 +815,7 @@
 [811l]:https://leetcode.com/problems/subdomain-visit-count/
 [812l]:https://leetcode.com/problems/largest-triangle-area/
 [819l]:https://leetcode.com/problems/most-common-word/
+[821l]:https://leetcode.com/problems/shortest-distance-to-a-character/
 [824l]:https://leetcode.com/problems/goat-latin/
 [830l]:https://leetcode.com/problems/positions-of-large-groups/
 [832l]:https://leetcode.com/problems/flipping-an-image/
