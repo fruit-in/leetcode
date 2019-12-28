@@ -246,6 +246,7 @@
 [942][942l]  |[DI String Match][942]                                        |![p]
 [944][944l]  |[Delete Columns to Make Sorted][944]                          |![p]
 [949][949l]  |[Largest Time for Given Digits][949]                          |![p]
+[953][953l]  |[Verifying an Alien Dictionary][953]                          |![p]
 [965][965l]  |[Univalued Binary Tree][965]                                  |![p]
 [969][969l]  |[Pancake Sorting][969]                                        |![p]
 [970][970l]  |[Powerful Integers][970]                                      |![r]
@@ -544,6 +545,7 @@
 [942]:./Easy/0942-DI%20String%20Match/README.md#942-di-string-match
 [944]:./Easy/0944-Delete%20Columns%20to%20Make%20Sorted/README.md#944-delete-columns-to-make-sorted
 [949]:./Easy/0949-Largest%20Time%20for%20Given%20Digits/README.md#949-largest-time-for-given-digits
+[953]:./Easy/0953-Verifying%20an%20Alien%20Dictionary/README.md#953-verifying-an-alien-dictionary
 [965]:./Easy/0965-Univalued%20Binary%20Tree/README.md#965-univalued-binary-tree
 [969]:./Medium/0969-Pancake%20Sorting/README.md#969-pancake-sorting
 [970]:./Easy/0970-Powerful%20Integers/README.md#970-powerful-integers
@@ -883,6 +885,7 @@
 [942l]:https://leetcode.com/problems/di-string-match/
 [944l]:https://leetcode.com/problems/delete-columns-to-make-sorted/
 [949l]:https://leetcode.com/problems/largest-time-for-given-digits/
+[953l]:https://leetcode.com/problems/verifying-an-alien-dictionary/
 [965l]:https://leetcode.com/problems/univalued-binary-tree/
 [969l]:https://leetcode.com/problems/pancake-sorting/
 [970l]:https://leetcode.com/problems/powerful-integers/
