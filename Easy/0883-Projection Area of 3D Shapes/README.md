@@ -30,7 +30,6 @@ Here are the three projections ("shadows") of the shape made with each axis-alig
 <pre>
 <strong>Input:</strong> [[1,0],[0,2]]
 <strong>Output:</strong> 8
-<strong>Explanation:</strong> 
 </pre>
 
 #### Example 4:
