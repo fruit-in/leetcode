@@ -257,6 +257,7 @@
 [989][989l]  |[Add to Array-Form of Interger][989]                          |![p]
 [993][993l]  |[Cousins in Binary Tree][993]                                 |![p]
 [994][994l]  |[Rotting Oranges][994]                                        |![r]
+[997][997l]  |[Find the Town Judge][997]                                    |![r]
 [1002][1002l]|[Find Common Characters][1002]                                |![p]
 [1005][1005l]|[Maximize Sum Of Array After K Negations][1005]               |![r]
 [1009][1009l]|[Complement of Base 10 Integer][1009]                         |![r]
@@ -559,6 +560,7 @@
 [989]:./Easy/0989-Add%20to%20Array-Form%20of%20Interger/README.md#989-add-to-array-form-of-interger
 [993]:./Easy/0993-Cousins%20in%20Binary%20Tree/README.md#993-cousins-in-binary-tree
 [994]:./Easy/0994-Rotting%20Oranges/README.md#994-rotting-oranges
+[997]:./Easy/0997-Find%20the%20Town%20Judge/README.md#997-find-the-town-judge
 [1002]:./Easy/1002-Find%20Common%20Characters/README.md#1002-find-common-characters
 [1005]:./Easy/1005-Maximize%20Sum%20Of%20Array%20After%20K%20Negations/README.md#1005-maximize-sum-of-array-after-k-negations
 [1009]:./Easy/1009-Complement%20of%20Base%2010%20Integer/README.md#1009-complement-of-base-10-integer
@@ -902,6 +904,7 @@
 [989l]:https://leetcode.com/problems/add-to-array-form-of-interger/
 [993l]:https://leetcode.com/problems/cousins-in-binary-tree/
 [994l]:https://leetcode.com/problems/rotting-oranges/
+[997l]:https://leetcode.com/problems/find-the-town-judge/
 [1002l]:https://leetcode.com/problems/find-common-characters/
 [1005l]:https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
 [1009l]:https://leetcode.com/problems/complement-of-base-10-integer/
