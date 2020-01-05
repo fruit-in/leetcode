@@ -298,6 +298,7 @@
 [1232][1232l]|[Check If It Is a Straight Line][1232]                        |![r]
 [1237][1237l]|[Find Positive Integer Solution for a Given Equation][1237]   |![p]
 [1247][1247l]|[Minimum Swaps to Make Strings Equal][1247]                   |![p]
+[1252][1252l]|[Cells with Odd Values in a Matrix][1252]                     |![r]
 
 
 [p]:./ico/python.ico
@@ -602,6 +603,7 @@
 [1232]:./Easy/1232-Check%20If%20It%20Is%20a%20Straight%20Line/README.md#1232-check-if-it-is-a-straight-line
 [1237]:./Easy/1237-Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/README.md#1237-find-positive-integer-solution-for-a-given-equation
 [1247]:./Medium/1247-Minimum%20Swaps%20to%20Make%20Strings%20Equal/README.md#1247-minimum-swaps-to-make-strings-equal
+[1252]:./Easy/1252-Cells%20with%20Odd%20Values%20in%20a%20Matrix/README.md#1252-cells-with-odd-values-in-a-matrix
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -947,3 +949,4 @@
 [1232l]:https://leetcode.com/problems/check-if-it-is-a-straight-line/
 [1237l]:https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 [1247l]:https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
+[1252l]:https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
