@@ -300,6 +300,7 @@
 [1247][1247l]|[Minimum Swaps to Make Strings Equal][1247]                   |![p]
 [1252][1252l]|[Cells with Odd Values in a Matrix][1252]                     |![r]
 [1260][1260l]|[Shift 2D Grid][1260]                                         |![r]
+[1266][1266l]|[Minimum Time Visiting All Points][1266]                      |![r]
 
 
 [p]:./ico/python.ico
@@ -606,6 +607,7 @@
 [1247]:./Medium/1247-Minimum%20Swaps%20to%20Make%20Strings%20Equal/README.md#1247-minimum-swaps-to-make-strings-equal
 [1252]:./Easy/1252-Cells%20with%20Odd%20Values%20in%20a%20Matrix/README.md#1252-cells-with-odd-values-in-a-matrix
 [1260]:./Easy/1260-Shift%202D%20Grid/README.md#1260-shift-2d-grid
+[1266]:./Easy/1266-Minimum%20Time%20Visiting%20All%20Points/README.md#1266-minimum-time-visiting-all-points
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -953,3 +955,4 @@
 [1247l]:https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
 [1252l]:https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
 [1260l]:https://leetcode.com/problems/shift-2d-grid/
+[1266l]:https://leetcode.com/problems/minimum-time-visiting-all-points/
