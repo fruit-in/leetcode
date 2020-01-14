@@ -305,6 +305,7 @@
 [1281][1281l]|[Subtract the Product and Sum of Digits of an Integer][1281]  |![r]
 [1290][1290l]|[Convert Binary Number in a Linked List to Integer][1290]     |![p]
 [1295][1295l]|[Find Numbers with Even Number of Digits][1295]               |![p]
+[1299][1299l]|[Replace Elements with Greatest Element on Right Side][1299]  |![r]
 
 
 [p]:./ico/python.ico
@@ -616,6 +617,7 @@
 [1281]:./Easy/1281-Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/README.md#1281-subtract-the-product-and-sum-of-digits-of-an-integer
 [1290]:./Easy/1290-Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/README.md#1290-convert-binary-number-in-a-linked-list-to-integer
 [1295]:./Easy/1295-Find%20Numbers%20with%20Even%20Number%20of%20Digits/README.md#1295-find-numbers-with-even-number-of-digits
+[1299]:./Easy/1299-Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/README.md#1299-replace-elements-with-greatest-element-on-right-side
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -968,3 +970,4 @@
 [1281l]:https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 [1290l]:https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 [1295l]:https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+[1299l]:https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
