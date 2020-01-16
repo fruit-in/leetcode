@@ -303,6 +303,7 @@
 [1266][1266l]|[Minimum Time Visiting All Points][1266]                      |![r]
 [1275][1275l]|[Find Winner on a Tic Tac Toe Game][1275]                     |![r]
 [1281][1281l]|[Subtract the Product and Sum of Digits of an Integer][1281]  |![r]
+[1287][1287l]|[Element Appearing More Than 25% In Sorted Array][1287]       |![r]
 [1290][1290l]|[Convert Binary Number in a Linked List to Integer][1290]     |![p]
 [1295][1295l]|[Find Numbers with Even Number of Digits][1295]               |![p]
 [1299][1299l]|[Replace Elements with Greatest Element on Right Side][1299]  |![r]
@@ -616,6 +617,7 @@
 [1266]:./Easy/1266-Minimum%20Time%20Visiting%20All%20Points/README.md#1266-minimum-time-visiting-all-points
 [1275]:./Easy/1275-Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/README.md#1275-find-winner-on-a-tic-tac-toe-game
 [1281]:./Easy/1281-Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/README.md#1281-subtract-the-product-and-sum-of-digits-of-an-integer
+[1287]:./Easy/1287-Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array/README.md#1287-element-appearing-more-than-25-in-sorted-array
 [1290]:./Easy/1290-Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/README.md#1290-convert-binary-number-in-a-linked-list-to-integer
 [1295]:./Easy/1295-Find%20Numbers%20with%20Even%20Number%20of%20Digits/README.md#1295-find-numbers-with-even-number-of-digits
 [1299]:./Easy/1299-Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/README.md#1299-replace-elements-with-greatest-element-on-right-side
@@ -970,6 +972,7 @@
 [1266l]:https://leetcode.com/problems/minimum-time-visiting-all-points/
 [1275l]:https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
 [1281l]:https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+[1287l]:https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 [1290l]:https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 [1295l]:https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 [1299l]:https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
