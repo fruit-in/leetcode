@@ -310,6 +310,7 @@
 [1295][1295l]|[Find Numbers with Even Number of Digits][1295]               |![p]
 [1299][1299l]|[Replace Elements with Greatest Element on Right Side][1299]  |![r]
 [1304][1304l]|[Find N Unique Integers Sum up to Zero][1304]                 |![r]
+[1309][1309l]|[Decrypt String from Alphabet to Integer Mapping][1309]       |![p]
 
 
 [p]:./ico/python.ico
@@ -624,6 +625,7 @@
 [1295]:./Easy/1295-Find%20Numbers%20with%20Even%20Number%20of%20Digits/README.md#1295-find-numbers-with-even-number-of-digits
 [1299]:./Easy/1299-Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/README.md#1299-replace-elements-with-greatest-element-on-right-side
 [1304]:./Easy/1304-Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/README.md#1304-find-n-unique-integers-sum-up-to-zero
+[1309]:./Easy/1309-Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping/README.md#1309-decrypt-string-from-alphabet-to-integer-mapping
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -979,3 +981,4 @@
 [1295l]:https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 [1299l]:https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 [1304l]:https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
+[1309l]:https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
