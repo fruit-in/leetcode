@@ -513,7 +513,7 @@
 [746]:./Easy/0746-Min%20Cost%20Climbing%20Stairs/README_CN.md#746-使用最小花费爬楼梯
 [747]:./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README_CN.md#747-至少是其他数字两倍的最大数
 [748]:./Easy/0748-Shortest%20Completing%20Word/README_CN.md#748-最短完整词
-[754]:./Easy/0754-Reach%20a%20Number/README_CN.md#754-到达终点数字
+[754]:./Medium/0754-Reach%20a%20Number/README_CN.md#754-到达终点数字
 [762]:./Easy/0762-Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/README_CN.md#762-二进制表示中质数个计算置位
 [766]:./Easy/0766-Toeplitz%20Matrix/README_CN.md#766-托普利茨矩阵
 [771]:./Easy/0771-Jewels%20and%20Stones/README_CN.md#771-宝石与石头
