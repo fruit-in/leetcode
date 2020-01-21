@@ -309,6 +309,7 @@
 [1290][1290l]|[二进制链表转整数][1290]                          |![p]
 [1295][1295l]|[统计位数为偶数的数字][1295]                      |![p]
 [1299][1299l]|[将每个元素替换为右侧最大元素][1299]              |![r]
+[1302][1302l]|[层数最深叶子节点的和][1302]                      |![p]
 [1304][1304l]|[和为零的N个唯一整数][1304]                       |![r]
 [1309][1309l]|[解码字母到整数映射][1309]                        |![p]
 [1313][1313l]|[解压缩编码列表][1313]                            |![r]
@@ -625,6 +626,7 @@
 [1290]:./Easy/1290-Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/README_CN.md#1290-二进制链表转整数
 [1295]:./Easy/1295-Find%20Numbers%20with%20Even%20Number%20of%20Digits/README_CN.md#1295-统计位数为偶数的数字
 [1299]:./Easy/1299-Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/README_CN.md#1299-将每个元素替换为右侧最大元素
+[1302]:./Medium/1302-Deepest%20Leaves%20Sum/README_CN.md#1302-层数最深叶子节点的和
 [1304]:./Easy/1304-Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/README_CN.md#1304-和为零的n个唯一整数
 [1309]:./Easy/1309-Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping/README_CN.md#1309-解码字母到整数映射
 [1313]:./Easy/1313-Decompress%20Run-Length%20Encoded%20List/README_CN.md#1313-解压缩编码列表
@@ -982,6 +984,7 @@
 [1290l]:https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 [1295l]:https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/
 [1299l]:https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side/
+[1302l]:https://leetcode-cn.com/problems/deepest-leaves-sum/
 [1304l]:https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/
 [1309l]:https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 [1313l]:https://leetcode-cn.com/problems/decompress-run-length-encoded-list/
