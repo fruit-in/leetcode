@@ -28,6 +28,7 @@
 [83][83l]    |[删除排序链表中的重复元素][83]                    |![p]
 [88][88l]    |[合并两个有序数组][88]                            |![r]
 [94][94l]    |[二叉树的中序遍历][94]                            |![p]&nbsp;&nbsp;![r]
+[98][98l]    |[验证二叉搜索树][98]                              |![p]
 [100][100l]  |[相同的树][100]                                   |![p]
 [101][101l]  |[对称二叉树][101]                                 |![p]
 [102][102l]  |[二叉树的层次遍历][102]                           |![p]
@@ -346,6 +347,7 @@
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README_CN.md#83-删除排序链表中的重复元素
 [88]:./Easy/0088-Merge%20Sorted%20Array/README_CN.md#88-合并两个有序数组
 [94]:./Medium/0094-Binary%20Tree%20Inorder%20Traversal/README_CN.md#94-二叉树的中序遍历
+[98]:./Medium/0098-Validate%20Binary%20Search%20Tree/README_CN.md#98-验证二叉搜索树
 [100]:./Easy/0100-Same%20Tree/README_CN.md#100-相同的树
 [101]:./Easy/0101-Symmetric%20Tree/README_CN.md#101-对称二叉树
 [102]:./Medium/0102-Binary%20Tree%20Level%20Order%20Traversal/README_CN.md#102-二叉树的层次遍历

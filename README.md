@@ -28,6 +28,7 @@
 [83][83l]    |[Remove Duplicates from Sorted List][83]                      |![p]
 [88][88l]    |[Merge Sorted Array][88]                                      |![r]
 [94][94l]    |[Binary Tree Inorder Traversal][94]                           |![p]&nbsp;&nbsp;![r]
+[98][98l]    |[Validate Binary Search Tree][98]                             |![p]
 [100][100l]  |[Same Tree][100]                                              |![p]
 [101][101l]  |[Symmetric Tree][101]                                         |![p]
 [102][102l]  |[Binary Tree Level Order Traversal][102]                      |![p]
@@ -346,6 +347,7 @@
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README.md#83-remove-duplicates-from-sorted-list
 [88]:./Easy/0088-Merge%20Sorted%20Array/README.md#88-merge-sorted-array
 [94]:./Medium/0094-Binary%20Tree%20Inorder%20Traversal/README.md#94-binary-tree-inorder-traversal
+[98]:./Medium/0098-Validate%20Binary%20Search%20Tree/README.md#98-validate-binary-search-tree
 [100]:./Easy/0100-Same%20Tree/README.md#100-same-tree
 [101]:./Easy/0101-Symmetric%20Tree/README.md#101-symmetric-tree
 [102]:./Medium/0102-Binary%20Tree%20Level%20Order%20Traversal/README.md#102-binary-tree-level-order-traversal
