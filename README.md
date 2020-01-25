@@ -209,6 +209,7 @@
 [806][806l]  |[Number of Lines To Write String][806]                        |![p]
 [811][811l]  |[Subdomain Visit Count][811]                                  |![r]
 [812][812l]  |[Largest Triangle Area][812]                                  |![r]
+[814][814l]  |[Binary Tree Pruning][814]                                    |![p]
 [819][819l]  |[Most Common Word][819]                                       |![p]
 [821][821l]  |[Shortest Distance to a Character][821]                       |![p]
 [824][824l]  |[Goat Latin][824]                                             |![p]
@@ -528,6 +529,7 @@
 [806]:./Easy/0806-Number%20of%20Lines%20To%20Write%20String/README.md#806-number-of-lines-to-write-string
 [811]:./Easy/0811-Subdomain%20Visit%20Count/README.md#811-subdomain-visit-count
 [812]:./Easy/0812-Largest%20Triangle%20Area/README.md#812-largest-triangle-area
+[814]:./Medium/0814-Binary%20Tree%20Pruning/README.md#814-binary-tree-pruning
 [819]:./Easy/0819-Most%20Common%20Word/README.md#819-most-common-word
 [821]:./Easy/0821-Shortest%20Distance%20to%20a%20Character/README.md#821-shortest-distance-to-a-character
 [824]:./Easy/0824-Goat%20Latin/README.md#824-goat-latin
@@ -886,6 +888,7 @@
 [806l]:https://leetcode.com/problems/number-of-lines-to-write-string/
 [811l]:https://leetcode.com/problems/subdomain-visit-count/
 [812l]:https://leetcode.com/problems/largest-triangle-area/
+[814l]:https://leetcode.com/problems/binary-tree-pruning/
 [819l]:https://leetcode.com/problems/most-common-word/
 [821l]:https://leetcode.com/problems/shortest-distance-to-a-character/
 [824l]:https://leetcode.com/problems/goat-latin/
