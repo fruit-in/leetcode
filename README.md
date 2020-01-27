@@ -200,6 +200,7 @@
 [748][748l]  |[Shortest Completing Word][748]                               |![p]
 [754][754l]  |[Reach a Number][754]                                         |![r]
 [762][762l]  |[Prime Number of Set Bits in Binary Representation][762]      |![p]
+[763][763l]  |[Partition Labels][763]                                       |![r]
 [766][766l]  |[Toeplitz Matrix][766]                                        |![r]
 [771][771l]  |[Jewels and Stones][771]                                      |![r]
 [783][783l]  |[Minimum Distance Between BST Nodes][783]                     |![p]
@@ -521,6 +522,7 @@
 [748]:./Easy/0748-Shortest%20Completing%20Word/README.md#748-shortest-completing-word
 [754]:./Medium/0754-Reach%20a%20Number/README.md#754-reach-a-number
 [762]:./Easy/0762-Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/README.md#762-prime-number-of-set-bits-in-binary-representation
+[763]:./Medium/0763-Partition%20Labels/README.md#763-partition-labels
 [766]:./Easy/0766-Toeplitz%20Matrix/README.md#766-toeplitz-matrix
 [771]:./Easy/0771-Jewels%20and%20Stones/README.md#771-jewels-and-stones
 [783]:./Easy/0783-Minimum%20Distance%20Between%20BST%20Nodes/README.md#783-minimum-distance-between-bst-nodes
@@ -880,6 +882,7 @@
 [752l]:https://leetcode.com/problems/open-the-lock/
 [754l]:https://leetcode.com/problems/reach-a-number/
 [762l]:https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
+[763l]:https://leetcode.com/problems/partition-labels/
 [766l]:https://leetcode.com/problems/toeplitz-matrix/
 [771l]:https://leetcode.com/problems/jewels-and-stones/
 [779l]:https://leetcode.com/problems/k-th-symbol-in-grammar/

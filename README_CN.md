@@ -200,6 +200,7 @@
 [748][748l]  |[最短完整词][748]                                 |![p]
 [754][754l]  |[到达终点数字][754]                               |![r]
 [762][762l]  |[二进制表示中质数个计算置位][762]                 |![p]
+[763][763l]  |[划分字母区间][763]                               |![r]
 [766][766l]  |[托普利茨矩阵][766]                               |![r]
 [771][771l]  |[宝石与石头][771]                                 |![r]
 [783][783l]  |[二叉搜索树结点最小距离][783]                     |![p]
@@ -521,6 +522,7 @@
 [748]:./Easy/0748-Shortest%20Completing%20Word/README_CN.md#748-最短完整词
 [754]:./Medium/0754-Reach%20a%20Number/README_CN.md#754-到达终点数字
 [762]:./Easy/0762-Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/README_CN.md#762-二进制表示中质数个计算置位
+[763]:./Medium/0763-Partition%20Labels/README_CN.md#763-划分字母区间
 [766]:./Easy/0766-Toeplitz%20Matrix/README_CN.md#766-托普利茨矩阵
 [771]:./Easy/0771-Jewels%20and%20Stones/README_CN.md#771-宝石与石头
 [783]:./Easy/0783-Minimum%20Distance%20Between%20BST%20Nodes/README_CN.md#783-二叉搜索树结点最小距离
@@ -880,6 +882,7 @@
 [752l]:https://leetcode-cn.com/problems/open-the-lock/
 [754l]:https://leetcode-cn.com/problems/reach-a-number/
 [762l]:https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/
+[763l]:https://leetcode-cn.com/problems/partition-labels/
 [766l]:https://leetcode-cn.com/problems/toeplitz-matrix/
 [771l]:https://leetcode-cn.com/problems/jewels-and-stones/
 [779l]:https://leetcode-cn.com/problems/k-th-symbol-in-grammar/
