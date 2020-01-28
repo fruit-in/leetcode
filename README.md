@@ -4,6 +4,7 @@
 |#           |Title                                                         |Languages
 -------------|--------------------------------------------------------------|:----------------------------------:
 [1][1l]      |[Two Sum][1]                                                  |![p]&nbsp;&nbsp;![r]&nbsp;&nbsp;![c]
+[6][6l]      |[ZigZag Conversion][6]                                        |![p]
 [7][7l]      |[Reverse Integer][7]                                          |![p]&nbsp;&nbsp;![c]
 [9][9l]      |[Palindrome Number][9]                                        |![p]&nbsp;&nbsp;![c]
 [11][11l]    |[Container With Most Water][11]                               |![r]&nbsp;&nbsp;![c]
@@ -326,6 +327,7 @@
 [l]:./ico/leetcode.png
 
 [1]:./Easy/0001-Two%20Sum/README.md#1-two-sum
+[6]:./Medium/0006-ZigZag%20Conversion/README.md#6-zigzag-conversion
 [7]:./Easy/0007-Reverse%20Integer/README.md#7-reverse-integer
 [9]:./Easy/0009-Palindrome%20Number/README.md#9-palindrome-number
 [11]:./Medium/0011-Container%20With%20Most%20Water/README.md#11-container-with-most-water
@@ -644,6 +646,7 @@
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
 [3l]:https://leetcode.com/problems/longest-substring-without-repeating-characters/
+[6l]:https://leetcode.com/problems/zigzag-conversion/
 [7l]:https://leetcode.com/problems/reverse-integer/
 [9l]:https://leetcode.com/problems/palindrome-number/
 [11l]:https://leetcode.com/problems/container-with-most-water/
