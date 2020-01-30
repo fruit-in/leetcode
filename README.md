@@ -190,6 +190,7 @@
 [704][704l]  |[Binary Search][704]                                          |![r]
 [705][705l]  |[Design HashSet][705]                                         |![r]
 [706][706l]  |[Design HashMap][706]                                         |![r]
+[707][707l]  |[Design Linked List][707]                                     |![p]
 [709][709l]  |[To Lower Case][709]                                          |![r]
 [717][717l]  |[1-bit and 2-bit Characters][717]                             |![r]
 [720][720l]  |[Longest Word in Dictionary][720]                             |![p]
@@ -514,6 +515,7 @@
 [704]:./Easy/0704-Binary%20Search/README.md#704-binary-search
 [705]:./Easy/0705-Design%20HashSet/README.md#705-design-hashset
 [706]:./Easy/0706-Design%20HashMap/README.md#706-design-hashmap
+[707]:./Medium/0707-Design%20Linked%20List/README.md#707-design-linked-list
 [709]:./Easy/0709-To%20Lower%20Case/README.md#709-to-lower-case
 [717]:./Easy/0717-1-bit%20and%202-bit%20Characters/README.md#717-1-bit-and-2-bit-characters
 [720]:./Easy/0720-Longest%20Word%20in%20Dictionary/README.md#720-longest-word-in-dictionary

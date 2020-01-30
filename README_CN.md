@@ -190,6 +190,7 @@
 [704][704l]  |[二分查找][704]                                   |![r]
 [705][705l]  |[设计哈希集合][705]                               |![r]
 [706][706l]  |[设计哈希映射][706]                               |![r]
+[707][707l]  |[设计链表][707]                                   |![p]
 [709][709l]  |[转换成小写字母][709]                             |![r]
 [717][717l]  |[1比特与2比特字符][717]                           |![r]
 [720][720l]  |[词典中最长的单词][720]                           |![p]
@@ -514,6 +515,7 @@
 [704]:./Easy/0704-Binary%20Search/README_CN.md#704-二分查找
 [705]:./Easy/0705-Design%20HashSet/README_CN.md#705-设计哈希集合
 [706]:./Easy/0706-Design%20HashMap/README_CN.md#706-设计哈希映射
+[707]:./Medium/0707-Design%20Linked%20List/README_CN.md#707-设计链表
 [709]:./Easy/0709-To%20Lower%20Case/README_CN.md#709-转换成小写字母
 [717]:./Easy/0717-1-bit%20and%202-bit%20Characters/README_CN.md#717-1比特与2比特字符
 [720]:./Easy/0720-Longest%20Word%20in%20Dictionary/README_CN.md#720-词典中最长的单词
