@@ -13,6 +13,7 @@
 [14][14l]    |[最长公共前缀][14]                                |![p]
 [20][20l]    |[有效的括号][20]                                  |![p]
 [21][21l]    |[合并两个有序链表][21]                            |![p]
+[24][24l]    |[两两交换链表中的节点][24]                        |![p]
 [26][26l]    |[删除排序数组中的重复项][26]                      |![r]
 [27][27l]    |[移除元素][27]                                    |![r]
 [28][28l]    |[实现 strStr()][28]                               |![p]
@@ -338,6 +339,7 @@
 [14]:./Easy/0014-Longest%20Common%20Prefix/README_CN.md#14-最长公共前缀
 [20]:./Easy/0020-Valid%20Parentheses/README_CN.md#20-有效的括号
 [21]:./Easy/0021-Merge%20Two%20Sorted%20Lists/README_CN.md#21-合并两个有序链表
+[24]:./Medium/0024-Swap%20Nodes%20in%20Pairs/README_CN.md#24-两两交换链表中的节点
 [26]:./Easy/0026-Remove%20Duplicates%20from%20Sorted%20Array/README_CN.md#26-删除排序数组中的重复项
 [27]:./Easy/0027-Remove%20Element/README_CN.md#27-移除元素
 [28]:./Easy/0028-Implement%20strStr\(\)/README_CN.md#28-实现-strstr

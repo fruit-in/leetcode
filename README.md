@@ -13,6 +13,7 @@
 [14][14l]    |[Longest Common Prefix][14]                                   |![p]
 [20][20l]    |[Valid Parentheses][20]                                       |![p]
 [21][21l]    |[Merge Two Sorted Lists][21]                                  |![p]
+[24][24l]    |[Swap Nodes in Pairs][24]                                     |![p]
 [26][26l]    |[Remove Duplicates from Sorted Array][26]                     |![r]
 [27][27l]    |[Remove Element][27]                                          |![r]
 [28][28l]    |[Implement strStr()][28]                                      |![p]
@@ -338,6 +339,7 @@
 [14]:./Easy/0014-Longest%20Common%20Prefix/README.md#14-longest-common-prefix
 [20]:./Easy/0020-Valid%20Parentheses/README.md#20-valid-parentheses
 [21]:./Easy/0021-Merge%20Two%20Sorted%20Lists/README.md#21-merge-two-sorted-lists
+[24]:./Medium/0024-Swap%20Nodes%20in%20Pairs/README.md#24-swap-nodes-in-pairs
 [26]:./Easy/0026-Remove%20Duplicates%20from%20Sorted%20Array/README.md#26-remove-duplicates-from-sorted-array
 [27]:./Easy/0027-Remove%20Element/README.md#27-remove-element
 [28]:./Easy/0028-Implement%20strStr\(\)/README.md#28-implement-strstr
