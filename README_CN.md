@@ -43,6 +43,7 @@
 [112][112l]  |[路径总和][112]                                   |![p]
 [118][118l]  |[杨辉三角][118]                                   |![p]
 [119][119l]  |[杨辉三角 II][119]                                |![p]
+[120][120l]  |[三角形最小路径和][120]                           |![r]
 [121][121l]  |[买卖股票的最佳时机][121]                         |![r]
 [122][122l]  |[买卖股票的最佳时机 II][122]                      |![r]
 [125][125l]  |[验证回文串][125]                                 |![p]
@@ -369,6 +370,7 @@
 [112]:./Easy/0112-Path%20Sum/README_CN.md#112-路径总和
 [118]:./Easy/0118-Pascal's%20Triangle/README_CN.md#118-杨辉三角
 [119]:./Easy/0119-Pascal's%20Triangle%20II/README_CN.md#119-杨辉三角-ii
+[120]:./Medium/0120-Triangle/README_CN.md#120-三角形最小路径和
 [121]:./Easy/0121-Best%20Time%20to%20Buy%20and%20Sell%20Stock/README_CN.md#121-买卖股票的最佳时机
 [122]:./Easy/0122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README_CN.md#122-买卖股票的最佳时机-ii
 [125]:./Easy/0125-Valid%20Palindrome/README_CN.md#125-验证回文串
@@ -706,6 +708,7 @@
 [117l]:https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/
 [118l]:https://leetcode-cn.com/problems/pascals-triangle/
 [119l]:https://leetcode-cn.com/problems/pascals-triangle-ii/
+[120l]:https://leetcode-cn.com/problems/triangle/
 [121l]:https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/
 [122l]:https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/
 [125l]:https://leetcode-cn.com/problems/valid-palindrome/

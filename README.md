@@ -43,6 +43,7 @@
 [112][112l]  |[Path Sum][112]                                               |![p]
 [118][118l]  |[Pascal's Triangle][118]                                      |![p]
 [119][119l]  |[Pascal's Triangle II][119]                                   |![p]
+[120][120l]  |[Triangle][120]                                               |![r]
 [121][121l]  |[Best Time to Buy and Sell Stock][121]                        |![r]
 [122][122l]  |[Best Time to Buy and Sell Stock II][122]                     |![r]
 [125][125l]  |[Valid Palindrome][125]                                       |![p]
@@ -369,6 +370,7 @@
 [112]:./Easy/0112-Path%20Sum/README.md#112-path-sum
 [118]:./Easy/0118-Pascal's%20Triangle/README.md#118-pascal's-triangle
 [119]:./Easy/0119-Pascal's%20Triangle%20II/README.md#119-pascal's-triangle-ii
+[120]:./Medium/0120-Triangle/README.md#120-triangle
 [121]:./Easy/0121-Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md#121-best-time-to-buy-and-sell-stock
 [122]:./Easy/0122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README.md#122-best-time-to-buy-and-sell-stock-ii
 [125]:./Easy/0125-Valid%20Palindrome/README.md#125-valid-palindrome
@@ -706,6 +708,7 @@
 [117l]:https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
 [118l]:https://leetcode.com/problems/pascals-triangle/
 [119l]:https://leetcode.com/problems/pascals-triangle-ii/
+[120l]:https://leetcode.com/problems/triangle/
 [121l]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [122l]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [125l]:https://leetcode.com/problems/valid-palindrome/
