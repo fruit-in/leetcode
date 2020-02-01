@@ -306,6 +306,7 @@
 [1200][1200l]|[最小绝对差][1200]                                |![r]
 [1207][1207l]|[独一无二的出现次数][1207]                        |![r]
 [1217][1217l]|[玩筹码][1217]                                    |![r]
+[1220][1220l]|[统计元音字母序列的数目][1220]                    |![r]
 [1221][1221l]|[分割平衡字符串][1221]                            |![r]
 [1232][1232l]|[缀点成线][1232]                                  |![r]
 [1237][1237l]|[找出给定方程的正整数解][1237]                    |![p]
@@ -634,6 +635,7 @@
 [1200]:./Easy/1200-Minimum%20Absolute%20Difference/README_CN.md#1200-最小绝对差
 [1207]:./Easy/1207-Unique%20Number%20of%20Occurrences/README_CN.md#1207-独一无二的出现次数
 [1217]:./Easy/1217-Play%20with%20Chips/README_CN.md#1217-玩筹码
+[1220]:./Hard/1220-Count%20Vowels%20Permutation/README_CN.md#1220-统计元音字母序列的数目
 [1221]:./Easy/1221-Split%20a%20String%20in%20Balanced%20Strings/README_CN.md#1221-分割平衡字符串
 [1232]:./Easy/1232-Check%20If%20It%20Is%20a%20Straight%20Line/README_CN.md#1232-缀点成线
 [1237]:./Easy/1237-Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/README_CN.md#1237-找出给定方程的正整数解
@@ -1000,6 +1002,7 @@
 [1200l]:https://leetcode-cn.com/problems/minimum-absolute-difference/
 [1207l]:https://leetcode-cn.com/problems/unique-number-of-occurrences/
 [1217l]:https://leetcode-cn.com/problems/play-with-chips/
+[1220l]:https://leetcode-cn.com/problems/count-vowels-permutation/
 [1221l]:https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/
 [1232l]:https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/
 [1237l]:https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation/

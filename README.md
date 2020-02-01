@@ -306,6 +306,7 @@
 [1200][1200l]|[Minimum Absolute Difference][1200]                           |![r]
 [1207][1207l]|[Unique Number of Occurrences][1207]                          |![r]
 [1217][1217l]|[Play with Chips][1217]                                       |![r]
+[1220][1220l]|[Count Vowels Permutation][1220]                              |![r]
 [1221][1221l]|[Split a String in Balanced Strings][1221]                    |![r]
 [1232][1232l]|[Check If It Is a Straight Line][1232]                        |![r]
 [1237][1237l]|[Find Positive Integer Solution for a Given Equation][1237]   |![p]
@@ -634,6 +635,7 @@
 [1200]:./Easy/1200-Minimum%20Absolute%20Difference/README.md#1200-minimum-absolute-difference
 [1207]:./Easy/1207-Unique%20Number%20of%20Occurrences/README.md#1207-unique-number-of-occurrences
 [1217]:./Easy/1217-Play%20with%20Chips/README.md#1217-play-with-chips
+[1220]:./Hard/1220-Count%20Vowels%20Permutation/README.md#1220-count-vowels-permutation
 [1221]:./Easy/1221-Split%20a%20String%20in%20Balanced%20Strings/README.md#1221-split-a-string-in-balanced-strings
 [1232]:./Easy/1232-Check%20If%20It%20Is%20a%20Straight%20Line/README.md#1232-check-if-it-is-a-straight-line
 [1237]:./Easy/1237-Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/README.md#1237-find-positive-integer-solution-for-a-given-equation
@@ -1000,6 +1002,7 @@
 [1200l]:https://leetcode.com/problems/minimum-absolute-difference/
 [1207l]:https://leetcode.com/problems/unique-number-of-occurrences/
 [1217l]:https://leetcode.com/problems/play-with-chips/
+[1220l]:https://leetcode.com/problems/count-vowels-permutation/
 [1221l]:https://leetcode.com/problems/split-a-string-in-balanced-strings/
 [1232l]:https://leetcode.com/problems/check-if-it-is-a-straight-line/
 [1237l]:https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
