@@ -72,6 +72,7 @@
 [217][217l]  |[Contains Duplicate][217]                                     |![r]
 [219][219l]  |[Contains Duplicate II][219]                                  |![r]
 [220][220l]  |[Contains Duplicate III][220]                                 |![r]
+[223][223l]  |[Rectangle Area][223]                                         |![r]
 [225][225l]  |[Implement Stack using Queues][225]                           |![r]
 [226][226l]  |[Invert Binary Tree][226]                                     |![p]
 [231][231l]  |[Power of Two][231]                                           |![r]
@@ -399,6 +400,7 @@
 [217]:./Easy/0217-Contains%20Duplicate/README.md#217-contains-duplicate
 [219]:./Easy/0219-Contains%20Duplicate%20II/README.md#219-contains-duplicate-ii
 [220]:./Medium/0220-Contains%20Duplicate%20III/README.md#220-contains-duplicate-iii
+[223]:./Medium/0223-Rectangle%20Area/README.md#223-rectangle-area
 [225]:./Easy/0225-Implement%20Stack%20using%20Queues/README.md#225-implement-stack-using-queues
 [226]:./Easy/0226-Invert%20Binary%20Tree/README.md#226-invert-binary-tree
 [231]:./Easy/0231-Power%20of%20Two/README.md#231-power-of-two
@@ -748,6 +750,7 @@
 [218l]:https://leetcode.com/problems/the-skyline-problem/
 [219l]:https://leetcode.com/problems/contains-duplicate-ii/
 [220l]:https://leetcode.com/problems/contains-duplicate-iii/
+[223l]:https://leetcode.com/problems/rectangle-area/
 [225l]:https://leetcode.com/problems/implement-stack-using-queues/
 [226l]:https://leetcode.com/problems/invert-binary-tree/
 [231l]:https://leetcode.com/problems/power-of-two/
