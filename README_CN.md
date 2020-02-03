@@ -235,6 +235,7 @@
 [872][872l]  |[叶子相似的树][872]                               |![p]
 [874][874l]  |[模拟行走机器人][874]                             |![r]
 [876][876l]  |[链表的中间结点][876]                             |![p]
+[877][877l]  |[石子游戏][877]                                   |![r]
 [883][883l]  |[三维形体投影面积][883]                           |![r]
 [884][884l]  |[两句话中的不常见单词][884]                       |![p]
 [888][888l]  |[公平的糖果交换][888]                             |![r]
@@ -564,6 +565,7 @@
 [872]:./Easy/0872-Leaf-Similar%20Trees/README_CN.md#872-叶子相似的树
 [874]:./Easy/0874-Walking%20Robot%20Simulation/README_CN.md#874-模拟行走机器人
 [876]:./Easy/0876-Middle%20of%20the%20Linked%20List/README_CN.md#876-链表的中间结点
+[877]:./Medium/0877-Stone%20Game/README_CN.md#877-石子游戏
 [883]:./Easy/0883-Projection%20Area%20of%203D%20Shapes/README_CN.md#883-三维形体投影面积
 [884]:./Easy/0884-Uncommon%20Words%20from%20Two%20Sentences/README_CN.md#884-两句话中的不常见单词
 [888]:./Easy/0888-Fair%20Candy%20Swap/README_CN.md#888-公平的糖果交换
@@ -931,6 +933,7 @@
 [872l]:https://leetcode-cn.com/problems/leaf-similar-trees/
 [874l]:https://leetcode-cn.com/problems/walking-robot-simulation/
 [876l]:https://leetcode-cn.com/problems/middle-of-the-linked-list/
+[877l]:https://leetcode-cn.com/problems/stone-game/
 [883l]:https://leetcode-cn.com/problems/projection-area-of-3d-shapes/
 [884l]:https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/
 [888l]:https://leetcode-cn.com/problems/fair-candy-swap/
