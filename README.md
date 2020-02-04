@@ -259,6 +259,7 @@
 [942][942l]  |[DI String Match][942]                                        |![p]
 [944][944l]  |[Delete Columns to Make Sorted][944]                          |![p]
 [949][949l]  |[Largest Time for Given Digits][949]                          |![p]
+[950][950l]  |[Reveal Cards In Increasing Order][950]                       |![r]
 [953][953l]  |[Verifying an Alien Dictionary][953]                          |![p]
 [961][961l]  |[N-Repeated Element in Size 2N Array][961]                    |![r]
 [965][965l]  |[Univalued Binary Tree][965]                                  |![p]
@@ -589,6 +590,7 @@
 [942]:./Easy/0942-DI%20String%20Match/README.md#942-di-string-match
 [944]:./Easy/0944-Delete%20Columns%20to%20Make%20Sorted/README.md#944-delete-columns-to-make-sorted
 [949]:./Easy/0949-Largest%20Time%20for%20Given%20Digits/README.md#949-largest-time-for-given-digits
+[950]:./Medium/0950-Reveal%20Cards%20In%20Increasing%20Order/README.md#950-reveal-cards-in-increasing-order
 [953]:./Easy/0953-Verifying%20an%20Alien%20Dictionary/README.md#953-verifying-an-alien-dictionary
 [961]:./Easy/0961-N-Repeated%20Element%20in%20Size%202N%20Array/README.md#961-n-repeated-element-in-size-2n-array
 [965]:./Easy/0965-Univalued%20Binary%20Tree/README.md#965-univalued-binary-tree
@@ -957,6 +959,7 @@
 [942l]:https://leetcode.com/problems/di-string-match/
 [944l]:https://leetcode.com/problems/delete-columns-to-make-sorted/
 [949l]:https://leetcode.com/problems/largest-time-for-given-digits/
+[950l]:https://leetcode.com/problems/reveal-cards-in-increasing-order/
 [953l]:https://leetcode.com/problems/verifying-an-alien-dictionary/
 [961l]:https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 [965l]:https://leetcode.com/problems/univalued-binary-tree/

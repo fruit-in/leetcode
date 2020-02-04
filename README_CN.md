@@ -259,6 +259,7 @@
 [942][942l]  |[增减字符串匹配][942]                             |![p]
 [944][944l]  |[删列造序][944]                                   |![p]
 [949][949l]  |[给定数字能组成的最大时间][949]                   |![p]
+[950][950l]  |[按递增顺序显示卡牌][950]                         |![r]
 [953][953l]  |[验证外星语词典][953]                             |![p]
 [961][961l]  |[重复 N 次的元素][961]                            |![r]
 [965][965l]  |[单值二叉树][965]                                 |![p]
@@ -589,6 +590,7 @@
 [942]:./Easy/0942-DI%20String%20Match/README_CN.md#942-增减字符串匹配
 [944]:./Easy/0944-Delete%20Columns%20to%20Make%20Sorted/README_CN.md#944-删列造序
 [949]:./Easy/0949-Largest%20Time%20for%20Given%20Digits/README_CN.md#949-给定数字能组成的最大时间
+[950]:./Medium/0950-Reveal%20Cards%20In%20Increasing%20Order/README_CN.md#950-按递增顺序显示卡牌
 [953]:./Easy/0953-Verifying%20an%20Alien%20Dictionary/README_CN.md#953-验证外星语词典
 [961]:./Easy/0961-N-Repeated%20Element%20in%20Size%202N%20Array/README_CN.md#961-重复-n-次的元素
 [965]:./Easy/0965-Univalued%20Binary%20Tree/README_CN.md#965-单值二叉树
@@ -957,6 +959,7 @@
 [942l]:https://leetcode-cn.com/problems/di-string-match/
 [944l]:https://leetcode-cn.com/problems/delete-columns-to-make-sorted/
 [949l]:https://leetcode-cn.com/problems/largest-time-for-given-digits/
+[950l]:https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/
 [953l]:https://leetcode-cn.com/problems/verifying-an-alien-dictionary/
 [961l]:https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/
 [965l]:https://leetcode-cn.com/problems/univalued-binary-tree/
