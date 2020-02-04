@@ -106,6 +106,7 @@
 [387][387l]  |[字符串中的第一个唯一字符][387]                   |![r]
 [389][389l]  |[找不同][389]                                     |![r]
 [392][392l]  |[判断子序列][392]                                 |![r]
+[400][400l]  |[第N个数字][400]                                  |![r]
 [401][401l]  |[二进制手表][401]                                 |![p]
 [404][404l]  |[左叶子之和][404]                                 |![p]
 [405][405l]  |[数字转换为十六进制数][405]                       |![p]
@@ -437,6 +438,7 @@
 [387]:./Easy/0387-First%20Unique%20Character%20in%20a%20String/README_CN.md#387-字符串中的第一个唯一字符
 [389]:./Easy/0389-Find%20the%20Difference/README_CN.md#389-找不同
 [392]:./Easy/0392-Is%20Subsequence/README_CN.md#392-判断子序列
+[400]:./Medium/0400-Nth%20Digit/README_CN.md#400-第N个数字
 [401]:./Easy/0401-Binary%20Watch/README_CN.md#401-二进制手表
 [404]:./Easy/0404-Sum%20of%20Left%20Leaves/README_CN.md#404-左叶子之和
 [405]:./Easy/0405-Convert%20a%20Number%20to%20Hexadecimal/README_CN.md#405-数字转换为十六进制数
@@ -797,6 +799,7 @@
 [387l]:https://leetcode-cn.com/problems/first-unique-character-in-a-string/
 [389l]:https://leetcode-cn.com/problems/find-the-difference/
 [392l]:https://leetcode-cn.com/problems/is-subsequence/
+[400l]:https://leetcode-cn.com/problems/nth-digit/
 [401l]:https://leetcode-cn.com/problems/binary-watch/
 [404l]:https://leetcode-cn.com/problems/sum-of-left-leaves/
 [405l]:https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/
