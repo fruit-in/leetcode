@@ -297,6 +297,7 @@
 [1103][1103l]|[分糖果 II][1103]                                 |![p]
 [1108][1108l]|[IP 地址无效化][1108]                             |![r]
 [1122][1122l]|[数组的相对排序][1122]                            |![r]
+[1123][1123l]|[最深叶节点的最近公共祖先][1123]                  |![p]
 [1128][1128l]|[等价多米诺骨牌对的数量][1128]                    |![r]
 [1137][1137l]|[第 N 个泰波那契数][1137]                         |![r]
 [1154][1154l]|[一年中的第几天][1154]                            |![r]
@@ -629,6 +630,7 @@
 [1103]:./Easy/1103-Distribute%20Candies%20to%20People/README_CN.md#1103-分糖果-ii
 [1108]:./Easy/1108-Defanging%20an%20IP%20Address/README_CN.md#1108-ip-地址无效化
 [1122]:./Easy/1122-Relative%20Sort%20Array/README_CN.md#1122-数组的相对排序
+[1123]:./Medium/1123-Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/README_CN.md#1123-最深叶节点的最近公共祖先
 [1128]:./Easy/1128-Number%20of%20Equivalent%20Domino%20Pairs/README_CN.md#1128-等价多米诺骨牌对的数量
 [1137]:./Easy/1137-N-th%20Tribonacci%20Number/README_CN.md#1137-第-n-个泰波那契数
 [1154]:./Easy/1154-Day%20of%20the%20Year/README_CN.md#1154-一年中的第几天
@@ -999,6 +1001,7 @@
 [1103l]:https://leetcode-cn.com/problems/distribute-candies-to-people/
 [1108l]:https://leetcode-cn.com/problems/defanging-an-ip-address/
 [1122l]:https://leetcode-cn.com/problems/relative-sort-array/
+[1123l]:https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves/
 [1128l]:https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/
 [1137l]:https://leetcode-cn.com/problems/n-th-tribonacci-number/
 [1154l]:https://leetcode-cn.com/problems/day-of-the-year/

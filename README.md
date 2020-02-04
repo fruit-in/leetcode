@@ -297,6 +297,7 @@
 [1103][1103l]|[Distribute Candies to People][1103]                          |![p]
 [1108][1108l]|[Defanging an IP Address][1108]                               |![r]
 [1122][1122l]|[Relative Sort Array][1122]                                   |![r]
+[1123][1123l]|[Lowest Common Ancestor of Deepest Leaves][1123]              |![p]
 [1128][1128l]|[Number of Equivalent Domino Pairs][1128]                     |![r]
 [1137][1137l]|[N-th Tribonacci Number][1137]                                |![r]
 [1154][1154l]|[Day of the Year][1154]                                       |![r]
@@ -629,6 +630,7 @@
 [1103]:./Easy/1103-Distribute%20Candies%20to%20People/README.md#1103-distribute-candies-to-people
 [1108]:./Easy/1108-Defanging%20an%20IP%20Address/README.md#1108-defanging-an-ip-address
 [1122]:./Easy/1122-Relative%20Sort%20Array/README.md#1122-relative-sort-array
+[1123]:./Medium/1123-Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/README.md#1123-lowest-common-ancestor-of-deepest-leaves
 [1128]:./Easy/1128-Number%20of%20Equivalent%20Domino%20Pairs/README.md#1128-number-of-equivalent-domino-pairs
 [1137]:./Easy/1137-N-th%20Tribonacci%20Number/README.md#1137-n-th-tribonacci-number
 [1154]:./Easy/1154-Day%20of%20the%20Year/README.md#1154-day-of-the-year
@@ -999,6 +1001,7 @@
 [1103l]:https://leetcode.com/problems/distribute-candies-to-people/
 [1108l]:https://leetcode.com/problems/defanging-an-ip-address/
 [1122l]:https://leetcode.com/problems/relative-sort-array/
+[1123l]:https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
 [1128l]:https://leetcode.com/problems/number-of-equivalent-domino-pairs/
 [1137l]:https://leetcode.com/problems/n-th-tribonacci-number/
 [1154l]:https://leetcode.com/problems/day-of-the-year/
