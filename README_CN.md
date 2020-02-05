@@ -283,6 +283,7 @@
 [1021][1021l]|[删除最外层的括号][1021]                          |![r]
 [1022][1022l]|[从根到叶的二进制数之和][1022]                    |![p]
 [1025][1025l]|[除数博弈][1025]                                  |![r]
+[1026][1026l]|[节点与其祖先之间的最大差值][1026]                |![p]
 [1029][1029l]|[两地调度][1029]                                  |![p]
 [1030][1030l]|[距离顺序排列矩阵单元格][1030]                    |![r]
 [1033][1033l]|[移动石子直到连续][1033]                          |![r]
@@ -616,6 +617,7 @@
 [1021]:./Easy/1021-Remove%20Outermost%20Parentheses/README_CN.md#1021-删除最外层的括号
 [1022]:./Easy/1022-Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/README_CN.md#1022-从根到叶的二进制数之和
 [1025]:./Easy/1025-Divisor%20Game/README_CN.md#1025-除数博弈
+[1026]:./Medium/1026-Maximum%20Difference%20Between%20Node%20and%20Ancestor/README_CN.md#1026-节点与其祖先之间的最大差值
 [1029]:./Easy/1029-Two%20City%20Scheduling/README_CN.md#1029-两地调度
 [1030]:./Easy/1030-Matrix%20Cells%20in%20Distance%20Order/README_CN.md#1030-距离顺序排列矩阵单元格
 [1033]:./Easy/1033-Moving%20Stones%20Until%20Consecutive/README_CN.md#1033-移动石子直到连续
@@ -987,6 +989,7 @@
 [1021l]:https://leetcode-cn.com/problems/remove-outermost-parentheses/
 [1022l]:https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/
 [1025l]:https://leetcode-cn.com/problems/divisor-game/
+[1026l]:https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/
 [1029l]:https://leetcode-cn.com/problems/two-city-scheduling/
 [1030l]:https://leetcode-cn.com/problems/matrix-cells-in-distance-order/
 [1033l]:https://leetcode-cn.com/problems/moving-stones-until-consecutive/
