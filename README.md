@@ -144,6 +144,7 @@
 [521][521l]  |[Longest Uncommon Subsequence I][521]                         |![r]
 [530][530l]  |[Minimum Absolute Difference in BST][530]                     |![p]
 [532][532l]  |[K-diff Pairs in an Array][532]                               |![r]
+[537][537l]  |[Complex Number Multiplication][537]                          |![p]
 [538][538l]  |[Convert BST to Greater Tree][538]                            |![p]
 [541][541l]  |[Reverse String II][541]                                      |![p]
 [543][543l]  |[Diameter of Binary Tree][543]                                |![p]
@@ -478,6 +479,7 @@
 [521]:./Easy/0521-Longest%20Uncommon%20Subsequence%20I/README.md#521-longest-uncommon-subsequence-i
 [530]:./Easy/0530-Minimum%20Absolute%20Difference%20in%20BST/README.md#530-minimum-absolute-difference-in-bst
 [532]:./Easy/0532-K-diff%20Pairs%20in%20an%20Array/README.md#532-k-diff-pairs-in-an-array
+[537]:./Medium/0537-Complex%20Number%20Multiplication/README.md#537-complex-number-multiplication
 [538]:./Easy/0538-Convert%20BST%20to%20Greater%20Tree/README.md#538-convert-bst-to-greater-tree
 [541]:./Easy/0541-Reverse%20String%20II/README.md#541-reverse-string-ii
 [543]:./Easy/0543-Diameter%20of%20Binary%20Tree/README.md#543-diameter-of-binary-tree
@@ -843,6 +845,7 @@
 [521l]:https://leetcode.com/problems/longest-uncommon-subsequence-i/
 [530l]:https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 [532l]:https://leetcode.com/problems/k-diff-pairs-in-an-array/
+[537l]:https://leetcode.com/problems/complex-number-multiplication/
 [538l]:https://leetcode.com/problems/convert-bst-to-greater-tree/
 [541l]:https://leetcode.com/problems/reverse-string-ii/
 [543l]:https://leetcode.com/problems/diameter-of-binary-tree/
