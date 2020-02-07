@@ -227,6 +227,7 @@
 [832][832l]  |[翻转图像][832]                                   |![p]
 [836][836l]  |[矩形重叠][836]                                   |![r]
 [840][840l]  |[矩阵中的幻方][840]                               |![r]
+[841][841l]  |[钥匙和房间][841]                                 |![r]
 [844][844l]  |[比较含退格的字符串][844]                         |![p]
 [849][849l]  |[到最近的人的最大距离][849]                       |![r]
 [852][852l]  |[山脉数组的峰顶索引][852]                         |![r]
@@ -562,6 +563,7 @@
 [832]:./Easy/0832-Flipping%20an%20Image/README_CN.md#832-翻转图像
 [836]:./Easy/0836-Rectangle%20Overlap/README_CN.md#836-矩形重叠
 [840]:./Easy/0840-Magic%20Squares%20In%20Grid/README_CN.md#840-矩阵中的幻方
+[841]:./Medium/0841-Keys%20and%20Rooms/README_CN.md#841-钥匙和房间
 [844]:./Easy/0844-Backspace%20String%20Compare/README_CN.md#844-比较含退格的字符串
 [849]:./Easy/0849-Maximize%20Distance%20to%20Closest%20Person/README_CN.md#849-到最近的人的最大距离
 [852]:./Easy/0852-Peak%20Index%20in%20a%20Mountain%20Array/README_CN.md#852-山脉数组的峰顶索引
