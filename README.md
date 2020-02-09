@@ -286,6 +286,7 @@
 [1022][1022l]|[Sum of Root To Leaf Binary Numbers][1022]                    |![p]
 [1025][1025l]|[Divisor Game][1025]                                          |![r]
 [1026][1026l]|[Maximum Difference Between Node and Ancestor][1026]          |![p]
+[1028][1028l]|[Recover a Tree From Preorder Traversal][1028]                |![p]
 [1029][1029l]|[Two City Scheduling][1029]                                   |![p]
 [1030][1030l]|[Matrix Cells in Distance Order][1030]                        |![r]
 [1033][1033l]|[Moving Stones Until Consecutive][1033]                       |![r]
@@ -623,6 +624,7 @@
 [1022]:./Easy/1022-Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/README.md#1022-sum-of-root-to-leaf-binary-numbers
 [1025]:./Easy/1025-Divisor%20Game/README.md#1025-divisor-game
 [1026]:./Medium/1026-Maximum%20Difference%20Between%20Node%20and%20Ancestor/README.md#1026-maximum-difference-between-node-and-ancestor
+[1028]:./Hard/1028-Recover%20a%20Tree%20From%20Preorder%20Traversal/README.md#1028-recover-a-tree-from-preorder-traversal
 [1029]:./Easy/1029-Two%20City%20Scheduling/README.md#1029-two-city-scheduling
 [1030]:./Easy/1030-Matrix%20Cells%20in%20Distance%20Order/README.md#1030-matrix-cells-in-distance-order
 [1033]:./Easy/1033-Moving%20Stones%20Until%20Consecutive/README.md#1033-moving-stones-until-consecutive
@@ -997,6 +999,7 @@
 [1022l]:https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 [1025l]:https://leetcode.com/problems/divisor-game/
 [1026l]:https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
+[1028l]:https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
 [1029l]:https://leetcode.com/problems/two-city-scheduling/
 [1030l]:https://leetcode.com/problems/matrix-cells-in-distance-order/
 [1033l]:https://leetcode.com/problems/moving-stones-until-consecutive/
