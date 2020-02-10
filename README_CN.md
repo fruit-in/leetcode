@@ -321,6 +321,7 @@
 [1247][1247l]|[交换字符使得字符串相同][1247]                    |![p]
 [1252][1252l]|[奇数值单元格的数目][1252]                        |![r]
 [1260][1260l]|[二维网格迁移][1260]                              |![r]
+[1261][1261l]|[在受污染的二叉树中查找元素][1261]                |![p]
 [1266][1266l]|[访问所有点的最小时间][1266]                      |![r]
 [1275][1275l]|[找出井字棋的获胜者][1275]                        |![r]
 [1281][1281l]|[整数的各位积和之差][1281]                        |![r]
@@ -659,6 +660,7 @@
 [1247]:./Medium/1247-Minimum%20Swaps%20to%20Make%20Strings%20Equal/README_CN.md#1247-交换字符使得字符串相同
 [1252]:./Easy/1252-Cells%20with%20Odd%20Values%20in%20a%20Matrix/README_CN.md#1252-奇数值单元格的数目
 [1260]:./Easy/1260-Shift%202D%20Grid/README_CN.md#1260-二维网格迁移
+[1261]:./Medium/1261-Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree/README_CN.md#1261-在受污染的二叉树中查找元素
 [1266]:./Easy/1266-Minimum%20Time%20Visiting%20All%20Points/README_CN.md#1266-访问所有点的最小时间
 [1275]:./Easy/1275-Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/README_CN.md#1275-找出井字棋的获胜者
 [1281]:./Easy/1281-Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/README_CN.md#1281-整数的各位积和之差
@@ -1034,6 +1036,7 @@
 [1247l]:https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal/
 [1252l]:https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix/
 [1260l]:https://leetcode-cn.com/problems/shift-2d-grid/
+[1261l]:https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree/
 [1266l]:https://leetcode-cn.com/problems/minimum-time-visiting-all-points/
 [1275l]:https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game/
 [1281l]:https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
