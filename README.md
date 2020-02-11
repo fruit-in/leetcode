@@ -316,6 +316,7 @@
 [1217][1217l]|[Play with Chips][1217]                                       |![r]
 [1220][1220l]|[Count Vowels Permutation][1220]                              |![r]
 [1221][1221l]|[Split a String in Balanced Strings][1221]                    |![r]
+[1222][1222l]|[Queens That Can Attack the King][1222]                       |![r]
 [1232][1232l]|[Check If It Is a Straight Line][1232]                        |![r]
 [1237][1237l]|[Find Positive Integer Solution for a Given Equation][1237]   |![p]
 [1247][1247l]|[Minimum Swaps to Make Strings Equal][1247]                   |![p]
@@ -655,6 +656,7 @@
 [1217]:./Easy/1217-Play%20with%20Chips/README.md#1217-play-with-chips
 [1220]:./Hard/1220-Count%20Vowels%20Permutation/README.md#1220-count-vowels-permutation
 [1221]:./Easy/1221-Split%20a%20String%20in%20Balanced%20Strings/README.md#1221-split-a-string-in-balanced-strings
+[1222]:./Medium/1222-Queens%20That%20Can%20Attack%20the%20King/README.md#1222-queens-that-can-attack-the-king
 [1232]:./Easy/1232-Check%20If%20It%20Is%20a%20Straight%20Line/README.md#1232-check-if-it-is-a-straight-line
 [1237]:./Easy/1237-Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/README.md#1237-find-positive-integer-solution-for-a-given-equation
 [1247]:./Medium/1247-Minimum%20Swaps%20to%20Make%20Strings%20Equal/README.md#1247-minimum-swaps-to-make-strings-equal
@@ -1031,6 +1033,7 @@
 [1217l]:https://leetcode.com/problems/play-with-chips/
 [1220l]:https://leetcode.com/problems/count-vowels-permutation/
 [1221l]:https://leetcode.com/problems/split-a-string-in-balanced-strings/
+[1222l]:https://leetcode.com/problems/queens-that-can-attack-the-king/
 [1232l]:https://leetcode.com/problems/check-if-it-is-a-straight-line/
 [1237l]:https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 [1247l]:https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
