@@ -120,6 +120,7 @@
 [434][434l]  |[Number of Segments in a String][434]                         |![p]
 [437][437l]  |[Path Sum III][437]                                           |![p]
 [441][441l]  |[Arranging Coins][441]                                        |![p]
+[442][442l]  |[Find All Duplicates in an Array][442]                        |![r]
 [443][443l]  |[String Compression][443]                                     |![p]
 [447][447l]  |[Number of Boomerangs][447]                                   |![r]
 [448][448l]  |[Find All Numbers Disappeared in an Array][448]               |![r]
@@ -461,6 +462,7 @@
 [434]:./Easy/0434-Number%20of%20Segments%20in%20a%20String/README.md#434-number-of-segments-in-a-string
 [437]:./Easy/0437-Path%20Sum%20III/README.md#437-path-sum-iii
 [441]:./Easy/0441-Arranging%20Coins/README.md#441-arranging-coins
+[442]:./Medium/0442-Find%20All%20Duplicates%20in%20an%20Array/README.md#442-find-all-duplicates-in-an-array
 [443]:./Easy/0443-String%20Compression/README.md#443-string-compression
 [447]:./Easy/0447-Number%20of%20Boomerangs/README.md#447-number-of-boomerangs
 [448]:./Easy/0448-Find%20All%20Numbers%20Disappeared%20in%20an%20Array/README.md#448-find-all-numbers-disappeared-in-an-array
@@ -833,6 +835,7 @@
 [434l]:https://leetcode.com/problems/number-of-segments-in-a-string/
 [437l]:https://leetcode.com/problems/path-sum-iii/
 [441l]:https://leetcode.com/problems/arranging-coins/
+[442l]:https://leetcode.com/problems/find-all-duplicates-in-an-array/
 [443l]:https://leetcode.com/problems/string-compression/
 [447l]:https://leetcode.com/problems/number-of-boomerangs/
 [448l]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
