@@ -339,6 +339,7 @@
 [1313][1313l]|[Decompress Run-Length Encoded List][1313]                    |![r]
 [1317][1317l]|[Convert Integer to the Sum of Two No-Zero Integers][1317]    |![r]
 [1323][1323l]|[Maximum 69 Number][1323]                                     |![r]
+[1331][1331l]|[Rank Transform of an Array][1331]                            |![p]
 
 
 [p]:./ico/python.ico
@@ -682,6 +683,7 @@
 [1313]:./Easy/1313-Decompress%20Run-Length%20Encoded%20List/README.md#1313-decompress-run-length-encoded-list
 [1317]:./Easy/1317-Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers/README.md#1317-convert-integer-to-the-sum-of-two-no-zero-integers
 [1323]:./Easy/1323-Maximum%2069%20Number/README.md#1323-maximum-69-number
+[1331]:./Easy/1331-Rank%20Transform%20of%20an%20Array/README.md#1331-rank-transform-of-an-array
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1062,3 +1064,4 @@
 [1313l]:https://leetcode.com/problems/decompress-run-length-encoded-list/
 [1317l]:https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
 [1323l]:https://leetcode.com/problems/maximum-69-number/
+[1331l]:https://leetcode.com/problems/rank-transform-of-an-array/
