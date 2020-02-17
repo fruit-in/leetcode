@@ -294,6 +294,7 @@
 [1030][1030l]|[Matrix Cells in Distance Order][1030]                        |![r]
 [1033][1033l]|[Moving Stones Until Consecutive][1033]                       |![r]
 [1037][1037l]|[Valid Boomerang][1037]                                       |![r]
+[1038][1038l]|[Binary Search Tree to Greater Sum Tree][1038]                |![p]
 [1042][1042l]|[Flower Planting With No Adjacent][1042]                      |![r]
 [1046][1046l]|[Last Stone Weight][1046]                                     |![p]
 [1047][1047l]|[Remove All Adjacent Duplicates In String][1047]              |![p]
@@ -639,6 +640,7 @@
 [1030]:./Easy/1030-Matrix%20Cells%20in%20Distance%20Order/README.md#1030-matrix-cells-in-distance-order
 [1033]:./Easy/1033-Moving%20Stones%20Until%20Consecutive/README.md#1033-moving-stones-until-consecutive
 [1037]:./Easy/1037-Valid%20Boomerang/README.md#1037-valid-boomerang
+[1038]:./Medium/1038-Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree/README.md#1038-binary-search-tree-to-greater-sum-tree
 [1042]:./Easy/1042-Flower%20Planting%20With%20No%20Adjacent/README.md#1042-flower-planting-with-no-adjacent
 [1046]:./Easy/1046-Last%20Stone%20Weight/README.md#1046-last-stone-weight
 [1047]:./Easy/1047-Remove%20All%20Adjacent%20Duplicates%20In%20String/README.md#1047-remove-all-adjacent-duplicates-in-string
@@ -1021,6 +1023,7 @@
 [1030l]:https://leetcode.com/problems/matrix-cells-in-distance-order/
 [1033l]:https://leetcode.com/problems/moving-stones-until-consecutive/
 [1037l]:https://leetcode.com/problems/valid-boomerang/
+[1038l]:https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
 [1042l]:https://leetcode.com/problems/flower-planting-with-no-adjacent/
 [1046l]:https://leetcode.com/problems/last-stone-weight/
 [1047l]:https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
