@@ -27,6 +27,7 @@
 [67][67l]    |[二进制求和][67]                                  |![p]
 [69][69l]    |[x 的平方根][69]                                  |![r]
 [70][70l]    |[爬楼梯][70]                                      |![r]
+[73][73l]    |[矩阵置零][73]                                    |![r]
 [75][75l]    |[颜色分类][75]                                    |![r]
 [83][83l]    |[删除排序链表中的重复元素][83]                    |![p]
 [88][88l]    |[合并两个有序数组][88]                            |![r]
@@ -373,6 +374,7 @@
 [67]:./Easy/0067-Add%20Binary/README_CN.md#67-二进制求和
 [69]:./Easy/0069-Sqrt\(x\)/README_CN.md#69-x-的平方根
 [70]:./Easy/0070-Climbing%20Stairs/README_CN.md#70-爬楼梯
+[73]:./Medium/0073-Set%20Matrix%20Zeroes/README_CN.md#73-矩阵置零
 [75]:./Medium/0075-Sort%20Colors/README_CN.md#75-颜色分类
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README_CN.md#83-删除排序链表中的重复元素
 [88]:./Easy/0088-Merge%20Sorted%20Array/README_CN.md#88-合并两个有序数组
@@ -688,7 +690,7 @@
 [1317]:./Easy/1317-Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers/README_CN.md#1317-将整数转换为两个无零整数的和
 [1323]:./Easy/1323-Maximum%2069%20Number/README_CN.md#1323-6-和-9-组成的最大数字
 [1331]:./Easy/1331-Rank%20Transform%20of%20an%20Array/README_CN.md#1331-数组序号转换
- 
+
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
 [3l]:https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
@@ -723,6 +725,7 @@
 [67l]:https://leetcode-cn.com/problems/add-binary/
 [69l]:https://leetcode-cn.com/problems/sqrtx/
 [70l]:https://leetcode-cn.com/problems/climbing-stairs/
+[73l]:https://leetcode-cn.com/problems/set-matrix-zeroes/
 [75l]:https://leetcode-cn.com/problems/sort-colors/
 [77l]:https://leetcode-cn.com/problems/combinations/
 [83l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/

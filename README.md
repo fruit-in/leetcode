@@ -27,6 +27,7 @@
 [67][67l]    |[Add Binary][67]                                              |![p]
 [69][69l]    |[Sqrt(x)][69]                                                 |![r]
 [70][70l]    |[Climbing Stairs][70]                                         |![r]
+[73][73l]    |[Set Matrix Zeroes][73]                                       |![r]
 [75][75l]    |[Sort Colors][75]                                             |![r]
 [83][83l]    |[Remove Duplicates from Sorted List][83]                      |![p]
 [88][88l]    |[Merge Sorted Array][88]                                      |![r]
@@ -373,6 +374,7 @@
 [67]:./Easy/0067-Add%20Binary/README.md#67-add-binary
 [69]:./Easy/0069-Sqrt\(x\)/README.md#69-sqrtx
 [70]:./Easy/0070-Climbing%20Stairs/README.md#70-climbing-stairs
+[73]:./Medium/0073-Set%20Matrix%20Zeroes/README.md#73-set-matrix-zeroes
 [75]:./Medium/0075-Sort%20Colors/README.md#75-sort-colors
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README.md#83-remove-duplicates-from-sorted-list
 [88]:./Easy/0088-Merge%20Sorted%20Array/README.md#88-merge-sorted-array
@@ -723,6 +725,7 @@
 [67l]:https://leetcode.com/problems/add-binary/
 [69l]:https://leetcode.com/problems/sqrtx/
 [70l]:https://leetcode.com/problems/climbing-stairs/
+[73l]:https://leetcode.com/problems/set-matrix-zeroes/
 [75l]:https://leetcode.com/problems/sort-colors/
 [77l]:https://leetcode.com/problems/combinations/
 [83l]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/
