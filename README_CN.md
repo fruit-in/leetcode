@@ -4,6 +4,7 @@
 |#           |题名                                              |编程语言
 -------------|--------------------------------------------------|:----------------------------------:
 [1][1l]      |[两数之和][1]                                     |![p]&nbsp;&nbsp;![r]&nbsp;&nbsp;![c]
+[2][2l]      |[两数相加][2]                                     |![p]
 [6][6l]      |[Z 字形变换][6]                                   |![p]
 [7][7l]      |[整数反转][7]                                     |![p]&nbsp;&nbsp;![c]
 [9][9l]      |[回文数][9]                                       |![p]&nbsp;&nbsp;![c]
@@ -352,6 +353,7 @@
 [l]:./ico/leetcode.png
 
 [1]:./Easy/0001-Two%20Sum/README_CN.md#1-两数之和
+[2]:./Medium/0002-Add%20Two%20Numbers/README_CN.md#2-两数相加
 [6]:./Medium/0006-ZigZag%20Conversion/README_CN.md#6-z-字形变换
 [7]:./Easy/0007-Reverse%20Integer/README_CN.md#7-整数反转
 [9]:./Easy/0009-Palindrome%20Number/README_CN.md#9-回文数
