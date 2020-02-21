@@ -7,6 +7,7 @@
 [2][2l]      |[两数相加][2]                                     |![p]
 [6][6l]      |[Z 字形变换][6]                                   |![p]
 [7][7l]      |[整数反转][7]                                     |![p]&nbsp;&nbsp;![c]
+[8][8l]      |[字符串转换整数 (atoi)][8]                        |![p]
 [9][9l]      |[回文数][9]                                       |![p]&nbsp;&nbsp;![c]
 [11][11l]    |[盛最多水的容器][11]                              |![r]&nbsp;&nbsp;![c]
 [12][12l]    |[整数转罗马数字][12]                              |![p]
@@ -356,6 +357,7 @@
 [2]:./Medium/0002-Add%20Two%20Numbers/README_CN.md#2-两数相加
 [6]:./Medium/0006-ZigZag%20Conversion/README_CN.md#6-z-字形变换
 [7]:./Easy/0007-Reverse%20Integer/README_CN.md#7-整数反转
+[8]:./Medium/0008-String%20to%20Integer%20\(atoi\)/README_CN.md#8-字符串转换整数-atoi
 [9]:./Easy/0009-Palindrome%20Number/README_CN.md#9-回文数
 [11]:./Medium/0011-Container%20With%20Most%20Water/README_CN.md#11-盛最多水的容器
 [12]:./Medium/0012-Integer%20to%20Roman/README_CN.md#12-整数转罗马数字
@@ -700,6 +702,7 @@
 [3l]:https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
 [6l]:https://leetcode-cn.com/problems/zigzag-conversion/
 [7l]:https://leetcode-cn.com/problems/reverse-integer/
+[8l]:https://leetcode-cn.com/problems/string-to-integer-atoi/
 [9l]:https://leetcode-cn.com/problems/palindrome-number/
 [11l]:https://leetcode-cn.com/problems/container-with-most-water/
 [12l]:https://leetcode-cn.com/problems/integer-to-roman/

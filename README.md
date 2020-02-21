@@ -7,6 +7,7 @@
 [2][2l]      |[Add Two Numbers][2]                                          |![p]
 [6][6l]      |[ZigZag Conversion][6]                                        |![p]
 [7][7l]      |[Reverse Integer][7]                                          |![p]&nbsp;&nbsp;![c]
+[8][8l]      |[String to Integer (atoi)][8]                                 |![p]
 [9][9l]      |[Palindrome Number][9]                                        |![p]&nbsp;&nbsp;![c]
 [11][11l]    |[Container With Most Water][11]                               |![r]&nbsp;&nbsp;![c]
 [12][12l]    |[Integer to Roman][12]                                        |![p]
@@ -356,6 +357,7 @@
 [2]:./Medium/0002-Add%20Two%20Numbers/README.md#2-add-two-numbers
 [6]:./Medium/0006-ZigZag%20Conversion/README.md#6-zigzag-conversion
 [7]:./Easy/0007-Reverse%20Integer/README.md#7-reverse-integer
+[8]:./Medium/0008-String%20to%20Integer%20\(atoi\)/README.md#8-string-to-integer-atoi
 [9]:./Easy/0009-Palindrome%20Number/README.md#9-palindrome-number
 [11]:./Medium/0011-Container%20With%20Most%20Water/README.md#11-container-with-most-water
 [12]:./Medium/0012-Integer%20to%20Roman/README.md#12-integer-to-roman
@@ -700,6 +702,7 @@
 [3l]:https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [6l]:https://leetcode.com/problems/zigzag-conversion/
 [7l]:https://leetcode.com/problems/reverse-integer/
+[8l]:https://leetcode.com/problems/string-to-integer-atoi/
 [9l]:https://leetcode.com/problems/palindrome-number/
 [11l]:https://leetcode.com/problems/container-with-most-water/
 [12l]:https://leetcode.com/problems/integer-to-roman/
