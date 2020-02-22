@@ -13,6 +13,7 @@
 [12][12l]    |[Integer to Roman][12]                                        |![p]
 [13][13l]    |[Roman to Integer][13]                                        |![r]
 [14][14l]    |[Longest Common Prefix][14]                                   |![p]
+[19][19l]    |[Remove Nth Node From End of List][19]                        |![p]
 [20][20l]    |[Valid Parentheses][20]                                       |![p]
 [21][21l]    |[Merge Two Sorted Lists][21]                                  |![p]
 [24][24l]    |[Swap Nodes in Pairs][24]                                     |![p]
@@ -363,6 +364,7 @@
 [12]:./Medium/0012-Integer%20to%20Roman/README.md#12-integer-to-roman
 [13]:./Easy/0013-Roman%20to%20Integer/README.md#13-roman-to-integer
 [14]:./Easy/0014-Longest%20Common%20Prefix/README.md#14-longest-common-prefix
+[19]:./Medium/0019-Remove%20Nth%20Node%20From%20End%20of%20List/README.md#19-remove-nth-node-from-end-of-list
 [20]:./Easy/0020-Valid%20Parentheses/README.md#20-valid-parentheses
 [21]:./Easy/0021-Merge%20Two%20Sorted%20Lists/README.md#21-merge-two-sorted-lists
 [24]:./Medium/0024-Swap%20Nodes%20in%20Pairs/README.md#24-swap-nodes-in-pairs
@@ -709,6 +711,7 @@
 [13l]:https://leetcode.com/problems/roman-to-integer/
 [14l]:https://leetcode.com/problems/longest-common-prefix/
 [17l]:https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+[19l]:https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [20l]:https://leetcode.com/problems/valid-parentheses/
 [21l]:https://leetcode.com/problems/merge-two-sorted-lists/
 [22l]:https://leetcode.com/problems/generate-parentheses/
