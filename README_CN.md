@@ -51,6 +51,7 @@
 [121][121l]  |[买卖股票的最佳时机][121]                         |![r]
 [122][122l]  |[买卖股票的最佳时机 II][122]                      |![r]
 [125][125l]  |[验证回文串][125]                                 |![p]
+[129][129l]  |[求根到叶子节点数字之和][129]                     |![p]
 [136][136l]  |[只出现一次的数字][136]                           |![r]
 [141][141l]  |[环形链表][141]                                   |![p]
 [144][144l]  |[二叉树的前序遍历][144]                           |![p]
@@ -402,6 +403,7 @@
 [121]:./Easy/0121-Best%20Time%20to%20Buy%20and%20Sell%20Stock/README_CN.md#121-买卖股票的最佳时机
 [122]:./Easy/0122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README_CN.md#122-买卖股票的最佳时机-ii
 [125]:./Easy/0125-Valid%20Palindrome/README_CN.md#125-验证回文串
+[129]:./Medium/0129-Sum%20Root%20to%20Leaf%20Numbers/README_CN.md#129-求根到叶子节点数字之和
 [136]:./Easy/0136-Single%20Number/README_CN.md#136-只出现一次的数字
 [141]:./Easy/0141-Linked%20List%20Cycle/README_CN.md#141-环形链表
 [144]:./Medium/0144-Binary%20Tree%20Preorder%20Traversal/README_CN.md#144-二叉树的前序遍历
@@ -763,6 +765,7 @@
 [121l]:https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/
 [122l]:https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/
 [125l]:https://leetcode-cn.com/problems/valid-palindrome/
+[129l]:https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/
 [133l]:https://leetcode-cn.com/problems/clone-graph/
 [136l]:https://leetcode-cn.com/problems/single-number/
 [138l]:https://leetcode-cn.com/problems/copy-list-with-random-pointer/
