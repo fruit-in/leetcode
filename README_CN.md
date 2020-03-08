@@ -350,6 +350,7 @@
 [1323][1323l]|[6 和 9 组成的最大数字][1323]                     |![r]
 [1331][1331l]|[数组序号转换][1331]                              |![p]
 [1337][1337l]|[方阵中战斗力最弱的 K 行][1337]                   |![r]
+[1342][1342l]|[将数字变成 0 的操作次数][1342]                   |![r]
 
 
 [p]:./ico/python.ico
@@ -704,6 +705,7 @@
 [1323]:./Easy/1323-Maximum%2069%20Number/README_CN.md#1323-6-和-9-组成的最大数字
 [1331]:./Easy/1331-Rank%20Transform%20of%20an%20Array/README_CN.md#1331-数组序号转换
 [1337]:./Easy/1337-The%20K%20Weakest%20Rows%20in%20a%20Matrix/README_CN.md#1337-方阵中战斗力最弱的-K-行
+[1342]:./Easy/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/README_CN.md#1342-将数字变成-0-的操作次数
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1094,3 +1096,4 @@
 [1323l]:https://leetcode-cn.com/problems/maximum-69-number/
 [1331l]:https://leetcode-cn.com/problems/rank-transform-of-an-array/
 [1337l]:https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/
+[1342l]:https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/
