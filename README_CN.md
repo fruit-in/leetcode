@@ -60,6 +60,7 @@
 [150][150l]  |[逆波兰表达式求值][150]                           |![r]
 [155][155l]  |[最小栈][155]                                     |![r]
 [160][160l]  |[相交链表][160]                                   |![p]
+[162][162l]  |[寻找峰值][162]                                   |![r]
 [167][167l]  |[两数之和 II - 输入有序数组][167]                 |![r]
 [168][168l]  |[Excel表列名称][168]                              |![p]
 [169][169l]  |[多数元素][169]                                   |![r]
@@ -416,6 +417,7 @@
 [150]:./Medium/0150-Evaluate%20Reverse%20Polish%20Notation/README_CN.md#150-逆波兰表达式求值
 [155]:./Easy/0155-Min%20Stack/README_CN.md#155-最小栈
 [160]:./Easy/0160-Intersection%20of%20Two%20Linked%20Lists/README_CN.md#160-相交链表
+[162]:./Medium/0162-Find%20Peak%20Element/README_CN.md#162-寻找峰值
 [167]:./Easy/0167-Two%20Sum%20II%20-%20Input%20array%20is%20sorted/README_CN.md#167-两数之和-ii---输入有序数组
 [168]:./Easy/0168-Excel%20Sheet%20Column%20Title/README_CN.md#168-excel表列名称
 [169]:./Easy/0169-Majority%20Element/README_CN.md#169-多数元素
@@ -786,6 +788,7 @@
 [151l]:https://leetcode-cn.com/problems/reverse-words-in-a-string/
 [155l]:https://leetcode-cn.com/problems/min-stack/
 [160l]:https://leetcode-cn.com/problems/intersection-of-two-linked-lists/
+[162l]:https://leetcode-cn.com/problems/find-peak-element/
 [167l]:https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
 [168l]:https://leetcode-cn.com/problems/excel-sheet-column-title/
 [169l]:https://leetcode-cn.com/problems/majority-element/
