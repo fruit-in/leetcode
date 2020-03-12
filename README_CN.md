@@ -92,6 +92,7 @@
 [257][257l]  |[二叉树的所有路径][257]                           |![p]
 [258][258l]  |[各位相加][258]                                   |![r]
 [263][263l]  |[丑数][263]                                       |![r]
+[264][264l]  |[丑数 II][264]                                    |![r]
 [268][268l]  |[缺失数字][268]                                   |![r]
 [278][278l]  |[第一个错误的版本][278]                           |![p]
 [279][279l]  |[完全平方数][279]                                 |![r]
@@ -449,6 +450,7 @@
 [257]:./Easy/0257-Binary%20Tree%20Paths/README_CN.md#257-二叉树的所有路径
 [258]:./Easy/0258-Add%20Digits/README_CN.md#258-各位相加
 [263]:./Easy/0263-Ugly%20Number/README_CN.md#263-丑数
+[264]:./Medium/0264-Ugly%20Number%20II/README_CN.md#264-丑数-ii
 [268]:./Easy/0268-Missing%20Number/README_CN.md#268-缺失数字
 [278]:./Easy/0278-First%20Bad%20Version/README_CN.md#278-第一个错误的版本
 [279]:./Medium/0279-Perfect%20Squares/README_CN.md#279-完全平方数
@@ -829,6 +831,7 @@
 [257l]:https://leetcode-cn.com/problems/binary-tree-paths/
 [258l]:https://leetcode-cn.com/problems/add-digits/
 [263l]:https://leetcode-cn.com/problems/ugly-number/
+[264l]:https://leetcode-cn.com/problems/ugly-number-ii/
 [268l]:https://leetcode-cn.com/problems/missing-number/
 [278l]:https://leetcode-cn.com/problems/first-bad-version/
 [279l]:https://leetcode-cn.com/problems/perfect-squares/

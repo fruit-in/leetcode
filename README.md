@@ -92,6 +92,7 @@
 [257][257l]  |[Binary Tree Paths][257]                                      |![p]
 [258][258l]  |[Add Digits][258]                                             |![r]
 [263][263l]  |[Ugly Number][263]                                            |![r]
+[264][264l]  |[Ugly Number II][264]                                         |![r]
 [268][268l]  |[Missing Number][268]                                         |![r]
 [278][278l]  |[First Bad Version][278]                                      |![p]
 [279][279l]  |[Perfect Squares][279]                                        |![r]
@@ -449,6 +450,7 @@
 [257]:./Easy/0257-Binary%20Tree%20Paths/README.md#257-binary-tree-paths
 [258]:./Easy/0258-Add%20Digits/README.md#258-add-digits
 [263]:./Easy/0263-Ugly%20Number/README.md#263-ugly-number
+[264]:./Medium/0264-Ugly%20Number%20II/README.md#264-ugly-number-ii
 [268]:./Easy/0268-Missing%20Number/README.md#268-missing-number
 [278]:./Easy/0278-First%20Bad%20Version/README.md#278-first-bad-version
 [279]:./Medium/0279-Perfect%20Squares/README.md#279-perfect-squares
@@ -829,6 +831,7 @@
 [257l]:https://leetcode.com/problems/binary-tree-paths/
 [258l]:https://leetcode.com/problems/add-digits/
 [263l]:https://leetcode.com/problems/ugly-number/
+[264l]:https://leetcode.com/problems/ugly-number-ii/
 [268l]:https://leetcode.com/problems/missing-number/
 [278l]:https://leetcode.com/problems/first-bad-version/
 [279l]:https://leetcode.com/problems/perfect-squares/
