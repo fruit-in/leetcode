@@ -25,6 +25,7 @@
 [38][38l]    |[Count and Say][38]                                           |![p]
 [50][50l]    |[Pow(x, n)][50]                                               |![r]
 [53][53l]    |[Maximum Subarray][53]                                        |![r]
+[54][54l]    |[Spiral Matrix][54]                                           |![r]
 [58][58l]    |[Length of Last Word][58]                                     |![r]
 [66][66l]    |[Plus One][66]                                                |![r]
 [67][67l]    |[Add Binary][67]                                              |![p]
@@ -384,6 +385,7 @@
 [38]:./Easy/0038-Count%20and%20Say/README.md#38-count-and-say
 [50]:./Medium/0050-Pow\(x,%20n\)/README.md#50-powx-n
 [53]:./Easy/0053-Maximum%20Subarray/README.md#53-maximum-subarray
+[54]:./Medium/0054-Spiral%20Matrix/README.md#54-spiral-matrix
 [58]:./Easy/0058-Length%20of%20Last%20Word/README.md#58-length-of-last-word
 [66]:./Easy/0066-Plus%20One/README.md#66-plus-one
 [67]:./Easy/0067-Add%20Binary/README.md#67-add-binary

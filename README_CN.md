@@ -25,6 +25,7 @@
 [38][38l]    |[外观数列][38]                                    |![p]
 [50][50l]    |[Pow(x, n)][50]                                   |![r]
 [53][53l]    |[最大子序和][53]                                  |![r]
+[54][54l]    |[螺旋矩阵][54]                                    |![r]
 [58][58l]    |[最后一个单词的长度][58]                          |![r]
 [66][66l]    |[加一][66]                                        |![r]
 [67][67l]    |[二进制求和][67]                                  |![p]
@@ -384,6 +385,7 @@
 [38]:./Easy/0038-Count%20and%20Say/README_CN.md#38-外观数列
 [50]:./Medium/0050-Pow\(x,%20n\)/README_CN.md#50-powx-n
 [53]:./Easy/0053-Maximum%20Subarray/README_CN.md#53-最大子序和
+[54]:./Medium/0054-Spiral%20Matrix/README_CN.md#54-螺旋矩阵
 [58]:./Easy/0058-Length%20of%20Last%20Word/README_CN.md#58-最后一个单词的长度
 [66]:./Easy/0066-Plus%20One/README_CN.md#66-加一
 [67]:./Easy/0067-Add%20Binary/README_CN.md#67-二进制求和
