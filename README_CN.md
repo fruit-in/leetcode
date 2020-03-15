@@ -356,6 +356,7 @@
 [1332][1332l]|[删除回文子序列][1332]                            |![p]
 [1337][1337l]|[方阵中战斗力最弱的 K 行][1337]                   |![r]
 [1342][1342l]|[将数字变成 0 的操作次数][1342]                   |![r]
+[1346][1346l]|[检查整数及其两倍数是否存在][1346]                |![r]
 
 
 [p]:./ico/python.ico
@@ -716,6 +717,7 @@
 [1332]:./Easy/1332-Remove%20Palindromic%20Subsequences/README_CN.md#1332-删除回文子序列
 [1337]:./Easy/1337-The%20K%20Weakest%20Rows%20in%20a%20Matrix/README_CN.md#1337-方阵中战斗力最弱的-K-行
 [1342]:./Easy/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/README_CN.md#1342-将数字变成-0-的操作次数
+[1346]:./Easy/1346-Check%20If%20N%20and%20Its%20Double%20Exist/README_CN.md#1346-检查整数及其两倍数是否存在
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1111,3 +1113,4 @@
 [1332l]:https://leetcode-cn.com/problems/remove-palindromic-subsequences/
 [1337l]:https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/
 [1342l]:https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+[1346l]:https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/
