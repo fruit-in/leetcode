@@ -352,6 +352,7 @@
 [1315][1315l]|[祖父节点值为偶数的节点和][1315]                  |![p]
 [1317][1317l]|[将整数转换为两个无零整数的和][1317]              |![r]
 [1323][1323l]|[6 和 9 组成的最大数字][1323]                     |![r]
+[1324][1324l]|[竖直打印单词][1324]                              |![p]
 [1331][1331l]|[数组序号转换][1331]                              |![p]
 [1332][1332l]|[删除回文子序列][1332]                            |![p]
 [1337][1337l]|[方阵中战斗力最弱的 K 行][1337]                   |![r]
@@ -713,6 +714,7 @@
 [1315]:./Medium/1315-Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent/README_CN.md#1315-祖父节点值为偶数的节点和
 [1317]:./Easy/1317-Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers/README_CN.md#1317-将整数转换为两个无零整数的和
 [1323]:./Easy/1323-Maximum%2069%20Number/README_CN.md#1323-6-和-9-组成的最大数字
+[1324]:./Medium/1324-Print%20Words%20Vertically/README_CN.md#1324-竖直打印单词
 [1331]:./Easy/1331-Rank%20Transform%20of%20an%20Array/README_CN.md#1331-数组序号转换
 [1332]:./Easy/1332-Remove%20Palindromic%20Subsequences/README_CN.md#1332-删除回文子序列
 [1337]:./Easy/1337-The%20K%20Weakest%20Rows%20in%20a%20Matrix/README_CN.md#1337-方阵中战斗力最弱的-K-行
@@ -1109,6 +1111,7 @@
 [1315l]:https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent/
 [1317l]:https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
 [1323l]:https://leetcode-cn.com/problems/maximum-69-number/
+[1324l]:https://leetcode-cn.com/problems/print-words-vertically/
 [1331l]:https://leetcode-cn.com/problems/rank-transform-of-an-array/
 [1332l]:https://leetcode-cn.com/problems/remove-palindromic-subsequences/
 [1337l]:https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/
