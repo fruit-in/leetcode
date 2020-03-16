@@ -353,6 +353,7 @@
 [1317][1317l]|[Convert Integer to the Sum of Two No-Zero Integers][1317]    |![r]
 [1323][1323l]|[Maximum 69 Number][1323]                                     |![r]
 [1324][1324l]|[Print Words Vertically][1324]                                |![p]
+[1325][1325l]|[Delete Leaves With a Given Value][1325]                      |![p]
 [1331][1331l]|[Rank Transform of an Array][1331]                            |![p]
 [1332][1332l]|[Remove Palindromic Subsequences][1332]                       |![p]
 [1337][1337l]|[The K Weakest Rows in a Matrix][1337]                        |![r]
@@ -715,6 +716,7 @@
 [1317]:./Easy/1317-Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers/README.md#1317-convert-integer-to-the-sum-of-two-no-zero-integers
 [1323]:./Easy/1323-Maximum%2069%20Number/README.md#1323-maximum-69-number
 [1324]:./Medium/1324-Print%20Words%20Vertically/README.md#1324-print-words-vertically
+[1325]:./Medium/1325-Delete%20Leaves%20With%20a%20Given%20Value/README.md#1325-delete-leaves-with-a-given-value
 [1331]:./Easy/1331-Rank%20Transform%20of%20an%20Array/README.md#1331-rank-transform-of-an-array
 [1332]:./Easy/1332-Remove%20Palindromic%20Subsequences/README.md#1332-remove-palindromic-subsequences
 [1337]:./Easy/1337-The%20K%20Weakest%20Rows%20in%20a%20Matrix/README.md#1337-the-k-weakest-rows-in-a-matrix
@@ -1112,6 +1114,7 @@
 [1317l]:https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
 [1323l]:https://leetcode.com/problems/maximum-69-number/
 [1324l]:https://leetcode.com/problems/print-words-vertically/
+[1325l]:https://leetcode.com/problems/delete-leaves-with-a-given-value/
 [1331l]:https://leetcode.com/problems/rank-transform-of-an-array/
 [1332l]:https://leetcode.com/problems/remove-palindromic-subsequences/
 [1337l]:https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
