@@ -309,6 +309,7 @@
 [1046][1046l]|[Last Stone Weight][1046]                                     |![p]
 [1047][1047l]|[Remove All Adjacent Duplicates In String][1047]              |![p]
 [1051][1051l]|[Height Checker][1051]                                        |![p]
+[1052][1052l]|[Grumpy Bookstore Owner][1052]                                |![r]
 [1071][1071l]|[Greatest Common Divisor of Strings][1071]                    |![p]
 [1078][1078l]|[Occurrences After Bigram][1078]                              |![p]
 [1089][1089l]|[Duplicate Zeros][1089]                                       |![r]
@@ -672,6 +673,7 @@
 [1046]:./Easy/1046-Last%20Stone%20Weight/README.md#1046-last-stone-weight
 [1047]:./Easy/1047-Remove%20All%20Adjacent%20Duplicates%20In%20String/README.md#1047-remove-all-adjacent-duplicates-in-string
 [1051]:./Easy/1051-Height%20Checker/README.md#1051-height-checker
+[1052]:./Medium/1052-Grumpy%20Bookstore%20Owner/README.md#1052-grumpy-bookstore-owner
 [1071]:./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings/README.md#1071-greatest-common-divisor-of-strings
 [1078]:./Easy/1078-Occurrences%20After%20Bigram/README.md#1078-occurrences-after-bigram
 [1089]:./Easy/1089-Duplicate%20Zeros/README.md#1089-duplicate-zeros
@@ -1070,6 +1072,7 @@
 [1046l]:https://leetcode.com/problems/last-stone-weight/
 [1047l]:https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [1051l]:https://leetcode.com/problems/height-checker/
+[1052l]:https://leetcode.com/problems/grumpy-bookstore-owner/
 [1071l]:https://leetcode.com/problems/greatest-common-divisor-of-strings/
 [1078l]:https://leetcode.com/problems/occurrences-after-bigram/
 [1089l]:https://leetcode.com/problems/duplicate-zeros/
