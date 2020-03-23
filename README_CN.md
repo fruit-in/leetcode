@@ -102,6 +102,7 @@
 [292][292l]  |[Nim 游戏][292]                                   |![r]
 [299][299l]  |[猜数字游戏][299]                                 |![p]
 [303][303l]  |[区域和检索 - 数组不可变][303]                    |![p]
+[313][313l]  |[超级丑数][313]                                   |![r]
 [326][326l]  |[3的幂][326]                                      |![p]
 [338][338l]  |[比特位计数][338]                                 |![r]
 [342][342l]  |[4的幂][342]                                      |![r]
@@ -467,6 +468,7 @@
 [292]:./Easy/0292-Nim%20Game/README_CN.md#292-nim-游戏
 [299]:./Easy/0299-Bulls%20and%20Cows/README_CN.md#299-猜数字游戏
 [303]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README_CN.md#303-区域和检索---数组不可变
+[313]:./Medium/0313-Super%20Ugly%20Number/README_CN.md#313-超级丑数
 [326]:./Easy/0326-Power%20of%20Three/README_CN.md#326-3的幂
 [338]:./Medium/0338-Counting%20Bits/README_CN.md#338-比特位计数
 [342]:./Easy/0342-Power%20of%20Four/README_CN.md#342-4的幂
@@ -855,6 +857,7 @@
 [297l]:https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
 [299l]:https://leetcode-cn.com/problems/bulls-and-cows/
 [303l]:https://leetcode-cn.com/problems/range-sum-query-immutable/
+[313l]:https://leetcode-cn.com/problems/super-ugly-number/
 [326l]:https://leetcode-cn.com/problems/power-of-three/
 [328l]:https://leetcode-cn.com/problems/odd-even-linked-list/
 [336l]:https://leetcode-cn.com/problems/palindrome-pairs/

@@ -102,6 +102,7 @@
 [292][292l]  |[Nim Game][292]                                               |![r]
 [299][299l]  |[Bulls and Cows][299]                                         |![p]
 [303][303l]  |[Range Sum Query - Immutable][303]                            |![p]
+[313][313l]  |[Super Ugly Number][313]                                      |![r]
 [326][326l]  |[Power of Three][326]                                         |![p]
 [338][338l]  |[Counting Bits][338]                                          |![r]
 [342][342l]  |[Power of Four][342]                                          |![r]
@@ -467,6 +468,7 @@
 [292]:./Easy/0292-Nim%20Game/README.md#292-nim-game
 [299]:./Easy/0299-Bulls%20and%20Cows/README.md#299-bulls-and-cows
 [303]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README.md#303-range-sum-query---immutable
+[313]:./Medium/0313-Super%20Ugly%20Number/README.md#313-super-ugly-number
 [326]:./Easy/0326-Power%20of%20Three/README.md#326-power-of-three
 [338]:./Medium/0338-Counting%20Bits/README.md#338-counting-bits
 [342]:./Easy/0342-Power%20of%20Four/README.md#342-power-of-four
@@ -855,6 +857,7 @@
 [297l]:https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 [299l]:https://leetcode.com/problems/bulls-and-cows/
 [303l]:https://leetcode.com/problems/range-sum-query-immutable/
+[313l]:https://leetcode.com/problems/super-ugly-number/
 [326l]:https://leetcode.com/problems/power-of-three/
 [328l]:https://leetcode.com/problems/odd-even-linked-list/
 [336l]:https://leetcode.com/problems/palindrome-pairs/
