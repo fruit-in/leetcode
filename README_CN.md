@@ -104,6 +104,7 @@
 [303][303l]  |[区域和检索 - 数组不可变][303]                    |![p]
 [313][313l]  |[超级丑数][313]                                   |![r]
 [326][326l]  |[3的幂][326]                                      |![p]
+[328][328l]  |[奇偶链表][328]                                   |![p]
 [338][338l]  |[比特位计数][338]                                 |![r]
 [342][342l]  |[4的幂][342]                                      |![r]
 [344][344l]  |[反转字符串][344]                                 |![r]
@@ -470,6 +471,7 @@
 [303]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README_CN.md#303-区域和检索---数组不可变
 [313]:./Medium/0313-Super%20Ugly%20Number/README_CN.md#313-超级丑数
 [326]:./Easy/0326-Power%20of%20Three/README_CN.md#326-3的幂
+[328]:./Medium/0328-Odd%20Even%20Linked%20List/README_CN.md#328-奇偶链表
 [338]:./Medium/0338-Counting%20Bits/README_CN.md#338-比特位计数
 [342]:./Easy/0342-Power%20of%20Four/README_CN.md#342-4的幂
 [344]:./Easy/0344-Reverse%20String/README_CN.md#344-反转字符串

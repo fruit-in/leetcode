@@ -104,6 +104,7 @@
 [303][303l]  |[Range Sum Query - Immutable][303]                            |![p]
 [313][313l]  |[Super Ugly Number][313]                                      |![r]
 [326][326l]  |[Power of Three][326]                                         |![p]
+[328][328l]  |[Odd Even Linked List][328]                                   |![p]
 [338][338l]  |[Counting Bits][338]                                          |![r]
 [342][342l]  |[Power of Four][342]                                          |![r]
 [344][344l]  |[Reverse String][344]                                         |![r]
@@ -470,6 +471,7 @@
 [303]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README.md#303-range-sum-query---immutable
 [313]:./Medium/0313-Super%20Ugly%20Number/README.md#313-super-ugly-number
 [326]:./Easy/0326-Power%20of%20Three/README.md#326-power-of-three
+[328]:./Medium/0328-Odd%20Even%20Linked%20List/README.md#328-odd-even-linked-list
 [338]:./Medium/0338-Counting%20Bits/README.md#338-counting-bits
 [342]:./Easy/0342-Power%20of%20Four/README.md#342-power-of-four
 [344]:./Easy/0344-Reverse%20String/README.md#344-reverse-string
