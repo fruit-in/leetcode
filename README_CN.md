@@ -363,6 +363,7 @@
 [1337][1337l]|[方阵中战斗力最弱的 K 行][1337]                   |![r]
 [1342][1342l]|[将数字变成 0 的操作次数][1342]                   |![r]
 [1346][1346l]|[检查整数及其两倍数是否存在][1346]                |![r]
+[1351][1351l]|[统计有序矩阵中的负数][1351]                      |![r]
 [1352][1352l]|[最后 K 个数的乘积][1352]                         |![r]
 
 
@@ -731,6 +732,7 @@
 [1337]:./Easy/1337-The%20K%20Weakest%20Rows%20in%20a%20Matrix/README_CN.md#1337-方阵中战斗力最弱的-K-行
 [1342]:./Easy/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/README_CN.md#1342-将数字变成-0-的操作次数
 [1346]:./Easy/1346-Check%20If%20N%20and%20Its%20Double%20Exist/README_CN.md#1346-检查整数及其两倍数是否存在
+[1351]:./Easy/1351-Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/README_CN.md#1351-统计有序矩阵中的负数
 [1352]:./Medium/1352-Product%20of%20the%20Last%20K%20Numbers/README_CN.md#1352-最后-K-个数的乘积
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
@@ -1133,4 +1135,5 @@
 [1337l]:https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/
 [1342l]:https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1346l]:https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/
+[1351l]:https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1352l]:https://leetcode-cn.com/problems/product-of-the-last-k-numbers/
