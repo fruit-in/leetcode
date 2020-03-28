@@ -368,6 +368,7 @@
 [1346][1346l]|[Check If N and Its Double Exist][1346]                       |![r]
 [1351][1351l]|[Count Negative Numbers in a Sorted Matrix][1351]             |![r]
 [1352][1352l]|[Product of the Last K Numbers][1352]                         |![r]
+[1356][1356l]|[Sort Integers by The Number of 1 Bits][1356]                 |![r]
 
 
 [p]:./ico/python.ico
@@ -740,6 +741,7 @@
 [1346]:./Easy/1346-Check%20If%20N%20and%20Its%20Double%20Exist/README.md#1346-check-if-n-and-its-double-exist
 [1351]:./Easy/1351-Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/README.md#1351-count-negative-numbers-in-a-sorted-matrix
 [1352]:./Medium/1352-Product%20of%20the%20Last%20K%20Numbers/README.md#1352-product-of-the-last-k-numbers
+[1356]:./Easy/1356-Sort%20Integers%20by%20The%20Number%20of%201%20Bits/README.md#1356-sort-integers-by-the-number-of-1-bits
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1146,3 +1148,4 @@
 [1346l]:https://leetcode.com/problems/check-if-n-and-its-double-exist/
 [1351l]:https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1352l]:https://leetcode.com/problems/product-of-the-last-k-numbers/
+[1356l]:https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
