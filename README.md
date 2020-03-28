@@ -259,6 +259,7 @@
 [888][888l]  |[Fair Candy Swap][888]                                        |![r]
 [892][892l]  |[Surface Area of 3D Shapes][892]                              |![r]
 [893][893l]  |[Groups of Special-Equivalent Strings][893]                   |![r]
+[895][895l]  |[Maximum Frequency Stack][895]                                |![r]
 [896][896l]  |[Monotonic Array][896]                                        |![r]
 [897][897l]  |[Increasing Order Search Tree][897]                           |![p]
 [901][901l]  |[Online Stock Span][901]                                      |![r]
@@ -630,6 +631,7 @@
 [888]:./Easy/0888-Fair%20Candy%20Swap/README.md#888-fair-candy-swap
 [892]:./Easy/0892-Surface%20Area%20of%203D%20Shapes/README.md#892-surface-area-of-3d-shapes
 [893]:./Easy/0893-Groups%20of%20Special-Equivalent%20Strings/README.md#893-groups-of-special-equivalent-strings
+[895]:./Hard/0895-Maximum%20Frequency%20Stack/README.md#895-maximum-frequency-stack
 [896]:./Easy/0896-Monotonic%20Array/README.md#896-monotonic-array
 [897]:./Easy/0897-Increasing%20Order%20Search%20Tree/README.md#897-increasing-order-search-tree
 [901]:./Medium/0901-Online%20Stock%20Span/README.md#901-online-stock-span
@@ -1035,6 +1037,7 @@
 [888l]:https://leetcode.com/problems/fair-candy-swap/
 [892l]:https://leetcode.com/problems/surface-area-of-3d-shapes/
 [893l]:https://leetcode.com/problems/groups-of-special-equivalent-strings/
+[895l]:https://leetcode.com/problems/maximum-frequency-stack/
 [896l]:https://leetcode.com/problems/monotonic-array/
 [897l]:https://leetcode.com/problems/increasing-order-search-tree/
 [901l]:https://leetcode.com/problems/online-stock-span/
