@@ -360,6 +360,7 @@
 [1314][1314l]|[矩阵区域和][1314]                                |![r]
 [1315][1315l]|[祖父节点值为偶数的节点和][1315]                  |![p]
 [1317][1317l]|[将整数转换为两个无零整数的和][1317]              |![r]
+[1318][1318l]|[或运算的最小翻转次数][1318]                      |![r]
 [1323][1323l]|[6 和 9 组成的最大数字][1323]                     |![r]
 [1324][1324l]|[竖直打印单词][1324]                              |![p]
 [1325][1325l]|[删除给定值的叶子节点][1325]                      |![p]
@@ -735,6 +736,7 @@
 [1314]:./Medium/1314-Matrix%20Block%20Sum/README_CN.md#1314-矩阵区域和
 [1315]:./Medium/1315-Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent/README_CN.md#1315-祖父节点值为偶数的节点和
 [1317]:./Easy/1317-Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers/README_CN.md#1317-将整数转换为两个无零整数的和
+[1318]:./Medium/1318-Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c/README_CN.md#1318-或运算的最小翻转次数
 [1323]:./Easy/1323-Maximum%2069%20Number/README_CN.md#1323-6-和-9-组成的最大数字
 [1324]:./Medium/1324-Print%20Words%20Vertically/README_CN.md#1324-竖直打印单词
 [1325]:./Medium/1325-Delete%20Leaves%20With%20a%20Given%20Value/README_CN.md#1325-删除给定值的叶子节点
@@ -1144,6 +1146,7 @@
 [1314l]:https://leetcode-cn.com/problems/matrix-block-sum/
 [1315l]:https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent/
 [1317l]:https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
+[1318l]:https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
 [1323l]:https://leetcode-cn.com/problems/maximum-69-number/
 [1324l]:https://leetcode-cn.com/problems/print-words-vertically/
 [1325l]:https://leetcode-cn.com/problems/delete-leaves-with-a-given-value/
