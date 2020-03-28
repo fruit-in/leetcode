@@ -351,6 +351,7 @@
 [1299][1299l]|[Replace Elements with Greatest Element on Right Side][1299]  |![r]
 [1302][1302l]|[Deepest Leaves Sum][1302]                                    |![p]
 [1304][1304l]|[Find N Unique Integers Sum up to Zero][1304]                 |![r]
+[1305][1305l]|[All Elements in Two Binary Search Trees][1305]               |![p]
 [1309][1309l]|[Decrypt String from Alphabet to Integer Mapping][1309]       |![p]
 [1313][1313l]|[Decompress Run-Length Encoded List][1313]                    |![r]
 [1314][1314l]|[Matrix Block Sum][1314]                                      |![r]
@@ -721,6 +722,7 @@
 [1299]:./Easy/1299-Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/README.md#1299-replace-elements-with-greatest-element-on-right-side
 [1302]:./Medium/1302-Deepest%20Leaves%20Sum/README.md#1302-deepest-leaves-sum
 [1304]:./Easy/1304-Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/README.md#1304-find-n-unique-integers-sum-up-to-zero
+[1305]:./Medium/1305-All%20Elements%20in%20Two%20Binary%20Search%20Trees/README.md#1305-all-elements-in-two-binary-search-trees
 [1309]:./Easy/1309-Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping/README.md#1309-decrypt-string-from-alphabet-to-integer-mapping
 [1313]:./Easy/1313-Decompress%20Run-Length%20Encoded%20List/README.md#1313-decompress-run-length-encoded-list
 [1314]:./Medium/1314-Matrix%20Block%20Sum/README.md#1314-matrix-block-sum
@@ -1125,6 +1127,7 @@
 [1299l]:https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 [1302l]:https://leetcode.com/problems/deepest-leaves-sum/
 [1304l]:https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
+[1305l]:https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
 [1309l]:https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 [1313l]:https://leetcode.com/problems/decompress-run-length-encoded-list/
 [1314l]:https://leetcode.com/problems/matrix-block-sum/
