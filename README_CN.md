@@ -247,6 +247,7 @@
 [852][852l]  |[山脉数组的峰顶索引][852]                         |![r]
 [859][859l]  |[亲密字符串][859]                                 |![p]
 [860][860l]  |[柠檬水找零][860]                                 |![r]
+[865][865l]  |[具有所有最深结点的最小子树][865]                 |![p]
 [867][867l]  |[转置矩阵][867]                                   |![p]
 [868][868l]  |[二进制间距][868]                                 |![r]
 [869][869l]  |[重新排序得到 2 的幂][869]                        |![r]
@@ -620,6 +621,7 @@
 [852]:./Easy/0852-Peak%20Index%20in%20a%20Mountain%20Array/README_CN.md#852-山脉数组的峰顶索引
 [859]:./Easy/0859-Buddy%20Strings/README_CN.md#859-亲密字符串
 [860]:./Easy/0860-Lemonade%20Change/README_CN.md#860-柠檬水找零
+[865]:./Medium/0865-Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/README_CN.md#865-具有所有最深结点的最小子树
 [867]:./Easy/0867-Transpose%20Matrix/README_CN.md#867-转置矩阵
 [868]:./Easy/0868-Binary%20Gap/README_CN.md#868-二进制间距
 [869]:./Medium/0869-Reordered%20Power%20of%202/README_CN.md#869-重新排序得到-2-的幂
@@ -1027,6 +1029,7 @@
 [852l]:https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/
 [859l]:https://leetcode-cn.com/problems/buddy-strings/
 [860l]:https://leetcode-cn.com/problems/lemonade-change/
+[865l]:https://leetcode-cn.com/problems/smallest-subtree-with-all-the-deepest-nodes/
 [867l]:https://leetcode-cn.com/problems/transpose-matrix/
 [868l]:https://leetcode-cn.com/problems/binary-gap/
 [869l]:https://leetcode-cn.com/problems/reordered-power-of-2/

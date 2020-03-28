@@ -247,6 +247,7 @@
 [852][852l]  |[Peak Index in a Mountain Array][852]                         |![r]
 [859][859l]  |[Buddy Strings][859]                                          |![p]
 [860][860l]  |[Lemonade Change][860]                                        |![r]
+[865][865l]  |[Smallest Subtree with all the Deepest Nodes][865]            |![p]
 [867][867l]  |[Transpose Matrix][867]                                       |![p]
 [868][868l]  |[Binary Gap][868]                                             |![r]
 [869][869l]  |[Reordered Power of 2][869]                                   |![r]
@@ -620,6 +621,7 @@
 [852]:./Easy/0852-Peak%20Index%20in%20a%20Mountain%20Array/README.md#852-peak-index-in-a-mountain-array
 [859]:./Easy/0859-Buddy%20Strings/README.md#859-buddy-strings
 [860]:./Easy/0860-Lemonade%20Change/README.md#860-lemonade-change
+[865]:./Medium/0865-Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/README.md#865-smallest-subtree-with-all-the-deepest-nodes
 [867]:./Easy/0867-Transpose%20Matrix/README.md#867-transpose-matrix
 [868]:./Easy/0868-Binary%20Gap/README.md#868-binary-gap
 [869]:./Medium/0869-Reordered%20Power%20of%202/README.md#869-reordered-power-of-2
@@ -1027,6 +1029,7 @@
 [852l]:https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [859l]:https://leetcode.com/problems/buddy-strings/
 [860l]:https://leetcode.com/problems/lemonade-change/
+[865l]:https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
 [867l]:https://leetcode.com/problems/transpose-matrix/
 [868l]:https://leetcode.com/problems/binary-gap/
 [869l]:https://leetcode.com/problems/reordered-power-of-2/
