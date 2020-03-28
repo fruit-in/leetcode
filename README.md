@@ -286,6 +286,7 @@
 [965][965l]  |[Univalued Binary Tree][965]                                  |![p]
 [969][969l]  |[Pancake Sorting][969]                                        |![p]
 [970][970l]  |[Powerful Integers][970]                                      |![r]
+[973][973l]  |[K Closest Points to Origin][973]                             |![r]
 [976][976l]  |[Largest Perimeter Triangle][976]                             |![r]
 [977][977l]  |[Squares of a Sorted Array][977]                              |![r]
 [985][985l]  |[Sum of Even Numbers After Queries][985]                      |![p]
@@ -662,6 +663,7 @@
 [965]:./Easy/0965-Univalued%20Binary%20Tree/README.md#965-univalued-binary-tree
 [969]:./Medium/0969-Pancake%20Sorting/README.md#969-pancake-sorting
 [970]:./Easy/0970-Powerful%20Integers/README.md#970-powerful-integers
+[973]:./Medium/0973-K%20Closest%20Points%20to%20Origin/README.md#973-k-closest-points-to-origin
 [976]:./Easy/0976-Largest%20Perimeter%20Triangle/README.md#976-largest-perimeter-triangle
 [977]:./Easy/0977-Squares%20of%20a%20Sorted%20Array/README.md#977-squares-of-a-sorted-array
 [985]:./Easy/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README.md#985-sum-of-even-numbers-after-queries
@@ -1072,6 +1074,7 @@
 [965l]:https://leetcode.com/problems/univalued-binary-tree/
 [969l]:https://leetcode.com/problems/pancake-sorting/
 [970l]:https://leetcode.com/problems/powerful-integers/
+[973l]:https://leetcode.com/problems/k-closest-points-to-origin/
 [976l]:https://leetcode.com/problems/largest-perimeter-triangle/
 [977l]:https://leetcode.com/problems/squares-of-a-sorted-array/
 [985l]:https://leetcode.com/problems/sum-of-even-numbers-after-queries/

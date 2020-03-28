@@ -286,6 +286,7 @@
 [965][965l]  |[单值二叉树][965]                                 |![p]
 [969][969l]  |[煎饼排序][969]                                   |![p]
 [970][970l]  |[强整数][970]                                     |![r]
+[973][973l]  |[最接近原点的 K 个点][973]                        |![r]
 [976][976l]  |[三角形的最大周长][976]                           |![r]
 [977][977l]  |[有序数组的平方][977]                             |![r]
 [985][985l]  |[查询后的偶数和][985]                             |![p]
@@ -662,6 +663,7 @@
 [965]:./Easy/0965-Univalued%20Binary%20Tree/README_CN.md#965-单值二叉树
 [969]:./Medium/0969-Pancake%20Sorting/README_CN.md#969-煎饼排序
 [970]:./Easy/0970-Powerful%20Integers/README_CN.md#970-强整数
+[973]:./Medium/0973-K%20Closest%20Points%20to%20Origin/README_CN.md#973-最接近原点的-K-个点
 [976]:./Easy/0976-Largest%20Perimeter%20Triangle/README_CN.md#976-三角形的最大周长
 [977]:./Easy/0977-Squares%20of%20a%20Sorted%20Array/README_CN.md#977-有序数组的平方
 [985]:./Easy/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README_CN.md#985-查询后的偶数和
@@ -1072,6 +1074,7 @@
 [965l]:https://leetcode-cn.com/problems/univalued-binary-tree/
 [969l]:https://leetcode-cn.com/problems/pancake-sorting/
 [970l]:https://leetcode-cn.com/problems/powerful-integers/
+[973l]:https://leetcode-cn.com/problems/k-closest-points-to-origin/
 [976l]:https://leetcode-cn.com/problems/largest-perimeter-triangle/
 [977l]:https://leetcode-cn.com/problems/squares-of-a-sorted-array/
 [985l]:https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/
