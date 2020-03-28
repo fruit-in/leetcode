@@ -355,6 +355,7 @@
 [1304][1304l]|[和为零的N个唯一整数][1304]                       |![r]
 [1305][1305l]|[两棵二叉搜索树中的所有元素][1305]                |![p]
 [1309][1309l]|[解码字母到整数映射][1309]                        |![p]
+[1310][1310l]|[子数组异或查询][1310]                            |![r]
 [1313][1313l]|[解压缩编码列表][1313]                            |![r]
 [1314][1314l]|[矩阵区域和][1314]                                |![r]
 [1315][1315l]|[祖父节点值为偶数的节点和][1315]                  |![p]
@@ -729,6 +730,7 @@
 [1304]:./Easy/1304-Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/README_CN.md#1304-和为零的n个唯一整数
 [1305]:./Medium/1305-All%20Elements%20in%20Two%20Binary%20Search%20Trees/README_CN.md#1305-两棵二叉搜索树中的所有元素
 [1309]:./Easy/1309-Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping/README_CN.md#1309-解码字母到整数映射
+[1310]:./Medium/1310-XOR%20Queries%20of%20a%20Subarray/README_CN.md#1310-子数组异或查询
 [1313]:./Easy/1313-Decompress%20Run-Length%20Encoded%20List/README_CN.md#1313-解压缩编码列表
 [1314]:./Medium/1314-Matrix%20Block%20Sum/README_CN.md#1314-矩阵区域和
 [1315]:./Medium/1315-Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent/README_CN.md#1315-祖父节点值为偶数的节点和
@@ -1137,6 +1139,7 @@
 [1304l]:https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/
 [1305l]:https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/
 [1309l]:https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
+[1310l]:https://leetcode-cn.com/problems/xor-queries-of-a-subarray/
 [1313l]:https://leetcode-cn.com/problems/decompress-run-length-encoded-list/
 [1314l]:https://leetcode-cn.com/problems/matrix-block-sum/
 [1315l]:https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent/
