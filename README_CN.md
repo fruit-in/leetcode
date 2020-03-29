@@ -142,6 +142,7 @@
 [459][459l]  |[重复的子字符串][459]                             |![p]
 [461][461l]  |[汉明距离][461]                                   |![r]
 [463][463l]  |[岛屿的周长][463]                                 |![r]
+[470][470l]  |[用 Rand7() 实现 Rand10()][470]                   |![r]
 [475][475l]  |[供暖器][475]                                     |![r]
 [476][476l]  |[数字的补数][476]                                 |![r]
 [482][482l]  |[密钥格式化][482]                                 |![p]
@@ -521,6 +522,7 @@
 [459]:./Easy/0459-Repeated%20Substring%20Pattern/README_CN.md#459-重复的子字符串
 [461]:./Easy/0461-Hamming%20Distance/README_CN.md#461-汉明距离
 [463]:./Easy/0463-Island%20Perimeter/README_CN.md#463-岛屿的周长
+[470]:./Medium/0470-Implement%20Rand10\(\)%20Using%20Rand7\(\)/README_CN.md#470-用-Rand7-实现-Rand10
 [475]:./Easy/0475-Heaters/README_CN.md#475-供暖器
 [476]:./Easy/0476-Number%20Complement/README_CN.md#476-数字的补数
 [482]:./Easy/0482-License%20Key%20Formatting/README_CN.md#482-密钥格式化
@@ -928,6 +930,7 @@
 [459l]:https://leetcode-cn.com/problems/repeated-substring-pattern/
 [461l]:https://leetcode-cn.com/problems/hamming-distance/
 [463l]:https://leetcode-cn.com/problems/island-perimeter/
+[470l]:https://leetcode-cn.com/problems/implement-rand10-using-rand7/
 [475l]:https://leetcode-cn.com/problems/heaters/
 [476l]:https://leetcode-cn.com/problems/number-complement/
 [482l]:https://leetcode-cn.com/problems/license-key-formatting/
