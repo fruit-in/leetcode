@@ -34,7 +34,7 @@
 [73][73l]    |[Set Matrix Zeroes][73]                                       |![r]
 [75][75l]    |[Sort Colors][75]                                             |![r]
 [83][83l]    |[Remove Duplicates from Sorted List][83]                      |![p]
-[88][88l]    |[Merge Sorted Array][88]                                      |![r]
+[88][88l]    |[Merge Sorted Array][88]                                      |![p]
 [89][89l]    |[Gray Code][89]                                               |![r]
 [94][94l]    |[Binary Tree Inorder Traversal][94]                           |![p]&nbsp;&nbsp;![r]
 [98][98l]    |[Validate Binary Search Tree][98]                             |![p]
