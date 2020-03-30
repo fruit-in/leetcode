@@ -5,6 +5,7 @@
 -------------|--------------------------------------------------------------|:----------------------------------:
 [1][1l]      |[Two Sum][1]                                                  |![p]&nbsp;&nbsp;![r]&nbsp;&nbsp;![c]
 [2][2l]      |[Add Two Numbers][2]                                          |![p]
+[4][4l]      |[Median of Two Sorted Arrays][4]                              |![r]
 [6][6l]      |[ZigZag Conversion][6]                                        |![p]
 [7][7l]      |[Reverse Integer][7]                                          |![p]&nbsp;&nbsp;![c]
 [8][8l]      |[String to Integer (atoi)][8]                                 |![p]
@@ -386,6 +387,7 @@
 
 [1]:./Easy/0001-Two%20Sum/README.md#1-two-sum
 [2]:./Medium/0002-Add%20Two%20Numbers/README.md#2-add-two-numbers
+[4]:./Hard/0004-Median%20of%20Two%20Sorted%20Arrays/README.md#4-median-of-two-sorted-arrays
 [6]:./Medium/0006-ZigZag%20Conversion/README.md#6-zigzag-conversion
 [7]:./Easy/0007-Reverse%20Integer/README.md#7-reverse-integer
 [8]:./Medium/0008-String%20to%20Integer%20\(atoi\)/README.md#8-string-to-integer-atoi
@@ -762,6 +764,7 @@
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
 [3l]:https://leetcode.com/problems/longest-substring-without-repeating-characters/
+[4l]:https://leetcode.com/problems/median-of-two-sorted-arrays/
 [6l]:https://leetcode.com/problems/zigzag-conversion/
 [7l]:https://leetcode.com/problems/reverse-integer/
 [8l]:https://leetcode.com/problems/string-to-integer-atoi/
