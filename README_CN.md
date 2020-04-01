@@ -100,6 +100,7 @@
 [278][278l]  |[第一个错误的版本][278]                           |![p]
 [279][279l]  |[完全平方数][279]                                 |![r]
 [283][283l]  |[移动零][283]                                     |![r]
+[289][289l]  |[生命游戏][289]                                   |![r]
 [290][290l]  |[单词规律][290]                                   |![p]
 [292][292l]  |[Nim 游戏][292]                                   |![r]
 [299][299l]  |[猜数字游戏][299]                                 |![p]
@@ -483,6 +484,7 @@
 [278]:./Easy/0278-First%20Bad%20Version/README_CN.md#278-第一个错误的版本
 [279]:./Medium/0279-Perfect%20Squares/README_CN.md#279-完全平方数
 [283]:./Easy/0283-Move%20Zeroes/README_CN.md#283-移动零
+[289]:./Medium/0289-Game%20of%20Life/README_CN.md#289-生命游戏
 [290]:./Easy/0290-Word%20Pattern/README_CN.md#290-单词规律
 [292]:./Easy/0292-Nim%20Game/README_CN.md#292-nim-游戏
 [299]:./Easy/0299-Bulls%20and%20Cows/README_CN.md#299-猜数字游戏
@@ -888,6 +890,7 @@
 [278l]:https://leetcode-cn.com/problems/first-bad-version/
 [279l]:https://leetcode-cn.com/problems/perfect-squares/
 [283l]:https://leetcode-cn.com/problems/move-zeroes/
+[289l]:https://leetcode-cn.com/problems/game-of-life/
 [290l]:https://leetcode-cn.com/problems/word-pattern/
 [292l]:https://leetcode-cn.com/problems/nim-game/
 [297l]:https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/

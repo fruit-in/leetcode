@@ -100,6 +100,7 @@
 [278][278l]  |[First Bad Version][278]                                      |![p]
 [279][279l]  |[Perfect Squares][279]                                        |![r]
 [283][283l]  |[Move Zeroes][283]                                            |![r]
+[289][289l]  |[Game of Life][289]                                           |![r]
 [290][290l]  |[Word Pattern][290]                                           |![p]
 [292][292l]  |[Nim Game][292]                                               |![r]
 [299][299l]  |[Bulls and Cows][299]                                         |![p]
@@ -483,6 +484,7 @@
 [278]:./Easy/0278-First%20Bad%20Version/README.md#278-first-bad-version
 [279]:./Medium/0279-Perfect%20Squares/README.md#279-perfect-squares
 [283]:./Easy/0283-Move%20Zeroes/README.md#283-move-zeroes
+[289]:./Medium/0289-Game%20of%20Life/README.md#289-game-of-life
 [290]:./Easy/0290-Word%20Pattern/README.md#290-word-pattern
 [292]:./Easy/0292-Nim%20Game/README.md#292-nim-game
 [299]:./Easy/0299-Bulls%20and%20Cows/README.md#299-bulls-and-cows
@@ -888,6 +890,7 @@
 [278l]:https://leetcode.com/problems/first-bad-version/
 [279l]:https://leetcode.com/problems/perfect-squares/
 [283l]:https://leetcode.com/problems/move-zeroes/
+[289l]:https://leetcode.com/problems/game-of-life/
 [290l]:https://leetcode.com/problems/word-pattern/
 [292l]:https://leetcode.com/problems/nim-game/
 [297l]:https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
