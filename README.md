@@ -106,6 +106,7 @@
 [299][299l]  |[Bulls and Cows][299]                                         |![p]
 [303][303l]  |[Range Sum Query - Immutable][303]                            |![p]
 [313][313l]  |[Super Ugly Number][313]                                      |![r]
+[322][322l]  |[Coin Change][322]                                            |![r]
 [326][326l]  |[Power of Three][326]                                         |![p]
 [328][328l]  |[Odd Even Linked List][328]                                   |![p]
 [338][338l]  |[Counting Bits][338]                                          |![r]
@@ -491,6 +492,7 @@
 [299]:./Easy/0299-Bulls%20and%20Cows/README.md#299-bulls-and-cows
 [303]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README.md#303-range-sum-query---immutable
 [313]:./Medium/0313-Super%20Ugly%20Number/README.md#313-super-ugly-number
+[322]:./Medium/0322-Coin%20Change/README.md#322-coin-change
 [326]:./Easy/0326-Power%20of%20Three/README.md#326-power-of-three
 [328]:./Medium/0328-Odd%20Even%20Linked%20List/README.md#328-odd-even-linked-list
 [338]:./Medium/0338-Counting%20Bits/README.md#338-counting-bits
@@ -899,6 +901,7 @@
 [299l]:https://leetcode.com/problems/bulls-and-cows/
 [303l]:https://leetcode.com/problems/range-sum-query-immutable/
 [313l]:https://leetcode.com/problems/super-ugly-number/
+[322l]:https://leetcode.com/problems/coin-change/
 [326l]:https://leetcode.com/problems/power-of-three/
 [328l]:https://leetcode.com/problems/odd-even-linked-list/
 [336l]:https://leetcode.com/problems/palindrome-pairs/

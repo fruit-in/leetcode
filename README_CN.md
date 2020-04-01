@@ -106,6 +106,7 @@
 [299][299l]  |[猜数字游戏][299]                                 |![p]
 [303][303l]  |[区域和检索 - 数组不可变][303]                    |![p]
 [313][313l]  |[超级丑数][313]                                   |![r]
+[322][322l]  |[零钱兑换][322]                                   |![r]
 [326][326l]  |[3的幂][326]                                      |![p]
 [328][328l]  |[奇偶链表][328]                                   |![p]
 [338][338l]  |[比特位计数][338]                                 |![r]
@@ -491,6 +492,7 @@
 [299]:./Easy/0299-Bulls%20and%20Cows/README_CN.md#299-猜数字游戏
 [303]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README_CN.md#303-区域和检索---数组不可变
 [313]:./Medium/0313-Super%20Ugly%20Number/README_CN.md#313-超级丑数
+[322]:./Medium/0322-Coin%20Change/README_CN.md#322-零钱兑换
 [326]:./Easy/0326-Power%20of%20Three/README_CN.md#326-3的幂
 [328]:./Medium/0328-Odd%20Even%20Linked%20List/README_CN.md#328-奇偶链表
 [338]:./Medium/0338-Counting%20Bits/README_CN.md#338-比特位计数
@@ -899,6 +901,7 @@
 [299l]:https://leetcode-cn.com/problems/bulls-and-cows/
 [303l]:https://leetcode-cn.com/problems/range-sum-query-immutable/
 [313l]:https://leetcode-cn.com/problems/super-ugly-number/
+[322l]:https://leetcode-cn.com/problems/coin-change/
 [326l]:https://leetcode-cn.com/problems/power-of-three/
 [328l]:https://leetcode-cn.com/problems/odd-even-linked-list/
 [336l]:https://leetcode-cn.com/problems/palindrome-pairs/
