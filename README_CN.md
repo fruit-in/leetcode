@@ -161,6 +161,7 @@
 [509][509l]  |[斐波那契数][509]                                 |![r]
 [520][520l]  |[检测大写字母][520]                               |![r]
 [521][521l]  |[最长特殊序列 Ⅰ][521]                             |![r]
+[529][529l]  |[扫雷游戏][529]                                   |![r]
 [530][530l]  |[二叉搜索树的最小绝对差][530]                     |![p]
 [532][532l]  |[数组中的K-diff数对][532]                         |![r]
 [537][537l]  |[复数乘法][537]                                   |![p]
@@ -545,6 +546,7 @@
 [509]:./Easy/0509-Fibonacci%20Number/README_CN.md#509-斐波那契数
 [520]:./Easy/0520-Detect%20Capital/README_CN.md#520-检测大写字母
 [521]:./Easy/0521-Longest%20Uncommon%20Subsequence%20I/README_CN.md#521-最长特殊序列-i
+[529]:./Medium/0529-Minesweeper/README_CN.md#529-扫雷游戏
 [530]:./Easy/0530-Minimum%20Absolute%20Difference%20in%20BST/README_CN.md#530-二叉搜索树的最小绝对差
 [532]:./Easy/0532-K-diff%20Pairs%20in%20an%20Array/README_CN.md#532-数组中的k-diff数对
 [537]:./Medium/0537-Complex%20Number%20Multiplication/README_CN.md#537-复数乘法
@@ -957,6 +959,7 @@
 [509l]:https://leetcode-cn.com/problems/fibonacci-number/
 [520l]:https://leetcode-cn.com/problems/detect-capital/
 [521l]:https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/
+[529l]:https://leetcode-cn.com/problems/minesweeper/
 [530l]:https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/
 [532l]:https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/
 [537l]:https://leetcode-cn.com/problems/complex-number-multiplication/

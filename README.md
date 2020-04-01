@@ -161,6 +161,7 @@
 [509][509l]  |[Fibonacci Number][509]                                       |![r]
 [520][520l]  |[Detect Capital][520]                                         |![r]
 [521][521l]  |[Longest Uncommon Subsequence I][521]                         |![r]
+[529][529l]  |[Minesweeper][529]                                            |![r]
 [530][530l]  |[Minimum Absolute Difference in BST][530]                     |![p]
 [532][532l]  |[K-diff Pairs in an Array][532]                               |![r]
 [537][537l]  |[Complex Number Multiplication][537]                          |![p]
@@ -545,6 +546,7 @@
 [509]:./Easy/0509-Fibonacci%20Number/README.md#509-fibonacci-number
 [520]:./Easy/0520-Detect%20Capital/README.md#520-detect-capital
 [521]:./Easy/0521-Longest%20Uncommon%20Subsequence%20I/README.md#521-longest-uncommon-subsequence-i
+[529]:./Medium/0529-Minesweeper/README.md#529-minesweeper
 [530]:./Easy/0530-Minimum%20Absolute%20Difference%20in%20BST/README.md#530-minimum-absolute-difference-in-bst
 [532]:./Easy/0532-K-diff%20Pairs%20in%20an%20Array/README.md#532-k-diff-pairs-in-an-array
 [537]:./Medium/0537-Complex%20Number%20Multiplication/README.md#537-complex-number-multiplication
@@ -957,6 +959,7 @@
 [509l]:https://leetcode.com/problems/fibonacci-number/
 [520l]:https://leetcode.com/problems/detect-capital/
 [521l]:https://leetcode.com/problems/longest-uncommon-subsequence-i/
+[529l]:https://leetcode.com/problems/minesweeper/
 [530l]:https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 [532l]:https://leetcode.com/problems/k-diff-pairs-in-an-array/
 [537l]:https://leetcode.com/problems/complex-number-multiplication/
