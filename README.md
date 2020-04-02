@@ -166,6 +166,7 @@
 [529][529l]  |[Minesweeper][529]                                            |![r]
 [530][530l]  |[Minimum Absolute Difference in BST][530]                     |![p]
 [532][532l]  |[K-diff Pairs in an Array][532]                               |![r]
+[535][535l]  |[Encode and Decode TinyURL][535]                              |![p]
 [537][537l]  |[Complex Number Multiplication][537]                          |![p]
 [538][538l]  |[Convert BST to Greater Tree][538]                            |![p]
 [541][541l]  |[Reverse String II][541]                                      |![p]
@@ -553,6 +554,7 @@
 [529]:./Medium/0529-Minesweeper/README.md#529-minesweeper
 [530]:./Easy/0530-Minimum%20Absolute%20Difference%20in%20BST/README.md#530-minimum-absolute-difference-in-bst
 [532]:./Easy/0532-K-diff%20Pairs%20in%20an%20Array/README.md#532-k-diff-pairs-in-an-array
+[535]:./Medium/0535-Encode%20and%20Decode%20TinyURL/README.md#535-encode-and-decode-tinyurl
 [537]:./Medium/0537-Complex%20Number%20Multiplication/README.md#537-complex-number-multiplication
 [538]:./Easy/0538-Convert%20BST%20to%20Greater%20Tree/README.md#538-convert-bst-to-greater-tree
 [541]:./Easy/0541-Reverse%20String%20II/README.md#541-reverse-string-ii
@@ -968,6 +970,7 @@
 [529l]:https://leetcode.com/problems/minesweeper/
 [530l]:https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 [532l]:https://leetcode.com/problems/k-diff-pairs-in-an-array/
+[535l]:https://leetcode.com/problems/encode-and-decode-tinyurl/
 [537l]:https://leetcode.com/problems/complex-number-multiplication/
 [538l]:https://leetcode.com/problems/convert-bst-to-greater-tree/
 [541l]:https://leetcode.com/problems/reverse-string-ii/

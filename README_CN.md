@@ -166,6 +166,7 @@
 [529][529l]  |[扫雷游戏][529]                                   |![r]
 [530][530l]  |[二叉搜索树的最小绝对差][530]                     |![p]
 [532][532l]  |[数组中的K-diff数对][532]                         |![r]
+[535][535l]  |[TinyURL 的加密与解密][535]                       |![p]
 [537][537l]  |[复数乘法][537]                                   |![p]
 [538][538l]  |[把二叉搜索树转换为累加树][538]                   |![p]
 [541][541l]  |[反转字符串 II][541]                              |![p]
@@ -553,6 +554,7 @@
 [529]:./Medium/0529-Minesweeper/README_CN.md#529-扫雷游戏
 [530]:./Easy/0530-Minimum%20Absolute%20Difference%20in%20BST/README_CN.md#530-二叉搜索树的最小绝对差
 [532]:./Easy/0532-K-diff%20Pairs%20in%20an%20Array/README_CN.md#532-数组中的k-diff数对
+[535]:./Medium/0535-Encode%20and%20Decode%20TinyURL/README_CN.md#535-tinyurl-的加密与解密
 [537]:./Medium/0537-Complex%20Number%20Multiplication/README_CN.md#537-复数乘法
 [538]:./Easy/0538-Convert%20BST%20to%20Greater%20Tree/README_CN.md#538-把二叉搜索树转换为累加树
 [541]:./Easy/0541-Reverse%20String%20II/README_CN.md#541-反转字符串-ii
@@ -968,6 +970,7 @@
 [529l]:https://leetcode-cn.com/problems/minesweeper/
 [530l]:https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/
 [532l]:https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/
+[535l]:https://leetcode-cn.com/problems/encode-and-decode-tinyurl/
 [537l]:https://leetcode-cn.com/problems/complex-number-multiplication/
 [538l]:https://leetcode-cn.com/problems/convert-bst-to-greater-tree/
 [541l]:https://leetcode-cn.com/problems/reverse-string-ii/
