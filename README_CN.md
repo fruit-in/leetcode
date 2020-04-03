@@ -241,6 +241,7 @@
 [804][804l]  |[唯一摩尔斯密码词][804]                           |![p]
 [806][806l]  |[写字符串需要的行数][806]                         |![p]
 [807][807l]  |[保持城市天际线][807]                             |![r]
+[808][808l]  |[分汤][808]                                       |![r]
 [811][811l]  |[子域名访问计数][811]                             |![r]
 [812][812l]  |[最大三角形面积][812]                             |![r]
 [814][814l]  |[二叉树剪枝][814]                                 |![p]
@@ -629,6 +630,7 @@
 [804]:./Easy/0804-Unique%20Morse%20Code%20Words/README_CN.md#804-唯一摩尔斯密码词
 [806]:./Easy/0806-Number%20of%20Lines%20To%20Write%20String/README_CN.md#806-写字符串需要的行数
 [807]:./Medium/0807-Max%20Increase%20to%20Keep%20City%20Skyline/README_CN.md#807-保持城市天际线
+[808]:./Medium/0808-Soup%20Servings/README_CN.md#808-分汤
 [811]:./Easy/0811-Subdomain%20Visit%20Count/README_CN.md#811-子域名访问计数
 [812]:./Easy/0812-Largest%20Triangle%20Area/README_CN.md#812-最大三角形面积
 [814]:./Medium/0814-Binary%20Tree%20Pruning/README_CN.md#814-二叉树剪枝
@@ -1051,6 +1053,7 @@
 [804l]:https://leetcode-cn.com/problems/unique-morse-code-words/
 [806l]:https://leetcode-cn.com/problems/number-of-lines-to-write-string/
 [807l]:https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/
+[808l]:https://leetcode-cn.com/problems/soup-servings/
 [811l]:https://leetcode-cn.com/problems/subdomain-visit-count/
 [812l]:https://leetcode-cn.com/problems/largest-triangle-area/
 [814l]:https://leetcode-cn.com/problems/binary-tree-pruning/

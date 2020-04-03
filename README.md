@@ -241,6 +241,7 @@
 [804][804l]  |[Unique Morse Code Words][804]                                |![p]
 [806][806l]  |[Number of Lines To Write String][806]                        |![p]
 [807][807l]  |[Max Increase to Keep City Skyline][807]                      |![r]
+[808][808l]  |[Soup Servings][808]                                          |![r]
 [811][811l]  |[Subdomain Visit Count][811]                                  |![r]
 [812][812l]  |[Largest Triangle Area][812]                                  |![r]
 [814][814l]  |[Binary Tree Pruning][814]                                    |![p]
@@ -629,6 +630,7 @@
 [804]:./Easy/0804-Unique%20Morse%20Code%20Words/README.md#804-unique-morse-code-words
 [806]:./Easy/0806-Number%20of%20Lines%20To%20Write%20String/README.md#806-number-of-lines-to-write-string
 [807]:./Medium/0807-Max%20Increase%20to%20Keep%20City%20Skyline/README.md#807-max-increase-to-keep-city-skyline
+[808]:./Medium/0808-Soup%20Servings/README.md#808-soup-servings
 [811]:./Easy/0811-Subdomain%20Visit%20Count/README.md#811-subdomain-visit-count
 [812]:./Easy/0812-Largest%20Triangle%20Area/README.md#812-largest-triangle-area
 [814]:./Medium/0814-Binary%20Tree%20Pruning/README.md#814-binary-tree-pruning
@@ -1051,6 +1053,7 @@
 [804l]:https://leetcode.com/problems/unique-morse-code-words/
 [806l]:https://leetcode.com/problems/number-of-lines-to-write-string/
 [807l]:https://leetcode.com/problems/max-increase-to-keep-city-skyline/
+[808l]:https://leetcode.com/problems/soup-servings/
 [811l]:https://leetcode.com/problems/subdomain-visit-count/
 [812l]:https://leetcode.com/problems/largest-triangle-area/
 [814l]:https://leetcode.com/problems/binary-tree-pruning/
