@@ -332,6 +332,7 @@
 [1078][1078l]|[Bigram 分词][1078]                               |![p]
 [1089][1089l]|[复写零][1089]                                    |![r]
 [1103][1103l]|[分糖果 II][1103]                                 |![p]
+[1104][1104l]|[二叉树寻路][1104]                                |![r]
 [1108][1108l]|[IP 地址无效化][1108]                             |![r]
 [1122][1122l]|[数组的相对排序][1122]                            |![r]
 [1123][1123l]|[最深叶节点的最近公共祖先][1123]                  |![p]
@@ -722,6 +723,7 @@
 [1078]:./Easy/1078-Occurrences%20After%20Bigram/README_CN.md#1078-bigram-分词
 [1089]:./Easy/1089-Duplicate%20Zeros/README_CN.md#1089-复写零
 [1103]:./Easy/1103-Distribute%20Candies%20to%20People/README_CN.md#1103-分糖果-ii
+[1104]:./Medium/1104-Path%20In%20Zigzag%20Labelled%20Binary%20Tree/README_CN.md#1104-二叉树寻路
 [1108]:./Easy/1108-Defanging%20an%20IP%20Address/README_CN.md#1108-ip-地址无效化
 [1122]:./Easy/1122-Relative%20Sort%20Array/README_CN.md#1122-数组的相对排序
 [1123]:./Medium/1123-Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/README_CN.md#1123-最深叶节点的最近公共祖先
@@ -1146,6 +1148,7 @@
 [1078l]:https://leetcode-cn.com/problems/occurrences-after-bigram/
 [1089l]:https://leetcode-cn.com/problems/duplicate-zeros/
 [1103l]:https://leetcode-cn.com/problems/distribute-candies-to-people/
+[1104l]:https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/
 [1108l]:https://leetcode-cn.com/problems/defanging-an-ip-address/
 [1122l]:https://leetcode-cn.com/problems/relative-sort-array/
 [1123l]:https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves/

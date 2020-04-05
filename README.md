@@ -332,6 +332,7 @@
 [1078][1078l]|[Occurrences After Bigram][1078]                              |![p]
 [1089][1089l]|[Duplicate Zeros][1089]                                       |![r]
 [1103][1103l]|[Distribute Candies to People][1103]                          |![p]
+[1104][1104l]|[Path In Zigzag Labelled Binary Tree][1104]                   |![r]
 [1108][1108l]|[Defanging an IP Address][1108]                               |![r]
 [1122][1122l]|[Relative Sort Array][1122]                                   |![r]
 [1123][1123l]|[Lowest Common Ancestor of Deepest Leaves][1123]              |![p]
@@ -722,6 +723,7 @@
 [1078]:./Easy/1078-Occurrences%20After%20Bigram/README.md#1078-occurrences-after-bigram
 [1089]:./Easy/1089-Duplicate%20Zeros/README.md#1089-duplicate-zeros
 [1103]:./Easy/1103-Distribute%20Candies%20to%20People/README.md#1103-distribute-candies-to-people
+[1104]:./Medium/1104-Path%20In%20Zigzag%20Labelled%20Binary%20Tree/README.md#1104-path-in-zigzag-labelled-binary-tree
 [1108]:./Easy/1108-Defanging%20an%20IP%20Address/README.md#1108-defanging-an-ip-address
 [1122]:./Easy/1122-Relative%20Sort%20Array/README.md#1122-relative-sort-array
 [1123]:./Medium/1123-Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/README.md#1123-lowest-common-ancestor-of-deepest-leaves
@@ -1146,6 +1148,7 @@
 [1078l]:https://leetcode.com/problems/occurrences-after-bigram/
 [1089l]:https://leetcode.com/problems/duplicate-zeros/
 [1103l]:https://leetcode.com/problems/distribute-candies-to-people/
+[1104l]:https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/
 [1108l]:https://leetcode.com/problems/defanging-an-ip-address/
 [1122l]:https://leetcode.com/problems/relative-sort-array/
 [1123l]:https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
