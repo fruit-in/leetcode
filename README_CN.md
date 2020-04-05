@@ -392,7 +392,7 @@
 [p]:./ico/python.ico
 [r]:./ico/rust.ico
 [c]:./ico/c.png
-[l]:./ico/leetcode.png
+[j]:./ico/javascript.png
 
 [1]:./Easy/0001-Two%20Sum/README_CN.md#1-两数之和
 [2]:./Medium/0002-Add%20Two%20Numbers/README_CN.md#2-两数相加
