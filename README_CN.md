@@ -119,6 +119,7 @@
 [371][371l]  |[两整数之和][371]                                 |![r]
 [374][374l]  |[猜数字大小][374]                                 |![p]
 [383][383l]  |[赎金信][383]                                     |![p]
+[384][384l]  |[打乱数组][384]                                   |![r]
 [387][387l]  |[字符串中的第一个唯一字符][387]                   |![r]
 [389][389l]  |[找不同][389]                                     |![r]
 [392][392l]  |[判断子序列][392]                                 |![r]
@@ -513,6 +514,7 @@
 [371]:./Easy/0371-Sum%20of%20Two%20Integers/README_CN.md#371-两整数之和
 [374]:./Easy/0374-Guess%20Number%20Higher%20or%20Lower/README_CN.md#374-猜数字大小
 [383]:./Easy/0383-Ransom%20Note/README_CN.md#383-赎金信
+[384]:./Medium/0384-Shuffle%20an%20Array/README_CN.md#384-打乱数组
 [387]:./Easy/0387-First%20Unique%20Character%20in%20a%20String/README_CN.md#387-字符串中的第一个唯一字符
 [389]:./Easy/0389-Find%20the%20Difference/README_CN.md#389-找不同
 [392]:./Easy/0392-Is%20Subsequence/README_CN.md#392-判断子序列
@@ -933,6 +935,7 @@
 [374l]:https://leetcode-cn.com/problems/guess-number-higher-or-lower/
 [380l]:https://leetcode-cn.com/problems/insert-delete-getrandom-o1/
 [383l]:https://leetcode-cn.com/problems/ransom-note/
+[384l]:https://leetcode-cn.com/problems/shuffle-an-array/
 [387l]:https://leetcode-cn.com/problems/first-unique-character-in-a-string/
 [389l]:https://leetcode-cn.com/problems/find-the-difference/
 [392l]:https://leetcode-cn.com/problems/is-subsequence/
