@@ -311,6 +311,7 @@
 [999][999l]  |[Available Captures for Rook][999]                            |![r]
 [1002][1002l]|[Find Common Characters][1002]                                |![p]
 [1005][1005l]|[Maximize Sum Of Array After K Negations][1005]               |![r]
+[1006][1006l]|[Clumsy Factorial][1006]                                      |![r]
 [1009][1009l]|[Complement of Base 10 Integer][1009]                         |![r]
 [1010][1010l]|[Pairs of Songs With Total Durations Divisible by 60][1010]   |![r]
 [1013][1013l]|[Partition Array Into Three Parts With Equal Sum][1013]       |![r]
@@ -706,6 +707,7 @@
 [999]:./Easy/0999-Available%20Captures%20for%20Rook/README.md#999-available-captures-for-rook
 [1002]:./Easy/1002-Find%20Common%20Characters/README.md#1002-find-common-characters
 [1005]:./Easy/1005-Maximize%20Sum%20Of%20Array%20After%20K%20Negations/README.md#1005-maximize-sum-of-array-after-k-negations
+[1006]:./Medium/1006-Clumsy%20Factorial/README.md#1006-clumsy-factorial
 [1009]:./Easy/1009-Complement%20of%20Base%2010%20Integer/README.md#1009-complement-of-base-10-integer
 [1010]:./Easy/1010-Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060/README.md#1010-pairs-of-songs-with-total-durations-divisible-by-60
 [1013]:./Easy/1013-Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/README.md#1013-partition-array-into-three-parts-with-equal-sum
@@ -1135,6 +1137,7 @@
 [999l]:https://leetcode.com/problems/available-captures-for-rook/
 [1002l]:https://leetcode.com/problems/find-common-characters/
 [1005l]:https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
+[1006l]:https://leetcode.com/problems/clumsy-factorial/
 [1009l]:https://leetcode.com/problems/complement-of-base-10-integer/
 [1010l]:https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
 [1013l]:https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/

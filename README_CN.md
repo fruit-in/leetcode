@@ -311,6 +311,7 @@
 [999][999l]  |[车的可用捕获量][999]                             |![r]
 [1002][1002l]|[查找常用字符][1002]                              |![p]
 [1005][1005l]|[K 次取反后最大化的数组和][1005]                  |![r]
+[1006][1006l]|[笨阶乘][1006]                                    |![r]
 [1009][1009l]|[十进制整数的反码][1009]                          |![r]
 [1010][1010l]|[总持续时间可被 60 整除的歌曲][1010]              |![r]
 [1013][1013l]|[将数组分成和相等的三个部分][1013]                |![r]
@@ -706,6 +707,7 @@
 [999]:./Easy/0999-Available%20Captures%20for%20Rook/README_CN.md#999-车的可用捕获量
 [1002]:./Easy/1002-Find%20Common%20Characters/README_CN.md#1002-查找常用字符
 [1005]:./Easy/1005-Maximize%20Sum%20Of%20Array%20After%20K%20Negations/README_CN.md#1005-k-次取反后最大化的数组和
+[1006]:./Medium/1006-Clumsy%20Factorial/README_CN.md#1006-笨阶乘
 [1009]:./Easy/1009-Complement%20of%20Base%2010%20Integer/README_CN.md#1009-十进制整数的反码
 [1010]:./Easy/1010-Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060/README_CN.md#1010-总持续时间可被-60-整除的歌曲
 [1013]:./Easy/1013-Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/README_CN.md#1013-将数组分成和相等的三个部分
@@ -1135,6 +1137,7 @@
 [999l]:https://leetcode-cn.com/problems/available-captures-for-rook/
 [1002l]:https://leetcode-cn.com/problems/find-common-characters/
 [1005l]:https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/
+[1006l]:https://leetcode-cn.com/problems/clumsy-factorial/
 [1009l]:https://leetcode-cn.com/problems/complement-of-base-10-integer/
 [1010l]:https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
 [1013l]:https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/
