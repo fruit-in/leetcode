@@ -118,6 +118,7 @@
 [367][367l]  |[Valid Perfect Square][367]                                   |![r]
 [371][371l]  |[Sum of Two Integers][371]                                    |![r]
 [374][374l]  |[Guess Number Higher or Lower][374]                           |![p]
+[382][382l]  |[Linked List Random Node][382]                                |![p]
 [383][383l]  |[Ransom Note][383]                                            |![p]
 [384][384l]  |[Shuffle an Array][384]                                       |![r]
 [387][387l]  |[First Unique Character in a String][387]                     |![r]
@@ -514,6 +515,7 @@
 [367]:./Easy/0367-Valid%20Perfect%20Square/README.md#367-valid-perfect-square
 [371]:./Easy/0371-Sum%20of%20Two%20Integers/README.md#371-sum-of-two-integers
 [374]:./Easy/0374-Guess%20Number%20Higher%20or%20Lower/README.md#374-guess-number-higher-or-lower
+[382]:./Medium/0382-Linked%20List%20Random%20Node/README.md#382-linked-list-random-node
 [383]:./Easy/0383-Ransom%20Note/README.md#383-ransom-note
 [384]:./Medium/0384-Shuffle%20an%20Array/README.md#384-shuffle-an-array
 [387]:./Easy/0387-First%20Unique%20Character%20in%20a%20String/README.md#387-first-unique-character-in-a-string
@@ -936,6 +938,7 @@
 [371l]:https://leetcode.com/problems/sum-of-two-integers/
 [374l]:https://leetcode.com/problems/guess-number-higher-or-lower/
 [380l]:https://leetcode.com/problems/insert-delete-getrandom-o1/
+[382l]:https://leetcode.com/problems/linked-list-random-node/
 [383l]:https://leetcode.com/problems/ransom-note/
 [384l]:https://leetcode.com/problems/shuffle-an-array/
 [387l]:https://leetcode.com/problems/first-unique-character-in-a-string/
