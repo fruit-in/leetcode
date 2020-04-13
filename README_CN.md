@@ -156,6 +156,7 @@
 [482][482l]  |[密钥格式化][482]                                 |![p]
 [485][485l]  |[最大连续1的个数][485]                            |![r]
 [492][492l]  |[构造矩形][492]                                   |![r]
+[495][495l]  |[提莫攻击][495]                                   |![r]
 [496][496l]  |[下一个更大元素 I][496]                           |![r]
 [500][500l]  |[键盘行][500]                                     |![p]
 [501][501l]  |[二叉搜索树中的众数][501]                         |![p]
@@ -553,6 +554,7 @@
 [482]:./Easy/0482-License%20Key%20Formatting/README_CN.md#482-密钥格式化
 [485]:./Easy/0485-Max%20Consecutive%20Ones/README_CN.md#485-最大连续1的个数
 [492]:./Easy/0492-Construct%20the%20Rectangle/README_CN.md#492-构造矩形
+[495]:./Medium/0495-Teemo%20Attacking/README_CN.md#495-提莫攻击
 [496]:./Easy/0496-Next%20Greater%20Element%20I/README_CN.md#496-下一个更大元素-i
 [500]:./Easy/0500-Keyboard%20Row/README_CN.md#500-键盘行
 [501]:./Easy/0501-Find%20Mode%20in%20Binary%20Search%20Tree/README_CN.md#501-二叉搜索树中的众数
@@ -978,6 +980,7 @@
 [482l]:https://leetcode-cn.com/problems/license-key-formatting/
 [485l]:https://leetcode-cn.com/problems/max-consecutive-ones/
 [492l]:https://leetcode-cn.com/problems/construct-the-rectangle/
+[495l]:https://leetcode-cn.com/problems/teemo-attacking/
 [496l]:https://leetcode-cn.com/problems/next-greater-element-i/
 [500l]:https://leetcode-cn.com/problems/keyboard-row/
 [501l]:https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/

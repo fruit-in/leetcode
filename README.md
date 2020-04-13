@@ -156,6 +156,7 @@
 [482][482l]  |[License Key Formatting][482]                                 |![p]
 [485][485l]  |[Max Consecutive Ones][485]                                   |![r]
 [492][492l]  |[Construct the Rectangle][492]                                |![r]
+[495][495l]  |[Teemo Attacking][495]                                        |![r]
 [496][496l]  |[Next Greater Element I][496]                                 |![r]
 [500][500l]  |[Keyboard Row][500]                                           |![p]
 [501][501l]  |[Find Mode in Binary Search Tree][501]                        |![p]
@@ -553,6 +554,7 @@
 [482]:./Easy/0482-License%20Key%20Formatting/README.md#482-license-key-formatting
 [485]:./Easy/0485-Max%20Consecutive%20Ones/README.md#485-max-consecutive-ones
 [492]:./Easy/0492-Construct%20the%20Rectangle/README.md#492-construct-the-rectangle
+[495]:./Medium/0495-Teemo%20Attacking/README.md#495-teemo-attacking
 [496]:./Easy/0496-Next%20Greater%20Element%20I/README.md#496-next-greater-element-i
 [500]:./Easy/0500-Keyboard%20Row/README.md#500-keyboard-row
 [501]:./Easy/0501-Find%20Mode%20in%20Binary%20Search%20Tree/README.md#501-find-mode-in-binary-search-tree
@@ -978,6 +980,7 @@
 [482l]:https://leetcode.com/problems/license-key-formatting/
 [485l]:https://leetcode.com/problems/max-consecutive-ones/
 [492l]:https://leetcode.com/problems/construct-the-rectangle/
+[495l]:https://leetcode.com/problems/teemo-attacking/
 [496l]:https://leetcode.com/problems/next-greater-element-i/
 [500l]:https://leetcode.com/problems/keyboard-row/
 [501l]:https://leetcode.com/problems/find-mode-in-binary-search-tree/
