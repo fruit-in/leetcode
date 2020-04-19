@@ -395,6 +395,7 @@
 [1356][1356l]|[Sort Integers by The Number of 1 Bits][1356]                 |![r]
 [1360][1360l]|[Number of Days Between Two Dates][1360]                      |![r]
 [1365][1365l]|[How Many Numbers Are Smaller Than the Current Number][1365]  |![j]
+[1370][1370l]|[Increasing Decreasing String][1370]                          |![r]
 
 
 [p]:./ico/python.ico
@@ -794,6 +795,7 @@
 [1356]:./Easy/1356-Sort%20Integers%20by%20The%20Number%20of%201%20Bits/README.md#1356-sort-integers-by-the-number-of-1-bits
 [1360]:./Easy/1360-Number%20of%20Days%20Between%20Two%20Dates/README.md#1360-number-of-days-between-two-dates
 [1365]:./Easy/1365-How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/README.md#1365-how-many-numbers-are-smaller-than-the-current-number
+[1370]:./Easy/1370-Increasing%20Decreasing%20String/README.md#1370-increasing-decreasing-string
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1227,3 +1229,4 @@
 [1356l]:https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 [1360l]:https://leetcode.com/problems/number-of-days-between-two-dates/
 [1365l]:https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+[1370l]:https://leetcode.com/problems/increasing-decreasing-string/

@@ -395,6 +395,7 @@
 [1356][1356l]|[根据数字二进制下 1 的数目排序][1356]             |![r]
 [1360][1360l]|[日期之间隔几天][1360]                            |![r]
 [1365][1365l]|[有多少小于当前数字的数字][1365]                  |![j]
+[1370][1370l]|[上升下降字符串][1370]                            |![r]
 
 
 [p]:./ico/python.ico
@@ -794,6 +795,7 @@
 [1356]:./Easy/1356-Sort%20Integers%20by%20The%20Number%20of%201%20Bits/README_CN.md#1356-根据数字二进制下-1-的数目排序
 [1360]:./Easy/1360-Number%20of%20Days%20Between%20Two%20Dates/README_CN.md#1360-日期之间隔几天
 [1365]:./Easy/1365-How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/README_CN.md#1365-有多少小于当前数字的数字
+[1370]:./Easy/1370-Increasing%20Decreasing%20String/README_CN.md#1370-上升下降字符串
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1227,3 +1229,4 @@
 [1356l]:https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/
 [1360l]:https://leetcode-cn.com/problems/number-of-days-between-two-dates/
 [1365l]:https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+[1370l]:https://leetcode-cn.com/problems/increasing-decreasing-string/
