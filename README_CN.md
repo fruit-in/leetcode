@@ -307,6 +307,7 @@
 [977][977l]  |[有序数组的平方][977]                             |![r]
 [985][985l]  |[查询后的偶数和][985]                             |![p]
 [989][989l]  |[数组形式的整数加法][989]                         |![p]
+[991][991l]  |[坏了的计算器][991]                               |![r]
 [993][993l]  |[二叉树的堂兄弟节点][993]                         |![p]
 [994][994l]  |[腐烂的橘子][994]                                 |![r]
 [997][997l]  |[找到小镇的法官][997]                             |![r]
@@ -707,6 +708,7 @@
 [977]:./Easy/0977-Squares%20of%20a%20Sorted%20Array/README_CN.md#977-有序数组的平方
 [985]:./Easy/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README_CN.md#985-查询后的偶数和
 [989]:./Easy/0989-Add%20to%20Array-Form%20of%20Interger/README_CN.md#989-数组形式的整数加法
+[991]:./Medium/0991-Broken%20Calculator/README_CN.md#991-坏了的计算器
 [993]:./Easy/0993-Cousins%20in%20Binary%20Tree/README_CN.md#993-二叉树的堂兄弟节点
 [994]:./Easy/0994-Rotting%20Oranges/README_CN.md#994-腐烂的橘子
 [997]:./Easy/0997-Find%20the%20Town%20Judge/README_CN.md#997-找到小镇的法官
@@ -1141,6 +1143,7 @@
 [977l]:https://leetcode-cn.com/problems/squares-of-a-sorted-array/
 [985l]:https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/
 [989l]:https://leetcode-cn.com/problems/add-to-array-form-of-interger/
+[991l]:https://leetcode-cn.com/problems/broken-calculator/
 [993l]:https://leetcode-cn.com/problems/cousins-in-binary-tree/
 [994l]:https://leetcode-cn.com/problems/rotting-oranges/
 [997l]:https://leetcode-cn.com/problems/find-the-town-judge/
