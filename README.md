@@ -158,6 +158,7 @@
 [492][492l]  |[Construct the Rectangle][492]                                |![r]
 [495][495l]  |[Teemo Attacking][495]                                        |![r]
 [496][496l]  |[Next Greater Element I][496]                                 |![r]
+[498][498l]  |[Diagonal Traverse][498]                                      |![r]
 [500][500l]  |[Keyboard Row][500]                                           |![p]
 [501][501l]  |[Find Mode in Binary Search Tree][501]                        |![p]
 [504][504l]  |[Base 7][504]                                                 |![p]
@@ -559,6 +560,7 @@
 [492]:./Easy/0492-Construct%20the%20Rectangle/README.md#492-construct-the-rectangle
 [495]:./Medium/0495-Teemo%20Attacking/README.md#495-teemo-attacking
 [496]:./Easy/0496-Next%20Greater%20Element%20I/README.md#496-next-greater-element-i
+[498]:./Medium/0498-Diagonal%20Traverse/README.md#498-diagonal-traverse
 [500]:./Easy/0500-Keyboard%20Row/README.md#500-keyboard-row
 [501]:./Easy/0501-Find%20Mode%20in%20Binary%20Search%20Tree/README.md#501-find-mode-in-binary-search-tree
 [504]:./Easy/0504-Base%207/README.md#504-base-7
@@ -988,6 +990,7 @@
 [492l]:https://leetcode.com/problems/construct-the-rectangle/
 [495l]:https://leetcode.com/problems/teemo-attacking/
 [496l]:https://leetcode.com/problems/next-greater-element-i/
+[498l]:https://leetcode.com/problems/diagonal-traverse/
 [500l]:https://leetcode.com/problems/keyboard-row/
 [501l]:https://leetcode.com/problems/find-mode-in-binary-search-tree/
 [504l]:https://leetcode.com/problems/base-7/

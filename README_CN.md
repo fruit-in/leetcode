@@ -158,6 +158,7 @@
 [492][492l]  |[构造矩形][492]                                   |![r]
 [495][495l]  |[提莫攻击][495]                                   |![r]
 [496][496l]  |[下一个更大元素 I][496]                           |![r]
+[498][498l]  |[对角线遍历][498]                                 |![r]
 [500][500l]  |[键盘行][500]                                     |![p]
 [501][501l]  |[二叉搜索树中的众数][501]                         |![p]
 [504][504l]  |[七进制数][504]                                   |![p]
@@ -559,6 +560,7 @@
 [492]:./Easy/0492-Construct%20the%20Rectangle/README_CN.md#492-构造矩形
 [495]:./Medium/0495-Teemo%20Attacking/README_CN.md#495-提莫攻击
 [496]:./Easy/0496-Next%20Greater%20Element%20I/README_CN.md#496-下一个更大元素-i
+[498]:./Medium/0498-Diagonal%20Traverse/README_CN.md#498-对角线遍历
 [500]:./Easy/0500-Keyboard%20Row/README_CN.md#500-键盘行
 [501]:./Easy/0501-Find%20Mode%20in%20Binary%20Search%20Tree/README_CN.md#501-二叉搜索树中的众数
 [504]:./Easy/0504-Base%207/README_CN.md#504-七进制数
@@ -988,6 +990,7 @@
 [492l]:https://leetcode-cn.com/problems/construct-the-rectangle/
 [495l]:https://leetcode-cn.com/problems/teemo-attacking/
 [496l]:https://leetcode-cn.com/problems/next-greater-element-i/
+[498l]:https://leetcode-cn.com/problems/diagonal-traverse/
 [500l]:https://leetcode-cn.com/problems/keyboard-row/
 [501l]:https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/
 [504l]:https://leetcode-cn.com/problems/base-7/
