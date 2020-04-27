@@ -307,6 +307,7 @@
 [976][976l]  |[三角形的最大周长][976]                           |![r]
 [977][977l]  |[有序数组的平方][977]                             |![r]
 [985][985l]  |[查询后的偶数和][985]                             |![p]
+[986][986l]  |[区间列表的交集][986]                             |![r]
 [989][989l]  |[数组形式的整数加法][989]                         |![p]
 [991][991l]  |[坏了的计算器][991]                               |![r]
 [993][993l]  |[二叉树的堂兄弟节点][993]                         |![p]
@@ -711,6 +712,7 @@
 [976]:./Easy/0976-Largest%20Perimeter%20Triangle/README_CN.md#976-三角形的最大周长
 [977]:./Easy/0977-Squares%20of%20a%20Sorted%20Array/README_CN.md#977-有序数组的平方
 [985]:./Easy/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README_CN.md#985-查询后的偶数和
+[986]:./Medium/0986-Interval%20List%20Intersections/README_CN.md#986-区间列表的交集
 [989]:./Easy/0989-Add%20to%20Array-Form%20of%20Interger/README_CN.md#989-数组形式的整数加法
 [991]:./Medium/0991-Broken%20Calculator/README_CN.md#991-坏了的计算器
 [993]:./Easy/0993-Cousins%20in%20Binary%20Tree/README_CN.md#993-二叉树的堂兄弟节点
@@ -1149,6 +1151,7 @@
 [976l]:https://leetcode-cn.com/problems/largest-perimeter-triangle/
 [977l]:https://leetcode-cn.com/problems/squares-of-a-sorted-array/
 [985l]:https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/
+[986l]:https://leetcode-cn.com/problems/interval-list-intersections/
 [989l]:https://leetcode-cn.com/problems/add-to-array-form-of-interger/
 [991l]:https://leetcode-cn.com/problems/broken-calculator/
 [993l]:https://leetcode-cn.com/problems/cousins-in-binary-tree/
