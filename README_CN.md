@@ -117,6 +117,7 @@
 [350][350l]  |[两个数组的交集 II][350]                          |![r]
 [367][367l]  |[有效的完全平方数][367]                           |![r]
 [371][371l]  |[两整数之和][371]                                 |![r]
+[372][372l]  |[超级次方][372]                                   |![r]
 [374][374l]  |[猜数字大小][374]                                 |![p]
 [382][382l]  |[链表随机节点][382]                               |![p]
 [383][383l]  |[赎金信][383]                                     |![p]
@@ -523,6 +524,7 @@
 [350]:./Easy/0350-Intersection%20of%20Two%20Arrays%20II/README_CN.md#350-两个数组的交集-ii
 [367]:./Easy/0367-Valid%20Perfect%20Square/README_CN.md#367-有效的完全平方数
 [371]:./Easy/0371-Sum%20of%20Two%20Integers/README_CN.md#371-两整数之和
+[372]:./Medium/0372-Super%20Pow/README_CN.md#372-超级次方
 [374]:./Easy/0374-Guess%20Number%20Higher%20or%20Lower/README_CN.md#374-猜数字大小
 [382]:./Medium/0382-Linked%20List%20Random%20Node/README_CN.md#382-链表随机节点
 [383]:./Easy/0383-Ransom%20Note/README_CN.md#383-赎金信
@@ -954,6 +956,7 @@
 [350l]:https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/
 [367l]:https://leetcode-cn.com/problems/valid-perfect-square/
 [371l]:https://leetcode-cn.com/problems/sum-of-two-integers/
+[372l]:https://leetcode-cn.com/problems/super-pow/
 [374l]:https://leetcode-cn.com/problems/guess-number-higher-or-lower/
 [380l]:https://leetcode-cn.com/problems/insert-delete-getrandom-o1/
 [382l]:https://leetcode-cn.com/problems/linked-list-random-node/

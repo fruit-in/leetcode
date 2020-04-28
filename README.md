@@ -117,6 +117,7 @@
 [350][350l]  |[Intersection of Two Arrays II][350]                          |![r]
 [367][367l]  |[Valid Perfect Square][367]                                   |![r]
 [371][371l]  |[Sum of Two Integers][371]                                    |![r]
+[372][372l]  |[Super Pow][372]                                              |![r]
 [374][374l]  |[Guess Number Higher or Lower][374]                           |![p]
 [382][382l]  |[Linked List Random Node][382]                                |![p]
 [383][383l]  |[Ransom Note][383]                                            |![p]
@@ -523,6 +524,7 @@
 [350]:./Easy/0350-Intersection%20of%20Two%20Arrays%20II/README.md#350-intersection-of-two-arrays-ii
 [367]:./Easy/0367-Valid%20Perfect%20Square/README.md#367-valid-perfect-square
 [371]:./Easy/0371-Sum%20of%20Two%20Integers/README.md#371-sum-of-two-integers
+[372]:./Medium/0372-Super%20Pow/README.md#372-super-pow
 [374]:./Easy/0374-Guess%20Number%20Higher%20or%20Lower/README.md#374-guess-number-higher-or-lower
 [382]:./Medium/0382-Linked%20List%20Random%20Node/README.md#382-linked-list-random-node
 [383]:./Easy/0383-Ransom%20Note/README.md#383-ransom-note
@@ -954,6 +956,7 @@
 [350l]:https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [367l]:https://leetcode.com/problems/valid-perfect-square/
 [371l]:https://leetcode.com/problems/sum-of-two-integers/
+[372l]:https://leetcode.com/problems/super-pow/
 [374l]:https://leetcode.com/problems/guess-number-higher-or-lower/
 [380l]:https://leetcode.com/problems/insert-delete-getrandom-o1/
 [382l]:https://leetcode.com/problems/linked-list-random-node/
