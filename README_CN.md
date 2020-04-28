@@ -94,6 +94,7 @@
 [242][242l]  |[有效的字母异位词][242]                           |![r]
 [257][257l]  |[二叉树的所有路径][257]                           |![p]
 [258][258l]  |[各位相加][258]                                   |![r]
+[260][260l]  |[只出现一次的数字 III][260]                       |![r]
 [263][263l]  |[丑数][263]                                       |![r]
 [264][264l]  |[丑数 II][264]                                    |![r]
 [268][268l]  |[缺失数字][268]                                   |![r]
@@ -501,6 +502,7 @@
 [242]:./Easy/0242-Valid%20Anagram/README_CN.md#242-有效的字母异位词
 [257]:./Easy/0257-Binary%20Tree%20Paths/README_CN.md#257-二叉树的所有路径
 [258]:./Easy/0258-Add%20Digits/README_CN.md#258-各位相加
+[260]:./Medium/0260-Single%20Number%20III/README_CN.md#260-只出现一次的数字-iii
 [263]:./Easy/0263-Ugly%20Number/README_CN.md#263-丑数
 [264]:./Medium/0264-Ugly%20Number%20II/README_CN.md#264-丑数-ii
 [268]:./Easy/0268-Missing%20Number/README_CN.md#268-缺失数字
@@ -930,6 +932,7 @@
 [242l]:https://leetcode-cn.com/problems/valid-anagram/
 [257l]:https://leetcode-cn.com/problems/binary-tree-paths/
 [258l]:https://leetcode-cn.com/problems/add-digits/
+[260l]:https://leetcode-cn.com/problems/single-number-iii/
 [263l]:https://leetcode-cn.com/problems/ugly-number/
 [264l]:https://leetcode-cn.com/problems/ugly-number-ii/
 [268l]:https://leetcode-cn.com/problems/missing-number/

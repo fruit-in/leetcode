@@ -94,6 +94,7 @@
 [242][242l]  |[Valid Anagram][242]                                          |![r]
 [257][257l]  |[Binary Tree Paths][257]                                      |![p]
 [258][258l]  |[Add Digits][258]                                             |![r]
+[260][260l]  |[Single Number III][260]                                      |![r]
 [263][263l]  |[Ugly Number][263]                                            |![r]
 [264][264l]  |[Ugly Number II][264]                                         |![r]
 [268][268l]  |[Missing Number][268]                                         |![r]
@@ -501,6 +502,7 @@
 [242]:./Easy/0242-Valid%20Anagram/README.md#242-valid-anagram
 [257]:./Easy/0257-Binary%20Tree%20Paths/README.md#257-binary-tree-paths
 [258]:./Easy/0258-Add%20Digits/README.md#258-add-digits
+[260]:./Medium/0260-Single%20Number%20III/README.md#260-single-number-iii
 [263]:./Easy/0263-Ugly%20Number/README.md#263-ugly-number
 [264]:./Medium/0264-Ugly%20Number%20II/README.md#264-ugly-number-ii
 [268]:./Easy/0268-Missing%20Number/README.md#268-missing-number
@@ -930,6 +932,7 @@
 [242l]:https://leetcode.com/problems/valid-anagram/
 [257l]:https://leetcode.com/problems/binary-tree-paths/
 [258l]:https://leetcode.com/problems/add-digits/
+[260l]:https://leetcode.com/problems/single-number-iii/
 [263l]:https://leetcode.com/problems/ugly-number/
 [264l]:https://leetcode.com/problems/ugly-number-ii/
 [268l]:https://leetcode.com/problems/missing-number/
