@@ -404,6 +404,7 @@
 [1365][1365l]|[How Many Numbers Are Smaller Than the Current Number][1365]  |![j]
 [1370][1370l]|[Increasing Decreasing String][1370]                          |![r]
 [1374][1374l]|[Generate a String With Characters That Have Odd Counts][1374]|![p]
+[1380][1380l]|[Lucky Numbers in a Matrix][1380]                             |![r]
 
 
 [p]:./ico/python.ico
@@ -812,6 +813,7 @@
 [1365]:./Easy/1365-How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/README.md#1365-how-many-numbers-are-smaller-than-the-current-number
 [1370]:./Easy/1370-Increasing%20Decreasing%20String/README.md#1370-increasing-decreasing-string
 [1374]:./Easy/1374-Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts/README.md#1374-generate-a-string-with-characters-that-have-odd-counts
+[1380]:./Easy/1380-Lucky%20Numbers%20in%20a%20Matrix/README.md#1380-lucky-numbers-in-a-matrix
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1254,3 +1256,4 @@
 [1365l]:https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1370l]:https://leetcode.com/problems/increasing-decreasing-string/
 [1374l]:https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
+[1380l]:https://leetcode.com/problems/lucky-numbers-in-a-matrix/

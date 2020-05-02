@@ -404,6 +404,7 @@
 [1365][1365l]|[有多少小于当前数字的数字][1365]                  |![j]
 [1370][1370l]|[上升下降字符串][1370]                            |![r]
 [1374][1374l]|[生成每种字符都是奇数个的字符串][1374]            |![p]
+[1380][1380l]|[矩阵中的幸运数][1380]                            |![r]
 
 
 [p]:./ico/python.ico
@@ -812,6 +813,7 @@
 [1365]:./Easy/1365-How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/README_CN.md#1365-有多少小于当前数字的数字
 [1370]:./Easy/1370-Increasing%20Decreasing%20String/README_CN.md#1370-上升下降字符串
 [1374]:./Easy/1374-Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts/README_CN.md#1374-生成每种字符都是奇数个的字符串
+[1380]:./Easy/1380-Lucky%20Numbers%20in%20a%20Matrix/README_CN.md#1380-矩阵中的幸运数
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1254,3 +1256,4 @@
 [1365l]:https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1370l]:https://leetcode-cn.com/problems/increasing-decreasing-string/
 [1374l]:https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts/
+[1380l]:https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/
