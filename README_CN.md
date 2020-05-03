@@ -405,6 +405,7 @@
 [1370][1370l]|[上升下降字符串][1370]                            |![r]
 [1374][1374l]|[生成每种字符都是奇数个的字符串][1374]            |![p]
 [1380][1380l]|[矩阵中的幸运数][1380]                            |![r]
+[1385][1385l]|[两个数组间的距离值][1385]                        |![r]
 
 
 [p]:./ico/python.ico
@@ -814,6 +815,7 @@
 [1370]:./Easy/1370-Increasing%20Decreasing%20String/README_CN.md#1370-上升下降字符串
 [1374]:./Easy/1374-Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts/README_CN.md#1374-生成每种字符都是奇数个的字符串
 [1380]:./Easy/1380-Lucky%20Numbers%20in%20a%20Matrix/README_CN.md#1380-矩阵中的幸运数
+[1385]:./Easy/1385-Find%20the%20Distance%20Value%20Between%20Two%20Arrays/README_CN.md#1385-两个数组间的距离值
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1257,3 +1259,4 @@
 [1370l]:https://leetcode-cn.com/problems/increasing-decreasing-string/
 [1374l]:https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts/
 [1380l]:https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/
+[1385l]:https://leetcode-cn.com/problems/find-the-distance-value-between-two-arrays/
