@@ -410,6 +410,7 @@
 [1380][1380l]|[Lucky Numbers in a Matrix][1380]                                         |![r]
 [1385][1385l]|[Find the Distance Value Between Two Arrays][1385]                        |![r]
 [1389][1389l]|[Create Target Array in the Given Order][1389]                            |![r]
+[1394][1394l]|[Find Lucky Integer in an Array][1394]                                    |![r]
 
 
 [p]:./ico/python.ico
@@ -824,6 +825,7 @@
 [1380]:./Easy/1380-Lucky%20Numbers%20in%20a%20Matrix/README.md#1380-lucky-numbers-in-a-matrix
 [1385]:./Easy/1385-Find%20the%20Distance%20Value%20Between%20Two%20Arrays/README.md#1385-find-the-distance-value-between-two-arrays
 [1389]:./Easy/1389-Create%20Target%20Array%20in%20the%20Given%20Order/README.md#1389-create-target-array-in-the-given-order
+[1394]:./Easy/1394-Find%20Lucky%20Integer%20in%20an%20Array/README.md#1394-find-lucky-integer-in-an-array
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1272,3 +1274,4 @@
 [1380l]:https://leetcode.com/problems/lucky-numbers-in-a-matrix/
 [1385l]:https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 [1389l]:https://leetcode.com/problems/create-target-array-in-the-given-order/
+[1394l]:https://leetcode.com/problems/find-lucky-integer-in-an-array/
