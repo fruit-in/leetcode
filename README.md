@@ -232,6 +232,7 @@
 [717][717l]  |[1-bit and 2-bit Characters][717]                             |![r]
 [720][720l]  |[Longest Word in Dictionary][720]                             |![p]
 [724][724l]  |[Find Pivot Index][724]                                       |![r]
+[725][725l]  |[Split Linked List in Parts][725]                             |![p]
 [728][728l]  |[Self Dividing Numbers][728]                                  |![p]
 [733][733l]  |[Flood Fill][733]                                             |![r]
 [744][744l]  |[Find Smallest Letter Greater Than Target][744]               |![r]
@@ -642,6 +643,7 @@
 [717]:./Easy/0717-1-bit%20and%202-bit%20Characters/README.md#717-1-bit-and-2-bit-characters
 [720]:./Easy/0720-Longest%20Word%20in%20Dictionary/README.md#720-longest-word-in-dictionary
 [724]:./Easy/0724-Find%20Pivot%20Index/README.md#724-find-pivot-index
+[725]:./Medium/0725-Split%20Linked%20List%20in%20Parts/README.md#725-split-linked-list-in-parts
 [728]:./Easy/0728-Self%20Dividing%20Numbers/README.md#728-self-dividing-numbers
 [733]:./Easy/0733-Flood%20Fill/README.md#733-flood-fill
 [744]:./Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README.md#744-find-smallest-letter-greater-than-target
@@ -1083,6 +1085,7 @@
 [717l]:https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [720l]:https://leetcode.com/problems/longest-word-in-dictionary/
 [724l]:https://leetcode.com/problems/find-pivot-index/
+[725l]:https://leetcode.com/problems/split-linked-list-in-parts/
 [728l]:https://leetcode.com/problems/self-dividing-numbers/
 [733l]:https://leetcode.com/problems/flood-fill/
 [739l]:https://leetcode.com/problems/daily-temperatures/

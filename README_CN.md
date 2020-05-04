@@ -232,6 +232,7 @@
 [717][717l]  |[1比特与2比特字符][717]                           |![r]
 [720][720l]  |[词典中最长的单词][720]                           |![p]
 [724][724l]  |[寻找数组的中心索引][724]                         |![r]
+[725][725l]  |[分隔链表][725]                                   |![p]
 [728][728l]  |[自除数][728]                                     |![p]
 [733][733l]  |[图像渲染][733]                                   |![r]
 [744][744l]  |[寻找比目标字母大的最小字母][744]                 |![r]
@@ -642,6 +643,7 @@
 [717]:./Easy/0717-1-bit%20and%202-bit%20Characters/README_CN.md#717-1比特与2比特字符
 [720]:./Easy/0720-Longest%20Word%20in%20Dictionary/README_CN.md#720-词典中最长的单词
 [724]:./Easy/0724-Find%20Pivot%20Index/README_CN.md#724-寻找数组的中心索引
+[725]:./Medium/0725-Split%20Linked%20List%20in%20Parts/README_CN.md#725-分隔链表
 [728]:./Easy/0728-Self%20Dividing%20Numbers/README_CN.md#728-自除数
 [733]:./Easy/0733-Flood%20Fill/README_CN.md#733-图像渲染
 [744]:./Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README_CN.md#744-寻找比目标字母大的最小字母
@@ -1083,6 +1085,7 @@
 [717l]:https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/
 [720l]:https://leetcode-cn.com/problems/longest-word-in-dictionary/
 [724l]:https://leetcode-cn.com/problems/find-pivot-index/
+[725l]:https://leetcode-cn.com/problems/split-linked-list-in-parts/
 [728l]:https://leetcode-cn.com/problems/self-dividing-numbers/
 [733l]:https://leetcode-cn.com/problems/flood-fill/
 [739l]:https://leetcode-cn.com/problems/daily-temperatures/
