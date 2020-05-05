@@ -24,6 +24,7 @@
 [35][35l]    |[Search Insert Position][35]                                              |![p]
 [36][36l]    |[Valid Sudoku][36]                                                        |![r]
 [38][38l]    |[Count and Say][38]                                                       |![p]
+[46][46l]    |[Permutations][46]                                                        |![r]
 [50][50l]    |[Pow(x, n)][50]                                                           |![r]
 [53][53l]    |[Maximum Subarray][53]                                                    |![r]
 [54][54l]    |[Spiral Matrix][54]                                                       |![r]
@@ -441,6 +442,7 @@
 [35]:./Easy/0035-Search%20Insert%20Position/README.md#35-search-insert-position
 [36]:./Medium/0036-Valid%20Sudoku/README.md#36-valid-sudoku
 [38]:./Easy/0038-Count%20and%20Say/README.md#38-count-and-say
+[46]:./Medium/0046-Permutations/README.md#46-permutations
 [50]:./Medium/0050-Pow\(x,%20n\)/README.md#50-powx-n
 [53]:./Easy/0053-Maximum%20Subarray/README.md#53-maximum-subarray
 [54]:./Medium/0054-Spiral%20Matrix/README.md#54-spiral-matrix

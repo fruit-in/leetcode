@@ -24,6 +24,7 @@
 [35][35l]    |[搜索插入位置][35]                                |![p]
 [36][36l]    |[有效的数独][36]                                  |![r]
 [38][38l]    |[外观数列][38]                                    |![p]
+[46][46l]    |[全排列][46]                                      |![r]
 [50][50l]    |[Pow(x, n)][50]                                   |![r]
 [53][53l]    |[最大子序和][53]                                  |![r]
 [54][54l]    |[螺旋矩阵][54]                                    |![r]
@@ -441,6 +442,7 @@
 [35]:./Easy/0035-Search%20Insert%20Position/README_CN.md#35-搜索插入位置
 [36]:./Medium/0036-Valid%20Sudoku/README_CN.md#36-有效的数独
 [38]:./Easy/0038-Count%20and%20Say/README_CN.md#38-外观数列
+[46]:./Medium/0046-Permutations/README_CN.md#46-全排列
 [50]:./Medium/0050-Pow\(x,%20n\)/README_CN.md#50-powx-n
 [53]:./Easy/0053-Maximum%20Subarray/README_CN.md#53-最大子序和
 [54]:./Medium/0054-Spiral%20Matrix/README_CN.md#54-螺旋矩阵
