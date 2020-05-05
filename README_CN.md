@@ -411,6 +411,7 @@
 [1385][1385l]|[两个数组间的距离值][1385]                        |![r]
 [1389][1389l]|[按既定顺序创建目标数组][1389]                    |![r]
 [1394][1394l]|[找出数组中的幸运数][1394]                        |![r]
+[1399][1399l]|[统计最大组的数目][1399]                          |![p]
 
 
 [p]:./ico/python.ico
@@ -826,6 +827,7 @@
 [1385]:./Easy/1385-Find%20the%20Distance%20Value%20Between%20Two%20Arrays/README_CN.md#1385-两个数组间的距离值
 [1389]:./Easy/1389-Create%20Target%20Array%20in%20the%20Given%20Order/README_CN.md#1389-按既定顺序创建目标数组
 [1394]:./Easy/1394-Find%20Lucky%20Integer%20in%20an%20Array/README_CN.md#1394-找出数组中的幸运数
+[1399]:./Easy/1399-Count%20Largest%20Group/README_CN.md#1399-统计最大组的数目
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1275,3 +1277,4 @@
 [1385l]:https://leetcode-cn.com/problems/find-the-distance-value-between-two-arrays/
 [1389l]:https://leetcode-cn.com/problems/create-target-array-in-the-given-order/
 [1394l]:https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/
+[1399l]:https://leetcode-cn.com/problems/count-largest-group/
