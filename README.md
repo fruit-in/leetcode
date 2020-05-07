@@ -25,6 +25,7 @@
 [36][36l]    |[Valid Sudoku][36]                                                        |![r]
 [38][38l]    |[Count and Say][38]                                                       |![p]
 [46][46l]    |[Permutations][46]                                                        |![r]
+[48][48l]    |[Rotate Image][48]                                                        |![r]
 [50][50l]    |[Pow(x, n)][50]                                                           |![r]
 [53][53l]    |[Maximum Subarray][53]                                                    |![r]
 [54][54l]    |[Spiral Matrix][54]                                                       |![r]
@@ -443,6 +444,7 @@
 [36]:./Medium/0036-Valid%20Sudoku/README.md#36-valid-sudoku
 [38]:./Easy/0038-Count%20and%20Say/README.md#38-count-and-say
 [46]:./Medium/0046-Permutations/README.md#46-permutations
+[48]:./Medium/0048-Rotate%20Image/README.md#48-rotate-image
 [50]:./Medium/0050-Pow\(x,%20n\)/README.md#50-powx-n
 [53]:./Easy/0053-Maximum%20Subarray/README.md#53-maximum-subarray
 [54]:./Medium/0054-Spiral%20Matrix/README.md#54-spiral-matrix
@@ -859,6 +861,7 @@
 [37l]:https://leetcode.com/problems/sudoku-solver/
 [38l]:https://leetcode.com/problems/count-and-say/
 [46l]:https://leetcode.com/problems/permutations/
+[48l]:https://leetcode.com/problems/rotate-image/
 [49l]:https://leetcode.com/problems/group-anagrams/
 [50l]:https://leetcode.com/problems/powx-n/
 [52l]:https://leetcode.com/problems/n-queens-ii/
