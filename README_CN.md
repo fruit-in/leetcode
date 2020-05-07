@@ -321,6 +321,7 @@
 [997][997l]  |[找到小镇的法官][997]                             |![r]
 [999][999l]  |[车的可用捕获量][999]                             |![r]
 [1002][1002l]|[查找常用字符][1002]                              |![p]
+[1003][1003l]|[检查替换后的词是否有效][1003]                    |![p]
 [1005][1005l]|[K 次取反后最大化的数组和][1005]                  |![r]
 [1006][1006l]|[笨阶乘][1006]                                    |![r]
 [1009][1009l]|[十进制整数的反码][1009]                          |![r]
@@ -740,6 +741,7 @@
 [997]:./Easy/0997-Find%20the%20Town%20Judge/README_CN.md#997-找到小镇的法官
 [999]:./Easy/0999-Available%20Captures%20for%20Rook/README_CN.md#999-车的可用捕获量
 [1002]:./Easy/1002-Find%20Common%20Characters/README_CN.md#1002-查找常用字符
+[1003]:./Medium/1003-Check%20If%20Word%20Is%20Valid%20After%20Substitutions/README_CN.md#1003-检查替换后的词是否有效
 [1005]:./Easy/1005-Maximize%20Sum%20Of%20Array%20After%20K%20Negations/README_CN.md#1005-k-次取反后最大化的数组和
 [1006]:./Medium/1006-Clumsy%20Factorial/README_CN.md#1006-笨阶乘
 [1009]:./Easy/1009-Complement%20of%20Base%2010%20Integer/README_CN.md#1009-十进制整数的反码
@@ -1192,6 +1194,7 @@
 [997l]:https://leetcode-cn.com/problems/find-the-town-judge/
 [999l]:https://leetcode-cn.com/problems/available-captures-for-rook/
 [1002l]:https://leetcode-cn.com/problems/find-common-characters/
+[1003l]:https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/
 [1005l]:https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/
 [1006l]:https://leetcode-cn.com/problems/clumsy-factorial/
 [1009l]:https://leetcode-cn.com/problems/complement-of-base-10-integer/

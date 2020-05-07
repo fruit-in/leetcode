@@ -321,6 +321,7 @@
 [997][997l]  |[Find the Town Judge][997]                                                |![r]
 [999][999l]  |[Available Captures for Rook][999]                                        |![r]
 [1002][1002l]|[Find Common Characters][1002]                                            |![p]
+[1003][1003l]|[Check If Word Is Valid After Substitutions][1003]                        |![p]
 [1005][1005l]|[Maximize Sum Of Array After K Negations][1005]                           |![r]
 [1006][1006l]|[Clumsy Factorial][1006]                                                  |![r]
 [1009][1009l]|[Complement of Base 10 Integer][1009]                                     |![r]
@@ -740,6 +741,7 @@
 [997]:./Easy/0997-Find%20the%20Town%20Judge/README.md#997-find-the-town-judge
 [999]:./Easy/0999-Available%20Captures%20for%20Rook/README.md#999-available-captures-for-rook
 [1002]:./Easy/1002-Find%20Common%20Characters/README.md#1002-find-common-characters
+[1003]:./Medium/1003-Check%20If%20Word%20Is%20Valid%20After%20Substitutions/README.md#1003-check-if-word-is-valid-after-substitutions
 [1005]:./Easy/1005-Maximize%20Sum%20Of%20Array%20After%20K%20Negations/README.md#1005-maximize-sum-of-array-after-k-negations
 [1006]:./Medium/1006-Clumsy%20Factorial/README.md#1006-clumsy-factorial
 [1009]:./Easy/1009-Complement%20of%20Base%2010%20Integer/README.md#1009-complement-of-base-10-integer
@@ -1192,6 +1194,7 @@
 [997l]:https://leetcode.com/problems/find-the-town-judge/
 [999l]:https://leetcode.com/problems/available-captures-for-rook/
 [1002l]:https://leetcode.com/problems/find-common-characters/
+[1003l]:https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/
 [1005l]:https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
 [1006l]:https://leetcode.com/problems/clumsy-factorial/
 [1009l]:https://leetcode.com/problems/complement-of-base-10-integer/
