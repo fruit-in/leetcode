@@ -202,6 +202,7 @@
 [606][606l]  |[根据二叉树创建字符串][606]                       |![p]
 [617][617l]  |[合并二叉树][617]                                 |![p]
 [622][622l]  |[设计循环队列][622]                               |![r]
+[623][623l]  |[在二叉树中增加一行][623]                         |![p]
 [628][628l]  |[三个数的最大乘积][628]                           |![p]
 [633][633l]  |[平方数之和][633]                                 |![r]
 [637][637l]  |[二叉树的层平均值][637]                           |![p]
@@ -622,6 +623,7 @@
 [606]:./Easy/0606-Construct%20String%20from%20Binary%20Tree/README_CN.md#606-根据二叉树创建字符串
 [617]:./Easy/0617-Merge%20Two%20Binary%20Trees/README_CN.md#617-合并二叉树
 [622]:./Medium/0622-Design%20Circular%20Queue/README_CN.md#622-设计循环队列
+[623]:./Medium/0623-Add%20One%20Row%20to%20Tree/README_CN.md#623-在二叉树中增加一行
 [628]:./Easy/0628-Maximum%20Product%20of%20Three%20Numbers/README_CN.md#628-三个数的最大乘积
 [633]:./Easy/0633-Sum%20of%20Square%20Numbers/README_CN.md#633-平方数之和
 [637]:./Easy/0637-Average%20of%20Levels%20in%20Binary%20Tree/README_CN.md#637-二叉树的层平均值
@@ -1069,6 +1071,7 @@
 [606l]:https://leetcode-cn.com/problems/construct-string-from-binary-tree/
 [617l]:https://leetcode-cn.com/problems/merge-two-binary-trees/
 [622l]:https://leetcode-cn.com/problems/design-circular-queue/
+[623l]:https://leetcode-cn.com/problems/add-one-row-to-tree/
 [628l]:https://leetcode-cn.com/problems/maximum-product-of-three-numbers/
 [633l]:https://leetcode-cn.com/problems/sum-of-square-numbers/
 [637l]:https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/

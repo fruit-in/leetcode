@@ -202,6 +202,7 @@
 [606][606l]  |[Construct String from Binary Tree][606]                                  |![p]
 [617][617l]  |[Merge Two Binary Trees][617]                                             |![p]
 [622][622l]  |[Design Circular Queue][622]                                              |![r]
+[623][623l]  |[Add One Row to Tree][623]                                                |![p]
 [628][628l]  |[Maximum Product of Three Numbers][628]                                   |![p]
 [633][633l]  |[Sum of Square Numbers][633]                                              |![r]
 [637][637l]  |[Average of Levels in Binary Tree][637]                                   |![p]
@@ -622,6 +623,7 @@
 [606]:./Easy/0606-Construct%20String%20from%20Binary%20Tree/README.md#606-construct-string-from-binary-tree
 [617]:./Easy/0617-Merge%20Two%20Binary%20Trees/README.md#617-merge-two-binary-trees
 [622]:./Medium/0622-Design%20Circular%20Queue/README.md#622-design-circular-queue
+[623]:./Medium/0623-Add%20One%20Row%20to%20Tree/README.md#623-add-one-row-to-tree
 [628]:./Easy/0628-Maximum%20Product%20of%20Three%20Numbers/README.md#628-maximum-product-of-three-numbers
 [633]:./Easy/0633-Sum%20of%20Square%20Numbers/README.md#633-sum-of-square-numbers
 [637]:./Easy/0637-Average%20of%20Levels%20in%20Binary%20Tree/README.md#637-average-of-levels-in-binary-tree
@@ -1069,6 +1071,7 @@
 [606l]:https://leetcode.com/problems/construct-string-from-binary-tree/
 [617l]:https://leetcode.com/problems/merge-two-binary-trees/
 [622l]:https://leetcode.com/problems/design-circular-queue/
+[623l]:https://leetcode.com/problems/add-one-row-to-tree/
 [628l]:https://leetcode.com/problems/maximum-product-of-three-numbers/
 [633l]:https://leetcode.com/problems/sum-of-square-numbers/
 [637l]:https://leetcode.com/problems/average-of-levels-in-binary-tree/
