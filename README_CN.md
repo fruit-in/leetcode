@@ -169,6 +169,7 @@
 [506][506l]  |[相对名次][506]                                   |![r]
 [507][507l]  |[完美数][507]                                     |![r]
 [509][509l]  |[斐波那契数][509]                                 |![r]
+[513][513l]  |[找树左下角的值][513]                             |![p]
 [515][515l]  |[在每个树行中找最大值][515]                       |![p]
 [518][518l]  |[零钱兑换 II][518]                                |![r]
 [520][520l]  |[检测大写字母][520]                               |![r]
@@ -590,6 +591,7 @@
 [506]:./Easy/0506-Relative%20Ranks/README_CN.md#506-相对名次
 [507]:./Easy/0507-Perfect%20Number/README_CN.md#507-完美数
 [509]:./Easy/0509-Fibonacci%20Number/README_CN.md#509-斐波那契数
+[513]:./Medium/0513-Find%20Bottom%20Left%20Tree%20Value/README_CN.md#513-找树左下角的值
 [515]:./Medium/0515-Find%20Largest%20Value%20in%20Each%20Tree%20Row/README_CN.md#515-在每个树行中找最大值
 [518]:./Medium/0518-Coin%20Change%202/README_CN.md#518-零钱兑换-ii
 [520]:./Easy/0520-Detect%20Capital/README_CN.md#520-检测大写字母
@@ -1038,6 +1040,7 @@
 [506l]:https://leetcode-cn.com/problems/relative-ranks/
 [507l]:https://leetcode-cn.com/problems/perfect-number/
 [509l]:https://leetcode-cn.com/problems/fibonacci-number/
+[513l]:https://leetcode-cn.com/problems/find-bottom-left-tree-value/
 [515l]:https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/
 [518l]:https://leetcode-cn.com/problems/coin-change-2/
 [520l]:https://leetcode-cn.com/problems/detect-capital/
