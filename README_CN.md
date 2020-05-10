@@ -119,6 +119,7 @@
 [345][345l]  |[反转字符串中的元音字母][345]                     |![p]
 [349][349l]  |[两个数组的交集][349]                             |![r]
 [350][350l]  |[两个数组的交集 II][350]                          |![r]
+[357][357l]  |[计算各个位数不同的数字个数][357]                 |![r]
 [367][367l]  |[有效的完全平方数][367]                           |![r]
 [371][371l]  |[两整数之和][371]                                 |![r]
 [372][372l]  |[超级次方][372]                                   |![r]
@@ -542,6 +543,7 @@
 [345]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README_CN.md#345-反转字符串中的元音字母
 [349]:./Easy/0349-Intersection%20of%20Two%20Arrays/README_CN.md#349-两个数组的交集
 [350]:./Easy/0350-Intersection%20of%20Two%20Arrays%20II/README_CN.md#350-两个数组的交集-ii
+[357]:./Medium/0357-Count%20Numbers%20with%20Unique%20Digits/README_CN.md#357-计算各个位数不同的数字个数
 [367]:./Easy/0367-Valid%20Perfect%20Square/README_CN.md#367-有效的完全平方数
 [371]:./Easy/0371-Sum%20of%20Two%20Integers/README_CN.md#371-两整数之和
 [372]:./Medium/0372-Super%20Pow/README_CN.md#372-超级次方
@@ -989,6 +991,7 @@
 [347l]:https://leetcode-cn.com/problems/top-k-frequent-elements/
 [349l]:https://leetcode-cn.com/problems/intersection-of-two-arrays/
 [350l]:https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/
+[357l]:https://leetcode-cn.com/problems/count-numbers-with-unique-digits/
 [367l]:https://leetcode-cn.com/problems/valid-perfect-square/
 [371l]:https://leetcode-cn.com/problems/sum-of-two-integers/
 [372l]:https://leetcode-cn.com/problems/super-pow/
