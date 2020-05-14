@@ -416,6 +416,7 @@
 [1379][1379l]|[找出克隆二叉树中的相同节点][1379]                |![p]
 [1380][1380l]|[矩阵中的幸运数][1380]                            |![r]
 [1385][1385l]|[两个数组间的距离值][1385]                        |![r]
+[1387][1387l]|[将整数按权重排序][1387]                          |![r]
 [1389][1389l]|[按既定顺序创建目标数组][1389]                    |![r]
 [1394][1394l]|[找出数组中的幸运数][1394]                        |![r]
 [1395][1395l]|[统计作战单位数][1395]                            |![r]
@@ -840,6 +841,7 @@
 [1379]:./Medium/1379-Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree/README_CN.md#1379-找出克隆二叉树中的相同节点
 [1380]:./Easy/1380-Lucky%20Numbers%20in%20a%20Matrix/README_CN.md#1380-矩阵中的幸运数
 [1385]:./Easy/1385-Find%20the%20Distance%20Value%20Between%20Two%20Arrays/README_CN.md#1385-两个数组间的距离值
+[1387]:./Medium/1387-Sort%20Integers%20by%20The%20Power%20Value/README_CN.md#1387-将整数按权重排序
 [1389]:./Easy/1389-Create%20Target%20Array%20in%20the%20Given%20Order/README_CN.md#1389-按既定顺序创建目标数组
 [1394]:./Easy/1394-Find%20Lucky%20Integer%20in%20an%20Array/README_CN.md#1394-找出数组中的幸运数
 [1395]:./Medium/1395-Count%20Number%20of%20Teams/README_CN.md#1395-统计作战单位数
@@ -1297,6 +1299,7 @@
 [1379l]:https://leetcode-cn.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
 [1380l]:https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/
 [1385l]:https://leetcode-cn.com/problems/find-the-distance-value-between-two-arrays/
+[1387l]:https://leetcode-cn.com/problems/sort-integers-by-the-power-value/
 [1389l]:https://leetcode-cn.com/problems/create-target-array-in-the-given-order/
 [1394l]:https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/
 [1395l]:https://leetcode-cn.com/problems/count-number-of-teams/
