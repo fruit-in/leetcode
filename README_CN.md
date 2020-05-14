@@ -372,6 +372,7 @@
 [1220][1220l]|[统计元音字母序列的数目][1220]                    |![r]
 [1221][1221l]|[分割平衡字符串][1221]                            |![r]
 [1222][1222l]|[可以攻击国王的皇后][1222]                        |![r]
+[1223][1223l]|[掷骰子模拟][1223]                                |![r]
 [1232][1232l]|[缀点成线][1232]                                  |![r]
 [1237][1237l]|[找出给定方程的正整数解][1237]                    |![p]
 [1247][1247l]|[交换字符使得字符串相同][1247]                    |![p]
@@ -797,6 +798,7 @@
 [1220]:./Hard/1220-Count%20Vowels%20Permutation/README_CN.md#1220-统计元音字母序列的数目
 [1221]:./Easy/1221-Split%20a%20String%20in%20Balanced%20Strings/README_CN.md#1221-分割平衡字符串
 [1222]:./Medium/1222-Queens%20That%20Can%20Attack%20the%20King/README_CN.md#1222-可以攻击国王的皇后
+[1223]:./Medium/1223-Dice%20Roll%20Simulation/README_CN.md#1223-掷骰子模拟
 [1232]:./Easy/1232-Check%20If%20It%20Is%20a%20Straight%20Line/README_CN.md#1232-缀点成线
 [1237]:./Easy/1237-Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/README_CN.md#1237-找出给定方程的正整数解
 [1247]:./Medium/1247-Minimum%20Swaps%20to%20Make%20Strings%20Equal/README_CN.md#1247-交换字符使得字符串相同
@@ -1255,6 +1257,7 @@
 [1220l]:https://leetcode-cn.com/problems/count-vowels-permutation/
 [1221l]:https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/
 [1222l]:https://leetcode-cn.com/problems/queens-that-can-attack-the-king/
+[1223l]:https://leetcode-cn.com/problems/dice-roll-simulation/
 [1232l]:https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/
 [1237l]:https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation/
 [1247l]:https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal/
