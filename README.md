@@ -300,6 +300,7 @@
 [922][922l]  |[Sort Array By Parity II][922]                                            |![p]
 [925][925l]  |[Long Pressed Name][925]                                                  |![p]
 [929][929l]  |[Unique Email Addresses][929]                                             |![p]
+[931][931l]  |[Minimum Falling Path Sum][931]                                           |![r]
 [933][933l]  |[Number of Recent Calls][933]                                             |![r]
 [937][937l]  |[Reorder Data in Log Files][937]                                          |![p]
 [938][938l]  |[Range Sum of BST][938]                                                   |![p]
@@ -726,6 +727,7 @@
 [922]:./Easy/0922-Sort%20Array%20By%20Parity%20II/README.md#922-sort-array-by-parity-ii
 [925]:./Easy/0925-Long%20Pressed%20Name/README.md#925-long-pressed-name
 [929]:./Easy/0929-Unique%20Email%20Addresses/README.md#929-unique-email-addresses
+[931]:./Medium/0931-Minimum%20Falling%20Path%20Sum/README.md#931-minimum-falling-path-sum
 [933]:./Easy/0933-Number%20of%20Recent%20Calls/README.md#933-number-of-recent-calls
 [937]:./Easy/0937-Reorder%20Data%20in%20Log%20Files/README.md#937-reorder-data-in-log-files
 [938]:./Easy/0938-Range%20Sum%20of%20BST/README.md#938-range-sum-of-bst
@@ -1185,6 +1187,7 @@
 [922l]:https://leetcode.com/problems/sort-array-by-parity-ii/
 [925l]:https://leetcode.com/problems/long-pressed-name/
 [929l]:https://leetcode.com/problems/unique-email-addresses/
+[931l]:https://leetcode.com/problems/minimum-falling-path-sum/
 [933l]:https://leetcode.com/problems/number-of-recent-calls/
 [937l]:https://leetcode.com/problems/reorder-data-in-log-files/
 [938l]:https://leetcode.com/problems/range-sum-of-bst/

@@ -300,6 +300,7 @@
 [922][922l]  |[按奇偶排序数组 II][922]                          |![p]
 [925][925l]  |[长按键入][925]                                   |![p]
 [929][929l]  |[独特的电子邮件地址][929]                         |![p]
+[931][931l]  |[下降路径最小和][931]                             |![r]
 [933][933l]  |[最近的请求次数][933]                             |![r]
 [937][937l]  |[重新排列日志文件][937]                           |![p]
 [938][938l]  |[二叉搜索树的范围和][938]                         |![p]
@@ -726,6 +727,7 @@
 [922]:./Easy/0922-Sort%20Array%20By%20Parity%20II/README_CN.md#922-按奇偶排序数组-ii
 [925]:./Easy/0925-Long%20Pressed%20Name/README_CN.md#925-长按键入
 [929]:./Easy/0929-Unique%20Email%20Addresses/README_CN.md#929-独特的电子邮件地址
+[931]:./Medium/0931-Minimum%20Falling%20Path%20Sum/README_CN.md#931-下降路径最小和
 [933]:./Easy/0933-Number%20of%20Recent%20Calls/README_CN.md#933-最近的请求次数
 [937]:./Easy/0937-Reorder%20Data%20in%20Log%20Files/README_CN.md#937-重新排列日志文件
 [938]:./Easy/0938-Range%20Sum%20of%20BST/README_CN.md#938-二叉搜索树的范围和
@@ -1185,6 +1187,7 @@
 [922l]:https://leetcode-cn.com/problems/sort-array-by-parity-ii/
 [925l]:https://leetcode-cn.com/problems/long-pressed-name/
 [929l]:https://leetcode-cn.com/problems/unique-email-addresses/
+[931l]:https://leetcode-cn.com/problems/minimum-falling-path-sum/
 [933l]:https://leetcode-cn.com/problems/number-of-recent-calls/
 [937l]:https://leetcode-cn.com/problems/reorder-data-in-log-files/
 [938l]:https://leetcode-cn.com/problems/range-sum-of-bst/
