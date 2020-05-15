@@ -110,6 +110,7 @@
 [303][303l]  |[区域和检索 - 数组不可变][303]                    |![p]
 [313][313l]  |[超级丑数][313]                                   |![r]
 [318][318l]  |[最大单词长度乘积][318]                           |![p]
+[319][319l]  |[灯泡开关][319]                                   |![r]
 [322][322l]  |[零钱兑换][322]                                   |![r]
 [326][326l]  |[3的幂][326]                                      |![p]
 [328][328l]  |[奇偶链表][328]                                   |![p]
@@ -537,6 +538,7 @@
 [303]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README_CN.md#303-区域和检索---数组不可变
 [313]:./Medium/0313-Super%20Ugly%20Number/README_CN.md#313-超级丑数
 [318]:./Medium/0318-Maximum%20Product%20of%20Word%20Lengths/README_CN.md#318-最大单词长度乘积
+[319]:./Medium/0319-Bulb%20Switcher/README_CN.md#319-灯泡开关
 [322]:./Medium/0322-Coin%20Change/README_CN.md#322-零钱兑换
 [326]:./Easy/0326-Power%20of%20Three/README_CN.md#326-3的幂
 [328]:./Medium/0328-Odd%20Even%20Linked%20List/README_CN.md#328-奇偶链表
@@ -986,6 +988,7 @@
 [303l]:https://leetcode-cn.com/problems/range-sum-query-immutable/
 [313l]:https://leetcode-cn.com/problems/super-ugly-number/
 [318l]:https://leetcode-cn.com/problems/maximum-product-of-word-lengths/
+[319l]:https://leetcode-cn.com/problems/bulb-switcher/
 [322l]:https://leetcode-cn.com/problems/coin-change/
 [326l]:https://leetcode-cn.com/problems/power-of-three/
 [328l]:https://leetcode-cn.com/problems/odd-even-linked-list/
