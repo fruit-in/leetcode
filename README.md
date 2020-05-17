@@ -101,6 +101,7 @@
 [263][263l]  |[Ugly Number][263]                                                        |![r]
 [264][264l]  |[Ugly Number II][264]                                                     |![r]
 [268][268l]  |[Missing Number][268]                                                     |![r]
+[274][274l]  |[H-Index][274]                                                            |![r]
 [278][278l]  |[First Bad Version][278]                                                  |![p]
 [279][279l]  |[Perfect Squares][279]                                                    |![r]
 [283][283l]  |[Move Zeroes][283]                                                        |![r]
@@ -530,6 +531,7 @@
 [263]:./Easy/0263-Ugly%20Number/README.md#263-ugly-number
 [264]:./Medium/0264-Ugly%20Number%20II/README.md#264-ugly-number-ii
 [268]:./Easy/0268-Missing%20Number/README.md#268-missing-number
+[274]:./Medium/0274-H-Index/README.md#274-h-index
 [278]:./Easy/0278-First%20Bad%20Version/README.md#278-first-bad-version
 [279]:./Medium/0279-Perfect%20Squares/README.md#279-perfect-squares
 [283]:./Easy/0283-Move%20Zeroes/README.md#283-move-zeroes
@@ -979,6 +981,7 @@
 [263l]:https://leetcode.com/problems/ugly-number/
 [264l]:https://leetcode.com/problems/ugly-number-ii/
 [268l]:https://leetcode.com/problems/missing-number/
+[274l]:https://leetcode.com/problems/h-index/
 [278l]:https://leetcode.com/problems/first-bad-version/
 [279l]:https://leetcode.com/problems/perfect-squares/
 [283l]:https://leetcode.com/problems/move-zeroes/
