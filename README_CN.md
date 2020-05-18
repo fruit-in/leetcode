@@ -365,6 +365,7 @@
 [1137][1137l]|[第 N 个泰波那契数][1137]                         |![r]
 [1154][1154l]|[一年中的第几天][1154]                            |![r]
 [1160][1160l]|[拼写单词][1160]                                  |![p]        
+[1161][1161l]|[最大层内元素和][1161]                            |![p]
 [1170][1170l]|[比较字符串最小字母出现频次][1170]                |![p]
 [1175][1175l]|[质数排列][1175]                                  |![r]
 [1184][1184l]|[公交站间的距离][1184]                            |![r]
@@ -795,6 +796,7 @@
 [1137]:./Easy/1137-N-th%20Tribonacci%20Number/README_CN.md#1137-第-n-个泰波那契数
 [1154]:./Easy/1154-Day%20of%20the%20Year/README_CN.md#1154-一年中的第几天
 [1160]:./Easy/1160-Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/README_CN.md#1160-拼写单词
+[1161]:./Medium/1161-Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/README_CN.md#1161-最大层内元素和
 [1170]:./Easy/1170-Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/README_CN.md#1170-比较字符串最小字母出现频次
 [1175]:./Easy/1175-Prime%20Arrangements/README_CN.md#1175-质数排列
 [1184]:./Easy/1184-Distance%20Between%20Bus%20Stops/README_CN.md#1184-公交站间的距离
@@ -1257,6 +1259,7 @@
 [1137l]:https://leetcode-cn.com/problems/n-th-tribonacci-number/
 [1154l]:https://leetcode-cn.com/problems/day-of-the-year/
 [1160l]:https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/
+[1161l]:https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree/
 [1170l]:https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/
 [1175l]:https://leetcode-cn.com/problems/prime-arrangements/
 [1184l]:https://leetcode-cn.com/problems/distance-between-bus-stops/

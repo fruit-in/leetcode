@@ -365,6 +365,7 @@
 [1137][1137l]|[N-th Tribonacci Number][1137]                                            |![r]
 [1154][1154l]|[Day of the Year][1154]                                                   |![r]
 [1160][1160l]|[Find Words That Can Be Formed by Characters][1160]                       |![p]
+[1161][1161l]|[Maximum Level Sum of a Binary Tree][1161]                                |![p]
 [1170][1170l]|[Compare Strings by Frequency of the Smallest Character][1170]            |![p]
 [1175][1175l]|[Prime Arrangements][1175]                                                |![r]
 [1184][1184l]|[Distance Between Bus Stops][1184]                                        |![r]
@@ -795,6 +796,7 @@
 [1137]:./Easy/1137-N-th%20Tribonacci%20Number/README.md#1137-n-th-tribonacci-number
 [1154]:./Easy/1154-Day%20of%20the%20Year/README.md#1154-day-of-the-year
 [1160]:./Easy/1160-Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/README.md#1160-find-words-that-can-be-formed-by-characters
+[1161]:./Medium/1161-Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/README.md#1161-maximum-level-sum-of-a-binary-tree
 [1170]:./Easy/1170-Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/README.md#1170-compare-strings-by-frequency-of-the-smallest-character
 [1175]:./Easy/1175-Prime%20Arrangements/README.md#1175-prime-arrangements
 [1184]:./Easy/1184-Distance%20Between%20Bus%20Stops/README.md#1184-distance-between-bus-stops
@@ -1257,6 +1259,7 @@
 [1137l]:https://leetcode.com/problems/n-th-tribonacci-number/
 [1154l]:https://leetcode.com/problems/day-of-the-year/
 [1160l]:https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
+[1161l]:https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
 [1170l]:https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
 [1175l]:https://leetcode.com/problems/prime-arrangements/
 [1184l]:https://leetcode.com/problems/distance-between-bus-stops/
