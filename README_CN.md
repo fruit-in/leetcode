@@ -381,6 +381,7 @@
 [1223][1223l]|[掷骰子模拟][1223]                                |![r]
 [1232][1232l]|[缀点成线][1232]                                  |![r]
 [1237][1237l]|[找出给定方程的正整数解][1237]                    |![p]
+[1238][1238l]|[循环码排列][1238]                                |![r]
 [1247][1247l]|[交换字符使得字符串相同][1247]                    |![p]
 [1252][1252l]|[奇数值单元格的数目][1252]                        |![r]
 [1260][1260l]|[二维网格迁移][1260]                              |![r]
@@ -813,6 +814,7 @@
 [1223]:./Medium/1223-Dice%20Roll%20Simulation/README_CN.md#1223-掷骰子模拟
 [1232]:./Easy/1232-Check%20If%20It%20Is%20a%20Straight%20Line/README_CN.md#1232-缀点成线
 [1237]:./Easy/1237-Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/README_CN.md#1237-找出给定方程的正整数解
+[1238]:./Medium/1238-Circular%20Permutation%20in%20Binary%20Representation/README_CN.md#1238-循环码排列
 [1247]:./Medium/1247-Minimum%20Swaps%20to%20Make%20Strings%20Equal/README_CN.md#1247-交换字符使得字符串相同
 [1252]:./Easy/1252-Cells%20with%20Odd%20Values%20in%20a%20Matrix/README_CN.md#1252-奇数值单元格的数目
 [1260]:./Easy/1260-Shift%202D%20Grid/README_CN.md#1260-二维网格迁移
@@ -1277,6 +1279,7 @@
 [1223l]:https://leetcode-cn.com/problems/dice-roll-simulation/
 [1232l]:https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/
 [1237l]:https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation/
+[1238l]:https://leetcode-cn.com/problems/circular-permutation-in-binary-representation/
 [1247l]:https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal/
 [1252l]:https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix/
 [1260l]:https://leetcode-cn.com/problems/shift-2d-grid/
