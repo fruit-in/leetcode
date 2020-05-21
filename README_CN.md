@@ -36,6 +36,7 @@
 [67][67l]    |[二进制求和][67]                                  |![p]
 [69][69l]    |[x 的平方根][69]                                  |![r]
 [70][70l]    |[爬楼梯][70]                                      |![r]
+[71][71l]    |[简化路径][71]                                    |![p]
 [73][73l]    |[矩阵置零][73]                                    |![r]
 [75][75l]    |[颜色分类][75]                                    |![r]
 [83][83l]    |[删除排序链表中的重复元素][83]                    |![p]
@@ -469,6 +470,7 @@
 [67]:./Easy/0067-Add%20Binary/README_CN.md#67-二进制求和
 [69]:./Easy/0069-Sqrt\(x\)/README_CN.md#69-x-的平方根
 [70]:./Easy/0070-Climbing%20Stairs/README_CN.md#70-爬楼梯
+[71]:./Medium/0071-Simplify%20Path/README_CN.md#71-简化路径
 [73]:./Medium/0073-Set%20Matrix%20Zeroes/README_CN.md#73-矩阵置零
 [75]:./Medium/0075-Sort%20Colors/README_CN.md#75-颜色分类
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README_CN.md#83-删除排序链表中的重复元素
@@ -902,6 +904,7 @@
 [67l]:https://leetcode-cn.com/problems/add-binary/
 [69l]:https://leetcode-cn.com/problems/sqrtx/
 [70l]:https://leetcode-cn.com/problems/climbing-stairs/
+[71l]:https://leetcode-cn.com/problems/simplify-path/
 [73l]:https://leetcode-cn.com/problems/set-matrix-zeroes/
 [75l]:https://leetcode-cn.com/problems/sort-colors/
 [77l]:https://leetcode-cn.com/problems/combinations/
