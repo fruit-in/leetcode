@@ -104,6 +104,7 @@
 [264][264l]  |[丑数 II][264]                                    |![r]
 [268][268l]  |[缺失数字][268]                                   |![r]
 [274][274l]  |[H 指数][274]                                     |![r]
+[275][275l]  |[H指数 II][275]                                   |![r]
 [278][278l]  |[第一个错误的版本][278]                           |![p]
 [279][279l]  |[完全平方数][279]                                 |![r]
 [283][283l]  |[移动零][283]                                     |![r]
@@ -538,6 +539,7 @@
 [264]:./Medium/0264-Ugly%20Number%20II/README_CN.md#264-丑数-ii
 [268]:./Easy/0268-Missing%20Number/README_CN.md#268-缺失数字
 [274]:./Medium/0274-H-Index/README_CN.md#274-h-指数
+[275]:./Medium/0275-H-Index%20II/README_CN.md#275-H指数-ii
 [278]:./Easy/0278-First%20Bad%20Version/README_CN.md#278-第一个错误的版本
 [279]:./Medium/0279-Perfect%20Squares/README_CN.md#279-完全平方数
 [283]:./Easy/0283-Move%20Zeroes/README_CN.md#283-移动零
@@ -992,6 +994,7 @@
 [264l]:https://leetcode-cn.com/problems/ugly-number-ii/
 [268l]:https://leetcode-cn.com/problems/missing-number/
 [274l]:https://leetcode-cn.com/problems/h-index/
+[275l]:https://leetcode-cn.com/problems/h-index-ii/
 [278l]:https://leetcode-cn.com/problems/first-bad-version/
 [279l]:https://leetcode-cn.com/problems/perfect-squares/
 [283l]:https://leetcode-cn.com/problems/move-zeroes/
