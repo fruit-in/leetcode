@@ -188,6 +188,7 @@
 [535][535l]  |[Encode and Decode TinyURL][535]                                          |![p]
 [537][537l]  |[Complex Number Multiplication][537]                                      |![p]
 [538][538l]  |[Convert BST to Greater Tree][538]                                        |![p]
+[539][539l]  |[Minimum Time Difference][539]                                            |![r]
 [541][541l]  |[Reverse String II][541]                                                  |![p]
 [543][543l]  |[Diameter of Binary Tree][543]                                            |![p]
 [551][551l]  |[Student Attendance Record I][551]                                        |![p]
@@ -623,6 +624,7 @@
 [535]:./Medium/0535-Encode%20and%20Decode%20TinyURL/README.md#535-encode-and-decode-tinyurl
 [537]:./Medium/0537-Complex%20Number%20Multiplication/README.md#537-complex-number-multiplication
 [538]:./Easy/0538-Convert%20BST%20to%20Greater%20Tree/README.md#538-convert-bst-to-greater-tree
+[539]:./Medium/0539-Minimum%20Time%20Difference/README.md#539-minimum-time-difference
 [541]:./Easy/0541-Reverse%20String%20II/README.md#541-reverse-string-ii
 [543]:./Easy/0543-Diameter%20of%20Binary%20Tree/README.md#543-diameter-of-binary-tree
 [551]:./Easy/0551-Student%20Attendance%20Record%20I/README.md#551-student-attendance-record-i
@@ -1084,6 +1086,7 @@
 [535l]:https://leetcode.com/problems/encode-and-decode-tinyurl/
 [537l]:https://leetcode.com/problems/complex-number-multiplication/
 [538l]:https://leetcode.com/problems/convert-bst-to-greater-tree/
+[539l]:https://leetcode.com/problems/minimum-time-difference/
 [541l]:https://leetcode.com/problems/reverse-string-ii/
 [543l]:https://leetcode.com/problems/diameter-of-binary-tree/
 [551l]:https://leetcode.com/problems/student-attendance-record-i/

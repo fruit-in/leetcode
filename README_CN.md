@@ -188,6 +188,7 @@
 [535][535l]  |[TinyURL 的加密与解密][535]                       |![p]
 [537][537l]  |[复数乘法][537]                                   |![p]
 [538][538l]  |[把二叉搜索树转换为累加树][538]                   |![p]
+[539][539l]  |[最小时间差][539]                                 |![r]
 [541][541l]  |[反转字符串 II][541]                              |![p]
 [543][543l]  |[二叉树的直径][543]                               |![p]
 [551][551l]  |[学生出勤记录 I][551]                             |![p]
@@ -623,6 +624,7 @@
 [535]:./Medium/0535-Encode%20and%20Decode%20TinyURL/README_CN.md#535-tinyurl-的加密与解密
 [537]:./Medium/0537-Complex%20Number%20Multiplication/README_CN.md#537-复数乘法
 [538]:./Easy/0538-Convert%20BST%20to%20Greater%20Tree/README_CN.md#538-把二叉搜索树转换为累加树
+[539]:./Medium/0539-Minimum%20Time%20Difference/README_CN.md#539-最小时间差
 [541]:./Easy/0541-Reverse%20String%20II/README_CN.md#541-反转字符串-ii
 [543]:./Easy/0543-Diameter%20of%20Binary%20Tree/README_CN.md#543-二叉树的直径
 [551]:./Easy/0551-Student%20Attendance%20Record%20I/README_CN.md#551-学生出勤记录-i
@@ -1084,6 +1086,7 @@
 [535l]:https://leetcode-cn.com/problems/encode-and-decode-tinyurl/
 [537l]:https://leetcode-cn.com/problems/complex-number-multiplication/
 [538l]:https://leetcode-cn.com/problems/convert-bst-to-greater-tree/
+[539l]:https://leetcode-cn.com/problems/minimum-time-difference/
 [541l]:https://leetcode-cn.com/problems/reverse-string-ii/
 [543l]:https://leetcode-cn.com/problems/diameter-of-binary-tree/
 [551l]:https://leetcode-cn.com/problems/student-attendance-record-i/
