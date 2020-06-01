@@ -433,6 +433,7 @@
 [1395][1395l]|[Count Number of Teams][1395]                                             |![r]
 [1399][1399l]|[Count Largest Group][1399]                                               |![p]
 [1403][1403l]|[Minimum Subsequence in Non-Increasing Order][1403]                       |![r]
+[1408][1408l]|[String Matching in an Array][1408]                                       |![r]
 
 
 [p]:./ico/python.ico
@@ -870,6 +871,7 @@
 [1395]:./Medium/1395-Count%20Number%20of%20Teams/README.md#1395-count-number-of-teams
 [1399]:./Easy/1399-Count%20Largest%20Group/README.md#1399-count-largest-group
 [1403]:./Easy/1403-Minimum%20Subsequence%20in%20Non-Increasing%20Order/README.md#1403-minimum-subsequence-in-non-increasing-order
+[1408]:./Easy/1408-String%20Matching%20in%20an%20Array/README.md#1408-string-matching-in-an-array
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1339,3 +1341,4 @@
 [1395l]:https://leetcode.com/problems/count-number-of-teams/
 [1399l]:https://leetcode.com/problems/count-largest-group/
 [1403l]:https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
+[1408l]:https://leetcode.com/problems/string-matching-in-an-array/

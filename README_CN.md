@@ -433,6 +433,7 @@
 [1395][1395l]|[统计作战单位数][1395]                            |![r]
 [1399][1399l]|[统计最大组的数目][1399]                          |![p]
 [1403][1403l]|[非递增顺序的最小子序列][1403]                    |![r]
+[1408][1408l]|[数组中的字符串匹配][1408]                        |![r]
 
 
 [p]:./ico/python.ico
@@ -870,6 +871,7 @@
 [1395]:./Medium/1395-Count%20Number%20of%20Teams/README_CN.md#1395-统计作战单位数
 [1399]:./Easy/1399-Count%20Largest%20Group/README_CN.md#1399-统计最大组的数目
 [1403]:./Easy/1403-Minimum%20Subsequence%20in%20Non-Increasing%20Order/README_CN.md#1403-非递增顺序的最小子序列
+[1408]:./Easy/1408-String%20Matching%20in%20an%20Array/README_CN.md#1408-数组中的字符串匹配
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1339,3 +1341,4 @@
 [1395l]:https://leetcode-cn.com/problems/count-number-of-teams/
 [1399l]:https://leetcode-cn.com/problems/count-largest-group/
 [1403l]:https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/
+[1408l]:https://leetcode-cn.com/problems/string-matching-in-an-array/
