@@ -434,6 +434,7 @@
 [1399][1399l]|[统计最大组的数目][1399]                          |![p]
 [1403][1403l]|[非递增顺序的最小子序列][1403]                    |![r]
 [1408][1408l]|[数组中的字符串匹配][1408]                        |![r]
+[1413][1413l]|[逐步求和得到正数的最小值][1413]                  |![r]
 
 
 [p]:./ico/python.ico
@@ -872,6 +873,7 @@
 [1399]:./Easy/1399-Count%20Largest%20Group/README_CN.md#1399-统计最大组的数目
 [1403]:./Easy/1403-Minimum%20Subsequence%20in%20Non-Increasing%20Order/README_CN.md#1403-非递增顺序的最小子序列
 [1408]:./Easy/1408-String%20Matching%20in%20an%20Array/README_CN.md#1408-数组中的字符串匹配
+[1413]:./Easy/1413-Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/README_CN.md#1413-逐步求和得到正数的最小值
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1342,3 +1344,4 @@
 [1399l]:https://leetcode-cn.com/problems/count-largest-group/
 [1403l]:https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/
 [1408l]:https://leetcode-cn.com/problems/string-matching-in-an-array/
+[1413l]:https://leetcode-cn.com/problems/minimum-value-to-get-positive-step-by-step-sum/

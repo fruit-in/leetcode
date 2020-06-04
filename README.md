@@ -434,6 +434,7 @@
 [1399][1399l]|[Count Largest Group][1399]                                               |![p]
 [1403][1403l]|[Minimum Subsequence in Non-Increasing Order][1403]                       |![r]
 [1408][1408l]|[String Matching in an Array][1408]                                       |![r]
+[1413][1413l]|[Minimum Value to Get Positive Step by Step Sum][1413]                    |![r]
 
 
 [p]:./ico/python.ico
@@ -872,6 +873,7 @@
 [1399]:./Easy/1399-Count%20Largest%20Group/README.md#1399-count-largest-group
 [1403]:./Easy/1403-Minimum%20Subsequence%20in%20Non-Increasing%20Order/README.md#1403-minimum-subsequence-in-non-increasing-order
 [1408]:./Easy/1408-String%20Matching%20in%20an%20Array/README.md#1408-string-matching-in-an-array
+[1413]:./Easy/1413-Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/README.md#1413-minimum-value-to-get-positive-step-by-step-sum
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1342,3 +1344,4 @@
 [1399l]:https://leetcode.com/problems/count-largest-group/
 [1403l]:https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
 [1408l]:https://leetcode.com/problems/string-matching-in-an-array/
+[1413l]:https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
