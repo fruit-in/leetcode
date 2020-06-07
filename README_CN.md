@@ -42,6 +42,7 @@
 [83][83l]    |[删除排序链表中的重复元素][83]                    |![p]
 [88][88l]    |[合并两个有序数组][88]                            |![p]
 [89][89l]    |[格雷编码][89]                                    |![r]
+[92][92l]    |[反转链表 II][92]                                 |![p]
 [94][94l]    |[二叉树的中序遍历][94]                            |![p]&nbsp;&nbsp;![r]
 [98][98l]    |[验证二叉搜索树][98]                              |![p]
 [100][100l]  |[相同的树][100]                                   |![p]
@@ -483,6 +484,7 @@
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README_CN.md#83-删除排序链表中的重复元素
 [88]:./Easy/0088-Merge%20Sorted%20Array/README_CN.md#88-合并两个有序数组
 [89]:./Medium/0089-Gray%20Code/README_CN.md#89-格雷编码
+[92]:./Medium/0092-Reverse%20Linked%20List%20II/README_CN.md#92-反转链表-ii
 [94]:./Medium/0094-Binary%20Tree%20Inorder%20Traversal/README_CN.md#94-二叉树的中序遍历
 [98]:./Medium/0098-Validate%20Binary%20Search%20Tree/README_CN.md#98-验证二叉搜索树
 [100]:./Easy/0100-Same%20Tree/README_CN.md#100-相同的树
@@ -926,6 +928,7 @@
 [84l]:https://leetcode-cn.com/problems/largest-rectangle-in-histogram/
 [88l]:https://leetcode-cn.com/problems/merge-sorted-array/
 [89l]:https://leetcode-cn.com/problems/gray-code/
+[92l]:https://leetcode-cn.com/problems/reverse-linked-list-ii/
 [94l]:https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
 [95l]:https://leetcode-cn.com/problems/unique-binary-search-trees-ii/
 [98l]:https://leetcode-cn.com/problems/validate-binary-search-tree/
