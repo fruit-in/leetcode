@@ -39,6 +39,7 @@
 [71][71l]    |[Simplify Path][71]                                                       |![p]
 [73][73l]    |[Set Matrix Zeroes][73]                                                   |![r]
 [75][75l]    |[Sort Colors][75]                                                         |![r]
+[78][78l]    |[Subsets][78]                                                             |![r]
 [83][83l]    |[Remove Duplicates from Sorted List][83]                                  |![p]
 [88][88l]    |[Merge Sorted Array][88]                                                  |![p]
 [89][89l]    |[Gray Code][89]                                                           |![r]
@@ -482,6 +483,7 @@
 [71]:./Medium/0071-Simplify%20Path/README.md#71-simplify-path
 [73]:./Medium/0073-Set%20Matrix%20Zeroes/README.md#73-set-matrix-zeroes
 [75]:./Medium/0075-Sort%20Colors/README.md#75-sort-colors
+[78]:./Medium/0078-Subsets/README.md#78-subsets
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README.md#83-remove-duplicates-from-sorted-list
 [88]:./Easy/0088-Merge%20Sorted%20Array/README.md#88-merge-sorted-array
 [89]:./Medium/0089-Gray%20Code/README.md#89-gray-code
@@ -926,6 +928,7 @@
 [73l]:https://leetcode.com/problems/set-matrix-zeroes/
 [75l]:https://leetcode.com/problems/sort-colors/
 [77l]:https://leetcode.com/problems/combinations/
+[78l]:https://leetcode.com/problems/subsets/
 [83l]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [84l]:https://leetcode.com/problems/largest-rectangle-in-histogram/
 [88l]:https://leetcode.com/problems/merge-sorted-array/

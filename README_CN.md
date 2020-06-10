@@ -39,6 +39,7 @@
 [71][71l]    |[简化路径][71]                                    |![p]
 [73][73l]    |[矩阵置零][73]                                    |![r]
 [75][75l]    |[颜色分类][75]                                    |![r]
+[78][78l]    |[子集][78]                                        |![r]
 [83][83l]    |[删除排序链表中的重复元素][83]                    |![p]
 [88][88l]    |[合并两个有序数组][88]                            |![p]
 [89][89l]    |[格雷编码][89]                                    |![r]
@@ -482,6 +483,7 @@
 [71]:./Medium/0071-Simplify%20Path/README_CN.md#71-简化路径
 [73]:./Medium/0073-Set%20Matrix%20Zeroes/README_CN.md#73-矩阵置零
 [75]:./Medium/0075-Sort%20Colors/README_CN.md#75-颜色分类
+[78]:./Medium/0078-Subsets/README_CN.md#78-子集
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README_CN.md#83-删除排序链表中的重复元素
 [88]:./Easy/0088-Merge%20Sorted%20Array/README_CN.md#88-合并两个有序数组
 [89]:./Medium/0089-Gray%20Code/README_CN.md#89-格雷编码
@@ -926,6 +928,7 @@
 [73l]:https://leetcode-cn.com/problems/set-matrix-zeroes/
 [75l]:https://leetcode-cn.com/problems/sort-colors/
 [77l]:https://leetcode-cn.com/problems/combinations/
+[78l]:https://leetcode-cn.com/problems/subsets/
 [83l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/
 [84l]:https://leetcode-cn.com/problems/largest-rectangle-in-histogram/
 [88l]:https://leetcode-cn.com/problems/merge-sorted-array/
