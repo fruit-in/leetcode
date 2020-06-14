@@ -27,6 +27,7 @@
 [38][38l]    |[外观数列][38]                                    |![p]
 [46][46l]    |[全排列][46]                                      |![r]
 [48][48l]    |[旋转图像][48]                                    |![r]
+[49][49l]    |[字母异位词分组][49]                              |![r]
 [50][50l]    |[Pow(x, n)][50]                                   |![r]
 [53][53l]    |[最大子序和][53]                                  |![r]
 [54][54l]    |[螺旋矩阵][54]                                    |![r]
@@ -472,6 +473,7 @@
 [38]:./Easy/0038-Count%20and%20Say/README_CN.md#38-外观数列
 [46]:./Medium/0046-Permutations/README_CN.md#46-全排列
 [48]:./Medium/0048-Rotate%20Image/README_CN.md#48-旋转图像
+[49]:./Medium/0049-Group%20Anagrams/README_CN.md#49-字母异位词分组
 [50]:./Medium/0050-Pow\(x,%20n\)/README_CN.md#50-powx-n
 [53]:./Easy/0053-Maximum%20Subarray/README_CN.md#53-最大子序和
 [54]:./Medium/0054-Spiral%20Matrix/README_CN.md#54-螺旋矩阵

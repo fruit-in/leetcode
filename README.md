@@ -27,6 +27,7 @@
 [38][38l]    |[Count and Say][38]                                                       |![p]
 [46][46l]    |[Permutations][46]                                                        |![r]
 [48][48l]    |[Rotate Image][48]                                                        |![r]
+[49][49l]    |[Group Anagrams][49]                                                      |![r]
 [50][50l]    |[Pow(x, n)][50]                                                           |![r]
 [53][53l]    |[Maximum Subarray][53]                                                    |![r]
 [54][54l]    |[Spiral Matrix][54]                                                       |![r]
@@ -472,6 +473,7 @@
 [38]:./Easy/0038-Count%20and%20Say/README.md#38-count-and-say
 [46]:./Medium/0046-Permutations/README.md#46-permutations
 [48]:./Medium/0048-Rotate%20Image/README.md#48-rotate-image
+[49]:./Medium/0049-Group%20Anagrams/README.md#49-group-anagrams
 [50]:./Medium/0050-Pow\(x,%20n\)/README.md#50-powx-n
 [53]:./Easy/0053-Maximum%20Subarray/README.md#53-maximum-subarray
 [54]:./Medium/0054-Spiral%20Matrix/README.md#54-spiral-matrix
