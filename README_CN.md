@@ -209,6 +209,7 @@
 [589][589l]  |[N叉树的前序遍历][589]                            |![p]
 [590][590l]  |[N叉树的后序遍历][590]                            |![p]
 [592][592l]  |[分数加减运算][592]                               |![r]
+[593][593l]  |[有效的正方形][593]                               |![r]
 [594][594l]  |[最长和谐子序列][594]                             |![r]
 [598][598l]  |[范围求和 II][598]                                |![r]
 [599][599l]  |[两个列表的最小索引总和][599]                     |![r]
@@ -655,6 +656,7 @@
 [589]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal/README_CN.md#589-n叉树的前序遍历
 [590]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README_CN.md#590-n叉树的后序遍历
 [592]:./Medium/0592-Fraction%20Addition%20and%20Subtraction/README_CN.md#592-分数加减运算
+[593]:./Medium/0593-Valid%20Square/README_CN.md#593-有效的正方形
 [594]:./Easy/0594-Longest%20Harmonious%20Subsequence/README_CN.md#594-最长和谐子序列
 [598]:./Easy/0598-Range%20Addition%20II/README_CN.md#598-范围求和-ii
 [599]:./Easy/0599-Minimum%20Index%20Sum%20of%20Two%20Lists/README_CN.md#599-两个列表的最小索引总和
@@ -1126,6 +1128,7 @@
 [589l]:https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/
 [590l]:https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/
 [592l]:https://leetcode-cn.com/problems/fraction-addition-and-subtraction/
+[593l]:https://leetcode-cn.com/problems/valid-square/
 [594l]:https://leetcode-cn.com/problems/longest-harmonious-subsequence/
 [598l]:https://leetcode-cn.com/problems/range-addition-ii/
 [599l]:https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/
