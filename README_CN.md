@@ -42,6 +42,7 @@
 [75][75l]    |[颜色分类][75]                                    |![r]
 [78][78l]    |[子集][78]                                        |![r]
 [83][83l]    |[删除排序链表中的重复元素][83]                    |![p]
+[86][86l]    |[分隔链表][86]                                    |![p]
 [88][88l]    |[合并两个有序数组][88]                            |![p]
 [89][89l]    |[格雷编码][89]                                    |![r]
 [92][92l]    |[反转链表 II][92]                                 |![p]
@@ -490,6 +491,7 @@
 [75]:./Medium/0075-Sort%20Colors/README_CN.md#75-颜色分类
 [78]:./Medium/0078-Subsets/README_CN.md#78-子集
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README_CN.md#83-删除排序链表中的重复元素
+[86]:./Medium/0086-Partition%20List/README_CN.md#86-分隔链表
 [88]:./Easy/0088-Merge%20Sorted%20Array/README_CN.md#88-合并两个有序数组
 [89]:./Medium/0089-Gray%20Code/README_CN.md#89-格雷编码
 [92]:./Medium/0092-Reverse%20Linked%20List%20II/README_CN.md#92-反转链表-ii
@@ -939,6 +941,7 @@
 [78l]:https://leetcode-cn.com/problems/subsets/
 [83l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/
 [84l]:https://leetcode-cn.com/problems/largest-rectangle-in-histogram/
+[86l]:https://leetcode-cn.com/problems/partition-list/
 [88l]:https://leetcode-cn.com/problems/merge-sorted-array/
 [89l]:https://leetcode-cn.com/problems/gray-code/
 [92l]:https://leetcode-cn.com/problems/reverse-linked-list-ii/

@@ -42,6 +42,7 @@
 [75][75l]    |[Sort Colors][75]                                                         |![r]
 [78][78l]    |[Subsets][78]                                                             |![r]
 [83][83l]    |[Remove Duplicates from Sorted List][83]                                  |![p]
+[86][86l]    |[Partition List][86]                                                      |![p]
 [88][88l]    |[Merge Sorted Array][88]                                                  |![p]
 [89][89l]    |[Gray Code][89]                                                           |![r]
 [92][92l]    |[Reverse Linked List II][92]                                              |![p]
@@ -490,6 +491,7 @@
 [75]:./Medium/0075-Sort%20Colors/README.md#75-sort-colors
 [78]:./Medium/0078-Subsets/README.md#78-subsets
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README.md#83-remove-duplicates-from-sorted-list
+[86]:./Medium/0086-Partition%20List/README.md#86-partition-list
 [88]:./Easy/0088-Merge%20Sorted%20Array/README.md#88-merge-sorted-array
 [89]:./Medium/0089-Gray%20Code/README.md#89-gray-code
 [92]:./Medium/0092-Reverse%20Linked%20List%20II/README.md#92-reverse-linked-list-ii
@@ -939,6 +941,7 @@
 [78l]:https://leetcode.com/problems/subsets/
 [83l]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [84l]:https://leetcode.com/problems/largest-rectangle-in-histogram/
+[86l]:https://leetcode.com/problems/partition-list/
 [88l]:https://leetcode.com/problems/merge-sorted-array/
 [89l]:https://leetcode.com/problems/gray-code/
 [92l]:https://leetcode.com/problems/reverse-linked-list-ii/
