@@ -19,6 +19,7 @@
 [19][19l]    |[Remove Nth Node From End of List][19]                                    |![p]
 [20][20l]    |[Valid Parentheses][20]                                                   |![p]
 [21][21l]    |[Merge Two Sorted Lists][21]                                              |![p]
+[22][22l]    |[Generate Parentheses][22]                                                |![r]
 [24][24l]    |[Swap Nodes in Pairs][24]                                                 |![p]
 [26][26l]    |[Remove Duplicates from Sorted Array][26]                                 |![r]
 [27][27l]    |[Remove Element][27]                                                      |![r]
@@ -469,6 +470,7 @@
 [19]:./Medium/0019-Remove%20Nth%20Node%20From%20End%20of%20List/README.md#19-remove-nth-node-from-end-of-list
 [20]:./Easy/0020-Valid%20Parentheses/README.md#20-valid-parentheses
 [21]:./Easy/0021-Merge%20Two%20Sorted%20Lists/README.md#21-merge-two-sorted-lists
+[22]:./Medium/0022-Generate%20Parentheses/README.md#22-generate-parentheses
 [24]:./Medium/0024-Swap%20Nodes%20in%20Pairs/README.md#24-swap-nodes-in-pairs
 [26]:./Easy/0026-Remove%20Duplicates%20from%20Sorted%20Array/README.md#26-remove-duplicates-from-sorted-array
 [27]:./Easy/0027-Remove%20Element/README.md#27-remove-element
