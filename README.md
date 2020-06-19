@@ -5,6 +5,7 @@
 -------------|--------------------------------------------------------------------------|:----------------------------------:
 [1][1l]      |[Two Sum][1]                                                              |![p]&nbsp;&nbsp;![r]&nbsp;&nbsp;![c]
 [2][2l]      |[Add Two Numbers][2]                                                      |![p]
+[3][3l]      |[Longest Substring Without Repeating Characters][3]                       |![r]
 [4][4l]      |[Median of Two Sorted Arrays][4]                                          |![r]
 [6][6l]      |[ZigZag Conversion][6]                                                    |![p]
 [7][7l]      |[Reverse Integer][7]                                                      |![p]&nbsp;&nbsp;![c]
@@ -454,6 +455,7 @@
 
 [1]:./Easy/0001-Two%20Sum/README.md#1-two-sum
 [2]:./Medium/0002-Add%20Two%20Numbers/README.md#2-add-two-numbers
+[3]:./Medium/0003-Longest%20Substring%20Without%20Repeating%20Characters/README.md#3-longest-substring-without-repeating-characters
 [4]:./Hard/0004-Median%20of%20Two%20Sorted%20Arrays/README.md#4-median-of-two-sorted-arrays
 [6]:./Medium/0006-ZigZag%20Conversion/README.md#6-zigzag-conversion
 [7]:./Easy/0007-Reverse%20Integer/README.md#7-reverse-integer
