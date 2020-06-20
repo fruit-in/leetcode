@@ -35,6 +35,7 @@
 [54][54l]    |[Spiral Matrix][54]                                                       |![r]
 [58][58l]    |[Length of Last Word][58]                                                 |![r]
 [59][59l]    |[Spiral Matrix II][59]                                                    |![r]
+[61][61l]    |[Rotate List][61]                                                         |![p]
 [66][66l]    |[Plus One][66]                                                            |![r]
 [67][67l]    |[Add Binary][67]                                                          |![p]
 [69][69l]    |[Sqrt(x)][69]                                                             |![r]
@@ -486,6 +487,7 @@
 [54]:./Medium/0054-Spiral%20Matrix/README.md#54-spiral-matrix
 [58]:./Easy/0058-Length%20of%20Last%20Word/README.md#58-length-of-last-word
 [59]:./Medium/0059-Spiral%20Matrix%20II/README.md#59-spiral-matrix-ii
+[61]:./Medium/0061-Rotate%20List/README.md#61-rotate-list
 [66]:./Easy/0066-Plus%20One/README.md#66-plus-one
 [67]:./Easy/0067-Add%20Binary/README.md#67-add-binary
 [69]:./Easy/0069-Sqrt\(x\)/README.md#69-sqrtx

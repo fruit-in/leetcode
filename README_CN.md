@@ -35,6 +35,7 @@
 [54][54l]    |[螺旋矩阵][54]                                    |![r]
 [58][58l]    |[最后一个单词的长度][58]                          |![r]
 [59][59l]    |[螺旋矩阵 II][59]                                 |![r]
+[61][61l]    |[旋转链表][61]                                    |![p]
 [66][66l]    |[加一][66]                                        |![r]
 [67][67l]    |[二进制求和][67]                                  |![p]
 [69][69l]    |[x 的平方根][69]                                  |![r]
@@ -486,6 +487,7 @@
 [54]:./Medium/0054-Spiral%20Matrix/README_CN.md#54-螺旋矩阵
 [58]:./Easy/0058-Length%20of%20Last%20Word/README_CN.md#58-最后一个单词的长度
 [59]:./Medium/0059-Spiral%20Matrix%20II/README_CN.md#59-螺旋矩阵-ii
+[61]:./Medium/0061-Rotate%20List/README_CN.md#61-旋转链表
 [66]:./Easy/0066-Plus%20One/README_CN.md#66-加一
 [67]:./Easy/0067-Add%20Binary/README_CN.md#67-二进制求和
 [69]:./Easy/0069-Sqrt\(x\)/README_CN.md#69-x-的平方根
