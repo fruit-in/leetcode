@@ -42,6 +42,7 @@
 [70][70l]    |[Climbing Stairs][70]                                                     |![r]
 [71][71l]    |[Simplify Path][71]                                                       |![p]
 [73][73l]    |[Set Matrix Zeroes][73]                                                   |![r]
+[74][74l]    |[Search a 2D Matrix][74]                                                  |![r]
 [75][75l]    |[Sort Colors][75]                                                         |![r]
 [78][78l]    |[Subsets][78]                                                             |![r]
 [83][83l]    |[Remove Duplicates from Sorted List][83]                                  |![p]
@@ -494,6 +495,7 @@
 [70]:./Easy/0070-Climbing%20Stairs/README.md#70-climbing-stairs
 [71]:./Medium/0071-Simplify%20Path/README.md#71-simplify-path
 [73]:./Medium/0073-Set%20Matrix%20Zeroes/README.md#73-set-matrix-zeroes
+[74]:./Medium/0074-Search%20a%202D%20Matrix/README.md#74-search-a-2d-matrix
 [75]:./Medium/0075-Sort%20Colors/README.md#75-sort-colors
 [78]:./Medium/0078-Subsets/README.md#78-subsets
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README.md#83-remove-duplicates-from-sorted-list
@@ -942,6 +944,7 @@
 [70l]:https://leetcode.com/problems/climbing-stairs/
 [71l]:https://leetcode.com/problems/simplify-path/
 [73l]:https://leetcode.com/problems/set-matrix-zeroes/
+[74l]:https://leetcode.com/problems/search-a-2d-matrix/
 [75l]:https://leetcode.com/problems/sort-colors/
 [77l]:https://leetcode.com/problems/combinations/
 [78l]:https://leetcode.com/problems/subsets/

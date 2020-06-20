@@ -42,6 +42,7 @@
 [70][70l]    |[爬楼梯][70]                                      |![r]
 [71][71l]    |[简化路径][71]                                    |![p]
 [73][73l]    |[矩阵置零][73]                                    |![r]
+[74][74l]    |[搜索二维矩阵][74]                                |![r]
 [75][75l]    |[颜色分类][75]                                    |![r]
 [78][78l]    |[子集][78]                                        |![r]
 [83][83l]    |[删除排序链表中的重复元素][83]                    |![p]
@@ -494,6 +495,7 @@
 [70]:./Easy/0070-Climbing%20Stairs/README_CN.md#70-爬楼梯
 [71]:./Medium/0071-Simplify%20Path/README_CN.md#71-简化路径
 [73]:./Medium/0073-Set%20Matrix%20Zeroes/README_CN.md#73-矩阵置零
+[74]:./Medium/0074-Search%20a%202D%20Matrix/README_CN.md#74-搜索二维矩阵
 [75]:./Medium/0075-Sort%20Colors/README_CN.md#75-颜色分类
 [78]:./Medium/0078-Subsets/README_CN.md#78-子集
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README_CN.md#83-删除排序链表中的重复元素
@@ -942,6 +944,7 @@
 [70l]:https://leetcode-cn.com/problems/climbing-stairs/
 [71l]:https://leetcode-cn.com/problems/simplify-path/
 [73l]:https://leetcode-cn.com/problems/set-matrix-zeroes/
+[74l]:https://leetcode-cn.com/problems/search-a-2d-matrix/
 [75l]:https://leetcode-cn.com/problems/sort-colors/
 [77l]:https://leetcode-cn.com/problems/combinations/
 [78l]:https://leetcode-cn.com/problems/subsets/
