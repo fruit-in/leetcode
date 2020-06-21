@@ -24,6 +24,7 @@
 [26][26l]    |[删除排序数组中的重复项][26]                      |![r]
 [27][27l]    |[移除元素][27]                                    |![r]
 [28][28l]    |[实现 strStr()][28]                               |![p]
+[33][33l]    |[搜索旋转排序数组][33]                            |![r]
 [35][35l]    |[搜索插入位置][35]                                |![p]
 [36][36l]    |[有效的数独][36]                                  |![r]
 [38][38l]    |[外观数列][38]                                    |![p]
@@ -477,6 +478,7 @@
 [26]:./Easy/0026-Remove%20Duplicates%20from%20Sorted%20Array/README_CN.md#26-删除排序数组中的重复项
 [27]:./Easy/0027-Remove%20Element/README_CN.md#27-移除元素
 [28]:./Easy/0028-Implement%20strStr\(\)/README_CN.md#28-实现-strstr
+[33]:./Medium/0033-Search%20in%20Rotated%20Sorted%20Array/README_CN.md#33-搜索旋转排序数组
 [35]:./Easy/0035-Search%20Insert%20Position/README_CN.md#35-搜索插入位置
 [36]:./Medium/0036-Valid%20Sudoku/README_CN.md#36-有效的数独
 [38]:./Easy/0038-Count%20and%20Say/README_CN.md#38-外观数列
@@ -924,6 +926,7 @@
 [26l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
 [27l]:https://leetcode-cn.com/problems/remove-element/
 [28l]:https://leetcode-cn.com/problems/implement-strstr/
+[33l]:https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
 [35l]:https://leetcode-cn.com/problems/search-insert-position/
 [36l]:https://leetcode-cn.com/problems/valid-sudoku/
 [37l]:https://leetcode-cn.com/problems/sudoku-solver/
