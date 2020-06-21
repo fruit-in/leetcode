@@ -38,6 +38,7 @@
 [59][59l]    |[螺旋矩阵 II][59]                                 |![r]
 [61][61l]    |[旋转链表][61]                                    |![p]
 [62][62l]    |[不同路径][62]                                    |![r]
+[63][63l]    |[不同路径 II][63]                                 |![r]
 [66][66l]    |[加一][66]                                        |![r]
 [67][67l]    |[二进制求和][67]                                  |![p]
 [69][69l]    |[x 的平方根][69]                                  |![r]
@@ -493,6 +494,7 @@
 [59]:./Medium/0059-Spiral%20Matrix%20II/README_CN.md#59-螺旋矩阵-ii
 [61]:./Medium/0061-Rotate%20List/README_CN.md#61-旋转链表
 [62]:./Medium/0062-Unique%20Paths/README_CN.md#62-不同路径
+[63]:./Medium/0063-Unique%20Paths%20II/README_CN.md#63-不同路径-ii
 [66]:./Easy/0066-Plus%20One/README_CN.md#66-加一
 [67]:./Easy/0067-Add%20Binary/README_CN.md#67-二进制求和
 [69]:./Easy/0069-Sqrt\(x\)/README_CN.md#69-x-的平方根
@@ -944,6 +946,7 @@
 [59l]:https://leetcode-cn.com/problems/spiral-matrix-ii/
 [61l]:https://leetcode-cn.com/problems/rotate-list/
 [62l]:https://leetcode-cn.com/problems/unique-paths/
+[63l]:https://leetcode-cn.com/problems/unique-paths-ii/
 [66l]:https://leetcode-cn.com/problems/plus-one/
 [67l]:https://leetcode-cn.com/problems/add-binary/
 [69l]:https://leetcode-cn.com/problems/sqrtx/
