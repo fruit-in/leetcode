@@ -123,6 +123,7 @@
 [279][279l]  |[Perfect Squares][279]                                                    |![r]
 [283][283l]  |[Move Zeroes][283]                                                        |![r]
 [284][284l]  |[Peeking Iterator][284]                                                   |![p]
+[287][287l]  |[Find the Duplicate Number][287]                                          |![r]
 [289][289l]  |[Game of Life][289]                                                       |![r]
 [290][290l]  |[Word Pattern][290]                                                       |![p]
 [292][292l]  |[Nim Game][292]                                                           |![r]
@@ -582,6 +583,7 @@
 [279]:./Medium/0279-Perfect%20Squares/README.md#279-perfect-squares
 [283]:./Easy/0283-Move%20Zeroes/README.md#283-move-zeroes
 [284]:./Medium/0284-Peeking%20Iterator/README.md#284-peeking-iterator
+[287]:./Medium/0287-Find%20the%20Duplicate%20Number/README.md#287-find-the-duplicate-number
 [289]:./Medium/0289-Game%20of%20Life/README.md#289-game-of-life
 [290]:./Easy/0290-Word%20Pattern/README.md#290-word-pattern
 [292]:./Easy/0292-Nim%20Game/README.md#292-nim-game
@@ -1056,6 +1058,7 @@
 [279l]:https://leetcode.com/problems/perfect-squares/
 [283l]:https://leetcode.com/problems/move-zeroes/
 [284l]:https://leetcode.com/problems/peeking-iterator/
+[287l]:https://leetcode.com/problems/find-the-duplicate-number/
 [289l]:https://leetcode.com/problems/game-of-life/
 [290l]:https://leetcode.com/problems/word-pattern/
 [292l]:https://leetcode.com/problems/nim-game/
