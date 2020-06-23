@@ -55,6 +55,7 @@
 [89][89l]    |[格雷编码][89]                                    |![r]
 [92][92l]    |[反转链表 II][92]                                 |![p]
 [94][94l]    |[二叉树的中序遍历][94]                            |![p]&nbsp;&nbsp;![r]
+[95][95l]    |[不同的二叉搜索树 II][95]                         |![p]
 [98][98l]    |[验证二叉搜索树][98]                              |![p]
 [100][100l]  |[相同的树][100]                                   |![p]
 [101][101l]  |[对称二叉树][101]                                 |![p]
@@ -512,6 +513,7 @@
 [89]:./Medium/0089-Gray%20Code/README_CN.md#89-格雷编码
 [92]:./Medium/0092-Reverse%20Linked%20List%20II/README_CN.md#92-反转链表-ii
 [94]:./Medium/0094-Binary%20Tree%20Inorder%20Traversal/README_CN.md#94-二叉树的中序遍历
+[95]:./Medium/0095-Unique%20Binary%20Search%20Trees%20II/README_CN.md#95-不同的二叉搜索树-ii
 [98]:./Medium/0098-Validate%20Binary%20Search%20Tree/README_CN.md#98-验证二叉搜索树
 [100]:./Easy/0100-Same%20Tree/README_CN.md#100-相同的树
 [101]:./Easy/0101-Symmetric%20Tree/README_CN.md#101-对称二叉树
