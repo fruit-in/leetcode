@@ -182,6 +182,7 @@
 [474][474l]  |[Ones and Zeroes][474]                                                    |![r]
 [475][475l]  |[Heaters][475]                                                            |![r]
 [476][476l]  |[Number Complement][476]                                                  |![r]
+[477][477l]  |[Total Hamming Distance][477]                                             |![r]
 [482][482l]  |[License Key Formatting][482]                                             |![p]
 [485][485l]  |[Max Consecutive Ones][485]                                               |![r]
 [492][492l]  |[Construct the Rectangle][492]                                            |![r]
@@ -642,6 +643,7 @@
 [474]:./Medium/0474-Ones%20and%20Zeroes/README.md#474-ones-and-zeroes
 [475]:./Easy/0475-Heaters/README.md#475-heaters
 [476]:./Easy/0476-Number%20Complement/README.md#476-number-complement
+[477]:./Medium/0477-Total%20Hamming%20Distance/README.md#477-total-hamming-distance
 [482]:./Easy/0482-License%20Key%20Formatting/README.md#482-license-key-formatting
 [485]:./Easy/0485-Max%20Consecutive%20Ones/README.md#485-max-consecutive-ones
 [492]:./Easy/0492-Construct%20the%20Rectangle/README.md#492-construct-the-rectangle
@@ -1123,6 +1125,7 @@
 [474l]:https://leetcode.com/problems/ones-and-zeroes/
 [475l]:https://leetcode.com/problems/heaters/
 [476l]:https://leetcode.com/problems/number-complement/
+[477l]:https://leetcode.com/problems/total-hamming-distance/
 [482l]:https://leetcode.com/problems/license-key-formatting/
 [485l]:https://leetcode.com/problems/max-consecutive-ones/
 [492l]:https://leetcode.com/problems/construct-the-rectangle/
