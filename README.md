@@ -56,6 +56,7 @@
 [92][92l]    |[Reverse Linked List II][92]                                              |![p]
 [94][94l]    |[Binary Tree Inorder Traversal][94]                                       |![p]&nbsp;&nbsp;![r]
 [95][95l]    |[Unique Binary Search Trees II][95]                                       |![p]
+[96][96l]    |[Unique Binary Search Trees][96]                                          |![r]
 [98][98l]    |[Validate Binary Search Tree][98]                                         |![p]
 [100][100l]  |[Same Tree][100]                                                          |![p]
 [101][101l]  |[Symmetric Tree][101]                                                     |![p]
@@ -517,6 +518,7 @@
 [92]:./Medium/0092-Reverse%20Linked%20List%20II/README.md#92-reverse-linked-list-ii
 [94]:./Medium/0094-Binary%20Tree%20Inorder%20Traversal/README.md#94-binary-tree-inorder-traversal
 [95]:./Medium/0095-Unique%20Binary%20Search%20Trees%20II/README.md#95-unique-binary-search-trees-ii
+[96]:./Medium/0096-Unique%20Binary%20Search%20Trees/README.md#96-unique-binary-search-trees
 [98]:./Medium/0098-Validate%20Binary%20Search%20Tree/README.md#98-validate-binary-search-tree
 [100]:./Easy/0100-Same%20Tree/README.md#100-same-tree
 [101]:./Easy/0101-Symmetric%20Tree/README.md#101-symmetric-tree
@@ -976,6 +978,7 @@
 [92l]:https://leetcode.com/problems/reverse-linked-list-ii/
 [94l]:https://leetcode.com/problems/binary-tree-inorder-traversal/
 [95l]:https://leetcode.com/problems/unique-binary-search-trees-ii/
+[96l]:https://leetcode.com/problems/unique-binary-search-trees/
 [98l]:https://leetcode.com/problems/validate-binary-search-tree/
 [100l]:https://leetcode.com/problems/same-tree/
 [101l]:https://leetcode.com/problems/symmetric-tree/
