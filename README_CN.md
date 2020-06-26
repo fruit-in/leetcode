@@ -34,6 +34,7 @@
 [50][50l]    |[Pow(x, n)][50]                                   |![r]
 [53][53l]    |[最大子序和][53]                                  |![r]
 [54][54l]    |[螺旋矩阵][54]                                    |![r]
+[56][56l]    |[合并区间][56]                                    |![r]
 [58][58l]    |[最后一个单词的长度][58]                          |![r]
 [59][59l]    |[螺旋矩阵 II][59]                                 |![r]
 [61][61l]    |[旋转链表][61]                                    |![p]
@@ -496,6 +497,7 @@
 [50]:./Medium/0050-Pow\(x,%20n\)/README_CN.md#50-powx-n
 [53]:./Easy/0053-Maximum%20Subarray/README_CN.md#53-最大子序和
 [54]:./Medium/0054-Spiral%20Matrix/README_CN.md#54-螺旋矩阵
+[56]:./Medium/0056-Merge%20Intervals/README_CN.md#56-合并区间
 [58]:./Easy/0058-Length%20of%20Last%20Word/README_CN.md#58-最后一个单词的长度
 [59]:./Medium/0059-Spiral%20Matrix%20II/README_CN.md#59-螺旋矩阵-ii
 [61]:./Medium/0061-Rotate%20List/README_CN.md#61-旋转链表
@@ -954,6 +956,7 @@
 [52l]:https://leetcode-cn.com/problems/n-queens-ii/
 [53l]:https://leetcode-cn.com/problems/maximum-subarray/
 [54l]:https://leetcode-cn.com/problems/spiral-matrix/
+[56l]:https://leetcode-cn.com/problems/merge-intervals/
 [58l]:https://leetcode-cn.com/problems/length-of-last-word/
 [59l]:https://leetcode-cn.com/problems/spiral-matrix-ii/
 [61l]:https://leetcode-cn.com/problems/rotate-list/
