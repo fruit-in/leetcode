@@ -50,6 +50,7 @@
 [74][74l]    |[搜索二维矩阵][74]                                |![r]
 [75][75l]    |[颜色分类][75]                                    |![r]
 [78][78l]    |[子集][78]                                        |![r]
+[80][80l]    |[删除排序数组中的重复项 II][80]                   |![r]
 [83][83l]    |[删除排序链表中的重复元素][83]                    |![p]
 [86][86l]    |[分隔链表][86]                                    |![p]
 [88][88l]    |[合并两个有序数组][88]                            |![p]
@@ -513,6 +514,7 @@
 [74]:./Medium/0074-Search%20a%202D%20Matrix/README_CN.md#74-搜索二维矩阵
 [75]:./Medium/0075-Sort%20Colors/README_CN.md#75-颜色分类
 [78]:./Medium/0078-Subsets/README_CN.md#78-子集
+[80]:./Medium/0080-Remove%20Duplicates%20from%20Sorted%20Array%20II/README_CN.md#80-删除排序数组中的重复项-ii
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README_CN.md#83-删除排序链表中的重复元素
 [86]:./Medium/0086-Partition%20List/README_CN.md#86-分隔链表
 [88]:./Easy/0088-Merge%20Sorted%20Array/README_CN.md#88-合并两个有序数组
@@ -973,6 +975,7 @@
 [75l]:https://leetcode-cn.com/problems/sort-colors/
 [77l]:https://leetcode-cn.com/problems/combinations/
 [78l]:https://leetcode-cn.com/problems/subsets/
+[80l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/
 [83l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/
 [84l]:https://leetcode-cn.com/problems/largest-rectangle-in-histogram/
 [86l]:https://leetcode-cn.com/problems/partition-list/
