@@ -29,6 +29,7 @@
 [36][36l]    |[有效的数独][36]                                  |![r]
 [38][38l]    |[外观数列][38]                                    |![p]
 [46][46l]    |[全排列][46]                                      |![r]
+[47][47l]    |[全排列 II][47]                                   |![r]
 [48][48l]    |[旋转图像][48]                                    |![r]
 [49][49l]    |[字母异位词分组][49]                              |![r]
 [50][50l]    |[Pow(x, n)][50]                                   |![r]
@@ -493,6 +494,7 @@
 [36]:./Medium/0036-Valid%20Sudoku/README_CN.md#36-有效的数独
 [38]:./Easy/0038-Count%20and%20Say/README_CN.md#38-外观数列
 [46]:./Medium/0046-Permutations/README_CN.md#46-全排列
+[47]:./Medium/0047-Permutations%20II/README_CN.md#47-全排列-ii
 [48]:./Medium/0048-Rotate%20Image/README_CN.md#48-旋转图像
 [49]:./Medium/0049-Group%20Anagrams/README_CN.md#49-字母异位词分组
 [50]:./Medium/0050-Pow\(x,%20n\)/README_CN.md#50-powx-n
@@ -952,6 +954,7 @@
 [37l]:https://leetcode-cn.com/problems/sudoku-solver/
 [38l]:https://leetcode-cn.com/problems/count-and-say/
 [46l]:https://leetcode-cn.com/problems/permutations/
+[47l]:https://leetcode-cn.com/problems/permutations-ii/
 [48l]:https://leetcode-cn.com/problems/rotate-image/
 [49l]:https://leetcode-cn.com/problems/group-anagrams/
 [50l]:https://leetcode-cn.com/problems/powx-n/

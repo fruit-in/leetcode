@@ -29,6 +29,7 @@
 [36][36l]    |[Valid Sudoku][36]                                                        |![r]
 [38][38l]    |[Count and Say][38]                                                       |![p]
 [46][46l]    |[Permutations][46]                                                        |![r]
+[47][47l]    |[Permutations II][47]                                                     |![r]
 [48][48l]    |[Rotate Image][48]                                                        |![r]
 [49][49l]    |[Group Anagrams][49]                                                      |![r]
 [50][50l]    |[Pow(x, n)][50]                                                           |![r]
@@ -493,6 +494,7 @@
 [36]:./Medium/0036-Valid%20Sudoku/README.md#36-valid-sudoku
 [38]:./Easy/0038-Count%20and%20Say/README.md#38-count-and-say
 [46]:./Medium/0046-Permutations/README.md#46-permutations
+[47]:./Medium/0047-Permutations%20II/README.md#47-permutations-ii
 [48]:./Medium/0048-Rotate%20Image/README.md#48-rotate-image
 [49]:./Medium/0049-Group%20Anagrams/README.md#49-group-anagrams
 [50]:./Medium/0050-Pow\(x,%20n\)/README.md#50-powx-n
@@ -952,6 +954,7 @@
 [37l]:https://leetcode.com/problems/sudoku-solver/
 [38l]:https://leetcode.com/problems/count-and-say/
 [46l]:https://leetcode.com/problems/permutations/
+[47l]:https://leetcode.com/problems/permutations-ii/
 [48l]:https://leetcode.com/problems/rotate-image/
 [49l]:https://leetcode.com/problems/group-anagrams/
 [50l]:https://leetcode.com/problems/powx-n/
