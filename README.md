@@ -461,6 +461,7 @@
 [1408][1408l]|[String Matching in an Array][1408]                                       |![r]
 [1410][1410l]|[HTML Entity Parser][1410]                                                |![r]
 [1413][1413l]|[Minimum Value to Get Positive Step by Step Sum][1413]                    |![r]
+[1417][1417l]|[Reformat The String][1417]                                               |![r]
 [1431][1431l]|[Kids With the Greatest Number of Candies][1431]                          |![r]
 [1436][1436l]|[Destination City][1436]                                                  |![r]
 
@@ -928,6 +929,7 @@
 [1408]:./Easy/1408-String%20Matching%20in%20an%20Array/README.md#1408-string-matching-in-an-array
 [1410]:./Medium/1410-HTML%20Entity%20Parser/README.md#1410-html-entity-parser
 [1413]:./Easy/1413-Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/README.md#1413-minimum-value-to-get-positive-step-by-step-sum
+[1417]:./Easy/1417-Reformat%20The%20String/README.md#1417-reformat-the-string
 [1431]:./Easy/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies/README.md#1431-kids-with-the-greatest-number-of-candies
 [1436]:./Easy/1436-Destination%20City/README.md#1436-destination-city
 
@@ -1422,5 +1424,6 @@
 [1408l]:https://leetcode.com/problems/string-matching-in-an-array/
 [1410l]:https://leetcode.com/problems/html-entity-parser/
 [1413l]:https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
+[1417l]:https://leetcode.com/problems/reformat-the-string/
 [1431l]:https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1436l]:https://leetcode.com/problems/destination-city/
