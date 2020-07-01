@@ -462,6 +462,7 @@
 [1410][1410l]|[HTML 实体解析器][1410]                           |![r]
 [1413][1413l]|[逐步求和得到正数的最小值][1413]                  |![r]
 [1431][1431l]|[拥有最多糖果的孩子][1431]                        |![r]
+[1436][1436l]|[旅行终点站][1436]                                |![r]
 
 
 [p]:./ico/python.ico
@@ -928,6 +929,7 @@
 [1410]:./Medium/1410-HTML%20Entity%20Parser/README_CN.md#1410-html-实体解析器
 [1413]:./Easy/1413-Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/README_CN.md#1413-逐步求和得到正数的最小值
 [1431]:./Easy/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies/README_CN.md#1431-拥有最多糖果的孩子
+[1436]:./Easy/1436-Destination%20City/README_CN.md#1436-旅行终点站
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1421,3 +1423,4 @@
 [1410l]:https://leetcode-cn.com/problems/html-entity-parser/
 [1413l]:https://leetcode-cn.com/problems/minimum-value-to-get-positive-step-by-step-sum/
 [1431l]:https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/
+[1436l]:https://leetcode-cn.com/problems/destination-city/
