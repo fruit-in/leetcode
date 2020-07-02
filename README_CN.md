@@ -462,6 +462,7 @@
 [1410][1410l]|[HTML 实体解析器][1410]                           |![r]
 [1413][1413l]|[逐步求和得到正数的最小值][1413]                  |![r]
 [1417][1417l]|[重新格式化字符串][1417]                          |![r]
+[1422][1422l]|[分割字符串的最大得分][1422]                      |![r]
 [1431][1431l]|[拥有最多糖果的孩子][1431]                        |![r]
 [1436][1436l]|[旅行终点站][1436]                                |![r]
 
@@ -930,6 +931,7 @@
 [1410]:./Medium/1410-HTML%20Entity%20Parser/README_CN.md#1410-html-实体解析器
 [1413]:./Easy/1413-Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/README_CN.md#1413-逐步求和得到正数的最小值
 [1417]:./Easy/1417-Reformat%20The%20String/README_CN.md#1417-重新格式化字符串
+[1422]:./Easy/1422-Maximum%20Score%20After%20Splitting%20a%20String/README_CN.md#1422-分割字符串的最大得分
 [1431]:./Easy/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies/README_CN.md#1431-拥有最多糖果的孩子
 [1436]:./Easy/1436-Destination%20City/README_CN.md#1436-旅行终点站
 
@@ -1425,5 +1427,6 @@
 [1410l]:https://leetcode-cn.com/problems/html-entity-parser/
 [1413l]:https://leetcode-cn.com/problems/minimum-value-to-get-positive-step-by-step-sum/
 [1417l]:https://leetcode-cn.com/problems/reformat-the-string/
+[1422l]:https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string/
 [1431l]:https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/
 [1436l]:https://leetcode-cn.com/problems/destination-city/
