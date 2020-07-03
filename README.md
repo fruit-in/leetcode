@@ -71,6 +71,7 @@
 [110][110l]  |[Balanced Binary Tree][110]                                               |![p]
 [111][111l]  |[Minimum Depth of Binary Tree][111]                                       |![p]
 [112][112l]  |[Path Sum][112]                                                           |![p]
+[114][114l]  |[Flatten Binary Tree to Linked List][114]                                 |![p]
 [118][118l]  |[Pascal's Triangle][118]                                                  |![p]
 [119][119l]  |[Pascal's Triangle II][119]                                               |![p]
 [120][120l]  |[Triangle][120]                                                           |![r]
@@ -540,6 +541,7 @@
 [110]:./Easy/0110-Balanced%20Binary%20Tree/README.md#110-balanced-binary-tree
 [111]:./Easy/0111-Minimum%20Depth%20of%20Binary%20Tree/README.md#111-minimum-depth-of-binary-tree
 [112]:./Easy/0112-Path%20Sum/README.md#112-path-sum
+[114]:./Medium/0114-Flatten%20Binary%20Tree%20to%20Linked%20List/README.md#114-flatten-binary-tree-to-linked-list
 [118]:./Easy/0118-Pascal's%20Triangle/README.md#118-pascal's-triangle
 [119]:./Easy/0119-Pascal's%20Triangle%20II/README.md#119-pascal's-triangle-ii
 [120]:./Medium/0120-Triangle/README.md#120-triangle
@@ -1009,6 +1011,7 @@
 [110l]:https://leetcode.com/problems/balanced-binary-tree/
 [111l]:https://leetcode.com/problems/minimum-depth-of-binary-tree/
 [112l]:https://leetcode.com/problems/path-sum/
+[114l]:https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 [116l]:https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 [117l]:https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
 [118l]:https://leetcode.com/problems/pascals-triangle/

@@ -71,6 +71,7 @@
 [110][110l]  |[平衡二叉树][110]                                 |![p]
 [111][111l]  |[二叉树的最小深度][111]                           |![p]
 [112][112l]  |[路径总和][112]                                   |![p]
+[114][114l]  |[二叉树展开为链表][114]                           |![p]
 [118][118l]  |[杨辉三角][118]                                   |![p]
 [119][119l]  |[杨辉三角 II][119]                                |![p]
 [120][120l]  |[三角形最小路径和][120]                           |![r]
@@ -540,6 +541,7 @@
 [110]:./Easy/0110-Balanced%20Binary%20Tree/README_CN.md#110-平衡二叉树
 [111]:./Easy/0111-Minimum%20Depth%20of%20Binary%20Tree/README_CN.md#111-二叉树的最小深度
 [112]:./Easy/0112-Path%20Sum/README_CN.md#112-路径总和
+[114]:./Medium/0114-Flatten%20Binary%20Tree%20to%20Linked%20List/README_CN.md#114-二叉树展开为链表
 [118]:./Easy/0118-Pascal's%20Triangle/README_CN.md#118-杨辉三角
 [119]:./Easy/0119-Pascal's%20Triangle%20II/README_CN.md#119-杨辉三角-ii
 [120]:./Medium/0120-Triangle/README_CN.md#120-三角形最小路径和
@@ -1009,6 +1011,7 @@
 [110l]:https://leetcode-cn.com/problems/balanced-binary-tree/
 [111l]:https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/
 [112l]:https://leetcode-cn.com/problems/path-sum/
+[114l]:https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/
 [116l]:https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/
 [117l]:https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/
 [118l]:https://leetcode-cn.com/problems/pascals-triangle/
