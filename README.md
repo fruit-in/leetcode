@@ -408,6 +408,7 @@
 [1189][1189l]|[Maximum Number of Balloons][1189]                                        |![r]
 [1200][1200l]|[Minimum Absolute Difference][1200]                                       |![r]
 [1207][1207l]|[Unique Number of Occurrences][1207]                                      |![r]
+[1209][1209l]|[Remove All Adjacent Duplicates in String II][1209]                       |![r]
 [1217][1217l]|[Play with Chips][1217]                                                   |![r]
 [1220][1220l]|[Count Vowels Permutation][1220]                                          |![r]
 [1221][1221l]|[Split a String in Balanced Strings][1221]                                |![r]
@@ -886,6 +887,7 @@
 [1189]:./Easy/1189-Maximum%20Number%20of%20Balloons/README.md#1189-maximum-number-of-balloons
 [1200]:./Easy/1200-Minimum%20Absolute%20Difference/README.md#1200-minimum-absolute-difference
 [1207]:./Easy/1207-Unique%20Number%20of%20Occurrences/README.md#1207-unique-number-of-occurrences
+[1209]:./Medium/1209-Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/README.md#1209-remove-all-adjacent-duplicates-in-string-ii
 [1217]:./Easy/1217-Play%20with%20Chips/README.md#1217-play-with-chips
 [1220]:./Hard/1220-Count%20Vowels%20Permutation/README.md#1220-count-vowels-permutation
 [1221]:./Easy/1221-Split%20a%20String%20in%20Balanced%20Strings/README.md#1221-split-a-string-in-balanced-strings
@@ -1390,6 +1392,7 @@
 [1189l]:https://leetcode.com/problems/maximum-number-of-balloons/
 [1200l]:https://leetcode.com/problems/minimum-absolute-difference/
 [1207l]:https://leetcode.com/problems/unique-number-of-occurrences/
+[1209l]:https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
 [1217l]:https://leetcode.com/problems/play-with-chips/
 [1220l]:https://leetcode.com/problems/count-vowels-permutation/
 [1221l]:https://leetcode.com/problems/split-a-string-in-balanced-strings/
