@@ -471,6 +471,7 @@
 [1417][1417l]|[Reformat The String][1417]                                               |![r]
 [1422][1422l]|[Maximum Score After Splitting a String][1422]                            |![r]
 [1431][1431l]|[Kids With the Greatest Number of Candies][1431]                          |![r]
+[1433][1433l]|[Check If a String Can Break Another String][1433]                        |![r]
 [1436][1436l]|[Destination City][1436]                                                  |![r]
 [1441][1441l]|[Build an Array With Stack Operations][1441]                              |![r]
 
@@ -948,6 +949,7 @@
 [1417]:./Easy/1417-Reformat%20The%20String/README.md#1417-reformat-the-string
 [1422]:./Easy/1422-Maximum%20Score%20After%20Splitting%20a%20String/README.md#1422-maximum-score-after-splitting-a-string
 [1431]:./Easy/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies/README.md#1431-kids-with-the-greatest-number-of-candies
+[1433]:./Medium/1433-Check%20If%20a%20String%20Can%20Break%20Another%20String/README.md#1433-check-if-a-string-can-break-another-string
 [1436]:./Easy/1436-Destination%20City/README.md#1436-destination-city
 [1441]:./Easy/1441-Build%20an%20Array%20With%20Stack%20Operations/README.md#1441-build-an-array-with-stack-operations
 
@@ -1451,5 +1453,6 @@
 [1417l]:https://leetcode.com/problems/reformat-the-string/
 [1422l]:https://leetcode.com/problems/maximum-score-after-splitting-a-string/
 [1431l]:https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+[1433l]:https://leetcode.com/problems/check-if-a-string-can-break-another-string/
 [1436l]:https://leetcode.com/problems/destination-city/
 [1441l]:https://leetcode.com/problems/build-an-array-with-stack-operations/
