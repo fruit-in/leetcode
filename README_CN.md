@@ -463,6 +463,7 @@
 [1389][1389l]|[按既定顺序创建目标数组][1389]                    |![r]
 [1394][1394l]|[找出数组中的幸运数][1394]                        |![r]
 [1395][1395l]|[统计作战单位数][1395]                            |![r]
+[1396][1396l]|[设计地铁系统][1396]                              |![r]
 [1399][1399l]|[统计最大组的数目][1399]                          |![p]
 [1401][1401l]|[圆和矩形是否有重叠][1401]                        |![r]
 [1403][1403l]|[非递增顺序的最小子序列][1403]                    |![r]
@@ -942,6 +943,7 @@
 [1389]:./Easy/1389-Create%20Target%20Array%20in%20the%20Given%20Order/README_CN.md#1389-按既定顺序创建目标数组
 [1394]:./Easy/1394-Find%20Lucky%20Integer%20in%20an%20Array/README_CN.md#1394-找出数组中的幸运数
 [1395]:./Medium/1395-Count%20Number%20of%20Teams/README_CN.md#1395-统计作战单位数
+[1396]:./Medium/1396-Design%20Underground%20System/README_CN.md#1396-设计地铁系统
 [1399]:./Easy/1399-Count%20Largest%20Group/README_CN.md#1399-统计最大组的数目
 [1401]:./Medium/1401-Circle%20and%20Rectangle%20Overlapping/README_CN.md#1401-圆和矩形是否有重叠
 [1403]:./Easy/1403-Minimum%20Subsequence%20in%20Non-Increasing%20Order/README_CN.md#1403-非递增顺序的最小子序列
@@ -1447,6 +1449,7 @@
 [1389l]:https://leetcode-cn.com/problems/create-target-array-in-the-given-order/
 [1394l]:https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/
 [1395l]:https://leetcode-cn.com/problems/count-number-of-teams/
+[1396l]:https://leetcode-cn.com/problems/design-underground-system/
 [1399l]:https://leetcode-cn.com/problems/count-largest-group/
 [1401l]:https://leetcode-cn.com/problems/circle-and-rectangle-overlapping/
 [1403l]:https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/
