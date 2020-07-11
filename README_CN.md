@@ -477,6 +477,7 @@
 [1436][1436l]|[旅行终点站][1436]                                |![r]
 [1437][1437l]|[是否所有 1 都至少相隔 k 个元素][1437]            |![r]
 [1441][1441l]|[用栈操作构建数组][1441]                          |![r]
+[1448][1448l]|[统计二叉树中好节点的数目][1448]                  |![p]
 
 
 [p]:./ico/python.ico
@@ -958,6 +959,7 @@
 [1436]:./Easy/1436-Destination%20City/README_CN.md#1436-旅行终点站
 [1437]:./Medium/1437-Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away/README_CN.md#1437-是否所有-1-都至少相隔-k-个元素
 [1441]:./Easy/1441-Build%20an%20Array%20With%20Stack%20Operations/README_CN.md#1441-用栈操作构建数组
+[1448]:./Medium/1448-Count%20Good%20Nodes%20in%20Binary%20Tree/README_CN.md#1448-统计二叉树中好节点的数目
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1465,3 +1467,4 @@
 [1436l]:https://leetcode-cn.com/problems/destination-city/
 [1437l]:https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 [1441l]:https://leetcode-cn.com/problems/build-an-array-with-stack-operations/
+[1448l]:https://leetcode-cn.com/problems/count-good-nodes-in-binary-tree/
