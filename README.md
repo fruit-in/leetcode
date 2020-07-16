@@ -478,6 +478,7 @@
 [1437][1437l]|[Check If All 1's Are at Least Length K Places Away][1437]                |![r]
 [1441][1441l]|[Build an Array With Stack Operations][1441]                              |![r]
 [1448][1448l]|[Count Good Nodes in Binary Tree][1448]                                   |![p]
+[1450][1450l]|[Number of Students Doing Homework at a Given Time][1450]                 |![r]
 [1476][1476l]|[Subrectangle Queries][1476]                                              |![r]
 
 
@@ -961,6 +962,7 @@
 [1437]:./Medium/1437-Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away/README.md#1437-check-if-all-1s-are-at-least-length-k-places-away
 [1441]:./Easy/1441-Build%20an%20Array%20With%20Stack%20Operations/README.md#1441-build-an-array-with-stack-operations
 [1448]:./Medium/1448-Count%20Good%20Nodes%20in%20Binary%20Tree/README.md#1448-count-good-nodes-in-binary-tree
+[1450]:./Easy/1450-Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/README.md#1450-number-of-students-doing-homework-at-a-given-time
 [1476]:./Medium/1476-Subrectangle%20Queries/README.md#1476-subrectangle-queries
 
 [1l]:https://leetcode.com/problems/two-sum/
@@ -1470,4 +1472,5 @@
 [1437l]:https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 [1441l]:https://leetcode.com/problems/build-an-array-with-stack-operations/
 [1448l]:https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+[1450l]:https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 [1476l]:https://leetcode.com/problems/subrectangle-queries/
