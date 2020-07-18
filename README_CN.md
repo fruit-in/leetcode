@@ -189,6 +189,7 @@
 [455][455l]  |[分发饼干][455]                                   |![r]
 [459][459l]  |[重复的子字符串][459]                             |![p]
 [461][461l]  |[汉明距离][461]                                   |![r]
+[462][462l]  |[最少移动次数使数组元素相等 II][462]              |![r]
 [463][463l]  |[岛屿的周长][463]                                 |![r]
 [470][470l]  |[用 Rand7() 实现 Rand10()][470]                   |![r]
 [474][474l]  |[一和零][474]                                     |![r]
@@ -675,6 +676,7 @@
 [455]:./Easy/0455-Assign%20Cookies/README_CN.md#455-分发饼干
 [459]:./Easy/0459-Repeated%20Substring%20Pattern/README_CN.md#459-重复的子字符串
 [461]:./Easy/0461-Hamming%20Distance/README_CN.md#461-汉明距离
+[462]:./Medium/0462-Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/README_CN.md#462-最少移动次数使数组元素相等-ii
 [463]:./Easy/0463-Island%20Perimeter/README_CN.md#463-岛屿的周长
 [470]:./Medium/0470-Implement%20Rand10\(\)%20Using%20Rand7\(\)/README_CN.md#470-用-Rand7-实现-Rand10
 [474]:./Medium/0474-Ones%20and%20Zeroes/README_CN.md#474-一和零
@@ -1181,6 +1183,7 @@
 [455l]:https://leetcode-cn.com/problems/assign-cookies/
 [459l]:https://leetcode-cn.com/problems/repeated-substring-pattern/
 [461l]:https://leetcode-cn.com/problems/hamming-distance/
+[462l]:https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/
 [463l]:https://leetcode-cn.com/problems/island-perimeter/
 [470l]:https://leetcode-cn.com/problems/implement-rand10-using-rand7/
 [474l]:https://leetcode-cn.com/problems/ones-and-zeroes/

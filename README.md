@@ -189,6 +189,7 @@
 [455][455l]  |[Assign Cookies][455]                                                     |![r]
 [459][459l]  |[Repeated Substring Pattern][459]                                         |![p]
 [461][461l]  |[Hamming Distance][461]                                                   |![r]
+[462][462l]  |[Minimum Moves to Equal Array Elements II][462]                           |![r]
 [463][463l]  |[Island Perimeter][463]                                                   |![r]
 [470][470l]  |[Implement Rand10() Using Rand7()][470]                                   |![r]
 [474][474l]  |[Ones and Zeroes][474]                                                    |![r]
@@ -675,6 +676,7 @@
 [455]:./Easy/0455-Assign%20Cookies/README.md#455-assign-cookies
 [459]:./Easy/0459-Repeated%20Substring%20Pattern/README.md#459-repeated-substring-pattern
 [461]:./Easy/0461-Hamming%20Distance/README.md#461-hamming-distance
+[462]:./Medium/0462-Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/README.md#462-minimum-moves-to-equal-array-elements-ii
 [463]:./Easy/0463-Island%20Perimeter/README.md#463-island-perimeter
 [470]:./Medium/0470-Implement%20Rand10\(\)%20Using%20Rand7\(\)/README.md#470-implement-rand10-using-rand7
 [474]:./Medium/0474-Ones%20and%20Zeroes/README.md#474-ones-and-zeroes
@@ -1181,6 +1183,7 @@
 [455l]:https://leetcode.com/problems/assign-cookies/
 [459l]:https://leetcode.com/problems/repeated-substring-pattern/
 [461l]:https://leetcode.com/problems/hamming-distance/
+[462l]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 [463l]:https://leetcode.com/problems/island-perimeter/
 [470l]:https://leetcode.com/problems/implement-rand10-using-rand7/
 [474l]:https://leetcode.com/problems/ones-and-zeroes/
