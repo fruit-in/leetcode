@@ -480,6 +480,7 @@
 [1446][1446l]|[Consecutive Characters][1446]                                            |![r]
 [1448][1448l]|[Count Good Nodes in Binary Tree][1448]                                   |![p]
 [1450][1450l]|[Number of Students Doing Homework at a Given Time][1450]                 |![r]
+[1455][1455l]|[Check If a Word Occurs As a Prefix of Any Word in a Sentence][1455]      |![r]
 [1476][1476l]|[Subrectangle Queries][1476]                                              |![r]
 
 
@@ -965,6 +966,7 @@
 [1446]:./Easy/1446-Consecutive%20Characters/README.md#1446-consecutive-characters
 [1448]:./Medium/1448-Count%20Good%20Nodes%20in%20Binary%20Tree/README.md#1448-count-good-nodes-in-binary-tree
 [1450]:./Easy/1450-Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/README.md#1450-number-of-students-doing-homework-at-a-given-time
+[1455]:./Easy/1455-Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence/README.md#1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
 [1476]:./Medium/1476-Subrectangle%20Queries/README.md#1476-subrectangle-queries
 
 [1l]:https://leetcode.com/problems/two-sum/
@@ -1476,4 +1478,5 @@
 [1446l]:https://leetcode.com/problems/consecutive-characters/
 [1448l]:https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 [1450l]:https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
+[1455l]:https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
 [1476l]:https://leetcode.com/problems/subrectangle-queries/
