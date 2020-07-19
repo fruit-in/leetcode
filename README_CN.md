@@ -196,6 +196,7 @@
 [475][475l]  |[供暖器][475]                                     |![r]
 [476][476l]  |[数字的补数][476]                                 |![r]
 [477][477l]  |[汉明距离总和][477]                               |![r]
+[481][481l]  |[神奇字符串][481]                                 |![r]
 [482][482l]  |[密钥格式化][482]                                 |![p]
 [485][485l]  |[最大连续1的个数][485]                            |![r]
 [492][492l]  |[构造矩形][492]                                   |![r]
@@ -683,6 +684,7 @@
 [475]:./Easy/0475-Heaters/README_CN.md#475-供暖器
 [476]:./Easy/0476-Number%20Complement/README_CN.md#476-数字的补数
 [477]:./Medium/0477-Total%20Hamming%20Distance/README_CN.md#477-汉明距离总和
+[481]:./Medium/0481-Magical%20String/README_CN.md#481-神奇字符串
 [482]:./Easy/0482-License%20Key%20Formatting/README_CN.md#482-密钥格式化
 [485]:./Easy/0485-Max%20Consecutive%20Ones/README_CN.md#485-最大连续1的个数
 [492]:./Easy/0492-Construct%20the%20Rectangle/README_CN.md#492-构造矩形
@@ -1190,6 +1192,7 @@
 [475l]:https://leetcode-cn.com/problems/heaters/
 [476l]:https://leetcode-cn.com/problems/number-complement/
 [477l]:https://leetcode-cn.com/problems/total-hamming-distance/
+[481l]:https://leetcode-cn.com/problems/magical-string/
 [482l]:https://leetcode-cn.com/problems/license-key-formatting/
 [485l]:https://leetcode-cn.com/problems/max-consecutive-ones/
 [492l]:https://leetcode-cn.com/problems/construct-the-rectangle/
