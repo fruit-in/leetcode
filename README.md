@@ -223,6 +223,7 @@
 [538][538l]  |[Convert BST to Greater Tree][538]                                        |![p]
 [539][539l]  |[Minimum Time Difference][539]                                            |![r]
 [541][541l]  |[Reverse String II][541]                                                  |![p]
+[542][542l]  |[01 Matrix][542]                                                          |![r]
 [543][543l]  |[Diameter of Binary Tree][543]                                            |![p]
 [551][551l]  |[Student Attendance Record I][551]                                        |![p]
 [554][554l]  |[Brick Wall][554]                                                         |![r]
@@ -712,6 +713,7 @@
 [538]:./Easy/0538-Convert%20BST%20to%20Greater%20Tree/README.md#538-convert-bst-to-greater-tree
 [539]:./Medium/0539-Minimum%20Time%20Difference/README.md#539-minimum-time-difference
 [541]:./Easy/0541-Reverse%20String%20II/README.md#541-reverse-string-ii
+[542]:./Medium/0542-01%20Matrix/README.md#542-01-matrix
 [543]:./Easy/0543-Diameter%20of%20Binary%20Tree/README.md#543-diameter-of-binary-tree
 [551]:./Easy/0551-Student%20Attendance%20Record%20I/README.md#551-student-attendance-record-i
 [554]:./Medium/0554-Brick%20Wall/README.md#554-brick-wall
@@ -1221,6 +1223,7 @@
 [538l]:https://leetcode.com/problems/convert-bst-to-greater-tree/
 [539l]:https://leetcode.com/problems/minimum-time-difference/
 [541l]:https://leetcode.com/problems/reverse-string-ii/
+[542l]:https://leetcode.com/problems/01-matrix/
 [543l]:https://leetcode.com/problems/diameter-of-binary-tree/
 [551l]:https://leetcode.com/problems/student-attendance-record-i/
 [554l]:https://leetcode.com/problems/brick-wall/
