@@ -485,6 +485,7 @@
 [1448][1448l]|[统计二叉树中好节点的数目][1448]                  |![p]
 [1450][1450l]|[在既定时间做作业的学生人数][1450]                |![r]
 [1455][1455l]|[检查单词是否为句中其他单词的前缀][1455]          |![r]
+[1460][1460l]|[通过翻转子数组使两个数组相等][1460]              |![r]
 [1476][1476l]|[子矩形查询][1476]                                |![r]
 
 
@@ -975,6 +976,7 @@
 [1448]:./Medium/1448-Count%20Good%20Nodes%20in%20Binary%20Tree/README_CN.md#1448-统计二叉树中好节点的数目
 [1450]:./Easy/1450-Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/README_CN.md#1450-在既定时间做作业的学生人数
 [1455]:./Easy/1455-Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence/README_CN.md#1455-检查单词是否为句中其他单词的前缀
+[1460]:./Easy/1460-Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays/README_CN.md#1460-通过翻转子数组使两个数组相等
 [1476]:./Medium/1476-Subrectangle%20Queries/README_CN.md#1476-子矩形查询
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
@@ -1491,4 +1493,5 @@
 [1448l]:https://leetcode-cn.com/problems/count-good-nodes-in-binary-tree/
 [1450l]:https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/
 [1455l]:https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
+[1460l]:https://leetcode-cn.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 [1476l]:https://leetcode-cn.com/problems/subrectangle-queries/
