@@ -100,6 +100,7 @@
 [169][169l]  |[多数元素][169]                                   |![r]
 [171][171l]  |[Excel表列序号][171]                              |![p]
 [172][172l]  |[阶乘后的零][172]                                 |![r]
+[179][179l]  |[最大数][179]                                     |![r]
 [189][189l]  |[旋转数组][189]                                   |![r]
 [190][190l]  |[颠倒二进制位][190]                               |![p]
 [191][191l]  |[位1的个数][191]                                  |![r]
@@ -594,6 +595,7 @@
 [169]:./Easy/0169-Majority%20Element/README_CN.md#169-多数元素
 [171]:./Easy/0171-Excel%20Sheet%20Column%20Number/README_CN.md#171-excel表列序号
 [172]:./Easy/0172-Factorial%20Trailing%20Zeroes/README_CN.md#172-阶乘后的零
+[179]:./Medium/0179-Largest%20Number/README_CN.md#179-最大数
 [189]:./Easy/0189-Rotate%20Array/README_CN.md#189-旋转数组
 [190]:./Easy/0190-Reverse%20Bits/README_CN.md#190-颠倒二进制位
 [191]:./Easy/0191-Number%20of%201%20Bits/README_CN.md#191-位1的个数
@@ -1094,6 +1096,7 @@
 [171l]:https://leetcode-cn.com/problems/excel-sheet-column-number/
 [172l]:https://leetcode-cn.com/problems/factorial-trailing-zeroes/
 [173l]:https://leetcode-cn.com/problems/binary-search-tree-iterator/
+[179l]:https://leetcode-cn.com/problems/largest-number/
 [189l]:https://leetcode-cn.com/problems/rotate-array/
 [190l]:https://leetcode-cn.com/problems/reverse-bits/
 [191l]:https://leetcode-cn.com/problems/number-of-1-bits/

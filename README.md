@@ -100,6 +100,7 @@
 [169][169l]  |[Majority Element][169]                                                   |![r]
 [171][171l]  |[Excel Sheet Column Number][171]                                          |![p]
 [172][172l]  |[Factorial Trailing Zeroes][172]                                          |![r]
+[179][179l]  |[Largest Number][179]                                                     |![r]
 [189][189l]  |[Rotate Array][189]                                                       |![r]
 [190][190l]  |[Reverse Bits][190]                                                       |![p]
 [191][191l]  |[Number of 1 Bits][191]                                                   |![r]
@@ -594,6 +595,7 @@
 [169]:./Easy/0169-Majority%20Element/README.md#169-majority-element
 [171]:./Easy/0171-Excel%20Sheet%20Column%20Number/README.md#171-excel-sheet-column-number
 [172]:./Easy/0172-Factorial%20Trailing%20Zeroes/README.md#172-factorial-trailing-zeroes
+[179]:./Medium/0179-Largest%20Number/README.md#179-largest-number
 [189]:./Easy/0189-Rotate%20Array/README.md#189-rotate-array
 [190]:./Easy/0190-Reverse%20Bits/README.md#190-reverse-bits
 [191]:./Easy/0191-Number%20of%201%20Bits/README.md#191-number-of-1-bits
@@ -1094,6 +1096,7 @@
 [171l]:https://leetcode.com/problems/excel-sheet-column-number/
 [172l]:https://leetcode.com/problems/factorial-trailing-zeroes/
 [173l]:https://leetcode.com/problems/binary-search-tree-iterator/
+[179l]:https://leetcode.com/problems/largest-number/
 [189l]:https://leetcode.com/problems/rotate-array/
 [190l]:https://leetcode.com/problems/reverse-bits/
 [191l]:https://leetcode.com/problems/number-of-1-bits/
