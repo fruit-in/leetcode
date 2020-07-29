@@ -162,6 +162,7 @@
 [382][382l]  |[Linked List Random Node][382]                                            |![p]
 [383][383l]  |[Ransom Note][383]                                                        |![p]
 [384][384l]  |[Shuffle an Array][384]                                                   |![r]
+[386][386l]  |[Lexicographical Numbers][386]                                            |![r]
 [387][387l]  |[First Unique Character in a String][387]                                 |![r]
 [389][389l]  |[Find the Difference][389]                                                |![r]
 [392][392l]  |[Is Subsequence][392]                                                     |![r]
@@ -657,6 +658,7 @@
 [382]:./Medium/0382-Linked%20List%20Random%20Node/README.md#382-linked-list-random-node
 [383]:./Easy/0383-Ransom%20Note/README.md#383-ransom-note
 [384]:./Medium/0384-Shuffle%20an%20Array/README.md#384-shuffle-an-array
+[386]:./Medium/0386-Lexicographical%20Numbers/README.md#386-lexicographical-numbers
 [387]:./Easy/0387-First%20Unique%20Character%20in%20a%20String/README.md#387-first-unique-character-in-a-string
 [389]:./Easy/0389-Find%20the%20Difference/README.md#389-find-the-difference
 [392]:./Easy/0392-Is%20Subsequence/README.md#392-is-subsequence
@@ -1170,6 +1172,7 @@
 [382l]:https://leetcode.com/problems/linked-list-random-node/
 [383l]:https://leetcode.com/problems/ransom-note/
 [384l]:https://leetcode.com/problems/shuffle-an-array/
+[386l]:https://leetcode.com/problems/lexicographical-numbers/
 [387l]:https://leetcode.com/problems/first-unique-character-in-a-string/
 [389l]:https://leetcode.com/problems/find-the-difference/
 [392l]:https://leetcode.com/problems/is-subsequence/

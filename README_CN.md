@@ -162,6 +162,7 @@
 [382][382l]  |[链表随机节点][382]                               |![p]
 [383][383l]  |[赎金信][383]                                     |![p]
 [384][384l]  |[打乱数组][384]                                   |![r]
+[386][386l]  |[字典序排数][386]                                 |![r]
 [387][387l]  |[字符串中的第一个唯一字符][387]                   |![r]
 [389][389l]  |[找不同][389]                                     |![r]
 [392][392l]  |[判断子序列][392]                                 |![r]
@@ -657,6 +658,7 @@
 [382]:./Medium/0382-Linked%20List%20Random%20Node/README_CN.md#382-链表随机节点
 [383]:./Easy/0383-Ransom%20Note/README_CN.md#383-赎金信
 [384]:./Medium/0384-Shuffle%20an%20Array/README_CN.md#384-打乱数组
+[386]:./Medium/0386-Lexicographical%20Numbers/README_CN.md#386-字典序排数
 [387]:./Easy/0387-First%20Unique%20Character%20in%20a%20String/README_CN.md#387-字符串中的第一个唯一字符
 [389]:./Easy/0389-Find%20the%20Difference/README_CN.md#389-找不同
 [392]:./Easy/0392-Is%20Subsequence/README_CN.md#392-判断子序列
@@ -1170,6 +1172,7 @@
 [382l]:https://leetcode-cn.com/problems/linked-list-random-node/
 [383l]:https://leetcode-cn.com/problems/ransom-note/
 [384l]:https://leetcode-cn.com/problems/shuffle-an-array/
+[386l]:https://leetcode-cn.com/problems/lexicographical-numbers/
 [387l]:https://leetcode-cn.com/problems/first-unique-character-in-a-string/
 [389l]:https://leetcode-cn.com/problems/find-the-difference/
 [392l]:https://leetcode-cn.com/problems/is-subsequence/
