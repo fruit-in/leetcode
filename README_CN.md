@@ -261,6 +261,7 @@
 [661][661l]  |[图片平滑器][661]                                 |![r]
 [665][665l]  |[非递减数列][665]                                 |![p]
 [669][669l]  |[修剪二叉搜索树][669]                             |![p]
+[670][670l]  |[最大交换][670]                                   |![r]
 [671][671l]  |[二叉树中第二小的节点][671]                       |![p]
 [674][674l]  |[最长连续递增序列][674]                           |![r]
 [680][680l]  |[验证回文字符串 Ⅱ][680]                           |![p]
@@ -757,6 +758,7 @@
 [661]:./Easy/0661-Image%20Smoother/README_CN.md#661-图片平滑器
 [665]:./Easy/0665-Non-decreasing%20Array/README_CN.md#665-非递减数列
 [669]:./Easy/0669-Trim%20a%20Binary%20Search%20Tree/README_CN.md#669-修剪二叉搜索树
+[670]:./Medium/0670-Maximum%20Swap/README_CN.md#670-最大交换
 [671]:./Easy/0671-Second%20Minimum%20Node%20In%20a%20Binary%20Tree/README_CN.md#671-二叉树中第二小的节点
 [674]:./Easy/0674-Longest%20Continuous%20Increasing%20Subsequence/README_CN.md#674-最长连续递增序列
 [680]:./Easy/0680-Valid%20Palindrome%20II/README_CN.md#680-验证回文字符串-ii
@@ -1275,6 +1277,7 @@
 [661l]:https://leetcode-cn.com/problems/image-smoother/
 [665l]:https://leetcode-cn.com/problems/non-decreasing-array/
 [669l]:https://leetcode-cn.com/problems/trim-a-binary-search-tree/
+[670l]:https://leetcode-cn.com/problems/maximum-swap/
 [671l]:https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/
 [674l]:https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/
 [677l]:https://leetcode-cn.com/problems/map-sum-pairs/
