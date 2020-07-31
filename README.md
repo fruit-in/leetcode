@@ -492,6 +492,7 @@
 [1455][1455l]|[Check If a Word Occurs As a Prefix of Any Word in a Sentence][1455]      |![r]
 [1460][1460l]|[Make Two Arrays Equal by Reversing Sub-arrays][1460]                     |![r]
 [1464][1464l]|[Maximum Product of Two Elements in an Array][1464]                       |![r]
+[1470][1470l]|[Shuffle the Array][1470]                                                 |![r]
 [1476][1476l]|[Subrectangle Queries][1476]                                              |![r]
 
 
@@ -989,6 +990,7 @@
 [1455]:./Easy/1455-Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence/README.md#1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
 [1460]:./Easy/1460-Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays/README.md#1460-make-two-arrays-equal-by-reversing-sub-arrays
 [1464]:./Easy/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/README.md#1464-maximum-product-of-two-elements-in-an-array
+[1470]:./Easy/1470-Shuffle%20the%20Array/README.md#1470-shuffle-the-array
 [1476]:./Medium/1476-Subrectangle%20Queries/README.md#1476-subrectangle-queries
 
 [1l]:https://leetcode.com/problems/two-sum/
@@ -1512,4 +1514,5 @@
 [1455l]:https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
 [1460l]:https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 [1464l]:https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
+[1470l]:https://leetcode.com/problems/shuffle-the-array/
 [1476l]:https://leetcode.com/problems/subrectangle-queries/
