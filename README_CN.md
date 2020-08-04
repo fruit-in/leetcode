@@ -286,6 +286,7 @@
 [725][725l]  |[分隔链表][725]                                   |![p]
 [728][728l]  |[自除数][728]                                     |![p]
 [733][733l]  |[图像渲染][733]                                   |![r]
+[739][739l]  |[每日温度][739]                                   |![r]
 [744][744l]  |[寻找比目标字母大的最小字母][744]                 |![r]
 [746][746l]  |[使用最小花费爬楼梯][746]                         |![r]
 [747][747l]  |[至少是其他数字两倍的最大数][747]                 |![r]
@@ -785,6 +786,7 @@
 [725]:./Medium/0725-Split%20Linked%20List%20in%20Parts/README_CN.md#725-分隔链表
 [728]:./Easy/0728-Self%20Dividing%20Numbers/README_CN.md#728-自除数
 [733]:./Easy/0733-Flood%20Fill/README_CN.md#733-图像渲染
+[739]:./Medium/0739-Daily%20Temperatures/README_CN.md#739-每日温度
 [744]:./Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README_CN.md#744-寻找比目标字母大的最小字母
 [746]:./Easy/0746-Min%20Cost%20Climbing%20Stairs/README_CN.md#746-使用最小花费爬楼梯
 [747]:./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README_CN.md#747-至少是其他数字两倍的最大数
