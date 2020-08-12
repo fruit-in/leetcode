@@ -503,6 +503,7 @@
 [r]:./ico/rust.ico
 [c]:./ico/c.png
 [j]:./ico/javascript.png
+[y]:./ico/ruby.ico
 
 [1]:./Easy/0001-Two%20Sum/README.md#1-two-sum
 [2]:./Medium/0002-Add%20Two%20Numbers/README.md#2-add-two-numbers
