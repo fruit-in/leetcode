@@ -497,6 +497,7 @@
 [1475][1475l]|[商品折扣后的最终价格][1475]                      |![r]
 [1476][1476l]|[子矩形查询][1476]                                |![r]
 [1480][1480l]|[一维数组的动态和][1480]                          |![y]&nbsp;&nbsp;![r]
+[1486][1486l]|[数组异或操作][1486]                              |![y]&nbsp;&nbsp;![r]
 
 
 [p]:./ico/python.ico
@@ -999,6 +1000,7 @@
 [1475]:./Easy/1475-Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/README_CN.md#1475-商品折扣后的最终价格
 [1476]:./Medium/1476-Subrectangle%20Queries/README_CN.md#1476-子矩形查询
 [1480]:./Easy/1480-Running%20Sum%20of%201d%20Array/README_CN.md#1480-一维数组的动态和
+[1486]:./Easy/1486-XOR%20Operation%20in%20an%20Array/README_CN.md#1486-数组异或操作
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1525,3 +1527,4 @@
 [1475l]:https://leetcode-cn.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1476l]:https://leetcode-cn.com/problems/subrectangle-queries/
 [1480l]:https://leetcode-cn.com/problems/running-sum-of-1d-array/
+[1486l]:https://leetcode-cn.com/problems/xor-operation-in-an-array/

@@ -497,6 +497,7 @@
 [1475][1475l]|[Final Prices With a Special Discount in a Shop][1475]                    |![r]
 [1476][1476l]|[Subrectangle Queries][1476]                                              |![r]
 [1480][1480l]|[Running Sum of 1d Array][1480]                                           |![y]&nbsp;&nbsp;![r]
+[1486][1486l]|[XOR Operation in an Array][1486]                                         |![y]&nbsp;&nbsp;![r]
 
 
 [p]:./ico/python.ico
@@ -999,6 +1000,7 @@
 [1475]:./Easy/1475-Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/README.md#1475-final-prices-with-a-special-discount-in-a-shop
 [1476]:./Medium/1476-Subrectangle%20Queries/README.md#1476-subrectangle-queries
 [1480]:./Easy/1480-Running%20Sum%20of%201d%20Array/README.md#1480-running-sum-of-1d-array
+[1486]:./Easy/1486-XOR%20Operation%20in%20an%20Array/README.md#1486-xor-operation-in-an-array
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1525,3 +1527,4 @@
 [1475l]:https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1476l]:https://leetcode.com/problems/subrectangle-queries/
 [1480l]:https://leetcode.com/problems/running-sum-of-1d-array/
+[1486l]:https://leetcode.com/problems/xor-operation-in-an-array/
