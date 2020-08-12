@@ -299,6 +299,7 @@
 [783][783l]  |[Minimum Distance Between BST Nodes][783]                                 |![p]
 [784][784l]  |[Letter Case Permutation][784]                                            |![p]
 [788][788l]  |[Rotated Digits][788]                                                     |![r]
+[789][789l]  |[Escape The Ghosts][789]                                                  |![y]&nbsp;&nbsp;![r]
 [796][796l]  |[Rotate String][796]                                                      |![r]
 [804][804l]  |[Unique Morse Code Words][804]                                            |![p]
 [806][806l]  |[Number of Lines To Write String][806]                                    |![p]
@@ -803,6 +804,7 @@
 [783]:./Easy/0783-Minimum%20Distance%20Between%20BST%20Nodes/README.md#783-minimum-distance-between-bst-nodes
 [784]:./Easy/0784-Letter%20Case%20Permutation/README.md#784-letter-case-permutation
 [788]:./Easy/0788-Rotated%20Digits/README.md#788-rotated-digits
+[789]:./Medium/0789-Escape%20The%20Ghosts/README.md#789-escape-the-ghosts
 [796]:./Easy/0796-Rotate%20String/README.md#796-rotate-string
 [804]:./Easy/0804-Unique%20Morse%20Code%20Words/README.md#804-unique-morse-code-words
 [806]:./Easy/0806-Number%20of%20Lines%20To%20Write%20String/README.md#806-number-of-lines-to-write-string
@@ -1330,6 +1332,7 @@
 [783l]:https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 [784l]:https://leetcode.com/problems/letter-case-permutation/
 [788l]:https://leetcode.com/problems/rotated-digits/
+[789l]:https://leetcode.com/problems/escape-the-ghosts/
 [796l]:https://leetcode.com/problems/rotate-string/
 [804l]:https://leetcode.com/problems/unique-morse-code-words/
 [806l]:https://leetcode.com/problems/number-of-lines-to-write-string/

@@ -299,6 +299,7 @@
 [783][783l]  |[二叉搜索树结点最小距离][783]                     |![p]
 [784][784l]  |[字母大小写全排列][784]                           |![p]
 [788][788l]  |[旋转数字][788]                                   |![r]
+[789][789l]  |[逃脱阻碍者][789]                                 |![y]&nbsp;&nbsp;![r]
 [796][796l]  |[旋转字符串][796]                                 |![r]
 [804][804l]  |[唯一摩尔斯密码词][804]                           |![p]
 [806][806l]  |[写字符串需要的行数][806]                         |![p]
@@ -803,6 +804,7 @@
 [783]:./Easy/0783-Minimum%20Distance%20Between%20BST%20Nodes/README_CN.md#783-二叉搜索树结点最小距离
 [784]:./Easy/0784-Letter%20Case%20Permutation/README_CN.md#784-字母大小写全排列
 [788]:./Easy/0788-Rotated%20Digits/README_CN.md#788-旋转数字
+[789]:./Medium/0789-Escape%20The%20Ghosts/README_CN.md#789-逃脱阻碍者
 [796]:./Easy/0796-Rotate%20String/README_CN.md#796-旋转字符串
 [804]:./Easy/0804-Unique%20Morse%20Code%20Words/README_CN.md#804-唯一摩尔斯密码词
 [806]:./Easy/0806-Number%20of%20Lines%20To%20Write%20String/README_CN.md#806-写字符串需要的行数
@@ -1330,6 +1332,7 @@
 [783l]:https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/
 [784l]:https://leetcode-cn.com/problems/letter-case-permutation/
 [788l]:https://leetcode-cn.com/problems/rotated-digits/
+[789l]:https://leetcode-cn.com/problems/escape-the-ghosts/
 [796l]:https://leetcode-cn.com/problems/rotate-string/
 [804l]:https://leetcode-cn.com/problems/unique-morse-code-words/
 [806l]:https://leetcode-cn.com/problems/number-of-lines-to-write-string/
