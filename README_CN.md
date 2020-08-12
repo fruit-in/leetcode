@@ -296,6 +296,7 @@
 [763][763l]  |[划分字母区间][763]                               |![r]
 [766][766l]  |[托普利茨矩阵][766]                               |![r]
 [771][771l]  |[宝石与石头][771]                                 |![r]
+[781][781l]  |[森林中的兔子][781]                               |![y]&nbsp;&nbsp;![r]
 [783][783l]  |[二叉搜索树结点最小距离][783]                     |![p]
 [784][784l]  |[字母大小写全排列][784]                           |![p]
 [788][788l]  |[旋转数字][788]                                   |![r]
@@ -801,6 +802,7 @@
 [763]:./Medium/0763-Partition%20Labels/README_CN.md#763-划分字母区间
 [766]:./Easy/0766-Toeplitz%20Matrix/README_CN.md#766-托普利茨矩阵
 [771]:./Easy/0771-Jewels%20and%20Stones/README_CN.md#771-宝石与石头
+[781]:./Medium/0781-Rabbits%20in%20Forest/README_CN.md#781-森林中的兔子
 [783]:./Easy/0783-Minimum%20Distance%20Between%20BST%20Nodes/README_CN.md#783-二叉搜索树结点最小距离
 [784]:./Easy/0784-Letter%20Case%20Permutation/README_CN.md#784-字母大小写全排列
 [788]:./Easy/0788-Rotated%20Digits/README_CN.md#788-旋转数字
@@ -1329,6 +1331,7 @@
 [766l]:https://leetcode-cn.com/problems/toeplitz-matrix/
 [771l]:https://leetcode-cn.com/problems/jewels-and-stones/
 [779l]:https://leetcode-cn.com/problems/k-th-symbol-in-grammar/
+[781l]:https://leetcode-cn.com/problems/rabbits-in-forest/
 [783l]:https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/
 [784l]:https://leetcode-cn.com/problems/letter-case-permutation/
 [788l]:https://leetcode-cn.com/problems/rotated-digits/

@@ -296,6 +296,7 @@
 [763][763l]  |[Partition Labels][763]                                                   |![r]
 [766][766l]  |[Toeplitz Matrix][766]                                                    |![r]
 [771][771l]  |[Jewels and Stones][771]                                                  |![r]
+[781][781l]  |[Rabbits in Forest][781]                                                  |![y]&nbsp;&nbsp;![r]
 [783][783l]  |[Minimum Distance Between BST Nodes][783]                                 |![p]
 [784][784l]  |[Letter Case Permutation][784]                                            |![p]
 [788][788l]  |[Rotated Digits][788]                                                     |![r]
@@ -801,6 +802,7 @@
 [763]:./Medium/0763-Partition%20Labels/README.md#763-partition-labels
 [766]:./Easy/0766-Toeplitz%20Matrix/README.md#766-toeplitz-matrix
 [771]:./Easy/0771-Jewels%20and%20Stones/README.md#771-jewels-and-stones
+[781]:./Medium/0781-Rabbits%20in%20Forest/README.md#781-rabbits-in-forest
 [783]:./Easy/0783-Minimum%20Distance%20Between%20BST%20Nodes/README.md#783-minimum-distance-between-bst-nodes
 [784]:./Easy/0784-Letter%20Case%20Permutation/README.md#784-letter-case-permutation
 [788]:./Easy/0788-Rotated%20Digits/README.md#788-rotated-digits
@@ -1329,6 +1331,7 @@
 [766l]:https://leetcode.com/problems/toeplitz-matrix/
 [771l]:https://leetcode.com/problems/jewels-and-stones/
 [779l]:https://leetcode.com/problems/k-th-symbol-in-grammar/
+[781l]:https://leetcode.com/problems/rabbits-in-forest/
 [783l]:https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 [784l]:https://leetcode.com/problems/letter-case-permutation/
 [788l]:https://leetcode.com/problems/rotated-digits/
