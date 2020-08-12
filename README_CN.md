@@ -505,6 +505,7 @@
 [c]:./ico/c.png
 [j]:./ico/javascript.png
 [y]:./ico/ruby.ico
+[k]:./ico/kotlin.ico
 
 [1]:./Easy/0001-Two%20Sum/README_CN.md#1-两数之和
 [2]:./Medium/0002-Add%20Two%20Numbers/README_CN.md#2-两数相加
