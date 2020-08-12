@@ -27,6 +27,21 @@
 * `1 <= nums.length <= 1000`
 * `-10^6 <= nums[i] <= 10^6`
 
+## 题解 (Ruby)
+
+### 1. 前缀和
+```Ruby
+# @param {Integer[]} nums
+# @return {Integer[]}
+def running_sum(nums)
+    for i in 1...nums.length
+        nums[i] += nums[i - 1]
+    end
+
+    return nums
+end
+```
+
 ## 题解 (Rust)
 
 ### 1. 前缀和

@@ -27,6 +27,21 @@ Return the running sum of `nums`.
 * `1 <= nums.length <= 1000`
 * `-10^6 <= nums[i] <= 10^6`
 
+## Solutions (Ruby)
+
+### 1. Prefix Sum
+```Ruby
+# @param {Integer[]} nums
+# @return {Integer[]}
+def running_sum(nums)
+    for i in 1...nums.length
+        nums[i] += nums[i - 1]
+    end
+
+    return nums
+end
+```
+
 ## Solutions (Rust)
 
 ### 1. Prefix Sum

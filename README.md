@@ -496,7 +496,7 @@
 [1470][1470l]|[Shuffle the Array][1470]                                                 |![r]
 [1475][1475l]|[Final Prices With a Special Discount in a Shop][1475]                    |![r]
 [1476][1476l]|[Subrectangle Queries][1476]                                              |![r]
-[1480][1480l]|[Running Sum of 1d Array][1480]                                           |![r]
+[1480][1480l]|[Running Sum of 1d Array][1480]                                           |![y]&nbsp;&nbsp;![r]
 
 
 [p]:./ico/python.ico
