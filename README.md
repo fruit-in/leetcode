@@ -410,6 +410,7 @@
 [1123][1123l]|[Lowest Common Ancestor of Deepest Leaves][1123]                          |![p]
 [1128][1128l]|[Number of Equivalent Domino Pairs][1128]                                 |![r]
 [1137][1137l]|[N-th Tribonacci Number][1137]                                            |![r]
+[1146][1146l]|[Snapshot Array][1146]                                                    |![y]&nbsp;&nbsp;![r]
 [1154][1154l]|[Day of the Year][1154]                                                   |![r]
 [1160][1160l]|[Find Words That Can Be Formed by Characters][1160]                       |![p]
 [1161][1161l]|[Maximum Level Sum of a Binary Tree][1161]                                |![p]
@@ -916,6 +917,7 @@
 [1123]:./Medium/1123-Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/README.md#1123-lowest-common-ancestor-of-deepest-leaves
 [1128]:./Easy/1128-Number%20of%20Equivalent%20Domino%20Pairs/README.md#1128-number-of-equivalent-domino-pairs
 [1137]:./Easy/1137-N-th%20Tribonacci%20Number/README.md#1137-n-th-tribonacci-number
+[1146]:./Medium/1146-Snapshot%20Array/README.md#1146-snapshot-array
 [1154]:./Easy/1154-Day%20of%20the%20Year/README.md#1154-day-of-the-year
 [1160]:./Easy/1160-Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/README.md#1160-find-words-that-can-be-formed-by-characters
 [1161]:./Medium/1161-Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/README.md#1161-maximum-level-sum-of-a-binary-tree
@@ -1445,6 +1447,7 @@
 [1123l]:https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
 [1128l]:https://leetcode.com/problems/number-of-equivalent-domino-pairs/
 [1137l]:https://leetcode.com/problems/n-th-tribonacci-number/
+[1146l]:https://leetcode.com/problems/snapshot-array/
 [1154l]:https://leetcode.com/problems/day-of-the-year/
 [1160l]:https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 [1161l]:https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/

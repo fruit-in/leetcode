@@ -410,6 +410,7 @@
 [1123][1123l]|[最深叶节点的最近公共祖先][1123]                  |![p]
 [1128][1128l]|[等价多米诺骨牌对的数量][1128]                    |![r]
 [1137][1137l]|[第 N 个泰波那契数][1137]                         |![r]
+[1146][1146l]|[快照数组][1146]                                  |![y]&nbsp;&nbsp;![r]
 [1154][1154l]|[一年中的第几天][1154]                            |![r]
 [1160][1160l]|[拼写单词][1160]                                  |![p]        
 [1161][1161l]|[最大层内元素和][1161]                            |![p]
@@ -916,6 +917,7 @@
 [1123]:./Medium/1123-Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/README_CN.md#1123-最深叶节点的最近公共祖先
 [1128]:./Easy/1128-Number%20of%20Equivalent%20Domino%20Pairs/README_CN.md#1128-等价多米诺骨牌对的数量
 [1137]:./Easy/1137-N-th%20Tribonacci%20Number/README_CN.md#1137-第-n-个泰波那契数
+[1146]:./Medium/1146-Snapshot%20Array/README_CN.md#1146-快照数组
 [1154]:./Easy/1154-Day%20of%20the%20Year/README_CN.md#1154-一年中的第几天
 [1160]:./Easy/1160-Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/README_CN.md#1160-拼写单词
 [1161]:./Medium/1161-Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/README_CN.md#1161-最大层内元素和
@@ -1445,6 +1447,7 @@
 [1123l]:https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves/
 [1128l]:https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/
 [1137l]:https://leetcode-cn.com/problems/n-th-tribonacci-number/
+[1146l]:https://leetcode-cn.com/problems/snapshot-array/
 [1154l]:https://leetcode-cn.com/problems/day-of-the-year/
 [1160l]:https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/
 [1161l]:https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree/
