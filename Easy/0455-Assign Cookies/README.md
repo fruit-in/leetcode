@@ -23,6 +23,32 @@ You have 3 cookies and their sizes are big enough to gratify all of the children
 You need to output 2.
 </pre>
 
+## Solution (Ruby)
+
+### 1. Greedy
+```Ruby
+# @param {Integer[]} g
+# @param {Integer[]} s
+# @return {Integer}
+def find_content_children(g, s)
+    i, j = 0, 0
+    ret = 0
+
+    g.sort!
+    s.sort!
+
+    while i < g.length and j < s.length
+        if s[j] >= g[i]
+            ret += 1
+            i += 1
+        end
+        j += 1
+    end
+
+    return ret
+end
+```
+
 ## Solutions (Rust)
 
 ### 1. Greedy
