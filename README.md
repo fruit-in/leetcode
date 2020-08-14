@@ -435,7 +435,7 @@
 [1260][1260l]|[Shift 2D Grid][1260]                                                     |![r]
 [1261][1261l]|[Find Elements in a Contaminated Binary Tree][1261]                       |![p]
 [1262][1262l]|[Greatest Sum Divisible by Three][1262]                                   |![r]
-[1266][1266l]|[Minimum Time Visiting All Points][1266]                                  |![r]
+[1266][1266l]|[Minimum Time Visiting All Points][1266]                                  |![y]&nbsp;&nbsp;![r]
 [1275][1275l]|[Find Winner on a Tic Tac Toe Game][1275]                                 |![r]
 [1281][1281l]|[Subtract the Product and Sum of Digits of an Integer][1281]              |![r]
 [1282][1282l]|[Group the People Given the Group Size They Belong To][1282]              |![r]
