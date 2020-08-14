@@ -12,6 +12,29 @@ Now, given an **integer** n, write a function that returns true when it is a per
 
 **Note:** The input number **n** will not exceed 100,000,000. (1e8)
 
+## Solutions (Ruby)
+
+### 1. Solution
+```Ruby
+# @param {Integer} num
+# @return {Boolean}
+def check_perfect_number(num)
+    return false if num <= 1
+
+    sum = 1
+    i = 2
+
+    while i * i < num
+        sum += i + num / i if num % i == 0
+        i += 1
+    end
+
+    sum += i if i * i == num
+
+    return sum == num
+end
+```
+
 ## Solutions (Rust)
 
 ### 1. Solution

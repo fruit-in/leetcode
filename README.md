@@ -209,7 +209,7 @@
 [501][501l]  |[Find Mode in Binary Search Tree][501]                                    |![p]
 [504][504l]  |[Base 7][504]                                                             |![p]
 [506][506l]  |[Relative Ranks][506]                                                     |![r]
-[507][507l]  |[Perfect Number][507]                                                     |![r]
+[507][507l]  |[Perfect Number][507]                                                     |![y]&nbsp;&nbsp;![r]
 [508][508l]  |[Most Frequent Subtree Sum][508]                                          |![p]
 [509][509l]  |[Fibonacci Number][509]                                                   |![r]
 [513][513l]  |[Find Bottom Left Tree Value][513]                                        |![p]

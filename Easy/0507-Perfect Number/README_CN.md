@@ -12,6 +12,29 @@
 
 **提示:** 输入的数字 **```n```** 不会超过 100,000,000. (1e8)
 
+## 题解 (Ruby)
+
+### 1. 题解
+```Ruby
+# @param {Integer} num
+# @return {Boolean}
+def check_perfect_number(num)
+    return false if num <= 1
+
+    sum = 1
+    i = 2
+
+    while i * i < num
+        sum += i + num / i if num % i == 0
+        i += 1
+    end
+
+    sum += i if i * i == num
+
+    return sum == num
+end
+```
+
 ## 题解 (Rust)
 
 ### 1. 题解
