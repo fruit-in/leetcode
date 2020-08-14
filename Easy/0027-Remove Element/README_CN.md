@@ -42,6 +42,27 @@ for (int i = 0; i < len; i++) {
 }
 </pre>
 
+## 题解 (Ruby)
+
+### 1. 双指针
+```Ruby
+# @param {Integer[]} nums
+# @param {Integer} val
+# @return {Integer}
+def remove_element(nums, val)
+    ret = 0
+
+    for i in 0...nums.length
+        if nums[i] != val
+            nums[ret] = nums[i]
+            ret += 1
+        end
+    end
+
+    return ret
+end
+```
+
 ## 题解 (Rust)
 
 ### 1. 双指针

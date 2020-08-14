@@ -22,7 +22,7 @@
 [22][22l]    |[Generate Parentheses][22]                                                |![r]
 [24][24l]    |[Swap Nodes in Pairs][24]                                                 |![p]
 [26][26l]    |[Remove Duplicates from Sorted Array][26]                                 |![r]
-[27][27l]    |[Remove Element][27]                                                      |![r]
+[27][27l]    |[Remove Element][27]                                                      |![y]&nbsp;&nbsp;![r]
 [28][28l]    |[Implement strStr()][28]                                                  |![p]
 [33][33l]    |[Search in Rotated Sorted Array][33]                                      |![r]
 [35][35l]    |[Search Insert Position][35]                                              |![p]
