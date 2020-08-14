@@ -473,7 +473,7 @@
 [1380][1380l]|[Lucky Numbers in a Matrix][1380]                                         |![r]
 [1385][1385l]|[Find the Distance Value Between Two Arrays][1385]                        |![r]
 [1387][1387l]|[Sort Integers by The Power Value][1387]                                  |![r]
-[1389][1389l]|[Create Target Array in the Given Order][1389]                            |![r]
+[1389][1389l]|[Create Target Array in the Given Order][1389]                            |![y]&nbsp;&nbsp;![r]
 [1394][1394l]|[Find Lucky Integer in an Array][1394]                                    |![r]
 [1395][1395l]|[Count Number of Teams][1395]                                             |![r]
 [1396][1396l]|[Design Underground System][1396]                                         |![r]
