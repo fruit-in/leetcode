@@ -18,6 +18,36 @@ Return the intersection of these two interval lists.
 2. ```0 <= B.length < 1000```
 3. ```0 <= A[i].start, A[i].end, B[i].start, B[i].end < 10^9```
 
+## Solutions (Ruby)
+
+### 1. Solution
+```Ruby
+# @param {Integer[][]} a
+# @param {Integer[][]} b
+# @return {Integer[][]}
+def interval_intersection(a, b)
+    i, j = 0, 0
+    ret = []
+
+    while i < a.length and j < b.length
+        max_l = [a[i][0], b[j][0]].max
+        min_r = [a[i][1], b[j][1]].min
+
+        if min_r >= max_l
+            ret.push([max_l, min_r])
+        end
+
+        if min_r == a[i][1]
+            i += 1
+        else
+            j += 1
+        end
+    end
+
+    return ret
+end
+```
+
 ## Solutions (Rust)
 
 ### 1. Solution

@@ -368,7 +368,7 @@
 [976][976l]  |[Largest Perimeter Triangle][976]                                         |![r]
 [977][977l]  |[Squares of a Sorted Array][977]                                          |![r]
 [985][985l]  |[Sum of Even Numbers After Queries][985]                                  |![p]
-[986][986l]  |[Interval List Intersections][986]                                        |![r]
+[986][986l]  |[Interval List Intersections][986]                                        |![y]&nbsp;&nbsp;![r]
 [989][989l]  |[Add to Array-Form of Interger][989]                                      |![p]
 [991][991l]  |[Broken Calculator][991]                                                  |![r]
 [993][993l]  |[Cousins in Binary Tree][993]                                             |![p]
