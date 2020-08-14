@@ -115,7 +115,7 @@
 [217][217l]  |[Contains Duplicate][217]                                                 |![r]
 [219][219l]  |[Contains Duplicate II][219]                                              |![r]
 [220][220l]  |[Contains Duplicate III][220]                                             |![r]
-[223][223l]  |[Rectangle Area][223]                                                     |![r]
+[223][223l]  |[Rectangle Area][223]                                                     |![y]&nbsp;&nbsp;![r]
 [225][225l]  |[Implement Stack using Queues][225]                                       |![r]
 [226][226l]  |[Invert Binary Tree][226]                                                 |![p]
 [231][231l]  |[Power of Two][231]                                                       |![r]
