@@ -481,6 +481,7 @@
 [1401][1401l]|[圆和矩形是否有重叠][1401]                        |![r]
 [1403][1403l]|[非递增顺序的最小子序列][1403]                    |![r]
 [1408][1408l]|[数组中的字符串匹配][1408]                        |![r]
+[1409][1409l]|[查询带键的排列][1409]                            |![y]&nbsp;&nbsp;![r]&nbsp;&nbsp;![k]
 [1410][1410l]|[HTML 实体解析器][1410]                           |![r]
 [1413][1413l]|[逐步求和得到正数的最小值][1413]                  |![r]
 [1417][1417l]|[重新格式化字符串][1417]                          |![r]
@@ -988,6 +989,7 @@
 [1401]:./Medium/1401-Circle%20and%20Rectangle%20Overlapping/README_CN.md#1401-圆和矩形是否有重叠
 [1403]:./Easy/1403-Minimum%20Subsequence%20in%20Non-Increasing%20Order/README_CN.md#1403-非递增顺序的最小子序列
 [1408]:./Easy/1408-String%20Matching%20in%20an%20Array/README_CN.md#1408-数组中的字符串匹配
+[1409]:./Medium/1409-Queries%20on%20a%20Permutation%20With%20Key/README_CN.md#1409-查询带键的排列
 [1410]:./Medium/1410-HTML%20Entity%20Parser/README_CN.md#1410-html-实体解析器
 [1413]:./Easy/1413-Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/README_CN.md#1413-逐步求和得到正数的最小值
 [1417]:./Easy/1417-Reformat%20The%20String/README_CN.md#1417-重新格式化字符串
@@ -1518,6 +1520,7 @@
 [1401l]:https://leetcode-cn.com/problems/circle-and-rectangle-overlapping/
 [1403l]:https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/
 [1408l]:https://leetcode-cn.com/problems/string-matching-in-an-array/
+[1409l]:https://leetcode-cn.com/problems/queries-on-a-permutation-with-key/
 [1410l]:https://leetcode-cn.com/problems/html-entity-parser/
 [1413l]:https://leetcode-cn.com/problems/minimum-value-to-get-positive-step-by-step-sum/
 [1417l]:https://leetcode-cn.com/problems/reformat-the-string/
