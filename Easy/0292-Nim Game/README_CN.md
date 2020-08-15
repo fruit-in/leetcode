@@ -11,6 +11,17 @@
      因为无论你拿走 1 块、2 块 还是 3 块石头，最后一块石头总是会被你的朋友拿走。
 </pre>
 
+## 题解 (Ruby)
+
+### 1. 题解
+```Ruby
+# @param {Integer} n
+# @return {Boolean}
+def can_win_nim(n)
+    return n % 4 != 0
+end
+```
+
 ## 题解 (Rust)
 
 ### 1. 题解

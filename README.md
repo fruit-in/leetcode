@@ -139,7 +139,7 @@
 [287][287l]  |[Find the Duplicate Number][287]                                          |![r]
 [289][289l]  |[Game of Life][289]                                                       |![r]
 [290][290l]  |[Word Pattern][290]                                                       |![p]
-[292][292l]  |[Nim Game][292]                                                           |![r]
+[292][292l]  |[Nim Game][292]                                                           |![y]&nbsp;&nbsp;![r]
 [299][299l]  |[Bulls and Cows][299]                                                     |![p]
 [303][303l]  |[Range Sum Query - Immutable][303]                                        |![p]
 [313][313l]  |[Super Ugly Number][313]                                                  |![r]

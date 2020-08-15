@@ -12,6 +12,17 @@ If there are 4 stones in the heap, then you will never win the game;
 No matter 1, 2, or 3 stones you remove, the last stone will always be removed by your friend.
 </pre>
 
+## Solutions (Ruby)
+
+### 1. Solution
+```Ruby
+# @param {Integer} n
+# @return {Boolean}
+def can_win_nim(n)
+    return n % 4 != 0
+end
+```
+
 ## Solutions (Rust)
 
 ### 1. Solution
