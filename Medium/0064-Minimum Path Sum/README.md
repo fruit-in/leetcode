@@ -15,6 +15,31 @@ Given a *m* x *n* grid filled with non-negative numbers, find a path from top le
 <strong>Explanation:</strong> Because the path 1→3→1→1→1 minimizes the sum.
 </pre>
 
+## Solutions (Ruby)
+
+### 1. Dynamic Programming
+```Ruby
+# @param {Integer[][]} grid
+# @return {Integer}
+def min_path_sum(grid)
+    m, n = grid.length, grid[0].length
+
+    for i in 0...m
+        for j in 0...n
+            if i == 0 and j != 0
+                grid[i][j] += grid[i][j - 1]
+            elsif i != 0 and j == 0
+                grid[i][j] += grid[i - 1][j]
+            elsif i != 0 and j != 0
+                grid[i][j] += [grid[i][j - 1], grid[i - 1][j]].min
+            end
+        end
+    end
+
+    return grid[m - 1][n - 1]
+end
+```
+
 ## Solutions (Rust)
 
 ### 1. Dynamic Programming

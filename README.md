@@ -41,7 +41,7 @@
 [61][61l]    |[Rotate List][61]                                                         |![p]
 [62][62l]    |[Unique Paths][62]                                                        |![r]
 [63][63l]    |[Unique Paths II][63]                                                     |![r]
-[64][64l]    |[Minimum Path Sum][64]                                                    |![r]
+[64][64l]    |[Minimum Path Sum][64]                                                    |![y]&nbsp;&nbsp;![r]
 [66][66l]    |[Plus One][66]                                                            |![r]
 [67][67l]    |[Add Binary][67]                                                          |![p]
 [69][69l]    |[Sqrt(x)][69]                                                             |![r]
