@@ -27,7 +27,7 @@
 [33][33l]    |[Search in Rotated Sorted Array][33]                                      |![r]
 [35][35l]    |[Search Insert Position][35]                                              |![p]
 [36][36l]    |[Valid Sudoku][36]                                                        |![r]
-[38][38l]    |[Count and Say][38]                                                       |![p]
+[38][38l]    |[Count and Say][38]                                                       |![p]&nbsp;&nbsp;![y]
 [46][46l]    |[Permutations][46]                                                        |![r]
 [47][47l]    |[Permutations II][47]                                                     |![r]
 [48][48l]    |[Rotate Image][48]                                                        |![r]
