@@ -4,7 +4,7 @@
 |#           |Title                                                                     |Languages
 -------------|--------------------------------------------------------------------------|:----------------------------------:
 [1][1l]      |[Two Sum][1]                                                              |![p]&nbsp;&nbsp;![r]&nbsp;&nbsp;![c]
-[2][2l]      |[Add Two Numbers][2]                                                      |![p]
+[2][2l]      |[Add Two Numbers][2]                                                      |![p]&nbsp;&nbsp;![y]
 [3][3l]      |[Longest Substring Without Repeating Characters][3]                       |![r]
 [4][4l]      |[Median of Two Sorted Arrays][4]                                          |![r]
 [6][6l]      |[ZigZag Conversion][6]                                                    |![p]
