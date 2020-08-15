@@ -321,7 +321,7 @@
 [849][849l]  |[Maximize Distance to Closest Person][849]                                |![r]
 [852][852l]  |[Peak Index in a Mountain Array][852]                                     |![r]
 [853][853l]  |[Car Fleet][853]                                                          |![r]
-[858][858l]  |[Mirror Reflection][858]                                                  |![r]
+[858][858l]  |[Mirror Reflection][858]                                                  |![y]&nbsp;&nbsp;![r]
 [859][859l]  |[Buddy Strings][859]                                                      |![p]
 [860][860l]  |[Lemonade Change][860]                                                    |![r]
 [865][865l]  |[Smallest Subtree with all the Deepest Nodes][865]                        |![p]
