@@ -504,6 +504,7 @@
 [1480][1480l]|[一维数组的动态和][1480]                          |![y]&nbsp;&nbsp;![r]
 [1486][1486l]|[数组异或操作][1486]                              |![y]&nbsp;&nbsp;![r]
 [1491][1491l]|[去掉最低工资和最高工资后的工资平均值][1491]      |![y]&nbsp;&nbsp;![r]
+[1496][1496l]|[判断路径是否相交][1496]                          |![r]
 
 
 [p]:./ico/python.ico
@@ -1014,6 +1015,7 @@
 [1480]:./Easy/1480-Running%20Sum%20of%201d%20Array/README_CN.md#1480-一维数组的动态和
 [1486]:./Easy/1486-XOR%20Operation%20in%20an%20Array/README_CN.md#1486-数组异或操作
 [1491]:./Easy/1491-Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README_CN.md#1491-去掉最低工资和最高工资后的工资平均值
+[1496]:./Easy/1496-Path%20Crossing/README_CN.md#1496-判断路径是否相交
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1547,3 +1549,4 @@
 [1480l]:https://leetcode-cn.com/problems/running-sum-of-1d-array/
 [1486l]:https://leetcode-cn.com/problems/xor-operation-in-an-array/
 [1491l]:https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+[1496l]:https://leetcode-cn.com/problems/path-crossing/
