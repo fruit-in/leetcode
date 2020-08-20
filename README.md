@@ -76,7 +76,7 @@
 [111][111l]  |[Minimum Depth of Binary Tree][111]                                       |![p]
 [112][112l]  |[Path Sum][112]                                                           |![p]
 [113][113l]  |[Path Sum II][113]                                                        |![p]
-[114][114l]  |[Flatten Binary Tree to Linked List][114]                                 |![p]
+[114][114l]  |[Flatten Binary Tree to Linked List][114]                                 |![p]&nbsp;&nbsp;![y]
 [118][118l]  |[Pascal's Triangle][118]                                                  |![p]
 [119][119l]  |[Pascal's Triangle II][119]                                               |![p]
 [120][120l]  |[Triangle][120]                                                           |![r]
