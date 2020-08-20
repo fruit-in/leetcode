@@ -309,7 +309,7 @@
 [808][808l]  |[Soup Servings][808]                                                      |![r]
 [811][811l]  |[Subdomain Visit Count][811]                                              |![r]
 [812][812l]  |[Largest Triangle Area][812]                                              |![r]
-[814][814l]  |[Binary Tree Pruning][814]                                                |![p]
+[814][814l]  |[Binary Tree Pruning][814]                                                |![p]&nbsp;&nbsp;![y]
 [819][819l]  |[Most Common Word][819]                                                   |![p]
 [821][821l]  |[Shortest Distance to a Character][821]                                   |![p]
 [824][824l]  |[Goat Latin][824]                                                         |![p]
