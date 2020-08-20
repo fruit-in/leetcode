@@ -16,6 +16,31 @@ HammingDistance(4, 14) + HammingDistance(4, 2) + HammingDistance(14, 2) = 2 + 2 
 1. 数组中元素的范围为从 `0`到 `10^9`。
 2. 数组的长度不超过 `10^4`。
 
+## 题解 (Ruby)
+
+### 1. 题解
+```Ruby
+# @param {Integer[]} nums
+# @return {Integer}
+def total_hamming_distance(nums)
+    ret = 0
+
+    for i in 0...30
+        zeros, ones = 0, 0
+        for num in nums
+            if (1 << i) & num == 0
+                zeros += 1
+            else
+                ones += 1
+            end
+        end
+        ret += zeros * ones
+    end
+
+    return ret
+end
+```
+
 ## 题解 (Rust)
 
 ### 1. 题解

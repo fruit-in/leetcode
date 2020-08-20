@@ -16,6 +16,31 @@ HammingDistance(4, 14) + HammingDistance(4, 2) + HammingDistance(14, 2) = 2 + 2 
 1. Elements of the given array are in the range of `0` to `10^9`
 2. Length of the array will not exceed `10^4`.
 
+## Solutions (Ruby)
+
+### 1. Solution
+```Ruby
+# @param {Integer[]} nums
+# @return {Integer}
+def total_hamming_distance(nums)
+    ret = 0
+
+    for i in 0...30
+        zeros, ones = 0, 0
+        for num in nums
+            if (1 << i) & num == 0
+                zeros += 1
+            else
+                ones += 1
+            end
+        end
+        ret += zeros * ones
+    end
+
+    return ret
+end
+```
+
 ## Solutions (Rust)
 
 ### 1. Solution

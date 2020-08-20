@@ -198,7 +198,7 @@
 [474][474l]  |[Ones and Zeroes][474]                                                    |![r]
 [475][475l]  |[Heaters][475]                                                            |![r]
 [476][476l]  |[Number Complement][476]                                                  |![r]
-[477][477l]  |[Total Hamming Distance][477]                                             |![r]
+[477][477l]  |[Total Hamming Distance][477]                                             |![y]&nbsp;&nbsp;![r]
 [481][481l]  |[Magical String][481]                                                     |![r]
 [482][482l]  |[License Key Formatting][482]                                             |![p]
 [485][485l]  |[Max Consecutive Ones][485]                                               |![r]
