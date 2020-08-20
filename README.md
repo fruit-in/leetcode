@@ -108,7 +108,7 @@
 [198][198l]  |[House Robber][198]                                                       |![r]
 [199][199l]  |[Binary Tree Right Side View][199]                                        |![p]
 [201][201l]  |[Bitwise AND of Numbers Range][201]                                       |![r]
-[202][202l]  |[Happy Number][202]                                                       |![r]
+[202][202l]  |[Happy Number][202]                                                       |![y]&nbsp;&nbsp;![r]
 [203][203l]  |[Remove Linked List Elements][203]                                        |![p]
 [204][204l]  |[Count Primes][204]                                                       |![r]
 [205][205l]  |[Isomorphic Strings][205]                                                 |![p]

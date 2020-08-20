@@ -14,6 +14,29 @@ A happy number is a number defined by the following process: Starting with any p
 1<sup>2</sup> + 0<sup>2</sup> + 0<sup>2</sup> = 1
 </pre>
 
+## Solutions (Ruby)
+
+### 1. Set
+```Ruby
+# @param {Integer} n
+# @return {Boolean}
+def is_happy(n)
+    set = Set.new
+
+    while not set.include?(n)
+        set.add(n)
+        new_n = 0
+        while n > 0
+            new_n += (n % 10) ** 2
+            n /= 10
+        end
+        n = new_n
+    end
+
+    return n == 1
+end
+```
+
 ## Solutions (Rust)
 
 ### 1. Set
