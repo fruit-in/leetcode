@@ -62,7 +62,7 @@
 [93][93l]    |[Restore IP Addresses][93]                                                |![r]
 [94][94l]    |[Binary Tree Inorder Traversal][94]                                       |![p]&nbsp;&nbsp;![r]
 [95][95l]    |[Unique Binary Search Trees II][95]                                       |![p]
-[96][96l]    |[Unique Binary Search Trees][96]                                          |![r]
+[96][96l]    |[Unique Binary Search Trees][96]                                          |![y]&nbsp;&nbsp;![r]
 [98][98l]    |[Validate Binary Search Tree][98]                                         |![p]
 [100][100l]  |[Same Tree][100]                                                          |![p]
 [101][101l]  |[Symmetric Tree][101]                                                     |![p]
