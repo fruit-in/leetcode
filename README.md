@@ -426,7 +426,7 @@
 [1209][1209l]|[Remove All Adjacent Duplicates in String II][1209]                       |![r]
 [1217][1217l]|[Play with Chips][1217]                                                   |![r]
 [1220][1220l]|[Count Vowels Permutation][1220]                                          |![r]
-[1221][1221l]|[Split a String in Balanced Strings][1221]                                |![r]
+[1221][1221l]|[Split a String in Balanced Strings][1221]                                |![y]&nbsp;&nbsp;![r]
 [1222][1222l]|[Queens That Can Attack the King][1222]                                   |![r]
 [1223][1223l]|[Dice Roll Simulation][1223]                                              |![r]
 [1232][1232l]|[Check If It Is a Straight Line][1232]                                    |![r]
