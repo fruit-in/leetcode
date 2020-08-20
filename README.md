@@ -57,6 +57,7 @@
 [88][88l]    |[Merge Sorted Array][88]                                                  |![p]&nbsp;&nbsp;![y]
 [89][89l]    |[Gray Code][89]                                                           |![r]
 [90][90l]    |[Subsets II][90]                                                          |![r]
+[91][91l]    |[Decode Ways][91]                                                         |![p]&nbsp;&nbsp;![y]
 [92][92l]    |[Reverse Linked List II][92]                                              |![p]
 [93][93l]    |[Restore IP Addresses][93]                                                |![r]
 [94][94l]    |[Binary Tree Inorder Traversal][94]                                       |![p]&nbsp;&nbsp;![r]
@@ -569,6 +570,7 @@
 [88]:./Easy/0088-Merge%20Sorted%20Array/README.md#88-merge-sorted-array
 [89]:./Medium/0089-Gray%20Code/README.md#89-gray-code
 [90]:./Medium/0090-Subsets%20II/README.md#90-subsets-ii
+[91]:./Medium/0091-Decode%20Ways/README.md#91-decode-ways
 [92]:./Medium/0092-Reverse%20Linked%20List%20II/README.md#92-reverse-linked-list-ii
 [93]:./Medium/0093-Restore%20IP%20Addresses/README.md#93-restore-ip-addresses
 [94]:./Medium/0094-Binary%20Tree%20Inorder%20Traversal/README.md#94-binary-tree-inorder-traversal
@@ -1077,6 +1079,7 @@
 [88l]:https://leetcode.com/problems/merge-sorted-array/
 [89l]:https://leetcode.com/problems/gray-code/
 [90l]:https://leetcode.com/problems/subsets-ii/
+[91l]:https://leetcode.com/problems/decode-ways/
 [92l]:https://leetcode.com/problems/reverse-linked-list-ii/
 [93l]:https://leetcode.com/problems/restore-ip-addresses/
 [94l]:https://leetcode.com/problems/binary-tree-inorder-traversal/

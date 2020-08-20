@@ -57,6 +57,7 @@
 [88][88l]    |[合并两个有序数组][88]                            |![p]&nbsp;&nbsp;![y]
 [89][89l]    |[格雷编码][89]                                    |![r]
 [90][90l]    |[子集 II][90]                                     |![r]
+[91][91l]    |[解码方法][91]                                    |![p]&nbsp;&nbsp;![y]
 [92][92l]    |[反转链表 II][92]                                 |![p]
 [93][93l]    |[复原IP地址][93]                                  |![r]
 [94][94l]    |[二叉树的中序遍历][94]                            |![p]&nbsp;&nbsp;![r]
@@ -569,6 +570,7 @@
 [88]:./Easy/0088-Merge%20Sorted%20Array/README_CN.md#88-合并两个有序数组
 [89]:./Medium/0089-Gray%20Code/README_CN.md#89-格雷编码
 [90]:./Medium/0090-Subsets%20II/README_CN.md#90-子集-ii
+[91]:./Medium/0091-Decode%20Ways/README_CN.md#91-解码方法
 [92]:./Medium/0092-Reverse%20Linked%20List%20II/README_CN.md#92-反转链表-ii
 [93]:./Medium/0093-Restore%20IP%20Addresses/README_CN.md#93-复原ip地址
 [94]:./Medium/0094-Binary%20Tree%20Inorder%20Traversal/README_CN.md#94-二叉树的中序遍历
@@ -1077,6 +1079,7 @@
 [88l]:https://leetcode-cn.com/problems/merge-sorted-array/
 [89l]:https://leetcode-cn.com/problems/gray-code/
 [90l]:https://leetcode-cn.com/problems/subsets-ii/
+[91l]:https://leetcode-cn.com/problems/decode-ways/
 [92l]:https://leetcode-cn.com/problems/reverse-linked-list-ii/
 [93l]:https://leetcode-cn.com/problems/restore-ip-addresses/
 [94l]:https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
