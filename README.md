@@ -128,7 +128,7 @@
 [257][257l]  |[Binary Tree Paths][257]                                                  |![p]
 [258][258l]  |[Add Digits][258]                                                         |![r]
 [260][260l]  |[Single Number III][260]                                                  |![r]
-[263][263l]  |[Ugly Number][263]                                                        |![r]
+[263][263l]  |[Ugly Number][263]                                                        |![y]&nbsp;&nbsp;![r]
 [264][264l]  |[Ugly Number II][264]                                                     |![r]
 [268][268l]  |[Missing Number][268]                                                     |![r]
 [274][274l]  |[H-Index][274]                                                            |![r]

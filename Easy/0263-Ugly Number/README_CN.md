@@ -28,6 +28,29 @@
 1. ```1``` 是丑数。
 2. 输入不会超过 32 位有符号整数的范围: [−2<sup>31</sup>,  2<sup>31</sup> − 1]。
 
+## 题解 (Ruby)
+
+### 1. 题解
+```Ruby
+# @param {Integer} num
+# @return {Boolean}
+def is_ugly(num)
+    if num == 0
+        return false
+    elsif num == 1
+        return true
+    elsif num % 2 == 0
+        return is_ugly(num / 2)
+    elsif num % 3 == 0
+        return is_ugly(num / 3)
+    elsif num % 5 == 0
+        return is_ugly(num / 5)
+    else
+        return false
+    end
+end
+```
+
 ## 题解 (Rust)
 
 ### 1. 题解

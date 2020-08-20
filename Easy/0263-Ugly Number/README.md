@@ -28,6 +28,29 @@ Ugly numbers are **positive numbers** whose prime factors only include <code>2, 
 1. <code>1</code> is typically treated as an ugly number.
 2. Input is within the 32-bit signed integer range: [−2<sup>31</sup>,  2<sup>31</sup> − 1].
 
+## Solutions (Ruby)
+
+### 1. Solution
+```Ruby
+# @param {Integer} num
+# @return {Boolean}
+def is_ugly(num)
+    if num == 0
+        return false
+    elsif num == 1
+        return true
+    elsif num % 2 == 0
+        return is_ugly(num / 2)
+    elsif num % 3 == 0
+        return is_ugly(num / 3)
+    elsif num % 5 == 0
+        return is_ugly(num / 5)
+    else
+        return false
+    end
+end
+```
+
 ## Solutions (Rust)
 
 ### 1. Solution
