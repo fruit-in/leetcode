@@ -97,7 +97,7 @@
 [162][162l]  |[Find Peak Element][162]                                                  |![r]
 [165][165l]  |[Compare Version Numbers][165]                                            |![r]
 [167][167l]  |[Two Sum II - Input array is sorted][167]                                 |![r]
-[168][168l]  |[Excel Sheet Column Title][168]                                           |![p]
+[168][168l]  |[Excel Sheet Column Title][168]                                           |![p]&nbsp;&nbsp;![y]
 [169][169l]  |[Majority Element][169]                                                   |![r]
 [171][171l]  |[Excel Sheet Column Number][171]                                          |![p]
 [172][172l]  |[Factorial Trailing Zeroes][172]                                          |![r]

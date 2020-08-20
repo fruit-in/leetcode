@@ -44,3 +44,22 @@ class Solution:
             n //= 26
         return ret
 ```
+
+## 题解 (Ruby)
+
+### 1. 题解
+```Ruby
+# @param {Integer} n
+# @return {String}
+def convert_to_title(n)
+    ret = ""
+
+    while n > 0
+        n -= 1
+        ret = (n % 26 + 65).chr + ret
+        n /= 26
+    end
+
+    return ret
+end
+```
