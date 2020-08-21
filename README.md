@@ -258,7 +258,7 @@
 [643][643l]  |[Maximum Average Subarray I][643]                                         |![r]
 [645][645l]  |[Set Mismatch][645]                                                       |![r]
 [653][653l]  |[Two Sum IV - Input is a BST][653]                                        |![p]
-[654][654l]  |[Maximum Binary Tree][654]                                                |![p]
+[654][654l]  |[Maximum Binary Tree][654]                                                |![p]&nbsp;&nbsp;![y]
 [657][657l]  |[Robot Return to Origin][657]                                             |![p]&nbsp;&nbsp;![r]
 [661][661l]  |[Image Smoother][661]                                                     |![r]
 [665][665l]  |[Non-decreasing Array][665]                                               |![p]
