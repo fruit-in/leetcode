@@ -381,7 +381,7 @@
 [1002][1002l]|[Find Common Characters][1002]                                            |![p]
 [1003][1003l]|[Check If Word Is Valid After Substitutions][1003]                        |![p]
 [1005][1005l]|[Maximize Sum Of Array After K Negations][1005]                           |![r]
-[1006][1006l]|[Clumsy Factorial][1006]                                                  |![r]
+[1006][1006l]|[Clumsy Factorial][1006]                                                  |![y]&nbsp;&nbsp;![r]
 [1009][1009l]|[Complement of Base 10 Integer][1009]                                     |![r]
 [1010][1010l]|[Pairs of Songs With Total Durations Divisible by 60][1010]               |![r]
 [1013][1013l]|[Partition Array Into Three Parts With Equal Sum][1013]                   |![r]

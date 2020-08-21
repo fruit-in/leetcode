@@ -27,6 +27,25 @@ Additionally, the division that we use is *floor division* such that ```10 * 9 /
 1. ```1 <= N <= 10000```
 2. ```-2^31 <= answer <= 2^31 - 1```  (The answer is guaranteed to fit within a 32-bit integer.)
 
+## Solutions (Ruby)
+
+### 1. Mathematical
+```Ruby
+# @param {Integer} n
+# @return {Integer}
+def clumsy(n)
+    if n % 4 == 0
+        return [n + 1, 7].max
+    elsif n < 3
+        return n
+    elsif n % 4 == 1 or n % 4 == 2
+        return n + 2
+    else
+        return [n - 1, 6].max
+    end
+end
+```
+
 ## Solutions (Rust)
 
 ### 1. Mathematical
