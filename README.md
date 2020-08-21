@@ -401,7 +401,7 @@
 [1046][1046l]|[Last Stone Weight][1046]                                                 |![p]
 [1047][1047l]|[Remove All Adjacent Duplicates In String][1047]                          |![p]
 [1051][1051l]|[Height Checker][1051]                                                    |![p]
-[1052][1052l]|[Grumpy Bookstore Owner][1052]                                            |![r]
+[1052][1052l]|[Grumpy Bookstore Owner][1052]                                            |![y]&nbsp;&nbsp;![r]
 [1071][1071l]|[Greatest Common Divisor of Strings][1071]                                |![p]
 [1078][1078l]|[Occurrences After Bigram][1078]                                          |![p]
 [1089][1089l]|[Duplicate Zeros][1089]                                                   |![r]
