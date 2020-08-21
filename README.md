@@ -153,7 +153,7 @@
 [338][338l]  |[Counting Bits][338]                                                      |![r]
 [342][342l]  |[Power of Four][342]                                                      |![r]
 [344][344l]  |[Reverse String][344]                                                     |![r]
-[345][345l]  |[Reverse Vowels of a String][345]                                         |![p]
+[345][345l]  |[Reverse Vowels of a String][345]                                         |![p]&nbsp;&nbsp;![y]
 [349][349l]  |[Intersection of Two Arrays][349]                                         |![r]
 [350][350l]  |[Intersection of Two Arrays II][350]                                      |![r]
 [357][357l]  |[Count Numbers with Unique Digits][357]                                   |![r]
