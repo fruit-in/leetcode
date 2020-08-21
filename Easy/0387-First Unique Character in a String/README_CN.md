@@ -12,6 +12,27 @@ s = "loveleetcode",
 
 **注意事项:** 您可以假定该字符串只包含小写字母。
 
+## 题解 (Ruby)
+
+### 1. 计数
+```Ruby
+# @param {String} s
+# @return {Integer}
+def first_uniq_char(s)
+    cnt = [0] * 26
+
+    for i in 0...s.length
+        cnt[s[i].ord - 'a'.ord] += 1
+    end
+
+    for i in 0...s.length
+        return i if cnt[s[i].ord - 'a'.ord] == 1
+    end
+
+    return -1
+end
+```
+
 ## 题解 (Rust)
 
 ### 1. 计数

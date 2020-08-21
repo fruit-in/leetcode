@@ -165,7 +165,7 @@
 [383][383l]  |[Ransom Note][383]                                                        |![p]
 [384][384l]  |[Shuffle an Array][384]                                                   |![r]
 [386][386l]  |[Lexicographical Numbers][386]                                            |![r]
-[387][387l]  |[First Unique Character in a String][387]                                 |![r]
+[387][387l]  |[First Unique Character in a String][387]                                 |![y]&nbsp;&nbsp;![r]
 [389][389l]  |[Find the Difference][389]                                                |![r]
 [392][392l]  |[Is Subsequence][392]                                                     |![r]
 [398][398l]  |[Random Pick Index][398]                                                  |![p]
