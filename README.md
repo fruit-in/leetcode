@@ -451,7 +451,7 @@
 [1305][1305l]|[All Elements in Two Binary Search Trees][1305]                           |![p]
 [1309][1309l]|[Decrypt String from Alphabet to Integer Mapping][1309]                   |![p]
 [1310][1310l]|[XOR Queries of a Subarray][1310]                                         |![r]
-[1313][1313l]|[Decompress Run-Length Encoded List][1313]                                |![r]
+[1313][1313l]|[Decompress Run-Length Encoded List][1313]                                |![y]&nbsp;&nbsp;![r]
 [1314][1314l]|[Matrix Block Sum][1314]                                                  |![r]
 [1315][1315l]|[Sum of Nodes with Even-Valued Grandparent][1315]                         |![p]
 [1317][1317l]|[Convert Integer to the Sum of Two No-Zero Integers][1317]                |![r]

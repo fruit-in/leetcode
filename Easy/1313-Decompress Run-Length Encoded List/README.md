@@ -19,6 +19,23 @@ At the end the concatenation [2] + [4,4,4,4] is [2,4,4,4].
 * ```nums.length % 2 == 0```
 * ```1 <= nums[i] <= 100```
 
+## Solutions (Ruby)
+
+### 1. Solution
+```Ruby
+# @param {Integer[]} nums
+# @return {Integer[]}
+def decompress_rl_elist(nums)
+    ret = []
+
+    for i in (0...nums.length).step(2)
+        ret.concat([nums[i + 1]] * nums[i])
+    end
+
+    return ret
+end
+```
+
 ## Solutions (Rust)
 
 ### 1. Solution
