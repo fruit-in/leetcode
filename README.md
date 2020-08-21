@@ -462,7 +462,7 @@
 [1331][1331l]|[Rank Transform of an Array][1331]                                        |![p]
 [1332][1332l]|[Remove Palindromic Subsequences][1332]                                   |![p]
 [1337][1337l]|[The K Weakest Rows in a Matrix][1337]                                    |![r]
-[1342][1342l]|[Number of Steps to Reduce a Number to Zero][1342]                        |![r]
+[1342][1342l]|[Number of Steps to Reduce a Number to Zero][1342]                        |![y]&nbsp;&nbsp;![r]
 [1344][1344l]|[Angle Between Hands of a Clock][1344]                                    |![r]
 [1346][1346l]|[Check If N and Its Double Exist][1346]                                   |![r]
 [1351][1351l]|[Count Negative Numbers in a Sorted Matrix][1351]                         |![r]

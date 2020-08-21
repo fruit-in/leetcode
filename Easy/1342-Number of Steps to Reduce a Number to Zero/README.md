@@ -34,6 +34,28 @@ Step 4) 1 is odd; subtract 1 and obtain 0.
 #### Constraints:
 * ```0 <= num <= 10^6```
 
+## Solutions (Ruby)
+
+### 1. Simulation
+```Ruby
+# @param {Integer} num
+# @return {Integer}
+def number_of_steps (num)
+    ret = 0
+
+    while num != 0
+        if num % 2 == 0
+            num /= 2
+        else
+            num -= 1
+        end
+        ret += 1
+    end
+
+    return ret
+end
+```
+
 ## Solutions (Rust)
 
 ### 1. Simulation
