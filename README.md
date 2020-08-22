@@ -351,7 +351,7 @@
 [921][921l]  |[Minimum Add to Make Parentheses Valid][921]                              |![r]
 [922][922l]  |[Sort Array By Parity II][922]                                            |![p]
 [925][925l]  |[Long Pressed Name][925]                                                  |![p]
-[929][929l]  |[Unique Email Addresses][929]                                             |![p]
+[929][929l]  |[Unique Email Addresses][929]                                             |![p]&nbsp;&nbsp;![y]
 [931][931l]  |[Minimum Falling Path Sum][931]                                           |![r]
 [933][933l]  |[Number of Recent Calls][933]                                             |![r]
 [937][937l]  |[Reorder Data in Log Files][937]                                          |![p]
