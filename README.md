@@ -284,7 +284,7 @@
 [709][709l]  |[To Lower Case][709]                                                      |![r]
 [717][717l]  |[1-bit and 2-bit Characters][717]                                         |![r]
 [720][720l]  |[Longest Word in Dictionary][720]                                         |![p]
-[724][724l]  |[Find Pivot Index][724]                                                   |![r]
+[724][724l]  |[Find Pivot Index][724]                                                   |![y]&nbsp;&nbsp;![r]
 [725][725l]  |[Split Linked List in Parts][725]                                         |![p]
 [728][728l]  |[Self Dividing Numbers][728]                                              |![p]
 [733][733l]  |[Flood Fill][733]                                                         |![r]

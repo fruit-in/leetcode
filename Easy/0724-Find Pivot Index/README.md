@@ -26,6 +26,25 @@ There is no index that satisfies the conditions in the problem statement.
 * The length of <code>nums</code> will be in the range <code>[0, 10000]</code>.
 * Each element <code>nums[i]</code> will be an integer in the range <code>[-1000, 1000]</code>.
 
+## Solutions (Ruby)
+
+### 1. Linear Scan
+```Ruby
+# @param {Integer[]} nums
+# @return {Integer}
+def pivot_index(nums)
+    total_sum = nums.sum
+    left_sum = 0
+
+    for i in 0...nums.length
+        return i if 2 * left_sum == total_sum - nums[i]
+        left_sum += nums[i]
+    end
+
+    return -1
+end
+```
+
 ## Solutions (Rust)
 
 ### 1. Linear Scan
