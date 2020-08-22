@@ -16,6 +16,22 @@
 1. 两个字符串长度均小于100。
 2. 字符串中的字符仅含有 'a'~'z'。
 
+## 题解 (Ruby)
+
+### 1. 题解
+```Ruby
+# @param {String} a
+# @param {String} b
+# @return {Integer}
+def find_lu_slength(a, b)
+    if a == b
+        return -1
+    else
+        return [a.length, b.length].max
+    end
+end
+```
+
 ## 题解 (Rust)
 
 ### 1. 题解

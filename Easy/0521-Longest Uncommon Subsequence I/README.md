@@ -18,6 +18,22 @@ but not a subsequence of any other strings in the group of two strings.
 1. Both strings' lengths will not exceed 100.
 2. Only letters from a ~ z will appear in input strings. 
 
+## Solutions (Ruby)
+
+### 1. Solution
+```Ruby
+# @param {String} a
+# @param {String} b
+# @return {Integer}
+def find_lu_slength(a, b)
+    if a == b
+        return -1
+    else
+        return [a.length, b.length].max
+    end
+end
+```
+
 ## Solutions (Rust)
 
 ### 1. Solution

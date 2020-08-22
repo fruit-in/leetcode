@@ -218,7 +218,7 @@
 [515][515l]  |[Find Largest Value in Each Tree Row][515]                                |![p]
 [518][518l]  |[Coin Change 2][518]                                                      |![r]
 [520][520l]  |[Detect Capital][520]                                                     |![r]
-[521][521l]  |[Longest Uncommon Subsequence I][521]                                     |![r]
+[521][521l]  |[Longest Uncommon Subsequence I][521]                                     |![y]&nbsp;&nbsp;![r]
 [529][529l]  |[Minesweeper][529]                                                        |![r]
 [530][530l]  |[Minimum Absolute Difference in BST][530]                                 |![p]
 [532][532l]  |[K-diff Pairs in an Array][532]                                           |![r]
