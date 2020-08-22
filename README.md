@@ -337,7 +337,7 @@
 [883][883l]  |[Projection Area of 3D Shapes][883]                                       |![r]
 [884][884l]  |[Uncommon Words from Two Sentences][884]                                  |![p]
 [888][888l]  |[Fair Candy Swap][888]                                                    |![r]
-[892][892l]  |[Surface Area of 3D Shapes][892]                                          |![r]
+[892][892l]  |[Surface Area of 3D Shapes][892]                                          |![y]&nbsp;&nbsp;![r]
 [893][893l]  |[Groups of Special-Equivalent Strings][893]                               |![r]
 [895][895l]  |[Maximum Frequency Stack][895]                                            |![r]
 [896][896l]  |[Monotonic Array][896]                                                    |![r]
