@@ -245,7 +245,7 @@
 [592][592l]  |[Fraction Addition and Subtraction][592]                                  |![r]
 [593][593l]  |[Valid Square][593]                                                       |![r]
 [594][594l]  |[Longest Harmonious Subsequence][594]                                     |![r]
-[598][598l]  |[Range Addition II][598]                                                  |![r]
+[598][598l]  |[Range Addition II][598]                                                  |![y]&nbsp;&nbsp;![r]
 [599][599l]  |[Minimum Index Sum of Two Lists][599]                                     |![r]
 [605][605l]  |[Can Place Flowers][605]                                                  |![r]
 [606][606l]  |[Construct String from Binary Tree][606]                                  |![p]

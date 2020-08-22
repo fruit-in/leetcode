@@ -35,6 +35,24 @@ M 中最大的整数是 2, 而且 M 中有4个值为2的元素。因此返回 4�
 2. a 的范围是 [1,m]，b 的范围是 [1,n]。
 3. 操作数目不超过 10000。
 
+## 题解 (Ruby)
+
+### 1. 题解
+```Ruby
+# @param {Integer} m
+# @param {Integer} n
+# @param {Integer[][]} ops
+# @return {Integer}
+def max_count(m, n, ops)
+    min_a = ops.map {|op| op[0]}.min
+    min_a = m if min_a.nil?
+    min_b = ops.map {|op| op[1]}.min
+    min_b = n if min_b.nil?
+
+    return min_a * min_b
+end
+```
+
 ## 题解 (Rust)
 
 ### 1. 题解

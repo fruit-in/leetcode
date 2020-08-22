@@ -35,6 +35,24 @@ So the maximum integer in M is 2, and there are four of it in M. So return 4.
 2. The range of a is [1,m], and the range of b is [1,n].
 3. The range of operations size won't exceed 10,000.
 
+## Solutions (Ruby)
+
+### 1. Solution
+```Ruby
+# @param {Integer} m
+# @param {Integer} n
+# @param {Integer[][]} ops
+# @return {Integer}
+def max_count(m, n, ops)
+    min_a = ops.map {|op| op[0]}.min
+    min_a = m if min_a.nil?
+    min_b = ops.map {|op| op[1]}.min
+    min_b = n if min_b.nil?
+
+    return min_a * min_b
+end
+```
+
 ## Solutions (Rust)
 
 ### 1. Solution
