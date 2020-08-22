@@ -272,7 +272,7 @@
 [687][687l]  |[Longest Univalue Path][687]                                              |![p]
 [690][690l]  |[Employee Importance][690]                                                |![p]
 [693][693l]  |[Binary Number with Alternating Bits][693]                                |![r]
-[696][696l]  |[Count Binary Substrings][696]                                            |![p]
+[696][696l]  |[Count Binary Substrings][696]                                            |![p]&nbsp;&nbsp;![y]
 [697][697l]  |[Degree of an Array][697]                                                 |![r]
 [700][700l]  |[Search in a Binary Search Tree][700]                                     |![p]
 [701][701l]  |[Insert into a Binary Search Tree][701]                                   |![p]
