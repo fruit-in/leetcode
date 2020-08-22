@@ -17,3 +17,14 @@ class Solution:
     def reverseWords(self, s: str) -> str:
         return ' '.join(word[::-1] for word in s.split())
 ```
+
+## Solutions (Ruby)
+
+### 1. Solution
+```Ruby
+# @param {String} s
+# @return {String}
+def reverse_words(s)
+    return s.split.map {|word| word.reverse}.join(' ')
+end
+```
