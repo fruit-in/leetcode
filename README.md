@@ -394,7 +394,7 @@
 [1028][1028l]|[Recover a Tree From Preorder Traversal][1028]                            |![p]
 [1029][1029l]|[Two City Scheduling][1029]                                               |![p]
 [1030][1030l]|[Matrix Cells in Distance Order][1030]                                    |![r]
-[1033][1033l]|[Moving Stones Until Consecutive][1033]                                   |![r]
+[1033][1033l]|[Moving Stones Until Consecutive][1033]                                   |![y]&nbsp;&nbsp;![r]
 [1037][1037l]|[Valid Boomerang][1037]                                                   |![r]
 [1038][1038l]|[Binary Search Tree to Greater Sum Tree][1038]                            |![p]
 [1042][1042l]|[Flower Planting With No Adjacent][1042]                                  |![r]
