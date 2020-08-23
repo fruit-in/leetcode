@@ -86,6 +86,7 @@
 [129][129l]  |[Sum Root to Leaf Numbers][129]                                           |![p]
 [134][134l]  |[Gas Station][134]                                                        |![y]&nbsp;&nbsp;![r]
 [136][136l]  |[Single Number][136]                                                      |![r]
+[138][138l]  |[Copy List with Random Pointer][138]                                      |![p]
 [141][141l]  |[Linked List Cycle][141]                                                  |![p]
 [144][144l]  |[Binary Tree Preorder Traversal][144]                                     |![p]
 [145][145l]  |[Binary Tree Postorder Traversal][145]                                    |![p]
@@ -602,6 +603,7 @@
 [129]:./Medium/0129-Sum%20Root%20to%20Leaf%20Numbers/README.md#129-sum-root-to-leaf-numbers
 [134]:./Medium/0134-Gas%20Station/README.md#134-gas-station
 [136]:./Easy/0136-Single%20Number/README.md#136-single-number
+[138]:./Medium/0138-Copy%20List%20with%20Random%20Pointer/README.md#138-copy-list-with-random-pointer
 [141]:./Easy/0141-Linked%20List%20Cycle/README.md#141-linked-list-cycle
 [144]:./Medium/0144-Binary%20Tree%20Preorder%20Traversal/README.md#144-binary-tree-preorder-traversal
 [145]:./Hard/0145-Binary%20Tree%20Postorder%20Traversal/README.md#145-binary-tree-postorder-traversal

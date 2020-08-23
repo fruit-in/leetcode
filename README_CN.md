@@ -86,6 +86,7 @@
 [129][129l]  |[求根到叶子节点数字之和][129]                     |![p]
 [134][134l]  |[加油站][134]                                     |![y]&nbsp;&nbsp;![r]
 [136][136l]  |[只出现一次的数字][136]                           |![r]
+[138][138l]  |[复制带随机指针的链表][138]                       |![p]
 [141][141l]  |[环形链表][141]                                   |![p]
 [144][144l]  |[二叉树的前序遍历][144]                           |![p]
 [145][145l]  |[二叉树的后序遍历][145]                           |![p]
@@ -602,6 +603,7 @@
 [129]:./Medium/0129-Sum%20Root%20to%20Leaf%20Numbers/README_CN.md#129-求根到叶子节点数字之和
 [134]:./Medium/0134-Gas%20Station/README_CN.md#134-加油站
 [136]:./Easy/0136-Single%20Number/README_CN.md#136-只出现一次的数字
+[138]:./Medium/0138-Copy%20List%20with%20Random%20Pointer/README_CN.md#138-复制带随机指针的链表
 [141]:./Easy/0141-Linked%20List%20Cycle/README_CN.md#141-环形链表
 [144]:./Medium/0144-Binary%20Tree%20Preorder%20Traversal/README_CN.md#144-二叉树的前序遍历
 [145]:./Hard/0145-Binary%20Tree%20Postorder%20Traversal/README_CN.md#145-二叉树的后序遍历
