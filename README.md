@@ -512,6 +512,7 @@
 [1492][1492l]|[The kth Factor of n][1492]                                               |![p]&nbsp;&nbsp;![y]&nbsp;&nbsp;![r]
 [1496][1496l]|[Path Crossing][1496]                                                     |![r]
 [1502][1502l]|[Can Make Arithmetic Progression From Sequence][1502]                     |![y]&nbsp;&nbsp;![r]
+[1507][1507l]|[Reformat Date][1507]                                                     |![p]
 
 
 [p]:./ico/python.ico
@@ -1030,6 +1031,7 @@
 [1492]:./Medium/1492-The%20kth%20Factor%20of%20n/README.md#1492-the-kth-factor-of-n
 [1496]:./Easy/1496-Path%20Crossing/README.md#1496-path-crossing
 [1502]:./Easy/1502-Can%20Make%20Arithmetic%20Progression%20From%20Sequence/README.md#1502-can-make-arithmetic-progression-from-sequence
+[1507]:./Easy/1507-Reformat%20Date/README.md#1507-reformat-date
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1569,3 +1571,4 @@
 [1492l]:https://leetcode.com/problems/the-kth-factor-of-n/
 [1496l]:https://leetcode.com/problems/path-crossing/
 [1502l]:https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
+[1507l]:https://leetcode.com/problems/reformat-date/
