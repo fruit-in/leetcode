@@ -513,6 +513,7 @@
 [1496][1496l]|[判断路径是否相交][1496]                          |![r]
 [1502][1502l]|[判断能否形成等差数列][1502]                      |![y]&nbsp;&nbsp;![r]
 [1507][1507l]|[转变日期格式][1507]                              |![p]
+[1512][1512l]|[好数对的数目][1512]                              |![y]&nbsp;&nbsp;![r]
 
 
 [p]:./ico/python.ico
@@ -1032,6 +1033,7 @@
 [1496]:./Easy/1496-Path%20Crossing/README_CN.md#1496-判断路径是否相交
 [1502]:./Easy/1502-Can%20Make%20Arithmetic%20Progression%20From%20Sequence/README_CN.md#1502-判断能否形成等差数列
 [1507]:./Easy/1507-Reformat%20Date/README_CN.md#1507-转变日期格式
+[1512]:./Easy/1512-Number%20of%20Good%20Pairs/README_CN.md#1512-好数对的数目
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1572,3 +1574,4 @@
 [1496l]:https://leetcode-cn.com/problems/path-crossing/
 [1502l]:https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/
 [1507l]:https://leetcode-cn.com/problems/reformat-date/
+[1512l]:https://leetcode-cn.com/problems/number-of-good-pairs/
