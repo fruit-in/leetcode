@@ -515,6 +515,7 @@
 [1507][1507l]|[Reformat Date][1507]                                                     |![p]
 [1512][1512l]|[Number of Good Pairs][1512]                                              |![y]&nbsp;&nbsp;![r]
 [1518][1518l]|[Water Bottles][1518]                                                     |![y]&nbsp;&nbsp;![r]
+[1523][1523l]|[Count Odd Numbers in an Interval Range][1523]                            |![y]
 
 
 [p]:./ico/python.ico
@@ -1036,6 +1037,7 @@
 [1507]:./Easy/1507-Reformat%20Date/README.md#1507-reformat-date
 [1512]:./Easy/1512-Number%20of%20Good%20Pairs/README.md#1512-number-of-good-pairs
 [1518]:./Easy/1518-Water%20Bottles/README.md#1518-water-bottles
+[1523]:./Easy/1523-Count%20Odd%20Numbers%20in%20an%20Interval%20Range/README.md#1523-count-odd-numbers-in-an-interval-range
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1578,3 +1580,4 @@
 [1507l]:https://leetcode.com/problems/reformat-date/
 [1512l]:https://leetcode.com/problems/number-of-good-pairs/
 [1518l]:https://leetcode.com/problems/water-bottles/
+[1523l]:https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/

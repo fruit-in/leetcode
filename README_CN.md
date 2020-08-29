@@ -515,6 +515,7 @@
 [1507][1507l]|[转变日期格式][1507]                              |![p]
 [1512][1512l]|[好数对的数目][1512]                              |![y]&nbsp;&nbsp;![r]
 [1518][1518l]|[换酒问题][1518]                                  |![y]&nbsp;&nbsp;![r]
+[1523][1523l]|[在区间范围内统计奇数数目][1523]                  |![y]
 
 
 [p]:./ico/python.ico
@@ -1036,6 +1037,7 @@
 [1507]:./Easy/1507-Reformat%20Date/README_CN.md#1507-转变日期格式
 [1512]:./Easy/1512-Number%20of%20Good%20Pairs/README_CN.md#1512-好数对的数目
 [1518]:./Easy/1518-Water%20Bottles/README_CN.md#1518-换酒问题
+[1523]:./Easy/1523-Count%20Odd%20Numbers%20in%20an%20Interval%20Range/README_CN.md#1523-在区间范围内统计奇数数目
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1578,3 +1580,4 @@
 [1507l]:https://leetcode-cn.com/problems/reformat-date/
 [1512l]:https://leetcode-cn.com/problems/number-of-good-pairs/
 [1518l]:https://leetcode-cn.com/problems/water-bottles/
+[1523l]:https://leetcode-cn.com/problems/count-odd-numbers-in-an-interval-range/
