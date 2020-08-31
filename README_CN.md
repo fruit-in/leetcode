@@ -518,6 +518,7 @@
 [1523][1523l]|[在区间范围内统计奇数数目][1523]                  |![y]
 [1528][1528l]|[重新排列字符串][1528]                            |![p]&nbsp;&nbsp;![y]
 [1534][1534l]|[统计好三元组][1534]                              |![y]
+[1539][1539l]|[第 k 个缺失的正整数][1539]                       |![r]
 
 
 [p]:./ico/python.ico
@@ -1042,6 +1043,7 @@
 [1523]:./Easy/1523-Count%20Odd%20Numbers%20in%20an%20Interval%20Range/README_CN.md#1523-在区间范围内统计奇数数目
 [1528]:./Easy/1528-Shuffle%20String/README_CN.md#1528-重新排列字符串
 [1534]:./Easy/1534-Count%20Good%20Triplets/README_CN.md#1534-统计好三元组
+[1539]:./Easy/1539-Kth%20Missing%20Positive%20Number/README_CN.md#1539-第-k-个缺失的正整数
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1587,3 +1589,4 @@
 [1523l]:https://leetcode-cn.com/problems/count-odd-numbers-in-an-interval-range/
 [1528l]:https://leetcode-cn.com/problems/shuffle-string/
 [1534l]:https://leetcode-cn.com/problems/count-good-triplets/
+[1539l]:https://leetcode-cn.com/problems/kth-missing-positive-number/
