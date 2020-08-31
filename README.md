@@ -517,6 +517,7 @@
 [1518][1518l]|[Water Bottles][1518]                                                     |![y]&nbsp;&nbsp;![r]
 [1523][1523l]|[Count Odd Numbers in an Interval Range][1523]                            |![y]
 [1528][1528l]|[Shuffle String][1528]                                                    |![p]&nbsp;&nbsp;![y]
+[1534][1534l]|[Count Good Triplets][1534]                                               |![y]
 
 
 [p]:./ico/python.ico
@@ -1040,6 +1041,7 @@
 [1518]:./Easy/1518-Water%20Bottles/README.md#1518-water-bottles
 [1523]:./Easy/1523-Count%20Odd%20Numbers%20in%20an%20Interval%20Range/README.md#1523-count-odd-numbers-in-an-interval-range
 [1528]:./Easy/1528-Shuffle%20String/README.md#1528-shuffle-string
+[1534]:./Easy/1534-Count%20Good%20Triplets/README.md#1534-count-good-triplets
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1584,3 +1586,4 @@
 [1518l]:https://leetcode.com/problems/water-bottles/
 [1523l]:https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 [1528l]:https://leetcode.com/problems/shuffle-string/
+[1534l]:https://leetcode.com/problems/count-good-triplets/
