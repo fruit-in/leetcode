@@ -77,6 +77,7 @@
 [112][112l]  |[Path Sum][112]                                                           |![p]
 [113][113l]  |[Path Sum II][113]                                                        |![p]
 [114][114l]  |[Flatten Binary Tree to Linked List][114]                                 |![p]&nbsp;&nbsp;![y]
+[116][116l]  |[Populating Next Right Pointers in Each Node][116]                        |![y]
 [118][118l]  |[Pascal's Triangle][118]                                                  |![p]
 [119][119l]  |[Pascal's Triangle II][119]                                               |![p]
 [120][120l]  |[Triangle][120]                                                           |![r]
@@ -602,6 +603,7 @@
 [112]:./Easy/0112-Path%20Sum/README.md#112-path-sum
 [113]:./Medium/0113-Path%20Sum%20II/README.md#113-path-sum-ii
 [114]:./Medium/0114-Flatten%20Binary%20Tree%20to%20Linked%20List/README.md#114-flatten-binary-tree-to-linked-list
+[116]:./Medium/0116-Populating%20Next%20Right%20Pointers%20in%20Each%20Node/README.md#116-populating-next-right-pointers-in-each-node
 [118]:./Easy/0118-Pascal's%20Triangle/README.md#118-pascal's-triangle
 [119]:./Easy/0119-Pascal's%20Triangle%20II/README.md#119-pascal's-triangle-ii
 [120]:./Medium/0120-Triangle/README.md#120-triangle

@@ -77,6 +77,7 @@
 [112][112l]  |[路径总和][112]                                   |![p]
 [113][113l]  |[路径总和 II][113]                                |![p]
 [114][114l]  |[二叉树展开为链表][114]                           |![p]&nbsp;&nbsp;![y]
+[116][116l]  |[填充每个节点的下一个右侧节点指针][116]           |![y]
 [118][118l]  |[杨辉三角][118]                                   |![p]
 [119][119l]  |[杨辉三角 II][119]                                |![p]
 [120][120l]  |[三角形最小路径和][120]                           |![r]
@@ -602,6 +603,7 @@
 [112]:./Easy/0112-Path%20Sum/README_CN.md#112-路径总和
 [113]:./Medium/0113-Path%20Sum%20II/README_CN.md#113-路径总和-ii
 [114]:./Medium/0114-Flatten%20Binary%20Tree%20to%20Linked%20List/README_CN.md#114-二叉树展开为链表
+[116]:./Medium/0116-Populating%20Next%20Right%20Pointers%20in%20Each%20Node/README_CN.md#116-填充每个节点的下一个右侧节点指针
 [118]:./Easy/0118-Pascal's%20Triangle/README_CN.md#118-杨辉三角
 [119]:./Easy/0119-Pascal's%20Triangle%20II/README_CN.md#119-杨辉三角-ii
 [120]:./Medium/0120-Triangle/README_CN.md#120-三角形最小路径和
