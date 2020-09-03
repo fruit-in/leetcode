@@ -452,6 +452,7 @@
 [1302][1302l]|[Deepest Leaves Sum][1302]                                                |![p]
 [1304][1304l]|[Find N Unique Integers Sum up to Zero][1304]                             |![r]
 [1305][1305l]|[All Elements in Two Binary Search Trees][1305]                           |![p]
+[1306][1306l]|[Jump Game III][1306]                                                     |![y]
 [1309][1309l]|[Decrypt String from Alphabet to Integer Mapping][1309]                   |![p]
 [1310][1310l]|[XOR Queries of a Subarray][1310]                                         |![r]
 [1313][1313l]|[Decompress Run-Length Encoded List][1313]                                |![y]&nbsp;&nbsp;![r]
@@ -979,6 +980,7 @@
 [1302]:./Medium/1302-Deepest%20Leaves%20Sum/README.md#1302-deepest-leaves-sum
 [1304]:./Easy/1304-Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/README.md#1304-find-n-unique-integers-sum-up-to-zero
 [1305]:./Medium/1305-All%20Elements%20in%20Two%20Binary%20Search%20Trees/README.md#1305-all-elements-in-two-binary-search-trees
+[1306]:./Medium/1306-Jump%20Game%20III/README.md#1306-jump-game-iii
 [1309]:./Easy/1309-Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping/README.md#1309-decrypt-string-from-alphabet-to-integer-mapping
 [1310]:./Medium/1310-XOR%20Queries%20of%20a%20Subarray/README.md#1310-xor-queries-of-a-subarray
 [1313]:./Easy/1313-Decompress%20Run-Length%20Encoded%20List/README.md#1313-decompress-run-length-encoded-list
@@ -1525,6 +1527,7 @@
 [1302l]:https://leetcode.com/problems/deepest-leaves-sum/
 [1304l]:https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
 [1305l]:https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
+[1306l]:https://leetcode.com/problems/jump-game-iii/
 [1309l]:https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 [1310l]:https://leetcode.com/problems/xor-queries-of-a-subarray/
 [1313l]:https://leetcode.com/problems/decompress-run-length-encoded-list/
