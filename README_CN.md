@@ -467,6 +467,7 @@
 [1331][1331l]|[数组序号转换][1331]                              |![p]
 [1332][1332l]|[删除回文子序列][1332]                            |![p]
 [1337][1337l]|[方阵中战斗力最弱的 K 行][1337]                   |![r]
+[1338][1338l]|[数组大小减半][1338]                              |![y]
 [1342][1342l]|[将数字变成 0 的操作次数][1342]                   |![y]&nbsp;&nbsp;![r]
 [1344][1344l]|[时钟指针的夹角][1344]                            |![r]
 [1346][1346l]|[检查整数及其两倍数是否存在][1346]                |![r]
@@ -995,6 +996,7 @@
 [1331]:./Easy/1331-Rank%20Transform%20of%20an%20Array/README_CN.md#1331-数组序号转换
 [1332]:./Easy/1332-Remove%20Palindromic%20Subsequences/README_CN.md#1332-删除回文子序列
 [1337]:./Easy/1337-The%20K%20Weakest%20Rows%20in%20a%20Matrix/README_CN.md#1337-方阵中战斗力最弱的-K-行
+[1338]:./Medium/1338-Reduce%20Array%20Size%20to%20The%20Half/README_CN.md#1338-数组大小减半
 [1342]:./Easy/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/README_CN.md#1342-将数字变成-0-的操作次数
 [1344]:./Medium/1344-Angle%20Between%20Hands%20of%20a%20Clock/README_CN.md#1344-时钟指针的夹角
 [1346]:./Easy/1346-Check%20If%20N%20and%20Its%20Double%20Exist/README_CN.md#1346-检查整数及其两倍数是否存在
@@ -1542,6 +1544,7 @@
 [1331l]:https://leetcode-cn.com/problems/rank-transform-of-an-array/
 [1332l]:https://leetcode-cn.com/problems/remove-palindromic-subsequences/
 [1337l]:https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/
+[1338l]:https://leetcode-cn.com/problems/reduce-array-size-to-the-half/
 [1342l]:https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1344l]:https://leetcode-cn.com/problems/angle-between-hands-of-a-clock/
 [1346l]:https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/
