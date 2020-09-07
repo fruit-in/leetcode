@@ -497,6 +497,7 @@
 [1417][1417l]|[重新格式化字符串][1417]                          |![r]
 [1422][1422l]|[分割字符串的最大得分][1422]                      |![r]
 [1423][1423l]|[可获得的最大点数][1423]                          |![r]
+[1424][1424l]|[对角线遍历 II][1424]                             |![y]
 [1431][1431l]|[拥有最多糖果的孩子][1431]                        |![r]
 [1433][1433l]|[检查一个字符串是否可以打破另一个字符串][1433]    |![r]
 [1436][1436l]|[旅行终点站][1436]                                |![r]
@@ -1028,6 +1029,7 @@
 [1417]:./Easy/1417-Reformat%20The%20String/README_CN.md#1417-重新格式化字符串
 [1422]:./Easy/1422-Maximum%20Score%20After%20Splitting%20a%20String/README_CN.md#1422-分割字符串的最大得分
 [1423]:./Medium/1423-Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/README_CN.md#1423-可获得的最大点数
+[1424]:./Medium/1424-Diagonal%20Traverse%20II/README_CN.md#1424-对角线遍历-ii
 [1431]:./Easy/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies/README_CN.md#1431-拥有最多糖果的孩子
 [1433]:./Medium/1433-Check%20If%20a%20String%20Can%20Break%20Another%20String/README_CN.md#1433-检查一个字符串是否可以打破另一个字符串
 [1436]:./Easy/1436-Destination%20City/README_CN.md#1436-旅行终点站
@@ -1578,6 +1580,7 @@
 [1417l]:https://leetcode-cn.com/problems/reformat-the-string/
 [1422l]:https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string/
 [1423l]:https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/
+[1424l]:https://leetcode-cn.com/problems/diagonal-traverse-ii/
 [1431l]:https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/
 [1433l]:https://leetcode-cn.com/problems/check-if-a-string-can-break-another-string/
 [1436l]:https://leetcode-cn.com/problems/destination-city/
