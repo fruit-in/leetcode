@@ -508,6 +508,7 @@
 [1450][1450l]|[在既定时间做作业的学生人数][1450]                |![r]
 [1455][1455l]|[检查单词是否为句中其他单词的前缀][1455]          |![r]
 [1456][1456l]|[定长子串中元音的最大数目][1456]                  |![p]&nbsp;&nbsp;![y]
+[1457][1457l]|[二叉树中的伪回文路径][1457]                      |![p]
 [1460][1460l]|[通过翻转子数组使两个数组相等][1460]              |![r]
 [1464][1464l]|[数组中两元素的最大乘积][1464]                    |![r]
 [1470][1470l]|[重新排列数组][1470]                              |![r]
@@ -1040,6 +1041,7 @@
 [1450]:./Easy/1450-Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/README_CN.md#1450-在既定时间做作业的学生人数
 [1455]:./Easy/1455-Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence/README_CN.md#1455-检查单词是否为句中其他单词的前缀
 [1456]:./Medium/1456-Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/README_CN.md#1456-定长子串中元音的最大数目
+[1457]:./Medium/1457-Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/README_CN.md#1457-二叉树中的伪回文路径
 [1460]:./Easy/1460-Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays/README_CN.md#1460-通过翻转子数组使两个数组相等
 [1464]:./Easy/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/README_CN.md#1464-数组中两元素的最大乘积
 [1470]:./Easy/1470-Shuffle%20the%20Array/README_CN.md#1470-重新排列数组
@@ -1591,6 +1593,7 @@
 [1450l]:https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/
 [1455l]:https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
 [1456l]:https://leetcode-cn.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+[1457l]:https://leetcode-cn.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
 [1460l]:https://leetcode-cn.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 [1464l]:https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array/
 [1470l]:https://leetcode-cn.com/problems/shuffle-the-array/
