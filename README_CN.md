@@ -474,6 +474,7 @@
 [1351][1351l]|[统计有序矩阵中的负数][1351]                      |![r]
 [1352][1352l]|[最后 K 个数的乘积][1352]                         |![r]
 [1356][1356l]|[根据数字二进制下 1 的数目排序][1356]             |![r]
+[1357][1357l]|[每隔 n 个顾客打折][1357]                         |![r]
 [1360][1360l]|[日期之间隔几天][1360]                            |![r]
 [1365][1365l]|[有多少小于当前数字的数字][1365]                  |![j]
 [1370][1370l]|[上升下降字符串][1370]                            |![r]
@@ -1007,6 +1008,7 @@
 [1351]:./Easy/1351-Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/README_CN.md#1351-统计有序矩阵中的负数
 [1352]:./Medium/1352-Product%20of%20the%20Last%20K%20Numbers/README_CN.md#1352-最后-K-个数的乘积
 [1356]:./Easy/1356-Sort%20Integers%20by%20The%20Number%20of%201%20Bits/README_CN.md#1356-根据数字二进制下-1-的数目排序
+[1357]:./Medium/1357-Apply%20Discount%20Every%20n%20Orders/README_CN.md#1357-每隔-n-个顾客打折
 [1360]:./Easy/1360-Number%20of%20Days%20Between%20Two%20Dates/README_CN.md#1360-日期之间隔几天
 [1365]:./Easy/1365-How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/README_CN.md#1365-有多少小于当前数字的数字
 [1370]:./Easy/1370-Increasing%20Decreasing%20String/README_CN.md#1370-上升下降字符串
@@ -1559,6 +1561,7 @@
 [1351l]:https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1352l]:https://leetcode-cn.com/problems/product-of-the-last-k-numbers/
 [1356l]:https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/
+[1357l]:https://leetcode-cn.com/problems/apply-discount-every-n-orders/
 [1360l]:https://leetcode-cn.com/problems/number-of-days-between-two-dates/
 [1365l]:https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1370l]:https://leetcode-cn.com/problems/increasing-decreasing-string/
