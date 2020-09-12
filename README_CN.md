@@ -529,6 +529,7 @@
 [1528][1528l]|[重新排列字符串][1528]                            |![p]&nbsp;&nbsp;![y]
 [1534][1534l]|[统计好三元组][1534]                              |![y]
 [1539][1539l]|[第 k 个缺失的正整数][1539]                       |![r]
+[1550][1550l]|[存在连续三个奇数的数组][1550]                    |![p]
 
 
 [p]:./ico/python.ico
@@ -1064,6 +1065,7 @@
 [1528]:./Easy/1528-Shuffle%20String/README_CN.md#1528-重新排列字符串
 [1534]:./Easy/1534-Count%20Good%20Triplets/README_CN.md#1534-统计好三元组
 [1539]:./Easy/1539-Kth%20Missing%20Positive%20Number/README_CN.md#1539-第-k-个缺失的正整数
+[1550]:./Easy/1550-Three%20Consecutive%20Odds/README_CN.md#1550-存在连续三个奇数的数组
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1618,3 +1620,4 @@
 [1528l]:https://leetcode-cn.com/problems/shuffle-string/
 [1534l]:https://leetcode-cn.com/problems/count-good-triplets/
 [1539l]:https://leetcode-cn.com/problems/kth-missing-positive-number/
+[1550l]:https://leetcode-cn.com/problems/three-consecutive-odds/
