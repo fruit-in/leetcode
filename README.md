@@ -529,6 +529,7 @@
 [1528][1528l]|[Shuffle String][1528]                                                    |![p]&nbsp;&nbsp;![y]
 [1534][1534l]|[Count Good Triplets][1534]                                               |![y]
 [1539][1539l]|[Kth Missing Positive Number][1539]                                       |![r]
+[1544][1544l]|[Make The String Great][1544]                                             |![y]
 [1550][1550l]|[Three Consecutive Odds][1550]                                            |![p]
 
 
@@ -1065,6 +1066,7 @@
 [1528]:./Easy/1528-Shuffle%20String/README.md#1528-shuffle-string
 [1534]:./Easy/1534-Count%20Good%20Triplets/README.md#1534-count-good-triplets
 [1539]:./Easy/1539-Kth%20Missing%20Positive%20Number/README.md#1539-kth-missing-positive-number
+[1544]:./Easy/1544-Make%20The%20String%20Great/README.md#1544-make-the-string-great
 [1550]:./Easy/1550-Three%20Consecutive%20Odds/README.md#1550-three-consecutive-odds
 
 [1l]:https://leetcode.com/problems/two-sum/
@@ -1620,4 +1622,5 @@
 [1528l]:https://leetcode.com/problems/shuffle-string/
 [1534l]:https://leetcode.com/problems/count-good-triplets/
 [1539l]:https://leetcode.com/problems/kth-missing-positive-number/
+[1544l]:https://leetcode.com/problems/make-the-string-great/
 [1550l]:https://leetcode.com/problems/three-consecutive-odds/
