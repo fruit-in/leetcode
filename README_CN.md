@@ -408,6 +408,7 @@
 [1071][1071l]|[字符串的最大公因子][1071]                        |![p]
 [1078][1078l]|[Bigram 分词][1078]                               |![p]
 [1089][1089l]|[复写零][1089]                                    |![r]
+[1090][1090l]|[受标签影响的最大值][1090]                        |![y]
 [1094][1094l]|[拼车][1094]                                      |![r]
 [1103][1103l]|[分糖果 II][1103]                                 |![p]
 [1104][1104l]|[二叉树寻路][1104]                                |![r]
@@ -945,6 +946,7 @@
 [1071]:./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings/README_CN.md#1071-字符串的最大公因子
 [1078]:./Easy/1078-Occurrences%20After%20Bigram/README_CN.md#1078-bigram-分词
 [1089]:./Easy/1089-Duplicate%20Zeros/README_CN.md#1089-复写零
+[1090]:./Medium/1090-Largest%20Values%20From%20Labels/README_CN.md#1090-受标签影响的最大值
 [1094]:./Medium/1094-Car%20Pooling/README_CN.md#1094-拼车
 [1103]:./Easy/1103-Distribute%20Candies%20to%20People/README_CN.md#1103-分糖果-ii
 [1104]:./Medium/1104-Path%20In%20Zigzag%20Labelled%20Binary%20Tree/README_CN.md#1104-二叉树寻路
@@ -1501,6 +1503,7 @@
 [1071l]:https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/
 [1078l]:https://leetcode-cn.com/problems/occurrences-after-bigram/
 [1089l]:https://leetcode-cn.com/problems/duplicate-zeros/
+[1090l]:https://leetcode-cn.com/problems/largest-values-from-labels/
 [1094l]:https://leetcode-cn.com/problems/car-pooling/
 [1103l]:https://leetcode-cn.com/problems/distribute-candies-to-people/
 [1104l]:https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/
