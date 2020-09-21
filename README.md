@@ -116,6 +116,7 @@
 [204][204l]  |[Count Primes][204]                                                       |![r]
 [205][205l]  |[Isomorphic Strings][205]                                                 |![p]
 [206][206l]  |[Reverse Linked List][206]                                                |![p]
+[208][208l]  |[Implement Trie (Prefix Tree)][208]                                       |![p]
 [217][217l]  |[Contains Duplicate][217]                                                 |![r]
 [219][219l]  |[Contains Duplicate II][219]                                              |![r]
 [220][220l]  |[Contains Duplicate III][220]                                             |![r]
@@ -654,6 +655,7 @@
 [204]:./Easy/0204-Count%20Primes/README.md#204-count-primes
 [205]:./Easy/0205-Isomorphic%20Strings/README.md#205-isomorphic-strings
 [206]:./Easy/0206-Reverse%20Linked%20List/README.md#206-reverse-linked-list
+[208]:./Medium/0208-Implement%20Trie%20\(Prefix%20Tree\)/README.md#208-implement-trie-prefix-tree
 [217]:./Easy/0217-Contains%20Duplicate/README.md#217-contains-duplicate
 [219]:./Easy/0219-Contains%20Duplicate%20II/README.md#219-contains-duplicate-ii
 [220]:./Medium/0220-Contains%20Duplicate%20III/README.md#220-contains-duplicate-iii

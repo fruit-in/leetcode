@@ -116,6 +116,7 @@
 [204][204l]  |[计数质数][204]                                   |![r]
 [205][205l]  |[同构字符串][205]                                 |![p]
 [206][206l]  |[反转链表][206]                                   |![p]
+[208][208l]  |[实现 Trie (前缀树)][208]                         |![p]
 [217][217l]  |[存在重复元素][217]                               |![r]
 [219][219l]  |[存在重复元素 II][219]                            |![r]
 [220][220l]  |[存在重复元素 III][220]                           |![r]
@@ -654,6 +655,7 @@
 [204]:./Easy/0204-Count%20Primes/README_CN.md#204-计数质数
 [205]:./Easy/0205-Isomorphic%20Strings/README_CN.md#205-同构字符串
 [206]:./Easy/0206-Reverse%20Linked%20List/README_CN.md#206-反转链表
+[208]:./Medium/0208-Implement%20Trie%20\(Prefix%20Tree\)/README_CN.md#208-实现-trie-前缀树
 [217]:./Easy/0217-Contains%20Duplicate/README_CN.md#217-存在重复元素
 [219]:./Easy/0219-Contains%20Duplicate%20II/README_CN.md#219-存在重复元素-ii
 [220]:./Medium/0220-Contains%20Duplicate%20III/README_CN.md#220-存在重复元素-iii
