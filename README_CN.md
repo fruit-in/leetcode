@@ -118,6 +118,7 @@
 [205][205l]  |[同构字符串][205]                                 |![p]
 [206][206l]  |[反转链表][206]                                   |![p]
 [208][208l]  |[实现 Trie (前缀树)][208]                         |![p]
+[209][209l]  |[长度最小的子数组][209]                           |![r]
 [211][211l]  |[添加与搜索单词 - 数据结构设计][211]              |![p]
 [217][217l]  |[存在重复元素][217]                               |![r]
 [219][219l]  |[存在重复元素 II][219]                            |![r]
@@ -659,6 +660,7 @@
 [205]:./Easy/0205-Isomorphic%20Strings/README_CN.md#205-同构字符串
 [206]:./Easy/0206-Reverse%20Linked%20List/README_CN.md#206-反转链表
 [208]:./Medium/0208-Implement%20Trie%20\(Prefix%20Tree\)/README_CN.md#208-实现-trie-前缀树
+[209]:./Medium/0209-Minimum%20Size%20Subarray%20Sum/README_CN.md#209-长度最小的子数组
 [211]:./Medium/0211-Design%20Add%20and%20Search%20Words%20Data%20Structure/README_CN.md#211-添加与搜索单词---数据结构设计
 [217]:./Easy/0217-Contains%20Duplicate/README_CN.md#217-存在重复元素
 [219]:./Easy/0219-Contains%20Duplicate%20II/README_CN.md#219-存在重复元素-ii
