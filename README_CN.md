@@ -536,6 +536,7 @@
 [1539][1539l]|[第 k 个缺失的正整数][1539]                       |![r]
 [1544][1544l]|[整理字符串][1544]                                |![y]
 [1550][1550l]|[存在连续三个奇数的数组][1550]                    |![p]
+[1556][1556l]|[千位分隔数][1556]                                |![r]
 
 
 [p]:./ico/python.ico
@@ -1078,6 +1079,7 @@
 [1539]:./Easy/1539-Kth%20Missing%20Positive%20Number/README_CN.md#1539-第-k-个缺失的正整数
 [1544]:./Easy/1544-Make%20The%20String%20Great/README_CN.md#1544-整理字符串
 [1550]:./Easy/1550-Three%20Consecutive%20Odds/README_CN.md#1550-存在连续三个奇数的数组
+[1556]:./Easy/1556-Thousand%20Separator/README_CN.md#1556-千位分隔数
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1635,3 +1637,4 @@
 [1539l]:https://leetcode-cn.com/problems/kth-missing-positive-number/
 [1544l]:https://leetcode-cn.com/problems/make-the-string-great/
 [1550l]:https://leetcode-cn.com/problems/three-consecutive-odds/
+[1556l]:https://leetcode-cn.com/problems/thousand-separator/
