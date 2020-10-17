@@ -536,6 +536,7 @@
 [1539][1539l]|[Kth Missing Positive Number][1539]                                       |![r]
 [1544][1544l]|[Make The String Great][1544]                                             |![y]
 [1550][1550l]|[Three Consecutive Odds][1550]                                            |![p]
+[1551][1551l]|[Minimum Operations to Make Array Equal][1551]                            |![y]&nbsp;&nbsp;![r]
 [1556][1556l]|[Thousand Separator][1556]                                                |![r]
 [1560][1560l]|[Most Visited Sector in a Circular Track][1560]                           |![r]
 [1561][1561l]|[Maximum Number of Coins You Can Get][1561]                               |![r]
@@ -1083,6 +1084,7 @@
 [1539]:./Easy/1539-Kth%20Missing%20Positive%20Number/README.md#1539-kth-missing-positive-number
 [1544]:./Easy/1544-Make%20The%20String%20Great/README.md#1544-make-the-string-great
 [1550]:./Easy/1550-Three%20Consecutive%20Odds/README.md#1550-three-consecutive-odds
+[1551]:./Medium/1551-Minimum%20Operations%20to%20Make%20Array%20Equal/README.md#1551-minimum-operations-to-make-array-equal
 [1556]:./Easy/1556-Thousand%20Separator/README.md#1556-thousand-separator
 [1560]:./Easy/1560-Most%20Visited%20Sector%20in%20a%20Circular%20Track/README.md#1560-most-visited-sector-in-a-circular-track
 [1561]:./Medium/1561-Maximum%20Number%20of%20Coins%20You%20Can%20Get/README.md#1561-maximum-number-of-coins-you-can-get
@@ -1645,6 +1647,7 @@
 [1539l]:https://leetcode.com/problems/kth-missing-positive-number/
 [1544l]:https://leetcode.com/problems/make-the-string-great/
 [1550l]:https://leetcode.com/problems/three-consecutive-odds/
+[1551l]:https://leetcode.com/problems/minimum-operations-to-make-array-equal/
 [1556l]:https://leetcode.com/problems/thousand-separator/
 [1560l]:https://leetcode.com/problems/most-visited-sector-in-a-circular-track/
 [1561l]:https://leetcode.com/problems/maximum-number-of-coins-you-can-get/

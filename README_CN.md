@@ -536,6 +536,7 @@
 [1539][1539l]|[第 k 个缺失的正整数][1539]                       |![r]
 [1544][1544l]|[整理字符串][1544]                                |![y]
 [1550][1550l]|[存在连续三个奇数的数组][1550]                    |![p]
+[1551][1551l]|[使数组中所有元素相等的最小操作数][1551]          |![y]&nbsp;&nbsp;![r]
 [1556][1556l]|[千位分隔数][1556]                                |![r]
 [1560][1560l]|[圆形赛道上经过次数最多的扇区][1560]              |![r]
 [1561][1561l]|[你可以获得的最大硬币数目][1561]                  |![r]
@@ -1083,6 +1084,7 @@
 [1539]:./Easy/1539-Kth%20Missing%20Positive%20Number/README_CN.md#1539-第-k-个缺失的正整数
 [1544]:./Easy/1544-Make%20The%20String%20Great/README_CN.md#1544-整理字符串
 [1550]:./Easy/1550-Three%20Consecutive%20Odds/README_CN.md#1550-存在连续三个奇数的数组
+[1551]:./Medium/1551-Minimum%20Operations%20to%20Make%20Array%20Equal/README_CN.md#1551-使数组中所有元素相等的最小操作数
 [1556]:./Easy/1556-Thousand%20Separator/README_CN.md#1556-千位分隔数
 [1560]:./Easy/1560-Most%20Visited%20Sector%20in%20a%20Circular%20Track/README_CN.md#1560-圆形赛道上经过次数最多的扇区
 [1561]:./Medium/1561-Maximum%20Number%20of%20Coins%20You%20Can%20Get/README_CN.md#1561-你可以获得的最大硬币数目
@@ -1645,6 +1647,7 @@
 [1539l]:https://leetcode-cn.com/problems/kth-missing-positive-number/
 [1544l]:https://leetcode-cn.com/problems/make-the-string-great/
 [1550l]:https://leetcode-cn.com/problems/three-consecutive-odds/
+[1551l]:https://leetcode-cn.com/problems/minimum-operations-to-make-array-equal/
 [1556l]:https://leetcode-cn.com/problems/thousand-separator/
 [1560l]:https://leetcode-cn.com/problems/most-visited-sector-in-a-circular-track/
 [1561l]:https://leetcode-cn.com/problems/maximum-number-of-coins-you-can-get/
