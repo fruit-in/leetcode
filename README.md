@@ -305,6 +305,7 @@
 [763][763l]  |[Partition Labels][763]                                                   |![r]
 [766][766l]  |[Toeplitz Matrix][766]                                                    |![r]
 [771][771l]  |[Jewels and Stones][771]                                                  |![r]
+[779][779l]  |[K-th Symbol in Grammar][779]                                             |![r]
 [781][781l]  |[Rabbits in Forest][781]                                                  |![y]&nbsp;&nbsp;![r]
 [783][783l]  |[Minimum Distance Between BST Nodes][783]                                 |![p]
 [784][784l]  |[Letter Case Permutation][784]                                            |![p]
@@ -853,6 +854,7 @@
 [763]:./Medium/0763-Partition%20Labels/README.md#763-partition-labels
 [766]:./Easy/0766-Toeplitz%20Matrix/README.md#766-toeplitz-matrix
 [771]:./Easy/0771-Jewels%20and%20Stones/README.md#771-jewels-and-stones
+[779]:./Medium/0779-K-th%20Symbol%20in%20Grammar/README.md#779-k-th-symbol-in-grammar
 [781]:./Medium/0781-Rabbits%20in%20Forest/README.md#781-rabbits-in-forest
 [783]:./Easy/0783-Minimum%20Distance%20Between%20BST%20Nodes/README.md#783-minimum-distance-between-bst-nodes
 [784]:./Easy/0784-Letter%20Case%20Permutation/README.md#784-letter-case-permutation
