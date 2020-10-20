@@ -162,6 +162,7 @@
 [342][342l]  |[Power of Four][342]                                                      |![r]
 [344][344l]  |[Reverse String][344]                                                     |![r]
 [345][345l]  |[Reverse Vowels of a String][345]                                         |![p]&nbsp;&nbsp;![y]
+[347][347l]  |[Top K Frequent Elements][347]                                            |![r]
 [349][349l]  |[Intersection of Two Arrays][349]                                         |![r]
 [350][350l]  |[Intersection of Two Arrays II][350]                                      |![r]
 [357][357l]  |[Count Numbers with Unique Digits][357]                                   |![r]
@@ -713,6 +714,7 @@
 [342]:./Easy/0342-Power%20of%20Four/README.md#342-power-of-four
 [344]:./Easy/0344-Reverse%20String/README.md#344-reverse-string
 [345]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README.md#345-reverse-vowels-of-a-string
+[347]:./Medium/0347-Top%20K%20Frequent%20Elements/README.md#347-top-k-frequent-elements
 [349]:./Easy/0349-Intersection%20of%20Two%20Arrays/README.md#349-intersection-of-two-arrays
 [350]:./Easy/0350-Intersection%20of%20Two%20Arrays%20II/README.md#350-intersection-of-two-arrays-ii
 [357]:./Medium/0357-Count%20Numbers%20with%20Unique%20Digits/README.md#357-count-numbers-with-unique-digits

@@ -162,6 +162,7 @@
 [342][342l]  |[4的幂][342]                                      |![r]
 [344][344l]  |[反转字符串][344]                                 |![r]
 [345][345l]  |[反转字符串中的元音字母][345]                     |![p]&nbsp;&nbsp;![y]
+[347][347l]  |[前 K 个高频元素][347]                            |![r]
 [349][349l]  |[两个数组的交集][349]                             |![r]
 [350][350l]  |[两个数组的交集 II][350]                          |![r]
 [357][357l]  |[计算各个位数不同的数字个数][357]                 |![r]
@@ -713,6 +714,7 @@
 [342]:./Easy/0342-Power%20of%20Four/README_CN.md#342-4的幂
 [344]:./Easy/0344-Reverse%20String/README_CN.md#344-反转字符串
 [345]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README_CN.md#345-反转字符串中的元音字母
+[347]:./Medium/0347-Top%20K%20Frequent%20Elements/README_CN.md#347-前-k-个高频元素
 [349]:./Easy/0349-Intersection%20of%20Two%20Arrays/README_CN.md#349-两个数组的交集
 [350]:./Easy/0350-Intersection%20of%20Two%20Arrays%20II/README_CN.md#350-两个数组的交集-ii
 [357]:./Medium/0357-Count%20Numbers%20with%20Unique%20Digits/README_CN.md#357-计算各个位数不同的数字个数
