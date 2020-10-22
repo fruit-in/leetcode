@@ -491,6 +491,7 @@
 [1379][1379l]|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree][1379]|![p]
 [1380][1380l]|[Lucky Numbers in a Matrix][1380]                                         |![r]
 [1381][1381l]|[Design a Stack With Increment Operation][1381]                           |![r]
+[1382][1382l]|[Balance a Binary Search Tree][1382]                                      |![p]
 [1385][1385l]|[Find the Distance Value Between Two Arrays][1385]                        |![r]
 [1387][1387l]|[Sort Integers by The Power Value][1387]                                  |![r]
 [1389][1389l]|[Create Target Array in the Given Order][1389]                            |![y]&nbsp;&nbsp;![r]
@@ -1043,6 +1044,7 @@
 [1379]:./Medium/1379-Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree/README.md#1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree
 [1380]:./Easy/1380-Lucky%20Numbers%20in%20a%20Matrix/README.md#1380-lucky-numbers-in-a-matrix
 [1381]:./Medium/1381-Design%20a%20Stack%20With%20Increment%20Operation/README.md#1381-design-a-stack-with-increment-operation
+[1382]:./Medium/1382-Balance%20a%20Binary%20Search%20Tree/README.md#1382-balance-a-binary-search-tree
 [1385]:./Easy/1385-Find%20the%20Distance%20Value%20Between%20Two%20Arrays/README.md#1385-find-the-distance-value-between-two-arrays
 [1387]:./Medium/1387-Sort%20Integers%20by%20The%20Power%20Value/README.md#1387-sort-integers-by-the-power-value
 [1389]:./Easy/1389-Create%20Target%20Array%20in%20the%20Given%20Order/README.md#1389-create-target-array-in-the-given-order
@@ -1607,6 +1609,7 @@
 [1379l]:https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
 [1380l]:https://leetcode.com/problems/lucky-numbers-in-a-matrix/
 [1381l]:https://leetcode.com/problems/design-a-stack-with-increment-operation/
+[1382l]:https://leetcode.com/problems/balance-a-binary-search-tree/
 [1385l]:https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 [1387l]:https://leetcode.com/problems/sort-integers-by-the-power-value/
 [1389l]:https://leetcode.com/problems/create-target-array-in-the-given-order/

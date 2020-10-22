@@ -491,6 +491,7 @@
 [1379][1379l]|[找出克隆二叉树中的相同节点][1379]                |![p]
 [1380][1380l]|[矩阵中的幸运数][1380]                            |![r]
 [1381][1381l]|[设计一个支持增量操作的栈][1381]                  |![r]
+[1382][1382l]|[将二叉搜索树变平衡][1382]                        |![p]
 [1385][1385l]|[两个数组间的距离值][1385]                        |![r]
 [1387][1387l]|[将整数按权重排序][1387]                          |![r]
 [1389][1389l]|[按既定顺序创建目标数组][1389]                    |![y]&nbsp;&nbsp;![r]
@@ -1043,6 +1044,7 @@
 [1379]:./Medium/1379-Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree/README_CN.md#1379-找出克隆二叉树中的相同节点
 [1380]:./Easy/1380-Lucky%20Numbers%20in%20a%20Matrix/README_CN.md#1380-矩阵中的幸运数
 [1381]:./Medium/1381-Design%20a%20Stack%20With%20Increment%20Operation/README_CN.md#1381-设计一个支持增量操作的栈
+[1382]:./Medium/1382-Balance%20a%20Binary%20Search%20Tree/README_CN.md#1382-将二叉搜索树变平衡
 [1385]:./Easy/1385-Find%20the%20Distance%20Value%20Between%20Two%20Arrays/README_CN.md#1385-两个数组间的距离值
 [1387]:./Medium/1387-Sort%20Integers%20by%20The%20Power%20Value/README_CN.md#1387-将整数按权重排序
 [1389]:./Easy/1389-Create%20Target%20Array%20in%20the%20Given%20Order/README_CN.md#1389-按既定顺序创建目标数组
@@ -1607,6 +1609,7 @@
 [1379l]:https://leetcode-cn.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
 [1380l]:https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/
 [1381l]:https://leetcode-cn.com/problems/design-a-stack-with-increment-operation/
+[1382l]:https://leetcode-cn.com/problems/balance-a-binary-search-tree/
 [1385l]:https://leetcode-cn.com/problems/find-the-distance-value-between-two-arrays/
 [1387l]:https://leetcode-cn.com/problems/sort-integers-by-the-power-value/
 [1389l]:https://leetcode-cn.com/problems/create-target-array-in-the-given-order/
