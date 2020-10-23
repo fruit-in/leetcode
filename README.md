@@ -479,6 +479,7 @@
 [1342][1342l]|[Number of Steps to Reduce a Number to Zero][1342]                        |![y]&nbsp;&nbsp;![r]
 [1344][1344l]|[Angle Between Hands of a Clock][1344]                                    |![r]
 [1346][1346l]|[Check If N and Its Double Exist][1346]                                   |![r]
+[1347][1347l]|[Minimum Number of Steps to Make Two Strings Anagram][1347]               |![r]
 [1351][1351l]|[Count Negative Numbers in a Sorted Matrix][1351]                         |![r]
 [1352][1352l]|[Product of the Last K Numbers][1352]                                     |![r]
 [1356][1356l]|[Sort Integers by The Number of 1 Bits][1356]                             |![r]
@@ -1032,6 +1033,7 @@
 [1342]:./Easy/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/README.md#1342-number-of-steps-to-reduce-a-number-to-zero
 [1344]:./Medium/1344-Angle%20Between%20Hands%20of%20a%20Clock/README.md#1344-angle-between-hands-of-a-clock
 [1346]:./Easy/1346-Check%20If%20N%20and%20Its%20Double%20Exist/README.md#1346-check-if-n-and-its-double-exist
+[1347]:./Medium/1347-Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram/README.md#1347-minimum-number-of-steps-to-make-two-strings-anagram
 [1351]:./Easy/1351-Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/README.md#1351-count-negative-numbers-in-a-sorted-matrix
 [1352]:./Medium/1352-Product%20of%20the%20Last%20K%20Numbers/README.md#1352-product-of-the-last-k-numbers
 [1356]:./Easy/1356-Sort%20Integers%20by%20The%20Number%20of%201%20Bits/README.md#1356-sort-integers-by-the-number-of-1-bits
@@ -1597,6 +1599,7 @@
 [1342l]:https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1344l]:https://leetcode.com/problems/angle-between-hands-of-a-clock/
 [1346l]:https://leetcode.com/problems/check-if-n-and-its-double-exist/
+[1347l]:https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 [1351l]:https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1352l]:https://leetcode.com/problems/product-of-the-last-k-numbers/
 [1356l]:https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
