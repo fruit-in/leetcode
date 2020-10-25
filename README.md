@@ -336,6 +336,7 @@
 [858][858l]  |[Mirror Reflection][858]                                                  |![y]&nbsp;&nbsp;![r]
 [859][859l]  |[Buddy Strings][859]                                                      |![p]
 [860][860l]  |[Lemonade Change][860]                                                    |![r]
+[861][861l]  |[Score After Flipping Matrix][861]                                        |![r]
 [865][865l]  |[Smallest Subtree with all the Deepest Nodes][865]                        |![p]
 [867][867l]  |[Transpose Matrix][867]                                                   |![p]
 [868][868l]  |[Binary Gap][868]                                                         |![r]
@@ -891,6 +892,7 @@
 [858]:./Medium/0858-Mirror%20Reflection/README.md#858-mirror-reflection
 [859]:./Easy/0859-Buddy%20Strings/README.md#859-buddy-strings
 [860]:./Easy/0860-Lemonade%20Change/README.md#860-lemonade-change
+[861]:./Medium/0861-Score%20After%20Flipping%20Matrix/README.md#861-score-after-flipping-matrix
 [865]:./Medium/0865-Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/README.md#865-smallest-subtree-with-all-the-deepest-nodes
 [867]:./Easy/0867-Transpose%20Matrix/README.md#867-transpose-matrix
 [868]:./Easy/0868-Binary%20Gap/README.md#868-binary-gap
@@ -1458,6 +1460,7 @@
 [858l]:https://leetcode.com/problems/mirror-reflection/
 [859l]:https://leetcode.com/problems/buddy-strings/
 [860l]:https://leetcode.com/problems/lemonade-change/
+[861l]:https://leetcode.com/problems/score-after-flipping-matrix/
 [865l]:https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
 [867l]:https://leetcode.com/problems/transpose-matrix/
 [868l]:https://leetcode.com/problems/binary-gap/
