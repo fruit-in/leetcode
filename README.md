@@ -550,6 +550,7 @@
 [1566][1566l]|[Detect Pattern of Length M Repeated K or More Times][1566]               |![r]
 [1567][1567l]|[Maximum Length of Subarray With Positive Product][1567]                  |![r]
 [1572][1572l]|[Matrix Diagonal Sum][1572]                                               |![r]
+[1576][1576l]|[Replace All ?'s to Avoid Consecutive Repeating Characters][1576]         |![r]
 
 
 [p]:./ico/python.ico
@@ -1106,6 +1107,7 @@
 [1566]:./Easy/1566-Detect%20Pattern%20of%20Length%20M%20Repeated%20K%20or%20More%20Times/README.md#1566-detect-pattern-of-length-m-repeated-k-or-more-times
 [1567]:./Medium/1567-Maximum%20Length%20of%20Subarray%20With%20Positive%20Product/README.md#1567-maximum-length-of-subarray-with-positive-product
 [1572]:./Easy/1572-Matrix%20Diagonal%20Sum/README.md#1572-matrix-diagonal-sum
+[1576]:./Easy/1576-Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters/README.md#1576-replace-all-s-to-avoid-consecutive-repeating-characters
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1674,3 +1676,4 @@
 [1566l]:https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
 [1567l]:https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/
 [1572l]:https://leetcode.com/problems/matrix-diagonal-sum/
+[1576l]:https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
