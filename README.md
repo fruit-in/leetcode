@@ -553,6 +553,7 @@
 [1576][1576l]|[Replace All ?'s to Avoid Consecutive Repeating Characters][1576]         |![r]
 [1582][1582l]|[Special Positions in a Binary Matrix][1582]                              |![r]
 [1588][1588l]|[Sum of All Odd Length Subarrays][1588]                                   |![r]
+[1592][1592l]|[Rearrange Spaces Between Words][1592]                                    |![p]
 
 
 [p]:./ico/python.ico
@@ -1112,6 +1113,7 @@
 [1576]:./Easy/1576-Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters/README.md#1576-replace-all-s-to-avoid-consecutive-repeating-characters
 [1582]:./Easy/1582-Special%20Positions%20in%20a%20Binary%20Matrix/README.md#1582-special-positions-in-a-binary-matrix
 [1588]:./Easy/1588-Sum%20of%20All%20Odd%20Length%20Subarrays/README.md#1588-sum-of-all-odd-length-subarrays
+[1592]:./Easy/1592-Rearrange%20Spaces%20Between%20Words/README.md#1592-rearrange-spaces-between-words
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1683,3 +1685,4 @@
 [1576l]:https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
 [1582l]:https://leetcode.com/problems/special-positions-in-a-binary-matrix/
 [1588l]:https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+[1592l]:https://leetcode.com/problems/rearrange-spaces-between-words/
