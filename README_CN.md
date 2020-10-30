@@ -105,6 +105,7 @@
 [169][169l]  |[多数元素][169]                                   |![r]
 [171][171l]  |[Excel表列序号][171]                              |![p]
 [172][172l]  |[阶乘后的零][172]                                 |![r]
+[173][173l]  |[二叉搜索树迭代器][173]                           |![p]
 [179][179l]  |[最大数][179]                                     |![r]
 [189][189l]  |[旋转数组][189]                                   |![r]
 [190][190l]  |[颠倒二进制位][190]                               |![p]
@@ -666,6 +667,7 @@
 [169]:./Easy/0169-Majority%20Element/README_CN.md#169-多数元素
 [171]:./Easy/0171-Excel%20Sheet%20Column%20Number/README_CN.md#171-excel表列序号
 [172]:./Easy/0172-Factorial%20Trailing%20Zeroes/README_CN.md#172-阶乘后的零
+[173]:./Medium/0173-Binary%20Search%20Tree%20Iterator/README_CN.md#173-二叉搜索树迭代器
 [179]:./Medium/0179-Largest%20Number/README_CN.md#179-最大数
 [189]:./Easy/0189-Rotate%20Array/README_CN.md#189-旋转数组
 [190]:./Easy/0190-Reverse%20Bits/README_CN.md#190-颠倒二进制位

@@ -105,6 +105,7 @@
 [169][169l]  |[Majority Element][169]                                                   |![r]
 [171][171l]  |[Excel Sheet Column Number][171]                                          |![p]
 [172][172l]  |[Factorial Trailing Zeroes][172]                                          |![r]
+[173][173l]  |[Binary Search Tree Iterator][173]                                        |![p]
 [179][179l]  |[Largest Number][179]                                                     |![r]
 [189][189l]  |[Rotate Array][189]                                                       |![r]
 [190][190l]  |[Reverse Bits][190]                                                       |![p]
@@ -666,6 +667,7 @@
 [169]:./Easy/0169-Majority%20Element/README.md#169-majority-element
 [171]:./Easy/0171-Excel%20Sheet%20Column%20Number/README.md#171-excel-sheet-column-number
 [172]:./Easy/0172-Factorial%20Trailing%20Zeroes/README.md#172-factorial-trailing-zeroes
+[173]:./Medium/0173-Binary%20Search%20Tree%20Iterator/README.md#173-binary-search-tree-iterator
 [179]:./Medium/0179-Largest%20Number/README.md#179-largest-number
 [189]:./Easy/0189-Rotate%20Array/README.md#189-rotate-array
 [190]:./Easy/0190-Reverse%20Bits/README.md#190-reverse-bits
