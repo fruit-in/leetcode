@@ -554,6 +554,7 @@
 [1582][1582l]|[Special Positions in a Binary Matrix][1582]                              |![r]
 [1588][1588l]|[Sum of All Odd Length Subarrays][1588]                                   |![r]
 [1592][1592l]|[Rearrange Spaces Between Words][1592]                                    |![p]
+[1598][1598l]|[Crawler Log Folder][1598]                                                |![y]
 
 
 [p]:./ico/python.ico
@@ -1114,6 +1115,7 @@
 [1582]:./Easy/1582-Special%20Positions%20in%20a%20Binary%20Matrix/README.md#1582-special-positions-in-a-binary-matrix
 [1588]:./Easy/1588-Sum%20of%20All%20Odd%20Length%20Subarrays/README.md#1588-sum-of-all-odd-length-subarrays
 [1592]:./Easy/1592-Rearrange%20Spaces%20Between%20Words/README.md#1592-rearrange-spaces-between-words
+[1598]:./Easy/1598-Crawler%20Log%20Folder/README.md#1598-crawler-log-folder
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1686,3 +1688,4 @@
 [1582l]:https://leetcode.com/problems/special-positions-in-a-binary-matrix/
 [1588l]:https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
 [1592l]:https://leetcode.com/problems/rearrange-spaces-between-words/
+[1598l]:https://leetcode.com/problems/crawler-log-folder/

@@ -554,6 +554,7 @@
 [1582][1582l]|[二进制矩阵中的特殊位置][1582]                    |![r]
 [1588][1588l]|[所有奇数长度子数组的和][1588]                    |![r]
 [1592][1592l]|[重新排列单词间的空格][1592]                      |![p]
+[1598][1598l]|[文件夹操作日志搜集器][1598]                      |![y]
 
 
 [p]:./ico/python.ico
@@ -1114,6 +1115,7 @@
 [1582]:./Easy/1582-Special%20Positions%20in%20a%20Binary%20Matrix/README_CN.md#1582-二进制矩阵中的特殊位置
 [1588]:./Easy/1588-Sum%20of%20All%20Odd%20Length%20Subarrays/README_CN.md#1588-所有奇数长度子数组的和
 [1592]:./Easy/1592-Rearrange%20Spaces%20Between%20Words/README_CN.md#1592-重新排列单词间的空格
+[1598]:./Easy/1598-Crawler%20Log%20Folder/README_CN.md#1598-文件夹操作日志搜集器
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1686,3 +1688,4 @@
 [1582l]:https://leetcode-cn.com/problems/special-positions-in-a-binary-matrix/
 [1588l]:https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/
 [1592l]:https://leetcode-cn.com/problems/rearrange-spaces-between-words/
+[1598l]:https://leetcode-cn.com/problems/crawler-log-folder/
