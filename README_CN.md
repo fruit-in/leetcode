@@ -128,6 +128,7 @@
 [223][223l]  |[矩形面积][223]                                   |![y]&nbsp;&nbsp;![r]
 [225][225l]  |[用队列实现栈][225]                               |![r]
 [226][226l]  |[翻转二叉树][226]                                 |![p]
+[228][228l]  |[汇总区间][228]                                   |![p]
 [231][231l]  |[2的幂][231]                                      |![r]
 [232][232l]  |[用栈实现队列][232]                               |![r]
 [234][234l]  |[回文链表][234]                                   |![p]
@@ -690,6 +691,7 @@
 [223]:./Medium/0223-Rectangle%20Area/README_CN.md#223-矩形面积
 [225]:./Easy/0225-Implement%20Stack%20using%20Queues/README_CN.md#225-用队列实现栈
 [226]:./Easy/0226-Invert%20Binary%20Tree/README_CN.md#226-翻转二叉树
+[228]:./Easy/0228-Summary%20Ranges/README_CN.md#228-汇总区间
 [231]:./Easy/0231-Power%20of%20Two/README_CN.md#231-2的幂
 [232]:./Easy/0232-Implement%20Queue%20using%20Stacks/README_CN.md#232-用栈实现队列
 [234]:./Easy/0234-Palindrome%20Linked%20List/README_CN.md#234-回文链表
@@ -1253,6 +1255,7 @@
 [223l]:https://leetcode-cn.com/problems/rectangle-area/
 [225l]:https://leetcode-cn.com/problems/implement-stack-using-queues/
 [226l]:https://leetcode-cn.com/problems/invert-binary-tree/
+[228l]:https://leetcode-cn.com/problems/summary-ranges/
 [231l]:https://leetcode-cn.com/problems/power-of-two/
 [232l]:https://leetcode-cn.com/problems/implement-queue-using-stacks/
 [234l]:https://leetcode-cn.com/problems/palindrome-linked-list/

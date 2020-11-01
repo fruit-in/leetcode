@@ -128,6 +128,7 @@
 [223][223l]  |[Rectangle Area][223]                                                     |![y]&nbsp;&nbsp;![r]
 [225][225l]  |[Implement Stack using Queues][225]                                       |![r]
 [226][226l]  |[Invert Binary Tree][226]                                                 |![p]
+[228][228l]  |[Summary Ranges][228]                                                     |![p]
 [231][231l]  |[Power of Two][231]                                                       |![r]
 [232][232l]  |[Implement Queue using Stacks][232]                                       |![r]
 [234][234l]  |[Palindrome Linked List][234]                                             |![p]
@@ -690,6 +691,7 @@
 [223]:./Medium/0223-Rectangle%20Area/README.md#223-rectangle-area
 [225]:./Easy/0225-Implement%20Stack%20using%20Queues/README.md#225-implement-stack-using-queues
 [226]:./Easy/0226-Invert%20Binary%20Tree/README.md#226-invert-binary-tree
+[228]:./Easy/0228-Summary%20Ranges/README.md#228-summary-ranges
 [231]:./Easy/0231-Power%20of%20Two/README.md#231-power-of-two
 [232]:./Easy/0232-Implement%20Queue%20using%20Stacks/README.md#232-implement-queue-using-stacks
 [234]:./Easy/0234-Palindrome%20Linked%20List/README.md#234-palindrome-linked-list
@@ -1253,6 +1255,7 @@
 [223l]:https://leetcode.com/problems/rectangle-area/
 [225l]:https://leetcode.com/problems/implement-stack-using-queues/
 [226l]:https://leetcode.com/problems/invert-binary-tree/
+[228l]:https://leetcode.com/problems/summary-ranges/
 [231l]:https://leetcode.com/problems/power-of-two/
 [232l]:https://leetcode.com/problems/implement-queue-using-stacks/
 [234l]:https://leetcode.com/problems/palindrome-linked-list/
