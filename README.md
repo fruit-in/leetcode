@@ -129,6 +129,7 @@
 [225][225l]  |[Implement Stack using Queues][225]                                       |![r]
 [226][226l]  |[Invert Binary Tree][226]                                                 |![p]
 [228][228l]  |[Summary Ranges][228]                                                     |![p]
+[230][230l]  |[Kth Smallest Element in a BST][230]                                      |![y]
 [231][231l]  |[Power of Two][231]                                                       |![r]
 [232][232l]  |[Implement Queue using Stacks][232]                                       |![r]
 [234][234l]  |[Palindrome Linked List][234]                                             |![p]
@@ -693,6 +694,7 @@
 [225]:./Easy/0225-Implement%20Stack%20using%20Queues/README.md#225-implement-stack-using-queues
 [226]:./Easy/0226-Invert%20Binary%20Tree/README.md#226-invert-binary-tree
 [228]:./Easy/0228-Summary%20Ranges/README.md#228-summary-ranges
+[230]:./Medium/0230-Kth%20Smallest%20Element%20in%20a%20BST/README.md#230-kth-smallest-element-in-a-bst
 [231]:./Easy/0231-Power%20of%20Two/README.md#231-power-of-two
 [232]:./Easy/0232-Implement%20Queue%20using%20Stacks/README.md#232-implement-queue-using-stacks
 [234]:./Easy/0234-Palindrome%20Linked%20List/README.md#234-palindrome-linked-list
@@ -1258,6 +1260,7 @@
 [225l]:https://leetcode.com/problems/implement-stack-using-queues/
 [226l]:https://leetcode.com/problems/invert-binary-tree/
 [228l]:https://leetcode.com/problems/summary-ranges/
+[230l]:https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 [231l]:https://leetcode.com/problems/power-of-two/
 [232l]:https://leetcode.com/problems/implement-queue-using-stacks/
 [234l]:https://leetcode.com/problems/palindrome-linked-list/

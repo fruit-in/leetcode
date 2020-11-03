@@ -129,6 +129,7 @@
 [225][225l]  |[用队列实现栈][225]                               |![r]
 [226][226l]  |[翻转二叉树][226]                                 |![p]
 [228][228l]  |[汇总区间][228]                                   |![p]
+[230][230l]  |[二叉搜索树中第K小的元素][230]                    |![y]
 [231][231l]  |[2的幂][231]                                      |![r]
 [232][232l]  |[用栈实现队列][232]                               |![r]
 [234][234l]  |[回文链表][234]                                   |![p]
@@ -693,6 +694,7 @@
 [225]:./Easy/0225-Implement%20Stack%20using%20Queues/README_CN.md#225-用队列实现栈
 [226]:./Easy/0226-Invert%20Binary%20Tree/README_CN.md#226-翻转二叉树
 [228]:./Easy/0228-Summary%20Ranges/README_CN.md#228-汇总区间
+[230]:./Medium/0230-Kth%20Smallest%20Element%20in%20a%20BST/README_CN.md#230-二叉搜索树中第k小的元素
 [231]:./Easy/0231-Power%20of%20Two/README_CN.md#231-2的幂
 [232]:./Easy/0232-Implement%20Queue%20using%20Stacks/README_CN.md#232-用栈实现队列
 [234]:./Easy/0234-Palindrome%20Linked%20List/README_CN.md#234-回文链表
@@ -1258,6 +1260,7 @@
 [225l]:https://leetcode-cn.com/problems/implement-stack-using-queues/
 [226l]:https://leetcode-cn.com/problems/invert-binary-tree/
 [228l]:https://leetcode-cn.com/problems/summary-ranges/
+[230l]:https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/
 [231l]:https://leetcode-cn.com/problems/power-of-two/
 [232l]:https://leetcode-cn.com/problems/implement-queue-using-stacks/
 [234l]:https://leetcode-cn.com/problems/palindrome-linked-list/
