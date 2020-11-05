@@ -194,6 +194,7 @@
 [419][419l]  |[甲板上的战舰][419]                               |![r]
 [423][423l]  |[从英文中重建数字][423]                           |![r]
 [429][429l]  |[N叉树的层序遍历][429]                            |![p]&nbsp;&nbsp;![y]
+[430][430l]  |[扁平化多级双向链表][430]                         |![y]
 [434][434l]  |[字符串中的单词数][434]                           |![p]
 [437][437l]  |[路径总和 III][437]                               |![p]
 [441][441l]  |[排列硬币][441]                                   |![p]
@@ -761,6 +762,7 @@
 [419]:./Medium/0419-Battleships%20in%20a%20Board/README_CN.md#419-甲板上的战舰
 [423]:./Medium/0423-Reconstruct%20Original%20Digits%20from%20English/README_CN.md#423-从英文中重建数字
 [429]:./Medium/0429-N-ary%20Tree%20Level%20Order%20Traversal/README_CN.md#429-n叉树的层序遍历
+[430]:./Medium/0430-Flatten%20a%20Multilevel%20Doubly%20Linked%20List/README_CN.md#430-扁平化多级双向链表
 [434]:./Easy/0434-Number%20of%20Segments%20in%20a%20String/README_CN.md#434-字符串中的单词数
 [437]:./Easy/0437-Path%20Sum%20III/README_CN.md#437-路径总和-iii
 [441]:./Easy/0441-Arranging%20Coins/README_CN.md#441-排列硬币
