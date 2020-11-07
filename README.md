@@ -358,6 +358,7 @@
 [888][888l]  |[Fair Candy Swap][888]                                                    |![r]
 [892][892l]  |[Surface Area of 3D Shapes][892]                                          |![y]&nbsp;&nbsp;![r]
 [893][893l]  |[Groups of Special-Equivalent Strings][893]                               |![r]
+[894][894l]  |[All Possible Full Binary Trees][894]                                     |![y]
 [895][895l]  |[Maximum Frequency Stack][895]                                            |![r]
 [896][896l]  |[Monotonic Array][896]                                                    |![r]
 [897][897l]  |[Increasing Order Search Tree][897]                                       |![p]
@@ -927,6 +928,7 @@
 [888]:./Easy/0888-Fair%20Candy%20Swap/README.md#888-fair-candy-swap
 [892]:./Easy/0892-Surface%20Area%20of%203D%20Shapes/README.md#892-surface-area-of-3d-shapes
 [893]:./Easy/0893-Groups%20of%20Special-Equivalent%20Strings/README.md#893-groups-of-special-equivalent-strings
+[894]:./Medium/0894-All%20Possible%20Full%20Binary%20Trees/README.md#894-all-possible-full-binary-trees
 [895]:./Hard/0895-Maximum%20Frequency%20Stack/README.md#895-maximum-frequency-stack
 [896]:./Easy/0896-Monotonic%20Array/README.md#896-monotonic-array
 [897]:./Easy/0897-Increasing%20Order%20Search%20Tree/README.md#897-increasing-order-search-tree
@@ -1506,6 +1508,7 @@
 [888l]:https://leetcode.com/problems/fair-candy-swap/
 [892l]:https://leetcode.com/problems/surface-area-of-3d-shapes/
 [893l]:https://leetcode.com/problems/groups-of-special-equivalent-strings/
+[894l]:https://leetcode.com/problems/all-possible-full-binary-trees/
 [895l]:https://leetcode.com/problems/maximum-frequency-stack/
 [896l]:https://leetcode.com/problems/monotonic-array/
 [897l]:https://leetcode.com/problems/increasing-order-search-tree/
