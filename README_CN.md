@@ -530,6 +530,7 @@
 [1446][1446l]|[连续字符][1446]                                  |![r]
 [1448][1448l]|[统计二叉树中好节点的数目][1448]                  |![p]
 [1450][1450l]|[在既定时间做作业的学生人数][1450]                |![r]
+[1451][1451l]|[重新排列句子中的单词][1451]                      |![y]
 [1455][1455l]|[检查单词是否为句中其他单词的前缀][1455]          |![r]
 [1456][1456l]|[定长子串中元音的最大数目][1456]                  |![p]&nbsp;&nbsp;![y]
 [1457][1457l]|[二叉树中的伪回文路径][1457]                      |![p]
@@ -1102,6 +1103,7 @@
 [1446]:./Easy/1446-Consecutive%20Characters/README_CN.md#1446-连续字符
 [1448]:./Medium/1448-Count%20Good%20Nodes%20in%20Binary%20Tree/README_CN.md#1448-统计二叉树中好节点的数目
 [1450]:./Easy/1450-Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/README_CN.md#1450-在既定时间做作业的学生人数
+[1451]:./Medium/1451-Rearrange%20Words%20in%20a%20Sentence/README_CN.md#1451-重新排列句子中的单词
 [1455]:./Easy/1455-Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence/README_CN.md#1455-检查单词是否为句中其他单词的前缀
 [1456]:./Medium/1456-Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/README_CN.md#1456-定长子串中元音的最大数目
 [1457]:./Medium/1457-Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/README_CN.md#1457-二叉树中的伪回文路径
@@ -1684,6 +1686,7 @@
 [1446l]:https://leetcode-cn.com/problems/consecutive-characters/
 [1448l]:https://leetcode-cn.com/problems/count-good-nodes-in-binary-tree/
 [1450l]:https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/
+[1451l]:https://leetcode-cn.com/problems/rearrange-words-in-a-sentence/
 [1455l]:https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
 [1456l]:https://leetcode-cn.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 [1457l]:https://leetcode-cn.com/problems/pseudo-palindromic-paths-in-a-binary-tree/

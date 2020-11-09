@@ -530,6 +530,7 @@
 [1446][1446l]|[Consecutive Characters][1446]                                            |![r]
 [1448][1448l]|[Count Good Nodes in Binary Tree][1448]                                   |![p]
 [1450][1450l]|[Number of Students Doing Homework at a Given Time][1450]                 |![r]
+[1451][1451l]|[Rearrange Words in a Sentence][1451]                                     |![y]
 [1455][1455l]|[Check If a Word Occurs As a Prefix of Any Word in a Sentence][1455]      |![r]
 [1456][1456l]|[Maximum Number of Vowels in a Substring of Given Length][1456]           |![p]&nbsp;&nbsp;![y]
 [1457][1457l]|[Pseudo-Palindromic Paths in a Binary Tree][1457]                         |![p]
@@ -1102,6 +1103,7 @@
 [1446]:./Easy/1446-Consecutive%20Characters/README.md#1446-consecutive-characters
 [1448]:./Medium/1448-Count%20Good%20Nodes%20in%20Binary%20Tree/README.md#1448-count-good-nodes-in-binary-tree
 [1450]:./Easy/1450-Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/README.md#1450-number-of-students-doing-homework-at-a-given-time
+[1451]:./Medium/1451-Rearrange%20Words%20in%20a%20Sentence/README.md#1451-rearrange-words-in-a-sentence
 [1455]:./Easy/1455-Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence/README.md#1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
 [1456]:./Medium/1456-Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/README.md#1456-maximum-number-of-vowels-in-a-substring-of-given-length
 [1457]:./Medium/1457-Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/README.md#1457-pseudo-palindromic-paths-in-a-binary-tree
@@ -1684,6 +1686,7 @@
 [1446l]:https://leetcode.com/problems/consecutive-characters/
 [1448l]:https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 [1450l]:https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
+[1451l]:https://leetcode.com/problems/rearrange-words-in-a-sentence/
 [1455l]:https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
 [1456l]:https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 [1457l]:https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
