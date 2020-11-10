@@ -381,6 +381,7 @@
 [941][941l]  |[有效的山脉数组][941]                             |![r]
 [942][942l]  |[增减字符串匹配][942]                             |![p]
 [944][944l]  |[删列造序][944]                                   |![p]
+[946][946l]  |[验证栈序列][946]                                 |![y]&nbsp;&nbsp;![r]
 [948][948l]  |[令牌放置][948]                                   |![y]&nbsp;&nbsp;![r]
 [949][949l]  |[给定数字能组成的最大时间][949]                   |![p]
 [950][950l]  |[按递增顺序显示卡牌][950]                         |![r]
@@ -958,6 +959,7 @@
 [941]:./Easy/0941-Valid%20Mountain%20Array/README_CN.md#941-有效的山脉数组
 [942]:./Easy/0942-DI%20String%20Match/README_CN.md#942-增减字符串匹配
 [944]:./Easy/0944-Delete%20Columns%20to%20Make%20Sorted/README_CN.md#944-删列造序
+[946]:./Medium/0946-Validate%20Stack%20Sequences/README_CN.md#946-验证栈序列
 [948]:./Medium/0948-Bag%20of%20Tokens/README_CN.md#948-令牌放置
 [949]:./Easy/0949-Largest%20Time%20for%20Given%20Digits/README_CN.md#949-给定数字能组成的最大时间
 [950]:./Medium/0950-Reveal%20Cards%20In%20Increasing%20Order/README_CN.md#950-按递增顺序显示卡牌
@@ -1545,6 +1547,7 @@
 [941l]:https://leetcode-cn.com/problems/valid-mountain-array/
 [942l]:https://leetcode-cn.com/problems/di-string-match/
 [944l]:https://leetcode-cn.com/problems/delete-columns-to-make-sorted/
+[946l]:https://leetcode-cn.com/problems/validate-stack-sequences/
 [948l]:https://leetcode-cn.com/problems/bag-of-tokens/
 [949l]:https://leetcode-cn.com/problems/largest-time-for-given-digits/
 [950l]:https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/

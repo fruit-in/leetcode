@@ -381,6 +381,7 @@
 [941][941l]  |[Valid Mountain Array][941]                                               |![r]
 [942][942l]  |[DI String Match][942]                                                    |![p]
 [944][944l]  |[Delete Columns to Make Sorted][944]                                      |![p]
+[946][946l]  |[Validate Stack Sequences][946]                                           |![y]&nbsp;&nbsp;![r]
 [948][948l]  |[Bag of Tokens][948]                                                      |![y]&nbsp;&nbsp;![r]
 [949][949l]  |[Largest Time for Given Digits][949]                                      |![p]
 [950][950l]  |[Reveal Cards In Increasing Order][950]                                   |![r]
@@ -958,6 +959,7 @@
 [941]:./Easy/0941-Valid%20Mountain%20Array/README.md#941-valid-mountain-array
 [942]:./Easy/0942-DI%20String%20Match/README.md#942-di-string-match
 [944]:./Easy/0944-Delete%20Columns%20to%20Make%20Sorted/README.md#944-delete-columns-to-make-sorted
+[946]:./Medium/0946-Validate%20Stack%20Sequences/README.md#946-validate-stack-sequences
 [948]:./Medium/0948-Bag%20of%20Tokens/README.md#948-bag-of-tokens
 [949]:./Easy/0949-Largest%20Time%20for%20Given%20Digits/README.md#949-largest-time-for-given-digits
 [950]:./Medium/0950-Reveal%20Cards%20In%20Increasing%20Order/README.md#950-reveal-cards-in-increasing-order
@@ -1545,6 +1547,7 @@
 [941l]:https://leetcode.com/problems/valid-mountain-array/
 [942l]:https://leetcode.com/problems/di-string-match/
 [944l]:https://leetcode.com/problems/delete-columns-to-make-sorted/
+[946l]:https://leetcode.com/problems/validate-stack-sequences/
 [948l]:https://leetcode.com/problems/bag-of-tokens/
 [949l]:https://leetcode.com/problems/largest-time-for-given-digits/
 [950l]:https://leetcode.com/problems/reveal-cards-in-increasing-order/
