@@ -275,6 +275,7 @@
 [645][645l]  |[错误的集合][645]                                 |![r]
 [653][653l]  |[两数之和 IV - 输入 BST][653]                     |![p]
 [654][654l]  |[最大二叉树][654]                                 |![p]&nbsp;&nbsp;![y]
+[655][655l]  |[输出二叉树][655]                                 |![p]
 [657][657l]  |[机器人能否返回原点][657]                         |![p]&nbsp;&nbsp;![r]
 [661][661l]  |[图片平滑器][661]                                 |![r]
 [665][665l]  |[非递减数列][665]                                 |![p]
@@ -848,6 +849,7 @@
 [645]:./Easy/0645-Set%20Mismatch/README_CN.md#645-错误的集合
 [653]:./Easy/0653-Two%20Sum%20IV%20-%20Input%20is%20a%20BST/README_CN.md#653-两数之和-iv---输入-bst
 [654]:./Medium/0654-Maximum%20Binary%20Tree/README_CN.md#654-最大二叉树
+[655]:./Medium/0655-Print%20Binary%20Tree/README_CN.md#655-输出二叉树
 [657]:./Easy/0657-Robot%20Return%20to%20Origin/README_CN.md#657-机器人能否返回原点
 [661]:./Easy/0661-Image%20Smoother/README_CN.md#661-图片平滑器
 [665]:./Easy/0665-Non-decreasing%20Array/README_CN.md#665-非递减数列
@@ -1429,6 +1431,7 @@
 [652l]:https://leetcode-cn.com/problems/find-duplicate-subtrees/
 [653l]:https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/
 [654l]:https://leetcode-cn.com/problems/maximum-binary-tree/
+[655l]:https://leetcode-cn.com/problems/print-binary-tree/
 [657l]:https://leetcode-cn.com/problems/robot-return-to-origin/
 [661l]:https://leetcode-cn.com/problems/image-smoother/
 [665l]:https://leetcode-cn.com/problems/non-decreasing-array/

@@ -275,6 +275,7 @@
 [645][645l]  |[Set Mismatch][645]                                                       |![r]
 [653][653l]  |[Two Sum IV - Input is a BST][653]                                        |![p]
 [654][654l]  |[Maximum Binary Tree][654]                                                |![p]&nbsp;&nbsp;![y]
+[655][655l]  |[Print Binary Tree][655]                                                  |![p]
 [657][657l]  |[Robot Return to Origin][657]                                             |![p]&nbsp;&nbsp;![r]
 [661][661l]  |[Image Smoother][661]                                                     |![r]
 [665][665l]  |[Non-decreasing Array][665]                                               |![p]
@@ -848,6 +849,7 @@
 [645]:./Easy/0645-Set%20Mismatch/README.md#645-set-mismatch
 [653]:./Easy/0653-Two%20Sum%20IV%20-%20Input%20is%20a%20BST/README.md#653-two-sum-iv---input-is-a-bst
 [654]:./Medium/0654-Maximum%20Binary%20Tree/README.md#654-maximum-binary-tree
+[655]:./Medium/0655-Print%20Binary%20Tree/README.md#655-print-binary-tree
 [657]:./Easy/0657-Robot%20Return%20to%20Origin/README.md#657-robot-return-to-origin
 [661]:./Easy/0661-Image%20Smoother/README.md#661-image-smoother
 [665]:./Easy/0665-Non-decreasing%20Array/README.md#665-non-decreasing-array
@@ -1429,6 +1431,7 @@
 [652l]:https://leetcode.com/problems/find-duplicate-subtrees/
 [653l]:https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
 [654l]:https://leetcode.com/problems/maximum-binary-tree/
+[655l]:https://leetcode.com/problems/print-binary-tree/
 [657l]:https://leetcode.com/problems/robot-return-to-origin/
 [661l]:https://leetcode.com/problems/image-smoother/
 [665l]:https://leetcode.com/problems/non-decreasing-array/
