@@ -135,6 +135,7 @@
 [232][232l]  |[用栈实现队列][232]                               |![r]
 [234][234l]  |[回文链表][234]                                   |![p]
 [235][235l]  |[二叉搜索树的最近公共祖先][235]                   |![p]
+[236][236l]  |[二叉树的最近公共祖先][236]                       |![y]
 [237][237l]  |[删除链表中的节点][237]                           |![p]
 [238][238l]  |[除自身以外数组的乘积][238]                       |![r]
 [240][240l]  |[搜索二维矩阵 II][240]                            |![y]&nbsp;&nbsp;![k]
@@ -713,6 +714,7 @@
 [232]:./Easy/0232-Implement%20Queue%20using%20Stacks/README_CN.md#232-用栈实现队列
 [234]:./Easy/0234-Palindrome%20Linked%20List/README_CN.md#234-回文链表
 [235]:./Easy/0235-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/README_CN.md#235-二叉搜索树的最近公共祖先
+[236]:./Medium/0236-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/README_CN.md#236-二叉树的最近公共祖先
 [237]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List/README_CN.md#237-删除链表中的节点
 [238]:./Medium/0238-Product%20of%20Array%20Except%20Self/README_CN.md#238-除自身以外数组的乘积
 [240]:./Medium/0240-Search%20a%202D%20Matrix%20II/README_CN.md#240-搜索二维矩阵-ii

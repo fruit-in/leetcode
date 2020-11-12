@@ -135,6 +135,7 @@
 [232][232l]  |[Implement Queue using Stacks][232]                                       |![r]
 [234][234l]  |[Palindrome Linked List][234]                                             |![p]
 [235][235l]  |[Lowest Common Ancestor of a Binary Search Tree][235]                     |![p]
+[236][236l]  |[Lowest Common Ancestor of a Binary Tree][236]                            |![y]
 [237][237l]  |[Delete Node in a Linked List][237]                                       |![p]
 [238][238l]  |[Product of Array Except Self][238]                                       |![r]
 [240][240l]  |[Search a 2D Matrix II][240]                                              |![y]&nbsp;&nbsp;![k]
@@ -713,6 +714,7 @@
 [232]:./Easy/0232-Implement%20Queue%20using%20Stacks/README.md#232-implement-queue-using-stacks
 [234]:./Easy/0234-Palindrome%20Linked%20List/README.md#234-palindrome-linked-list
 [235]:./Easy/0235-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/README.md#235-lowest-common-ancestor-of-a-binary-search-tree
+[236]:./Medium/0236-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/README.md#236-lowest-common-ancestor-of-a-binary-tree
 [237]:./Easy/0237-Delete%20Node%20in%20a%20Linked%20List/README.md#237-delete-node-in-a-linked-list
 [238]:./Medium/0238-Product%20of%20Array%20Except%20Self/README.md#238-product-of-array-except-self
 [240]:./Medium/0240-Search%20a%202D%20Matrix%20II/README.md#240-search-a-2d-matrix-ii
