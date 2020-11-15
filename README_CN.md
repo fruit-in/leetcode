@@ -290,6 +290,7 @@
 [686][686l]  |[重复叠加字符串匹配][686]                         |![p]
 [687][687l]  |[最长同值路径][687]                               |![p]
 [690][690l]  |[员工的重要性][690]                               |![p]
+[692][692l]  |[前K个高频单词][692]                              |![y]
 [693][693l]  |[交替位二进制数][693]                             |![r]
 [696][696l]  |[计数二进制子串][696]                             |![p]&nbsp;&nbsp;![y]
 [697][697l]  |[数组的度][697]                                   |![r]
@@ -871,6 +872,7 @@
 [686]:./Easy/0686-Repeated%20String%20Match/README_CN.md#686-重复叠加字符串匹配
 [687]:./Easy/0687-Longest%20Univalue%20Path/README_CN.md#687-最长同值路径
 [690]:./Easy/0690-Employee%20Importance/README_CN.md#690-员工的重要性
+[692]:./Medium/0692-Top%20K%20Frequent%20Words/README_CN.md#692-前k个高频单词
 [693]:./Easy/0693-Binary%20Number%20with%20Alternating%20Bits/README_CN.md#693-交替位二进制数
 [696]:./Easy/0696-Count%20Binary%20Substrings/README_CN.md#696-计数二进制子串
 [697]:./Easy/0697-Degree%20of%20an%20Array/README_CN.md#697-数组的度
@@ -1460,6 +1462,7 @@
 [686l]:https://leetcode-cn.com/problems/repeated-string-match/
 [687l]:https://leetcode-cn.com/problems/longest-univalue-path/
 [690l]:https://leetcode-cn.com/problems/employee-importance/
+[692l]:https://leetcode-cn.com/problems/top-k-frequent-words/
 [693l]:https://leetcode-cn.com/problems/binary-number-with-alternating-bits/
 [696l]:https://leetcode-cn.com/problems/count-binary-substrings/
 [697l]:https://leetcode-cn.com/problems/degree-of-an-array/

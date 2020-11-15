@@ -290,6 +290,7 @@
 [686][686l]  |[Repeated String Match][686]                                              |![p]
 [687][687l]  |[Longest Univalue Path][687]                                              |![p]
 [690][690l]  |[Employee Importance][690]                                                |![p]
+[692][692l]  |[Top K Frequent Words][692]                                               |![y]
 [693][693l]  |[Binary Number with Alternating Bits][693]                                |![r]
 [696][696l]  |[Count Binary Substrings][696]                                            |![p]&nbsp;&nbsp;![y]
 [697][697l]  |[Degree of an Array][697]                                                 |![r]
@@ -871,6 +872,7 @@
 [686]:./Easy/0686-Repeated%20String%20Match/README.md#686-repeated-string-match
 [687]:./Easy/0687-Longest%20Univalue%20Path/README.md#687-longest-univalue-path
 [690]:./Easy/0690-Employee%20Importance/README.md#690-employee-importance
+[692]:./Medium/0692-Top%20K%20Frequent%20Words/README.md#692-top-k-frequent-words
 [693]:./Easy/0693-Binary%20Number%20with%20Alternating%20Bits/README.md#693-binary-number-with-alternating-bits
 [696]:./Easy/0696-Count%20Binary%20Substrings/README.md#696-count-binary-substrings
 [697]:./Easy/0697-Degree%20of%20an%20Array/README.md#697-degree-of-an-array
@@ -1460,6 +1462,7 @@
 [686l]:https://leetcode.com/problems/repeated-string-match/
 [687l]:https://leetcode.com/problems/longest-univalue-path/
 [690l]:https://leetcode.com/problems/employee-importance/
+[692l]:https://leetcode.com/problems/top-k-frequent-words/
 [693l]:https://leetcode.com/problems/binary-number-with-alternating-bits/
 [696l]:https://leetcode.com/problems/count-binary-substrings/
 [697l]:https://leetcode.com/problems/degree-of-an-array/
