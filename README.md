@@ -413,6 +413,7 @@
 [1009][1009l]|[Complement of Base 10 Integer][1009]                                     |![r]
 [1010][1010l]|[Pairs of Songs With Total Durations Divisible by 60][1010]               |![r]
 [1013][1013l]|[Partition Array Into Three Parts With Equal Sum][1013]                   |![r]
+[1014][1014l]|[Best Sightseeing Pair][1014]                                             |![r]
 [1017][1017l]|[Convert to Base -2][1017]                                                |![r]
 [1018][1018l]|[Binary Prefix Divisible By 5][1018]                                      |![p]
 [1021][1021l]|[Remove Outermost Parentheses][1021]                                      |![r]
@@ -996,6 +997,7 @@
 [1009]:./Easy/1009-Complement%20of%20Base%2010%20Integer/README.md#1009-complement-of-base-10-integer
 [1010]:./Easy/1010-Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060/README.md#1010-pairs-of-songs-with-total-durations-divisible-by-60
 [1013]:./Easy/1013-Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/README.md#1013-partition-array-into-three-parts-with-equal-sum
+[1014]:./Medium/1014-Best%20Sightseeing%20Pair/README.md#1014-best-sightseeing-pair
 [1017]:./Medium/1017-Convert%20to%20Base%20-2/README.md#1017-convert-to-base--2
 [1018]:./Easy/1018-Binary%20Prefix%20Divisible%20By%205/README.md#1018-binary-prefix-divisible-by-5
 [1021]:./Easy/1021-Remove%20Outermost%20Parentheses/README.md#1021-remove-outermost-parentheses
@@ -1588,6 +1590,7 @@
 [1009l]:https://leetcode.com/problems/complement-of-base-10-integer/
 [1010l]:https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
 [1013l]:https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
+[1014l]:https://leetcode.com/problems/best-sightseeing-pair/
 [1017l]:https://leetcode.com/problems/convert-to-base-2/
 [1018l]:https://leetcode.com/problems/binary-prefix-divisible-by-5/
 [1021l]:https://leetcode.com/problems/remove-outermost-parentheses/
