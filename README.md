@@ -574,6 +574,7 @@
 [1566][1566l]|[Detect Pattern of Length M Repeated K or More Times][1566]               |![r]
 [1567][1567l]|[Maximum Length of Subarray With Positive Product][1567]                  |![r]
 [1572][1572l]|[Matrix Diagonal Sum][1572]                                               |![r]
+[1573][1573l]|[Number of Ways to Split a String][1573]                                  |![r]
 [1576][1576l]|[Replace All ?'s to Avoid Consecutive Repeating Characters][1576]         |![r]
 [1582][1582l]|[Special Positions in a Binary Matrix][1582]                              |![r]
 [1588][1588l]|[Sum of All Odd Length Subarrays][1588]                                   |![r]
@@ -1159,6 +1160,7 @@
 [1566]:./Easy/1566-Detect%20Pattern%20of%20Length%20M%20Repeated%20K%20or%20More%20Times/README.md#1566-detect-pattern-of-length-m-repeated-k-or-more-times
 [1567]:./Medium/1567-Maximum%20Length%20of%20Subarray%20With%20Positive%20Product/README.md#1567-maximum-length-of-subarray-with-positive-product
 [1572]:./Easy/1572-Matrix%20Diagonal%20Sum/README.md#1572-matrix-diagonal-sum
+[1573]:./Medium/1573-Number%20of%20Ways%20to%20Split%20a%20String/README.md#1573-number-of-ways-to-split-a-string
 [1576]:./Easy/1576-Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters/README.md#1576-replace-all-s-to-avoid-consecutive-repeating-characters
 [1582]:./Easy/1582-Special%20Positions%20in%20a%20Binary%20Matrix/README.md#1582-special-positions-in-a-binary-matrix
 [1588]:./Easy/1588-Sum%20of%20All%20Odd%20Length%20Subarrays/README.md#1588-sum-of-all-odd-length-subarrays
@@ -1753,6 +1755,7 @@
 [1566l]:https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
 [1567l]:https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/
 [1572l]:https://leetcode.com/problems/matrix-diagonal-sum/
+[1573l]:https://leetcode.com/problems/number-of-ways-to-split-a-string/
 [1576l]:https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
 [1582l]:https://leetcode.com/problems/special-positions-in-a-binary-matrix/
 [1588l]:https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
