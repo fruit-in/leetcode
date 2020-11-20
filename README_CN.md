@@ -569,6 +569,7 @@
 [1551][1551l]|[使数组中所有元素相等的最小操作数][1551]          |![y]&nbsp;&nbsp;![r]
 [1556][1556l]|[千位分隔数][1556]                                |![r]
 [1557][1557l]|[可以到达所有点的最少点数目][1557]                |![r]
+[1558][1558l]|[得到目标数组的最少函数调用次数][1558]            |![r]
 [1560][1560l]|[圆形赛道上经过次数最多的扇区][1560]              |![r]
 [1561][1561l]|[你可以获得的最大硬币数目][1561]                  |![r]
 [1566][1566l]|[重复至少 K 次且长度为 M 的模式][1566]            |![r]
@@ -1155,6 +1156,7 @@
 [1551]:./Medium/1551-Minimum%20Operations%20to%20Make%20Array%20Equal/README_CN.md#1551-使数组中所有元素相等的最小操作数
 [1556]:./Easy/1556-Thousand%20Separator/README_CN.md#1556-千位分隔数
 [1557]:./Medium/1557-Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/README_CN.md#1557-可以到达所有点的最少点数目
+[1558]:./Medium/1558-Minimum%20Numbers%20of%20Function%20Calls%20to%20Make%20Target%20Array/README_CN.md#1558-得到目标数组的最少函数调用次数
 [1560]:./Easy/1560-Most%20Visited%20Sector%20in%20a%20Circular%20Track/README_CN.md#1560-圆形赛道上经过次数最多的扇区
 [1561]:./Medium/1561-Maximum%20Number%20of%20Coins%20You%20Can%20Get/README_CN.md#1561-你可以获得的最大硬币数目
 [1566]:./Easy/1566-Detect%20Pattern%20of%20Length%20M%20Repeated%20K%20or%20More%20Times/README_CN.md#1566-重复至少-k-次且长度为-m-的模式
@@ -1750,6 +1752,7 @@
 [1551l]:https://leetcode-cn.com/problems/minimum-operations-to-make-array-equal/
 [1556l]:https://leetcode-cn.com/problems/thousand-separator/
 [1557l]:https://leetcode-cn.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+[1558l]:https://leetcode-cn.com/problems/minimum-numbers-of-function-calls-to-make-target-array/
 [1560l]:https://leetcode-cn.com/problems/most-visited-sector-in-a-circular-track/
 [1561l]:https://leetcode-cn.com/problems/maximum-number-of-coins-you-can-get/
 [1566l]:https://leetcode-cn.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
