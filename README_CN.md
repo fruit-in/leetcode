@@ -552,6 +552,7 @@
 [1476][1476l]|[子矩形查询][1476]                                |![r]
 [1480][1480l]|[一维数组的动态和][1480]                          |![y]&nbsp;&nbsp;![r]
 [1486][1486l]|[数组异或操作][1486]                              |![y]&nbsp;&nbsp;![r]
+[1487][1487l]|[保证文件名唯一][1487]                            |![y]
 [1491][1491l]|[去掉最低工资和最高工资后的工资平均值][1491]      |![y]&nbsp;&nbsp;![r]
 [1492][1492l]|[n 的第 k 个因子][1492]                           |![p]&nbsp;&nbsp;![y]&nbsp;&nbsp;![r]
 [1496][1496l]|[判断路径是否相交][1496]                          |![r]
@@ -1139,6 +1140,7 @@
 [1476]:./Medium/1476-Subrectangle%20Queries/README_CN.md#1476-子矩形查询
 [1480]:./Easy/1480-Running%20Sum%20of%201d%20Array/README_CN.md#1480-一维数组的动态和
 [1486]:./Easy/1486-XOR%20Operation%20in%20an%20Array/README_CN.md#1486-数组异或操作
+[1487]:./Medium/1487-Making%20File%20Names%20Unique/README_CN.md#1487-保证文件名唯一
 [1491]:./Easy/1491-Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README_CN.md#1491-去掉最低工资和最高工资后的工资平均值
 [1492]:./Medium/1492-The%20kth%20Factor%20of%20n/README_CN.md#1492-n-的第-k-个因子
 [1496]:./Easy/1496-Path%20Crossing/README_CN.md#1496-判断路径是否相交
@@ -1735,6 +1737,7 @@
 [1476l]:https://leetcode-cn.com/problems/subrectangle-queries/
 [1480l]:https://leetcode-cn.com/problems/running-sum-of-1d-array/
 [1486l]:https://leetcode-cn.com/problems/xor-operation-in-an-array/
+[1487l]:https://leetcode-cn.com/problems/making-file-names-unique/
 [1491l]:https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [1492l]:https://leetcode-cn.com/problems/the-kth-factor-of-n/
 [1496l]:https://leetcode-cn.com/problems/path-crossing/

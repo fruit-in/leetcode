@@ -552,6 +552,7 @@
 [1476][1476l]|[Subrectangle Queries][1476]                                              |![r]
 [1480][1480l]|[Running Sum of 1d Array][1480]                                           |![y]&nbsp;&nbsp;![r]
 [1486][1486l]|[XOR Operation in an Array][1486]                                         |![y]&nbsp;&nbsp;![r]
+[1487][1487l]|[Making File Names Unique][1487]                                          |![y]
 [1491][1491l]|[Average Salary Excluding the Minimum and Maximum Salary][1491]           |![y]&nbsp;&nbsp;![r]
 [1492][1492l]|[The kth Factor of n][1492]                                               |![p]&nbsp;&nbsp;![y]&nbsp;&nbsp;![r]
 [1496][1496l]|[Path Crossing][1496]                                                     |![r]
@@ -1139,6 +1140,7 @@
 [1476]:./Medium/1476-Subrectangle%20Queries/README.md#1476-subrectangle-queries
 [1480]:./Easy/1480-Running%20Sum%20of%201d%20Array/README.md#1480-running-sum-of-1d-array
 [1486]:./Easy/1486-XOR%20Operation%20in%20an%20Array/README.md#1486-xor-operation-in-an-array
+[1487]:./Medium/1487-Making%20File%20Names%20Unique/README.md#1487-making-file-names-unique
 [1491]:./Easy/1491-Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README.md#1491-average-salary-excluding-the-minimum-and-maximum-salary
 [1492]:./Medium/1492-The%20kth%20Factor%20of%20n/README.md#1492-the-kth-factor-of-n
 [1496]:./Easy/1496-Path%20Crossing/README.md#1496-path-crossing
@@ -1735,6 +1737,7 @@
 [1476l]:https://leetcode.com/problems/subrectangle-queries/
 [1480l]:https://leetcode.com/problems/running-sum-of-1d-array/
 [1486l]:https://leetcode.com/problems/xor-operation-in-an-array/
+[1487l]:https://leetcode.com/problems/making-file-names-unique/
 [1491l]:https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [1492l]:https://leetcode.com/problems/the-kth-factor-of-n/
 [1496l]:https://leetcode.com/problems/path-crossing/
