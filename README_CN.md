@@ -559,6 +559,7 @@
 [1502][1502l]|[判断能否形成等差数列][1502]                      |![y]&nbsp;&nbsp;![r]
 [1507][1507l]|[转变日期格式][1507]                              |![p]
 [1512][1512l]|[好数对的数目][1512]                              |![y]&nbsp;&nbsp;![r]
+[1513][1513l]|[仅含 1 的子串数][1513]                           |![r]
 [1518][1518l]|[换酒问题][1518]                                  |![y]&nbsp;&nbsp;![r]
 [1523][1523l]|[在区间范围内统计奇数数目][1523]                  |![y]
 [1528][1528l]|[重新排列字符串][1528]                            |![p]&nbsp;&nbsp;![y]
@@ -1147,6 +1148,7 @@
 [1502]:./Easy/1502-Can%20Make%20Arithmetic%20Progression%20From%20Sequence/README_CN.md#1502-判断能否形成等差数列
 [1507]:./Easy/1507-Reformat%20Date/README_CN.md#1507-转变日期格式
 [1512]:./Easy/1512-Number%20of%20Good%20Pairs/README_CN.md#1512-好数对的数目
+[1513]:./Medium/1513-Number%20of%20Substrings%20With%20Only%201s/README_CN.md#1513-仅含-1-的子串数
 [1518]:./Easy/1518-Water%20Bottles/README_CN.md#1518-换酒问题
 [1523]:./Easy/1523-Count%20Odd%20Numbers%20in%20an%20Interval%20Range/README_CN.md#1523-在区间范围内统计奇数数目
 [1528]:./Easy/1528-Shuffle%20String/README_CN.md#1528-重新排列字符串
@@ -1744,6 +1746,7 @@
 [1502l]:https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/
 [1507l]:https://leetcode-cn.com/problems/reformat-date/
 [1512l]:https://leetcode-cn.com/problems/number-of-good-pairs/
+[1513l]:https://leetcode-cn.com/problems/number-of-substrings-with-only-1s/
 [1518l]:https://leetcode-cn.com/problems/water-bottles/
 [1523l]:https://leetcode-cn.com/problems/count-odd-numbers-in-an-interval-range/
 [1528l]:https://leetcode-cn.com/problems/shuffle-string/
