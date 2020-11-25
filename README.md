@@ -183,6 +183,7 @@
 [387][387l]  |[First Unique Character in a String][387]                                 |![y]&nbsp;&nbsp;![r]
 [389][389l]  |[Find the Difference][389]                                                |![r]
 [392][392l]  |[Is Subsequence][392]                                                     |![r]
+[396][396l]  |[Rotate Function][396]                                                    |![r]
 [398][398l]  |[Random Pick Index][398]                                                  |![p]
 [400][400l]  |[Nth Digit][400]                                                          |![r]
 [401][401l]  |[Binary Watch][401]                                                       |![p]
@@ -774,6 +775,7 @@
 [387]:./Easy/0387-First%20Unique%20Character%20in%20a%20String/README.md#387-first-unique-character-in-a-string
 [389]:./Easy/0389-Find%20the%20Difference/README.md#389-find-the-difference
 [392]:./Easy/0392-Is%20Subsequence/README.md#392-is-subsequence
+[396]:./Medium/0396-Rotate%20Function/README.md#396-rotate-function
 [398]:./Medium/0398-Random%20Pick%20Index/README.md#398-random-pick-index
 [400]:./Medium/0400-Nth%20Digit/README.md#400-nth-digit
 [401]:./Easy/0401-Binary%20Watch/README.md#401-binary-watch
@@ -1369,6 +1371,7 @@
 [387l]:https://leetcode.com/problems/first-unique-character-in-a-string/
 [389l]:https://leetcode.com/problems/find-the-difference/
 [392l]:https://leetcode.com/problems/is-subsequence/
+[396l]:https://leetcode.com/problems/rotate-function/
 [398l]:https://leetcode.com/problems/random-pick-index/
 [400l]:https://leetcode.com/problems/nth-digit/
 [401l]:https://leetcode.com/problems/binary-watch/

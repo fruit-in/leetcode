@@ -183,6 +183,7 @@
 [387][387l]  |[字符串中的第一个唯一字符][387]                   |![y]&nbsp;&nbsp;![r]
 [389][389l]  |[找不同][389]                                     |![r]
 [392][392l]  |[判断子序列][392]                                 |![r]
+[396][396l]  |[旋转函数][396]                                   |![r]
 [398][398l]  |[随机数索引][398]                                 |![p]
 [400][400l]  |[第N个数字][400]                                  |![r]
 [401][401l]  |[二进制手表][401]                                 |![p]
@@ -774,6 +775,7 @@
 [387]:./Easy/0387-First%20Unique%20Character%20in%20a%20String/README_CN.md#387-字符串中的第一个唯一字符
 [389]:./Easy/0389-Find%20the%20Difference/README_CN.md#389-找不同
 [392]:./Easy/0392-Is%20Subsequence/README_CN.md#392-判断子序列
+[396]:./Medium/0396-Rotate%20Function/README_CN.md#396-旋转函数
 [398]:./Medium/0398-Random%20Pick%20Index/README_CN.md#398-随机数索引
 [400]:./Medium/0400-Nth%20Digit/README_CN.md#400-第N个数字
 [401]:./Easy/0401-Binary%20Watch/README_CN.md#401-二进制手表
@@ -1369,6 +1371,7 @@
 [387l]:https://leetcode-cn.com/problems/first-unique-character-in-a-string/
 [389l]:https://leetcode-cn.com/problems/find-the-difference/
 [392l]:https://leetcode-cn.com/problems/is-subsequence/
+[396l]:https://leetcode-cn.com/problems/rotate-function/
 [398l]:https://leetcode-cn.com/problems/random-pick-index/
 [400l]:https://leetcode-cn.com/problems/nth-digit/
 [401l]:https://leetcode-cn.com/problems/binary-watch/
