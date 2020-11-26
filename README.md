@@ -126,6 +126,7 @@
 [217][217l]  |[Contains Duplicate][217]                                                 |![r]
 [219][219l]  |[Contains Duplicate II][219]                                              |![r]
 [220][220l]  |[Contains Duplicate III][220]                                             |![r]
+[221][221l]  |[Maximal Square][221]                                                     |![r]
 [223][223l]  |[Rectangle Area][223]                                                     |![y]&nbsp;&nbsp;![r]
 [225][225l]  |[Implement Stack using Queues][225]                                       |![r]
 [226][226l]  |[Invert Binary Tree][226]                                                 |![p]
@@ -718,6 +719,7 @@
 [217]:./Easy/0217-Contains%20Duplicate/README.md#217-contains-duplicate
 [219]:./Easy/0219-Contains%20Duplicate%20II/README.md#219-contains-duplicate-ii
 [220]:./Medium/0220-Contains%20Duplicate%20III/README.md#220-contains-duplicate-iii
+[221]:./Medium/0221-Maximal%20Square/README.md#221-maximal-square
 [223]:./Medium/0223-Rectangle%20Area/README.md#223-rectangle-area
 [225]:./Easy/0225-Implement%20Stack%20using%20Queues/README.md#225-implement-stack-using-queues
 [226]:./Easy/0226-Invert%20Binary%20Tree/README.md#226-invert-binary-tree
@@ -1311,6 +1313,7 @@
 [218l]:https://leetcode.com/problems/the-skyline-problem/
 [219l]:https://leetcode.com/problems/contains-duplicate-ii/
 [220l]:https://leetcode.com/problems/contains-duplicate-iii/
+[221l]:https://leetcode.com/problems/maximal-square/
 [223l]:https://leetcode.com/problems/rectangle-area/
 [225l]:https://leetcode.com/problems/implement-stack-using-queues/
 [226l]:https://leetcode.com/problems/invert-binary-tree/
