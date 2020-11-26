@@ -245,6 +245,7 @@
 [537][537l]  |[复数乘法][537]                                   |![p]
 [538][538l]  |[把二叉搜索树转换为累加树][538]                   |![p]
 [539][539l]  |[最小时间差][539]                                 |![r]
+[540][540l]  |[有序数组中的单一元素][540]                       |![y]
 [541][541l]  |[反转字符串 II][541]                              |![p]
 [542][542l]  |[01 矩阵][542]                                    |![r]
 [543][543l]  |[二叉树的直径][543]                               |![p]
@@ -838,6 +839,7 @@
 [537]:./Medium/0537-Complex%20Number%20Multiplication/README_CN.md#537-复数乘法
 [538]:./Easy/0538-Convert%20BST%20to%20Greater%20Tree/README_CN.md#538-把二叉搜索树转换为累加树
 [539]:./Medium/0539-Minimum%20Time%20Difference/README_CN.md#539-最小时间差
+[540]:./Medium/0540-Single%20Element%20in%20a%20Sorted%20Array/README_CN.md#540-有序数组中的单一元素
 [541]:./Easy/0541-Reverse%20String%20II/README_CN.md#541-反转字符串-ii
 [542]:./Medium/0542-01%20Matrix/README_CN.md#542-01-矩阵
 [543]:./Easy/0543-Diameter%20of%20Binary%20Tree/README_CN.md#543-二叉树的直径
@@ -1436,6 +1438,7 @@
 [537l]:https://leetcode-cn.com/problems/complex-number-multiplication/
 [538l]:https://leetcode-cn.com/problems/convert-bst-to-greater-tree/
 [539l]:https://leetcode-cn.com/problems/minimum-time-difference/
+[540l]:https://leetcode-cn.com/problems/single-element-in-a-sorted-array/
 [541l]:https://leetcode-cn.com/problems/reverse-string-ii/
 [542l]:https://leetcode-cn.com/problems/01-matrix/
 [543l]:https://leetcode-cn.com/problems/diameter-of-binary-tree/

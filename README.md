@@ -245,6 +245,7 @@
 [537][537l]  |[Complex Number Multiplication][537]                                      |![p]
 [538][538l]  |[Convert BST to Greater Tree][538]                                        |![p]
 [539][539l]  |[Minimum Time Difference][539]                                            |![r]
+[540][540l]  |[Single Element in a Sorted Array][540]                                   |![y]
 [541][541l]  |[Reverse String II][541]                                                  |![p]
 [542][542l]  |[01 Matrix][542]                                                          |![r]
 [543][543l]  |[Diameter of Binary Tree][543]                                            |![p]
@@ -838,6 +839,7 @@
 [537]:./Medium/0537-Complex%20Number%20Multiplication/README.md#537-complex-number-multiplication
 [538]:./Easy/0538-Convert%20BST%20to%20Greater%20Tree/README.md#538-convert-bst-to-greater-tree
 [539]:./Medium/0539-Minimum%20Time%20Difference/README.md#539-minimum-time-difference
+[540]:./Medium/0540-Single%20Element%20in%20a%20Sorted%20Array/README.md#540-single-element-in-a-sorted-array
 [541]:./Easy/0541-Reverse%20String%20II/README.md#541-reverse-string-ii
 [542]:./Medium/0542-01%20Matrix/README.md#542-01-matrix
 [543]:./Easy/0543-Diameter%20of%20Binary%20Tree/README.md#543-diameter-of-binary-tree
@@ -1436,6 +1438,7 @@
 [537l]:https://leetcode.com/problems/complex-number-multiplication/
 [538l]:https://leetcode.com/problems/convert-bst-to-greater-tree/
 [539l]:https://leetcode.com/problems/minimum-time-difference/
+[540l]:https://leetcode.com/problems/single-element-in-a-sorted-array/
 [541l]:https://leetcode.com/problems/reverse-string-ii/
 [542l]:https://leetcode.com/problems/01-matrix/
 [543l]:https://leetcode.com/problems/diameter-of-binary-tree/
