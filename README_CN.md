@@ -7,6 +7,7 @@
 [2][2l]      |[两数相加][2]                                     |![p]&nbsp;&nbsp;![y]
 [3][3l]      |[无重复字符的最长子串][3]                         |![r]
 [4][4l]      |[寻找两个有序数组的中位数][4]                     |![r]
+[5][5l]      |[最长回文子串][5]                                 |![r]
 [6][6l]      |[Z 字形变换][6]                                   |![p]
 [7][7l]      |[整数反转][7]                                     |![p]&nbsp;&nbsp;![c]
 [8][8l]      |[字符串转换整数 (atoi)][8]                        |![p]
@@ -601,6 +602,7 @@
 [2]:./Medium/0002-Add%20Two%20Numbers/README_CN.md#2-两数相加
 [3]:./Medium/0003-Longest%20Substring%20Without%20Repeating%20Characters/README_CN.md#3-无重复字符的最长子串
 [4]:./Hard/0004-Median%20of%20Two%20Sorted%20Arrays/README_CN.md#4-寻找两个有序数组的中位数
+[5]:./Medium/0005-Longest%20Palindromic%20Substring/README_CN.md#5-最长回文子串
 [6]:./Medium/0006-ZigZag%20Conversion/README_CN.md#6-z-字形变换
 [7]:./Easy/0007-Reverse%20Integer/README_CN.md#7-整数反转
 [8]:./Medium/0008-String%20to%20Integer%20\(atoi\)/README_CN.md#8-字符串转换整数-atoi
@@ -1187,6 +1189,7 @@
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
 [3l]:https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
 [4l]:https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
+[5l]:https://leetcode-cn.com/problems/longest-palindromic-substring/
 [6l]:https://leetcode-cn.com/problems/zigzag-conversion/
 [7l]:https://leetcode-cn.com/problems/reverse-integer/
 [8l]:https://leetcode-cn.com/problems/string-to-integer-atoi/
