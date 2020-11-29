@@ -529,6 +529,7 @@
 [1399][1399l]|[Count Largest Group][1399]                                               |![p]
 [1401][1401l]|[Circle and Rectangle Overlapping][1401]                                  |![r]
 [1403][1403l]|[Minimum Subsequence in Non-Increasing Order][1403]                       |![r]
+[1405][1405l]|[Longest Happy String][1405]                                              |![r]
 [1408][1408l]|[String Matching in an Array][1408]                                       |![r]
 [1409][1409l]|[Queries on a Permutation With Key][1409]                                 |![y]&nbsp;&nbsp;![r]&nbsp;&nbsp;![k]
 [1410][1410l]|[HTML Entity Parser][1410]                                                |![r]
@@ -1125,6 +1126,7 @@
 [1399]:./Easy/1399-Count%20Largest%20Group/README.md#1399-count-largest-group
 [1401]:./Medium/1401-Circle%20and%20Rectangle%20Overlapping/README.md#1401-circle-and-rectangle-overlapping
 [1403]:./Easy/1403-Minimum%20Subsequence%20in%20Non-Increasing%20Order/README.md#1403-minimum-subsequence-in-non-increasing-order
+[1405]:./Medium/1405-Longest%20Happy%20String/README.md#1405-longest-happy-string
 [1408]:./Easy/1408-String%20Matching%20in%20an%20Array/README.md#1408-string-matching-in-an-array
 [1409]:./Medium/1409-Queries%20on%20a%20Permutation%20With%20Key/README.md#1409-queries-on-a-permutation-with-key
 [1410]:./Medium/1410-HTML%20Entity%20Parser/README.md#1410-html-entity-parser
@@ -1730,6 +1732,7 @@
 [1399l]:https://leetcode.com/problems/count-largest-group/
 [1401l]:https://leetcode.com/problems/circle-and-rectangle-overlapping/
 [1403l]:https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
+[1405l]:https://leetcode.com/problems/longest-happy-string/
 [1408l]:https://leetcode.com/problems/string-matching-in-an-array/
 [1409l]:https://leetcode.com/problems/queries-on-a-permutation-with-key/
 [1410l]:https://leetcode.com/problems/html-entity-parser/
