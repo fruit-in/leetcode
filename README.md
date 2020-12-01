@@ -527,6 +527,7 @@
 [1395][1395l]|[Count Number of Teams][1395]                                             |![r]
 [1396][1396l]|[Design Underground System][1396]                                         |![r]
 [1399][1399l]|[Count Largest Group][1399]                                               |![p]
+[1400][1400l]|[Construct K Palindrome Strings][1400]                                    |![r]
 [1401][1401l]|[Circle and Rectangle Overlapping][1401]                                  |![r]
 [1403][1403l]|[Minimum Subsequence in Non-Increasing Order][1403]                       |![r]
 [1405][1405l]|[Longest Happy String][1405]                                              |![r]
@@ -1124,6 +1125,7 @@
 [1395]:./Medium/1395-Count%20Number%20of%20Teams/README.md#1395-count-number-of-teams
 [1396]:./Medium/1396-Design%20Underground%20System/README.md#1396-design-underground-system
 [1399]:./Easy/1399-Count%20Largest%20Group/README.md#1399-count-largest-group
+[1400]:./Medium/1400-Construct%20K%20Palindrome%20Strings/README.md#1400-construct-k-palindrome-strings
 [1401]:./Medium/1401-Circle%20and%20Rectangle%20Overlapping/README.md#1401-circle-and-rectangle-overlapping
 [1403]:./Easy/1403-Minimum%20Subsequence%20in%20Non-Increasing%20Order/README.md#1403-minimum-subsequence-in-non-increasing-order
 [1405]:./Medium/1405-Longest%20Happy%20String/README.md#1405-longest-happy-string
@@ -1730,6 +1732,7 @@
 [1395l]:https://leetcode.com/problems/count-number-of-teams/
 [1396l]:https://leetcode.com/problems/design-underground-system/
 [1399l]:https://leetcode.com/problems/count-largest-group/
+[1400l]:https://leetcode.com/problems/construct-k-palindrome-strings/
 [1401l]:https://leetcode.com/problems/circle-and-rectangle-overlapping/
 [1403l]:https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
 [1405l]:https://leetcode.com/problems/longest-happy-string/

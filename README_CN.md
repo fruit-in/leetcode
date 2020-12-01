@@ -450,7 +450,7 @@
 [1137][1137l]|[第 N 个泰波那契数][1137]                         |![r]
 [1146][1146l]|[快照数组][1146]                                  |![y]&nbsp;&nbsp;![r]
 [1154][1154l]|[一年中的第几天][1154]                            |![r]
-[1160][1160l]|[拼写单词][1160]                                  |![p]        
+[1160][1160l]|[拼写单词][1160]                                  |![p]
 [1161][1161l]|[最大层内元素和][1161]                            |![p]
 [1170][1170l]|[比较字符串最小字母出现频次][1170]                |![p]
 [1175][1175l]|[质数排列][1175]                                  |![r]
@@ -527,6 +527,7 @@
 [1395][1395l]|[统计作战单位数][1395]                            |![r]
 [1396][1396l]|[设计地铁系统][1396]                              |![r]
 [1399][1399l]|[统计最大组的数目][1399]                          |![p]
+[1400][1400l]|[构造 K 个回文字符串][1400]                       |![r]
 [1401][1401l]|[圆和矩形是否有重叠][1401]                        |![r]
 [1403][1403l]|[非递增顺序的最小子序列][1403]                    |![r]
 [1405][1405l]|[最长快乐字符串][1405]                            |![r]
@@ -1124,6 +1125,7 @@
 [1395]:./Medium/1395-Count%20Number%20of%20Teams/README_CN.md#1395-统计作战单位数
 [1396]:./Medium/1396-Design%20Underground%20System/README_CN.md#1396-设计地铁系统
 [1399]:./Easy/1399-Count%20Largest%20Group/README_CN.md#1399-统计最大组的数目
+[1400]:./Medium/1400-Construct%20K%20Palindrome%20Strings/README_CN.md#1400-构造-k-个回文字符串
 [1401]:./Medium/1401-Circle%20and%20Rectangle%20Overlapping/README_CN.md#1401-圆和矩形是否有重叠
 [1403]:./Easy/1403-Minimum%20Subsequence%20in%20Non-Increasing%20Order/README_CN.md#1403-非递增顺序的最小子序列
 [1405]:./Medium/1405-Longest%20Happy%20String/README_CN.md#1405-最长快乐字符串
@@ -1730,6 +1732,7 @@
 [1395l]:https://leetcode-cn.com/problems/count-number-of-teams/
 [1396l]:https://leetcode-cn.com/problems/design-underground-system/
 [1399l]:https://leetcode-cn.com/problems/count-largest-group/
+[1400l]:https://leetcode-cn.com/problems/construct-k-palindrome-strings/
 [1401l]:https://leetcode-cn.com/problems/circle-and-rectangle-overlapping/
 [1403l]:https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/
 [1405l]:https://leetcode-cn.com/problems/longest-happy-string/
