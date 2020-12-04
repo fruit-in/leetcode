@@ -396,6 +396,7 @@
 [951][951l]  |[Flip Equivalent Binary Trees][951]                                       |![y]
 [953][953l]  |[Verifying an Alien Dictionary][953]                                      |![p]
 [961][961l]  |[N-Repeated Element in Size 2N Array][961]                                |![r]
+[962][962l]  |[Maximum Width Ramp][962]                                                 |![r]
 [965][965l]  |[Univalued Binary Tree][965]                                              |![p]
 [969][969l]  |[Pancake Sorting][969]                                                    |![p]
 [970][970l]  |[Powerful Integers][970]                                                  |![r]
@@ -996,6 +997,7 @@
 [951]:./Medium/0951-Flip%20Equivalent%20Binary%20Trees/README.md#951-flip-equivalent-binary-trees
 [953]:./Easy/0953-Verifying%20an%20Alien%20Dictionary/README.md#953-verifying-an-alien-dictionary
 [961]:./Easy/0961-N-Repeated%20Element%20in%20Size%202N%20Array/README.md#961-n-repeated-element-in-size-2n-array
+[962]:./Medium/0962-Maximum%20Width%20Ramp/README.md#962-maximum-width-ramp
 [965]:./Easy/0965-Univalued%20Binary%20Tree/README.md#965-univalued-binary-tree
 [969]:./Medium/0969-Pancake%20Sorting/README.md#969-pancake-sorting
 [970]:./Easy/0970-Powerful%20Integers/README.md#970-powerful-integers
@@ -1605,6 +1607,7 @@
 [951l]:https://leetcode.com/problems/flip-equivalent-binary-trees/
 [953l]:https://leetcode.com/problems/verifying-an-alien-dictionary/
 [961l]:https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
+[962l]:https://leetcode.com/problems/maximum-width-ramp/
 [965l]:https://leetcode.com/problems/univalued-binary-tree/
 [969l]:https://leetcode.com/problems/pancake-sorting/
 [970l]:https://leetcode.com/problems/powerful-integers/

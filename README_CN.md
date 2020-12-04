@@ -396,6 +396,7 @@
 [951][951l]  |[翻转等价二叉树][951]                             |![y]
 [953][953l]  |[验证外星语词典][953]                             |![p]
 [961][961l]  |[重复 N 次的元素][961]                            |![r]
+[962][962l]  |[最大宽度坡][962]                                 |![r]
 [965][965l]  |[单值二叉树][965]                                 |![p]
 [969][969l]  |[煎饼排序][969]                                   |![p]
 [970][970l]  |[强整数][970]                                     |![r]
@@ -996,6 +997,7 @@
 [951]:./Medium/0951-Flip%20Equivalent%20Binary%20Trees/README_CN.md#951-翻转等价二叉树
 [953]:./Easy/0953-Verifying%20an%20Alien%20Dictionary/README_CN.md#953-验证外星语词典
 [961]:./Easy/0961-N-Repeated%20Element%20in%20Size%202N%20Array/README_CN.md#961-重复-n-次的元素
+[962]:./Medium/0962-Maximum%20Width%20Ramp/README_CN.md#962-最大宽度坡
 [965]:./Easy/0965-Univalued%20Binary%20Tree/README_CN.md#965-单值二叉树
 [969]:./Medium/0969-Pancake%20Sorting/README_CN.md#969-煎饼排序
 [970]:./Easy/0970-Powerful%20Integers/README_CN.md#970-强整数
@@ -1605,6 +1607,7 @@
 [951l]:https://leetcode-cn.com/problems/flip-equivalent-binary-trees/
 [953l]:https://leetcode-cn.com/problems/verifying-an-alien-dictionary/
 [961l]:https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/
+[962l]:https://leetcode-cn.com/problems/maximum-width-ramp/
 [965l]:https://leetcode-cn.com/problems/univalued-binary-tree/
 [969l]:https://leetcode-cn.com/problems/pancake-sorting/
 [970l]:https://leetcode-cn.com/problems/powerful-integers/
