@@ -430,6 +430,7 @@
 [1033][1033l]|[移动石子直到连续][1033]                          |![y]&nbsp;&nbsp;![r]
 [1037][1037l]|[有效的回旋镖][1037]                              |![r]
 [1038][1038l]|[从二叉搜索树到更大和树][1038]                    |![p]
+[1041][1041l]|[困于环中的机器人][1041]                          |![r]
 [1042][1042l]|[不邻接植花][1042]                                |![r]
 [1046][1046l]|[最后一块石头的重量][1046]                        |![p]
 [1047][1047l]|[删除字符串中的所有相邻重复项][1047]              |![p]
@@ -1029,6 +1030,7 @@
 [1033]:./Easy/1033-Moving%20Stones%20Until%20Consecutive/README_CN.md#1033-移动石子直到连续
 [1037]:./Easy/1037-Valid%20Boomerang/README_CN.md#1037-有效的回旋镖
 [1038]:./Medium/1038-Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree/README_CN.md#1038-从二叉搜索树到更大和树
+[1041]:./Medium/1041-Robot%20Bounded%20In%20Circle/README_CN.md#1041-困于环中的机器人
 [1042]:./Easy/1042-Flower%20Planting%20With%20No%20Adjacent/README_CN.md#1042-不邻接植花
 [1046]:./Easy/1046-Last%20Stone%20Weight/README_CN.md#1046-最后一块石头的重量
 [1047]:./Easy/1047-Remove%20All%20Adjacent%20Duplicates%20In%20String/README_CN.md#1047-删除字符串中的所有相邻重复项
@@ -1637,6 +1639,7 @@
 [1033l]:https://leetcode-cn.com/problems/moving-stones-until-consecutive/
 [1037l]:https://leetcode-cn.com/problems/valid-boomerang/
 [1038l]:https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/
+[1041l]:https://leetcode-cn.com/problems/robot-bounded-in-circle/
 [1042l]:https://leetcode-cn.com/problems/flower-planting-with-no-adjacent/
 [1046l]:https://leetcode-cn.com/problems/last-stone-weight/
 [1047l]:https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/
