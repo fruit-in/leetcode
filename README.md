@@ -170,6 +170,7 @@
 [328][328l]  |[Odd Even Linked List][328]                                               |![p]
 [338][338l]  |[Counting Bits][338]                                                      |![r]
 [342][342l]  |[Power of Four][342]                                                      |![r]
+[343][343l]  |[Integer Break][343]                                                      |![r]
 [344][344l]  |[Reverse String][344]                                                     |![r]
 [345][345l]  |[Reverse Vowels of a String][345]                                         |![p]&nbsp;&nbsp;![y]
 [347][347l]  |[Top K Frequent Elements][347]                                            |![r]
@@ -774,6 +775,7 @@
 [328]:./Medium/0328-Odd%20Even%20Linked%20List/README.md#328-odd-even-linked-list
 [338]:./Medium/0338-Counting%20Bits/README.md#338-counting-bits
 [342]:./Easy/0342-Power%20of%20Four/README.md#342-power-of-four
+[343]:./Medium/0343-Integer%20Break/README.md#343-integer-break
 [344]:./Easy/0344-Reverse%20String/README.md#344-reverse-string
 [345]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README.md#345-reverse-vowels-of-a-string
 [347]:./Medium/0347-Top%20K%20Frequent%20Elements/README.md#347-top-k-frequent-elements
@@ -1381,6 +1383,7 @@
 [336l]:https://leetcode.com/problems/palindrome-pairs/
 [338l]:https://leetcode.com/problems/counting-bits/
 [342l]:https://leetcode.com/problems/power-of-four/
+[343l]:https://leetcode.com/problems/integer-break/
 [344l]:https://leetcode.com/problems/reverse-string/
 [345l]:https://leetcode.com/problems/reverse-vowels-of-a-string/
 [347l]:https://leetcode.com/problems/top-k-frequent-elements/

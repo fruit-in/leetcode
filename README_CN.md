@@ -170,6 +170,7 @@
 [328][328l]  |[奇偶链表][328]                                   |![p]
 [338][338l]  |[比特位计数][338]                                 |![r]
 [342][342l]  |[4的幂][342]                                      |![r]
+[343][343l]  |[整数拆分][343]                                   |![r]
 [344][344l]  |[反转字符串][344]                                 |![r]
 [345][345l]  |[反转字符串中的元音字母][345]                     |![p]&nbsp;&nbsp;![y]
 [347][347l]  |[前 K 个高频元素][347]                            |![r]
@@ -774,6 +775,7 @@
 [328]:./Medium/0328-Odd%20Even%20Linked%20List/README_CN.md#328-奇偶链表
 [338]:./Medium/0338-Counting%20Bits/README_CN.md#338-比特位计数
 [342]:./Easy/0342-Power%20of%20Four/README_CN.md#342-4的幂
+[343]:./Medium/0343-Integer%20Break/README_CN.md#343-整数拆分
 [344]:./Easy/0344-Reverse%20String/README_CN.md#344-反转字符串
 [345]:./Easy/0345-Reverse%20Vowels%20of%20a%20String/README_CN.md#345-反转字符串中的元音字母
 [347]:./Medium/0347-Top%20K%20Frequent%20Elements/README_CN.md#347-前-k-个高频元素
@@ -1381,6 +1383,7 @@
 [336l]:https://leetcode-cn.com/problems/palindrome-pairs/
 [338l]:https://leetcode-cn.com/problems/counting-bits/
 [342l]:https://leetcode-cn.com/problems/power-of-four/
+[343l]:https://leetcode-cn.com/problems/integer-break/
 [344l]:https://leetcode-cn.com/problems/reverse-string/
 [345l]:https://leetcode-cn.com/problems/reverse-vowels-of-a-string/
 [347l]:https://leetcode-cn.com/problems/top-k-frequent-elements/
