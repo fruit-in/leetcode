@@ -349,6 +349,7 @@
 [840][840l]  |[Magic Squares In Grid][840]                                              |![r]
 [841][841l]  |[Keys and Rooms][841]                                                     |![r]
 [844][844l]  |[Backspace String Compare][844]                                           |![p]
+[848][848l]  |[Shifting Letters][848]                                                   |![r]
 [849][849l]  |[Maximize Distance to Closest Person][849]                                |![r]
 [852][852l]  |[Peak Index in a Mountain Array][852]                                     |![r]
 [853][853l]  |[Car Fleet][853]                                                          |![r]
@@ -954,6 +955,7 @@
 [840]:./Easy/0840-Magic%20Squares%20In%20Grid/README.md#840-magic-squares-in-grid
 [841]:./Medium/0841-Keys%20and%20Rooms/README.md#841-keys-and-rooms
 [844]:./Easy/0844-Backspace%20String%20Compare/README.md#844-backspace-string-compare
+[848]:./Medium/0848-Shifting%20Letters/README.md#848-shifting-letters
 [849]:./Easy/0849-Maximize%20Distance%20to%20Closest%20Person/README.md#849-maximize-distance-to-closest-person
 [852]:./Easy/0852-Peak%20Index%20in%20a%20Mountain%20Array/README.md#852-peak-index-in-a-mountain-array
 [853]:./Medium/0853-Car%20Fleet/README.md#853-car-fleet
@@ -1568,6 +1570,7 @@
 [840l]:https://leetcode.com/problems/magic-squares-in-grid/
 [841l]:https://leetcode.com/problems/keys-and-rooms/
 [844l]:https://leetcode.com/problems/backspace-string-compare/
+[848l]:https://leetcode.com/problems/shifting-letters/
 [849l]:https://leetcode.com/problems/maximize-distance-to-closest-person/
 [852l]:https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [853l]:https://leetcode.com/problems/car-fleet/
