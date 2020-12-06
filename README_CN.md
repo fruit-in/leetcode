@@ -442,6 +442,7 @@
 [1047][1047l]|[删除字符串中的所有相邻重复项][1047]              |![p]
 [1051][1051l]|[高度检查器][1051]                                |![p]
 [1052][1052l]|[爱生气的书店老板][1052]                          |![y]&nbsp;&nbsp;![r]
+[1054][1054l]|[距离相等的条形码][1054]                          |![r]
 [1071][1071l]|[字符串的最大公因子][1071]                        |![p]
 [1078][1078l]|[Bigram 分词][1078]                               |![p]
 [1089][1089l]|[复写零][1089]                                    |![r]
@@ -1048,6 +1049,7 @@
 [1047]:./Easy/1047-Remove%20All%20Adjacent%20Duplicates%20In%20String/README_CN.md#1047-删除字符串中的所有相邻重复项
 [1051]:./Easy/1051-Height%20Checker/README_CN.md#1051-高度检查器
 [1052]:./Medium/1052-Grumpy%20Bookstore%20Owner/README_CN.md#1052-爱生气的书店老板
+[1054]:./Medium/1054-Distant%20Barcodes/README_CN.md#1054-距离相等的条形码
 [1071]:./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings/README_CN.md#1071-字符串的最大公因子
 [1078]:./Easy/1078-Occurrences%20After%20Bigram/README_CN.md#1078-bigram-分词
 [1089]:./Easy/1089-Duplicate%20Zeros/README_CN.md#1089-复写零
@@ -1663,6 +1665,7 @@
 [1047l]:https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/
 [1051l]:https://leetcode-cn.com/problems/height-checker/
 [1052l]:https://leetcode-cn.com/problems/grumpy-bookstore-owner/
+[1054l]:https://leetcode-cn.com/problems/distant-barcodes/
 [1071l]:https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/
 [1078l]:https://leetcode-cn.com/problems/occurrences-after-bigram/
 [1089l]:https://leetcode-cn.com/problems/duplicate-zeros/
