@@ -369,6 +369,7 @@
 [881][881l]  |[救生艇][881]                                     |![y]
 [883][883l]  |[三维形体投影面积][883]                           |![r]
 [884][884l]  |[两句话中的不常见单词][884]                       |![p]
+[885][885l]  |[螺旋矩阵 III][885]                               |![r]
 [888][888l]  |[公平的糖果交换][888]                             |![r]
 [892][892l]  |[三维形体的表面积][892]                           |![y]&nbsp;&nbsp;![r]
 [893][893l]  |[特殊等价字符串组][893]                           |![r]
@@ -976,6 +977,7 @@
 [881]:./Medium/0881-Boats%20to%20Save%20People/README_CN.md#881-救生艇
 [883]:./Easy/0883-Projection%20Area%20of%203D%20Shapes/README_CN.md#883-三维形体投影面积
 [884]:./Easy/0884-Uncommon%20Words%20from%20Two%20Sentences/README_CN.md#884-两句话中的不常见单词
+[885]:./Medium/0885-Spiral%20Matrix%20III/README_CN.md#885-螺旋矩阵-iii
 [888]:./Easy/0888-Fair%20Candy%20Swap/README_CN.md#888-公平的糖果交换
 [892]:./Easy/0892-Surface%20Area%20of%203D%20Shapes/README_CN.md#892-三维形体的表面积
 [893]:./Easy/0893-Groups%20of%20Special-Equivalent%20Strings/README_CN.md#893-特殊等价字符串组
@@ -1592,6 +1594,7 @@
 [881l]:https://leetcode-cn.com/problems/boats-to-save-people/
 [883l]:https://leetcode-cn.com/problems/projection-area-of-3d-shapes/
 [884l]:https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/
+[885l]:https://leetcode-cn.com/problems/spiral-matrix-iii/
 [888l]:https://leetcode-cn.com/problems/fair-candy-swap/
 [892l]:https://leetcode-cn.com/problems/surface-area-of-3d-shapes/
 [893l]:https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/
