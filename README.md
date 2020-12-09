@@ -317,6 +317,7 @@
 [728][728l]  |[Self Dividing Numbers][728]                                              |![p]
 [733][733l]  |[Flood Fill][733]                                                         |![r]
 [739][739l]  |[Daily Temperatures][739]                                                 |![r]
+[743][743l]  |[Network Delay Time][743]                                                 |![r]
 [744][744l]  |[Find Smallest Letter Greater Than Target][744]                           |![r]
 [746][746l]  |[Min Cost Climbing Stairs][746]                                           |![r]
 [747][747l]  |[Largest Number At Least Twice of Others][747]                            |![r]
@@ -926,6 +927,7 @@
 [728]:./Easy/0728-Self%20Dividing%20Numbers/README.md#728-self-dividing-numbers
 [733]:./Easy/0733-Flood%20Fill/README.md#733-flood-fill
 [739]:./Medium/0739-Daily%20Temperatures/README.md#739-daily-temperatures
+[743]:./Medium/0743-Network%20Delay%20Time/README.md#743-network-delay-time
 [744]:./Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README.md#744-find-smallest-letter-greater-than-target
 [746]:./Easy/0746-Min%20Cost%20Climbing%20Stairs/README.md#746-min-cost-climbing-stairs
 [747]:./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README.md#747-largest-number-at-least-twice-of-others
@@ -1543,6 +1545,7 @@
 [728l]:https://leetcode.com/problems/self-dividing-numbers/
 [733l]:https://leetcode.com/problems/flood-fill/
 [739l]:https://leetcode.com/problems/daily-temperatures/
+[743l]:https://leetcode.com/problems/network-delay-time/
 [744l]:https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 [746l]:https://leetcode.com/problems/min-cost-climbing-stairs/
 [747l]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/

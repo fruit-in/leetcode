@@ -317,6 +317,7 @@
 [728][728l]  |[自除数][728]                                     |![p]
 [733][733l]  |[图像渲染][733]                                   |![r]
 [739][739l]  |[每日温度][739]                                   |![r]
+[743][743l]  |[网络延迟时间][743]                               |![r]
 [744][744l]  |[寻找比目标字母大的最小字母][744]                 |![r]
 [746][746l]  |[使用最小花费爬楼梯][746]                         |![r]
 [747][747l]  |[至少是其他数字两倍的最大数][747]                 |![r]
@@ -926,6 +927,7 @@
 [728]:./Easy/0728-Self%20Dividing%20Numbers/README_CN.md#728-自除数
 [733]:./Easy/0733-Flood%20Fill/README_CN.md#733-图像渲染
 [739]:./Medium/0739-Daily%20Temperatures/README_CN.md#739-每日温度
+[743]:./Medium/0743-Network%20Delay%20Time/README_CN.md#743-网络延迟时间
 [744]:./Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README_CN.md#744-寻找比目标字母大的最小字母
 [746]:./Easy/0746-Min%20Cost%20Climbing%20Stairs/README_CN.md#746-使用最小花费爬楼梯
 [747]:./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README_CN.md#747-至少是其他数字两倍的最大数
@@ -1543,6 +1545,7 @@
 [728l]:https://leetcode-cn.com/problems/self-dividing-numbers/
 [733l]:https://leetcode-cn.com/problems/flood-fill/
 [739l]:https://leetcode-cn.com/problems/daily-temperatures/
+[743l]:https://leetcode-cn.com/problems/network-delay-time/
 [744l]:https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/
 [746l]:https://leetcode-cn.com/problems/min-cost-climbing-stairs/
 [747l]:https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/
