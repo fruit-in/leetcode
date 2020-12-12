@@ -605,6 +605,7 @@
 [1590][1590l]|[使数组和能被 P 整除][1590]                       |![r]
 [1592][1592l]|[重新排列单词间的空格][1592]                      |![p]
 [1598][1598l]|[文件夹操作日志搜集器][1598]                      |![y]
+[1603][1603l]|[设计停车系统][1603]                              |![r]
 
 
 [p]:./ico/python.ico
@@ -1216,6 +1217,7 @@
 [1590]:./Medium/1590-Make%20Sum%20Divisible%20by%20P/README_CN.md#1590-使数组和能被-p-整除
 [1592]:./Easy/1592-Rearrange%20Spaces%20Between%20Words/README_CN.md#1592-重新排列单词间的空格
 [1598]:./Easy/1598-Crawler%20Log%20Folder/README_CN.md#1598-文件夹操作日志搜集器
+[1603]:./Easy/1603-Design%20Parking%20System/README_CN.md#1603-设计停车系统
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1836,3 +1838,4 @@
 [1590l]:https://leetcode-cn.com/problems/make-sum-divisible-by-p/
 [1592l]:https://leetcode-cn.com/problems/rearrange-spaces-between-words/
 [1598l]:https://leetcode-cn.com/problems/crawler-log-folder/
+[1603l]:https://leetcode-cn.com/problems/design-parking-system/

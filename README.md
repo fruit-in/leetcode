@@ -605,6 +605,7 @@
 [1590][1590l]|[Make Sum Divisible by P][1590]                                           |![r]
 [1592][1592l]|[Rearrange Spaces Between Words][1592]                                    |![p]
 [1598][1598l]|[Crawler Log Folder][1598]                                                |![y]
+[1603][1603l]|[Design Parking System][1603]                                             |![r]
 
 
 [p]:./ico/python.ico
@@ -1216,6 +1217,7 @@
 [1590]:./Medium/1590-Make%20Sum%20Divisible%20by%20P/README.md#1590-make-sum-divisible-by-p
 [1592]:./Easy/1592-Rearrange%20Spaces%20Between%20Words/README.md#1592-rearrange-spaces-between-words
 [1598]:./Easy/1598-Crawler%20Log%20Folder/README.md#1598-crawler-log-folder
+[1603]:./Easy/1603-Design%20Parking%20System/README.md#1603-design-parking-system
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1836,3 +1838,4 @@
 [1590l]:https://leetcode.com/problems/make-sum-divisible-by-p/
 [1592l]:https://leetcode.com/problems/rearrange-spaces-between-words/
 [1598l]:https://leetcode.com/problems/crawler-log-folder/
+[1603l]:https://leetcode.com/problems/design-parking-system/
