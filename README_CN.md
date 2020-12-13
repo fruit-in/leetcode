@@ -606,6 +606,7 @@
 [1592][1592l]|[重新排列单词间的空格][1592]                      |![p]
 [1598][1598l]|[文件夹操作日志搜集器][1598]                      |![y]
 [1603][1603l]|[设计停车系统][1603]                              |![r]
+[1608][1608l]|[特殊数组的特征值][1608]                          |![r]
 
 
 [p]:./ico/python.ico
@@ -1218,6 +1219,7 @@
 [1592]:./Easy/1592-Rearrange%20Spaces%20Between%20Words/README_CN.md#1592-重新排列单词间的空格
 [1598]:./Easy/1598-Crawler%20Log%20Folder/README_CN.md#1598-文件夹操作日志搜集器
 [1603]:./Easy/1603-Design%20Parking%20System/README_CN.md#1603-设计停车系统
+[1608]:./Easy/1608-Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/README_CN.md#1608-特殊数组的特征值
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1839,3 +1841,4 @@
 [1592l]:https://leetcode-cn.com/problems/rearrange-spaces-between-words/
 [1598l]:https://leetcode-cn.com/problems/crawler-log-folder/
 [1603l]:https://leetcode-cn.com/problems/design-parking-system/
+[1608l]:https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/

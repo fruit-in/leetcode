@@ -606,6 +606,7 @@
 [1592][1592l]|[Rearrange Spaces Between Words][1592]                                    |![p]
 [1598][1598l]|[Crawler Log Folder][1598]                                                |![y]
 [1603][1603l]|[Design Parking System][1603]                                             |![r]
+[1608][1608l]|[Special Array With X Elements Greater Than or Equal X][1608]             |![r]
 
 
 [p]:./ico/python.ico
@@ -1218,6 +1219,7 @@
 [1592]:./Easy/1592-Rearrange%20Spaces%20Between%20Words/README.md#1592-rearrange-spaces-between-words
 [1598]:./Easy/1598-Crawler%20Log%20Folder/README.md#1598-crawler-log-folder
 [1603]:./Easy/1603-Design%20Parking%20System/README.md#1603-design-parking-system
+[1608]:./Easy/1608-Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/README.md#1608-special-array-with-x-elements-greater-than-or-equal-x
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1839,3 +1841,4 @@
 [1592l]:https://leetcode.com/problems/rearrange-spaces-between-words/
 [1598l]:https://leetcode.com/problems/crawler-log-folder/
 [1603l]:https://leetcode.com/problems/design-parking-system/
+[1608l]:https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
