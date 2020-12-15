@@ -608,6 +608,7 @@
 [1603][1603l]|[设计停车系统][1603]                              |![r]
 [1608][1608l]|[特殊数组的特征值][1608]                          |![r]
 [1614][1614l]|[括号的最大嵌套深度][1614]                        |![y]&nbsp;&nbsp;![r]
+[1619][1619l]|[删除某些元素后的数组均值][1619]                  |![y]&nbsp;&nbsp;![r]
 
 
 [p]:./ico/python.ico
@@ -1222,6 +1223,7 @@
 [1603]:./Easy/1603-Design%20Parking%20System/README_CN.md#1603-设计停车系统
 [1608]:./Easy/1608-Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/README_CN.md#1608-特殊数组的特征值
 [1614]:./Easy/1614-Maximum%20Nesting%20Depth%20of%20the%20Parentheses/README_CN.md#1614-括号的最大嵌套深度
+[1619]:./Easy/1619-Mean%20of%20Array%20After%20Removing%20Some%20Elements/README_CN.md#1619-删除某些元素后的数组均值
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1845,3 +1847,4 @@
 [1603l]:https://leetcode-cn.com/problems/design-parking-system/
 [1608l]:https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 [1614l]:https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/
+[1619l]:https://leetcode-cn.com/problems/mean-of-array-after-removing-some-elements/

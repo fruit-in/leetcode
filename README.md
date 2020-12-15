@@ -608,6 +608,7 @@
 [1603][1603l]|[Design Parking System][1603]                                             |![r]
 [1608][1608l]|[Special Array With X Elements Greater Than or Equal X][1608]             |![r]
 [1614][1614l]|[Maximum Nesting Depth of the Parentheses][1614]                          |![y]&nbsp;&nbsp;![r]
+[1619][1619l]|[Mean of Array After Removing Some Elements][1619]                        |![y]&nbsp;&nbsp;![r]
 
 
 [p]:./ico/python.ico
@@ -1222,6 +1223,7 @@
 [1603]:./Easy/1603-Design%20Parking%20System/README.md#1603-design-parking-system
 [1608]:./Easy/1608-Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/README.md#1608-special-array-with-x-elements-greater-than-or-equal-x
 [1614]:./Easy/1614-Maximum%20Nesting%20Depth%20of%20the%20Parentheses/README.md#1614-maximum-nesting-depth-of-the-parentheses
+[1619]:./Easy/1619-Mean%20of%20Array%20After%20Removing%20Some%20Elements/README.md#1619-mean-of-array-after-removing-some-elements
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1845,3 +1847,4 @@
 [1603l]:https://leetcode.com/problems/design-parking-system/
 [1608l]:https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 [1614l]:https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+[1619l]:https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
