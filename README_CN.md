@@ -611,6 +611,7 @@
 [1619][1619l]|[删除某些元素后的数组均值][1619]                  |![y]&nbsp;&nbsp;![r]
 [1624][1624l]|[两个相同字符之间的最长子字符串][1624]            |![y]&nbsp;&nbsp;![r]
 [1629][1629l]|[按键持续时间最长的键][1629]                      |![y]&nbsp;&nbsp;![r]
+[1636][1636l]|[按照频率将数组升序排序][1636]                    |![r]
 
 
 [p]:./ico/python.ico
@@ -1228,6 +1229,7 @@
 [1619]:./Easy/1619-Mean%20of%20Array%20After%20Removing%20Some%20Elements/README_CN.md#1619-删除某些元素后的数组均值
 [1624]:./Easy/1624-Largest%20Substring%20Between%20Two%20Equal%20Characters/README_CN.md#1624-两个相同字符之间的最长子字符串
 [1629]:./Easy/1629-Slowest%20Key/README_CN.md#1629-按键持续时间最长的键
+[1636]:./Easy/1636-Sort%20Array%20by%20Increasing%20Frequency/README_CN.md#1636-按照频率将数组升序排序
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1854,3 +1856,4 @@
 [1619l]:https://leetcode-cn.com/problems/mean-of-array-after-removing-some-elements/
 [1624l]:https://leetcode-cn.com/problems/largest-substring-between-two-equal-characters/
 [1629l]:https://leetcode-cn.com/problems/slowest-key/
+[1636l]:https://leetcode-cn.com/problems/sort-array-by-increasing-frequency/
