@@ -613,6 +613,7 @@
 [1629][1629l]|[按键持续时间最长的键][1629]                      |![y]&nbsp;&nbsp;![r]
 [1636][1636l]|[按照频率将数组升序排序][1636]                    |![r]
 [1640][1640l]|[能否连接形成数组][1640]                          |![y]&nbsp;&nbsp;![r]
+[1646][1646l]|[获取生成数组中的最大值][1646]                    |![r]
 
 
 [p]:./ico/python.ico
@@ -1232,6 +1233,7 @@
 [1629]:./Easy/1629-Slowest%20Key/README_CN.md#1629-按键持续时间最长的键
 [1636]:./Easy/1636-Sort%20Array%20by%20Increasing%20Frequency/README_CN.md#1636-按照频率将数组升序排序
 [1640]:./Easy/1640-Check%20Array%20Formation%20Through%20Concatenation/README_CN.md#1640-能否连接形成数组
+[1646]:./Easy/1646-Get%20Maximum%20in%20Generated%20Array/README_CN.md#1646-获取生成数组中的最大值
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1860,3 +1862,4 @@
 [1629l]:https://leetcode-cn.com/problems/slowest-key/
 [1636l]:https://leetcode-cn.com/problems/sort-array-by-increasing-frequency/
 [1640l]:https://leetcode-cn.com/problems/check-array-formation-through-concatenation/
+[1646l]:https://leetcode-cn.com/problems/get-maximum-in-generated-array/

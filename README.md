@@ -613,6 +613,7 @@
 [1629][1629l]|[Slowest Key][1629]                                                       |![y]&nbsp;&nbsp;![r]
 [1636][1636l]|[Sort Array by Increasing Frequency][1636]                                |![r]
 [1640][1640l]|[Check Array Formation Through Concatenation][1640]                       |![y]&nbsp;&nbsp;![r]
+[1646][1646l]|[Get Maximum in Generated Array][1646]                                    |![r]
 
 
 [p]:./ico/python.ico
@@ -1232,6 +1233,7 @@
 [1629]:./Easy/1629-Slowest%20Key/README.md#1629-slowest-key
 [1636]:./Easy/1636-Sort%20Array%20by%20Increasing%20Frequency/README.md#1636-sort-array-by-increasing-frequency
 [1640]:./Easy/1640-Check%20Array%20Formation%20Through%20Concatenation/README.md#1640-check-array-formation-through-concatenation
+[1646]:./Easy/1646-Get%20Maximum%20in%20Generated%20Array/README.md#1646-get-maximum-in-generated-array
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1860,3 +1862,4 @@
 [1629l]:https://leetcode.com/problems/slowest-key/
 [1636l]:https://leetcode.com/problems/sort-array-by-increasing-frequency/
 [1640l]:https://leetcode.com/problems/check-array-formation-through-concatenation/
+[1646l]:https://leetcode.com/problems/get-maximum-in-generated-array/
