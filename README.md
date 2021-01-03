@@ -364,6 +364,7 @@
 [867][867l]  |[Transpose Matrix][867]                                                   |![p]
 [868][868l]  |[Binary Gap][868]                                                         |![r]
 [869][869l]  |[Reordered Power of 2][869]                                               |![r]
+[870][870l]  |[Advantage Shuffle][870]                                                  |![y]&nbsp;&nbsp;![r]
 [872][872l]  |[Leaf-Similar Trees][872]                                                 |![p]
 [874][874l]  |[Walking Robot Simulation][874]                                           |![r]
 [876][876l]  |[Middle of the Linked List][876]                                          |![p]
@@ -985,6 +986,7 @@
 [867]:./Easy/0867-Transpose%20Matrix/README.md#867-transpose-matrix
 [868]:./Easy/0868-Binary%20Gap/README.md#868-binary-gap
 [869]:./Medium/0869-Reordered%20Power%20of%202/README.md#869-reordered-power-of-2
+[870]:./Medium/0870-Advantage%20Shuffle/README.md#870-advantage-shuffle
 [872]:./Easy/0872-Leaf-Similar%20Trees/README.md#872-leaf-similar-trees
 [874]:./Easy/0874-Walking%20Robot%20Simulation/README.md#874-walking-robot-simulation
 [876]:./Easy/0876-Middle%20of%20the%20Linked%20List/README.md#876-middle-of-the-linked-list
@@ -1615,6 +1617,7 @@
 [867l]:https://leetcode.com/problems/transpose-matrix/
 [868l]:https://leetcode.com/problems/binary-gap/
 [869l]:https://leetcode.com/problems/reordered-power-of-2/
+[870l]:https://leetcode.com/problems/advantage-shuffle/
 [872l]:https://leetcode.com/problems/leaf-similar-trees/
 [874l]:https://leetcode.com/problems/walking-robot-simulation/
 [876l]:https://leetcode.com/problems/middle-of-the-linked-list/

@@ -364,6 +364,7 @@
 [867][867l]  |[转置矩阵][867]                                   |![p]
 [868][868l]  |[二进制间距][868]                                 |![r]
 [869][869l]  |[重新排序得到 2 的幂][869]                        |![r]
+[870][870l]  |[优势洗牌][870]                                   |![y]&nbsp;&nbsp;![r]
 [872][872l]  |[叶子相似的树][872]                               |![p]
 [874][874l]  |[模拟行走机器人][874]                             |![r]
 [876][876l]  |[链表的中间结点][876]                             |![p]
@@ -985,6 +986,7 @@
 [867]:./Easy/0867-Transpose%20Matrix/README_CN.md#867-转置矩阵
 [868]:./Easy/0868-Binary%20Gap/README_CN.md#868-二进制间距
 [869]:./Medium/0869-Reordered%20Power%20of%202/README_CN.md#869-重新排序得到-2-的幂
+[870]:./Medium/0870-Advantage%20Shuffle/README_CN.md#870-优势洗牌
 [872]:./Easy/0872-Leaf-Similar%20Trees/README_CN.md#872-叶子相似的树
 [874]:./Easy/0874-Walking%20Robot%20Simulation/README_CN.md#874-模拟行走机器人
 [876]:./Easy/0876-Middle%20of%20the%20Linked%20List/README_CN.md#876-链表的中间结点
@@ -1615,6 +1617,7 @@
 [867l]:https://leetcode-cn.com/problems/transpose-matrix/
 [868l]:https://leetcode-cn.com/problems/binary-gap/
 [869l]:https://leetcode-cn.com/problems/reordered-power-of-2/
+[870l]:https://leetcode-cn.com/problems/advantage-shuffle/
 [872l]:https://leetcode-cn.com/problems/leaf-similar-trees/
 [874l]:https://leetcode-cn.com/problems/walking-robot-simulation/
 [876l]:https://leetcode-cn.com/problems/middle-of-the-linked-list/
