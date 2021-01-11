@@ -617,6 +617,7 @@
 [1646][1646l]|[获取生成数组中的最大值][1646]                    |![r]
 [1652][1652l]|[拆炸弹][1652]                                    |![y]&nbsp;&nbsp;![r]
 [1656][1656l]|[设计有序流][1656]                                |![p]
+[1662][1662l]|[检查两个字符串数组是否相等][1662]                |![y]&nbsp;&nbsp;![r]
 
 
 [p]:./ico/python.ico
@@ -1240,6 +1241,7 @@
 [1646]:./Easy/1646-Get%20Maximum%20in%20Generated%20Array/README_CN.md#1646-获取生成数组中的最大值
 [1652]:./Easy/1652-Defuse%20the%20Bomb/README_CN.md#1652-拆炸弹
 [1656]:./Easy/1656-Design%20an%20Ordered%20Stream/README_CN.md#1656-设计有序流
+[1662]:./Easy/1662-Check%20If%20Two%20String%20Arrays%20are%20Equivalent/README_CN.md#1662-检查两个字符串数组是否相等
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1872,3 +1874,4 @@
 [1646l]:https://leetcode-cn.com/problems/get-maximum-in-generated-array/
 [1652l]:https://leetcode-cn.com/problems/defuse-the-bomb/
 [1656l]:https://leetcode-cn.com/problems/design-an-ordered-stream/
+[1662l]:https://leetcode-cn.com/problems/check-if-two-string-arrays-are-equivalent/
