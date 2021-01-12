@@ -488,6 +488,7 @@
 [1261][1261l]|[在受污染的二叉树中查找元素][1261]                |![p]
 [1262][1262l]|[可被三整除的最大和][1262]                        |![r]
 [1266][1266l]|[访问所有点的最小时间][1266]                      |![y]&nbsp;&nbsp;![r]
+[1268][1268l]|[搜索推荐系统][1268]                              |![r]
 [1275][1275l]|[找出井字棋的获胜者][1275]                        |![r]
 [1277][1277l]|[统计全为 1 的正方形子矩阵][1277]                 |![r]
 [1281][1281l]|[整数的各位积和之差][1281]                        |![r]
@@ -1112,6 +1113,7 @@
 [1261]:./Medium/1261-Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree/README_CN.md#1261-在受污染的二叉树中查找元素
 [1262]:./Medium/1262-Greatest%20Sum%20Divisible%20by%20Three/README_CN.md#1262-可被三整除的最大和
 [1266]:./Easy/1266-Minimum%20Time%20Visiting%20All%20Points/README_CN.md#1266-访问所有点的最小时间
+[1268]:./Medium/1268-Search%20Suggestions%20System/README_CN.md#1268-搜索推荐系统
 [1275]:./Easy/1275-Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/README_CN.md#1275-找出井字棋的获胜者
 [1277]:./Medium/1277-Count%20Square%20Submatrices%20with%20All%20Ones/README_CN.md#1277-统计全为-1-的正方形子矩阵
 [1281]:./Easy/1281-Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/README_CN.md#1281-整数的各位积和之差
@@ -1745,6 +1747,7 @@
 [1261l]:https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree/
 [1262l]:https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/
 [1266l]:https://leetcode-cn.com/problems/minimum-time-visiting-all-points/
+[1268l]:https://leetcode-cn.com/problems/search-suggestions-system/
 [1275l]:https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game/
 [1277l]:https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/
 [1281l]:https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
