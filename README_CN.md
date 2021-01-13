@@ -615,6 +615,7 @@
 [1629][1629l]|[按键持续时间最长的键][1629]                      |![y]&nbsp;&nbsp;![r]
 [1636][1636l]|[按照频率将数组升序排序][1636]                    |![r]
 [1640][1640l]|[能否连接形成数组][1640]                          |![y]&nbsp;&nbsp;![r]
+[1641][1641l]|[统计字典序元音字符串的数目][1641]                |![y]&nbsp;&nbsp;![r]
 [1646][1646l]|[获取生成数组中的最大值][1646]                    |![r]
 [1652][1652l]|[拆炸弹][1652]                                    |![y]&nbsp;&nbsp;![r]
 [1656][1656l]|[设计有序流][1656]                                |![p]
@@ -1240,6 +1241,7 @@
 [1629]:./Easy/1629-Slowest%20Key/README_CN.md#1629-按键持续时间最长的键
 [1636]:./Easy/1636-Sort%20Array%20by%20Increasing%20Frequency/README_CN.md#1636-按照频率将数组升序排序
 [1640]:./Easy/1640-Check%20Array%20Formation%20Through%20Concatenation/README_CN.md#1640-能否连接形成数组
+[1641]:./Medium/1641-Count%20Sorted%20Vowel%20Strings/README_CN.md#1641-统计字典序元音字符串的数目
 [1646]:./Easy/1646-Get%20Maximum%20in%20Generated%20Array/README_CN.md#1646-获取生成数组中的最大值
 [1652]:./Easy/1652-Defuse%20the%20Bomb/README_CN.md#1652-拆炸弹
 [1656]:./Easy/1656-Design%20an%20Ordered%20Stream/README_CN.md#1656-设计有序流
@@ -1874,6 +1876,7 @@
 [1629l]:https://leetcode-cn.com/problems/slowest-key/
 [1636l]:https://leetcode-cn.com/problems/sort-array-by-increasing-frequency/
 [1640l]:https://leetcode-cn.com/problems/check-array-formation-through-concatenation/
+[1641l]:https://leetcode-cn.com/problems/count-sorted-vowel-strings/
 [1646l]:https://leetcode-cn.com/problems/get-maximum-in-generated-array/
 [1652l]:https://leetcode-cn.com/problems/defuse-the-bomb/
 [1656l]:https://leetcode-cn.com/problems/design-an-ordered-stream/
