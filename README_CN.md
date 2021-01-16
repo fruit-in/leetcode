@@ -614,6 +614,7 @@
 [1624][1624l]|[两个相同字符之间的最长子字符串][1624]            |![y]&nbsp;&nbsp;![r]
 [1629][1629l]|[按键持续时间最长的键][1629]                      |![y]&nbsp;&nbsp;![r]
 [1636][1636l]|[按照频率将数组升序排序][1636]                    |![r]
+[1637][1637l]|[两点之间不包含任何点的最宽垂直面积][1637]        |![y]&nbsp;&nbsp;![r]
 [1640][1640l]|[能否连接形成数组][1640]                          |![y]&nbsp;&nbsp;![r]
 [1641][1641l]|[统计字典序元音字符串的数目][1641]                |![y]&nbsp;&nbsp;![r]
 [1646][1646l]|[获取生成数组中的最大值][1646]                    |![r]
@@ -1240,6 +1241,7 @@
 [1624]:./Easy/1624-Largest%20Substring%20Between%20Two%20Equal%20Characters/README_CN.md#1624-两个相同字符之间的最长子字符串
 [1629]:./Easy/1629-Slowest%20Key/README_CN.md#1629-按键持续时间最长的键
 [1636]:./Easy/1636-Sort%20Array%20by%20Increasing%20Frequency/README_CN.md#1636-按照频率将数组升序排序
+[1637]:./Medium/1637-Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points/README_CN.md#1637-两点之间不包含任何点的最宽垂直面积
 [1640]:./Easy/1640-Check%20Array%20Formation%20Through%20Concatenation/README_CN.md#1640-能否连接形成数组
 [1641]:./Medium/1641-Count%20Sorted%20Vowel%20Strings/README_CN.md#1641-统计字典序元音字符串的数目
 [1646]:./Easy/1646-Get%20Maximum%20in%20Generated%20Array/README_CN.md#1646-获取生成数组中的最大值
@@ -1875,6 +1877,7 @@
 [1624l]:https://leetcode-cn.com/problems/largest-substring-between-two-equal-characters/
 [1629l]:https://leetcode-cn.com/problems/slowest-key/
 [1636l]:https://leetcode-cn.com/problems/sort-array-by-increasing-frequency/
+[1637l]:https://leetcode-cn.com/problems/widest-vertical-area-between-two-points-containing-no-points/
 [1640l]:https://leetcode-cn.com/problems/check-array-formation-through-concatenation/
 [1641l]:https://leetcode-cn.com/problems/count-sorted-vowel-strings/
 [1646l]:https://leetcode-cn.com/problems/get-maximum-in-generated-array/
