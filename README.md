@@ -197,6 +197,7 @@
 [405][405l]  |[Convert a Number to Hexadecimal][405]                                    |![p]
 [409][409l]  |[Longest Palindrome][409]                                                 |![r]
 [412][412l]  |[Fizz Buzz][412]                                                          |![p]
+[413][413l]  |[Arithmetic Slices][413]                                                  |![y]&nbsp;&nbsp;![r]
 [414][414l]  |[Third Maximum Number][414]                                               |![r]
 [415][415l]  |[Add Strings][415]                                                        |![p]
 [419][419l]  |[Battleships in a Board][419]                                             |![r]
@@ -827,6 +828,7 @@
 [405]:./Easy/0405-Convert%20a%20Number%20to%20Hexadecimal/README.md#405-convert-a-number-to-hexadecimal
 [409]:./Easy/0409-Longest%20Palindrome/README.md#409-longest-palindrome
 [412]:./Easy/0412-Fizz%20Buzz/README.md#412-fizz-buzz
+[413]:./Medium/0413-Arithmetic%20Slices/README.md#413-arithmetic-slices
 [414]:./Easy/0414-Third%20Maximum%20Number/README.md#414-third-maximum-number
 [415]:./Easy/0415-Add%20Strings/README.md#415-add-strings
 [419]:./Medium/0419-Battleships%20in%20a%20Board/README.md#419-battleships-in-a-board
@@ -1461,6 +1463,7 @@
 [405l]:https://leetcode.com/problems/convert-a-number-to-hexadecimal/
 [409l]:https://leetcode.com/problems/longest-palindrome/
 [412l]:https://leetcode.com/problems/fizz-buzz/
+[413l]:https://leetcode.com/problems/arithmetic-slices/
 [414l]:https://leetcode.com/problems/third-maximum-number/
 [415l]:https://leetcode.com/problems/add-strings/
 [419l]:https://leetcode.com/problems/battleships-in-a-board/

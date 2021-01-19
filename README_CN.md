@@ -197,6 +197,7 @@
 [405][405l]  |[数字转换为十六进制数][405]                       |![p]
 [409][409l]  |[最长回文串][409]                                 |![r]
 [412][412l]  |[Fizz Buzz][412]                                  |![p]
+[413][413l]  |[等差数列划分][413]                               |![y]&nbsp;&nbsp;![r]
 [414][414l]  |[第三大的数][414]                                 |![r]
 [415][415l]  |[字符串相加][415]                                 |![p]
 [419][419l]  |[甲板上的战舰][419]                               |![r]
@@ -827,6 +828,7 @@
 [405]:./Easy/0405-Convert%20a%20Number%20to%20Hexadecimal/README_CN.md#405-数字转换为十六进制数
 [409]:./Easy/0409-Longest%20Palindrome/README_CN.md#409-最长回文串
 [412]:./Easy/0412-Fizz%20Buzz/README_CN.md#412-fizz-buzz
+[413]:./Medium/0413-Arithmetic%20Slices/README_CN.md#413-等差数列划分
 [414]:./Easy/0414-Third%20Maximum%20Number/README_CN.md#414-第三大的数
 [415]:./Easy/0415-Add%20Strings/README_CN.md#415-字符串相加
 [419]:./Medium/0419-Battleships%20in%20a%20Board/README_CN.md#419-甲板上的战舰
@@ -1461,6 +1463,7 @@
 [405l]:https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/
 [409l]:https://leetcode-cn.com/problems/longest-palindrome/
 [412l]:https://leetcode-cn.com/problems/fizz-buzz/
+[413l]:https://leetcode-cn.com/problems/arithmetic-slices/
 [414l]:https://leetcode-cn.com/problems/third-maximum-number/
 [415l]:https://leetcode-cn.com/problems/add-strings/
 [419l]:https://leetcode-cn.com/problems/battleships-in-a-board/
