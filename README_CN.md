@@ -275,6 +275,7 @@
 [605][605l]  |[种花问题][605]                                   |![r]
 [606][606l]  |[根据二叉树创建字符串][606]                       |![p]
 [609][609l]  |[在系统中查找重复文件][609]                       |![y]
+[611][611l]  |[有效三角形的个数][611]                           |![r]
 [617][617l]  |[合并二叉树][617]                                 |![p]
 [622][622l]  |[设计循环队列][622]                               |![r]
 [623][623l]  |[在二叉树中增加一行][623]                         |![p]
@@ -904,6 +905,7 @@
 [605]:./Easy/0605-Can%20Place%20Flowers/README_CN.md#605-种花问题
 [606]:./Easy/0606-Construct%20String%20from%20Binary%20Tree/README_CN.md#606-根据二叉树创建字符串
 [609]:./Medium/0609-Find%20Duplicate%20File%20in%20System/README_CN.md#609-在系统中查找重复文件
+[611]:./Medium/0611-Valid%20Triangle%20Number/README_CN.md#611-有效三角形的个数
 [617]:./Easy/0617-Merge%20Two%20Binary%20Trees/README_CN.md#617-合并二叉树
 [622]:./Medium/0622-Design%20Circular%20Queue/README_CN.md#622-设计循环队列
 [623]:./Medium/0623-Add%20One%20Row%20to%20Tree/README_CN.md#623-在二叉树中增加一行
@@ -1538,6 +1540,7 @@
 [605l]:https://leetcode-cn.com/problems/can-place-flowers/
 [606l]:https://leetcode-cn.com/problems/construct-string-from-binary-tree/
 [609l]:https://leetcode-cn.com/problems/find-duplicate-file-in-system/
+[611l]:https://leetcode-cn.com/problems/valid-triangle-number/
 [617l]:https://leetcode-cn.com/problems/merge-two-binary-trees/
 [622l]:https://leetcode-cn.com/problems/design-circular-queue/
 [623l]:https://leetcode-cn.com/problems/add-one-row-to-tree/

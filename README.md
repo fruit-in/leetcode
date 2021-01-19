@@ -275,6 +275,7 @@
 [605][605l]  |[Can Place Flowers][605]                                                  |![r]
 [606][606l]  |[Construct String from Binary Tree][606]                                  |![p]
 [609][609l]  |[Find Duplicate File in System][609]                                      |![y]
+[611][611l]  |[Valid Triangle Number][611]                                              |![r]
 [617][617l]  |[Merge Two Binary Trees][617]                                             |![p]
 [622][622l]  |[Design Circular Queue][622]                                              |![r]
 [623][623l]  |[Add One Row to Tree][623]                                                |![p]
@@ -904,6 +905,7 @@
 [605]:./Easy/0605-Can%20Place%20Flowers/README.md#605-can-place-flowers
 [606]:./Easy/0606-Construct%20String%20from%20Binary%20Tree/README.md#606-construct-string-from-binary-tree
 [609]:./Medium/0609-Find%20Duplicate%20File%20in%20System/README.md#609-find-duplicate-file-in-system
+[611]:./Medium/0611-Valid%20Triangle%20Number/README.md#611-valid-triangle-number
 [617]:./Easy/0617-Merge%20Two%20Binary%20Trees/README.md#617-merge-two-binary-trees
 [622]:./Medium/0622-Design%20Circular%20Queue/README.md#622-design-circular-queue
 [623]:./Medium/0623-Add%20One%20Row%20to%20Tree/README.md#623-add-one-row-to-tree
@@ -1538,6 +1540,7 @@
 [605l]:https://leetcode.com/problems/can-place-flowers/
 [606l]:https://leetcode.com/problems/construct-string-from-binary-tree/
 [609l]:https://leetcode.com/problems/find-duplicate-file-in-system/
+[611l]:https://leetcode.com/problems/valid-triangle-number/
 [617l]:https://leetcode.com/problems/merge-two-binary-trees/
 [622l]:https://leetcode.com/problems/design-circular-queue/
 [623l]:https://leetcode.com/problems/add-one-row-to-tree/
