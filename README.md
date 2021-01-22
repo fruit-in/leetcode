@@ -72,6 +72,7 @@
 [102][102l]  |[Binary Tree Level Order Traversal][102]                                  |![p]
 [103][103l]  |[Binary Tree Zigzag Level Order Traversal][103]                           |![p]
 [104][104l]  |[Maximum Depth of Binary Tree][104]                                       |![p]
+[105][105l]  |[Construct Binary Tree from Preorder and Inorder Traversal][105]          |![p]
 [107][107l]  |[Binary Tree Level Order Traversal II][107]                               |![p]
 [108][108l]  |[Convert Sorted Array to Binary Search Tree][108]                         |![p]
 [109][109l]  |[Convert Sorted List to Binary Search Tree][109]                          |![p]
@@ -704,6 +705,7 @@
 [102]:./Medium/0102-Binary%20Tree%20Level%20Order%20Traversal/README.md#102-binary-tree-level-order-traversal
 [103]:./Medium/0103-Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/README.md#103-binary-tree-zigzag-level-order-traversal
 [104]:./Easy/0104-Maximum%20Depth%20of%20Binary%20Tree/README.md#104-maximum-depth-of-binary-tree
+[105]:./Medium/0105-Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/README.md#105-construct-binary-tree-from-preorder-and-inorder-traversal
 [107]:./Easy/0107-Binary%20Tree%20Level%20Order%20Traversal%20II/README.md#107-binary-tree-level-order-traversal-ii
 [108]:./Easy/0108-Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/README.md#108-convert-sorted-array-to-binary-search-tree
 [109]:./Medium/0109-Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/README.md#109-convert-sorted-list-to-binary-search-tree

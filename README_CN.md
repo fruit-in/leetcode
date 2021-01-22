@@ -72,6 +72,7 @@
 [102][102l]  |[二叉树的层次遍历][102]                           |![p]
 [103][103l]  |[二叉树的锯齿形层次遍历][103]                     |![p]
 [104][104l]  |[二叉树的最大深度][104]                           |![p]
+[105][105l]  |[从前序与中序遍历序列构造二叉树][105]             |![p]
 [107][107l]  |[二叉树的层次遍历 II][107]                        |![p]
 [108][108l]  |[将有序数组转换为二叉搜索树][108]                 |![p]
 [109][109l]  |[有序链表转换二叉搜索树][109]                     |![p]
@@ -704,6 +705,7 @@
 [102]:./Medium/0102-Binary%20Tree%20Level%20Order%20Traversal/README_CN.md#102-二叉树的层次遍历
 [103]:./Medium/0103-Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/README_CN.md#103-二叉树的锯齿形层次遍历
 [104]:./Easy/0104-Maximum%20Depth%20of%20Binary%20Tree/README_CN.md#104-二叉树的最大深度
+[105]:./Medium/0105-Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/README_CN.md#105-从前序与中序遍历序列构造二叉树
 [107]:./Easy/0107-Binary%20Tree%20Level%20Order%20Traversal%20II/README_CN.md#107-二叉树的层次遍历-ii
 [108]:./Easy/0108-Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/README_CN.md#108-将有序数组转换为二叉搜索树
 [109]:./Medium/0109-Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/README_CN.md#109-有序链表转换二叉搜索树
