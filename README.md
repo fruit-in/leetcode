@@ -571,6 +571,7 @@
 [1460][1460l]|[Make Two Arrays Equal by Reversing Sub-arrays][1460]                     |![r]
 [1464][1464l]|[Maximum Product of Two Elements in an Array][1464]                       |![r]
 [1470][1470l]|[Shuffle the Array][1470]                                                 |![r]
+[1472][1472l]|[Design Browser History][1472]                                            |![r]
 [1475][1475l]|[Final Prices With a Special Discount in a Shop][1475]                    |![r]
 [1476][1476l]|[Subrectangle Queries][1476]                                              |![r]
 [1480][1480l]|[Running Sum of 1d Array][1480]                                           |![y]&nbsp;&nbsp;![r]
@@ -1202,6 +1203,7 @@
 [1460]:./Easy/1460-Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays/README.md#1460-make-two-arrays-equal-by-reversing-sub-arrays
 [1464]:./Easy/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/README.md#1464-maximum-product-of-two-elements-in-an-array
 [1470]:./Easy/1470-Shuffle%20the%20Array/README.md#1470-shuffle-the-array
+[1472]:./Medium/1472-Design%20Browser%20History/README.md#1472-design-browser-history
 [1475]:./Easy/1475-Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/README.md#1475-final-prices-with-a-special-discount-in-a-shop
 [1476]:./Medium/1476-Subrectangle%20Queries/README.md#1476-subrectangle-queries
 [1480]:./Easy/1480-Running%20Sum%20of%201d%20Array/README.md#1480-running-sum-of-1d-array
@@ -1842,6 +1844,7 @@
 [1460l]:https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 [1464l]:https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 [1470l]:https://leetcode.com/problems/shuffle-the-array/
+[1472l]:https://leetcode.com/problems/design-browser-history/
 [1475l]:https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1476l]:https://leetcode.com/problems/subrectangle-queries/
 [1480l]:https://leetcode.com/problems/running-sum-of-1d-array/

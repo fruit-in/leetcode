@@ -571,6 +571,7 @@
 [1460][1460l]|[通过翻转子数组使两个数组相等][1460]              |![r]
 [1464][1464l]|[数组中两元素的最大乘积][1464]                    |![r]
 [1470][1470l]|[重新排列数组][1470]                              |![r]
+[1472][1472l]|[设计浏览器历史记录][1472]                        |![r]
 [1475][1475l]|[商品折扣后的最终价格][1475]                      |![r]
 [1476][1476l]|[子矩形查询][1476]                                |![r]
 [1480][1480l]|[一维数组的动态和][1480]                          |![y]&nbsp;&nbsp;![r]
@@ -1202,6 +1203,7 @@
 [1460]:./Easy/1460-Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays/README_CN.md#1460-通过翻转子数组使两个数组相等
 [1464]:./Easy/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/README_CN.md#1464-数组中两元素的最大乘积
 [1470]:./Easy/1470-Shuffle%20the%20Array/README_CN.md#1470-重新排列数组
+[1472]:./Medium/1472-Design%20Browser%20History/README_CN.md#1472-设计浏览器历史记录
 [1475]:./Easy/1475-Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/README_CN.md#1475-商品折扣后的最终价格
 [1476]:./Medium/1476-Subrectangle%20Queries/README_CN.md#1476-子矩形查询
 [1480]:./Easy/1480-Running%20Sum%20of%201d%20Array/README_CN.md#1480-一维数组的动态和
@@ -1842,6 +1844,7 @@
 [1460l]:https://leetcode-cn.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 [1464l]:https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array/
 [1470l]:https://leetcode-cn.com/problems/shuffle-the-array/
+[1472l]:https://leetcode-cn.com/problems/design-browser-history/
 [1475l]:https://leetcode-cn.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1476l]:https://leetcode-cn.com/problems/subrectangle-queries/
 [1480l]:https://leetcode-cn.com/problems/running-sum-of-1d-array/
