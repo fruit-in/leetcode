@@ -536,6 +536,7 @@
 [1360][1360l]|[Number of Days Between Two Dates][1360]                                  |![r]
 [1362][1362l]|[Closest Divisors][1362]                                                  |![y]&nbsp;&nbsp;![r]
 [1365][1365l]|[How Many Numbers Are Smaller Than the Current Number][1365]              |![j]
+[1367][1367l]|[Linked List in Binary Tree][1367]                                        |![p]&nbsp;&nbsp;![y]
 [1370][1370l]|[Increasing Decreasing String][1370]                                      |![r]
 [1374][1374l]|[Generate a String With Characters That Have Odd Counts][1374]            |![p]
 [1375][1375l]|[Bulb Switcher III][1375]                                                 |![r]
@@ -1174,6 +1175,7 @@
 [1360]:./Easy/1360-Number%20of%20Days%20Between%20Two%20Dates/README.md#1360-number-of-days-between-two-dates
 [1362]:./Medium/1362-Closest%20Divisors/README.md#1362-closest-divisors
 [1365]:./Easy/1365-How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/README.md#1365-how-many-numbers-are-smaller-than-the-current-number
+[1367]:./Medium/1367-Linked%20List%20in%20Binary%20Tree/README.md#1367-linked-list-in-binary-tree
 [1370]:./Easy/1370-Increasing%20Decreasing%20String/README.md#1370-increasing-decreasing-string
 [1374]:./Easy/1374-Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts/README.md#1374-generate-a-string-with-characters-that-have-odd-counts
 [1375]:./Medium/1375-Bulb%20Switcher%20III/README.md#1375-bulb-switcher-iii
@@ -1819,6 +1821,7 @@
 [1360l]:https://leetcode.com/problems/number-of-days-between-two-dates/
 [1362l]:https://leetcode.com/problems/closest-divisors/
 [1365l]:https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+[1367l]:https://leetcode.com/problems/linked-list-in-binary-tree/
 [1370l]:https://leetcode.com/problems/increasing-decreasing-string/
 [1374l]:https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
 [1375l]:https://leetcode.com/problems/bulb-switcher-iii/

@@ -536,6 +536,7 @@
 [1360][1360l]|[日期之间隔几天][1360]                            |![r]
 [1362][1362l]|[最接近的因数][1362]                              |![y]&nbsp;&nbsp;![r]
 [1365][1365l]|[有多少小于当前数字的数字][1365]                  |![j]
+[1367][1367l]|[二叉树中的列表][1367]                            |![p]&nbsp;&nbsp;![y]
 [1370][1370l]|[上升下降字符串][1370]                            |![r]
 [1374][1374l]|[生成每种字符都是奇数个的字符串][1374]            |![p]
 [1375][1375l]|[灯泡开关 III][1375]                              |![r]
@@ -1174,6 +1175,7 @@
 [1360]:./Easy/1360-Number%20of%20Days%20Between%20Two%20Dates/README_CN.md#1360-日期之间隔几天
 [1362]:./Medium/1362-Closest%20Divisors/README_CN.md#1362-最接近的因数
 [1365]:./Easy/1365-How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/README_CN.md#1365-有多少小于当前数字的数字
+[1367]:./Medium/1367-Linked%20List%20in%20Binary%20Tree/README_CN.md#1367-二叉树中的列表
 [1370]:./Easy/1370-Increasing%20Decreasing%20String/README_CN.md#1370-上升下降字符串
 [1374]:./Easy/1374-Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts/README_CN.md#1374-生成每种字符都是奇数个的字符串
 [1375]:./Medium/1375-Bulb%20Switcher%20III/README_CN.md#1375-灯泡开关-iii
@@ -1819,6 +1821,7 @@
 [1360l]:https://leetcode-cn.com/problems/number-of-days-between-two-dates/
 [1362l]:https://leetcode-cn.com/problems/closest-divisors/
 [1365l]:https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+[1367l]:https://leetcode-cn.com/problems/linked-list-in-binary-tree/
 [1370l]:https://leetcode-cn.com/problems/increasing-decreasing-string/
 [1374l]:https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts/
 [1375l]:https://leetcode-cn.com/problems/bulb-switcher-iii/
