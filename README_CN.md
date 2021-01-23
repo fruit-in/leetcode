@@ -378,6 +378,7 @@
 [884][884l]  |[两句话中的不常见单词][884]                       |![p]
 [885][885l]  |[螺旋矩阵 III][885]                               |![r]
 [888][888l]  |[公平的糖果交换][888]                             |![r]
+[889][889l]  |[根据前序和后序遍历构造二叉树][889]               |![p]
 [892][892l]  |[三维形体的表面积][892]                           |![y]&nbsp;&nbsp;![r]
 [893][893l]  |[特殊等价字符串组][893]                           |![r]
 [894][894l]  |[所有可能的满二叉树][894]                         |![y]
@@ -1012,6 +1013,7 @@
 [884]:./Easy/0884-Uncommon%20Words%20from%20Two%20Sentences/README_CN.md#884-两句话中的不常见单词
 [885]:./Medium/0885-Spiral%20Matrix%20III/README_CN.md#885-螺旋矩阵-iii
 [888]:./Easy/0888-Fair%20Candy%20Swap/README_CN.md#888-公平的糖果交换
+[889]:./Medium/0889-Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal/README_CN.md#889-根据前序和后序遍历构造二叉树
 [892]:./Easy/0892-Surface%20Area%20of%203D%20Shapes/README_CN.md#892-三维形体的表面积
 [893]:./Easy/0893-Groups%20of%20Special-Equivalent%20Strings/README_CN.md#893-特殊等价字符串组
 [894]:./Medium/0894-All%20Possible%20Full%20Binary%20Trees/README_CN.md#894-所有可能的满二叉树
@@ -1653,6 +1655,7 @@
 [884l]:https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/
 [885l]:https://leetcode-cn.com/problems/spiral-matrix-iii/
 [888l]:https://leetcode-cn.com/problems/fair-candy-swap/
+[889l]:https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 [892l]:https://leetcode-cn.com/problems/surface-area-of-3d-shapes/
 [893l]:https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/
 [894l]:https://leetcode-cn.com/problems/all-possible-full-binary-trees/
