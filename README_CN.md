@@ -394,6 +394,7 @@
 [908][908l]  |[最小差值 I][908]                                 |![r]
 [912][912l]  |[排序数组][912]                                   |![r]
 [914][914l]  |[卡牌分组][914]                                   |![r]
+[915][915l]  |[分割数组][915]                                   |![y]&nbsp;&nbsp;![r]
 [917][917l]  |[仅仅反转字母][917]                               |![p]
 [921][921l]  |[使括号有效的最少添加][921]                       |![r]
 [922][922l]  |[按奇偶排序数组 II][922]                          |![p]
@@ -1035,6 +1036,7 @@
 [908]:./Easy/0908-Smallest%20Range%20I/README_CN.md#908-最小差值-i
 [912]:./Medium/0912-Sort%20an%20Array/README_CN.md#912-排序数组
 [914]:./Easy/0914-X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/README_CN.md#914-卡牌分组
+[915]:./Medium/0915-Partition%20Array%20into%20Disjoint%20Intervals/README_CN.md#915-分割数组
 [917]:./Easy/0917-Reverse%20Only%20Letters/README_CN.md#917-仅仅反转字母
 [921]:./Medium/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid/README_CN.md#921-使括号有效的最少添加
 [922]:./Easy/0922-Sort%20Array%20By%20Parity%20II/README_CN.md#922-按奇偶排序数组-ii
@@ -1683,6 +1685,7 @@
 [908l]:https://leetcode-cn.com/problems/smallest-range-i/
 [912l]:https://leetcode-cn.com/problems/sort-an-array/
 [914l]:https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/
+[915l]:https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals/
 [917l]:https://leetcode-cn.com/problems/reverse-only-letters/
 [921l]:https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/
 [922l]:https://leetcode-cn.com/problems/sort-array-by-parity-ii/

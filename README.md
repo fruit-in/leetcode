@@ -394,6 +394,7 @@
 [908][908l]  |[Smallest Range I][908]                                                   |![r]
 [912][912l]  |[Sort an Array][912]                                                      |![r]
 [914][914l]  |[X of a Kind in a Deck of Cards][914]                                     |![r]
+[915][915l]  |[Partition Array into Disjoint Intervals][915]                            |![y]&nbsp;&nbsp;![r]
 [917][917l]  |[Reverse Only Letters][917]                                               |![p]
 [921][921l]  |[Minimum Add to Make Parentheses Valid][921]                              |![r]
 [922][922l]  |[Sort Array By Parity II][922]                                            |![p]
@@ -1035,6 +1036,7 @@
 [908]:./Easy/0908-Smallest%20Range%20I/README.md#908-smallest-range-i
 [912]:./Medium/0912-Sort%20an%20Array/README.md#912-sort-an-array
 [914]:./Easy/0914-X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/README.md#914-x-of-a-kind-in-a-deck-of-cards
+[915]:./Medium/0915-Partition%20Array%20into%20Disjoint%20Intervals/README.md#915-partition-array-into-disjoint-intervals
 [917]:./Easy/0917-Reverse%20Only%20Letters/README.md#917-reverse-only-letters
 [921]:./Medium/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid/README.md#921-minimum-add-to-make-parentheses-valid
 [922]:./Easy/0922-Sort%20Array%20By%20Parity%20II/README.md#922-sort-array-by-parity-ii
@@ -1683,6 +1685,7 @@
 [908l]:https://leetcode.com/problems/smallest-range-i/
 [912l]:https://leetcode.com/problems/sort-an-array/
 [914l]:https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
+[915l]:https://leetcode.com/problems/partition-array-into-disjoint-intervals/
 [917l]:https://leetcode.com/problems/reverse-only-letters/
 [921l]:https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 [922l]:https://leetcode.com/problems/sort-array-by-parity-ii/
