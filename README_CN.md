@@ -164,6 +164,7 @@
 [292][292l]  |[Nim 游戏][292]                                   |![y]&nbsp;&nbsp;![r]
 [299][299l]  |[猜数字游戏][299]                                 |![p]
 [303][303l]  |[区域和检索 - 数组不可变][303]                    |![p]
+[306][306l]  |[累加数][306]                                     |![y]&nbsp;&nbsp;![r]
 [313][313l]  |[超级丑数][313]                                   |![r]
 [318][318l]  |[最大单词长度乘积][318]                           |![p]
 [319][319l]  |[灯泡开关][319]                                   |![r]
@@ -806,6 +807,7 @@
 [292]:./Easy/0292-Nim%20Game/README_CN.md#292-nim-游戏
 [299]:./Easy/0299-Bulls%20and%20Cows/README_CN.md#299-猜数字游戏
 [303]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README_CN.md#303-区域和检索---数组不可变
+[306]:./Medium/0306-Additive%20Number/README_CN.md#306-累加数
 [313]:./Medium/0313-Super%20Ugly%20Number/README_CN.md#313-超级丑数
 [318]:./Medium/0318-Maximum%20Product%20of%20Word%20Lengths/README_CN.md#318-最大单词长度乘积
 [319]:./Medium/0319-Bulb%20Switcher/README_CN.md#319-灯泡开关
@@ -1448,6 +1450,7 @@
 [297l]:https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
 [299l]:https://leetcode-cn.com/problems/bulls-and-cows/
 [303l]:https://leetcode-cn.com/problems/range-sum-query-immutable/
+[306l]:https://leetcode-cn.com/problems/additive-number/
 [313l]:https://leetcode-cn.com/problems/super-ugly-number/
 [318l]:https://leetcode-cn.com/problems/maximum-product-of-word-lengths/
 [319l]:https://leetcode-cn.com/problems/bulb-switcher/

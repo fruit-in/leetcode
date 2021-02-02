@@ -164,6 +164,7 @@
 [292][292l]  |[Nim Game][292]                                                           |![y]&nbsp;&nbsp;![r]
 [299][299l]  |[Bulls and Cows][299]                                                     |![p]
 [303][303l]  |[Range Sum Query - Immutable][303]                                        |![p]
+[306][306l]  |[Additive Number][306]                                                    |![y]&nbsp;&nbsp;![r]
 [313][313l]  |[Super Ugly Number][313]                                                  |![r]
 [318][318l]  |[Maximum Product of Word Lengths][318]                                    |![p]
 [319][319l]  |[Bulb Switcher][319]                                                      |![r]
@@ -806,6 +807,7 @@
 [292]:./Easy/0292-Nim%20Game/README.md#292-nim-game
 [299]:./Easy/0299-Bulls%20and%20Cows/README.md#299-bulls-and-cows
 [303]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README.md#303-range-sum-query---immutable
+[306]:./Medium/0306-Additive%20Number/README.md#306-additive-number
 [313]:./Medium/0313-Super%20Ugly%20Number/README.md#313-super-ugly-number
 [318]:./Medium/0318-Maximum%20Product%20of%20Word%20Lengths/README.md#318-maximum-product-of-word-lengths
 [319]:./Medium/0319-Bulb%20Switcher/README.md#319-bulb-switcher
@@ -1448,6 +1450,7 @@
 [297l]:https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 [299l]:https://leetcode.com/problems/bulls-and-cows/
 [303l]:https://leetcode.com/problems/range-sum-query-immutable/
+[306l]:https://leetcode.com/problems/additive-number/
 [313l]:https://leetcode.com/problems/super-ugly-number/
 [318l]:https://leetcode.com/problems/maximum-product-of-word-lengths/
 [319l]:https://leetcode.com/problems/bulb-switcher/
