@@ -328,6 +328,7 @@
 [746][746l]  |[Min Cost Climbing Stairs][746]                                           |![r]
 [747][747l]  |[Largest Number At Least Twice of Others][747]                            |![r]
 [748][748l]  |[Shortest Completing Word][748]                                           |![p]
+[752][752l]  |[Open the Lock][752]                                                      |![y]&nbsp;&nbsp;![r]
 [754][754l]  |[Reach a Number][754]                                                     |![r]
 [762][762l]  |[Prime Number of Set Bits in Binary Representation][762]                  |![p]
 [763][763l]  |[Partition Labels][763]                                                   |![r]
@@ -971,6 +972,7 @@
 [746]:./Easy/0746-Min%20Cost%20Climbing%20Stairs/README.md#746-min-cost-climbing-stairs
 [747]:./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README.md#747-largest-number-at-least-twice-of-others
 [748]:./Easy/0748-Shortest%20Completing%20Word/README.md#748-shortest-completing-word
+[752]:./Medium/0752-Open%20the%20Lock/README.md#752-open-the-lock
 [754]:./Medium/0754-Reach%20a%20Number/README.md#754-reach-a-number
 [762]:./Easy/0762-Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/README.md#762-prime-number-of-set-bits-in-binary-representation
 [763]:./Medium/0763-Partition%20Labels/README.md#763-partition-labels

@@ -328,6 +328,7 @@
 [746][746l]  |[使用最小花费爬楼梯][746]                         |![r]
 [747][747l]  |[至少是其他数字两倍的最大数][747]                 |![r]
 [748][748l]  |[最短完整词][748]                                 |![p]
+[752][752l]  |[打开转盘锁][752]                                 ![y]&nbsp;&nbsp;![r]|
 [754][754l]  |[到达终点数字][754]                               |![r]
 [762][762l]  |[二进制表示中质数个计算置位][762]                 |![p]
 [763][763l]  |[划分字母区间][763]                               |![r]
@@ -971,6 +972,7 @@
 [746]:./Easy/0746-Min%20Cost%20Climbing%20Stairs/README_CN.md#746-使用最小花费爬楼梯
 [747]:./Easy/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README_CN.md#747-至少是其他数字两倍的最大数
 [748]:./Easy/0748-Shortest%20Completing%20Word/README_CN.md#748-最短完整词
+[752]:./Medium/0752-Open%20the%20Lock/README_CN.md#752-打开转盘锁
 [754]:./Medium/0754-Reach%20a%20Number/README_CN.md#754-到达终点数字
 [762]:./Easy/0762-Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/README_CN.md#762-二进制表示中质数个计算置位
 [763]:./Medium/0763-Partition%20Labels/README_CN.md#763-划分字母区间
