@@ -501,6 +501,7 @@
 [1261][1261l]|[Find Elements in a Contaminated Binary Tree][1261]                       |![p]
 [1262][1262l]|[Greatest Sum Divisible by Three][1262]                                   |![r]
 [1266][1266l]|[Minimum Time Visiting All Points][1266]                                  |![y]&nbsp;&nbsp;![r]
+[1267][1267l]|[Count Servers that Communicate][1267]                                    |![y]&nbsp;&nbsp;![r]
 [1268][1268l]|[Search Suggestions System][1268]                                         |![r]
 [1275][1275l]|[Find Winner on a Tic Tac Toe Game][1275]                                 |![r]
 [1277][1277l]|[Count Square Submatrices with All Ones][1277]                            |![r]
@@ -1146,6 +1147,7 @@
 [1261]:./Medium/1261-Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree/README.md#1261-find-elements-in-a-contaminated-binary-tree
 [1262]:./Medium/1262-Greatest%20Sum%20Divisible%20by%20Three/README.md#1262-greatest-sum-divisible-by-three
 [1266]:./Easy/1266-Minimum%20Time%20Visiting%20All%20Points/README.md#1266-minimum-time-visiting-all-points
+[1267]:./Medium/1267-Count%20Servers%20that%20Communicate/README.md#1267-count-servers-that-communicate
 [1268]:./Medium/1268-Search%20Suggestions%20System/README.md#1268-search-suggestions-system
 [1275]:./Easy/1275-Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/README.md#1275-find-winner-on-a-tic-tac-toe-game
 [1277]:./Medium/1277-Count%20Square%20Submatrices%20with%20All%20Ones/README.md#1277-count-square-submatrices-with-all-ones
@@ -1797,6 +1799,7 @@
 [1261l]:https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
 [1262l]:https://leetcode.com/problems/greatest-sum-divisible-by-three/
 [1266l]:https://leetcode.com/problems/minimum-time-visiting-all-points/
+[1267l]:https://leetcode.com/problems/count-servers-that-communicate/
 [1268l]:https://leetcode.com/problems/search-suggestions-system/
 [1275l]:https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
 [1277l]:https://leetcode.com/problems/count-square-submatrices-with-all-ones/
