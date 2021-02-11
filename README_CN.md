@@ -230,6 +230,7 @@
 [475][475l]  |[供暖器][475]                                     |![rs]
 [476][476l]  |[数字的补数][476]                                 |![rs]
 [477][477l]  |[汉明距离总和][477]                               |![rb]&nbsp;&nbsp;![rs]
+[478][478l]  |[在圆内随机生成点][478]                           |![rs]
 [481][481l]  |[神奇字符串][481]                                 |![rs]
 [482][482l]  |[密钥格式化][482]                                 |![py]
 [485][485l]  |[最大连续1的个数][485]                            |![rs]
@@ -877,6 +878,7 @@
 [475]:./Easy/0475-Heaters/README_CN.md#475-供暖器
 [476]:./Easy/0476-Number%20Complement/README_CN.md#476-数字的补数
 [477]:./Medium/0477-Total%20Hamming%20Distance/README_CN.md#477-汉明距离总和
+[478]:./Medium/0478-Generate%20Random%20Point%20in%20a%20Circle/README_CN.md#478-在圆内随机生成点
 [481]:./Medium/0481-Magical%20String/README_CN.md#481-神奇字符串
 [482]:./Easy/0482-License%20Key%20Formatting/README_CN.md#482-密钥格式化
 [485]:./Easy/0485-Max%20Consecutive%20Ones/README_CN.md#485-最大连续1的个数
@@ -1527,6 +1529,7 @@
 [475l]:https://leetcode-cn.com/problems/heaters/
 [476l]:https://leetcode-cn.com/problems/number-complement/
 [477l]:https://leetcode-cn.com/problems/total-hamming-distance/
+[478l]:https://leetcode-cn.com/problems/generate-random-point-in-a-circle/
 [481l]:https://leetcode-cn.com/problems/magical-string/
 [482l]:https://leetcode-cn.com/problems/license-key-formatting/
 [485l]:https://leetcode-cn.com/problems/max-consecutive-ones/
