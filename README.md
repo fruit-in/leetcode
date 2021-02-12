@@ -627,6 +627,7 @@
 [1598][1598l]|[Crawler Log Folder][1598]                                                |![rb]
 [1603][1603l]|[Design Parking System][1603]                                             |![rs]
 [1608][1608l]|[Special Array With X Elements Greater Than or Equal X][1608]             |![rs]
+[1609][1609l]|[Even Odd Tree][1609]                                                     |![py]&nbsp;&nbsp;![rb]
 [1614][1614l]|[Maximum Nesting Depth of the Parentheses][1614]                          |![rb]&nbsp;&nbsp;![rs]
 [1619][1619l]|[Mean of Array After Removing Some Elements][1619]                        |![rb]&nbsp;&nbsp;![rs]
 [1624][1624l]|[Largest Substring Between Two Equal Characters][1624]                    |![rb]&nbsp;&nbsp;![rs]
@@ -1275,6 +1276,7 @@
 [1598]:./Easy/1598-Crawler%20Log%20Folder/README.md#1598-crawler-log-folder
 [1603]:./Easy/1603-Design%20Parking%20System/README.md#1603-design-parking-system
 [1608]:./Easy/1608-Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/README.md#1608-special-array-with-x-elements-greater-than-or-equal-x
+[1609]:./Medium/1609-Even%20Odd%20Tree/README.md#1609-even-odd-tree
 [1614]:./Easy/1614-Maximum%20Nesting%20Depth%20of%20the%20Parentheses/README.md#1614-maximum-nesting-depth-of-the-parentheses
 [1619]:./Easy/1619-Mean%20of%20Array%20After%20Removing%20Some%20Elements/README.md#1619-mean-of-array-after-removing-some-elements
 [1624]:./Easy/1624-Largest%20Substring%20Between%20Two%20Equal%20Characters/README.md#1624-largest-substring-between-two-equal-characters
@@ -1929,6 +1931,7 @@
 [1598l]:https://leetcode.com/problems/crawler-log-folder/
 [1603l]:https://leetcode.com/problems/design-parking-system/
 [1608l]:https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
+[1609l]:https://leetcode.com/problems/even-odd-tree/
 [1614l]:https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 [1619l]:https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 [1624l]:https://leetcode.com/problems/largest-substring-between-two-equal-characters/

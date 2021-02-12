@@ -627,6 +627,7 @@
 [1598][1598l]|[文件夹操作日志搜集器][1598]                      |![rb]
 [1603][1603l]|[设计停车系统][1603]                              |![rs]
 [1608][1608l]|[特殊数组的特征值][1608]                          |![rs]
+[1609][1609l]|[奇偶树][1609]                                    |![py]&nbsp;&nbsp;![rb]
 [1614][1614l]|[括号的最大嵌套深度][1614]                        |![rb]&nbsp;&nbsp;![rs]
 [1619][1619l]|[删除某些元素后的数组均值][1619]                  |![rb]&nbsp;&nbsp;![rs]
 [1624][1624l]|[两个相同字符之间的最长子字符串][1624]            |![rb]&nbsp;&nbsp;![rs]
@@ -1275,6 +1276,7 @@
 [1598]:./Easy/1598-Crawler%20Log%20Folder/README_CN.md#1598-文件夹操作日志搜集器
 [1603]:./Easy/1603-Design%20Parking%20System/README_CN.md#1603-设计停车系统
 [1608]:./Easy/1608-Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/README_CN.md#1608-特殊数组的特征值
+[1609]:./Medium/1609-Even%20Odd%20Tree/README_CN.md#1609-奇偶树
 [1614]:./Easy/1614-Maximum%20Nesting%20Depth%20of%20the%20Parentheses/README_CN.md#1614-括号的最大嵌套深度
 [1619]:./Easy/1619-Mean%20of%20Array%20After%20Removing%20Some%20Elements/README_CN.md#1619-删除某些元素后的数组均值
 [1624]:./Easy/1624-Largest%20Substring%20Between%20Two%20Equal%20Characters/README_CN.md#1624-两个相同字符之间的最长子字符串
@@ -1929,6 +1931,7 @@
 [1598l]:https://leetcode-cn.com/problems/crawler-log-folder/
 [1603l]:https://leetcode-cn.com/problems/design-parking-system/
 [1608l]:https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
+[1609l]:https://leetcode-cn.com/problems/even-odd-tree/
 [1614l]:https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/
 [1619l]:https://leetcode-cn.com/problems/mean-of-array-after-removing-some-elements/
 [1624l]:https://leetcode-cn.com/problems/largest-substring-between-two-equal-characters/
