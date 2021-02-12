@@ -408,6 +408,7 @@
 [933][933l]  |[最近的请求次数][933]                             |![rs]
 [937][937l]  |[重新排列日志文件][937]                           |![py]
 [938][938l]  |[二叉搜索树的范围和][938]                         |![py]
+[939][939l]  |[最小面积矩形][939]                               |![py]&nbsp;&nbsp;![rs]
 [941][941l]  |[有效的山脉数组][941]                             |![rs]
 [942][942l]  |[增减字符串匹配][942]                             |![py]
 [944][944l]  |[删列造序][944]                                   |![py]
@@ -1057,6 +1058,7 @@
 [933]:./Easy/0933-Number%20of%20Recent%20Calls/README_CN.md#933-最近的请求次数
 [937]:./Easy/0937-Reorder%20Data%20in%20Log%20Files/README_CN.md#937-重新排列日志文件
 [938]:./Easy/0938-Range%20Sum%20of%20BST/README_CN.md#938-二叉搜索树的范围和
+[939]:./Medium/0939-Minimum%20Area%20Rectangle/README_CN.md#939-最小面积矩形
 [941]:./Easy/0941-Valid%20Mountain%20Array/README_CN.md#941-有效的山脉数组
 [942]:./Easy/0942-DI%20String%20Match/README_CN.md#942-增减字符串匹配
 [944]:./Easy/0944-Delete%20Columns%20to%20Make%20Sorted/README_CN.md#944-删列造序
@@ -1712,6 +1714,7 @@
 [933l]:https://leetcode-cn.com/problems/number-of-recent-calls/
 [937l]:https://leetcode-cn.com/problems/reorder-data-in-log-files/
 [938l]:https://leetcode-cn.com/problems/range-sum-of-bst/
+[939l]:https://leetcode-cn.com/problems/minimum-area-rectangle/
 [941l]:https://leetcode-cn.com/problems/valid-mountain-array/
 [942l]:https://leetcode-cn.com/problems/di-string-match/
 [944l]:https://leetcode-cn.com/problems/delete-columns-to-make-sorted/
