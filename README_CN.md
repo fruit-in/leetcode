@@ -645,6 +645,7 @@
 [1669][1669l]|[合并两个链表][1669]                              |![rb]
 [1672][1672l]|[最富有客户的资产总量][1672]                      |![rb]&nbsp;&nbsp;![rs]
 [1678][1678l]|[设计 Goal 解析器][1678]                          |![rs]
+[1684][1684l]|[统计一致字符串的数目][1684]                      |![rs]
 
 
 [py]:./ico/python.ico
@@ -1296,6 +1297,7 @@
 [1669]:./Medium/1669-Merge%20In%20Between%20Linked%20Lists/README_CN.md#1669-合并两个链表
 [1672]:./Easy/1672-Richest%20Customer%20Wealth/README_CN.md#1672-最富有客户的资产总量
 [1678]:./Easy/1678-Goal%20Parser%20Interpretation/README_CN.md#1678-设计-goal-解析器
+[1684]:./Easy/1684-Count%20the%20Number%20of%20Consistent%20Strings/README_CN.md#1684-统计一致字符串的数目
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1953,3 +1955,4 @@
 [1669l]:https://leetcode-cn.com/problems/merge-in-between-linked-lists/
 [1672l]:https://leetcode-cn.com/problems/richest-customer-wealth/
 [1678l]:https://leetcode-cn.com/problems/goal-parser-interpretation/
+[1684l]:https://leetcode-cn.com/problems/count-the-number-of-consistent-strings/
