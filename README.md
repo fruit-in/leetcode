@@ -646,6 +646,7 @@
 [1672][1672l]|[Richest Customer Wealth][1672]                                           |![rb]&nbsp;&nbsp;![rs]
 [1678][1678l]|[Goal Parser Interpretation][1678]                                        |![rs]
 [1684][1684l]|[Count the Number of Consistent Strings][1684]                            |![rs]
+[1688][1688l]|[Count of Matches in Tournament][1688]                                    |![rb]&nbsp;&nbsp;![rs]
 
 
 [py]:./ico/python.ico
@@ -1298,6 +1299,7 @@
 [1672]:./Easy/1672-Richest%20Customer%20Wealth/README.md#1672-richest-customer-wealth
 [1678]:./Easy/1678-Goal%20Parser%20Interpretation/README.md#1678-goal-parser-interpretation
 [1684]:./Easy/1684-Count%20the%20Number%20of%20Consistent%20Strings/README.md#1684-count-the-number-of-consistent-strings
+[1688]:./Easy/1688-Count%20of%20Matches%20in%20Tournament/README.md#1688-count-of-matches-in-tournament
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1956,3 +1958,4 @@
 [1672l]:https://leetcode.com/problems/richest-customer-wealth/
 [1678l]:https://leetcode.com/problems/goal-parser-interpretation/
 [1684l]:https://leetcode.com/problems/count-the-number-of-consistent-strings/
+[1688l]:https://leetcode.com/problems/count-of-matches-in-tournament/

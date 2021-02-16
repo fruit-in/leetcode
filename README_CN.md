@@ -646,6 +646,7 @@
 [1672][1672l]|[最富有客户的资产总量][1672]                      |![rb]&nbsp;&nbsp;![rs]
 [1678][1678l]|[设计 Goal 解析器][1678]                          |![rs]
 [1684][1684l]|[统计一致字符串的数目][1684]                      |![rs]
+[1688][1688l]|[比赛中的配对次数][1688]                          |![rb]&nbsp;&nbsp;![rs]
 
 
 [py]:./ico/python.ico
@@ -1298,6 +1299,7 @@
 [1672]:./Easy/1672-Richest%20Customer%20Wealth/README_CN.md#1672-最富有客户的资产总量
 [1678]:./Easy/1678-Goal%20Parser%20Interpretation/README_CN.md#1678-设计-goal-解析器
 [1684]:./Easy/1684-Count%20the%20Number%20of%20Consistent%20Strings/README_CN.md#1684-统计一致字符串的数目
+[1688]:./Easy/1688-Count%20of%20Matches%20in%20Tournament/README_CN.md#1688-比赛中的配对次数
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1956,3 +1958,4 @@
 [1672l]:https://leetcode-cn.com/problems/richest-customer-wealth/
 [1678l]:https://leetcode-cn.com/problems/goal-parser-interpretation/
 [1684l]:https://leetcode-cn.com/problems/count-the-number-of-consistent-strings/
+[1688l]:https://leetcode-cn.com/problems/count-of-matches-in-tournament/
