@@ -217,6 +217,7 @@
 [447][447l]  |[回旋镖的数量][447]                               |![rs]
 [448][448l]  |[找到所有数组中消失的数字][448]                   |![rs]
 [449][449l]  |[序列化和反序列化二叉搜索树][449]                 |![py]
+[450][450l]  |[删除二叉搜索树中的节点][450]                     |![py]&nbsp;&nbsp;![rb]
 [451][451l]  |[根据字符出现频率排序][451]                       |![rs]
 [453][453l]  |[最小移动次数使数组元素相等][453]                 |![rs]
 [454][454l]  |[四数相加 II][454]                                |![rs]
@@ -871,6 +872,7 @@
 [447]:./Easy/0447-Number%20of%20Boomerangs/README_CN.md#447-回旋镖的数量
 [448]:./Easy/0448-Find%20All%20Numbers%20Disappeared%20in%20an%20Array/README_CN.md#448-找到所有数组中消失的数字
 [449]:./Medium/0449-Serialize%20and%20Deserialize%20BST/README_CN.md#449-序列化和反序列化二叉搜索树
+[450]:./Medium/0450-Delete%20Node%20in%20a%20BST/README_CN.md#450-删除二叉搜索树中的节点
 [451]:./Medium/0451-Sort%20Characters%20By%20Frequency/README_CN.md#451-根据字符出现频率排序
 [453]:./Easy/0453-Minimum%20Moves%20to%20Equal%20Array%20Elements/README_CN.md#453-最小移动次数使数组元素相等
 [454]:./Medium/0454-4Sum%20II/README_CN.md#454-四数相加-ii
@@ -1528,6 +1530,7 @@
 [447l]:https://leetcode-cn.com/problems/number-of-boomerangs/
 [448l]:https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/
 [449l]:https://leetcode-cn.com/problems/serialize-and-deserialize-bst/
+[450l]:https://leetcode-cn.com/problems/delete-node-in-a-bst/
 [451l]:https://leetcode-cn.com/problems/sort-characters-by-frequency/
 [453l]:https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/
 [454l]:https://leetcode-cn.com/problems/4sum-ii/
