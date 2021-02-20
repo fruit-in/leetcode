@@ -165,6 +165,7 @@
 [292][292l]  |[Nim 游戏][292]                                   |![rb]&nbsp;&nbsp;![rs]
 [299][299l]  |[猜数字游戏][299]                                 |![py]
 [303][303l]  |[区域和检索 - 数组不可变][303]                    |![py]
+[304][304l]  |[二维区域和检索 - 矩阵不可变][304]                |![rs]
 [306][306l]  |[累加数][306]                                     |![rb]&nbsp;&nbsp;![rs]
 [313][313l]  |[超级丑数][313]                                   |![rs]
 [318][318l]  |[最大单词长度乘积][318]                           |![py]
@@ -823,6 +824,7 @@
 [292]:./Easy/0292-Nim%20Game/README_CN.md#292-nim-游戏
 [299]:./Easy/0299-Bulls%20and%20Cows/README_CN.md#299-猜数字游戏
 [303]:./Easy/0303-Range%20Sum%20Query%20-%20Immutable/README_CN.md#303-区域和检索---数组不可变
+[304]:./Medium/0304-Range%20Sum%20Query%202D%20-%20Immutable/README_CN.md#304-二维区域和检索---矩阵不可变
 [306]:./Medium/0306-Additive%20Number/README_CN.md#306-累加数
 [313]:./Medium/0313-Super%20Ugly%20Number/README_CN.md#313-超级丑数
 [318]:./Medium/0318-Maximum%20Product%20of%20Word%20Lengths/README_CN.md#318-最大单词长度乘积
@@ -1481,6 +1483,7 @@
 [297l]:https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
 [299l]:https://leetcode-cn.com/problems/bulls-and-cows/
 [303l]:https://leetcode-cn.com/problems/range-sum-query-immutable/
+[304l]:https://leetcode-cn.com/problems/range-sum-query-2d-immutable/
 [306l]:https://leetcode-cn.com/problems/additive-number/
 [313l]:https://leetcode-cn.com/problems/super-ugly-number/
 [318l]:https://leetcode-cn.com/problems/maximum-product-of-word-lengths/
