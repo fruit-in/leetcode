@@ -111,6 +111,7 @@
 [172][172l]  |[阶乘后的零][172]                                 |![rs]
 [173][173l]  |[二叉搜索树迭代器][173]                           |![py]
 [179][179l]  |[最大数][179]                                     |![rs]
+[187][187l]  |[重复的DNA序列][187]                              |![rb]&nbsp;&nbsp;![rs]
 [189][189l]  |[旋转数组][189]                                   |![rs]
 [190][190l]  |[颠倒二进制位][190]                               |![py]
 [191][191l]  |[位1的个数][191]                                  |![rs]
@@ -768,6 +769,7 @@
 [172]:./Easy/0172-Factorial%20Trailing%20Zeroes/README_CN.md#172-阶乘后的零
 [173]:./Medium/0173-Binary%20Search%20Tree%20Iterator/README_CN.md#173-二叉搜索树迭代器
 [179]:./Medium/0179-Largest%20Number/README_CN.md#179-最大数
+[187]:./Medium/0187-Repeated%20DNA%20Sequences/README_CN.md#187-重复的dna序列
 [189]:./Easy/0189-Rotate%20Array/README_CN.md#189-旋转数组
 [190]:./Easy/0190-Reverse%20Bits/README_CN.md#190-颠倒二进制位
 [191]:./Easy/0191-Number%20of%201%20Bits/README_CN.md#191-位1的个数
@@ -1422,6 +1424,7 @@
 [172l]:https://leetcode-cn.com/problems/factorial-trailing-zeroes/
 [173l]:https://leetcode-cn.com/problems/binary-search-tree-iterator/
 [179l]:https://leetcode-cn.com/problems/largest-number/
+[187l]:https://leetcode-cn.com/problems/repeated-dna-sequences/
 [189l]:https://leetcode-cn.com/problems/rotate-array/
 [190l]:https://leetcode-cn.com/problems/reverse-bits/
 [191l]:https://leetcode-cn.com/problems/number-of-1-bits/
