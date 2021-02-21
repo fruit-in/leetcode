@@ -483,6 +483,7 @@
 [1137][1137l]|[第 N 个泰波那契数][1137]                         |![rs]
 [1146][1146l]|[快照数组][1146]                                  |![rb]&nbsp;&nbsp;![rs]
 [1154][1154l]|[一年中的第几天][1154]                            |![rs]
+[1155][1155l]|[掷骰子的N种方法][1155]                           |![py]&nbsp;&nbsp;![rs]
 [1160][1160l]|[拼写单词][1160]                                  |![py]
 [1161][1161l]|[最大层内元素和][1161]                            |![py]
 [1170][1170l]|[比较字符串最小字母出现频次][1170]                |![py]
@@ -1142,6 +1143,7 @@
 [1137]:./Easy/1137-N-th%20Tribonacci%20Number/README_CN.md#1137-第-n-个泰波那契数
 [1146]:./Medium/1146-Snapshot%20Array/README_CN.md#1146-快照数组
 [1154]:./Easy/1154-Day%20of%20the%20Year/README_CN.md#1154-一年中的第几天
+[1155]:./Medium/1155-Number%20of%20Dice%20Rolls%20With%20Target%20Sum/README_CN.md#1155-掷骰子的n种方法
 [1160]:./Easy/1160-Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/README_CN.md#1160-拼写单词
 [1161]:./Medium/1161-Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/README_CN.md#1161-最大层内元素和
 [1170]:./Easy/1170-Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/README_CN.md#1170-比较字符串最小字母出现频次
@@ -1807,6 +1809,7 @@
 [1137l]:https://leetcode-cn.com/problems/n-th-tribonacci-number/
 [1146l]:https://leetcode-cn.com/problems/snapshot-array/
 [1154l]:https://leetcode-cn.com/problems/day-of-the-year/
+[1155l]:https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum/
 [1160l]:https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/
 [1161l]:https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree/
 [1170l]:https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/
