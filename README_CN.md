@@ -647,6 +647,7 @@
 [1652][1652l]|[拆炸弹][1652]                                    |![rb]&nbsp;&nbsp;![rs]
 [1656][1656l]|[设计有序流][1656]                                |![py]
 [1662][1662l]|[检查两个字符串数组是否相等][1662]                |![rb]&nbsp;&nbsp;![rs]
+[1663][1663l]|[具有给定数值的最小字符串][1663]                  |![rb]&nbsp;&nbsp;![rs]
 [1664][1664l]|[生成平衡数组的方案数][1664]                      |![rb]&nbsp;&nbsp;![rs]
 [1668][1668l]|[最大重复子字符串][1668]                          |![py]&nbsp;&nbsp;![rb]
 [1669][1669l]|[合并两个链表][1669]                              |![rb]
@@ -1308,6 +1309,7 @@
 [1652]:./Easy/1652-Defuse%20the%20Bomb/README_CN.md#1652-拆炸弹
 [1656]:./Easy/1656-Design%20an%20Ordered%20Stream/README_CN.md#1656-设计有序流
 [1662]:./Easy/1662-Check%20If%20Two%20String%20Arrays%20are%20Equivalent/README_CN.md#1662-检查两个字符串数组是否相等
+[1663]:./Medium/1663-Smallest%20String%20With%20A%20Given%20Numeric%20Value/README_CN.md#1663-具有给定数值的最小字符串
 [1664]:./Medium/1664-Ways%20to%20Make%20a%20Fair%20Array/README_CN.md#1664-生成平衡数组的方案数
 [1668]:./Easy/1668-Maximum%20Repeating%20Substring/README_CN.md#1668-最大重复子字符串
 [1669]:./Medium/1669-Merge%20In%20Between%20Linked%20Lists/README_CN.md#1669-合并两个链表
@@ -1975,6 +1977,7 @@
 [1652l]:https://leetcode-cn.com/problems/defuse-the-bomb/
 [1656l]:https://leetcode-cn.com/problems/design-an-ordered-stream/
 [1662l]:https://leetcode-cn.com/problems/check-if-two-string-arrays-are-equivalent/
+[1663l]:https://leetcode-cn.com/problems/smallest-string-with-a-given-numeric-value/
 [1664l]:https://leetcode-cn.com/problems/ways-to-make-a-fair-array/
 [1668l]:https://leetcode-cn.com/problems/maximum-repeating-substring/
 [1669l]:https://leetcode-cn.com/problems/merge-in-between-linked-lists/
