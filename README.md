@@ -656,6 +656,7 @@
 [1684][1684l]|[Count the Number of Consistent Strings][1684]                                |![rs]
 [1688][1688l]|[Count of Matches in Tournament][1688]                                        |![rb]&nbsp;&nbsp;![rs]
 [1694][1694l]|[Reformat Phone Number][1694]                                                 |![py]
+[1700][1700l]|[Number of Students Unable to Eat Lunch][1700]                                |![rb]&nbsp;&nbsp;![rs]
 
 
 [py]:./ico/python.ico
@@ -1318,6 +1319,7 @@
 [1684]:./Easy/1684-Count%20the%20Number%20of%20Consistent%20Strings/README.md#1684-count-the-number-of-consistent-strings
 [1688]:./Easy/1688-Count%20of%20Matches%20in%20Tournament/README.md#1688-count-of-matches-in-tournament
 [1694]:./Easy/1694-Reformat%20Phone%20Number/README.md#1694-reformat-phone-number
+[1700]:./Easy/1700-Number%20of%20Students%20Unable%20to%20Eat%20Lunch/README.md#1700-number-of-students-unable-to-eat-lunch
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -1986,3 +1988,4 @@
 [1684l]:https://leetcode.com/problems/count-the-number-of-consistent-strings/
 [1688l]:https://leetcode.com/problems/count-of-matches-in-tournament/
 [1694l]:https://leetcode.com/problems/reformat-phone-number/
+[1700l]:https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/

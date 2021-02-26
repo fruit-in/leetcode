@@ -656,6 +656,7 @@
 [1684][1684l]|[统计一致字符串的数目][1684]                      |![rs]
 [1688][1688l]|[比赛中的配对次数][1688]                          |![rb]&nbsp;&nbsp;![rs]
 [1694][1694l]|[重新格式化电话号码][1694]                        |![py]
+[1700][1700l]|[无法吃午餐的学生数量][1700]                      |![rb]&nbsp;&nbsp;![rs]
 
 
 [py]:./ico/python.ico
@@ -1318,6 +1319,7 @@
 [1684]:./Easy/1684-Count%20the%20Number%20of%20Consistent%20Strings/README_CN.md#1684-统计一致字符串的数目
 [1688]:./Easy/1688-Count%20of%20Matches%20in%20Tournament/README_CN.md#1688-比赛中的配对次数
 [1694]:./Easy/1694-Reformat%20Phone%20Number/README_CN.md#1694-重新格式化电话号码
+[1700]:./Easy/1700-Number%20of%20Students%20Unable%20to%20Eat%20Lunch/README_CN.md#1700-无法吃午餐的学生数量
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1986,3 +1988,4 @@
 [1684l]:https://leetcode-cn.com/problems/count-the-number-of-consistent-strings/
 [1688l]:https://leetcode-cn.com/problems/count-of-matches-in-tournament/
 [1694l]:https://leetcode-cn.com/problems/reformat-phone-number/
+[1700l]:https://leetcode-cn.com/problems/number-of-students-unable-to-eat-lunch/
