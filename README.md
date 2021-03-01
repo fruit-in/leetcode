@@ -264,6 +264,7 @@
 [541][541l]  |[Reverse String II][541]                                                      |![py]
 [542][542l]  |[01 Matrix][542]                                                              |![rs]
 [543][543l]  |[Diameter of Binary Tree][543]                                                |![py]
+[547][547l]  |[Number of Provinces][547]                                                    |![rb]&nbsp;&nbsp;![rs]
 [551][551l]  |[Student Attendance Record I][551]                                            |![py]
 [554][554l]  |[Brick Wall][554]                                                             |![rs]
 [557][557l]  |[Reverse Words in a String III][557]                                          |![py]&nbsp;&nbsp;![rb]
@@ -927,6 +928,7 @@
 [541]:./Easy/0541-Reverse%20String%20II/README.md#541-reverse-string-ii
 [542]:./Medium/0542-01%20Matrix/README.md#542-01-matrix
 [543]:./Easy/0543-Diameter%20of%20Binary%20Tree/README.md#543-diameter-of-binary-tree
+[547]:./Medium/0547-Number%20of%20Provinces/README.md#547-number-of-provinces
 [551]:./Easy/0551-Student%20Attendance%20Record%20I/README.md#551-student-attendance-record-i
 [554]:./Medium/0554-Brick%20Wall/README.md#554-brick-wall
 [557]:./Easy/0557-Reverse%20Words%20in%20a%20String%20III/README.md#557-reverse-words-in-a-string-iii
@@ -1593,6 +1595,7 @@
 [541l]:https://leetcode.com/problems/reverse-string-ii/
 [542l]:https://leetcode.com/problems/01-matrix/
 [543l]:https://leetcode.com/problems/diameter-of-binary-tree/
+[547l]:https://leetcode.com/problems/number-of-provinces/
 [551l]:https://leetcode.com/problems/student-attendance-record-i/
 [554l]:https://leetcode.com/problems/brick-wall/
 [557l]:https://leetcode.com/problems/reverse-words-in-a-string-iii/

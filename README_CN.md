@@ -264,6 +264,7 @@
 [541][541l]  |[反转字符串 II][541]                              |![py]
 [542][542l]  |[01 矩阵][542]                                    |![rs]
 [543][543l]  |[二叉树的直径][543]                               |![py]
+[547][547l]  |[省份数量][547]                                   |![rb]&nbsp;&nbsp;![rs]
 [551][551l]  |[学生出勤记录 I][551]                             |![py]
 [554][554l]  |[砖墙][554]                                       |![rs]
 [557][557l]  |[反转字符串中的单词 III][557]                     |![py]&nbsp;&nbsp;![rb]
@@ -927,6 +928,7 @@
 [541]:./Easy/0541-Reverse%20String%20II/README_CN.md#541-反转字符串-ii
 [542]:./Medium/0542-01%20Matrix/README_CN.md#542-01-矩阵
 [543]:./Easy/0543-Diameter%20of%20Binary%20Tree/README_CN.md#543-二叉树的直径
+[547]:./Medium/0547-Number%20of%20Provinces/README_CN.md#547-省份数量
 [551]:./Easy/0551-Student%20Attendance%20Record%20I/README_CN.md#551-学生出勤记录-i
 [554]:./Medium/0554-Brick%20Wall/README_CN.md#554-砖墙
 [557]:./Easy/0557-Reverse%20Words%20in%20a%20String%20III/README_CN.md#557-反转字符串中的单词-iii
@@ -1593,6 +1595,7 @@
 [541l]:https://leetcode-cn.com/problems/reverse-string-ii/
 [542l]:https://leetcode-cn.com/problems/01-matrix/
 [543l]:https://leetcode-cn.com/problems/diameter-of-binary-tree/
+[547l]:https://leetcode-cn.com/problems/number-of-provinces/
 [551l]:https://leetcode-cn.com/problems/student-attendance-record-i/
 [554l]:https://leetcode-cn.com/problems/brick-wall/
 [557l]:https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/
