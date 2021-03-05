@@ -658,6 +658,7 @@
 [1688][1688l]|[比赛中的配对次数][1688]                          |![rb]&nbsp;&nbsp;![rs]
 [1694][1694l]|[重新格式化电话号码][1694]                        |![py]
 [1700][1700l]|[无法吃午餐的学生数量][1700]                      |![rb]&nbsp;&nbsp;![rs]
+[1704][1704l]|[判断字符串的两半是否相似][1704]                  |![rb]&nbsp;&nbsp;![rs]
 
 
 [py]:./ico/python.ico
@@ -1322,6 +1323,7 @@
 [1688]:./Easy/1688-Count%20of%20Matches%20in%20Tournament/README_CN.md#1688-比赛中的配对次数
 [1694]:./Easy/1694-Reformat%20Phone%20Number/README_CN.md#1694-重新格式化电话号码
 [1700]:./Easy/1700-Number%20of%20Students%20Unable%20to%20Eat%20Lunch/README_CN.md#1700-无法吃午餐的学生数量
+[1704]:./Easy/1704-Determine%20if%20String%20Halves%20Are%20Alike/README_CN.md#1704-判断字符串的两半是否相似
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -1992,3 +1994,4 @@
 [1688l]:https://leetcode-cn.com/problems/count-of-matches-in-tournament/
 [1694l]:https://leetcode-cn.com/problems/reformat-phone-number/
 [1700l]:https://leetcode-cn.com/problems/number-of-students-unable-to-eat-lunch/
+[1704l]:https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/
