@@ -656,6 +656,7 @@
 [1678][1678l]|[设计 Goal 解析器][1678]                          |![rs]
 [1684][1684l]|[统计一致字符串的数目][1684]                      |![rs]
 [1688][1688l]|[比赛中的配对次数][1688]                          |![rb]&nbsp;&nbsp;![rs]
+[1689][1689l]|[十-二进制数的最少数目][1689]                     |![rb]&nbsp;&nbsp;![rs]
 [1694][1694l]|[重新格式化电话号码][1694]                        |![py]
 [1700][1700l]|[无法吃午餐的学生数量][1700]                      |![rb]&nbsp;&nbsp;![rs]
 [1704][1704l]|[判断字符串的两半是否相似][1704]                  |![rb]&nbsp;&nbsp;![rs]
@@ -1321,6 +1322,7 @@
 [1678]:./Easy/1678-Goal%20Parser%20Interpretation/README_CN.md#1678-设计-goal-解析器
 [1684]:./Easy/1684-Count%20the%20Number%20of%20Consistent%20Strings/README_CN.md#1684-统计一致字符串的数目
 [1688]:./Easy/1688-Count%20of%20Matches%20in%20Tournament/README_CN.md#1688-比赛中的配对次数
+[1689]:./Medium/1689-Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/README_CN.md#1689-十-二进制数的最少数目
 [1694]:./Easy/1694-Reformat%20Phone%20Number/README_CN.md#1694-重新格式化电话号码
 [1700]:./Easy/1700-Number%20of%20Students%20Unable%20to%20Eat%20Lunch/README_CN.md#1700-无法吃午餐的学生数量
 [1704]:./Easy/1704-Determine%20if%20String%20Halves%20Are%20Alike/README_CN.md#1704-判断字符串的两半是否相似
@@ -1992,6 +1994,7 @@
 [1678l]:https://leetcode-cn.com/problems/goal-parser-interpretation/
 [1684l]:https://leetcode-cn.com/problems/count-the-number-of-consistent-strings/
 [1688l]:https://leetcode-cn.com/problems/count-of-matches-in-tournament/
+[1689l]:https://leetcode-cn.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 [1694l]:https://leetcode-cn.com/problems/reformat-phone-number/
 [1700l]:https://leetcode-cn.com/problems/number-of-students-unable-to-eat-lunch/
 [1704l]:https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/
