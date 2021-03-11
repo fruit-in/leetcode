@@ -640,6 +640,7 @@
 [1619][1619l]|[Mean of Array After Removing Some Elements][1619]                            |![rb]&nbsp;&nbsp;![rs]
 [1624][1624l]|[Largest Substring Between Two Equal Characters][1624]                        |![rb]&nbsp;&nbsp;![rs]
 [1629][1629l]|[Slowest Key][1629]                                                           |![rb]&nbsp;&nbsp;![rs]
+[1630][1630l]|[Arithmetic Subarrays][1630]                                                  |![rb]&nbsp;&nbsp;![rs]
 [1636][1636l]|[Sort Array by Increasing Frequency][1636]                                    |![rs]
 [1637][1637l]|[Widest Vertical Area Between Two Points Containing No Points][1637]          |![rb]&nbsp;&nbsp;![rs]
 [1640][1640l]|[Check Array Formation Through Concatenation][1640]                           |![rb]&nbsp;&nbsp;![rs]
@@ -1308,6 +1309,7 @@
 [1619]:./Easy/1619-Mean%20of%20Array%20After%20Removing%20Some%20Elements/README.md#1619-mean-of-array-after-removing-some-elements
 [1624]:./Easy/1624-Largest%20Substring%20Between%20Two%20Equal%20Characters/README.md#1624-largest-substring-between-two-equal-characters
 [1629]:./Easy/1629-Slowest%20Key/README.md#1629-slowest-key
+[1630]:./Medium/1630-Arithmetic%20Subarrays/README.md#1630-arithmetic-subarrays
 [1636]:./Easy/1636-Sort%20Array%20by%20Increasing%20Frequency/README.md#1636-sort-array-by-increasing-frequency
 [1637]:./Medium/1637-Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points/README.md#1637-widest-vertical-area-between-two-points-containing-no-points
 [1640]:./Easy/1640-Check%20Array%20Formation%20Through%20Concatenation/README.md#1640-check-array-formation-through-concatenation
@@ -1982,6 +1984,7 @@
 [1619l]:https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 [1624l]:https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 [1629l]:https://leetcode.com/problems/slowest-key/
+[1630l]:https://leetcode.com/problems/arithmetic-subarrays/
 [1636l]:https://leetcode.com/problems/sort-array-by-increasing-frequency/
 [1637l]:https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
 [1640l]:https://leetcode.com/problems/check-array-formation-through-concatenation/
