@@ -451,6 +451,7 @@
 [1014][1014l]|[Best Sightseeing Pair][1014]                                                 |![rs]
 [1017][1017l]|[Convert to Base -2][1017]                                                    |![rs]
 [1018][1018l]|[Binary Prefix Divisible By 5][1018]                                          |![py]
+[1020][1020l]|[Number of Enclaves][1020]                                                    |![rs]
 [1021][1021l]|[Remove Outermost Parentheses][1021]                                          |![rs]
 [1022][1022l]|[Sum of Root To Leaf Binary Numbers][1022]                                    |![py]
 [1025][1025l]|[Divisor Game][1025]                                                          |![rs]
@@ -1121,6 +1122,7 @@
 [1014]:./Medium/1014-Best%20Sightseeing%20Pair/README.md#1014-best-sightseeing-pair
 [1017]:./Medium/1017-Convert%20to%20Base%20-2/README.md#1017-convert-to-base--2
 [1018]:./Easy/1018-Binary%20Prefix%20Divisible%20By%205/README.md#1018-binary-prefix-divisible-by-5
+[1020]:./Medium/1020-Number%20of%20Enclaves/README.md#1020-number-of-enclaves
 [1021]:./Easy/1021-Remove%20Outermost%20Parentheses/README.md#1021-remove-outermost-parentheses
 [1022]:./Easy/1022-Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/README.md#1022-sum-of-root-to-leaf-binary-numbers
 [1025]:./Easy/1025-Divisor%20Game/README.md#1025-divisor-game
@@ -1797,6 +1799,7 @@
 [1014l]:https://leetcode.com/problems/best-sightseeing-pair/
 [1017l]:https://leetcode.com/problems/convert-to-base-2/
 [1018l]:https://leetcode.com/problems/binary-prefix-divisible-by-5/
+[1020l]:https://leetcode.com/problems/number-of-enclaves/
 [1021l]:https://leetcode.com/problems/remove-outermost-parentheses/
 [1022l]:https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 [1025l]:https://leetcode.com/problems/divisor-game/
