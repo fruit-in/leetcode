@@ -503,6 +503,7 @@
 [1222][1222l]|[Queens That Can Attack the King][1222]                                       |![rs]
 [1223][1223l]|[Dice Roll Simulation][1223]                                                  |![rs]
 [1232][1232l]|[Check If It Is a Straight Line][1232]                                        |![rs]
+[1233][1233l]|[Remove Sub-Folders from the Filesystem][1233]                                |![rs]
 [1237][1237l]|[Find Positive Integer Solution for a Given Equation][1237]                   |![py]
 [1238][1238l]|[Circular Permutation in Binary Representation][1238]                         |![rs]
 [1247][1247l]|[Minimum Swaps to Make Strings Equal][1247]                                   |![py]
@@ -1174,6 +1175,7 @@
 [1222]:./Medium/1222-Queens%20That%20Can%20Attack%20the%20King/README.md#1222-queens-that-can-attack-the-king
 [1223]:./Medium/1223-Dice%20Roll%20Simulation/README.md#1223-dice-roll-simulation
 [1232]:./Easy/1232-Check%20If%20It%20Is%20a%20Straight%20Line/README.md#1232-check-if-it-is-a-straight-line
+[1233]:./Medium/1233-Remove%20Sub-Folders%20from%20the%20Filesystem/README.md#1233-remove-sub-folders-from-the-filesystem
 [1237]:./Easy/1237-Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/README.md#1237-find-positive-integer-solution-for-a-given-equation
 [1238]:./Medium/1238-Circular%20Permutation%20in%20Binary%20Representation/README.md#1238-circular-permutation-in-binary-representation
 [1247]:./Medium/1247-Minimum%20Swaps%20to%20Make%20Strings%20Equal/README.md#1247-minimum-swaps-to-make-strings-equal
@@ -1851,6 +1853,7 @@
 [1222l]:https://leetcode.com/problems/queens-that-can-attack-the-king/
 [1223l]:https://leetcode.com/problems/dice-roll-simulation/
 [1232l]:https://leetcode.com/problems/check-if-it-is-a-straight-line/
+[1233l]:https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
 [1237l]:https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 [1238l]:https://leetcode.com/problems/circular-permutation-in-binary-representation/
 [1247l]:https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
