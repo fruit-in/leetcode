@@ -439,6 +439,7 @@
 [993][993l]  |[Cousins in Binary Tree][993]                                                 |![py]
 [994][994l]  |[Rotting Oranges][994]                                                        |![rs]
 [997][997l]  |[Find the Town Judge][997]                                                    |![rs]
+[998][998l]  |[Maximum Binary Tree II][998]                                                 |![py]&nbsp;&nbsp;![rb]
 [999][999l]  |[Available Captures for Rook][999]                                            |![rs]
 [1002][1002l]|[Find Common Characters][1002]                                                |![py]
 [1003][1003l]|[Check If Word Is Valid After Substitutions][1003]                            |![py]
@@ -1111,6 +1112,7 @@
 [993]:./Easy/0993-Cousins%20in%20Binary%20Tree/README.md#993-cousins-in-binary-tree
 [994]:./Easy/0994-Rotting%20Oranges/README.md#994-rotting-oranges
 [997]:./Easy/0997-Find%20the%20Town%20Judge/README.md#997-find-the-town-judge
+[998]:./Medium/0998-Maximum%20Binary%20Tree%20II/README.md#998-maximum-binary-tree-ii
 [999]:./Easy/0999-Available%20Captures%20for%20Rook/README.md#999-available-captures-for-rook
 [1002]:./Easy/1002-Find%20Common%20Characters/README.md#1002-find-common-characters
 [1003]:./Medium/1003-Check%20If%20Word%20Is%20Valid%20After%20Substitutions/README.md#1003-check-if-word-is-valid-after-substitutions
@@ -1789,6 +1791,7 @@
 [993l]:https://leetcode.com/problems/cousins-in-binary-tree/
 [994l]:https://leetcode.com/problems/rotting-oranges/
 [997l]:https://leetcode.com/problems/find-the-town-judge/
+[998l]:https://leetcode.com/problems/maximum-binary-tree-ii/
 [999l]:https://leetcode.com/problems/available-captures-for-rook/
 [1002l]:https://leetcode.com/problems/find-common-characters/
 [1003l]:https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/

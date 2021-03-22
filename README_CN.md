@@ -439,6 +439,7 @@
 [993][993l]  |[二叉树的堂兄弟节点][993]                         |![py]
 [994][994l]  |[腐烂的橘子][994]                                 |![rs]
 [997][997l]  |[找到小镇的法官][997]                             |![rs]
+[998][998l]  |[最大二叉树 II][998]                              |![py]&nbsp;&nbsp;![rb]
 [999][999l]  |[车的可用捕获量][999]                             |![rs]
 [1002][1002l]|[查找常用字符][1002]                              |![py]
 [1003][1003l]|[检查替换后的词是否有效][1003]                    |![py]
@@ -1111,6 +1112,7 @@
 [993]:./Easy/0993-Cousins%20in%20Binary%20Tree/README_CN.md#993-二叉树的堂兄弟节点
 [994]:./Easy/0994-Rotting%20Oranges/README_CN.md#994-腐烂的橘子
 [997]:./Easy/0997-Find%20the%20Town%20Judge/README_CN.md#997-找到小镇的法官
+[998]:./Medium/0998-Maximum%20Binary%20Tree%20II/README_CN.md#998-最大二叉树-ii
 [999]:./Easy/0999-Available%20Captures%20for%20Rook/README_CN.md#999-车的可用捕获量
 [1002]:./Easy/1002-Find%20Common%20Characters/README_CN.md#1002-查找常用字符
 [1003]:./Medium/1003-Check%20If%20Word%20Is%20Valid%20After%20Substitutions/README_CN.md#1003-检查替换后的词是否有效
@@ -1789,6 +1791,7 @@
 [993l]:https://leetcode-cn.com/problems/cousins-in-binary-tree/
 [994l]:https://leetcode-cn.com/problems/rotting-oranges/
 [997l]:https://leetcode-cn.com/problems/find-the-town-judge/
+[998l]:https://leetcode-cn.com/problems/maximum-binary-tree-ii/
 [999l]:https://leetcode-cn.com/problems/available-captures-for-rook/
 [1002l]:https://leetcode-cn.com/problems/find-common-characters/
 [1003l]:https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/
