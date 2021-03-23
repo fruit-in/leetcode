@@ -272,6 +272,7 @@
 [559][559l]  |[N叉树的最大深度][559]                            |![py]
 [561][561l]  |[数组拆分 I][561]                                 |![rs]
 [563][563l]  |[二叉树的坡度][563]                               |![py]
+[565][565l]  |[数组嵌套][565]                                   |![rb]&nbsp;&nbsp;![rs]
 [566][566l]  |[重塑矩阵][566]                                   |![rs]
 [572][572l]  |[另一个树的子树][572]                             |![py]
 [575][575l]  |[分糖果][575]                                     |![rs]
@@ -945,6 +946,7 @@
 [559]:./Easy/0559-Maximum%20Depth%20of%20N-ary%20Tree/README_CN.md#559-n叉树的最大深度
 [561]:./Easy/0561-Array%20Partition%20I/README_CN.md#561-数组拆分-i
 [563]:./Easy/0563-Binary%20Tree%20Tilt/README_CN.md#563-二叉树的坡度
+[565]:./Medium/0565-Array%20Nesting/README_CN.md#565-数组嵌套
 [566]:./Easy/0566-Reshape%20the%20Matrix/README_CN.md#566-重塑矩阵
 [572]:./Easy/0572-Subtree%20of%20Another%20Tree/README_CN.md#572-另一个树的子树
 [575]:./Easy/0575-Distribute%20Candies/README_CN.md#575-分糖果
@@ -1621,6 +1623,7 @@
 [559l]:https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/
 [561l]:https://leetcode-cn.com/problems/array-partition-i/
 [563l]:https://leetcode-cn.com/problems/binary-tree-tilt/
+[565l]:https://leetcode-cn.com/problems/array-nesting/
 [566l]:https://leetcode-cn.com/problems/reshape-the-matrix/
 [572l]:https://leetcode-cn.com/problems/subtree-of-another-tree/
 [575l]:https://leetcode-cn.com/problems/distribute-candies/
