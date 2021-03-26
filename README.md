@@ -669,6 +669,7 @@
 [1694][1694l]|[Reformat Phone Number][1694]                                                 |![py]
 [1700][1700l]|[Number of Students Unable to Eat Lunch][1700]                                |![rb]&nbsp;&nbsp;![rs]
 [1704][1704l]|[Determine if String Halves Are Alike][1704]                                  |![rb]&nbsp;&nbsp;![rs]
+[1710][1710l]|[Maximum Units on a Truck][1710]                                              |![rs]
 
 
 [py]:./ico/python.ico
@@ -1344,6 +1345,7 @@
 [1694]:./Easy/1694-Reformat%20Phone%20Number/README.md#1694-reformat-phone-number
 [1700]:./Easy/1700-Number%20of%20Students%20Unable%20to%20Eat%20Lunch/README.md#1700-number-of-students-unable-to-eat-lunch
 [1704]:./Easy/1704-Determine%20if%20String%20Halves%20Are%20Alike/README.md#1704-determine-if-string-halves-are-alike
+[1710]:./Easy/1710-Maximum%20Units%20on%20a%20Truck/README.md#1710-maximum-units-on-a-truck
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -2025,3 +2027,4 @@
 [1694l]:https://leetcode.com/problems/reformat-phone-number/
 [1700l]:https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
 [1704l]:https://leetcode.com/problems/determine-if-string-halves-are-alike/
+[1710l]:https://leetcode.com/problems/maximum-units-on-a-truck/
