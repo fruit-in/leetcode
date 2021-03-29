@@ -454,6 +454,7 @@
 [1014][1014l]|[最佳观光组合][1014]                              |![rs]
 [1017][1017l]|[负二进制转换][1017]                              |![rs]
 [1018][1018l]|[可被 5 整除的二进制前缀][1018]                   |![py]
+[1019][1019l]|[链表中的下一个更大节点][1019]                    |![py]&nbsp;&nbsp;![rb]
 [1020][1020l]|[飞地的数量][1020]                                |![rs]
 [1021][1021l]|[删除最外层的括号][1021]                          |![rs]
 [1022][1022l]|[从根到叶的二进制数之和][1022]                    |![py]
@@ -1130,6 +1131,7 @@
 [1014]:./Medium/1014-Best%20Sightseeing%20Pair/README_CN.md#1014-最佳观光组合
 [1017]:./Medium/1017-Convert%20to%20Base%20-2/README_CN.md#1017-负二进制转换
 [1018]:./Easy/1018-Binary%20Prefix%20Divisible%20By%205/README_CN.md#1018-可被-5-整除的二进制前缀
+[1019]:./Medium/1019-Next%20Greater%20Node%20In%20Linked%20List/README_CN.md#1019-链表中的下一个更大节点
 [1020]:./Medium/1020-Number%20of%20Enclaves/README_CN.md#1020-飞地的数量
 [1021]:./Easy/1021-Remove%20Outermost%20Parentheses/README_CN.md#1021-删除最外层的括号
 [1022]:./Easy/1022-Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/README_CN.md#1022-从根到叶的二进制数之和
@@ -1812,6 +1814,7 @@
 [1014l]:https://leetcode-cn.com/problems/best-sightseeing-pair/
 [1017l]:https://leetcode-cn.com/problems/convert-to-base-2/
 [1018l]:https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/
+[1019l]:https://leetcode-cn.com/problems/next-greater-node-in-linked-list/
 [1020l]:https://leetcode-cn.com/problems/number-of-enclaves/
 [1021l]:https://leetcode-cn.com/problems/remove-outermost-parentheses/
 [1022l]:https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/
