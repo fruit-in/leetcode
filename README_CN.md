@@ -672,6 +672,7 @@
 [1704][1704l]|[判断字符串的两半是否相似][1704]                  |![rb]&nbsp;&nbsp;![rs]
 [1710][1710l]|[卡车上的最大单元数][1710]                        |![rs]
 [1716][1716l]|[计算力扣银行的钱][1716]                          |![rb]&nbsp;&nbsp;![rs]
+[1720][1720l]|[解码异或后的数组][1720]                          |![rb]&nbsp;&nbsp;![rs]
 
 
 [py]:./ico/python.ico
@@ -1350,6 +1351,7 @@
 [1704]:./Easy/1704-Determine%20if%20String%20Halves%20Are%20Alike/README_CN.md#1704-判断字符串的两半是否相似
 [1710]:./Easy/1710-Maximum%20Units%20on%20a%20Truck/README_CN.md#1710-卡车上的最大单元数
 [1716]:./Easy/1716-Calculate%20Money%20in%20Leetcode%20Bank/README_CN.md#1716-计算力扣银行的钱
+[1720]:./Easy/1720-Decode%20XORed%20Array/README_CN.md#1720-解码异或后的数组
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -2034,3 +2036,4 @@
 [1704l]:https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/
 [1710l]:https://leetcode-cn.com/problems/maximum-units-on-a-truck/
 [1716l]:https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/
+[1720l]:https://leetcode-cn.com/problems/decode-xored-array/

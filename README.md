@@ -672,6 +672,7 @@
 [1704][1704l]|[Determine if String Halves Are Alike][1704]                                  |![rb]&nbsp;&nbsp;![rs]
 [1710][1710l]|[Maximum Units on a Truck][1710]                                              |![rs]
 [1716][1716l]|[Calculate Money in Leetcode Bank][1716]                                      |![rb]&nbsp;&nbsp;![rs]
+[1720][1720l]|[Decode XORed Array][1720]                                                    |![rb]&nbsp;&nbsp;![rs]
 
 
 [py]:./ico/python.ico
@@ -1350,6 +1351,7 @@
 [1704]:./Easy/1704-Determine%20if%20String%20Halves%20Are%20Alike/README.md#1704-determine-if-string-halves-are-alike
 [1710]:./Easy/1710-Maximum%20Units%20on%20a%20Truck/README.md#1710-maximum-units-on-a-truck
 [1716]:./Easy/1716-Calculate%20Money%20in%20Leetcode%20Bank/README.md#1716-calculate-money-in-leetcode-bank
+[1720]:./Easy/1720-Decode%20XORed%20Array/README.md#1720-decode-xored-array
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -2034,3 +2036,4 @@
 [1704l]:https://leetcode.com/problems/determine-if-string-halves-are-alike/
 [1710l]:https://leetcode.com/problems/maximum-units-on-a-truck/
 [1716l]:https://leetcode.com/problems/calculate-money-in-leetcode-bank/
+[1720l]:https://leetcode.com/problems/decode-xored-array/
