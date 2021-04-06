@@ -297,6 +297,7 @@
 [637][637l]  |[二叉树的层平均值][637]                           |![py]
 [643][643l]  |[子数组最大平均数 I][643]                         |![rs]
 [645][645l]  |[错误的集合][645]                                 |![rs]
+[647][647l]  |[回文子串][647]                                   |![rb]
 [653][653l]  |[两数之和 IV - 输入 BST][653]                     |![py]
 [654][654l]  |[最大二叉树][654]                                 |![py]&nbsp;&nbsp;![rb]
 [655][655l]  |[输出二叉树][655]                                 |![py]
@@ -977,6 +978,7 @@
 [637]:./Easy/0637-Average%20of%20Levels%20in%20Binary%20Tree/README_CN.md#637-二叉树的层平均值
 [643]:./Easy/0643-Maximum%20Average%20Subarray%20I/README_CN.md#643-子数组最大平均数-i
 [645]:./Easy/0645-Set%20Mismatch/README_CN.md#645-错误的集合
+[647]:./Medium/0647-Palindromic%20Substrings/README_CN.md#647-回文子串
 [653]:./Easy/0653-Two%20Sum%20IV%20-%20Input%20is%20a%20BST/README_CN.md#653-两数之和-iv---输入-bst
 [654]:./Medium/0654-Maximum%20Binary%20Tree/README_CN.md#654-最大二叉树
 [655]:./Medium/0655-Print%20Binary%20Tree/README_CN.md#655-输出二叉树
@@ -1660,6 +1662,7 @@
 [637l]:https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/
 [643l]:https://leetcode-cn.com/problems/maximum-average-subarray-i/
 [645l]:https://leetcode-cn.com/problems/set-mismatch/
+[647l]:https://leetcode-cn.com/problems/palindromic-substrings/
 [648l]:https://leetcode-cn.com/problems/replace-words/
 [652l]:https://leetcode-cn.com/problems/find-duplicate-subtrees/
 [653l]:https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/
