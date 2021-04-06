@@ -660,6 +660,7 @@
 [1664][1664l]|[Ways to Make a Fair Array][1664]                                             |![rb]&nbsp;&nbsp;![rs]
 [1668][1668l]|[Maximum Repeating Substring][1668]                                           |![py]&nbsp;&nbsp;![rb]
 [1669][1669l]|[Merge In Between Linked Lists][1669]                                         |![rb]
+[1670][1670l]|[Design Front Middle Back Queue][1670]                                        |![rs]
 [1672][1672l]|[Richest Customer Wealth][1672]                                               |![rb]&nbsp;&nbsp;![rs]
 [1678][1678l]|[Goal Parser Interpretation][1678]                                            |![rs]
 [1679][1679l]|[Max Number of K-Sum Pairs][1679]                                             |![rs]
@@ -1339,6 +1340,7 @@
 [1664]:./Medium/1664-Ways%20to%20Make%20a%20Fair%20Array/README.md#1664-ways-to-make-a-fair-array
 [1668]:./Easy/1668-Maximum%20Repeating%20Substring/README.md#1668-maximum-repeating-substring
 [1669]:./Medium/1669-Merge%20In%20Between%20Linked%20Lists/README.md#1669-merge-in-between-linked-lists
+[1670]:./Medium/1670-Design%20Front%20Middle%20Back%20Queue/README.md#1670-design-front-middle-back-queue
 [1672]:./Easy/1672-Richest%20Customer%20Wealth/README.md#1672-richest-customer-wealth
 [1678]:./Easy/1678-Goal%20Parser%20Interpretation/README.md#1678-goal-parser-interpretation
 [1679]:./Medium/1679-Max%20Number%20of%20K-Sum%20Pairs/README.md#1679-max-number-of-k-sum-pairs
@@ -2024,6 +2026,7 @@
 [1664l]:https://leetcode.com/problems/ways-to-make-a-fair-array/
 [1668l]:https://leetcode.com/problems/maximum-repeating-substring/
 [1669l]:https://leetcode.com/problems/merge-in-between-linked-lists/
+[1670l]:https://leetcode.com/problems/design-front-middle-back-queue/
 [1672l]:https://leetcode.com/problems/richest-customer-wealth/
 [1678l]:https://leetcode.com/problems/goal-parser-interpretation/
 [1679l]:https://leetcode.com/problems/max-number-of-k-sum-pairs/

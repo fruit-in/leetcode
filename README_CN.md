@@ -660,6 +660,7 @@
 [1664][1664l]|[生成平衡数组的方案数][1664]                      |![rb]&nbsp;&nbsp;![rs]
 [1668][1668l]|[最大重复子字符串][1668]                          |![py]&nbsp;&nbsp;![rb]
 [1669][1669l]|[合并两个链表][1669]                              |![rb]
+[1670][1670l]|[设计前中后队列][1670]                            |![rs]
 [1672][1672l]|[最富有客户的资产总量][1672]                      |![rb]&nbsp;&nbsp;![rs]
 [1678][1678l]|[设计 Goal 解析器][1678]                          |![rs]
 [1679][1679l]|[K 和数对的最大数目][1679]                        |![rs]
@@ -1339,6 +1340,7 @@
 [1664]:./Medium/1664-Ways%20to%20Make%20a%20Fair%20Array/README_CN.md#1664-生成平衡数组的方案数
 [1668]:./Easy/1668-Maximum%20Repeating%20Substring/README_CN.md#1668-最大重复子字符串
 [1669]:./Medium/1669-Merge%20In%20Between%20Linked%20Lists/README_CN.md#1669-合并两个链表
+[1670]:./Medium/1670-Design%20Front%20Middle%20Back%20Queue/README_CN.md#1670-设计前中后队列
 [1672]:./Easy/1672-Richest%20Customer%20Wealth/README_CN.md#1672-最富有客户的资产总量
 [1678]:./Easy/1678-Goal%20Parser%20Interpretation/README_CN.md#1678-设计-goal-解析器
 [1679]:./Medium/1679-Max%20Number%20of%20K-Sum%20Pairs/README_CN.md#1679-k-和数对的最大数目
@@ -2024,6 +2026,7 @@
 [1664l]:https://leetcode-cn.com/problems/ways-to-make-a-fair-array/
 [1668l]:https://leetcode-cn.com/problems/maximum-repeating-substring/
 [1669l]:https://leetcode-cn.com/problems/merge-in-between-linked-lists/
+[1670l]:https://leetcode-cn.com/problems/design-front-middle-back-queue/
 [1672l]:https://leetcode-cn.com/problems/richest-customer-wealth/
 [1678l]:https://leetcode-cn.com/problems/goal-parser-interpretation/
 [1679l]:https://leetcode-cn.com/problems/max-number-of-k-sum-pairs/
