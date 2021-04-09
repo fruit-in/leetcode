@@ -36,6 +36,7 @@
 [50][50l]    |[Pow(x, n)][50]                                                               |![rs]
 [53][53l]    |[Maximum Subarray][53]                                                        |![rs]
 [54][54l]    |[Spiral Matrix][54]                                                           |![rs]
+[55][55l]    |[Jump Game][55]                                                               |![rb]&nbsp;&nbsp;![rs]
 [56][56l]    |[Merge Intervals][56]                                                         |![rs]
 [58][58l]    |[Length of Last Word][58]                                                     |![rs]
 [59][59l]    |[Spiral Matrix II][59]                                                        |![rs]
@@ -720,6 +721,7 @@
 [50]:./Medium/0050-Pow\(x,%20n\)/README.md#50-powx-n
 [53]:./Easy/0053-Maximum%20Subarray/README.md#53-maximum-subarray
 [54]:./Medium/0054-Spiral%20Matrix/README.md#54-spiral-matrix
+[55]:./Medium/0055-Jump%20Game/README.md#55-jump-game
 [56]:./Medium/0056-Merge%20Intervals/README.md#56-merge-intervals
 [58]:./Easy/0058-Length%20of%20Last%20Word/README.md#58-length-of-last-word
 [59]:./Medium/0059-Spiral%20Matrix%20II/README.md#59-spiral-matrix-ii
@@ -1398,6 +1400,7 @@
 [52l]:https://leetcode.com/problems/n-queens-ii/
 [53l]:https://leetcode.com/problems/maximum-subarray/
 [54l]:https://leetcode.com/problems/spiral-matrix/
+[55l]:https://leetcode.com/problems/jump-game/
 [56l]:https://leetcode.com/problems/merge-intervals/
 [58l]:https://leetcode.com/problems/length-of-last-word/
 [59l]:https://leetcode.com/problems/spiral-matrix-ii/
