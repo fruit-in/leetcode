@@ -677,6 +677,7 @@
 [1720][1720l]|[解码异或后的数组][1720]                          |![rb]&nbsp;&nbsp;![rs]
 [1725][1725l]|[可以形成最大正方形的矩形数目][1725]              |![rb]&nbsp;&nbsp;![rs]
 [1732][1732l]|[找到最高海拔][1732]                              |![rb]&nbsp;&nbsp;![rs]
+[1736][1736l]|[替换隐藏数字得到的最晚时间][1736]                |![rs]
 
 
 [py]:./ico/python.ico
@@ -1360,6 +1361,7 @@
 [1720]:./Easy/1720-Decode%20XORed%20Array/README_CN.md#1720-解码异或后的数组
 [1725]:./Easy/1725-Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/README_CN.md#1725-可以形成最大正方形的矩形数目
 [1732]:./Easy/1732-Find%20the%20Highest%20Altitude/README_CN.md#1732-找到最高海拔
+[1736]:./Easy/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README_CN.md#1736-替换隐藏数字得到的最晚时间
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -2049,3 +2051,4 @@
 [1720l]:https://leetcode-cn.com/problems/decode-xored-array/
 [1725l]:https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/
 [1732l]:https://leetcode-cn.com/problems/find-the-highest-altitude/
+[1736l]:https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/
