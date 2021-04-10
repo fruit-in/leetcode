@@ -680,6 +680,7 @@
 [1725][1725l]|[Number Of Rectangles That Can Form The Largest Square][1725]                 |![rb]&nbsp;&nbsp;![rs]
 [1732][1732l]|[Find the Highest Altitude][1732]                                             |![rb]&nbsp;&nbsp;![rs]
 [1736][1736l]|[Latest Time by Replacing Hidden Digits][1736]                                |![rs]
+[1753][1753l]|[Maximum Score From Removing Stones][1753]                                    |![rb]&nbsp;&nbsp;![rs]
 
 
 [py]:./ico/python.ico
@@ -1366,6 +1367,7 @@
 [1725]:./Easy/1725-Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/README.md#1725-number-of-rectangles-that-can-form-the-largest-square
 [1732]:./Easy/1732-Find%20the%20Highest%20Altitude/README.md#1732-find-the-highest-altitude
 [1736]:./Easy/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README.md#1736-latest-time-by-replacing-hidden-digits
+[1753]:./Medium/1753-Maximum%20Score%20From%20Removing%20Stones/README.md#1753-maximum-score-from-removing-stones
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -2058,3 +2060,4 @@
 [1725l]:https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
 [1732l]:https://leetcode.com/problems/find-the-highest-altitude/
 [1736l]:https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/
+[1753l]:https://leetcode.com/problems/maximum-score-from-removing-stones/
