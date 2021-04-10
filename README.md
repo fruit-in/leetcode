@@ -676,6 +676,7 @@
 [1710][1710l]|[Maximum Units on a Truck][1710]                                              |![rs]
 [1716][1716l]|[Calculate Money in Leetcode Bank][1716]                                      |![rb]&nbsp;&nbsp;![rs]
 [1720][1720l]|[Decode XORed Array][1720]                                                    |![rb]&nbsp;&nbsp;![rs]
+[1721][1721l]|[Swapping Nodes in a Linked List][1721]                                       |![rb]
 [1725][1725l]|[Number Of Rectangles That Can Form The Largest Square][1725]                 |![rb]&nbsp;&nbsp;![rs]
 [1732][1732l]|[Find the Highest Altitude][1732]                                             |![rb]&nbsp;&nbsp;![rs]
 [1736][1736l]|[Latest Time by Replacing Hidden Digits][1736]                                |![rs]
@@ -1361,6 +1362,7 @@
 [1710]:./Easy/1710-Maximum%20Units%20on%20a%20Truck/README.md#1710-maximum-units-on-a-truck
 [1716]:./Easy/1716-Calculate%20Money%20in%20Leetcode%20Bank/README.md#1716-calculate-money-in-leetcode-bank
 [1720]:./Easy/1720-Decode%20XORed%20Array/README.md#1720-decode-xored-array
+[1721]:./Medium/1721-Swapping%20Nodes%20in%20a%20Linked%20List/README.md#1721-swapping-nodes-in-a-linked-list
 [1725]:./Easy/1725-Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/README.md#1725-number-of-rectangles-that-can-form-the-largest-square
 [1732]:./Easy/1732-Find%20the%20Highest%20Altitude/README.md#1732-find-the-highest-altitude
 [1736]:./Easy/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README.md#1736-latest-time-by-replacing-hidden-digits
@@ -2052,6 +2054,7 @@
 [1710l]:https://leetcode.com/problems/maximum-units-on-a-truck/
 [1716l]:https://leetcode.com/problems/calculate-money-in-leetcode-bank/
 [1720l]:https://leetcode.com/problems/decode-xored-array/
+[1721l]:https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
 [1725l]:https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
 [1732l]:https://leetcode.com/problems/find-the-highest-altitude/
 [1736l]:https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/
