@@ -55,6 +55,7 @@
 [77][77l]    |[组合][77]                                        |![py]
 [78][78l]    |[子集][78]                                        |![rs]
 [80][80l]    |[删除排序数组中的重复项 II][80]                   |![rs]
+[81][81l]    |[搜索旋转排序数组 II][81]                         |![rs]
 [82][82l]    |[删除排序链表中的重复元素 II][82]                 |![rb]
 [83][83l]    |[删除排序链表中的重复元素][83]                    |![py]
 [86][86l]    |[分隔链表][86]                                    |![py]
@@ -742,6 +743,7 @@
 [77]:./Medium/0077-Combinations/README_CN.md#77-组合
 [78]:./Medium/0078-Subsets/README_CN.md#78-子集
 [80]:./Medium/0080-Remove%20Duplicates%20from%20Sorted%20Array%20II/README_CN.md#80-删除排序数组中的重复项-ii
+[81]:./Medium/0081-Search%20in%20Rotated%20Sorted%20Array%20II/README_CN.md#81-搜索旋转排序数组-ii
 [82]:./Medium/0082-Remove%20Duplicates%20from%20Sorted%20List%20II/README_CN.md#82-删除排序链表中的重复元素-ii
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README_CN.md#83-删除排序链表中的重复元素
 [86]:./Medium/0086-Partition%20List/README_CN.md#86-分隔链表
@@ -1423,6 +1425,7 @@
 [77l]:https://leetcode-cn.com/problems/combinations/
 [78l]:https://leetcode-cn.com/problems/subsets/
 [80l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/
+[81l]:https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/
 [82l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/
 [83l]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/
 [84l]:https://leetcode-cn.com/problems/largest-rectangle-in-histogram/

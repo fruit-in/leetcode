@@ -55,6 +55,7 @@
 [77][77l]    |[Combinations][77]                                                            |![py]
 [78][78l]    |[Subsets][78]                                                                 |![rs]
 [80][80l]    |[Remove Duplicates from Sorted Array II][80]                                  |![rs]
+[81][81l]    |[Search in Rotated Sorted Array II][81]                                       |![rs]
 [82][82l]    |[Remove Duplicates from Sorted List II][82]                                   |![rb]
 [83][83l]    |[Remove Duplicates from Sorted List][83]                                      |![py]
 [86][86l]    |[Partition List][86]                                                          |![py]
@@ -742,6 +743,7 @@
 [77]:./Medium/0077-Combinations/README.md#77-combinations
 [78]:./Medium/0078-Subsets/README.md#78-subsets
 [80]:./Medium/0080-Remove%20Duplicates%20from%20Sorted%20Array%20II/README.md#80-remove-duplicates-from-sorted-array-ii
+[81]:./Medium/0081-Search%20in%20Rotated%20Sorted%20Array%20II/README.md#81-search-in-rotated-sorted-array-ii
 [82]:./Medium/0082-Remove%20Duplicates%20from%20Sorted%20List%20II/README.md#82-remove-duplicates-from-sorted-list-ii
 [83]:./Easy/0083-Remove%20Duplicates%20from%20Sorted%20List/README.md#83-remove-duplicates-from-sorted-list
 [86]:./Medium/0086-Partition%20List/README.md#86-partition-list
@@ -1423,6 +1425,7 @@
 [77l]:https://leetcode.com/problems/combinations/
 [78l]:https://leetcode.com/problems/subsets/
 [80l]:https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+[81l]:https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 [82l]:https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 [83l]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [84l]:https://leetcode.com/problems/largest-rectangle-in-histogram/
