@@ -673,6 +673,7 @@
 [1689][1689l]|[十-二进制数的最少数目][1689]                     |![rb]&nbsp;&nbsp;![rs]
 [1694][1694l]|[重新格式化电话号码][1694]                        |![py]
 [1700][1700l]|[无法吃午餐的学生数量][1700]                      |![rb]&nbsp;&nbsp;![rs]
+[1701][1701l]|[平均等待时间][1701]                              |![rb]&nbsp;&nbsp;![rs]
 [1704][1704l]|[判断字符串的两半是否相似][1704]                  |![rb]&nbsp;&nbsp;![rs]
 [1710][1710l]|[卡车上的最大单元数][1710]                        |![rs]
 [1716][1716l]|[计算力扣银行的钱][1716]                          |![rb]&nbsp;&nbsp;![rs]
@@ -1361,6 +1362,7 @@
 [1689]:./Medium/1689-Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/README_CN.md#1689-十-二进制数的最少数目
 [1694]:./Easy/1694-Reformat%20Phone%20Number/README_CN.md#1694-重新格式化电话号码
 [1700]:./Easy/1700-Number%20of%20Students%20Unable%20to%20Eat%20Lunch/README_CN.md#1700-无法吃午餐的学生数量
+[1701]:./Medium/1701-Average%20Waiting%20Time/README_CN.md#1701-平均等待时间
 [1704]:./Easy/1704-Determine%20if%20String%20Halves%20Are%20Alike/README_CN.md#1704-判断字符串的两半是否相似
 [1710]:./Easy/1710-Maximum%20Units%20on%20a%20Truck/README_CN.md#1710-卡车上的最大单元数
 [1716]:./Easy/1716-Calculate%20Money%20in%20Leetcode%20Bank/README_CN.md#1716-计算力扣银行的钱
@@ -2055,6 +2057,7 @@
 [1689l]:https://leetcode-cn.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 [1694l]:https://leetcode-cn.com/problems/reformat-phone-number/
 [1700l]:https://leetcode-cn.com/problems/number-of-students-unable-to-eat-lunch/
+[1701l]:https://leetcode-cn.com/problems/average-waiting-time/
 [1704l]:https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/
 [1710l]:https://leetcode-cn.com/problems/maximum-units-on-a-truck/
 [1716l]:https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/
