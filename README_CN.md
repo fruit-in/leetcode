@@ -350,6 +350,7 @@
 [781][781l]  |[森林中的兔子][781]                               |![rb]&nbsp;&nbsp;![rs]
 [783][783l]  |[二叉搜索树结点最小距离][783]                     |![py]
 [784][784l]  |[字母大小写全排列][784]                           |![py]
+[785][785l]  |[判断二分图][785]                                 |![rs]
 [788][788l]  |[旋转数字][788]                                   |![rs]
 [789][789l]  |[逃脱阻碍者][789]                                 |![rb]&nbsp;&nbsp;![rs]
 [791][791l]  |[自定义字符串排序][791]                           |![rs]
@@ -1039,6 +1040,7 @@
 [781]:./Medium/0781-Rabbits%20in%20Forest/README_CN.md#781-森林中的兔子
 [783]:./Easy/0783-Minimum%20Distance%20Between%20BST%20Nodes/README_CN.md#783-二叉搜索树结点最小距离
 [784]:./Easy/0784-Letter%20Case%20Permutation/README_CN.md#784-字母大小写全排列
+[785]:./Medium/0785-Is%20Graph%20Bipartite%3F/README_CN.md#785-判断二分图
 [788]:./Easy/0788-Rotated%20Digits/README_CN.md#788-旋转数字
 [789]:./Medium/0789-Escape%20The%20Ghosts/README_CN.md#789-逃脱阻碍者
 [791]:./Medium/0791-Custom%20Sort%20String/README_CN.md#791-自定义字符串排序
@@ -1734,6 +1736,7 @@
 [781l]:https://leetcode-cn.com/problems/rabbits-in-forest/
 [783l]:https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/
 [784l]:https://leetcode-cn.com/problems/letter-case-permutation/
+[785l]:https://leetcode-cn.com/problems/is-graph-bipartite/
 [788l]:https://leetcode-cn.com/problems/rotated-digits/
 [789l]:https://leetcode-cn.com/problems/escape-the-ghosts/
 [791l]:https://leetcode-cn.com/problems/custom-sort-string/

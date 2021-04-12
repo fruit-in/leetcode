@@ -350,6 +350,7 @@
 [781][781l]  |[Rabbits in Forest][781]                                                      |![rb]&nbsp;&nbsp;![rs]
 [783][783l]  |[Minimum Distance Between BST Nodes][783]                                     |![py]
 [784][784l]  |[Letter Case Permutation][784]                                                |![py]
+[785][785l]  |[Is Graph Bipartite?][785]                                                    |![rs]
 [788][788l]  |[Rotated Digits][788]                                                         |![rs]
 [789][789l]  |[Escape The Ghosts][789]                                                      |![rb]&nbsp;&nbsp;![rs]
 [791][791l]  |[Custom Sort String][791]                                                     |![rs]
@@ -1039,6 +1040,7 @@
 [781]:./Medium/0781-Rabbits%20in%20Forest/README.md#781-rabbits-in-forest
 [783]:./Easy/0783-Minimum%20Distance%20Between%20BST%20Nodes/README.md#783-minimum-distance-between-bst-nodes
 [784]:./Easy/0784-Letter%20Case%20Permutation/README.md#784-letter-case-permutation
+[785]:./Medium/0785-Is%20Graph%20Bipartite%3F/README.md#785-is-graph-bipartite
 [788]:./Easy/0788-Rotated%20Digits/README.md#788-rotated-digits
 [789]:./Medium/0789-Escape%20The%20Ghosts/README.md#789-escape-the-ghosts
 [791]:./Medium/0791-Custom%20Sort%20String/README.md#791-custom-sort-string
@@ -1734,6 +1736,7 @@
 [781l]:https://leetcode.com/problems/rabbits-in-forest/
 [783l]:https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 [784l]:https://leetcode.com/problems/letter-case-permutation/
+[785l]:https://leetcode.com/problems/is-graph-bipartite/
 [788l]:https://leetcode.com/problems/rotated-digits/
 [789l]:https://leetcode.com/problems/escape-the-ghosts/
 [791l]:https://leetcode.com/problems/custom-sort-string/
