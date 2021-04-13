@@ -566,6 +566,7 @@
 [1370][1370l]|[Increasing Decreasing String][1370]                                          |![rs]
 [1374][1374l]|[Generate a String With Characters That Have Odd Counts][1374]                |![py]
 [1375][1375l]|[Bulb Switcher III][1375]                                                     |![rs]
+[1376][1376l]|[Time Needed to Inform All Employees][1376]                                   |![rb]&nbsp;&nbsp;![rs]
 [1379][1379l]|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree][1379]    |![py]
 [1380][1380l]|[Lucky Numbers in a Matrix][1380]                                             |![rs]
 [1381][1381l]|[Design a Stack With Increment Operation][1381]                               |![rs]
@@ -1258,6 +1259,7 @@
 [1370]:./Easy/1370-Increasing%20Decreasing%20String/README.md#1370-increasing-decreasing-string
 [1374]:./Easy/1374-Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts/README.md#1374-generate-a-string-with-characters-that-have-odd-counts
 [1375]:./Medium/1375-Bulb%20Switcher%20III/README.md#1375-bulb-switcher-iii
+[1376]:./Medium/1376-Time%20Needed%20to%20Inform%20All%20Employees/README.md#1376-time-needed-to-inform-all-employees
 [1379]:./Medium/1379-Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree/README.md#1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree
 [1380]:./Easy/1380-Lucky%20Numbers%20in%20a%20Matrix/README.md#1380-lucky-numbers-in-a-matrix
 [1381]:./Medium/1381-Design%20a%20Stack%20With%20Increment%20Operation/README.md#1381-design-a-stack-with-increment-operation
@@ -1956,6 +1958,7 @@
 [1370l]:https://leetcode.com/problems/increasing-decreasing-string/
 [1374l]:https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
 [1375l]:https://leetcode.com/problems/bulb-switcher-iii/
+[1376l]:https://leetcode.com/problems/time-needed-to-inform-all-employees/
 [1379l]:https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
 [1380l]:https://leetcode.com/problems/lucky-numbers-in-a-matrix/
 [1381l]:https://leetcode.com/problems/design-a-stack-with-increment-operation/
