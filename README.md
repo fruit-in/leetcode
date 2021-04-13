@@ -176,6 +176,7 @@
 [326][326l]  |[Power of Three][326]                                                         |![py]
 [328][328l]  |[Odd Even Linked List][328]                                                   |![py]
 [331][331l]  |[Verify Preorder Serialization of a Binary Tree][331]                         |![rs]
+[334][334l]  |[Increasing Triplet Subsequence][334]                                         |![rb]&nbsp;&nbsp;![rs]
 [337][337l]  |[House Robber III][337]                                                       |![py]&nbsp;&nbsp;![rb]
 [338][338l]  |[Counting Bits][338]                                                          |![rs]
 [342][342l]  |[Power of Four][342]                                                          |![rs]
@@ -870,6 +871,7 @@
 [326]:./Easy/0326-Power%20of%20Three/README.md#326-power-of-three
 [328]:./Medium/0328-Odd%20Even%20Linked%20List/README.md#328-odd-even-linked-list
 [331]:./Medium/0331-Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/README.md#331-verify-preorder-serialization-of-a-binary-tree
+[334]:./Medium/0334-Increasing%20Triplet%20Subsequence/README.md#334-increasing-triplet-subsequence
 [337]:./Medium/0337-House%20Robber%20III/README.md#337-house-robber-iii
 [338]:./Medium/0338-Counting%20Bits/README.md#338-counting-bits
 [342]:./Easy/0342-Power%20of%20Four/README.md#342-power-of-four
@@ -1564,6 +1566,7 @@
 [326l]:https://leetcode.com/problems/power-of-three/
 [328l]:https://leetcode.com/problems/odd-even-linked-list/
 [331l]:https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
+[334l]:https://leetcode.com/problems/increasing-triplet-subsequence/
 [336l]:https://leetcode.com/problems/palindrome-pairs/
 [337l]:https://leetcode.com/problems/house-robber-iii/
 [338l]:https://leetcode.com/problems/counting-bits/
