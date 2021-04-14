@@ -317,6 +317,7 @@
 [682][682l]  |[Baseball Game][682]                                                          |![py]
 [686][686l]  |[Repeated String Match][686]                                                  |![py]
 [687][687l]  |[Longest Univalue Path][687]                                                  |![py]
+[688][688l]  |[Knight Probability in Chessboard][688]                                       |![rb]&nbsp;&nbsp;![rs]
 [690][690l]  |[Employee Importance][690]                                                    |![py]
 [692][692l]  |[Top K Frequent Words][692]                                                   |![rb]
 [693][693l]  |[Binary Number with Alternating Bits][693]                                    |![rs]
@@ -1012,6 +1013,7 @@
 [682]:./Easy/0682-Baseball%20Game/README.md#682-baseball-game
 [686]:./Easy/0686-Repeated%20String%20Match/README.md#686-repeated-string-match
 [687]:./Easy/0687-Longest%20Univalue%20Path/README.md#687-longest-univalue-path
+[688]:./Medium/0688-Knight%20Probability%20in%20Chessboard/README.md#688-knight-probability-in-chessboard
 [690]:./Easy/0690-Employee%20Importance/README.md#690-employee-importance
 [692]:./Medium/0692-Top%20K%20Frequent%20Words/README.md#692-top-k-frequent-words
 [693]:./Easy/0693-Binary%20Number%20with%20Alternating%20Bits/README.md#693-binary-number-with-alternating-bits
@@ -1713,6 +1715,7 @@
 [682l]:https://leetcode.com/problems/baseball-game/
 [686l]:https://leetcode.com/problems/repeated-string-match/
 [687l]:https://leetcode.com/problems/longest-univalue-path/
+[688l]:https://leetcode.com/problems/knight-probability-in-chessboard/
 [690l]:https://leetcode.com/problems/employee-importance/
 [692l]:https://leetcode.com/problems/top-k-frequent-words/
 [693l]:https://leetcode.com/problems/binary-number-with-alternating-bits/

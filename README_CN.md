@@ -317,6 +317,7 @@
 [682][682l]  |[棒球比赛][682]                                       |![py]
 [686][686l]  |[重复叠加字符串匹配][686]                             |![py]
 [687][687l]  |[最长同值路径][687]                                   |![py]
+[688][688l]  |[“马”在棋盘上的概率][688]                             |![rb]&nbsp;&nbsp;![rs]
 [690][690l]  |[员工的重要性][690]                                   |![py]
 [692][692l]  |[前K个高频单词][692]                                  |![rb]
 [693][693l]  |[交替位二进制数][693]                                 |![rs]
@@ -1012,6 +1013,7 @@
 [682]:./Easy/0682-Baseball%20Game/README_CN.md#682-棒球比赛
 [686]:./Easy/0686-Repeated%20String%20Match/README_CN.md#686-重复叠加字符串匹配
 [687]:./Easy/0687-Longest%20Univalue%20Path/README_CN.md#687-最长同值路径
+[688]:./Medium/0688-Knight%20Probability%20in%20Chessboard/README_CN.md#688-马在棋盘上的概率
 [690]:./Easy/0690-Employee%20Importance/README_CN.md#690-员工的重要性
 [692]:./Medium/0692-Top%20K%20Frequent%20Words/README_CN.md#692-前k个高频单词
 [693]:./Easy/0693-Binary%20Number%20with%20Alternating%20Bits/README_CN.md#693-交替位二进制数
@@ -1713,6 +1715,7 @@
 [682l]:https://leetcode-cn.com/problems/baseball-game/
 [686l]:https://leetcode-cn.com/problems/repeated-string-match/
 [687l]:https://leetcode-cn.com/problems/longest-univalue-path/
+[688l]:https://leetcode-cn.com/problems/knight-probability-in-chessboard/
 [690l]:https://leetcode-cn.com/problems/employee-importance/
 [692l]:https://leetcode-cn.com/problems/top-k-frequent-words/
 [693l]:https://leetcode-cn.com/problems/binary-number-with-alternating-bits/
