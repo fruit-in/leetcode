@@ -689,6 +689,7 @@
 [1725][1725l]|[可以形成最大正方形的矩形数目][1725]                  |![rb]&nbsp;&nbsp;![rs]
 [1732][1732l]|[找到最高海拔][1732]                                  |![rb]&nbsp;&nbsp;![rs]
 [1736][1736l]|[替换隐藏数字得到的最晚时间][1736]                    |![rs]
+[1742][1742l]|[盒子中小球的最大数量][1742]                          |![py]
 [1753][1753l]|[移除石子的最大得分][1753]                            |![rb]&nbsp;&nbsp;![rs]
 
 
@@ -1385,6 +1386,7 @@
 [1725]:./Easy/1725-Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/README_CN.md#1725-可以形成最大正方形的矩形数目
 [1732]:./Easy/1732-Find%20the%20Highest%20Altitude/README_CN.md#1732-找到最高海拔
 [1736]:./Easy/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README_CN.md#1736-替换隐藏数字得到的最晚时间
+[1742]:./Easy/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README_CN.md#1742-盒子中小球的最大数量
 [1753]:./Medium/1753-Maximum%20Score%20From%20Removing%20Stones/README_CN.md#1753-移除石子的最大得分
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
@@ -2087,4 +2089,5 @@
 [1725l]:https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/
 [1732l]:https://leetcode-cn.com/problems/find-the-highest-altitude/
 [1736l]:https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/
+[1742l]:https://leetcode-cn.com/problems/maximum-number-of-balls-in-a-box/
 [1753l]:https://leetcode-cn.com/problems/maximum-score-from-removing-stones/
