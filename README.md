@@ -690,6 +690,7 @@
 [1732][1732l]|[Find the Highest Altitude][1732]                                             |![rb]&nbsp;&nbsp;![rs]
 [1736][1736l]|[Latest Time by Replacing Hidden Digits][1736]                                |![rs]
 [1742][1742l]|[Maximum Number of Balls in a Box][1742]                                      |![py]
+[1748][1748l]|[Sum of Unique Elements][1748]                                                |![rs]
 [1753][1753l]|[Maximum Score From Removing Stones][1753]                                    |![rb]&nbsp;&nbsp;![rs]
 
 
@@ -1387,6 +1388,7 @@
 [1732]:./Easy/1732-Find%20the%20Highest%20Altitude/README.md#1732-find-the-highest-altitude
 [1736]:./Easy/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README.md#1736-latest-time-by-replacing-hidden-digits
 [1742]:./Easy/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README.md#1742-maximum-number-of-balls-in-a-box
+[1748]:./Easy/1748-Sum%20of%20Unique%20Elements/README.md#1748-sum-of-unique-elements
 [1753]:./Medium/1753-Maximum%20Score%20From%20Removing%20Stones/README.md#1753-maximum-score-from-removing-stones
 
 [1l]:https://leetcode.com/problems/two-sum/
@@ -2090,4 +2092,5 @@
 [1732l]:https://leetcode.com/problems/find-the-highest-altitude/
 [1736l]:https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/
 [1742l]:https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
+[1748l]:https://leetcode-cn.com/problems/sum-of-unique-elements/
 [1753l]:https://leetcode.com/problems/maximum-score-from-removing-stones/
