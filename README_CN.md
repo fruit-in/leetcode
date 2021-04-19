@@ -233,6 +233,7 @@
 [461][461l]  |[汉明距离][461]                                       |![rs]
 [462][462l]  |[最少移动次数使数组元素相等 II][462]                  |![rs]
 [463][463l]  |[岛屿的周长][463]                                     |![rs]
+[468][468l]  |[验证IP地址][468]                                     |![rs]
 [470][470l]  |[用 Rand7() 实现 Rand10()][470]                       |![rs]
 [474][474l]  |[一和零][474]                                         |![rs]
 [475][475l]  |[供暖器][475]                                         |![rs]
@@ -932,6 +933,7 @@
 [461]:./Easy/0461-Hamming%20Distance/README_CN.md#461-汉明距离
 [462]:./Medium/0462-Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/README_CN.md#462-最少移动次数使数组元素相等-ii
 [463]:./Easy/0463-Island%20Perimeter/README_CN.md#463-岛屿的周长
+[468]:./Medium/0468-Validate%20IP%20Address/README_CN.md#468-验证ip地址
 [470]:./Medium/0470-Implement%20Rand10\(\)%20Using%20Rand7\(\)/README_CN.md#470-用-Rand7-实现-Rand10
 [474]:./Medium/0474-Ones%20and%20Zeroes/README_CN.md#474-一和零
 [475]:./Easy/0475-Heaters/README_CN.md#475-供暖器
@@ -1634,6 +1636,7 @@
 [461l]:https://leetcode-cn.com/problems/hamming-distance/
 [462l]:https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/
 [463l]:https://leetcode-cn.com/problems/island-perimeter/
+[468l]:https://leetcode-cn.com/problems/validate-ip-address/
 [470l]:https://leetcode-cn.com/problems/implement-rand10-using-rand7/
 [474l]:https://leetcode-cn.com/problems/ones-and-zeroes/
 [475l]:https://leetcode-cn.com/problems/heaters/
