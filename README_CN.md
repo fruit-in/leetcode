@@ -214,6 +214,7 @@
 [415][415l]  |[字符串相加][415]                                     |![py]
 [419][419l]  |[甲板上的战舰][419]                                   |![rs]
 [423][423l]  |[从英文中重建数字][423]                               |![rs]
+[427][427l]  |[建立四叉树][427]                                     |![py]
 [429][429l]  |[N叉树的层序遍历][429]                                |![py]&nbsp;&nbsp;![rb]
 [430][430l]  |[扁平化多级双向链表][430]                             |![rb]
 [434][434l]  |[字符串中的单词数][434]                               |![py]
@@ -915,6 +916,7 @@
 [415]:./Easy/0415-Add%20Strings/README_CN.md#415-字符串相加
 [419]:./Medium/0419-Battleships%20in%20a%20Board/README_CN.md#419-甲板上的战舰
 [423]:./Medium/0423-Reconstruct%20Original%20Digits%20from%20English/README_CN.md#423-从英文中重建数字
+[427]:./Medium/0427-Construct%20Quad%20Tree/README_CN.md#427-建立四叉树
 [429]:./Medium/0429-N-ary%20Tree%20Level%20Order%20Traversal/README_CN.md#429-n叉树的层序遍历
 [430]:./Medium/0430-Flatten%20a%20Multilevel%20Doubly%20Linked%20List/README_CN.md#430-扁平化多级双向链表
 [434]:./Easy/0434-Number%20of%20Segments%20in%20a%20String/README_CN.md#434-字符串中的单词数
@@ -1619,6 +1621,7 @@
 [419l]:https://leetcode-cn.com/problems/battleships-in-a-board/
 [421l]:https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/
 [423l]:https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/
+[427l]:https://leetcode-cn.com/problems/construct-quad-tree/
 [429l]:https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/
 [430l]:https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
 [434l]:https://leetcode-cn.com/problems/number-of-segments-in-a-string/
