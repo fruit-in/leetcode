@@ -624,6 +624,7 @@
 [1496][1496l]|[判断路径是否相交][1496]                              |![rs]
 [1502][1502l]|[判断能否形成等差数列][1502]                          |![rb]&nbsp;&nbsp;![rs]
 [1507][1507l]|[转变日期格式][1507]                                  |![py]
+[1508][1508l]|[子数组和排序后的区间和][1508]                        |![rb]&nbsp;&nbsp;![rs]
 [1509][1509l]|[三次操作后最大值与最小值的最小差][1509]              |![rb]
 [1512][1512l]|[好数对的数目][1512]                                  |![rb]&nbsp;&nbsp;![rs]
 [1513][1513l]|[仅含 1 的子串数][1513]                               |![rs]
@@ -1326,6 +1327,7 @@
 [1496]:./Easy/1496-Path%20Crossing/README_CN.md#1496-判断路径是否相交
 [1502]:./Easy/1502-Can%20Make%20Arithmetic%20Progression%20From%20Sequence/README_CN.md#1502-判断能否形成等差数列
 [1507]:./Easy/1507-Reformat%20Date/README_CN.md#1507-转变日期格式
+[1508]:./Medium/1508-Range%20Sum%20of%20Sorted%20Subarray%20Sums/README_CN.md#1508-子数组和排序后的区间和
 [1509]:./Medium/1509-Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/README_CN.md#1509-三次操作后最大值与最小值的最小差
 [1512]:./Easy/1512-Number%20of%20Good%20Pairs/README_CN.md#1512-好数对的数目
 [1513]:./Medium/1513-Number%20of%20Substrings%20With%20Only%201s/README_CN.md#1513-仅含-1-的子串数
@@ -2034,6 +2036,7 @@
 [1496l]:https://leetcode-cn.com/problems/path-crossing/
 [1502l]:https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/
 [1507l]:https://leetcode-cn.com/problems/reformat-date/
+[1508l]:https://leetcode-cn.com/problems/range-sum-of-sorted-subarray-sums/
 [1509l]:https://leetcode-cn.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 [1512l]:https://leetcode-cn.com/problems/number-of-good-pairs/
 [1513l]:https://leetcode-cn.com/problems/number-of-substrings-with-only-1s/

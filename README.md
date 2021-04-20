@@ -624,6 +624,7 @@
 [1496][1496l]|[Path Crossing][1496]                                                         |![rs]
 [1502][1502l]|[Can Make Arithmetic Progression From Sequence][1502]                         |![rb]&nbsp;&nbsp;![rs]
 [1507][1507l]|[Reformat Date][1507]                                                         |![py]
+[1508][1508l]|[Range Sum of Sorted Subarray Sums][1508]                                     |![rb]&nbsp;&nbsp;![rs]
 [1509][1509l]|[Minimum Difference Between Largest and Smallest Value in Three Moves][1509]  |![rb]
 [1512][1512l]|[Number of Good Pairs][1512]                                                  |![rb]&nbsp;&nbsp;![rs]
 [1513][1513l]|[Number of Substrings With Only 1s][1513]                                     |![rs]
@@ -1326,6 +1327,7 @@
 [1496]:./Easy/1496-Path%20Crossing/README.md#1496-path-crossing
 [1502]:./Easy/1502-Can%20Make%20Arithmetic%20Progression%20From%20Sequence/README.md#1502-can-make-arithmetic-progression-from-sequence
 [1507]:./Easy/1507-Reformat%20Date/README.md#1507-reformat-date
+[1508]:./Medium/1508-Range%20Sum%20of%20Sorted%20Subarray%20Sums/README.md#1508-range-sum-of-sorted-subarray-sums
 [1509]:./Medium/1509-Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/README.md#1509-minimum-difference-between-largest-and-smallest-value-in-three-moves
 [1512]:./Easy/1512-Number%20of%20Good%20Pairs/README.md#1512-number-of-good-pairs
 [1513]:./Medium/1513-Number%20of%20Substrings%20With%20Only%201s/README.md#1513-number-of-substrings-with-only-1s
@@ -2034,6 +2036,7 @@
 [1496l]:https://leetcode.com/problems/path-crossing/
 [1502l]:https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 [1507l]:https://leetcode.com/problems/reformat-date/
+[1508l]:https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
 [1509l]:https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 [1512l]:https://leetcode.com/problems/number-of-good-pairs/
 [1513l]:https://leetcode.com/problems/number-of-substrings-with-only-1s/
