@@ -621,6 +621,7 @@
 [1487][1487l]|[保证文件名唯一][1487]                                |![rb]
 [1491][1491l]|[去掉最低工资和最高工资后的工资平均值][1491]          |![rb]&nbsp;&nbsp;![rs]
 [1492][1492l]|[n 的第 k 个因子][1492]                               |![py]&nbsp;&nbsp;![rb]&nbsp;&nbsp;![rs]
+[1493][1493l]|[删掉一个元素以后全为 1 的最长子数组][1493]           |![rb]&nbsp;&nbsp;![rs]
 [1496][1496l]|[判断路径是否相交][1496]                              |![rs]
 [1502][1502l]|[判断能否形成等差数列][1502]                          |![rb]&nbsp;&nbsp;![rs]
 [1507][1507l]|[转变日期格式][1507]                                  |![py]
@@ -1324,6 +1325,7 @@
 [1487]:./Medium/1487-Making%20File%20Names%20Unique/README_CN.md#1487-保证文件名唯一
 [1491]:./Easy/1491-Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README_CN.md#1491-去掉最低工资和最高工资后的工资平均值
 [1492]:./Medium/1492-The%20kth%20Factor%20of%20n/README_CN.md#1492-n-的第-k-个因子
+[1493]:./Medium/1493-Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/README_CN.md#1493-删掉一个元素以后全为-1-的最长子数组
 [1496]:./Easy/1496-Path%20Crossing/README_CN.md#1496-判断路径是否相交
 [1502]:./Easy/1502-Can%20Make%20Arithmetic%20Progression%20From%20Sequence/README_CN.md#1502-判断能否形成等差数列
 [1507]:./Easy/1507-Reformat%20Date/README_CN.md#1507-转变日期格式
@@ -2033,6 +2035,7 @@
 [1487l]:https://leetcode-cn.com/problems/making-file-names-unique/
 [1491l]:https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [1492l]:https://leetcode-cn.com/problems/the-kth-factor-of-n/
+[1493l]:https://leetcode-cn.com/problems/longest-subarray-of-1s-after-deleting-one-element/
 [1496l]:https://leetcode-cn.com/problems/path-crossing/
 [1502l]:https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/
 [1507l]:https://leetcode-cn.com/problems/reformat-date/

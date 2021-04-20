@@ -621,6 +621,7 @@
 [1487][1487l]|[Making File Names Unique][1487]                                              |![rb]
 [1491][1491l]|[Average Salary Excluding the Minimum and Maximum Salary][1491]               |![rb]&nbsp;&nbsp;![rs]
 [1492][1492l]|[The kth Factor of n][1492]                                                   |![py]&nbsp;&nbsp;![rb]&nbsp;&nbsp;![rs]
+[1493][1493l]|[Longest Subarray of 1's After Deleting One Element][1493]                    |![rb]&nbsp;&nbsp;![rs]
 [1496][1496l]|[Path Crossing][1496]                                                         |![rs]
 [1502][1502l]|[Can Make Arithmetic Progression From Sequence][1502]                         |![rb]&nbsp;&nbsp;![rs]
 [1507][1507l]|[Reformat Date][1507]                                                         |![py]
@@ -1324,6 +1325,7 @@
 [1487]:./Medium/1487-Making%20File%20Names%20Unique/README.md#1487-making-file-names-unique
 [1491]:./Easy/1491-Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README.md#1491-average-salary-excluding-the-minimum-and-maximum-salary
 [1492]:./Medium/1492-The%20kth%20Factor%20of%20n/README.md#1492-the-kth-factor-of-n
+[1493]:./Medium/1493-Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/README.md#1493-longest-subarray-of-1s-after-deleting-one-element
 [1496]:./Easy/1496-Path%20Crossing/README.md#1496-path-crossing
 [1502]:./Easy/1502-Can%20Make%20Arithmetic%20Progression%20From%20Sequence/README.md#1502-can-make-arithmetic-progression-from-sequence
 [1507]:./Easy/1507-Reformat%20Date/README.md#1507-reformat-date
@@ -2033,6 +2035,7 @@
 [1487l]:https://leetcode.com/problems/making-file-names-unique/
 [1491l]:https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [1492l]:https://leetcode.com/problems/the-kth-factor-of-n/
+[1493l]:https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
 [1496l]:https://leetcode.com/problems/path-crossing/
 [1502l]:https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 [1507l]:https://leetcode.com/problems/reformat-date/
