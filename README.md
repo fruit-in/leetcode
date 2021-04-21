@@ -425,6 +425,7 @@
 [929][929l]  |[Unique Email Addresses][929]                                                 |![py]&nbsp;&nbsp;![rb]
 [931][931l]  |[Minimum Falling Path Sum][931]                                               |![rs]
 [933][933l]  |[Number of Recent Calls][933]                                                 |![rs]
+[935][935l]  |[Knight Dialer][935]                                                          |![rb]&nbsp;&nbsp;![rs]
 [937][937l]  |[Reorder Data in Log Files][937]                                              |![py]
 [938][938l]  |[Range Sum of BST][938]                                                       |![py]
 [939][939l]  |[Minimum Area Rectangle][939]                                                 |![py]&nbsp;&nbsp;![rs]
@@ -1130,6 +1131,7 @@
 [929]:./Easy/0929-Unique%20Email%20Addresses/README.md#929-unique-email-addresses
 [931]:./Medium/0931-Minimum%20Falling%20Path%20Sum/README.md#931-minimum-falling-path-sum
 [933]:./Easy/0933-Number%20of%20Recent%20Calls/README.md#933-number-of-recent-calls
+[935]:./Medium/0935-Knight%20Dialer/README.md#935-knight-dialer
 [937]:./Easy/0937-Reorder%20Data%20in%20Log%20Files/README.md#937-reorder-data-in-log-files
 [938]:./Easy/0938-Range%20Sum%20of%20BST/README.md#938-range-sum-of-bst
 [939]:./Medium/0939-Minimum%20Area%20Rectangle/README.md#939-minimum-area-rectangle
@@ -1841,6 +1843,7 @@
 [929l]:https://leetcode.com/problems/unique-email-addresses/
 [931l]:https://leetcode.com/problems/minimum-falling-path-sum/
 [933l]:https://leetcode.com/problems/number-of-recent-calls/
+[935l]:https://leetcode.com/problems/knight-dialer/
 [937l]:https://leetcode.com/problems/reorder-data-in-log-files/
 [938l]:https://leetcode.com/problems/range-sum-of-bst/
 [939l]:https://leetcode.com/problems/minimum-area-rectangle/

@@ -425,6 +425,7 @@
 [929][929l]  |[独特的电子邮件地址][929]                             |![py]&nbsp;&nbsp;![rb]
 [931][931l]  |[下降路径最小和][931]                                 |![rs]
 [933][933l]  |[最近的请求次数][933]                                 |![rs]
+[935][935l]  |[骑士拨号器][935]                                     |![rb]&nbsp;&nbsp;![rs]
 [937][937l]  |[重新排列日志文件][937]                               |![py]
 [938][938l]  |[二叉搜索树的范围和][938]                             |![py]
 [939][939l]  |[最小面积矩形][939]                                   |![py]&nbsp;&nbsp;![rs]
@@ -1130,6 +1131,7 @@
 [929]:./Easy/0929-Unique%20Email%20Addresses/README_CN.md#929-独特的电子邮件地址
 [931]:./Medium/0931-Minimum%20Falling%20Path%20Sum/README_CN.md#931-下降路径最小和
 [933]:./Easy/0933-Number%20of%20Recent%20Calls/README_CN.md#933-最近的请求次数
+[935]:./Medium/0935-Knight%20Dialer/README_CN.md#935-骑士拨号器
 [937]:./Easy/0937-Reorder%20Data%20in%20Log%20Files/README_CN.md#937-重新排列日志文件
 [938]:./Easy/0938-Range%20Sum%20of%20BST/README_CN.md#938-二叉搜索树的范围和
 [939]:./Medium/0939-Minimum%20Area%20Rectangle/README_CN.md#939-最小面积矩形
@@ -1841,6 +1843,7 @@
 [929l]:https://leetcode-cn.com/problems/unique-email-addresses/
 [931l]:https://leetcode-cn.com/problems/minimum-falling-path-sum/
 [933l]:https://leetcode-cn.com/problems/number-of-recent-calls/
+[935l]:https://leetcode-cn.com/problems/knight-dialer/
 [937l]:https://leetcode-cn.com/problems/reorder-data-in-log-files/
 [938l]:https://leetcode-cn.com/problems/range-sum-of-bst/
 [939l]:https://leetcode-cn.com/problems/minimum-area-rectangle/
