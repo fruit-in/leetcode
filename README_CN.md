@@ -606,6 +606,7 @@
 [1437][1437l]|[是否所有 1 都至少相隔 k 个元素][1437]                |![rs]
 [1441][1441l]|[用栈操作构建数组][1441]                              |![rs]
 [1446][1446l]|[连续字符][1446]                                      |![rs]
+[1447][1447l]|[最简分数][1447]                                      |![py]&nbsp;&nbsp;![rb]
 [1448][1448l]|[统计二叉树中好节点的数目][1448]                      |![py]
 [1450][1450l]|[在既定时间做作业的学生人数][1450]                    |![rs]
 [1451][1451l]|[重新排列句子中的单词][1451]                          |![rb]
@@ -1314,6 +1315,7 @@
 [1437]:./Medium/1437-Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away/README_CN.md#1437-是否所有-1-都至少相隔-k-个元素
 [1441]:./Easy/1441-Build%20an%20Array%20With%20Stack%20Operations/README_CN.md#1441-用栈操作构建数组
 [1446]:./Easy/1446-Consecutive%20Characters/README_CN.md#1446-连续字符
+[1447]:./Medium/1447-Simplified%20Fractions/README_CN.md#1447-最简分数
 [1448]:./Medium/1448-Count%20Good%20Nodes%20in%20Binary%20Tree/README_CN.md#1448-统计二叉树中好节点的数目
 [1450]:./Easy/1450-Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/README_CN.md#1450-在既定时间做作业的学生人数
 [1451]:./Medium/1451-Rearrange%20Words%20in%20a%20Sentence/README_CN.md#1451-重新排列句子中的单词
@@ -2028,6 +2030,7 @@
 [1437l]:https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 [1441l]:https://leetcode-cn.com/problems/build-an-array-with-stack-operations/
 [1446l]:https://leetcode-cn.com/problems/consecutive-characters/
+[1447l]:https://leetcode-cn.com/problems/simplified-fractions/
 [1448l]:https://leetcode-cn.com/problems/count-good-nodes-in-binary-tree/
 [1450l]:https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/
 [1451l]:https://leetcode-cn.com/problems/rearrange-words-in-a-sentence/
