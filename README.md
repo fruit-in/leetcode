@@ -633,6 +633,7 @@
 [1513][1513l]|[Number of Substrings With Only 1s][1513]                                     |![rs]
 [1518][1518l]|[Water Bottles][1518]                                                         |![rb]&nbsp;&nbsp;![rs]
 [1523][1523l]|[Count Odd Numbers in an Interval Range][1523]                                |![rb]
+[1524][1524l]|[Number of Sub-arrays With Odd Sum][1524]                                     |![rb]&nbsp;&nbsp;![rs]
 [1525][1525l]|[Number of Good Ways to Split a String][1525]                                 |![rs]
 [1528][1528l]|[Shuffle String][1528]                                                        |![py]&nbsp;&nbsp;![rb]
 [1529][1529l]|[Bulb Switcher IV][1529]                                                      |![rs]
@@ -1340,6 +1341,7 @@
 [1513]:./Medium/1513-Number%20of%20Substrings%20With%20Only%201s/README.md#1513-number-of-substrings-with-only-1s
 [1518]:./Easy/1518-Water%20Bottles/README.md#1518-water-bottles
 [1523]:./Easy/1523-Count%20Odd%20Numbers%20in%20an%20Interval%20Range/README.md#1523-count-odd-numbers-in-an-interval-range
+[1524]:./Medium/1524-Number%20of%20Sub-arrays%20With%20Odd%20Sum/README.md#1524-number-of-sub-arrays-with-odd-sum
 [1525]:./Medium/1525-Number%20of%20Good%20Ways%20to%20Split%20a%20String/README.md#1525-number-of-good-ways-to-split-a-string
 [1528]:./Easy/1528-Shuffle%20String/README.md#1528-shuffle-string
 [1529]:./Medium/1529-Bulb%20Switcher%20IV/README.md#1529-bulb-switcher-iv
@@ -2053,6 +2055,7 @@
 [1513l]:https://leetcode.com/problems/number-of-substrings-with-only-1s/
 [1518l]:https://leetcode.com/problems/water-bottles/
 [1523l]:https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
+[1524l]:https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
 [1525l]:https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 [1528l]:https://leetcode.com/problems/shuffle-string/
 [1529l]:https://leetcode.com/problems/bulb-switcher-iv/

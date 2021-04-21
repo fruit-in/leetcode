@@ -633,6 +633,7 @@
 [1513][1513l]|[仅含 1 的子串数][1513]                               |![rs]
 [1518][1518l]|[换酒问题][1518]                                      |![rb]&nbsp;&nbsp;![rs]
 [1523][1523l]|[在区间范围内统计奇数数目][1523]                      |![rb]
+[1524][1524l]|[和为奇数的子数组数目][1524]                          |![rb]&nbsp;&nbsp;![rs]
 [1525][1525l]|[字符串的好分割数目][1525]                            |![rs]
 [1528][1528l]|[重新排列字符串][1528]                                |![py]&nbsp;&nbsp;![rb]
 [1529][1529l]|[灯泡开关 IV][1529]                                   |![rs]
@@ -1340,6 +1341,7 @@
 [1513]:./Medium/1513-Number%20of%20Substrings%20With%20Only%201s/README_CN.md#1513-仅含-1-的子串数
 [1518]:./Easy/1518-Water%20Bottles/README_CN.md#1518-换酒问题
 [1523]:./Easy/1523-Count%20Odd%20Numbers%20in%20an%20Interval%20Range/README_CN.md#1523-在区间范围内统计奇数数目
+[1524]:./Medium/1524-Number%20of%20Sub-arrays%20With%20Odd%20Sum/README_CN.md#1524-和为奇数的子数组数目
 [1525]:./Medium/1525-Number%20of%20Good%20Ways%20to%20Split%20a%20String/README_CN.md#1525-字符串的好分割数目
 [1528]:./Easy/1528-Shuffle%20String/README_CN.md#1528-重新排列字符串
 [1529]:./Medium/1529-Bulb%20Switcher%20IV/README_CN.md#1529-灯泡开关-iv
@@ -2053,6 +2055,7 @@
 [1513l]:https://leetcode-cn.com/problems/number-of-substrings-with-only-1s/
 [1518l]:https://leetcode-cn.com/problems/water-bottles/
 [1523l]:https://leetcode-cn.com/problems/count-odd-numbers-in-an-interval-range/
+[1524l]:https://leetcode-cn.com/problems/number-of-sub-arrays-with-odd-sum/
 [1525l]:https://leetcode-cn.com/problems/number-of-good-ways-to-split-a-string/
 [1528l]:https://leetcode-cn.com/problems/shuffle-string/
 [1529l]:https://leetcode-cn.com/problems/bulb-switcher-iv/
