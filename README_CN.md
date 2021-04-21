@@ -695,6 +695,7 @@
 [1720][1720l]|[解码异或后的数组][1720]                              |![rb]&nbsp;&nbsp;![rs]
 [1721][1721l]|[交换链表中的节点][1721]                              |![rb]
 [1725][1725l]|[可以形成最大正方形的矩形数目][1725]                  |![rb]&nbsp;&nbsp;![rs]
+[1726][1726l]|[同积元组][1726]                                      |![rb]&nbsp;&nbsp;![rs]
 [1732][1732l]|[找到最高海拔][1732]                                  |![rb]&nbsp;&nbsp;![rs]
 [1736][1736l]|[替换隐藏数字得到的最晚时间][1736]                    |![rs]
 [1742][1742l]|[盒子中小球的最大数量][1742]                          |![py]
@@ -1401,6 +1402,7 @@
 [1720]:./Easy/1720-Decode%20XORed%20Array/README_CN.md#1720-解码异或后的数组
 [1721]:./Medium/1721-Swapping%20Nodes%20in%20a%20Linked%20List/README_CN.md#1721-交换链表中的节点
 [1725]:./Easy/1725-Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/README_CN.md#1725-可以形成最大正方形的矩形数目
+[1726]:./Medium/1726-Tuple%20with%20Same%20Product/README_CN.md#1726-同积元组
 [1732]:./Easy/1732-Find%20the%20Highest%20Altitude/README_CN.md#1732-找到最高海拔
 [1736]:./Easy/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README_CN.md#1736-替换隐藏数字得到的最晚时间
 [1742]:./Easy/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README_CN.md#1742-盒子中小球的最大数量
@@ -2113,6 +2115,7 @@
 [1720l]:https://leetcode-cn.com/problems/decode-xored-array/
 [1721l]:https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/
 [1725l]:https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/
+[1726l]:https://leetcode-cn.com/problems/tuple-with-same-product/
 [1732l]:https://leetcode-cn.com/problems/find-the-highest-altitude/
 [1736l]:https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/
 [1742l]:https://leetcode-cn.com/problems/maximum-number-of-balls-in-a-box/
