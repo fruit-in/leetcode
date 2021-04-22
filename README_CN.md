@@ -506,6 +506,7 @@
 [1155][1155l]|[掷骰子的N种方法][1155]                               |![py]&nbsp;&nbsp;![rs]
 [1160][1160l]|[拼写单词][1160]                                      |![py]
 [1161][1161l]|[最大层内元素和][1161]                                |![py]
+[1162][1162l]|[地图分析][1162]                                      |![rs]
 [1170][1170l]|[比较字符串最小字母出现频次][1170]                    |![py]
 [1175][1175l]|[质数排列][1175]                                      |![rs]
 [1184][1184l]|[公交站间的距离][1184]                                |![rs]
@@ -1215,6 +1216,7 @@
 [1155]:./Medium/1155-Number%20of%20Dice%20Rolls%20With%20Target%20Sum/README_CN.md#1155-掷骰子的n种方法
 [1160]:./Easy/1160-Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/README_CN.md#1160-拼写单词
 [1161]:./Medium/1161-Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/README_CN.md#1161-最大层内元素和
+[1162]:./Medium/1162-As%20Far%20from%20Land%20as%20Possible/README_CN.md#1162-地图分析
 [1170]:./Easy/1170-Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/README_CN.md#1170-比较字符串最小字母出现频次
 [1175]:./Easy/1175-Prime%20Arrangements/README_CN.md#1175-质数排列
 [1184]:./Easy/1184-Distance%20Between%20Bus%20Stops/README_CN.md#1184-公交站间的距离
@@ -1930,6 +1932,7 @@
 [1155l]:https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum/
 [1160l]:https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/
 [1161l]:https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree/
+[1162l]:https://leetcode-cn.com/problems/as-far-from-land-as-possible/
 [1170l]:https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/
 [1175l]:https://leetcode-cn.com/problems/prime-arrangements/
 [1184l]:https://leetcode-cn.com/problems/distance-between-bus-stops/
