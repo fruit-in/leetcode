@@ -708,6 +708,7 @@
 [1748][1748l]|[唯一元素的和][1748]                                  |![rs]
 [1752][1752l]|[检查数组是否经排序和轮转得到][1752]                  |![rb]&nbsp;&nbsp;![rs]
 [1753][1753l]|[移除石子的最大得分][1753]                            |![rb]&nbsp;&nbsp;![rs]
+[1758][1758l]|[生成交替二进制字符串的最少操作数][1758]              |![rb]&nbsp;&nbsp;![rs]
 
 
 [py]:./ico/python.ico
@@ -1422,6 +1423,7 @@
 [1748]:./Easy/1748-Sum%20of%20Unique%20Elements/README_CN.md#1748-唯一元素的和
 [1752]:./Easy/1752-Check%20if%20Array%20Is%20Sorted%20and%20Rotated/README_CN.md#1752-检查数组是否经排序和轮转得到
 [1753]:./Medium/1753-Maximum%20Score%20From%20Removing%20Stones/README_CN.md#1753-移除石子的最大得分
+[1758]:./Easy/1758-Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/README_CN.md#1758-生成交替二进制字符串的最少操作数
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -2142,3 +2144,4 @@
 [1748l]:https://leetcode-cn.com/problems/sum-of-unique-elements/
 [1752l]:https://leetcode-cn.com/problems/check-if-array-is-sorted-and-rotated/
 [1753l]:https://leetcode-cn.com/problems/maximum-score-from-removing-stones/
+[1758l]:https://leetcode-cn.com/problems/minimum-changes-to-make-alternating-binary-string/
