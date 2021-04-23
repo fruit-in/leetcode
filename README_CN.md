@@ -513,6 +513,7 @@
 [1184][1184l]|[公交站间的距离][1184]                                |![rs]
 [1185][1185l]|[一周中的第几天][1185]                                |![rs]
 [1189][1189l]|[“气球” 的最大数量][1189]                             |![rs]
+[1191][1191l]|[K 次串联后最大子数组之和][1191]                      |![rb]&nbsp;&nbsp;![rs]
 [1200][1200l]|[最小绝对差][1200]                                    |![rs]
 [1207][1207l]|[独一无二的出现次数][1207]                            |![rs]
 [1209][1209l]|[删除字符串中的所有相邻重复项 II][1209]               |![rs]
@@ -1225,6 +1226,7 @@
 [1184]:./Easy/1184-Distance%20Between%20Bus%20Stops/README_CN.md#1184-公交站间的距离
 [1185]:./Easy/1185-Day%20of%20the%20Week/README_CN.md#1185-一周中的第几天
 [1189]:./Easy/1189-Maximum%20Number%20of%20Balloons/README_CN.md#1189-气球-的最大数量
+[1191]:./Medium/1191-K-Concatenation%20Maximum%20Sum/README_CN.md#1191-k-次串联后最大子数组之和
 [1200]:./Easy/1200-Minimum%20Absolute%20Difference/README_CN.md#1200-最小绝对差
 [1207]:./Easy/1207-Unique%20Number%20of%20Occurrences/README_CN.md#1207-独一无二的出现次数
 [1209]:./Medium/1209-Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/README_CN.md#1209-删除字符串中的所有相邻重复项-ii
@@ -1943,6 +1945,7 @@
 [1184l]:https://leetcode-cn.com/problems/distance-between-bus-stops/
 [1185l]:https://leetcode-cn.com/problems/day-of-the-week/
 [1189l]:https://leetcode-cn.com/problems/maximum-number-of-balloons/
+[1191l]:https://leetcode-cn.com/problems/k-concatenation-maximum-sum/
 [1200l]:https://leetcode-cn.com/problems/minimum-absolute-difference/
 [1207l]:https://leetcode-cn.com/problems/unique-number-of-occurrences/
 [1209l]:https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/
