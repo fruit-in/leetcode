@@ -706,6 +706,7 @@
 [1736][1736l]|[替换隐藏数字得到的最晚时间][1736]                    |![rs]
 [1742][1742l]|[盒子中小球的最大数量][1742]                          |![py]
 [1748][1748l]|[唯一元素的和][1748]                                  |![rs]
+[1752][1752l]|[检查数组是否经排序和轮转得到][1752]                  |![rb]&nbsp;&nbsp;![rs]
 [1753][1753l]|[移除石子的最大得分][1753]                            |![rb]&nbsp;&nbsp;![rs]
 
 
@@ -1419,6 +1420,7 @@
 [1736]:./Easy/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README_CN.md#1736-替换隐藏数字得到的最晚时间
 [1742]:./Easy/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README_CN.md#1742-盒子中小球的最大数量
 [1748]:./Easy/1748-Sum%20of%20Unique%20Elements/README_CN.md#1748-唯一元素的和
+[1752]:./Easy/1752-Check%20if%20Array%20Is%20Sorted%20and%20Rotated/README_CN.md#1752-检查数组是否经排序和轮转得到
 [1753]:./Medium/1753-Maximum%20Score%20From%20Removing%20Stones/README_CN.md#1753-移除石子的最大得分
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
@@ -2138,4 +2140,5 @@
 [1736l]:https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/
 [1742l]:https://leetcode-cn.com/problems/maximum-number-of-balls-in-a-box/
 [1748l]:https://leetcode-cn.com/problems/sum-of-unique-elements/
+[1752l]:https://leetcode-cn.com/problems/check-if-array-is-sorted-and-rotated/
 [1753l]:https://leetcode-cn.com/problems/maximum-score-from-removing-stones/
