@@ -29,6 +29,7 @@
 [35][35l]    |[搜索插入位置][35]                                    |![py]
 [36][36l]    |[有效的数独][36]                                      |![rs]
 [38][38l]    |[外观数列][38]                                        |![py]&nbsp;&nbsp;![rb]
+[39][39l]    |[组合总和][39]                                        |![rb]
 [46][46l]    |[全排列][46]                                          |![rs]
 [47][47l]    |[全排列 II][47]                                       |![rs]
 [48][48l]    |[旋转图像][48]                                        |![rs]
@@ -740,6 +741,7 @@
 [35]:./Easy/0035-Search%20Insert%20Position/README_CN.md#35-搜索插入位置
 [36]:./Medium/0036-Valid%20Sudoku/README_CN.md#36-有效的数独
 [38]:./Easy/0038-Count%20and%20Say/README_CN.md#38-外观数列
+[39]:./Medium/0039-Combination%20Sum/README_CN.md#39-组合总和
 [46]:./Medium/0046-Permutations/README_CN.md#46-全排列
 [47]:./Medium/0047-Permutations%20II/README_CN.md#47-全排列-ii
 [48]:./Medium/0048-Rotate%20Image/README_CN.md#48-旋转图像
@@ -1444,6 +1446,7 @@
 [36l]:https://leetcode-cn.com/problems/valid-sudoku/
 [37l]:https://leetcode-cn.com/problems/sudoku-solver/
 [38l]:https://leetcode-cn.com/problems/count-and-say/
+[39l]:https://leetcode-cn.com/problems/combination-sum/
 [46l]:https://leetcode-cn.com/problems/permutations/
 [47l]:https://leetcode-cn.com/problems/permutations-ii/
 [48l]:https://leetcode-cn.com/problems/rotate-image/
