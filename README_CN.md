@@ -537,6 +537,7 @@
 [1267][1267l]|[统计参与通信的服务器][1267]                          |![rb]&nbsp;&nbsp;![rs]
 [1268][1268l]|[搜索推荐系统][1268]                                  |![rs]
 [1275][1275l]|[找出井字棋的获胜者][1275]                            |![rs]
+[1276][1276l]|[不浪费原料的汉堡制作方案][1276]                      |![py]&nbsp;&nbsp;![rs]
 [1277][1277l]|[统计全为 1 的正方形子矩阵][1277]                     |![rs]
 [1281][1281l]|[整数的各位积和之差][1281]                            |![rs]
 [1282][1282l]|[用户分组][1282]                                      |![rs]
@@ -1252,6 +1253,7 @@
 [1267]:./Medium/1267-Count%20Servers%20that%20Communicate/README_CN.md#1267-统计参与通信的服务器
 [1268]:./Medium/1268-Search%20Suggestions%20System/README_CN.md#1268-搜索推荐系统
 [1275]:./Easy/1275-Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/README_CN.md#1275-找出井字棋的获胜者
+[1276]:./Medium/1276-Number%20of%20Burgers%20with%20No%20Waste%20of%20Ingredients/README_CN.md#1276-不浪费原料的汉堡制作方案
 [1277]:./Medium/1277-Count%20Square%20Submatrices%20with%20All%20Ones/README_CN.md#1277-统计全为-1-的正方形子矩阵
 [1281]:./Easy/1281-Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/README_CN.md#1281-整数的各位积和之差
 [1282]:./Medium/1282-Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To/README_CN.md#1282-用户分组
@@ -1973,6 +1975,7 @@
 [1267l]:https://leetcode-cn.com/problems/count-servers-that-communicate/
 [1268l]:https://leetcode-cn.com/problems/search-suggestions-system/
 [1275l]:https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game/
+[1276l]:https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients/
 [1277l]:https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/
 [1281l]:https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 [1282l]:https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to/
