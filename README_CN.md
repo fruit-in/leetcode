@@ -566,6 +566,7 @@
 [1337][1337l]|[方阵中战斗力最弱的 K 行][1337]                       |![rs]
 [1338][1338l]|[数组大小减半][1338]                                  |![rb]
 [1342][1342l]|[将数字变成 0 的操作次数][1342]                       |![rb]&nbsp;&nbsp;![rs]
+[1343][1343l]|[大小为 K 且平均值大于等于阈值的子数组数目][1343]     |![rb]&nbsp;&nbsp;![rs]
 [1344][1344l]|[时钟指针的夹角][1344]                                |![rs]
 [1346][1346l]|[检查整数及其两倍数是否存在][1346]                    |![rs]
 [1347][1347l]|[制造字母异位词的最小步骤数][1347]                    |![rs]
@@ -1282,6 +1283,7 @@
 [1337]:./Easy/1337-The%20K%20Weakest%20Rows%20in%20a%20Matrix/README_CN.md#1337-方阵中战斗力最弱的-K-行
 [1338]:./Medium/1338-Reduce%20Array%20Size%20to%20The%20Half/README_CN.md#1338-数组大小减半
 [1342]:./Easy/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/README_CN.md#1342-将数字变成-0-的操作次数
+[1343]:./Medium/1343-Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold/README_CN.md#1343-大小为-k-且平均值大于等于阈值的子数组数目
 [1344]:./Medium/1344-Angle%20Between%20Hands%20of%20a%20Clock/README_CN.md#1344-时钟指针的夹角
 [1346]:./Easy/1346-Check%20If%20N%20and%20Its%20Double%20Exist/README_CN.md#1346-检查整数及其两倍数是否存在
 [1347]:./Medium/1347-Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram/README_CN.md#1347-制造字母异位词的最小步骤数
@@ -2004,6 +2006,7 @@
 [1337l]:https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/
 [1338l]:https://leetcode-cn.com/problems/reduce-array-size-to-the-half/
 [1342l]:https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+[1343l]:https://leetcode-cn.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
 [1344l]:https://leetcode-cn.com/problems/angle-between-hands-of-a-clock/
 [1346l]:https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/
 [1347l]:https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
