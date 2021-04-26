@@ -219,6 +219,7 @@
 [427][427l]  |[建立四叉树][427]                                     |![py]
 [429][429l]  |[N叉树的层序遍历][429]                                |![py]&nbsp;&nbsp;![rb]
 [430][430l]  |[扁平化多级双向链表][430]                             |![rb]
+[433][433l]  |[最小基因变化][433]                                   |![py]&nbsp;&nbsp;![rb]
 [434][434l]  |[字符串中的单词数][434]                               |![py]
 [437][437l]  |[路径总和 III][437]                                   |![py]
 [441][441l]  |[排列硬币][441]                                       |![py]
@@ -937,6 +938,7 @@
 [427]:./Medium/0427-Construct%20Quad%20Tree/README_CN.md#427-建立四叉树
 [429]:./Medium/0429-N-ary%20Tree%20Level%20Order%20Traversal/README_CN.md#429-n叉树的层序遍历
 [430]:./Medium/0430-Flatten%20a%20Multilevel%20Doubly%20Linked%20List/README_CN.md#430-扁平化多级双向链表
+[433]:./Medium/0433-Minimum%20Genetic%20Mutation/README_CN.md#433-最小基因变化
 [434]:./Easy/0434-Number%20of%20Segments%20in%20a%20String/README_CN.md#434-字符串中的单词数
 [437]:./Easy/0437-Path%20Sum%20III/README_CN.md#437-路径总和-iii
 [441]:./Easy/0441-Arranging%20Coins/README_CN.md#441-排列硬币
@@ -1658,6 +1660,7 @@
 [427l]:https://leetcode-cn.com/problems/construct-quad-tree/
 [429l]:https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/
 [430l]:https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
+[433l]:https://leetcode-cn.com/problems/minimum-genetic-mutation/
 [434l]:https://leetcode-cn.com/problems/number-of-segments-in-a-string/
 [437l]:https://leetcode-cn.com/problems/path-sum-iii/
 [441l]:https://leetcode-cn.com/problems/arranging-coins/

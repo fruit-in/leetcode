@@ -219,6 +219,7 @@
 [427][427l]  |[Construct Quad Tree][427]                                                            |![py]
 [429][429l]  |[N-ary Tree Level Order Traversal][429]                                               |![py]&nbsp;&nbsp;![rb]
 [430][430l]  |[Flatten a Multilevel Doubly Linked List][430]                                        |![rb]
+[433][433l]  |[Minimum Genetic Mutation][433]                                                       |![py]&nbsp;&nbsp;![rb]
 [434][434l]  |[Number of Segments in a String][434]                                                 |![py]
 [437][437l]  |[Path Sum III][437]                                                                   |![py]
 [441][441l]  |[Arranging Coins][441]                                                                |![py]
@@ -937,6 +938,7 @@
 [427]:./Medium/0427-Construct%20Quad%20Tree/README.md#427-construct-quad-tree
 [429]:./Medium/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#429-n-ary-tree-level-order-traversal
 [430]:./Medium/0430-Flatten%20a%20Multilevel%20Doubly%20Linked%20List/README.md#430-flatten-a-multilevel-doubly-linked-list
+[433]:./Medium/0433-Minimum%20Genetic%20Mutation/README.md#433-minimum-genetic-mutation
 [434]:./Easy/0434-Number%20of%20Segments%20in%20a%20String/README.md#434-number-of-segments-in-a-string
 [437]:./Easy/0437-Path%20Sum%20III/README.md#437-path-sum-iii
 [441]:./Easy/0441-Arranging%20Coins/README.md#441-arranging-coins
@@ -1658,6 +1660,7 @@
 [427l]:https://leetcode.com/problems/construct-quad-tree/
 [429l]:https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 [430l]:https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+[433l]:https://leetcode.com/problems/minimum-genetic-mutation/
 [434l]:https://leetcode.com/problems/number-of-segments-in-a-string/
 [437l]:https://leetcode.com/problems/path-sum-iii/
 [441l]:https://leetcode.com/problems/arranging-coins/
