@@ -222,6 +222,7 @@
 [433][433l]  |[Minimum Genetic Mutation][433]                                                       |![py]&nbsp;&nbsp;![rb]
 [434][434l]  |[Number of Segments in a String][434]                                                 |![py]
 [437][437l]  |[Path Sum III][437]                                                                   |![py]
+[438][438l]  |[Find All Anagrams in a String][438]                                                  |![rb]&nbsp;&nbsp;![rs]
 [441][441l]  |[Arranging Coins][441]                                                                |![py]
 [442][442l]  |[Find All Duplicates in an Array][442]                                                |![rs]
 [443][443l]  |[String Compression][443]                                                             |![py]
@@ -941,6 +942,7 @@
 [433]:./Medium/0433-Minimum%20Genetic%20Mutation/README.md#433-minimum-genetic-mutation
 [434]:./Easy/0434-Number%20of%20Segments%20in%20a%20String/README.md#434-number-of-segments-in-a-string
 [437]:./Easy/0437-Path%20Sum%20III/README.md#437-path-sum-iii
+[438]:./Medium/0438-Find%20All%20Anagrams%20in%20a%20String/README.md#438-find-all-anagrams-in-a-string
 [441]:./Easy/0441-Arranging%20Coins/README.md#441-arranging-coins
 [442]:./Medium/0442-Find%20All%20Duplicates%20in%20an%20Array/README.md#442-find-all-duplicates-in-an-array
 [443]:./Easy/0443-String%20Compression/README.md#443-string-compression
@@ -1663,6 +1665,7 @@
 [433l]:https://leetcode.com/problems/minimum-genetic-mutation/
 [434l]:https://leetcode.com/problems/number-of-segments-in-a-string/
 [437l]:https://leetcode.com/problems/path-sum-iii/
+[438l]:https://leetcode.com/problems/find-all-anagrams-in-a-string/
 [441l]:https://leetcode.com/problems/arranging-coins/
 [442l]:https://leetcode.com/problems/find-all-duplicates-in-an-array/
 [443l]:https://leetcode.com/problems/string-compression/
