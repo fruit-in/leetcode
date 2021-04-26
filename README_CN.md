@@ -213,6 +213,7 @@
 [413][413l]  |[等差数列划分][413]                                   |![rb]&nbsp;&nbsp;![rs]
 [414][414l]  |[第三大的数][414]                                     |![rs]
 [415][415l]  |[字符串相加][415]                                     |![py]
+[416][416l]  |[分割等和子集][416]                                   |![rb]&nbsp;&nbsp;![rs]
 [419][419l]  |[甲板上的战舰][419]                                   |![rs]
 [423][423l]  |[从英文中重建数字][423]                               |![rs]
 [427][427l]  |[建立四叉树][427]                                     |![py]
@@ -930,6 +931,7 @@
 [413]:./Medium/0413-Arithmetic%20Slices/README_CN.md#413-等差数列划分
 [414]:./Easy/0414-Third%20Maximum%20Number/README_CN.md#414-第三大的数
 [415]:./Easy/0415-Add%20Strings/README_CN.md#415-字符串相加
+[416]:./Medium/0416-Partition%20Equal%20Subset%20Sum/README_CN.md#416-分割等和子集
 [419]:./Medium/0419-Battleships%20in%20a%20Board/README_CN.md#419-甲板上的战舰
 [423]:./Medium/0423-Reconstruct%20Original%20Digits%20from%20English/README_CN.md#423-从英文中重建数字
 [427]:./Medium/0427-Construct%20Quad%20Tree/README_CN.md#427-建立四叉树
@@ -1649,6 +1651,7 @@
 [413l]:https://leetcode-cn.com/problems/arithmetic-slices/
 [414l]:https://leetcode-cn.com/problems/third-maximum-number/
 [415l]:https://leetcode-cn.com/problems/add-strings/
+[416l]:https://leetcode-cn.com/problems/partition-equal-subset-sum/
 [419l]:https://leetcode-cn.com/problems/battleships-in-a-board/
 [421l]:https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/
 [423l]:https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/
