@@ -287,6 +287,7 @@
 [563][563l]  |[二叉树的坡度][563]                                   |![py]
 [565][565l]  |[数组嵌套][565]                                       |![rb]&nbsp;&nbsp;![rs]
 [566][566l]  |[重塑矩阵][566]                                       |![rs]
+[567][567l]  |[字符串的排列][567]                                   |![rb]&nbsp;&nbsp;![rs]
 [572][572l]  |[另一个树的子树][572]                                 |![py]
 [575][575l]  |[分糖果][575]                                         |![rs]
 [581][581l]  |[最短无序连续子数组][581]                             |![rs]
@@ -1008,6 +1009,7 @@
 [563]:./Easy/0563-Binary%20Tree%20Tilt/README_CN.md#563-二叉树的坡度
 [565]:./Medium/0565-Array%20Nesting/README_CN.md#565-数组嵌套
 [566]:./Easy/0566-Reshape%20the%20Matrix/README_CN.md#566-重塑矩阵
+[567]:./Medium/0567-Permutation%20in%20String/README_CN.md#567-字符串的排列
 [572]:./Easy/0572-Subtree%20of%20Another%20Tree/README_CN.md#572-另一个树的子树
 [575]:./Easy/0575-Distribute%20Candies/README_CN.md#575-分糖果
 [581]:./Easy/0581-Shortest%20Unsorted%20Continuous%20Subarray/README_CN.md#581-最短无序连续子数组
@@ -1732,6 +1734,7 @@
 [563l]:https://leetcode-cn.com/problems/binary-tree-tilt/
 [565l]:https://leetcode-cn.com/problems/array-nesting/
 [566l]:https://leetcode-cn.com/problems/reshape-the-matrix/
+[567l]:https://leetcode-cn.com/problems/permutation-in-string/
 [572l]:https://leetcode-cn.com/problems/subtree-of-another-tree/
 [575l]:https://leetcode-cn.com/problems/distribute-candies/
 [581l]:https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/

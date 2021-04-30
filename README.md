@@ -287,6 +287,7 @@
 [563][563l]  |[Binary Tree Tilt][563]                                                               |![py]
 [565][565l]  |[Array Nesting][565]                                                                  |![rb]&nbsp;&nbsp;![rs]
 [566][566l]  |[Reshape the Matrix][566]                                                             |![rs]
+[567][567l]  |[Permutation in String][567]                                                          |![rb]&nbsp;&nbsp;![rs]
 [572][572l]  |[Subtree of Another Tree][572]                                                        |![py]
 [575][575l]  |[Distribute Candies][575]                                                             |![rs]
 [581][581l]  |[Shortest Unsorted Continuous Subarray][581]                                          |![rs]
@@ -1008,6 +1009,7 @@
 [563]:./Easy/0563-Binary%20Tree%20Tilt/README.md#563-binary-tree-tilt
 [565]:./Medium/0565-Array%20Nesting/README.md#565-array-nesting
 [566]:./Easy/0566-Reshape%20the%20Matrix/README.md#566-reshape-the-matrix
+[567]:./Medium/0567-Permutation%20in%20String/README.md#567-permutation-in-string
 [572]:./Easy/0572-Subtree%20of%20Another%20Tree/README.md#572-subtree-of-another-tree
 [575]:./Easy/0575-Distribute%20Candies/README.md#575-distribute-candies
 [581]:./Easy/0581-Shortest%20Unsorted%20Continuous%20Subarray/README.md#581-shortest-unsorted-continuous-subarray
@@ -1732,6 +1734,7 @@
 [563l]:https://leetcode.com/problems/binary-tree-tilt/
 [565l]:https://leetcode.com/problems/array-nesting/
 [566l]:https://leetcode.com/problems/reshape-the-matrix/
+[567l]:https://leetcode.com/problems/permutation-in-string/
 [572l]:https://leetcode.com/problems/subtree-of-another-tree/
 [575l]:https://leetcode.com/problems/distribute-candies/
 [581l]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
