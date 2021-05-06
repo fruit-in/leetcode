@@ -419,6 +419,7 @@
 [901][901l]  |[Online Stock Span][901]                                                              |![rs]
 [905][905l]  |[Sort Array By Parity][905]                                                           |![rs]
 [908][908l]  |[Smallest Range I][908]                                                               |![rs]
+[911][911l]  |[Online Election][911]                                                                |![rs]
 [912][912l]  |[Sort an Array][912]                                                                  |![rs]
 [914][914l]  |[X of a Kind in a Deck of Cards][914]                                                 |![rs]
 [915][915l]  |[Partition Array into Disjoint Intervals][915]                                        |![rb]&nbsp;&nbsp;![rs]
@@ -1141,6 +1142,7 @@
 [901]:./Medium/0901-Online%20Stock%20Span/README.md#901-online-stock-span
 [905]:./Easy/0905-Sort%20Array%20By%20Parity/README.md#905-sort-array-by-parity
 [908]:./Easy/0908-Smallest%20Range%20I/README.md#908-smallest-range-i
+[911]:./Medium/0911-Online%20Election/README.md#911-online-election
 [912]:./Medium/0912-Sort%20an%20Array/README.md#912-sort-an-array
 [914]:./Easy/0914-X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/README.md#914-x-of-a-kind-in-a-deck-of-cards
 [915]:./Medium/0915-Partition%20Array%20into%20Disjoint%20Intervals/README.md#915-partition-array-into-disjoint-intervals
@@ -1869,6 +1871,7 @@
 [901l]:https://leetcode.com/problems/online-stock-span/
 [905l]:https://leetcode.com/problems/sort-array-by-parity/
 [908l]:https://leetcode.com/problems/smallest-range-i/
+[911l]:https://leetcode.com/problems/online-election/
 [912l]:https://leetcode.com/problems/sort-an-array/
 [914l]:https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
 [915l]:https://leetcode.com/problems/partition-array-into-disjoint-intervals/
