@@ -340,6 +340,7 @@
 [706][706l]  |[设计哈希映射][706]                                   |![rs]
 [707][707l]  |[设计链表][707]                                       |![py]
 [709][709l]  |[转换成小写字母][709]                                 |![rs]
+[713][713l]  |[乘积小于K的子数组][713]                              |![rb]&nbsp;&nbsp;![rs]
 [717][717l]  |[1比特与2比特字符][717]                               |![rs]
 [720][720l]  |[词典中最长的单词][720]                               |![py]
 [724][724l]  |[寻找数组的中心索引][724]                             |![rb]&nbsp;&nbsp;![rs]
@@ -1063,6 +1064,7 @@
 [706]:./Easy/0706-Design%20HashMap/README_CN.md#706-设计哈希映射
 [707]:./Medium/0707-Design%20Linked%20List/README_CN.md#707-设计链表
 [709]:./Easy/0709-To%20Lower%20Case/README_CN.md#709-转换成小写字母
+[713]:./Medium/0713-Subarray%20Product%20Less%20Than%20K/README_CN.md#713-乘积小于k的子数组
 [717]:./Easy/0717-1-bit%20and%202-bit%20Characters/README_CN.md#717-1比特与2比特字符
 [720]:./Easy/0720-Longest%20Word%20in%20Dictionary/README_CN.md#720-词典中最长的单词
 [724]:./Easy/0724-Find%20Pivot%20Index/README_CN.md#724-寻找数组的中心索引
@@ -1792,6 +1794,7 @@
 [706l]:https://leetcode-cn.com/problems/design-hashmap/
 [707l]:https://leetcode-cn.com/problems/design-linked-list/
 [709l]:https://leetcode-cn.com/problems/to-lower-case/
+[713l]:https://leetcode-cn.com/problems/subarray-product-less-than-k/
 [717l]:https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/
 [720l]:https://leetcode-cn.com/problems/longest-word-in-dictionary/
 [724l]:https://leetcode-cn.com/problems/find-pivot-index/
