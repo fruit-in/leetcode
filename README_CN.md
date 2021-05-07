@@ -535,6 +535,7 @@
 [1237][1237l]|[找出给定方程的正整数解][1237]                        |![py]
 [1238][1238l]|[循环码排列][1238]                                    |![rs]
 [1247][1247l]|[交换字符使得字符串相同][1247]                        |![py]
+[1248][1248l]|[统计「优美子数组」][1248]                            |![rb]&nbsp;&nbsp;![rs]
 [1249][1249l]|[移除无效的括号][1249]                                |![rs]
 [1252][1252l]|[奇数值单元格的数目][1252]                            |![rs]
 [1253][1253l]|[重构 2 行二进制矩阵][1253]                           |![rb]&nbsp;&nbsp;![rs]
@@ -1260,6 +1261,7 @@
 [1237]:./Easy/1237-Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/README_CN.md#1237-找出给定方程的正整数解
 [1238]:./Medium/1238-Circular%20Permutation%20in%20Binary%20Representation/README_CN.md#1238-循环码排列
 [1247]:./Medium/1247-Minimum%20Swaps%20to%20Make%20Strings%20Equal/README_CN.md#1247-交换字符使得字符串相同
+[1248]:./Medium/1248-Count%20Number%20of%20Nice%20Subarrays/README_CN.md#1248-统计优美子数组
 [1249]:./Medium/1249-Minimum%20Remove%20to%20Make%20Valid%20Parentheses/README_CN.md#1249-移除无效的括号
 [1252]:./Easy/1252-Cells%20with%20Odd%20Values%20in%20a%20Matrix/README_CN.md#1252-奇数值单元格的数目
 [1253]:./Medium/1253-Reconstruct%20a%202-Row%20Binary%20Matrix/README_CN.md#1253-重构-2-行二进制矩阵
@@ -1991,6 +1993,7 @@
 [1237l]:https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation/
 [1238l]:https://leetcode-cn.com/problems/circular-permutation-in-binary-representation/
 [1247l]:https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal/
+[1248l]:https://leetcode-cn.com/problems/count-number-of-nice-subarrays/
 [1249l]:https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/
 [1252l]:https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix/
 [1253l]:https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix/
