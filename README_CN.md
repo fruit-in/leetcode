@@ -537,6 +537,7 @@
 [1247][1247l]|[交换字符使得字符串相同][1247]                        |![py]
 [1249][1249l]|[移除无效的括号][1249]                                |![rs]
 [1252][1252l]|[奇数值单元格的数目][1252]                            |![rs]
+[1253][1253l]|[重构 2 行二进制矩阵][1253]                           |![rb]&nbsp;&nbsp;![rs]
 [1260][1260l]|[二维网格迁移][1260]                                  |![rs]
 [1261][1261l]|[在受污染的二叉树中查找元素][1261]                    |![py]
 [1262][1262l]|[可被三整除的最大和][1262]                            |![rs]
@@ -1261,6 +1262,7 @@
 [1247]:./Medium/1247-Minimum%20Swaps%20to%20Make%20Strings%20Equal/README_CN.md#1247-交换字符使得字符串相同
 [1249]:./Medium/1249-Minimum%20Remove%20to%20Make%20Valid%20Parentheses/README_CN.md#1249-移除无效的括号
 [1252]:./Easy/1252-Cells%20with%20Odd%20Values%20in%20a%20Matrix/README_CN.md#1252-奇数值单元格的数目
+[1253]:./Medium/1253-Reconstruct%20a%202-Row%20Binary%20Matrix/README_CN.md#1253-重构-2-行二进制矩阵
 [1260]:./Easy/1260-Shift%202D%20Grid/README_CN.md#1260-二维网格迁移
 [1261]:./Medium/1261-Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree/README_CN.md#1261-在受污染的二叉树中查找元素
 [1262]:./Medium/1262-Greatest%20Sum%20Divisible%20by%20Three/README_CN.md#1262-可被三整除的最大和
@@ -1991,6 +1993,7 @@
 [1247l]:https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal/
 [1249l]:https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/
 [1252l]:https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix/
+[1253l]:https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix/
 [1260l]:https://leetcode-cn.com/problems/shift-2d-grid/
 [1261l]:https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree/
 [1262l]:https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/
