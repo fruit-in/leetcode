@@ -372,6 +372,7 @@
 [806][806l]  |[写字符串需要的行数][806]                             |![py]
 [807][807l]  |[保持城市天际线][807]                                 |![rs]
 [808][808l]  |[分汤][808]                                           |![rs]
+[809][809l]  |[情感丰富的文字][809]                                 |![rs]
 [811][811l]  |[子域名访问计数][811]                                 |![rs]
 [812][812l]  |[最大三角形面积][812]                                 |![rs]
 [814][814l]  |[二叉树剪枝][814]                                     |![py]&nbsp;&nbsp;![rb]
@@ -1099,6 +1100,7 @@
 [806]:./Easy/0806-Number%20of%20Lines%20To%20Write%20String/README_CN.md#806-写字符串需要的行数
 [807]:./Medium/0807-Max%20Increase%20to%20Keep%20City%20Skyline/README_CN.md#807-保持城市天际线
 [808]:./Medium/0808-Soup%20Servings/README_CN.md#808-分汤
+[809]:./Medium/0809-Expressive%20Words/README_CN.md#809-情感丰富的文字
 [811]:./Easy/0811-Subdomain%20Visit%20Count/README_CN.md#811-子域名访问计数
 [812]:./Easy/0812-Largest%20Triangle%20Area/README_CN.md#812-最大三角形面积
 [814]:./Medium/0814-Binary%20Tree%20Pruning/README_CN.md#814-二叉树剪枝
@@ -1832,6 +1834,7 @@
 [806l]:https://leetcode-cn.com/problems/number-of-lines-to-write-string/
 [807l]:https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/
 [808l]:https://leetcode-cn.com/problems/soup-servings/
+[809l]:https://leetcode-cn.com/problems/expressive-words/
 [811l]:https://leetcode-cn.com/problems/subdomain-visit-count/
 [812l]:https://leetcode-cn.com/problems/largest-triangle-area/
 [814l]:https://leetcode-cn.com/problems/binary-tree-pruning/

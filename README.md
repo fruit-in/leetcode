@@ -372,6 +372,7 @@
 [806][806l]  |[Number of Lines To Write String][806]                                                |![py]
 [807][807l]  |[Max Increase to Keep City Skyline][807]                                              |![rs]
 [808][808l]  |[Soup Servings][808]                                                                  |![rs]
+[809][809l]  |[Expressive Words][809]                                                               |![rs]
 [811][811l]  |[Subdomain Visit Count][811]                                                          |![rs]
 [812][812l]  |[Largest Triangle Area][812]                                                          |![rs]
 [814][814l]  |[Binary Tree Pruning][814]                                                            |![py]&nbsp;&nbsp;![rb]
@@ -1099,6 +1100,7 @@
 [806]:./Easy/0806-Number%20of%20Lines%20To%20Write%20String/README.md#806-number-of-lines-to-write-string
 [807]:./Medium/0807-Max%20Increase%20to%20Keep%20City%20Skyline/README.md#807-max-increase-to-keep-city-skyline
 [808]:./Medium/0808-Soup%20Servings/README.md#808-soup-servings
+[809]:./Medium/0809-Expressive%20Words/README.md#809-expressive-words
 [811]:./Easy/0811-Subdomain%20Visit%20Count/README.md#811-subdomain-visit-count
 [812]:./Easy/0812-Largest%20Triangle%20Area/README.md#812-largest-triangle-area
 [814]:./Medium/0814-Binary%20Tree%20Pruning/README.md#814-binary-tree-pruning
@@ -1832,6 +1834,7 @@
 [806l]:https://leetcode.com/problems/number-of-lines-to-write-string/
 [807l]:https://leetcode.com/problems/max-increase-to-keep-city-skyline/
 [808l]:https://leetcode.com/problems/soup-servings/
+[809l]:https://leetcode.com/problems/expressive-words/
 [811l]:https://leetcode.com/problems/subdomain-visit-count/
 [812l]:https://leetcode.com/problems/largest-triangle-area/
 [814l]:https://leetcode.com/problems/binary-tree-pruning/
