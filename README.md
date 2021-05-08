@@ -720,6 +720,7 @@
 [1752][1752l]|[Check if Array Is Sorted and Rotated][1752]                                          |![rb]&nbsp;&nbsp;![rs]
 [1753][1753l]|[Maximum Score From Removing Stones][1753]                                            |![rb]&nbsp;&nbsp;![rs]
 [1758][1758l]|[Minimum Changes To Make Alternating Binary String][1758]                             |![rb]&nbsp;&nbsp;![rs]
+[1833][1833l]|[Maximum Ice Cream Bars][1833]                                                        |![rs]
 
 
 [py]:./ico/python.ico
@@ -1446,6 +1447,7 @@
 [1752]:./Easy/1752-Check%20if%20Array%20Is%20Sorted%20and%20Rotated/README.md#1752-check-if-array-is-sorted-and-rotated
 [1753]:./Medium/1753-Maximum%20Score%20From%20Removing%20Stones/README.md#1753-maximum-score-from-removing-stones
 [1758]:./Easy/1758-Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/README.md#1758-minimum-changes-to-make-alternating-binary-string
+[1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README.md#1833-maximum-ice-cream-bars
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -2178,3 +2180,4 @@
 [1752l]:https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 [1753l]:https://leetcode.com/problems/maximum-score-from-removing-stones/
 [1758l]:https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
+[1833l]:https://leetcode.com/problems/maximum-ice-cream-bars/
