@@ -358,6 +358,7 @@
 [762][762l]  |[Prime Number of Set Bits in Binary Representation][762]                              |![py]
 [763][763l]  |[Partition Labels][763]                                                               |![rs]
 [766][766l]  |[Toeplitz Matrix][766]                                                                |![rs]
+[769][769l]  |[Max Chunks To Make Sorted][769]                                                      |![rb]&nbsp;&nbsp;![rs]
 [771][771l]  |[Jewels and Stones][771]                                                              |![rs]
 [779][779l]  |[K-th Symbol in Grammar][779]                                                         |![rs]
 [781][781l]  |[Rabbits in Forest][781]                                                              |![rb]&nbsp;&nbsp;![rs]
@@ -1086,6 +1087,7 @@
 [762]:./Easy/0762-Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/README.md#762-prime-number-of-set-bits-in-binary-representation
 [763]:./Medium/0763-Partition%20Labels/README.md#763-partition-labels
 [766]:./Easy/0766-Toeplitz%20Matrix/README.md#766-toeplitz-matrix
+[769]:./Medium/0769-Max%20Chunks%20To%20Make%20Sorted/README.md#769-max-chunks-to-make-sorted
 [771]:./Easy/0771-Jewels%20and%20Stones/README.md#771-jewels-and-stones
 [779]:./Medium/0779-K-th%20Symbol%20in%20Grammar/README.md#779-k-th-symbol-in-grammar
 [781]:./Medium/0781-Rabbits%20in%20Forest/README.md#781-rabbits-in-forest
@@ -1820,6 +1822,7 @@
 [762l]:https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
 [763l]:https://leetcode.com/problems/partition-labels/
 [766l]:https://leetcode.com/problems/toeplitz-matrix/
+[769l]:https://leetcode.com/problems/max-chunks-to-make-sorted/
 [771l]:https://leetcode.com/problems/jewels-and-stones/
 [779l]:https://leetcode.com/problems/k-th-symbol-in-grammar/
 [781l]:https://leetcode.com/problems/rabbits-in-forest/
