@@ -240,6 +240,7 @@
 [461][461l]  |[Hamming Distance][461]                                                               |![rs]
 [462][462l]  |[Minimum Moves to Equal Array Elements II][462]                                       |![rs]
 [463][463l]  |[Island Perimeter][463]                                                               |![rs]
+[467][467l]  |[Unique Substrings in Wraparound String][467]                                         |![rb]&nbsp;&nbsp;![rs]
 [468][468l]  |[Validate IP Address][468]                                                            |![rs]
 [470][470l]  |[Implement Rand10() Using Rand7()][470]                                               |![rs]
 [474][474l]  |[Ones and Zeroes][474]                                                                |![rs]
@@ -971,6 +972,7 @@
 [461]:./Easy/0461-Hamming%20Distance/README.md#461-hamming-distance
 [462]:./Medium/0462-Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/README.md#462-minimum-moves-to-equal-array-elements-ii
 [463]:./Easy/0463-Island%20Perimeter/README.md#463-island-perimeter
+[467]:./Medium/0467-Unique%20Substrings%20in%20Wraparound%20String/README.md#467-unique-substrings-in-wraparound-string
 [468]:./Medium/0468-Validate%20IP%20Address/README.md#468-validate-ip-address
 [470]:./Medium/0470-Implement%20Rand10\(\)%20Using%20Rand7\(\)/README.md#470-implement-rand10-using-rand7
 [474]:./Medium/0474-Ones%20and%20Zeroes/README.md#474-ones-and-zeroes
@@ -1705,6 +1707,7 @@
 [461l]:https://leetcode.com/problems/hamming-distance/
 [462l]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 [463l]:https://leetcode.com/problems/island-perimeter/
+[467l]:https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 [468l]:https://leetcode.com/problems/validate-ip-address/
 [470l]:https://leetcode.com/problems/implement-rand10-using-rand7/
 [474l]:https://leetcode.com/problems/ones-and-zeroes/
