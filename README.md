@@ -203,6 +203,7 @@
 [392][392l]  |[Is Subsequence][392]                                                                 |![rs]
 [393][393l]  |[UTF-8 Validation][393]                                                               |![rs]
 [396][396l]  |[Rotate Function][396]                                                                |![rs]
+[397][397l]  |[Integer Replacement][397]                                                            |![rs]
 [398][398l]  |[Random Pick Index][398]                                                              |![py]
 [400][400l]  |[Nth Digit][400]                                                                      |![rs]
 [401][401l]  |[Binary Watch][401]                                                                   |![py]
@@ -933,6 +934,7 @@
 [392]:./Easy/0392-Is%20Subsequence/README.md#392-is-subsequence
 [393]:./Medium/0393-UTF-8%20Validation/README.md#393-utf-8-validation
 [396]:./Medium/0396-Rotate%20Function/README.md#396-rotate-function
+[397]:./Medium/0397-Integer%20Replacement/README.md#397-integer-replacement
 [398]:./Medium/0398-Random%20Pick%20Index/README.md#398-random-pick-index
 [400]:./Medium/0400-Nth%20Digit/README.md#400-nth-digit
 [401]:./Easy/0401-Binary%20Watch/README.md#401-binary-watch
@@ -1665,6 +1667,7 @@
 [392l]:https://leetcode.com/problems/is-subsequence/
 [393l]:https://leetcode.com/problems/utf-8-validation/
 [396l]:https://leetcode.com/problems/rotate-function/
+[397l]:https://leetcode.com/problems/integer-replacement/
 [398l]:https://leetcode.com/problems/random-pick-index/
 [400l]:https://leetcode.com/problems/nth-digit/
 [401l]:https://leetcode.com/problems/binary-watch/

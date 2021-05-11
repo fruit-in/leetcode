@@ -203,6 +203,7 @@
 [392][392l]  |[判断子序列][392]                                     |![rs]
 [393][393l]  |[UTF-8 编码验证][393]                                 |![rs]
 [396][396l]  |[旋转函数][396]                                       |![rs]
+[397][397l]  |[整数替换][397]                                       |![rs]
 [398][398l]  |[随机数索引][398]                                     |![py]
 [400][400l]  |[第N个数字][400]                                      |![rs]
 [401][401l]  |[二进制手表][401]                                     |![py]
@@ -933,6 +934,7 @@
 [392]:./Easy/0392-Is%20Subsequence/README_CN.md#392-判断子序列
 [393]:./Medium/0393-UTF-8%20Validation/README_CN.md#393-utf-8-编码验证
 [396]:./Medium/0396-Rotate%20Function/README_CN.md#396-旋转函数
+[397]:./Medium/0397-Integer%20Replacement/README_CN.md#397-整数替换
 [398]:./Medium/0398-Random%20Pick%20Index/README_CN.md#398-随机数索引
 [400]:./Medium/0400-Nth%20Digit/README_CN.md#400-第N个数字
 [401]:./Easy/0401-Binary%20Watch/README_CN.md#401-二进制手表
@@ -1665,6 +1667,7 @@
 [392l]:https://leetcode-cn.com/problems/is-subsequence/
 [393l]:https://leetcode-cn.com/problems/utf-8-validation/
 [396l]:https://leetcode-cn.com/problems/rotate-function/
+[397l]:https://leetcode-cn.com/problems/integer-replacement/
 [398l]:https://leetcode-cn.com/problems/random-pick-index/
 [400l]:https://leetcode-cn.com/problems/nth-digit/
 [401l]:https://leetcode-cn.com/problems/binary-watch/
