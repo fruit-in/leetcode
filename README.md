@@ -728,6 +728,7 @@
 [1753][1753l]|[Maximum Score From Removing Stones][1753]                                            |![rb]&nbsp;&nbsp;![rs]
 [1758][1758l]|[Minimum Changes To Make Alternating Binary String][1758]                             |![rb]&nbsp;&nbsp;![rs]
 [1773][1773l]|[Count Items Matching a Rule][1773]                                                   |![rs]
+[1779][1779l]|[Find Nearest Point That Has the Same X or Y Coordinate][1779]                        |![rs]
 [1833][1833l]|[Maximum Ice Cream Bars][1833]                                                        |![rs]
 
 
@@ -1463,6 +1464,7 @@
 [1753]:./Medium/1753-Maximum%20Score%20From%20Removing%20Stones/README.md#1753-maximum-score-from-removing-stones
 [1758]:./Easy/1758-Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/README.md#1758-minimum-changes-to-make-alternating-binary-string
 [1773]:./Easy/1773-Count%20Items%20Matching%20a%20Rule/README.md#1773-count-items-matching-a-rule
+[1779]:./Easy/1779-Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate/README.md#1779-find-nearest-point-that-has-the-same-x-or-y-coordinate
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README.md#1833-maximum-ice-cream-bars
 
 [1l]:https://leetcode.com/problems/two-sum/
@@ -2204,4 +2206,5 @@
 [1753l]:https://leetcode.com/problems/maximum-score-from-removing-stones/
 [1758l]:https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
 [1773l]:https://leetcode.com/problems/count-items-matching-a-rule/
+[1779l]:https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 [1833l]:https://leetcode.com/problems/maximum-ice-cream-bars/
