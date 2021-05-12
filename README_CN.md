@@ -727,6 +727,7 @@
 [1752][1752l]|[检查数组是否经排序和轮转得到][1752]                  |![rb]&nbsp;&nbsp;![rs]
 [1753][1753l]|[移除石子的最大得分][1753]                            |![rb]&nbsp;&nbsp;![rs]
 [1758][1758l]|[生成交替二进制字符串的最少操作数][1758]              |![rb]&nbsp;&nbsp;![rs]
+[1773][1773l]|[统计匹配检索规则的物品数量][1773]                    |![rs]
 [1833][1833l]|[雪糕的最大数量][1833]                                |![rs]
 
 
@@ -1461,6 +1462,7 @@
 [1752]:./Easy/1752-Check%20if%20Array%20Is%20Sorted%20and%20Rotated/README_CN.md#1752-检查数组是否经排序和轮转得到
 [1753]:./Medium/1753-Maximum%20Score%20From%20Removing%20Stones/README_CN.md#1753-移除石子的最大得分
 [1758]:./Easy/1758-Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/README_CN.md#1758-生成交替二进制字符串的最少操作数
+[1773]:./Easy/1773-Count%20Items%20Matching%20a%20Rule/README_CN.md#1773-统计匹配检索规则的物品数量
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README_CN.md#1833-雪糕的最大数量
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
@@ -2201,4 +2203,5 @@
 [1752l]:https://leetcode-cn.com/problems/check-if-array-is-sorted-and-rotated/
 [1753l]:https://leetcode-cn.com/problems/maximum-score-from-removing-stones/
 [1758l]:https://leetcode-cn.com/problems/minimum-changes-to-make-alternating-binary-string/
+[1773l]:https://leetcode-cn.com/problems/count-items-matching-a-rule/
 [1833l]:https://leetcode-cn.com/problems/maximum-ice-cream-bars/
