@@ -558,6 +558,7 @@
 [1286][1286l]|[字母组合迭代器][1286]                                |![rs]
 [1287][1287l]|[有序数组中出现次数超过25%的元素][1287]               |![rs]
 [1290][1290l]|[二进制链表转整数][1290]                              |![py]
+[1291][1291l]|[顺次数][1291]                                        |![rb]&nbsp;&nbsp;![rs]
 [1295][1295l]|[统计位数为偶数的数字][1295]                          |![py]
 [1299][1299l]|[将每个元素替换为右侧最大元素][1299]                  |![rs]
 [1302][1302l]|[层数最深叶子节点的和][1302]                          |![py]
@@ -1290,6 +1291,7 @@
 [1286]:./Medium/1286-Iterator%20for%20Combination/README_CN.md#1286-字母组合迭代器
 [1287]:./Easy/1287-Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array/README_CN.md#1287-有序数组中出现次数超过25的元素
 [1290]:./Easy/1290-Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/README_CN.md#1290-二进制链表转整数
+[1291]:./Medium/1291-Sequential%20Digits/README_CN.md#1291-顺次数
 [1295]:./Easy/1295-Find%20Numbers%20with%20Even%20Number%20of%20Digits/README_CN.md#1295-统计位数为偶数的数字
 [1299]:./Easy/1299-Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/README_CN.md#1299-将每个元素替换为右侧最大元素
 [1302]:./Medium/1302-Deepest%20Leaves%20Sum/README_CN.md#1302-层数最深叶子节点的和
@@ -2028,6 +2030,7 @@
 [1286l]:https://leetcode-cn.com/problems/iterator-for-combination/
 [1287l]:https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array/
 [1290l]:https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+[1291l]:https://leetcode-cn.com/problems/sequential-digits/
 [1295l]:https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/
 [1299l]:https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side/
 [1302l]:https://leetcode-cn.com/problems/deepest-leaves-sum/

@@ -558,6 +558,7 @@
 [1286][1286l]|[Iterator for Combination][1286]                                                      |![rs]
 [1287][1287l]|[Element Appearing More Than 25% In Sorted Array][1287]                               |![rs]
 [1290][1290l]|[Convert Binary Number in a Linked List to Integer][1290]                             |![py]
+[1291][1291l]|[Sequential Digits][1291]                                                             |![rb]&nbsp;&nbsp;![rs]
 [1295][1295l]|[Find Numbers with Even Number of Digits][1295]                                       |![py]
 [1299][1299l]|[Replace Elements with Greatest Element on Right Side][1299]                          |![rs]
 [1302][1302l]|[Deepest Leaves Sum][1302]                                                            |![py]
@@ -1290,6 +1291,7 @@
 [1286]:./Medium/1286-Iterator%20for%20Combination/README.md#1286-iterator-for-combination
 [1287]:./Easy/1287-Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array/README.md#1287-element-appearing-more-than-25-in-sorted-array
 [1290]:./Easy/1290-Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/README.md#1290-convert-binary-number-in-a-linked-list-to-integer
+[1291]:./Medium/1291-Sequential%20Digits/README.md#1291-sequential-digits
 [1295]:./Easy/1295-Find%20Numbers%20with%20Even%20Number%20of%20Digits/README.md#1295-find-numbers-with-even-number-of-digits
 [1299]:./Easy/1299-Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/README.md#1299-replace-elements-with-greatest-element-on-right-side
 [1302]:./Medium/1302-Deepest%20Leaves%20Sum/README.md#1302-deepest-leaves-sum
@@ -2028,6 +2030,7 @@
 [1286l]:https://leetcode.com/problems/iterator-for-combination/
 [1287l]:https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 [1290l]:https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+[1291l]:https://leetcode.com/problems/sequential-digits/
 [1295l]:https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 [1299l]:https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 [1302l]:https://leetcode.com/problems/deepest-leaves-sum/
