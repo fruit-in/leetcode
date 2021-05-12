@@ -723,6 +723,7 @@
 [1736][1736l]|[Latest Time by Replacing Hidden Digits][1736]                                        |![rs]
 [1742][1742l]|[Maximum Number of Balls in a Box][1742]                                              |![py]
 [1748][1748l]|[Sum of Unique Elements][1748]                                                        |![rs]
+[1749][1749l]|[Maximum Absolute Sum of Any Subarray][1749]                                          |![rb]&nbsp;&nbsp;![rs]
 [1752][1752l]|[Check if Array Is Sorted and Rotated][1752]                                          |![rb]&nbsp;&nbsp;![rs]
 [1753][1753l]|[Maximum Score From Removing Stones][1753]                                            |![rb]&nbsp;&nbsp;![rs]
 [1758][1758l]|[Minimum Changes To Make Alternating Binary String][1758]                             |![rb]&nbsp;&nbsp;![rs]
@@ -1456,6 +1457,7 @@
 [1736]:./Easy/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README.md#1736-latest-time-by-replacing-hidden-digits
 [1742]:./Easy/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README.md#1742-maximum-number-of-balls-in-a-box
 [1748]:./Easy/1748-Sum%20of%20Unique%20Elements/README.md#1748-sum-of-unique-elements
+[1749]:./Medium/1749-Maximum%20Absolute%20Sum%20of%20Any%20Subarray/README.md#1749-maximum-absolute-sum-of-any-subarray
 [1752]:./Easy/1752-Check%20if%20Array%20Is%20Sorted%20and%20Rotated/README.md#1752-check-if-array-is-sorted-and-rotated
 [1753]:./Medium/1753-Maximum%20Score%20From%20Removing%20Stones/README.md#1753-maximum-score-from-removing-stones
 [1758]:./Easy/1758-Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/README.md#1758-minimum-changes-to-make-alternating-binary-string
@@ -2195,6 +2197,7 @@
 [1736l]:https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/
 [1742l]:https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
 [1748l]:https://leetcode-cn.com/problems/sum-of-unique-elements/
+[1749l]:https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/
 [1752l]:https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 [1753l]:https://leetcode.com/problems/maximum-score-from-removing-stones/
 [1758l]:https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
