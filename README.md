@@ -660,6 +660,7 @@
 [1528][1528l]|[Shuffle String][1528]                                                                |![py]&nbsp;&nbsp;![rb]
 [1529][1529l]|[Bulb Switcher IV][1529]                                                              |![rs]
 [1534][1534l]|[Count Good Triplets][1534]                                                           |![rb]
+[1535][1535l]|[Find the Winner of an Array Game][1535]                                              |![rb]&nbsp;&nbsp;![rs]
 [1539][1539l]|[Kth Missing Positive Number][1539]                                                   |![rs]
 [1544][1544l]|[Make The String Great][1544]                                                         |![rb]
 [1545][1545l]|[Find Kth Bit in Nth Binary String][1545]                                             |![rs]
@@ -1396,6 +1397,7 @@
 [1528]:./Easy/1528-Shuffle%20String/README.md#1528-shuffle-string
 [1529]:./Medium/1529-Bulb%20Switcher%20IV/README.md#1529-bulb-switcher-iv
 [1534]:./Easy/1534-Count%20Good%20Triplets/README.md#1534-count-good-triplets
+[1535]:./Medium/1535-Find%20the%20Winner%20of%20an%20Array%20Game/README.md#1535-find-the-winner-of-an-array-game
 [1539]:./Easy/1539-Kth%20Missing%20Positive%20Number/README.md#1539-kth-missing-positive-number
 [1544]:./Easy/1544-Make%20The%20String%20Great/README.md#1544-make-the-string-great
 [1545]:./Medium/1545-Find%20Kth%20Bit%20in%20Nth%20Binary%20String/README.md#1545-find-kth-bit-in-nth-binary-string
@@ -2138,6 +2140,7 @@
 [1528l]:https://leetcode.com/problems/shuffle-string/
 [1529l]:https://leetcode.com/problems/bulb-switcher-iv/
 [1534l]:https://leetcode.com/problems/count-good-triplets/
+[1535l]:https://leetcode.com/problems/find-the-winner-of-an-array-game/
 [1539l]:https://leetcode.com/problems/kth-missing-positive-number/
 [1544l]:https://leetcode.com/problems/make-the-string-great/
 [1545l]:https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/
