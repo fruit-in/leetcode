@@ -732,6 +732,7 @@
 [1768][1768l]|[交替合并字符串][1768]                                |![rs]
 [1773][1773l]|[统计匹配检索规则的物品数量][1773]                    |![rs]
 [1779][1779l]|[找到最近的有相同 X 或 Y 坐标的点][1779]              |![rs]
+[1784][1784l]|[检查二进制字符串字段][1784]                          |![rb]&nbsp;&nbsp;![rs]
 [1833][1833l]|[雪糕的最大数量][1833]                                |![rs]
 
 
@@ -1471,6 +1472,7 @@
 [1768]:./Easy/1768-Merge%20Strings%20Alternately/README_CN.md#1768-交替合并字符串
 [1773]:./Easy/1773-Count%20Items%20Matching%20a%20Rule/README_CN.md#1773-统计匹配检索规则的物品数量
 [1779]:./Easy/1779-Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate/README_CN.md#1779-找到最近的有相同-x-或-y-坐标的点
+[1784]:./Easy/1784-Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/README_CN.md#1784-检查二进制字符串字段
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README_CN.md#1833-雪糕的最大数量
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
@@ -2216,4 +2218,5 @@
 [1768l]:https://leetcode-cn.com/problems/merge-strings-alternately/
 [1773l]:https://leetcode-cn.com/problems/count-items-matching-a-rule/
 [1779l]:https://leetcode-cn.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
+[1784l]:https://leetcode-cn.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 [1833l]:https://leetcode-cn.com/problems/maximum-ice-cream-bars/
