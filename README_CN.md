@@ -715,6 +715,7 @@
 [1700][1700l]|[无法吃午餐的学生数量][1700]                          |![rb]&nbsp;&nbsp;![rs]
 [1701][1701l]|[平均等待时间][1701]                                  |![rb]&nbsp;&nbsp;![rs]
 [1704][1704l]|[判断字符串的两半是否相似][1704]                      |![rb]&nbsp;&nbsp;![rs]
+[1705][1705l]|[吃苹果的最大数目][1705]                              |![rs]
 [1710][1710l]|[卡车上的最大单元数][1710]                            |![rs]
 [1716][1716l]|[计算力扣银行的钱][1716]                              |![rb]&nbsp;&nbsp;![rs]
 [1720][1720l]|[解码异或后的数组][1720]                              |![rb]&nbsp;&nbsp;![rs]
@@ -1455,6 +1456,7 @@
 [1700]:./Easy/1700-Number%20of%20Students%20Unable%20to%20Eat%20Lunch/README_CN.md#1700-无法吃午餐的学生数量
 [1701]:./Medium/1701-Average%20Waiting%20Time/README_CN.md#1701-平均等待时间
 [1704]:./Easy/1704-Determine%20if%20String%20Halves%20Are%20Alike/README_CN.md#1704-判断字符串的两半是否相似
+[1705]:./Medium/1705-Maximum%20Number%20of%20Eaten%20Apples/README_CN.md#1705-吃苹果的最大数目
 [1710]:./Easy/1710-Maximum%20Units%20on%20a%20Truck/README_CN.md#1710-卡车上的最大单元数
 [1716]:./Easy/1716-Calculate%20Money%20in%20Leetcode%20Bank/README_CN.md#1716-计算力扣银行的钱
 [1720]:./Easy/1720-Decode%20XORed%20Array/README_CN.md#1720-解码异或后的数组
@@ -2201,6 +2203,7 @@
 [1700l]:https://leetcode-cn.com/problems/number-of-students-unable-to-eat-lunch/
 [1701l]:https://leetcode-cn.com/problems/average-waiting-time/
 [1704l]:https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/
+[1705l]:https://leetcode-cn.com/problems/maximum-number-of-eaten-apples/
 [1710l]:https://leetcode-cn.com/problems/maximum-units-on-a-truck/
 [1716l]:https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/
 [1720l]:https://leetcode-cn.com/problems/decode-xored-array/
