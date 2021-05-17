@@ -97,6 +97,7 @@
 [134][134l]  |[Gas Station][134]                                                                    |![rb]&nbsp;&nbsp;![rs]
 [136][136l]  |[Single Number][136]                                                                  |![rs]
 [138][138l]  |[Copy List with Random Pointer][138]                                                  |![py]
+[139][139l]  |[Word Break][139]                                                                     |![py]&nbsp;&nbsp;![rb]
 [141][141l]  |[Linked List Cycle][141]                                                              |![py]
 [144][144l]  |[Binary Tree Preorder Traversal][144]                                                 |![py]
 [145][145l]  |[Binary Tree Postorder Traversal][145]                                                |![py]
@@ -838,6 +839,7 @@
 [134]:./Medium/0134-Gas%20Station/README.md#134-gas-station
 [136]:./Easy/0136-Single%20Number/README.md#136-single-number
 [138]:./Medium/0138-Copy%20List%20with%20Random%20Pointer/README.md#138-copy-list-with-random-pointer
+[139]:./Medium/0139-Word%20Break/README.md#139-word-break
 [141]:./Easy/0141-Linked%20List%20Cycle/README.md#141-linked-list-cycle
 [144]:./Medium/0144-Binary%20Tree%20Preorder%20Traversal/README.md#144-binary-tree-preorder-traversal
 [145]:./Hard/0145-Binary%20Tree%20Postorder%20Traversal/README.md#145-binary-tree-postorder-traversal
@@ -1575,6 +1577,7 @@
 [134l]:https://leetcode.com/problems/gas-station/
 [136l]:https://leetcode.com/problems/single-number/
 [138l]:https://leetcode.com/problems/copy-list-with-random-pointer/
+[139l]:https://leetcode.com/problems/word-break/
 [141l]:https://leetcode.com/problems/linked-list-cycle/
 [142l]:https://leetcode.com/problems/linked-list-cycle-ii/
 [144l]:https://leetcode.com/problems/binary-tree-preorder-traversal/

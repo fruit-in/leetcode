@@ -97,6 +97,7 @@
 [134][134l]  |[加油站][134]                                         |![rb]&nbsp;&nbsp;![rs]
 [136][136l]  |[只出现一次的数字][136]                               |![rs]
 [138][138l]  |[复制带随机指针的链表][138]                           |![py]
+[139][139l]  |[单词拆分][139]                                       |![py]&nbsp;&nbsp;![rb]
 [141][141l]  |[环形链表][141]                                       |![py]
 [144][144l]  |[二叉树的前序遍历][144]                               |![py]
 [145][145l]  |[二叉树的后序遍历][145]                               |![py]
@@ -838,6 +839,7 @@
 [134]:./Medium/0134-Gas%20Station/README_CN.md#134-加油站
 [136]:./Easy/0136-Single%20Number/README_CN.md#136-只出现一次的数字
 [138]:./Medium/0138-Copy%20List%20with%20Random%20Pointer/README_CN.md#138-复制带随机指针的链表
+[139]:./Medium/0139-Word%20Break/README_CN.md#139-单词拆分
 [141]:./Easy/0141-Linked%20List%20Cycle/README_CN.md#141-环形链表
 [144]:./Medium/0144-Binary%20Tree%20Preorder%20Traversal/README_CN.md#144-二叉树的前序遍历
 [145]:./Hard/0145-Binary%20Tree%20Postorder%20Traversal/README_CN.md#145-二叉树的后序遍历
@@ -1575,6 +1577,7 @@
 [134l]:https://leetcode-cn.com/problems/gas-station/
 [136l]:https://leetcode-cn.com/problems/single-number/
 [138l]:https://leetcode-cn.com/problems/copy-list-with-random-pointer/
+[139l]:https://leetcode-cn.com/problems/word-break/
 [141l]:https://leetcode-cn.com/problems/linked-list-cycle/
 [142l]:https://leetcode-cn.com/problems/linked-list-cycle-ii/
 [144l]:https://leetcode-cn.com/problems/binary-tree-preorder-traversal/
