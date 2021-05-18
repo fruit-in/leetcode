@@ -268,6 +268,7 @@
 [518][518l]  |[Coin Change 2][518]                                                                  |![rs]
 [520][520l]  |[Detect Capital][520]                                                                 |![rs]
 [521][521l]  |[Longest Uncommon Subsequence I][521]                                                 |![rb]&nbsp;&nbsp;![rs]
+[525][525l]  |[Contiguous Array][525]                                                               |![rb]&nbsp;&nbsp;![rs]
 [529][529l]  |[Minesweeper][529]                                                                    |![rs]
 [530][530l]  |[Minimum Absolute Difference in BST][530]                                             |![py]
 [532][532l]  |[K-diff Pairs in an Array][532]                                                       |![rs]
@@ -1010,6 +1011,7 @@
 [518]:./Medium/0518-Coin%20Change%202/README.md#518-coin-change-2
 [520]:./Easy/0520-Detect%20Capital/README.md#520-detect-capital
 [521]:./Easy/0521-Longest%20Uncommon%20Subsequence%20I/README.md#521-longest-uncommon-subsequence-i
+[525]:./Medium/0525-Contiguous%20Array/README.md#525-contiguous-array
 [529]:./Medium/0529-Minesweeper/README.md#529-minesweeper
 [530]:./Easy/0530-Minimum%20Absolute%20Difference%20in%20BST/README.md#530-minimum-absolute-difference-in-bst
 [532]:./Easy/0532-K-diff%20Pairs%20in%20an%20Array/README.md#532-k-diff-pairs-in-an-array
@@ -1755,6 +1757,7 @@
 [518l]:https://leetcode.com/problems/coin-change-2/
 [520l]:https://leetcode.com/problems/detect-capital/
 [521l]:https://leetcode.com/problems/longest-uncommon-subsequence-i/
+[525l]:https://leetcode.com/problems/contiguous-array/
 [529l]:https://leetcode.com/problems/minesweeper/
 [530l]:https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 [532l]:https://leetcode.com/problems/k-diff-pairs-in-an-array/
