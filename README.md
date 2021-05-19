@@ -664,6 +664,7 @@
 [1525][1525l]|[Number of Good Ways to Split a String][1525]                                         |![rs]
 [1528][1528l]|[Shuffle String][1528]                                                                |![py]&nbsp;&nbsp;![rb]
 [1529][1529l]|[Bulb Switcher IV][1529]                                                              |![rs]
+[1530][1530l]|[Number of Good Leaf Nodes Pairs][1530]                                               |![rb]
 [1534][1534l]|[Count Good Triplets][1534]                                                           |![rb]
 [1535][1535l]|[Find the Winner of an Array Game][1535]                                              |![rb]&nbsp;&nbsp;![rs]
 [1539][1539l]|[Kth Missing Positive Number][1539]                                                   |![rs]
@@ -1409,6 +1410,7 @@
 [1525]:./Medium/1525-Number%20of%20Good%20Ways%20to%20Split%20a%20String/README.md#1525-number-of-good-ways-to-split-a-string
 [1528]:./Easy/1528-Shuffle%20String/README.md#1528-shuffle-string
 [1529]:./Medium/1529-Bulb%20Switcher%20IV/README.md#1529-bulb-switcher-iv
+[1530]:./Medium/1530-Number%20of%20Good%20Leaf%20Nodes%20Pairs/README.md#1530-number-of-good-leaf-nodes-pairs
 [1534]:./Easy/1534-Count%20Good%20Triplets/README.md#1534-count-good-triplets
 [1535]:./Medium/1535-Find%20the%20Winner%20of%20an%20Array%20Game/README.md#1535-find-the-winner-of-an-array-game
 [1539]:./Easy/1539-Kth%20Missing%20Positive%20Number/README.md#1539-kth-missing-positive-number
@@ -2160,6 +2162,7 @@
 [1525l]:https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 [1528l]:https://leetcode.com/problems/shuffle-string/
 [1529l]:https://leetcode.com/problems/bulb-switcher-iv/
+[1530l]:https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
 [1534l]:https://leetcode.com/problems/count-good-triplets/
 [1535l]:https://leetcode.com/problems/find-the-winner-of-an-array-game/
 [1539l]:https://leetcode.com/problems/kth-missing-positive-number/

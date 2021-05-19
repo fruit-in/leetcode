@@ -664,6 +664,7 @@
 [1525][1525l]|[字符串的好分割数目][1525]                            |![rs]
 [1528][1528l]|[重新排列字符串][1528]                                |![py]&nbsp;&nbsp;![rb]
 [1529][1529l]|[灯泡开关 IV][1529]                                   |![rs]
+[1530][1530l]|[好叶子节点对的数量][1530]                            |![rb]
 [1534][1534l]|[统计好三元组][1534]                                  |![rb]
 [1535][1535l]|[找出数组游戏的赢家][1535]                            |![rb]&nbsp;&nbsp;![rs]
 [1539][1539l]|[第 k 个缺失的正整数][1539]                           |![rs]
@@ -1409,6 +1410,7 @@
 [1525]:./Medium/1525-Number%20of%20Good%20Ways%20to%20Split%20a%20String/README_CN.md#1525-字符串的好分割数目
 [1528]:./Easy/1528-Shuffle%20String/README_CN.md#1528-重新排列字符串
 [1529]:./Medium/1529-Bulb%20Switcher%20IV/README_CN.md#1529-灯泡开关-iv
+[1530]:./Medium/1530-Number%20of%20Good%20Leaf%20Nodes%20Pairs/README_CN.md#1530-好叶子节点对的数量
 [1534]:./Easy/1534-Count%20Good%20Triplets/README_CN.md#1534-统计好三元组
 [1535]:./Medium/1535-Find%20the%20Winner%20of%20an%20Array%20Game/README_CN.md#1535-找出数组游戏的赢家
 [1539]:./Easy/1539-Kth%20Missing%20Positive%20Number/README_CN.md#1539-第-k-个缺失的正整数
@@ -2160,6 +2162,7 @@
 [1525l]:https://leetcode-cn.com/problems/number-of-good-ways-to-split-a-string/
 [1528l]:https://leetcode-cn.com/problems/shuffle-string/
 [1529l]:https://leetcode-cn.com/problems/bulb-switcher-iv/
+[1530l]:https://leetcode-cn.com/problems/number-of-good-leaf-nodes-pairs/
 [1534l]:https://leetcode-cn.com/problems/count-good-triplets/
 [1535l]:https://leetcode-cn.com/problems/find-the-winner-of-an-array-game/
 [1539l]:https://leetcode-cn.com/problems/kth-missing-positive-number/
