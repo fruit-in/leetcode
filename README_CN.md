@@ -385,6 +385,7 @@
 [811][811l]  |[子域名访问计数][811]                                 |![rs]
 [812][812l]  |[最大三角形面积][812]                                 |![rs]
 [814][814l]  |[二叉树剪枝][814]                                     |![py]&nbsp;&nbsp;![rb]
+[816][816l]  |[模糊坐标][816]                                       |![rs]
 [817][817l]  |[链表组件][817]                                       |![py]&nbsp;&nbsp;![rb]
 [819][819l]  |[最常见的单词][819]                                   |![py]
 [821][821l]  |[字符的最短距离][821]                                 |![py]
@@ -1132,6 +1133,7 @@
 [811]:./Easy/0811-Subdomain%20Visit%20Count/README_CN.md#811-子域名访问计数
 [812]:./Easy/0812-Largest%20Triangle%20Area/README_CN.md#812-最大三角形面积
 [814]:./Medium/0814-Binary%20Tree%20Pruning/README_CN.md#814-二叉树剪枝
+[816]:./Medium/0816-Ambiguous%20Coordinates/README_CN.md#816-模糊坐标
 [817]:./Medium/0817-Linked%20List%20Components/README_CN.md#817-链表组件
 [819]:./Easy/0819-Most%20Common%20Word/README_CN.md#819-最常见的单词
 [821]:./Easy/0821-Shortest%20Distance%20to%20a%20Character/README_CN.md#821-字符的最短距离
@@ -1885,6 +1887,7 @@
 [811l]:https://leetcode-cn.com/problems/subdomain-visit-count/
 [812l]:https://leetcode-cn.com/problems/largest-triangle-area/
 [814l]:https://leetcode-cn.com/problems/binary-tree-pruning/
+[816l]:https://leetcode-cn.com/problems/ambiguous-coordinates/
 [817l]:https://leetcode-cn.com/problems/linked-list-components/
 [819l]:https://leetcode-cn.com/problems/most-common-word/
 [821l]:https://leetcode-cn.com/problems/shortest-distance-to-a-character/
