@@ -296,6 +296,7 @@
 [567][567l]  |[字符串的排列][567]                                   |![rb]&nbsp;&nbsp;![rs]
 [572][572l]  |[另一个树的子树][572]                                 |![py]
 [575][575l]  |[分糖果][575]                                         |![rs]
+[576][576l]  |[出界的路径数][576]                                   |![rs]
 [581][581l]  |[最短无序连续子数组][581]                             |![rs]
 [589][589l]  |[N叉树的前序遍历][589]                                |![py]
 [590][590l]  |[N叉树的后序遍历][590]                                |![py]
@@ -1042,6 +1043,7 @@
 [567]:./Medium/0567-Permutation%20in%20String/README_CN.md#567-字符串的排列
 [572]:./Easy/0572-Subtree%20of%20Another%20Tree/README_CN.md#572-另一个树的子树
 [575]:./Easy/0575-Distribute%20Candies/README_CN.md#575-分糖果
+[576]:./Medium/0576-Out%20of%20Boundary%20Paths/README_CN.md#576-出界的路径数
 [581]:./Easy/0581-Shortest%20Unsorted%20Continuous%20Subarray/README_CN.md#581-最短无序连续子数组
 [589]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal/README_CN.md#589-n叉树的前序遍历
 [590]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README_CN.md#590-n叉树的后序遍历
@@ -1791,6 +1793,7 @@
 [567l]:https://leetcode-cn.com/problems/permutation-in-string/
 [572l]:https://leetcode-cn.com/problems/subtree-of-another-tree/
 [575l]:https://leetcode-cn.com/problems/distribute-candies/
+[576l]:https://leetcode-cn.com/problems/out-of-boundary-paths/
 [581l]:https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
 [589l]:https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/
 [590l]:https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/

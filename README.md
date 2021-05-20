@@ -296,6 +296,7 @@
 [567][567l]  |[Permutation in String][567]                                                          |![rb]&nbsp;&nbsp;![rs]
 [572][572l]  |[Subtree of Another Tree][572]                                                        |![py]
 [575][575l]  |[Distribute Candies][575]                                                             |![rs]
+[576][576l]  |[Out of Boundary Paths][576]                                                          |![rs]
 [581][581l]  |[Shortest Unsorted Continuous Subarray][581]                                          |![rs]
 [589][589l]  |[N-ary Tree Preorder Traversal][589]                                                  |![py]
 [590][590l]  |[N-ary Tree Postorder Traversal][590]                                                 |![py]
@@ -1042,6 +1043,7 @@
 [567]:./Medium/0567-Permutation%20in%20String/README.md#567-permutation-in-string
 [572]:./Easy/0572-Subtree%20of%20Another%20Tree/README.md#572-subtree-of-another-tree
 [575]:./Easy/0575-Distribute%20Candies/README.md#575-distribute-candies
+[576]:./Medium/0576-Out%20of%20Boundary%20Paths/README.md#576-out-of-boundary-paths
 [581]:./Easy/0581-Shortest%20Unsorted%20Continuous%20Subarray/README.md#581-shortest-unsorted-continuous-subarray
 [589]:./Easy/0589-N-ary%20Tree%20Preorder%20Traversal/README.md#589-n-ary-tree-preorder-traversal
 [590]:./Easy/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#590-n-ary-tree-postorder-traversal
@@ -1791,6 +1793,7 @@
 [567l]:https://leetcode.com/problems/permutation-in-string/
 [572l]:https://leetcode.com/problems/subtree-of-another-tree/
 [575l]:https://leetcode.com/problems/distribute-candies/
+[576l]:https://leetcode.com/problems/out-of-boundary-paths/
 [581l]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 [589l]:https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 [590l]:https://leetcode.com/problems/n-ary-tree-postorder-traversal/
