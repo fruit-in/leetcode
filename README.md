@@ -743,6 +743,7 @@
 [1779][1779l]|[Find Nearest Point That Has the Same X or Y Coordinate][1779]                        |![rs]
 [1784][1784l]|[Check if Binary String Has at Most One Segment of Ones][1784]                        |![rb]&nbsp;&nbsp;![rs]
 [1790][1790l]|[Check if One String Swap Can Make Strings Equal][1790]                               |![rs]
+[1792][1792l]|[Maximum Average Pass Ratio][1792]                                                    |![py]
 [1796][1796l]|[Second Largest Digit in a String][1796]                                              |![rs]
 [1833][1833l]|[Maximum Ice Cream Bars][1833]                                                        |![rs]
 
@@ -1494,6 +1495,7 @@
 [1779]:./Easy/1779-Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate/README.md#1779-find-nearest-point-that-has-the-same-x-or-y-coordinate
 [1784]:./Easy/1784-Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/README.md#1784-check-if-binary-string-has-at-most-one-segment-of-ones
 [1790]:./Easy/1790-Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/README.md#1790-check-if-one-string-swap-can-make-strings-equal
+[1792]:./Medium/1792-Maximum%20Average%20Pass%20Ratio/README.md#1792-maximum-average-pass-ratio
 [1796]:./Easy/1796-Second%20Largest%20Digit%20in%20a%20String/README.md#1796-second-largest-digit-in-a-string
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README.md#1833-maximum-ice-cream-bars
 
@@ -2251,5 +2253,6 @@
 [1779l]:https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 [1784l]:https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 [1790l]:https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
+[1792l]:https://leetcode.com/problems/maximum-average-pass-ratio/
 [1796l]:https://leetcode.com/problems/second-largest-digit-in-a-string/
 [1833l]:https://leetcode.com/problems/maximum-ice-cream-bars/
