@@ -271,6 +271,7 @@
 [520][520l]  |[检测大写字母][520]                                   |![rs]
 [521][521l]  |[最长特殊序列 Ⅰ][521]                                 |![rb]&nbsp;&nbsp;![rs]
 [525][525l]  |[连续数组][525]                                       |![rb]&nbsp;&nbsp;![rs]
+[528][528l]  |[按权重随机选择][528]                                 |![rs]
 [529][529l]  |[扫雷游戏][529]                                       |![rs]
 [530][530l]  |[二叉搜索树的最小绝对差][530]                         |![py]
 [532][532l]  |[数组中的K-diff数对][532]                             |![rs]
@@ -1021,6 +1022,7 @@
 [520]:./Easy/0520-Detect%20Capital/README_CN.md#520-检测大写字母
 [521]:./Easy/0521-Longest%20Uncommon%20Subsequence%20I/README_CN.md#521-最长特殊序列-i
 [525]:./Medium/0525-Contiguous%20Array/README_CN.md#525-连续数组
+[528]:./Medium/0528-Random%20Pick%20with%20Weight/README_CN.md#528-按权重随机选择
 [529]:./Medium/0529-Minesweeper/README_CN.md#529-扫雷游戏
 [530]:./Easy/0530-Minimum%20Absolute%20Difference%20in%20BST/README_CN.md#530-二叉搜索树的最小绝对差
 [532]:./Easy/0532-K-diff%20Pairs%20in%20an%20Array/README_CN.md#532-数组中的k-diff数对
@@ -1774,6 +1776,7 @@
 [520l]:https://leetcode-cn.com/problems/detect-capital/
 [521l]:https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/
 [525l]:https://leetcode-cn.com/problems/contiguous-array/
+[528l]:https://leetcode-cn.com/problems/random-pick-with-weight/
 [529l]:https://leetcode-cn.com/problems/minesweeper/
 [530l]:https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/
 [532l]:https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/
