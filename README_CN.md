@@ -745,6 +745,7 @@
 [1790][1790l]|[仅执行一次字符串交换能否使两个字符串相等][1790]      |![rs]
 [1792][1792l]|[最大平均通过率][1792]                                |![py]
 [1796][1796l]|[字符串中第二大的数字][1796]                          |![rs]
+[1800][1800l]|[最大升序子数组和][1800]                              |![rb]&nbsp;&nbsp;![rs]
 [1833][1833l]|[雪糕的最大数量][1833]                                |![rs]
 
 
@@ -1497,6 +1498,7 @@
 [1790]:./Easy/1790-Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/README_CN.md#1790-仅执行一次字符串交换能否使两个字符串相等
 [1792]:./Medium/1792-Maximum%20Average%20Pass%20Ratio/README_CN.md#1792-最大平均通过率
 [1796]:./Easy/1796-Second%20Largest%20Digit%20in%20a%20String/README_CN.md#1796-字符串中第二大的数字
+[1800]:./Easy/1800-Maximum%20Ascending%20Subarray%20Sum/README_CN.md#1800-最大升序子数组和
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README_CN.md#1833-雪糕的最大数量
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
@@ -2255,4 +2257,5 @@
 [1790l]:https://leetcode-cn.com/problems/check-if-one-string-swap-can-make-strings-equal/
 [1792l]:https://leetcode-cn.com/problems/maximum-average-pass-ratio/
 [1796l]:https://leetcode-cn.com/problems/second-largest-digit-in-a-string/
+[1800l]:https://leetcode-cn.com/problems/maximum-ascending-subarray-sum/
 [1833l]:https://leetcode-cn.com/problems/maximum-ice-cream-bars/
