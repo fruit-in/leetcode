@@ -356,6 +356,7 @@
 [725][725l]  |[分隔链表][725]                                       |![py]
 [728][728l]  |[自除数][728]                                         |![py]
 [733][733l]  |[图像渲染][733]                                       |![rs]
+[735][735l]  |[行星碰撞][735]                                       |![rb]
 [739][739l]  |[每日温度][739]                                       |![rs]
 [743][743l]  |[网络延迟时间][743]                                   |![rs]
 [744][744l]  |[寻找比目标字母大的最小字母][744]                     |![rs]
@@ -1110,6 +1111,7 @@
 [725]:./Medium/0725-Split%20Linked%20List%20in%20Parts/README_CN.md#725-分隔链表
 [728]:./Easy/0728-Self%20Dividing%20Numbers/README_CN.md#728-自除数
 [733]:./Easy/0733-Flood%20Fill/README_CN.md#733-图像渲染
+[735]:./Medium/0735-Asteroid%20Collision/README_CN.md#735-行星碰撞
 [739]:./Medium/0739-Daily%20Temperatures/README_CN.md#739-每日温度
 [743]:./Medium/0743-Network%20Delay%20Time/README_CN.md#743-网络延迟时间
 [744]:./Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README_CN.md#744-寻找比目标字母大的最小字母
@@ -1870,6 +1872,7 @@
 [725l]:https://leetcode-cn.com/problems/split-linked-list-in-parts/
 [728l]:https://leetcode-cn.com/problems/self-dividing-numbers/
 [733l]:https://leetcode-cn.com/problems/flood-fill/
+[735l]:https://leetcode-cn.com/problems/asteroid-collision/
 [739l]:https://leetcode-cn.com/problems/daily-temperatures/
 [743l]:https://leetcode-cn.com/problems/network-delay-time/
 [744l]:https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/

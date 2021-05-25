@@ -356,6 +356,7 @@
 [725][725l]  |[Split Linked List in Parts][725]                                                     |![py]
 [728][728l]  |[Self Dividing Numbers][728]                                                          |![py]
 [733][733l]  |[Flood Fill][733]                                                                     |![rs]
+[735][735l]  |[Asteroid Collision][735]                                                             |![rb]
 [739][739l]  |[Daily Temperatures][739]                                                             |![rs]
 [743][743l]  |[Network Delay Time][743]                                                             |![rs]
 [744][744l]  |[Find Smallest Letter Greater Than Target][744]                                       |![rs]
@@ -1110,6 +1111,7 @@
 [725]:./Medium/0725-Split%20Linked%20List%20in%20Parts/README.md#725-split-linked-list-in-parts
 [728]:./Easy/0728-Self%20Dividing%20Numbers/README.md#728-self-dividing-numbers
 [733]:./Easy/0733-Flood%20Fill/README.md#733-flood-fill
+[735]:./Medium/0735-Asteroid%20Collision/README.md#735-asteroid-collision
 [739]:./Medium/0739-Daily%20Temperatures/README.md#739-daily-temperatures
 [743]:./Medium/0743-Network%20Delay%20Time/README.md#743-network-delay-time
 [744]:./Easy/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README.md#744-find-smallest-letter-greater-than-target
@@ -1870,6 +1872,7 @@
 [725l]:https://leetcode.com/problems/split-linked-list-in-parts/
 [728l]:https://leetcode.com/problems/self-dividing-numbers/
 [733l]:https://leetcode.com/problems/flood-fill/
+[735l]:https://leetcode.com/problems/asteroid-collision/
 [739l]:https://leetcode.com/problems/daily-temperatures/
 [743l]:https://leetcode.com/problems/network-delay-time/
 [744l]:https://leetcode.com/problems/find-smallest-letter-greater-than-target/
