@@ -255,6 +255,7 @@
 [482][482l]  |[License Key Formatting][482]                                                         |![py]
 [485][485l]  |[Max Consecutive Ones][485]                                                           |![rs]
 [492][492l]  |[Construct the Rectangle][492]                                                        |![rs]
+[494][494l]  |[Target Sum][494]                                                                     |![rb]&nbsp;&nbsp;![rs]
 [495][495l]  |[Teemo Attacking][495]                                                                |![rs]
 [496][496l]  |[Next Greater Element I][496]                                                         |![rs]
 [498][498l]  |[Diagonal Traverse][498]                                                              |![rs]
@@ -1008,6 +1009,7 @@
 [482]:./Easy/0482-License%20Key%20Formatting/README.md#482-license-key-formatting
 [485]:./Easy/0485-Max%20Consecutive%20Ones/README.md#485-max-consecutive-ones
 [492]:./Easy/0492-Construct%20the%20Rectangle/README.md#492-construct-the-rectangle
+[494]:./Medium/0494-Target%20Sum/README.md#494-target-sum
 [495]:./Medium/0495-Teemo%20Attacking/README.md#495-teemo-attacking
 [496]:./Easy/0496-Next%20Greater%20Element%20I/README.md#496-next-greater-element-i
 [498]:./Medium/0498-Diagonal%20Traverse/README.md#498-diagonal-traverse
@@ -1764,6 +1766,7 @@
 [482l]:https://leetcode.com/problems/license-key-formatting/
 [485l]:https://leetcode.com/problems/max-consecutive-ones/
 [492l]:https://leetcode.com/problems/construct-the-rectangle/
+[494l]:https://leetcode.com/problems/target-sum/
 [495l]:https://leetcode.com/problems/teemo-attacking/
 [496l]:https://leetcode.com/problems/next-greater-element-i/
 [498l]:https://leetcode.com/problems/diagonal-traverse/

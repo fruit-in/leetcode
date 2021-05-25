@@ -255,6 +255,7 @@
 [482][482l]  |[密钥格式化][482]                                     |![py]
 [485][485l]  |[最大连续1的个数][485]                                |![rs]
 [492][492l]  |[构造矩形][492]                                       |![rs]
+[494][494l]  |[目标和][494]                                         |![rb]&nbsp;&nbsp;![rs]
 [495][495l]  |[提莫攻击][495]                                       |![rs]
 [496][496l]  |[下一个更大元素 I][496]                               |![rs]
 [498][498l]  |[对角线遍历][498]                                     |![rs]
@@ -1008,6 +1009,7 @@
 [482]:./Easy/0482-License%20Key%20Formatting/README_CN.md#482-密钥格式化
 [485]:./Easy/0485-Max%20Consecutive%20Ones/README_CN.md#485-最大连续1的个数
 [492]:./Easy/0492-Construct%20the%20Rectangle/README_CN.md#492-构造矩形
+[494]:./Medium/0494-Target%20Sum/README_CN.md#494-目标和
 [495]:./Medium/0495-Teemo%20Attacking/README_CN.md#495-提莫攻击
 [496]:./Easy/0496-Next%20Greater%20Element%20I/README_CN.md#496-下一个更大元素-i
 [498]:./Medium/0498-Diagonal%20Traverse/README_CN.md#498-对角线遍历
@@ -1764,6 +1766,7 @@
 [482l]:https://leetcode-cn.com/problems/license-key-formatting/
 [485l]:https://leetcode-cn.com/problems/max-consecutive-ones/
 [492l]:https://leetcode-cn.com/problems/construct-the-rectangle/
+[494l]:https://leetcode-cn.com/problems/target-sum/
 [495l]:https://leetcode-cn.com/problems/teemo-attacking/
 [496l]:https://leetcode-cn.com/problems/next-greater-element-i/
 [498l]:https://leetcode-cn.com/problems/diagonal-traverse/
