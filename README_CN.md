@@ -745,6 +745,7 @@
 [1779][1779l]|[找到最近的有相同 X 或 Y 坐标的点][1779]              |![rs]
 [1784][1784l]|[检查二进制字符串字段][1784]                          |![rb]&nbsp;&nbsp;![rs]
 [1790][1790l]|[仅执行一次字符串交换能否使两个字符串相等][1790]      |![rs]
+[1791][1791l]|[找出星型图的中心节点][1791]                          |![rb]&nbsp;&nbsp;![rs]
 [1792][1792l]|[最大平均通过率][1792]                                |![py]
 [1796][1796l]|[字符串中第二大的数字][1796]                          |![rs]
 [1800][1800l]|[最大升序子数组和][1800]                              |![rb]&nbsp;&nbsp;![rs]
@@ -1502,6 +1503,7 @@
 [1779]:./Easy/1779-Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate/README_CN.md#1779-找到最近的有相同-x-或-y-坐标的点
 [1784]:./Easy/1784-Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/README_CN.md#1784-检查二进制字符串字段
 [1790]:./Easy/1790-Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/README_CN.md#1790-仅执行一次字符串交换能否使两个字符串相等
+[1791]:./Medium/1791-Find%20Center%20of%20Star%20Graph/README_CN.md#1791-找出星型图的中心节点
 [1792]:./Medium/1792-Maximum%20Average%20Pass%20Ratio/README_CN.md#1792-最大平均通过率
 [1796]:./Easy/1796-Second%20Largest%20Digit%20in%20a%20String/README_CN.md#1796-字符串中第二大的数字
 [1800]:./Easy/1800-Maximum%20Ascending%20Subarray%20Sum/README_CN.md#1800-最大升序子数组和
@@ -2265,6 +2267,7 @@
 [1779l]:https://leetcode-cn.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 [1784l]:https://leetcode-cn.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 [1790l]:https://leetcode-cn.com/problems/check-if-one-string-swap-can-make-strings-equal/
+[1791l]:https://leetcode-cn.com/problems/find-center-of-star-graph/
 [1792l]:https://leetcode-cn.com/problems/maximum-average-pass-ratio/
 [1796l]:https://leetcode-cn.com/problems/second-largest-digit-in-a-string/
 [1800l]:https://leetcode-cn.com/problems/maximum-ascending-subarray-sum/
