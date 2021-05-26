@@ -748,6 +748,7 @@
 [1792][1792l]|[Maximum Average Pass Ratio][1792]                                                    |![py]
 [1796][1796l]|[Second Largest Digit in a String][1796]                                              |![rs]
 [1800][1800l]|[Maximum Ascending Subarray Sum][1800]                                                |![rb]&nbsp;&nbsp;![rs]
+[1805][1805l]|[Number of Different Integers in a String][1805]                                      |![rs]
 [1833][1833l]|[Maximum Ice Cream Bars][1833]                                                        |![rs]
 
 
@@ -1503,6 +1504,7 @@
 [1792]:./Medium/1792-Maximum%20Average%20Pass%20Ratio/README.md#1792-maximum-average-pass-ratio
 [1796]:./Easy/1796-Second%20Largest%20Digit%20in%20a%20String/README.md#1796-second-largest-digit-in-a-string
 [1800]:./Easy/1800-Maximum%20Ascending%20Subarray%20Sum/README.md#1800-maximum-ascending-subarray-sum
+[1805]:./Easy/1805-Number%20of%20Different%20Integers%20in%20a%20String/README.md#1805-number-of-different-integers-in-a-string
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README.md#1833-maximum-ice-cream-bars
 
 [1l]:https://leetcode.com/problems/two-sum/
@@ -2264,4 +2266,5 @@
 [1792l]:https://leetcode.com/problems/maximum-average-pass-ratio/
 [1796l]:https://leetcode.com/problems/second-largest-digit-in-a-string/
 [1800l]:https://leetcode.com/problems/maximum-ascending-subarray-sum/
+[1805l]:https://leetcode.com/problems/number-of-different-integers-in-a-string/
 [1833l]:https://leetcode.com/problems/maximum-ice-cream-bars/
