@@ -749,6 +749,7 @@
 [1796][1796l]|[Second Largest Digit in a String][1796]                                              |![rs]
 [1800][1800l]|[Maximum Ascending Subarray Sum][1800]                                                |![rb]&nbsp;&nbsp;![rs]
 [1805][1805l]|[Number of Different Integers in a String][1805]                                      |![rs]
+[1812][1812l]|[Determine Color of a Chessboard Square][1812]                                        |![py]&nbsp;&nbsp;![rb]
 [1833][1833l]|[Maximum Ice Cream Bars][1833]                                                        |![rs]
 
 
@@ -1505,6 +1506,7 @@
 [1796]:./Easy/1796-Second%20Largest%20Digit%20in%20a%20String/README.md#1796-second-largest-digit-in-a-string
 [1800]:./Easy/1800-Maximum%20Ascending%20Subarray%20Sum/README.md#1800-maximum-ascending-subarray-sum
 [1805]:./Easy/1805-Number%20of%20Different%20Integers%20in%20a%20String/README.md#1805-number-of-different-integers-in-a-string
+[1812]:./Easy/1812-Determine%20Color%20of%20a%20Chessboard%20Square/README.md#1812-determine-color-of-a-chessboard-square
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README.md#1833-maximum-ice-cream-bars
 
 [1l]:https://leetcode.com/problems/two-sum/
@@ -2267,4 +2269,5 @@
 [1796l]:https://leetcode.com/problems/second-largest-digit-in-a-string/
 [1800l]:https://leetcode.com/problems/maximum-ascending-subarray-sum/
 [1805l]:https://leetcode.com/problems/number-of-different-integers-in-a-string/
+[1812l]:https://leetcode.com/problems/determine-color-of-a-chessboard-square/
 [1833l]:https://leetcode.com/problems/maximum-ice-cream-bars/
