@@ -722,6 +722,7 @@
 [1688][1688l]|[Count of Matches in Tournament][1688]                                                |![rb]&nbsp;&nbsp;![rs]
 [1689][1689l]|[Partitioning Into Minimum Number Of Deci-Binary Numbers][1689]                       |![rb]&nbsp;&nbsp;![rs]
 [1694][1694l]|[Reformat Phone Number][1694]                                                         |![py]
+[1695][1695l]|[Maximum Erasure Value][1695]                                                         |![rb]&nbsp;&nbsp;![rs]
 [1700][1700l]|[Number of Students Unable to Eat Lunch][1700]                                        |![rb]&nbsp;&nbsp;![rs]
 [1701][1701l]|[Average Waiting Time][1701]                                                          |![rb]&nbsp;&nbsp;![rs]
 [1704][1704l]|[Determine if String Halves Are Alike][1704]                                          |![rb]&nbsp;&nbsp;![rs]
@@ -1480,6 +1481,7 @@
 [1688]:./Easy/1688-Count%20of%20Matches%20in%20Tournament/README.md#1688-count-of-matches-in-tournament
 [1689]:./Medium/1689-Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/README.md#1689-partitioning-into-minimum-number-of-deci-binary-numbers
 [1694]:./Easy/1694-Reformat%20Phone%20Number/README.md#1694-reformat-phone-number
+[1695]:./Medium/1695-Maximum%20Erasure%20Value/README.md#1695-maximum-erasure-value
 [1700]:./Easy/1700-Number%20of%20Students%20Unable%20to%20Eat%20Lunch/README.md#1700-number-of-students-unable-to-eat-lunch
 [1701]:./Medium/1701-Average%20Waiting%20Time/README.md#1701-average-waiting-time
 [1704]:./Easy/1704-Determine%20if%20String%20Halves%20Are%20Alike/README.md#1704-determine-if-string-halves-are-alike
@@ -2244,6 +2246,7 @@
 [1688l]:https://leetcode.com/problems/count-of-matches-in-tournament/
 [1689l]:https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 [1694l]:https://leetcode.com/problems/reformat-phone-number/
+[1695l]:https://leetcode.com/problems/maximum-erasure-value/
 [1700l]:https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
 [1701l]:https://leetcode.com/problems/average-waiting-time/
 [1704l]:https://leetcode.com/problems/determine-if-string-halves-are-alike/

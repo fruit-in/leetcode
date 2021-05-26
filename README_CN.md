@@ -722,6 +722,7 @@
 [1688][1688l]|[比赛中的配对次数][1688]                              |![rb]&nbsp;&nbsp;![rs]
 [1689][1689l]|[十-二进制数的最少数目][1689]                         |![rb]&nbsp;&nbsp;![rs]
 [1694][1694l]|[重新格式化电话号码][1694]                            |![py]
+[1695][1695l]|[删除子数组的最大得分][1695]                          |![rb]&nbsp;&nbsp;![rs]
 [1700][1700l]|[无法吃午餐的学生数量][1700]                          |![rb]&nbsp;&nbsp;![rs]
 [1701][1701l]|[平均等待时间][1701]                                  |![rb]&nbsp;&nbsp;![rs]
 [1704][1704l]|[判断字符串的两半是否相似][1704]                      |![rb]&nbsp;&nbsp;![rs]
@@ -1480,6 +1481,7 @@
 [1688]:./Easy/1688-Count%20of%20Matches%20in%20Tournament/README_CN.md#1688-比赛中的配对次数
 [1689]:./Medium/1689-Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/README_CN.md#1689-十-二进制数的最少数目
 [1694]:./Easy/1694-Reformat%20Phone%20Number/README_CN.md#1694-重新格式化电话号码
+[1695]:./Medium/1695-Maximum%20Erasure%20Value/README_CN.md#1695-删除子数组的最大得分
 [1700]:./Easy/1700-Number%20of%20Students%20Unable%20to%20Eat%20Lunch/README_CN.md#1700-无法吃午餐的学生数量
 [1701]:./Medium/1701-Average%20Waiting%20Time/README_CN.md#1701-平均等待时间
 [1704]:./Easy/1704-Determine%20if%20String%20Halves%20Are%20Alike/README_CN.md#1704-判断字符串的两半是否相似
@@ -2244,6 +2246,7 @@
 [1688l]:https://leetcode-cn.com/problems/count-of-matches-in-tournament/
 [1689l]:https://leetcode-cn.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 [1694l]:https://leetcode-cn.com/problems/reformat-phone-number/
+[1695l]:https://leetcode-cn.com/problems/maximum-erasure-value/
 [1700l]:https://leetcode-cn.com/problems/number-of-students-unable-to-eat-lunch/
 [1701l]:https://leetcode-cn.com/problems/average-waiting-time/
 [1704l]:https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/
