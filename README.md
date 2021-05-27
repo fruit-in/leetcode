@@ -651,6 +651,7 @@
 [1475][1475l]|[Final Prices With a Special Discount in a Shop][1475]                                |![rs]
 [1476][1476l]|[Subrectangle Queries][1476]                                                          |![rs]
 [1480][1480l]|[Running Sum of 1d Array][1480]                                                       |![rb]&nbsp;&nbsp;![rs]
+[1481][1481l]|[Least Number of Unique Integers after K Removals][1481]                              |![rb]&nbsp;&nbsp;![rs]
 [1486][1486l]|[XOR Operation in an Array][1486]                                                     |![rb]&nbsp;&nbsp;![rs]
 [1487][1487l]|[Making File Names Unique][1487]                                                      |![rb]
 [1491][1491l]|[Average Salary Excluding the Minimum and Maximum Salary][1491]                       |![rb]&nbsp;&nbsp;![rs]
@@ -1410,6 +1411,7 @@
 [1475]:./Easy/1475-Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/README.md#1475-final-prices-with-a-special-discount-in-a-shop
 [1476]:./Medium/1476-Subrectangle%20Queries/README.md#1476-subrectangle-queries
 [1480]:./Easy/1480-Running%20Sum%20of%201d%20Array/README.md#1480-running-sum-of-1d-array
+[1481]:./Medium/1481-Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals/README.md#1481-least-number-of-unique-integers-after-k-removals
 [1486]:./Easy/1486-XOR%20Operation%20in%20an%20Array/README.md#1486-xor-operation-in-an-array
 [1487]:./Medium/1487-Making%20File%20Names%20Unique/README.md#1487-making-file-names-unique
 [1491]:./Easy/1491-Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README.md#1491-average-salary-excluding-the-minimum-and-maximum-salary
@@ -2175,6 +2177,7 @@
 [1475l]:https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1476l]:https://leetcode.com/problems/subrectangle-queries/
 [1480l]:https://leetcode.com/problems/running-sum-of-1d-array/
+[1481l]:https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
 [1486l]:https://leetcode.com/problems/xor-operation-in-an-array/
 [1487l]:https://leetcode.com/problems/making-file-names-unique/
 [1491l]:https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/

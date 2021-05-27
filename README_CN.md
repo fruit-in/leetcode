@@ -651,6 +651,7 @@
 [1475][1475l]|[商品折扣后的最终价格][1475]                          |![rs]
 [1476][1476l]|[子矩形查询][1476]                                    |![rs]
 [1480][1480l]|[一维数组的动态和][1480]                              |![rb]&nbsp;&nbsp;![rs]
+[1481][1481l]|[不同整数的最少数目][1481]                            |![rb]&nbsp;&nbsp;![rs]
 [1486][1486l]|[数组异或操作][1486]                                  |![rb]&nbsp;&nbsp;![rs]
 [1487][1487l]|[保证文件名唯一][1487]                                |![rb]
 [1491][1491l]|[去掉最低工资和最高工资后的工资平均值][1491]          |![rb]&nbsp;&nbsp;![rs]
@@ -1410,6 +1411,7 @@
 [1475]:./Easy/1475-Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/README_CN.md#1475-商品折扣后的最终价格
 [1476]:./Medium/1476-Subrectangle%20Queries/README_CN.md#1476-子矩形查询
 [1480]:./Easy/1480-Running%20Sum%20of%201d%20Array/README_CN.md#1480-一维数组的动态和
+[1481]:./Medium/1481-Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals/README_CN.md#1481-不同整数的最少数目
 [1486]:./Easy/1486-XOR%20Operation%20in%20an%20Array/README_CN.md#1486-数组异或操作
 [1487]:./Medium/1487-Making%20File%20Names%20Unique/README_CN.md#1487-保证文件名唯一
 [1491]:./Easy/1491-Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README_CN.md#1491-去掉最低工资和最高工资后的工资平均值
@@ -2175,6 +2177,7 @@
 [1475l]:https://leetcode-cn.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1476l]:https://leetcode-cn.com/problems/subrectangle-queries/
 [1480l]:https://leetcode-cn.com/problems/running-sum-of-1d-array/
+[1481l]:https://leetcode-cn.com/problems/least-number-of-unique-integers-after-k-removals/
 [1486l]:https://leetcode-cn.com/problems/xor-operation-in-an-array/
 [1487l]:https://leetcode-cn.com/problems/making-file-names-unique/
 [1491l]:https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
