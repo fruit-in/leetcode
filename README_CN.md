@@ -645,6 +645,7 @@
 [1456][1456l]|[定长子串中元音的最大数目][1456]                      |![py]&nbsp;&nbsp;![rb]
 [1457][1457l]|[二叉树中的伪回文路径][1457]                          |![py]
 [1460][1460l]|[通过翻转子数组使两个数组相等][1460]                  |![rs]
+[1461][1461l]|[检查一个字符串是否包含所有长度为 K 的二进制子串][1461]|![rs]
 [1464][1464l]|[数组中两元素的最大乘积][1464]                        |![rs]
 [1470][1470l]|[重新排列数组][1470]                                  |![rs]
 [1472][1472l]|[设计浏览器历史记录][1472]                            |![rs]
@@ -1406,6 +1407,7 @@
 [1456]:./Medium/1456-Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/README_CN.md#1456-定长子串中元音的最大数目
 [1457]:./Medium/1457-Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/README_CN.md#1457-二叉树中的伪回文路径
 [1460]:./Easy/1460-Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays/README_CN.md#1460-通过翻转子数组使两个数组相等
+[1461]:./Medium/1461-Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/README_CN.md#1461-检查一个字符串是否包含所有长度为-k-的二进制子串
 [1464]:./Easy/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/README_CN.md#1464-数组中两元素的最大乘积
 [1470]:./Easy/1470-Shuffle%20the%20Array/README_CN.md#1470-重新排列数组
 [1472]:./Medium/1472-Design%20Browser%20History/README_CN.md#1472-设计浏览器历史记录
@@ -2173,6 +2175,7 @@
 [1456l]:https://leetcode-cn.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 [1457l]:https://leetcode-cn.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
 [1460l]:https://leetcode-cn.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
+[1461l]:https://leetcode-cn.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 [1464l]:https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array/
 [1470l]:https://leetcode-cn.com/problems/shuffle-the-array/
 [1472l]:https://leetcode-cn.com/problems/design-browser-history/
