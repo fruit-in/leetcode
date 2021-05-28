@@ -523,6 +523,7 @@
 [1123][1123l]|[最深叶节点的最近公共祖先][1123]                          |![py]
 [1128][1128l]|[等价多米诺骨牌对的数量][1128]                            |![rs]
 [1137][1137l]|[第 N 个泰波那契数][1137]                                 |![rs]
+[1138][1138l]|[字母板上的路径][1138]                                    |![rb]&nbsp;&nbsp;![rs]
 [1146][1146l]|[快照数组][1146]                                          |![rb]&nbsp;&nbsp;![rs]
 [1154][1154l]|[一年中的第几天][1154]                                    |![rs]
 [1155][1155l]|[掷骰子的N种方法][1155]                                   |![py]&nbsp;&nbsp;![rs]
@@ -1287,6 +1288,7 @@
 [1123]:./Medium/1123-Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/README_CN.md#1123-最深叶节点的最近公共祖先
 [1128]:./Easy/1128-Number%20of%20Equivalent%20Domino%20Pairs/README_CN.md#1128-等价多米诺骨牌对的数量
 [1137]:./Easy/1137-N-th%20Tribonacci%20Number/README_CN.md#1137-第-n-个泰波那契数
+[1138]:./Medium/1138-Alphabet%20Board%20Path/README_CN.md#1138-字母板上的路径
 [1146]:./Medium/1146-Snapshot%20Array/README_CN.md#1146-快照数组
 [1154]:./Easy/1154-Day%20of%20the%20Year/README_CN.md#1154-一年中的第几天
 [1155]:./Medium/1155-Number%20of%20Dice%20Rolls%20With%20Target%20Sum/README_CN.md#1155-掷骰子的n种方法
@@ -2057,6 +2059,7 @@
 [1123l]:https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves/
 [1128l]:https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/
 [1137l]:https://leetcode-cn.com/problems/n-th-tribonacci-number/
+[1138l]:https://leetcode-cn.com/problems/alphabet-board-path/
 [1146l]:https://leetcode-cn.com/problems/snapshot-array/
 [1154l]:https://leetcode-cn.com/problems/day-of-the-year/
 [1155l]:https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum/
