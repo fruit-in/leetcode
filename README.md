@@ -748,6 +748,7 @@
 [1768][1768l]|[Merge Strings Alternately][1768]                                                     |![rs]
 [1773][1773l]|[Count Items Matching a Rule][1773]                                                   |![rs]
 [1779][1779l]|[Find Nearest Point That Has the Same X or Y Coordinate][1779]                        |![rs]
+[1780][1780l]|[Check if Number is a Sum of Powers of Three][1780]                                   |![rb]&nbsp;&nbsp;![rs]
 [1784][1784l]|[Check if Binary String Has at Most One Segment of Ones][1784]                        |![rb]&nbsp;&nbsp;![rs]
 [1790][1790l]|[Check if One String Swap Can Make Strings Equal][1790]                               |![rs]
 [1791][1791l]|[Find Center of Star Graph][1791]                                                     |![rb]&nbsp;&nbsp;![rs]
@@ -1511,6 +1512,7 @@
 [1768]:./Easy/1768-Merge%20Strings%20Alternately/README.md#1768-merge-strings-alternately
 [1773]:./Easy/1773-Count%20Items%20Matching%20a%20Rule/README.md#1773-count-items-matching-a-rule
 [1779]:./Easy/1779-Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate/README.md#1779-find-nearest-point-that-has-the-same-x-or-y-coordinate
+[1780]:./Medium/1780-Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three/README.md#1780-check-if-number-is-a-sum-of-powers-of-three
 [1784]:./Easy/1784-Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/README.md#1784-check-if-binary-string-has-at-most-one-segment-of-ones
 [1790]:./Easy/1790-Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/README.md#1790-check-if-one-string-swap-can-make-strings-equal
 [1791]:./Medium/1791-Find%20Center%20of%20Star%20Graph/README.md#1791-find-center-of-star-graph
@@ -2280,6 +2282,7 @@
 [1768l]:https://leetcode.com/problems/merge-strings-alternately/
 [1773l]:https://leetcode.com/problems/count-items-matching-a-rule/
 [1779l]:https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
+[1780l]:https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/
 [1784l]:https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 [1790l]:https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 [1791l]:https://leetcode.com/problems/find-center-of-star-graph/
