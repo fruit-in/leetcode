@@ -709,6 +709,7 @@
 [1640][1640l]|[能否连接形成数组][1640]                                  |![rb]&nbsp;&nbsp;![rs]
 [1641][1641l]|[统计字典序元音字符串的数目][1641]                        |![rb]&nbsp;&nbsp;![rs]
 [1646][1646l]|[获取生成数组中的最大值][1646]                            |![rs]
+[1647][1647l]|[字符频次唯一的最小删除次数][1647]                        |![rb]&nbsp;&nbsp;![rs]
 [1652][1652l]|[拆炸弹][1652]                                            |![rb]&nbsp;&nbsp;![rs]
 [1656][1656l]|[设计有序流][1656]                                        |![py]
 [1658][1658l]|[将 x 减到 0 的最小操作数][1658]                          |![rb]&nbsp;&nbsp;![rs]
@@ -1474,6 +1475,7 @@
 [1640]:./Easy/1640-Check%20Array%20Formation%20Through%20Concatenation/README_CN.md#1640-能否连接形成数组
 [1641]:./Medium/1641-Count%20Sorted%20Vowel%20Strings/README_CN.md#1641-统计字典序元音字符串的数目
 [1646]:./Easy/1646-Get%20Maximum%20in%20Generated%20Array/README_CN.md#1646-获取生成数组中的最大值
+[1647]:./Medium/1647-Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique/README_CN.md#1647-字符频次唯一的最小删除次数
 [1652]:./Easy/1652-Defuse%20the%20Bomb/README_CN.md#1652-拆炸弹
 [1656]:./Easy/1656-Design%20an%20Ordered%20Stream/README_CN.md#1656-设计有序流
 [1658]:./Medium/1658-Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/README_CN.md#1658-将-x-减到-0-的最小操作数
@@ -2245,6 +2247,7 @@
 [1640l]:https://leetcode-cn.com/problems/check-array-formation-through-concatenation/
 [1641l]:https://leetcode-cn.com/problems/count-sorted-vowel-strings/
 [1646l]:https://leetcode-cn.com/problems/get-maximum-in-generated-array/
+[1647l]:https://leetcode-cn.com/problems/minimum-deletions-to-make-character-frequencies-unique/
 [1652l]:https://leetcode-cn.com/problems/defuse-the-bomb/
 [1656l]:https://leetcode-cn.com/problems/design-an-ordered-stream/
 [1658l]:https://leetcode-cn.com/problems/minimum-operations-to-reduce-x-to-zero/
