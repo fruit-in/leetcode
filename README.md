@@ -396,6 +396,7 @@
 [821][821l]  |[Shortest Distance to a Character][821]                                               |![py]
 [822][822l]  |[Card Flipping Game][822]                                                             |![rs]
 [824][824l]  |[Goat Latin][824]                                                                     |![py]
+[826][826l]  |[Most Profit Assigning Work][826]                                                     |![rs]
 [830][830l]  |[Positions of Large Groups][830]                                                      |![rs]
 [832][832l]  |[Flipping an Image][832]                                                              |![py]
 [836][836l]  |[Rectangle Overlap][836]                                                              |![rs]
@@ -1172,6 +1173,7 @@
 [821]:./Easy/0821-Shortest%20Distance%20to%20a%20Character/README.md#821-shortest-distance-to-a-character
 [822]:./Medium/0822-Card%20Flipping%20Game/README.md#822-card-flipping-game
 [824]:./Easy/0824-Goat%20Latin/README.md#824-goat-latin
+[826]:./Medium/0826-Most%20Profit%20Assigning%20Work/README.md#826-most-profit-assigning-work
 [830]:./Easy/0830-Positions%20of%20Large%20Groups/README.md#830-positions-of-large-groups
 [832]:./Easy/0832-Flipping%20an%20Image/README.md#832-flipping-an-image
 [836]:./Easy/0836-Rectangle%20Overlap/README.md#836-rectangle-overlap
@@ -1954,6 +1956,7 @@
 [821l]:https://leetcode.com/problems/shortest-distance-to-a-character/
 [822l]:https://leetcode.com/problems/card-flipping-game/
 [824l]:https://leetcode.com/problems/goat-latin/
+[826l]:https://leetcode.com/problems/most-profit-assigning-work/
 [830l]:https://leetcode.com/problems/positions-of-large-groups/
 [832l]:https://leetcode.com/problems/flipping-an-image/
 [836l]:https://leetcode.com/problems/rectangle-overlap/

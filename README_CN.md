@@ -396,6 +396,7 @@
 [821][821l]  |[字符的最短距离][821]                                     |![py]
 [822][822l]  |[翻转卡片游戏][822]                                       |![rs]
 [824][824l]  |[山羊拉丁文][824]                                         |![py]
+[826][826l]  |[安排工作以达到最大收益][826]                             |![rs]
 [830][830l]  |[较大分组的位置][830]                                     |![rs]
 [832][832l]  |[翻转图像][832]                                           |![py]
 [836][836l]  |[矩形重叠][836]                                           |![rs]
@@ -1172,6 +1173,7 @@
 [821]:./Easy/0821-Shortest%20Distance%20to%20a%20Character/README_CN.md#821-字符的最短距离
 [822]:./Medium/0822-Card%20Flipping%20Game/README_CN.md#822-翻转卡片游戏
 [824]:./Easy/0824-Goat%20Latin/README_CN.md#824-山羊拉丁文
+[826]:./Medium/0826-Most%20Profit%20Assigning%20Work/README_CN.md#826-安排工作以达到最大收益
 [830]:./Easy/0830-Positions%20of%20Large%20Groups/README_CN.md#830-较大分组的位置
 [832]:./Easy/0832-Flipping%20an%20Image/README_CN.md#832-翻转图像
 [836]:./Easy/0836-Rectangle%20Overlap/README_CN.md#836-矩形重叠
@@ -1954,6 +1956,7 @@
 [821l]:https://leetcode-cn.com/problems/shortest-distance-to-a-character/
 [822l]:https://leetcode-cn.com/problems/card-flipping-game/
 [824l]:https://leetcode-cn.com/problems/goat-latin/
+[826l]:https://leetcode-cn.com/problems/most-profit-assigning-work/
 [830l]:https://leetcode-cn.com/problems/positions-of-large-groups/
 [832l]:https://leetcode-cn.com/problems/flipping-an-image/
 [836l]:https://leetcode-cn.com/problems/rectangle-overlap/
