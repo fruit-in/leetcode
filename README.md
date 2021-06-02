@@ -381,6 +381,7 @@
 [788][788l]  |[Rotated Digits][788]                                                                 |![rs]
 [789][789l]  |[Escape The Ghosts][789]                                                              |![rb]&nbsp;&nbsp;![rs]
 [791][791l]  |[Custom Sort String][791]                                                             |![rs]
+[794][794l]  |[Valid Tic-Tac-Toe State][794]                                                        |![rs]
 [796][796l]  |[Rotate String][796]                                                                  |![rs]
 [804][804l]  |[Unique Morse Code Words][804]                                                        |![py]
 [806][806l]  |[Number of Lines To Write String][806]                                                |![py]
@@ -1158,6 +1159,7 @@
 [788]:./Easy/0788-Rotated%20Digits/README.md#788-rotated-digits
 [789]:./Medium/0789-Escape%20The%20Ghosts/README.md#789-escape-the-ghosts
 [791]:./Medium/0791-Custom%20Sort%20String/README.md#791-custom-sort-string
+[794]:./Medium/0794-Valid%20Tic-Tac-Toe%20State/README.md#794-valid-tic-tac-toe-state
 [796]:./Easy/0796-Rotate%20String/README.md#796-rotate-string
 [804]:./Easy/0804-Unique%20Morse%20Code%20Words/README.md#804-unique-morse-code-words
 [806]:./Easy/0806-Number%20of%20Lines%20To%20Write%20String/README.md#806-number-of-lines-to-write-string
@@ -1941,6 +1943,7 @@
 [788l]:https://leetcode.com/problems/rotated-digits/
 [789l]:https://leetcode.com/problems/escape-the-ghosts/
 [791l]:https://leetcode.com/problems/custom-sort-string/
+[794l]:https://leetcode.com/problems/valid-tic-tac-toe-state/
 [796l]:https://leetcode.com/problems/rotate-string/
 [804l]:https://leetcode.com/problems/unique-morse-code-words/
 [806l]:https://leetcode.com/problems/number-of-lines-to-write-string/
