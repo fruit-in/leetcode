@@ -470,6 +470,7 @@
 [973][973l]  |[K Closest Points to Origin][973]                                                     |![rs]
 [976][976l]  |[Largest Perimeter Triangle][976]                                                     |![rs]
 [977][977l]  |[Squares of a Sorted Array][977]                                                      |![rs]
+[984][984l]  |[String Without AAA or BBB][984]                                                      |![rb]
 [985][985l]  |[Sum of Even Numbers After Queries][985]                                              |![py]
 [986][986l]  |[Interval List Intersections][986]                                                    |![rb]&nbsp;&nbsp;![rs]
 [989][989l]  |[Add to Array-Form of Interger][989]                                                  |![py]
@@ -1240,6 +1241,7 @@
 [973]:./Medium/0973-K%20Closest%20Points%20to%20Origin/README.md#973-k-closest-points-to-origin
 [976]:./Easy/0976-Largest%20Perimeter%20Triangle/README.md#976-largest-perimeter-triangle
 [977]:./Easy/0977-Squares%20of%20a%20Sorted%20Array/README.md#977-squares-of-a-sorted-array
+[984]:./Medium/0984-String%20Without%20AAA%20or%20BBB/README.md#984-string-without-aaa-or-bbb
 [985]:./Easy/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README.md#985-sum-of-even-numbers-after-queries
 [986]:./Medium/0986-Interval%20List%20Intersections/README.md#986-interval-list-intersections
 [989]:./Easy/0989-Add%20to%20Array-Form%20of%20Interger/README.md#989-add-to-array-form-of-interger
@@ -2016,6 +2018,7 @@
 [973l]:https://leetcode.com/problems/k-closest-points-to-origin/
 [976l]:https://leetcode.com/problems/largest-perimeter-triangle/
 [977l]:https://leetcode.com/problems/squares-of-a-sorted-array/
+[984l]:https://leetcode.com/problems/string-without-aaa-or-bbb/
 [985l]:https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [986l]:https://leetcode.com/problems/interval-list-intersections/
 [989l]:https://leetcode.com/problems/add-to-array-form-of-interger/

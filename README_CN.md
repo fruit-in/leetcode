@@ -470,6 +470,7 @@
 [973][973l]  |[最接近原点的 K 个点][973]                                |![rs]
 [976][976l]  |[三角形的最大周长][976]                                   |![rs]
 [977][977l]  |[有序数组的平方][977]                                     |![rs]
+[984][984l]  |[不含 AAA 或 BBB 的字符串][984]                           |![rb]
 [985][985l]  |[查询后的偶数和][985]                                     |![py]
 [986][986l]  |[区间列表的交集][986]                                     |![rb]&nbsp;&nbsp;![rs]
 [989][989l]  |[数组形式的整数加法][989]                                 |![py]
@@ -1240,6 +1241,7 @@
 [973]:./Medium/0973-K%20Closest%20Points%20to%20Origin/README_CN.md#973-最接近原点的-K-个点
 [976]:./Easy/0976-Largest%20Perimeter%20Triangle/README_CN.md#976-三角形的最大周长
 [977]:./Easy/0977-Squares%20of%20a%20Sorted%20Array/README_CN.md#977-有序数组的平方
+[984]:./Medium/0984-String%20Without%20AAA%20or%20BBB/README_CN.md#984-不含-aaa-或-bbb-的字符串
 [985]:./Easy/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README_CN.md#985-查询后的偶数和
 [986]:./Medium/0986-Interval%20List%20Intersections/README_CN.md#986-区间列表的交集
 [989]:./Easy/0989-Add%20to%20Array-Form%20of%20Interger/README_CN.md#989-数组形式的整数加法
@@ -2016,6 +2018,7 @@
 [973l]:https://leetcode-cn.com/problems/k-closest-points-to-origin/
 [976l]:https://leetcode-cn.com/problems/largest-perimeter-triangle/
 [977l]:https://leetcode-cn.com/problems/squares-of-a-sorted-array/
+[984l]:https://leetcode-cn.com/problems/string-without-aaa-or-bbb/
 [985l]:https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/
 [986l]:https://leetcode-cn.com/problems/interval-list-intersections/
 [989l]:https://leetcode-cn.com/problems/add-to-array-form-of-interger/
