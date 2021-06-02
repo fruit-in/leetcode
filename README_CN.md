@@ -392,6 +392,7 @@
 [817][817l]  |[链表组件][817]                                           |![py]&nbsp;&nbsp;![rb]
 [819][819l]  |[最常见的单词][819]                                       |![py]
 [821][821l]  |[字符的最短距离][821]                                     |![py]
+[822][822l]  |[翻转卡片游戏][822]                                       |![rs]
 [824][824l]  |[山羊拉丁文][824]                                         |![py]
 [830][830l]  |[较大分组的位置][830]                                     |![rs]
 [832][832l]  |[翻转图像][832]                                           |![py]
@@ -1164,6 +1165,7 @@
 [817]:./Medium/0817-Linked%20List%20Components/README_CN.md#817-链表组件
 [819]:./Easy/0819-Most%20Common%20Word/README_CN.md#819-最常见的单词
 [821]:./Easy/0821-Shortest%20Distance%20to%20a%20Character/README_CN.md#821-字符的最短距离
+[822]:./Medium/0822-Card%20Flipping%20Game/README_CN.md#822-翻转卡片游戏
 [824]:./Easy/0824-Goat%20Latin/README_CN.md#824-山羊拉丁文
 [830]:./Easy/0830-Positions%20of%20Large%20Groups/README_CN.md#830-较大分组的位置
 [832]:./Easy/0832-Flipping%20an%20Image/README_CN.md#832-翻转图像
@@ -1942,6 +1944,7 @@
 [817l]:https://leetcode-cn.com/problems/linked-list-components/
 [819l]:https://leetcode-cn.com/problems/most-common-word/
 [821l]:https://leetcode-cn.com/problems/shortest-distance-to-a-character/
+[822l]:https://leetcode-cn.com/problems/card-flipping-game/
 [824l]:https://leetcode-cn.com/problems/goat-latin/
 [830l]:https://leetcode-cn.com/problems/positions-of-large-groups/
 [832l]:https://leetcode-cn.com/problems/flipping-an-image/

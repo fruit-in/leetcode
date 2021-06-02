@@ -392,6 +392,7 @@
 [817][817l]  |[Linked List Components][817]                                                         |![py]&nbsp;&nbsp;![rb]
 [819][819l]  |[Most Common Word][819]                                                               |![py]
 [821][821l]  |[Shortest Distance to a Character][821]                                               |![py]
+[822][822l]  |[Card Flipping Game][822]                                                             |![rs]
 [824][824l]  |[Goat Latin][824]                                                                     |![py]
 [830][830l]  |[Positions of Large Groups][830]                                                      |![rs]
 [832][832l]  |[Flipping an Image][832]                                                              |![py]
@@ -1164,6 +1165,7 @@
 [817]:./Medium/0817-Linked%20List%20Components/README.md#817-linked-list-components
 [819]:./Easy/0819-Most%20Common%20Word/README.md#819-most-common-word
 [821]:./Easy/0821-Shortest%20Distance%20to%20a%20Character/README.md#821-shortest-distance-to-a-character
+[822]:./Medium/0822-Card%20Flipping%20Game/README.md#822-card-flipping-game
 [824]:./Easy/0824-Goat%20Latin/README.md#824-goat-latin
 [830]:./Easy/0830-Positions%20of%20Large%20Groups/README.md#830-positions-of-large-groups
 [832]:./Easy/0832-Flipping%20an%20Image/README.md#832-flipping-an-image
@@ -1942,6 +1944,7 @@
 [817l]:https://leetcode.com/problems/linked-list-components/
 [819l]:https://leetcode.com/problems/most-common-word/
 [821l]:https://leetcode.com/problems/shortest-distance-to-a-character/
+[822l]:https://leetcode.com/problems/card-flipping-game/
 [824l]:https://leetcode.com/problems/goat-latin/
 [830l]:https://leetcode.com/problems/positions-of-large-groups/
 [832l]:https://leetcode.com/problems/flipping-an-image/
