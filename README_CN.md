@@ -766,6 +766,7 @@
 [1800][1800l]|[最大升序子数组和][1800]                                  |![rb]&nbsp;&nbsp;![rs]
 [1805][1805l]|[字符串中不同整数的数目][1805]                            |![rs]
 [1812][1812l]|[判断国际象棋棋盘中一个格子的颜色][1812]                  |![py]&nbsp;&nbsp;![rb]
+[1816][1816l]|[截断句子][1816]                                          |![py]
 [1833][1833l]|[雪糕的最大数量][1833]                                    |![rs]
 
 
@@ -1539,6 +1540,7 @@
 [1800]:./Easy/1800-Maximum%20Ascending%20Subarray%20Sum/README_CN.md#1800-最大升序子数组和
 [1805]:./Easy/1805-Number%20of%20Different%20Integers%20in%20a%20String/README_CN.md#1805-字符串中不同整数的数目
 [1812]:./Easy/1812-Determine%20Color%20of%20a%20Chessboard%20Square/README_CN.md#1812-判断国际象棋棋盘中一个格子的颜色
+[1816]:./Easy/1816-Truncate%20Sentence/README_CN.md#1816-截断句子
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README_CN.md#1833-雪糕的最大数量
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
@@ -2318,4 +2320,5 @@
 [1800l]:https://leetcode-cn.com/problems/maximum-ascending-subarray-sum/
 [1805l]:https://leetcode-cn.com/problems/number-of-different-integers-in-a-string/
 [1812l]:https://leetcode-cn.com/problems/determine-color-of-a-chessboard-square/
+[1816l]:https://leetcode-cn.com/problems/truncate-sentence/
 [1833l]:https://leetcode-cn.com/problems/maximum-ice-cream-bars/
