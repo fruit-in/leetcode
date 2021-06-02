@@ -400,6 +400,7 @@
 [840][840l]  |[Magic Squares In Grid][840]                                                          |![rs]
 [841][841l]  |[Keys and Rooms][841]                                                                 |![rs]
 [844][844l]  |[Backspace String Compare][844]                                                       |![py]
+[846][846l]  |[Hand of Straights][846]                                                              |![rs]
 [848][848l]  |[Shifting Letters][848]                                                               |![rs]
 [849][849l]  |[Maximize Distance to Closest Person][849]                                            |![rs]
 [852][852l]  |[Peak Index in a Mountain Array][852]                                                 |![rs]
@@ -1167,6 +1168,7 @@
 [840]:./Easy/0840-Magic%20Squares%20In%20Grid/README.md#840-magic-squares-in-grid
 [841]:./Medium/0841-Keys%20and%20Rooms/README.md#841-keys-and-rooms
 [844]:./Easy/0844-Backspace%20String%20Compare/README.md#844-backspace-string-compare
+[846]:./Medium/0846-Hand%20of%20Straights/README.md#846-hand-of-straights
 [848]:./Medium/0848-Shifting%20Letters/README.md#848-shifting-letters
 [849]:./Easy/0849-Maximize%20Distance%20to%20Closest%20Person/README.md#849-maximize-distance-to-closest-person
 [852]:./Easy/0852-Peak%20Index%20in%20a%20Mountain%20Array/README.md#852-peak-index-in-a-mountain-array
@@ -1940,6 +1942,7 @@
 [840l]:https://leetcode.com/problems/magic-squares-in-grid/
 [841l]:https://leetcode.com/problems/keys-and-rooms/
 [844l]:https://leetcode.com/problems/backspace-string-compare/
+[846l]:https://leetcode.com/problems/hand-of-straights/
 [848l]:https://leetcode.com/problems/shifting-letters/
 [849l]:https://leetcode.com/problems/maximize-distance-to-closest-person/
 [852l]:https://leetcode.com/problems/peak-index-in-a-mountain-array/

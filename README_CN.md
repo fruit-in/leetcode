@@ -400,6 +400,7 @@
 [840][840l]  |[矩阵中的幻方][840]                                       |![rs]
 [841][841l]  |[钥匙和房间][841]                                         |![rs]
 [844][844l]  |[比较含退格的字符串][844]                                 |![py]
+[846][846l]  |[一手顺子][846]                                           |![rs]
 [848][848l]  |[字母移位][848]                                           |![rs]
 [849][849l]  |[到最近的人的最大距离][849]                               |![rs]
 [852][852l]  |[山脉数组的峰顶索引][852]                                 |![rs]
@@ -1167,6 +1168,7 @@
 [840]:./Easy/0840-Magic%20Squares%20In%20Grid/README_CN.md#840-矩阵中的幻方
 [841]:./Medium/0841-Keys%20and%20Rooms/README_CN.md#841-钥匙和房间
 [844]:./Easy/0844-Backspace%20String%20Compare/README_CN.md#844-比较含退格的字符串
+[846]:./Medium/0846-Hand%20of%20Straights/README_CN.md#846-一手顺子
 [848]:./Medium/0848-Shifting%20Letters/README_CN.md#848-字母移位
 [849]:./Easy/0849-Maximize%20Distance%20to%20Closest%20Person/README_CN.md#849-到最近的人的最大距离
 [852]:./Easy/0852-Peak%20Index%20in%20a%20Mountain%20Array/README_CN.md#852-山脉数组的峰顶索引
@@ -1940,6 +1942,7 @@
 [840l]:https://leetcode-cn.com/problems/magic-squares-in-grid/
 [841l]:https://leetcode-cn.com/problems/keys-and-rooms/
 [844l]:https://leetcode-cn.com/problems/backspace-string-compare/
+[846l]:https://leetcode-cn.com/problems/hand-of-straights/
 [848l]:https://leetcode-cn.com/problems/shifting-letters/
 [849l]:https://leetcode-cn.com/problems/maximize-distance-to-closest-person/
 [852l]:https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/
