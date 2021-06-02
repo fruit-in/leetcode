@@ -571,6 +571,7 @@
 [1290][1290l]|[Convert Binary Number in a Linked List to Integer][1290]                             |![py]
 [1291][1291l]|[Sequential Digits][1291]                                                             |![rb]&nbsp;&nbsp;![rs]
 [1295][1295l]|[Find Numbers with Even Number of Digits][1295]                                       |![py]
+[1296][1296l]|[Divide Array in Sets of K Consecutive Numbers][1296]                                 |![rs]
 [1299][1299l]|[Replace Elements with Greatest Element on Right Side][1299]                          |![rs]
 [1302][1302l]|[Deepest Leaves Sum][1302]                                                            |![py]
 [1304][1304l]|[Find N Unique Integers Sum up to Zero][1304]                                         |![rs]
@@ -1339,6 +1340,7 @@
 [1290]:./Easy/1290-Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/README.md#1290-convert-binary-number-in-a-linked-list-to-integer
 [1291]:./Medium/1291-Sequential%20Digits/README.md#1291-sequential-digits
 [1295]:./Easy/1295-Find%20Numbers%20with%20Even%20Number%20of%20Digits/README.md#1295-find-numbers-with-even-number-of-digits
+[1296]:./Medium/1296-Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers/README.md#1296-divide-array-in-sets-of-k-consecutive-numbers
 [1299]:./Easy/1299-Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/README.md#1299-replace-elements-with-greatest-element-on-right-side
 [1302]:./Medium/1302-Deepest%20Leaves%20Sum/README.md#1302-deepest-leaves-sum
 [1304]:./Easy/1304-Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/README.md#1304-find-n-unique-integers-sum-up-to-zero
@@ -2113,6 +2115,7 @@
 [1290l]:https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 [1291l]:https://leetcode.com/problems/sequential-digits/
 [1295l]:https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+[1296l]:https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
 [1299l]:https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 [1302l]:https://leetcode.com/problems/deepest-leaves-sum/
 [1304l]:https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
