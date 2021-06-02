@@ -17,6 +17,7 @@
 [13][13l]    |[Roman to Integer][13]                                                                |![rs]
 [14][14l]    |[Longest Common Prefix][14]                                                           |![py]
 [15][15l]    |[3Sum][15]                                                                            |![rs]
+[16][16l]    |[3Sum Closest][16]                                                                    |![rs]
 [17][17l]    |[Letter Combinations of a Phone Number][17]                                           |![py]
 [19][19l]    |[Remove Nth Node From End of List][19]                                                |![py]&nbsp;&nbsp;![rb]
 [20][20l]    |[Valid Parentheses][20]                                                               |![py]
@@ -792,6 +793,7 @@
 [13]:./Easy/0013-Roman%20to%20Integer/README.md#13-roman-to-integer
 [14]:./Easy/0014-Longest%20Common%20Prefix/README.md#14-longest-common-prefix
 [15]:./Medium/0015-3Sum/README.md#15-3sum
+[16]:./Medium/0016-3Sum%20Closest/README.md#16-3sum-closest
 [17]:./Medium/0017-Letter%20Combinations%20of%20a%20Phone%20Number/README.md#17-letter-combinations-of-a-phone-number
 [19]:./Medium/0019-Remove%20Nth%20Node%20From%20End%20of%20List/README.md#19-remove-nth-node-from-end-of-list
 [20]:./Easy/0020-Valid%20Parentheses/README.md#20-valid-parentheses
@@ -1559,6 +1561,7 @@
 [13l]:https://leetcode.com/problems/roman-to-integer/
 [14l]:https://leetcode.com/problems/longest-common-prefix/
 [15l]:https://leetcode.com/problems/3sum/
+[16l]:https://leetcode.com/problems/3sum-closest/
 [17l]:https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 [19l]:https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [20l]:https://leetcode.com/problems/valid-parentheses/
