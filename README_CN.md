@@ -745,6 +745,7 @@
 [1726][1726l]|[同积元组][1726]                                          |![rb]&nbsp;&nbsp;![rs]
 [1732][1732l]|[找到最高海拔][1732]                                      |![rb]&nbsp;&nbsp;![rs]
 [1736][1736l]|[替换隐藏数字得到的最晚时间][1736]                        |![rs]
+[1738][1738l]|[找出第 K 大的异或坐标值][1738]                           |![rb]&nbsp;&nbsp;![rs]
 [1742][1742l]|[盒子中小球的最大数量][1742]                              |![py]
 [1748][1748l]|[唯一元素的和][1748]                                      |![rs]
 [1749][1749l]|[任意子数组和的绝对值的最大值][1749]                      |![rb]&nbsp;&nbsp;![rs]
@@ -1516,6 +1517,7 @@
 [1726]:./Medium/1726-Tuple%20with%20Same%20Product/README_CN.md#1726-同积元组
 [1732]:./Easy/1732-Find%20the%20Highest%20Altitude/README_CN.md#1732-找到最高海拔
 [1736]:./Easy/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README_CN.md#1736-替换隐藏数字得到的最晚时间
+[1738]:./Medium/1738-Find%20Kth%20Largest%20XOR%20Coordinate%20Value/README_CN.md#1738-找出第-k-大的异或坐标值
 [1742]:./Easy/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README_CN.md#1742-盒子中小球的最大数量
 [1748]:./Easy/1748-Sum%20of%20Unique%20Elements/README_CN.md#1748-唯一元素的和
 [1749]:./Medium/1749-Maximum%20Absolute%20Sum%20of%20Any%20Subarray/README_CN.md#1749-任意子数组和的绝对值的最大值
@@ -2293,6 +2295,7 @@
 [1726l]:https://leetcode-cn.com/problems/tuple-with-same-product/
 [1732l]:https://leetcode-cn.com/problems/find-the-highest-altitude/
 [1736l]:https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/
+[1738l]:https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/
 [1742l]:https://leetcode-cn.com/problems/maximum-number-of-balls-in-a-box/
 [1748l]:https://leetcode-cn.com/problems/sum-of-unique-elements/
 [1749l]:https://leetcode-cn.com/problems/maximum-absolute-sum-of-any-subarray/

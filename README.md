@@ -745,6 +745,7 @@
 [1726][1726l]|[Tuple with Same Product][1726]                                                       |![rb]&nbsp;&nbsp;![rs]
 [1732][1732l]|[Find the Highest Altitude][1732]                                                     |![rb]&nbsp;&nbsp;![rs]
 [1736][1736l]|[Latest Time by Replacing Hidden Digits][1736]                                        |![rs]
+[1738][1738l]|[Find Kth Largest XOR Coordinate Value][1738]                                         |![rb]&nbsp;&nbsp;![rs]
 [1742][1742l]|[Maximum Number of Balls in a Box][1742]                                              |![py]
 [1748][1748l]|[Sum of Unique Elements][1748]                                                        |![rs]
 [1749][1749l]|[Maximum Absolute Sum of Any Subarray][1749]                                          |![rb]&nbsp;&nbsp;![rs]
@@ -1516,6 +1517,7 @@
 [1726]:./Medium/1726-Tuple%20with%20Same%20Product/README.md#1726-tuple-with-same-product
 [1732]:./Easy/1732-Find%20the%20Highest%20Altitude/README.md#1732-find-the-highest-altitude
 [1736]:./Easy/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README.md#1736-latest-time-by-replacing-hidden-digits
+[1738]:./Medium/1738-Find%20Kth%20Largest%20XOR%20Coordinate%20Value/README.md#1738-find-kth-largest-xor-coordinate-value
 [1742]:./Easy/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README.md#1742-maximum-number-of-balls-in-a-box
 [1748]:./Easy/1748-Sum%20of%20Unique%20Elements/README.md#1748-sum-of-unique-elements
 [1749]:./Medium/1749-Maximum%20Absolute%20Sum%20of%20Any%20Subarray/README.md#1749-maximum-absolute-sum-of-any-subarray
@@ -2293,6 +2295,7 @@
 [1726l]:https://leetcode.com/problems/tuple-with-same-product/
 [1732l]:https://leetcode.com/problems/find-the-highest-altitude/
 [1736l]:https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/
+[1738l]:https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/
 [1742l]:https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
 [1748l]:https://leetcode-cn.com/problems/sum-of-unique-elements/
 [1749l]:https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/
