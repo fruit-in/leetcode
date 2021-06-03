@@ -638,6 +638,7 @@
 [1413][1413l]|[Minimum Value to Get Positive Step by Step Sum][1413]                                |![rs]
 [1415][1415l]|[The k-th Lexicographical String of All Happy Strings of Length n][1415]              |![py]&nbsp;&nbsp;![rb]
 [1417][1417l]|[Reformat The String][1417]                                                           |![rs]
+[1419][1419l]|[Minimum Number of Frogs Croaking][1419]                                              |![rb]&nbsp;&nbsp;![rs]
 [1422][1422l]|[Maximum Score After Splitting a String][1422]                                        |![rs]
 [1423][1423l]|[Maximum Points You Can Obtain from Cards][1423]                                      |![rs]
 [1424][1424l]|[Diagonal Traverse II][1424]                                                          |![rb]
@@ -1417,6 +1418,7 @@
 [1413]:./Easy/1413-Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/README.md#1413-minimum-value-to-get-positive-step-by-step-sum
 [1415]:./Medium/1415-The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/README.md#1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n
 [1417]:./Easy/1417-Reformat%20The%20String/README.md#1417-reformat-the-string
+[1419]:./Medium/1419-Minimum%20Number%20of%20Frogs%20Croaking/README.md#1419-minimum-number-of-frogs-croaking
 [1422]:./Easy/1422-Maximum%20Score%20After%20Splitting%20a%20String/README.md#1422-maximum-score-after-splitting-a-string
 [1423]:./Medium/1423-Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/README.md#1423-maximum-points-you-can-obtain-from-cards
 [1424]:./Medium/1424-Diagonal%20Traverse%20II/README.md#1424-diagonal-traverse-ii
@@ -2202,6 +2204,7 @@
 [1413l]:https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
 [1415l]:https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 [1417l]:https://leetcode.com/problems/reformat-the-string/
+[1419l]:https://leetcode.com/problems/minimum-number-of-frogs-croaking/
 [1422l]:https://leetcode.com/problems/maximum-score-after-splitting-a-string/
 [1423l]:https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 [1424l]:https://leetcode.com/problems/diagonal-traverse-ii/
