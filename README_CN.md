@@ -341,6 +341,7 @@
 [690][690l]  |[员工的重要性][690]                                       |![py]
 [692][692l]  |[前K个高频单词][692]                                      |![rb]
 [693][693l]  |[交替位二进制数][693]                                     |![rs]
+[695][695l]  |[岛屿的最大面积][695]                                     |![rb]&nbsp;&nbsp;![rs]
 [696][696l]  |[计数二进制子串][696]                                     |![py]&nbsp;&nbsp;![rb]
 [697][697l]  |[数组的度][697]                                           |![rs]
 [700][700l]  |[二叉搜索树中的搜索][700]                                 |![py]
@@ -1121,6 +1122,7 @@
 [690]:./Easy/0690-Employee%20Importance/README_CN.md#690-员工的重要性
 [692]:./Medium/0692-Top%20K%20Frequent%20Words/README_CN.md#692-前k个高频单词
 [693]:./Easy/0693-Binary%20Number%20with%20Alternating%20Bits/README_CN.md#693-交替位二进制数
+[695]:./Medium/0695-Max%20Area%20of%20Island/README_CN.md#695-岛屿的最大面积
 [696]:./Easy/0696-Count%20Binary%20Substrings/README_CN.md#696-计数二进制子串
 [697]:./Easy/0697-Degree%20of%20an%20Array/README_CN.md#697-数组的度
 [700]:./Easy/0700-Search%20in%20a%20Binary%20Search%20Tree/README_CN.md#700-二叉搜索树中的搜索
@@ -1907,6 +1909,7 @@
 [690l]:https://leetcode-cn.com/problems/employee-importance/
 [692l]:https://leetcode-cn.com/problems/top-k-frequent-words/
 [693l]:https://leetcode-cn.com/problems/binary-number-with-alternating-bits/
+[695l]:https://leetcode-cn.com/problems/max-area-of-island/
 [696l]:https://leetcode-cn.com/problems/count-binary-substrings/
 [697l]:https://leetcode-cn.com/problems/degree-of-an-array/
 [700l]:https://leetcode-cn.com/problems/search-in-a-binary-search-tree/

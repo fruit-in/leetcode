@@ -341,6 +341,7 @@
 [690][690l]  |[Employee Importance][690]                                                            |![py]
 [692][692l]  |[Top K Frequent Words][692]                                                           |![rb]
 [693][693l]  |[Binary Number with Alternating Bits][693]                                            |![rs]
+[695][695l]  |[Max Area of Island][695]                                                             |![rb]&nbsp;&nbsp;![rs]
 [696][696l]  |[Count Binary Substrings][696]                                                        |![py]&nbsp;&nbsp;![rb]
 [697][697l]  |[Degree of an Array][697]                                                             |![rs]
 [700][700l]  |[Search in a Binary Search Tree][700]                                                 |![py]
@@ -1121,6 +1122,7 @@
 [690]:./Easy/0690-Employee%20Importance/README.md#690-employee-importance
 [692]:./Medium/0692-Top%20K%20Frequent%20Words/README.md#692-top-k-frequent-words
 [693]:./Easy/0693-Binary%20Number%20with%20Alternating%20Bits/README.md#693-binary-number-with-alternating-bits
+[695]:./Medium/0695-Max%20Area%20of%20Island/README.md#695-max-area-of-island
 [696]:./Easy/0696-Count%20Binary%20Substrings/README.md#696-count-binary-substrings
 [697]:./Easy/0697-Degree%20of%20an%20Array/README.md#697-degree-of-an-array
 [700]:./Easy/0700-Search%20in%20a%20Binary%20Search%20Tree/README.md#700-search-in-a-binary-search-tree
@@ -1907,6 +1909,7 @@
 [690l]:https://leetcode.com/problems/employee-importance/
 [692l]:https://leetcode.com/problems/top-k-frequent-words/
 [693l]:https://leetcode.com/problems/binary-number-with-alternating-bits/
+[695l]:https://leetcode.com/problems/max-area-of-island/
 [696l]:https://leetcode.com/problems/count-binary-substrings/
 [697l]:https://leetcode.com/problems/degree-of-an-array/
 [700l]:https://leetcode.com/problems/search-in-a-binary-search-tree/
