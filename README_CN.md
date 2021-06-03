@@ -754,6 +754,7 @@
 [1742][1742l]|[盒子中小球的最大数量][1742]                              |![py]
 [1748][1748l]|[唯一元素的和][1748]                                      |![rs]
 [1749][1749l]|[任意子数组和的绝对值的最大值][1749]                      |![rb]&nbsp;&nbsp;![rs]
+[1750][1750l]|[删除字符串两端相同字符后的最短长度][1750]                |![rb]&nbsp;&nbsp;![rs]
 [1752][1752l]|[检查数组是否经排序和轮转得到][1752]                      |![rb]&nbsp;&nbsp;![rs]
 [1753][1753l]|[移除石子的最大得分][1753]                                |![rb]&nbsp;&nbsp;![rs]
 [1758][1758l]|[生成交替二进制字符串的最少操作数][1758]                  |![rb]&nbsp;&nbsp;![rs]
@@ -1532,6 +1533,7 @@
 [1742]:./Easy/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README_CN.md#1742-盒子中小球的最大数量
 [1748]:./Easy/1748-Sum%20of%20Unique%20Elements/README_CN.md#1748-唯一元素的和
 [1749]:./Medium/1749-Maximum%20Absolute%20Sum%20of%20Any%20Subarray/README_CN.md#1749-任意子数组和的绝对值的最大值
+[1750]:./Medium/1750-Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends/README_CN.md#1750-删除字符串两端相同字符后的最短长度
 [1752]:./Easy/1752-Check%20if%20Array%20Is%20Sorted%20and%20Rotated/README_CN.md#1752-检查数组是否经排序和轮转得到
 [1753]:./Medium/1753-Maximum%20Score%20From%20Removing%20Stones/README_CN.md#1753-移除石子的最大得分
 [1758]:./Easy/1758-Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/README_CN.md#1758-生成交替二进制字符串的最少操作数
@@ -2316,6 +2318,7 @@
 [1742l]:https://leetcode-cn.com/problems/maximum-number-of-balls-in-a-box/
 [1748l]:https://leetcode-cn.com/problems/sum-of-unique-elements/
 [1749l]:https://leetcode-cn.com/problems/maximum-absolute-sum-of-any-subarray/
+[1750l]:https://leetcode-cn.com/problems/minimum-length-of-string-after-deleting-similar-ends/
 [1752l]:https://leetcode-cn.com/problems/check-if-array-is-sorted-and-rotated/
 [1753l]:https://leetcode-cn.com/problems/maximum-score-from-removing-stones/
 [1758l]:https://leetcode-cn.com/problems/minimum-changes-to-make-alternating-binary-string/
