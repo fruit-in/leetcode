@@ -423,6 +423,7 @@
 [870][870l]  |[Advantage Shuffle][870]                                                              |![rb]&nbsp;&nbsp;![rs]
 [872][872l]  |[Leaf-Similar Trees][872]                                                             |![py]
 [874][874l]  |[Walking Robot Simulation][874]                                                       |![rs]
+[875][875l]  |[Koko Eating Bananas][875]                                                            |![rb]&nbsp;&nbsp;![rs]
 [876][876l]  |[Middle of the Linked List][876]                                                      |![py]
 [877][877l]  |[Stone Game][877]                                                                     |![rs]
 [881][881l]  |[Boats to Save People][881]                                                           |![rb]
@@ -1204,6 +1205,7 @@
 [870]:./Medium/0870-Advantage%20Shuffle/README.md#870-advantage-shuffle
 [872]:./Easy/0872-Leaf-Similar%20Trees/README.md#872-leaf-similar-trees
 [874]:./Easy/0874-Walking%20Robot%20Simulation/README.md#874-walking-robot-simulation
+[875]:./Medium/0875-Koko%20Eating%20Bananas/README.md#875-koko-eating-bananas
 [876]:./Easy/0876-Middle%20of%20the%20Linked%20List/README.md#876-middle-of-the-linked-list
 [877]:./Medium/0877-Stone%20Game/README.md#877-stone-game
 [881]:./Medium/0881-Boats%20to%20Save%20People/README.md#881-boats-to-save-people
@@ -1991,6 +1993,7 @@
 [870l]:https://leetcode.com/problems/advantage-shuffle/
 [872l]:https://leetcode.com/problems/leaf-similar-trees/
 [874l]:https://leetcode.com/problems/walking-robot-simulation/
+[875l]:https://leetcode.com/problems/koko-eating-bananas/
 [876l]:https://leetcode.com/problems/middle-of-the-linked-list/
 [877l]:https://leetcode.com/problems/stone-game/
 [881l]:https://leetcode.com/problems/boats-to-save-people/

@@ -423,6 +423,7 @@
 [870][870l]  |[优势洗牌][870]                                           |![rb]&nbsp;&nbsp;![rs]
 [872][872l]  |[叶子相似的树][872]                                       |![py]
 [874][874l]  |[模拟行走机器人][874]                                     |![rs]
+[875][875l]  |[爱吃香蕉的珂珂][875]                                     |![rb]&nbsp;&nbsp;![rs]
 [876][876l]  |[链表的中间结点][876]                                     |![py]
 [877][877l]  |[石子游戏][877]                                           |![rs]
 [881][881l]  |[救生艇][881]                                             |![rb]
@@ -1204,6 +1205,7 @@
 [870]:./Medium/0870-Advantage%20Shuffle/README_CN.md#870-优势洗牌
 [872]:./Easy/0872-Leaf-Similar%20Trees/README_CN.md#872-叶子相似的树
 [874]:./Easy/0874-Walking%20Robot%20Simulation/README_CN.md#874-模拟行走机器人
+[875]:./Medium/0875-Koko%20Eating%20Bananas/README_CN.md#875-爱吃香蕉的珂珂
 [876]:./Easy/0876-Middle%20of%20the%20Linked%20List/README_CN.md#876-链表的中间结点
 [877]:./Medium/0877-Stone%20Game/README_CN.md#877-石子游戏
 [881]:./Medium/0881-Boats%20to%20Save%20People/README_CN.md#881-救生艇
@@ -1991,6 +1993,7 @@
 [870l]:https://leetcode-cn.com/problems/advantage-shuffle/
 [872l]:https://leetcode-cn.com/problems/leaf-similar-trees/
 [874l]:https://leetcode-cn.com/problems/walking-robot-simulation/
+[875l]:https://leetcode-cn.com/problems/koko-eating-bananas/
 [876l]:https://leetcode-cn.com/problems/middle-of-the-linked-list/
 [877l]:https://leetcode-cn.com/problems/stone-game/
 [881l]:https://leetcode-cn.com/problems/boats-to-save-people/
