@@ -534,6 +534,7 @@
 [1128][1128l]|[Number of Equivalent Domino Pairs][1128]                                             |![rs]
 [1137][1137l]|[N-th Tribonacci Number][1137]                                                        |![rs]
 [1138][1138l]|[Alphabet Board Path][1138]                                                           |![rb]&nbsp;&nbsp;![rs]
+[1144][1144l]|[Decrease Elements To Make Array Zigzag][1144]                                        |![rs]
 [1146][1146l]|[Snapshot Array][1146]                                                                |![rb]&nbsp;&nbsp;![rs]
 [1154][1154l]|[Day of the Year][1154]                                                               |![rs]
 [1155][1155l]|[Number of Dice Rolls With Target Sum][1155]                                          |![py]&nbsp;&nbsp;![rs]
@@ -1317,6 +1318,7 @@
 [1128]:./Easy/1128-Number%20of%20Equivalent%20Domino%20Pairs/README.md#1128-number-of-equivalent-domino-pairs
 [1137]:./Easy/1137-N-th%20Tribonacci%20Number/README.md#1137-n-th-tribonacci-number
 [1138]:./Medium/1138-Alphabet%20Board%20Path/README.md#1138-alphabet-board-path
+[1144]:./Medium/1144-Decrease%20Elements%20To%20Make%20Array%20Zigzag/README.md#1144-decrease-elements-to-make-array-zigzag
 [1146]:./Medium/1146-Snapshot%20Array/README.md#1146-snapshot-array
 [1154]:./Easy/1154-Day%20of%20the%20Year/README.md#1154-day-of-the-year
 [1155]:./Medium/1155-Number%20of%20Dice%20Rolls%20With%20Target%20Sum/README.md#1155-number-of-dice-rolls-with-target-sum
@@ -2106,6 +2108,7 @@
 [1128l]:https://leetcode.com/problems/number-of-equivalent-domino-pairs/
 [1137l]:https://leetcode.com/problems/n-th-tribonacci-number/
 [1138l]:https://leetcode.com/problems/alphabet-board-path/
+[1144l]:https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
 [1146l]:https://leetcode.com/problems/snapshot-array/
 [1154l]:https://leetcode.com/problems/day-of-the-year/
 [1155l]:https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
