@@ -400,6 +400,7 @@
 [824][824l]  |[Goat Latin][824]                                                                     |![py]
 [826][826l]  |[Most Profit Assigning Work][826]                                                     |![rs]
 [830][830l]  |[Positions of Large Groups][830]                                                      |![rs]
+[831][831l]  |[Masking Personal Information][831]                                                   |![rb]
 [832][832l]  |[Flipping an Image][832]                                                              |![py]
 [836][836l]  |[Rectangle Overlap][836]                                                              |![rs]
 [838][838l]  |[Push Dominoes][838]                                                                  |![rb]&nbsp;&nbsp;![rs]
@@ -1182,6 +1183,7 @@
 [824]:./Easy/0824-Goat%20Latin/README.md#824-goat-latin
 [826]:./Medium/0826-Most%20Profit%20Assigning%20Work/README.md#826-most-profit-assigning-work
 [830]:./Easy/0830-Positions%20of%20Large%20Groups/README.md#830-positions-of-large-groups
+[831]:./Medium/0831-Masking%20Personal%20Information/README.md#831-masking-personal-information
 [832]:./Easy/0832-Flipping%20an%20Image/README.md#832-flipping-an-image
 [836]:./Easy/0836-Rectangle%20Overlap/README.md#836-rectangle-overlap
 [838]:./Medium/0838-Push%20Dominoes/README.md#838-push-dominoes
@@ -1970,6 +1972,7 @@
 [824l]:https://leetcode.com/problems/goat-latin/
 [826l]:https://leetcode.com/problems/most-profit-assigning-work/
 [830l]:https://leetcode.com/problems/positions-of-large-groups/
+[831l]:https://leetcode.com/problems/masking-personal-information/
 [832l]:https://leetcode.com/problems/flipping-an-image/
 [836l]:https://leetcode.com/problems/rectangle-overlap/
 [838l]:https://leetcode.com/problems/push-dominoes/

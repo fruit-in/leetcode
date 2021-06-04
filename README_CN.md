@@ -400,6 +400,7 @@
 [824][824l]  |[山羊拉丁文][824]                                         |![py]
 [826][826l]  |[安排工作以达到最大收益][826]                             |![rs]
 [830][830l]  |[较大分组的位置][830]                                     |![rs]
+[831][831l]  |[隐藏个人信息][831]                                       |![rb]
 [832][832l]  |[翻转图像][832]                                           |![py]
 [836][836l]  |[矩形重叠][836]                                           |![rs]
 [838][838l]  |[推多米诺][838]                                           |![rb]&nbsp;&nbsp;![rs]
@@ -1182,6 +1183,7 @@
 [824]:./Easy/0824-Goat%20Latin/README_CN.md#824-山羊拉丁文
 [826]:./Medium/0826-Most%20Profit%20Assigning%20Work/README_CN.md#826-安排工作以达到最大收益
 [830]:./Easy/0830-Positions%20of%20Large%20Groups/README_CN.md#830-较大分组的位置
+[831]:./Medium/0831-Masking%20Personal%20Information/README_CN.md#831-隐藏个人信息
 [832]:./Easy/0832-Flipping%20an%20Image/README_CN.md#832-翻转图像
 [836]:./Easy/0836-Rectangle%20Overlap/README_CN.md#836-矩形重叠
 [838]:./Medium/0838-Push%20Dominoes/README_CN.md#838-推多米诺
@@ -1970,6 +1972,7 @@
 [824l]:https://leetcode-cn.com/problems/goat-latin/
 [826l]:https://leetcode-cn.com/problems/most-profit-assigning-work/
 [830l]:https://leetcode-cn.com/problems/positions-of-large-groups/
+[831l]:https://leetcode-cn.com/problems/masking-personal-information/
 [832l]:https://leetcode-cn.com/problems/flipping-an-image/
 [836l]:https://leetcode-cn.com/problems/rectangle-overlap/
 [838l]:https://leetcode-cn.com/problems/push-dominoes/
