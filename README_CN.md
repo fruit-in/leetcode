@@ -476,6 +476,7 @@
 [969][969l]  |[煎饼排序][969]                                           |![py]
 [970][970l]  |[强整数][970]                                             |![rs]
 [973][973l]  |[最接近原点的 K 个点][973]                                |![rs]
+[974][974l]  |[和可被 K 整除的子数组][974]                              |![rb]&nbsp;&nbsp;![rs]
 [976][976l]  |[三角形的最大周长][976]                                   |![rs]
 [977][977l]  |[有序数组的平方][977]                                     |![rs]
 [984][984l]  |[不含 AAA 或 BBB 的字符串][984]                           |![rb]
@@ -1260,6 +1261,7 @@
 [969]:./Medium/0969-Pancake%20Sorting/README_CN.md#969-煎饼排序
 [970]:./Easy/0970-Powerful%20Integers/README_CN.md#970-强整数
 [973]:./Medium/0973-K%20Closest%20Points%20to%20Origin/README_CN.md#973-最接近原点的-K-个点
+[974]:./Medium/0974-Subarray%20Sums%20Divisible%20by%20K/README_CN.md#974-和可被-k-整除的子数组
 [976]:./Easy/0976-Largest%20Perimeter%20Triangle/README_CN.md#976-三角形的最大周长
 [977]:./Easy/0977-Squares%20of%20a%20Sorted%20Array/README_CN.md#977-有序数组的平方
 [984]:./Medium/0984-String%20Without%20AAA%20or%20BBB/README_CN.md#984-不含-aaa-或-bbb-的字符串
@@ -2050,6 +2052,7 @@
 [969l]:https://leetcode-cn.com/problems/pancake-sorting/
 [970l]:https://leetcode-cn.com/problems/powerful-integers/
 [973l]:https://leetcode-cn.com/problems/k-closest-points-to-origin/
+[974l]:https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/
 [976l]:https://leetcode-cn.com/problems/largest-perimeter-triangle/
 [977l]:https://leetcode-cn.com/problems/squares-of-a-sorted-array/
 [984l]:https://leetcode-cn.com/problems/string-without-aaa-or-bbb/

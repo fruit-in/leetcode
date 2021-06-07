@@ -476,6 +476,7 @@
 [969][969l]  |[Pancake Sorting][969]                                                                |![py]
 [970][970l]  |[Powerful Integers][970]                                                              |![rs]
 [973][973l]  |[K Closest Points to Origin][973]                                                     |![rs]
+[974][974l]  |[Subarray Sums Divisible by K][974]                                                   |![rb]&nbsp;&nbsp;![rs]
 [976][976l]  |[Largest Perimeter Triangle][976]                                                     |![rs]
 [977][977l]  |[Squares of a Sorted Array][977]                                                      |![rs]
 [984][984l]  |[String Without AAA or BBB][984]                                                      |![rb]
@@ -1260,6 +1261,7 @@
 [969]:./Medium/0969-Pancake%20Sorting/README.md#969-pancake-sorting
 [970]:./Easy/0970-Powerful%20Integers/README.md#970-powerful-integers
 [973]:./Medium/0973-K%20Closest%20Points%20to%20Origin/README.md#973-k-closest-points-to-origin
+[974]:./Medium/0974-Subarray%20Sums%20Divisible%20by%20K/README.md#974-subarray-sums-divisible-by-k
 [976]:./Easy/0976-Largest%20Perimeter%20Triangle/README.md#976-largest-perimeter-triangle
 [977]:./Easy/0977-Squares%20of%20a%20Sorted%20Array/README.md#977-squares-of-a-sorted-array
 [984]:./Medium/0984-String%20Without%20AAA%20or%20BBB/README.md#984-string-without-aaa-or-bbb
@@ -2050,6 +2052,7 @@
 [969l]:https://leetcode.com/problems/pancake-sorting/
 [970l]:https://leetcode.com/problems/powerful-integers/
 [973l]:https://leetcode.com/problems/k-closest-points-to-origin/
+[974l]:https://leetcode.com/problems/subarray-sums-divisible-by-k/
 [976l]:https://leetcode.com/problems/largest-perimeter-triangle/
 [977l]:https://leetcode.com/problems/squares-of-a-sorted-array/
 [984l]:https://leetcode.com/problems/string-without-aaa-or-bbb/
