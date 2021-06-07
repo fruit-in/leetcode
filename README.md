@@ -238,6 +238,7 @@
 [449][449l]  |[Serialize and Deserialize BST][449]                                                  |![py]
 [450][450l]  |[Delete Node in a BST][450]                                                           |![py]&nbsp;&nbsp;![rb]
 [451][451l]  |[Sort Characters By Frequency][451]                                                   |![rs]
+[452][452l]  |[Minimum Number of Arrows to Burst Balloons][452]                                     |![rb]&nbsp;&nbsp;![rs]
 [453][453l]  |[Minimum Moves to Equal Array Elements][453]                                          |![rs]
 [454][454l]  |[4Sum II][454]                                                                        |![rs]
 [455][455l]  |[Assign Cookies][455]                                                                 |![rb]&nbsp;&nbsp;![rs]
@@ -1023,6 +1024,7 @@
 [449]:./Medium/0449-Serialize%20and%20Deserialize%20BST/README.md#449-serialize-and-deserialize-bst
 [450]:./Medium/0450-Delete%20Node%20in%20a%20BST/README.md#450-delete-node-in-a-bst
 [451]:./Medium/0451-Sort%20Characters%20By%20Frequency/README.md#451-sort-characters-by-frequency
+[452]:./Medium/0452-Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/README.md#452-minimum-number-of-arrows-to-burst-balloons
 [453]:./Easy/0453-Minimum%20Moves%20to%20Equal%20Array%20Elements/README.md#453-minimum-moves-to-equal-array-elements
 [454]:./Medium/0454-4Sum%20II/README.md#454-4sum-ii
 [455]:./Easy/0455-Assign%20Cookies/README.md#455-assign-cookies
@@ -1811,6 +1813,7 @@
 [449l]:https://leetcode.com/problems/serialize-and-deserialize-bst/
 [450l]:https://leetcode.com/problems/delete-node-in-a-bst/
 [451l]:https://leetcode.com/problems/sort-characters-by-frequency/
+[452l]:https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 [453l]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 [454l]:https://leetcode.com/problems/4sum-ii/
 [455l]:https://leetcode.com/problems/assign-cookies/
