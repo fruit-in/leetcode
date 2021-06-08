@@ -397,6 +397,7 @@
 [816][816l]  |[模糊坐标][816]                                           |![rs]
 [817][817l]  |[链表组件][817]                                           |![py]&nbsp;&nbsp;![rb]
 [819][819l]  |[最常见的单词][819]                                       |![py]
+[820][820l]  |[单词的压缩编码][820]                                     |![rs]
 [821][821l]  |[字符的最短距离][821]                                     |![py]
 [822][822l]  |[翻转卡片游戏][822]                                       |![rs]
 [824][824l]  |[山羊拉丁文][824]                                         |![py]
@@ -1185,6 +1186,7 @@
 [816]:./Medium/0816-Ambiguous%20Coordinates/README_CN.md#816-模糊坐标
 [817]:./Medium/0817-Linked%20List%20Components/README_CN.md#817-链表组件
 [819]:./Easy/0819-Most%20Common%20Word/README_CN.md#819-最常见的单词
+[820]:./Medium/0820-Short%20Encoding%20of%20Words/README_CN.md#820-单词的压缩编码
 [821]:./Easy/0821-Shortest%20Distance%20to%20a%20Character/README_CN.md#821-字符的最短距离
 [822]:./Medium/0822-Card%20Flipping%20Game/README_CN.md#822-翻转卡片游戏
 [824]:./Easy/0824-Goat%20Latin/README_CN.md#824-山羊拉丁文
@@ -1979,6 +1981,7 @@
 [816l]:https://leetcode-cn.com/problems/ambiguous-coordinates/
 [817l]:https://leetcode-cn.com/problems/linked-list-components/
 [819l]:https://leetcode-cn.com/problems/most-common-word/
+[820l]:https://leetcode-cn.com/problems/short-encoding-of-words/
 [821l]:https://leetcode-cn.com/problems/shortest-distance-to-a-character/
 [822l]:https://leetcode-cn.com/problems/card-flipping-game/
 [824l]:https://leetcode-cn.com/problems/goat-latin/

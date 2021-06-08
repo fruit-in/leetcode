@@ -397,6 +397,7 @@
 [816][816l]  |[Ambiguous Coordinates][816]                                                          |![rs]
 [817][817l]  |[Linked List Components][817]                                                         |![py]&nbsp;&nbsp;![rb]
 [819][819l]  |[Most Common Word][819]                                                               |![py]
+[820][820l]  |[Short Encoding of Words][820]                                                        |![rs]
 [821][821l]  |[Shortest Distance to a Character][821]                                               |![py]
 [822][822l]  |[Card Flipping Game][822]                                                             |![rs]
 [824][824l]  |[Goat Latin][824]                                                                     |![py]
@@ -1185,6 +1186,7 @@
 [816]:./Medium/0816-Ambiguous%20Coordinates/README.md#816-ambiguous-coordinates
 [817]:./Medium/0817-Linked%20List%20Components/README.md#817-linked-list-components
 [819]:./Easy/0819-Most%20Common%20Word/README.md#819-most-common-word
+[820]:./Medium/0820-Short%20Encoding%20of%20Words/README.md#820-short-encoding-of-words
 [821]:./Easy/0821-Shortest%20Distance%20to%20a%20Character/README.md#821-shortest-distance-to-a-character
 [822]:./Medium/0822-Card%20Flipping%20Game/README.md#822-card-flipping-game
 [824]:./Easy/0824-Goat%20Latin/README.md#824-goat-latin
@@ -1979,6 +1981,7 @@
 [816l]:https://leetcode.com/problems/ambiguous-coordinates/
 [817l]:https://leetcode.com/problems/linked-list-components/
 [819l]:https://leetcode.com/problems/most-common-word/
+[820l]:https://leetcode.com/problems/short-encoding-of-words/
 [821l]:https://leetcode.com/problems/shortest-distance-to-a-character/
 [822l]:https://leetcode.com/problems/card-flipping-game/
 [824l]:https://leetcode.com/problems/goat-latin/
