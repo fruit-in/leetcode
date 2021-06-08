@@ -385,6 +385,7 @@
 [791][791l]  |[自定义字符串排序][791]                                   |![rs]
 [794][794l]  |[有效的井字游戏][794]                                     |![rs]
 [796][796l]  |[旋转字符串][796]                                         |![rs]
+[799][799l]  |[香槟塔][799]                                             |![rs]
 [804][804l]  |[唯一摩尔斯密码词][804]                                   |![py]
 [806][806l]  |[写字符串需要的行数][806]                                 |![py]
 [807][807l]  |[保持城市天际线][807]                                     |![rs]
@@ -1172,6 +1173,7 @@
 [791]:./Medium/0791-Custom%20Sort%20String/README_CN.md#791-自定义字符串排序
 [794]:./Medium/0794-Valid%20Tic-Tac-Toe%20State/README_CN.md#794-有效的井字游戏
 [796]:./Easy/0796-Rotate%20String/README_CN.md#796-旋转字符串
+[799]:./Medium/0799-Champagne%20Tower/README_CN.md#799-香槟塔
 [804]:./Easy/0804-Unique%20Morse%20Code%20Words/README_CN.md#804-唯一摩尔斯密码词
 [806]:./Easy/0806-Number%20of%20Lines%20To%20Write%20String/README_CN.md#806-写字符串需要的行数
 [807]:./Medium/0807-Max%20Increase%20to%20Keep%20City%20Skyline/README_CN.md#807-保持城市天际线
@@ -1965,6 +1967,7 @@
 [791l]:https://leetcode-cn.com/problems/custom-sort-string/
 [794l]:https://leetcode-cn.com/problems/valid-tic-tac-toe-state/
 [796l]:https://leetcode-cn.com/problems/rotate-string/
+[799l]:https://leetcode-cn.com/problems/champagne-tower/
 [804l]:https://leetcode-cn.com/problems/unique-morse-code-words/
 [806l]:https://leetcode-cn.com/problems/number-of-lines-to-write-string/
 [807l]:https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/
