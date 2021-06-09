@@ -465,6 +465,7 @@
 [941][941l]  |[有效的山脉数组][941]                                     |![rs]
 [942][942l]  |[增减字符串匹配][942]                                     |![py]
 [944][944l]  |[删列造序][944]                                           |![py]
+[945][945l]  |[使数组唯一的最小增量][945]                               |![rb]&nbsp;&nbsp;![rs]
 [946][946l]  |[验证栈序列][946]                                         |![rb]&nbsp;&nbsp;![rs]
 [948][948l]  |[令牌放置][948]                                           |![rb]&nbsp;&nbsp;![rs]
 [949][949l]  |[给定数字能组成的最大时间][949]                           |![py]
@@ -1254,6 +1255,7 @@
 [941]:./Easy/0941-Valid%20Mountain%20Array/README_CN.md#941-有效的山脉数组
 [942]:./Easy/0942-DI%20String%20Match/README_CN.md#942-增减字符串匹配
 [944]:./Easy/0944-Delete%20Columns%20to%20Make%20Sorted/README_CN.md#944-删列造序
+[945]:./Medium/0945-Minimum%20Increment%20to%20Make%20Array%20Unique/README_CN.md#945-使数组唯一的最小增量
 [946]:./Medium/0946-Validate%20Stack%20Sequences/README_CN.md#946-验证栈序列
 [948]:./Medium/0948-Bag%20of%20Tokens/README_CN.md#948-令牌放置
 [949]:./Easy/0949-Largest%20Time%20for%20Given%20Digits/README_CN.md#949-给定数字能组成的最大时间
@@ -2049,6 +2051,7 @@
 [941l]:https://leetcode-cn.com/problems/valid-mountain-array/
 [942l]:https://leetcode-cn.com/problems/di-string-match/
 [944l]:https://leetcode-cn.com/problems/delete-columns-to-make-sorted/
+[945l]:https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/
 [946l]:https://leetcode-cn.com/problems/validate-stack-sequences/
 [948l]:https://leetcode-cn.com/problems/bag-of-tokens/
 [949l]:https://leetcode-cn.com/problems/largest-time-for-given-digits/

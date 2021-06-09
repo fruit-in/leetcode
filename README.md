@@ -465,6 +465,7 @@
 [941][941l]  |[Valid Mountain Array][941]                                                           |![rs]
 [942][942l]  |[DI String Match][942]                                                                |![py]
 [944][944l]  |[Delete Columns to Make Sorted][944]                                                  |![py]
+[945][945l]  |[Minimum Increment to Make Array Unique][945]                                         |![rb]&nbsp;&nbsp;![rs]
 [946][946l]  |[Validate Stack Sequences][946]                                                       |![rb]&nbsp;&nbsp;![rs]
 [948][948l]  |[Bag of Tokens][948]                                                                  |![rb]&nbsp;&nbsp;![rs]
 [949][949l]  |[Largest Time for Given Digits][949]                                                  |![py]
@@ -1254,6 +1255,7 @@
 [941]:./Easy/0941-Valid%20Mountain%20Array/README.md#941-valid-mountain-array
 [942]:./Easy/0942-DI%20String%20Match/README.md#942-di-string-match
 [944]:./Easy/0944-Delete%20Columns%20to%20Make%20Sorted/README.md#944-delete-columns-to-make-sorted
+[945]:./Medium/0945-Minimum%20Increment%20to%20Make%20Array%20Unique/README.md#945-minimum-increment-to-make-array-unique
 [946]:./Medium/0946-Validate%20Stack%20Sequences/README.md#946-validate-stack-sequences
 [948]:./Medium/0948-Bag%20of%20Tokens/README.md#948-bag-of-tokens
 [949]:./Easy/0949-Largest%20Time%20for%20Given%20Digits/README.md#949-largest-time-for-given-digits
@@ -2049,6 +2051,7 @@
 [941l]:https://leetcode.com/problems/valid-mountain-array/
 [942l]:https://leetcode.com/problems/di-string-match/
 [944l]:https://leetcode.com/problems/delete-columns-to-make-sorted/
+[945l]:https://leetcode.com/problems/minimum-increment-to-make-array-unique/
 [946l]:https://leetcode.com/problems/validate-stack-sequences/
 [948l]:https://leetcode.com/problems/bag-of-tokens/
 [949l]:https://leetcode.com/problems/largest-time-for-given-digits/
