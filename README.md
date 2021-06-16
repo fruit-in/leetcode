@@ -784,6 +784,7 @@
 [1812][1812l]|[Determine Color of a Chessboard Square][1812]                                        |![py]&nbsp;&nbsp;![rb]
 [1816][1816l]|[Truncate Sentence][1816]                                                             |![py]
 [1822][1822l]|[Sign of the Product of an Array][1822]                                               |![rb]&nbsp;&nbsp;![rs]
+[1827][1827l]|[Minimum Operations to Make the Array Increasing][1827]                               |![rb]&nbsp;&nbsp;![rs]
 [1833][1833l]|[Maximum Ice Cream Bars][1833]                                                        |![rs]
 
 
@@ -1575,6 +1576,7 @@
 [1812]:./Easy/1812-Determine%20Color%20of%20a%20Chessboard%20Square/README.md#1812-determine-color-of-a-chessboard-square
 [1816]:./Easy/1816-Truncate%20Sentence/README.md#1816-truncate-sentence
 [1822]:./Easy/1822-Sign%20of%20the%20Product%20of%20an%20Array/README.md#1822-sign-of-the-product-of-an-array
+[1827]:./Easy/1827-Minimum%20Operations%20to%20Make%20the%20Array%20Increasing/README.md#1827-minimum-operations-to-make-the-array-increasing
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README.md#1833-maximum-ice-cream-bars
 
 [1l]:https://leetcode.com/problems/two-sum/
@@ -2372,4 +2374,5 @@
 [1812l]:https://leetcode.com/problems/determine-color-of-a-chessboard-square/
 [1816l]:https://leetcode.com/problems/truncate-sentence/
 [1822l]:https://leetcode.com/problems/sign-of-the-product-of-an-array/
+[1827l]:https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 [1833l]:https://leetcode.com/problems/maximum-ice-cream-bars/
