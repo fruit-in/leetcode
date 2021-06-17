@@ -754,6 +754,7 @@
 [1704][1704l]|[Determine if String Halves Are Alike][1704]                                          |![rb]&nbsp;&nbsp;![rs]
 [1705][1705l]|[Maximum Number of Eaten Apples][1705]                                                |![rs]
 [1710][1710l]|[Maximum Units on a Truck][1710]                                                      |![rs]
+[1712][1712l]|[Ways to Split Array Into Three Subarrays][1712]                                      |![rs]
 [1716][1716l]|[Calculate Money in Leetcode Bank][1716]                                              |![rb]&nbsp;&nbsp;![rs]
 [1720][1720l]|[Decode XORed Array][1720]                                                            |![rb]&nbsp;&nbsp;![rs]
 [1721][1721l]|[Swapping Nodes in a Linked List][1721]                                               |![rb]
@@ -1547,6 +1548,7 @@
 [1704]:./Easy/1704-Determine%20if%20String%20Halves%20Are%20Alike/README.md#1704-determine-if-string-halves-are-alike
 [1705]:./Medium/1705-Maximum%20Number%20of%20Eaten%20Apples/README.md#1705-maximum-number-of-eaten-apples
 [1710]:./Easy/1710-Maximum%20Units%20on%20a%20Truck/README.md#1710-maximum-units-on-a-truck
+[1712]:./Medium/1712-Ways%20to%20Split%20Array%20Into%20Three%20Subarrays/README.md#1712-ways-to-split-array-into-three-subarrays
 [1716]:./Easy/1716-Calculate%20Money%20in%20Leetcode%20Bank/README.md#1716-calculate-money-in-leetcode-bank
 [1720]:./Easy/1720-Decode%20XORed%20Array/README.md#1720-decode-xored-array
 [1721]:./Medium/1721-Swapping%20Nodes%20in%20a%20Linked%20List/README.md#1721-swapping-nodes-in-a-linked-list
@@ -2346,6 +2348,7 @@
 [1704l]:https://leetcode.com/problems/determine-if-string-halves-are-alike/
 [1705l]:https://leetcode.com/problems/maximum-number-of-eaten-apples/
 [1710l]:https://leetcode.com/problems/maximum-units-on-a-truck/
+[1712l]:https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
 [1716l]:https://leetcode.com/problems/calculate-money-in-leetcode-bank/
 [1720l]:https://leetcode.com/problems/decode-xored-array/
 [1721l]:https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
