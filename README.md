@@ -771,6 +771,7 @@
 [1758][1758l]|[Minimum Changes To Make Alternating Binary String][1758]                             |![rb]&nbsp;&nbsp;![rs]
 [1763][1763l]|[Longest Nice Substring][1763]                                                        |![rb]&nbsp;&nbsp;![rs]
 [1768][1768l]|[Merge Strings Alternately][1768]                                                     |![rs]
+[1769][1769l]|[Minimum Number of Operations to Move All Balls to Each Box][1769]                    |![rs]
 [1773][1773l]|[Count Items Matching a Rule][1773]                                                   |![rs]
 [1779][1779l]|[Find Nearest Point That Has the Same X or Y Coordinate][1779]                        |![rs]
 [1780][1780l]|[Check if Number is a Sum of Powers of Three][1780]                                   |![rb]&nbsp;&nbsp;![rs]
@@ -1563,6 +1564,7 @@
 [1758]:./Easy/1758-Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/README.md#1758-minimum-changes-to-make-alternating-binary-string
 [1763]:./Easy/1763-Longest%20Nice%20Substring/README.md#1763-longest-nice-substring
 [1768]:./Easy/1768-Merge%20Strings%20Alternately/README.md#1768-merge-strings-alternately
+[1769]:./Medium/1769-Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box/README.md#1769-minimum-number-of-operations-to-move-all-balls-to-each-box
 [1773]:./Easy/1773-Count%20Items%20Matching%20a%20Rule/README.md#1773-count-items-matching-a-rule
 [1779]:./Easy/1779-Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate/README.md#1779-find-nearest-point-that-has-the-same-x-or-y-coordinate
 [1780]:./Medium/1780-Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three/README.md#1780-check-if-number-is-a-sum-of-powers-of-three
@@ -2361,6 +2363,7 @@
 [1758l]:https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
 [1763l]:https://leetcode.com/problems/longest-nice-substring/
 [1768l]:https://leetcode.com/problems/merge-strings-alternately/
+[1769l]:https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
 [1773l]:https://leetcode.com/problems/count-items-matching-a-rule/
 [1779l]:https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 [1780l]:https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/
