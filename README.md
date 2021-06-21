@@ -764,6 +764,7 @@
 [1736][1736l]|[Latest Time by Replacing Hidden Digits][1736]                                        |![rs]
 [1738][1738l]|[Find Kth Largest XOR Coordinate Value][1738]                                         |![rb]&nbsp;&nbsp;![rs]
 [1742][1742l]|[Maximum Number of Balls in a Box][1742]                                              |![py]
+[1743][1743l]|[Restore the Array From Adjacent Pairs][1743]                                         |![rs]
 [1748][1748l]|[Sum of Unique Elements][1748]                                                        |![rs]
 [1749][1749l]|[Maximum Absolute Sum of Any Subarray][1749]                                          |![rb]&nbsp;&nbsp;![rs]
 [1750][1750l]|[Minimum Length of String After Deleting Similar Ends][1750]                          |![rb]&nbsp;&nbsp;![rs]
@@ -1558,6 +1559,7 @@
 [1736]:./Easy/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README.md#1736-latest-time-by-replacing-hidden-digits
 [1738]:./Medium/1738-Find%20Kth%20Largest%20XOR%20Coordinate%20Value/README.md#1738-find-kth-largest-xor-coordinate-value
 [1742]:./Easy/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README.md#1742-maximum-number-of-balls-in-a-box
+[1743]:./Medium/1743-Restore%20the%20Array%20From%20Adjacent%20Pairs/README.md#1743-restore-the-array-from-adjacent-pairs
 [1748]:./Easy/1748-Sum%20of%20Unique%20Elements/README.md#1748-sum-of-unique-elements
 [1749]:./Medium/1749-Maximum%20Absolute%20Sum%20of%20Any%20Subarray/README.md#1749-maximum-absolute-sum-of-any-subarray
 [1750]:./Medium/1750-Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends/README.md#1750-minimum-length-of-string-after-deleting-similar-ends
@@ -2358,6 +2360,7 @@
 [1736l]:https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/
 [1738l]:https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/
 [1742l]:https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
+[1743l]:https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
 [1748l]:https://leetcode-cn.com/problems/sum-of-unique-elements/
 [1749l]:https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/
 [1750l]:https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/
