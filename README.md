@@ -607,6 +607,7 @@
 [1329][1329l]|[Sort the Matrix Diagonally][1329]                                                    |![rb]&nbsp;&nbsp;![rs]
 [1331][1331l]|[Rank Transform of an Array][1331]                                                    |![py]
 [1332][1332l]|[Remove Palindromic Subsequences][1332]                                               |![py]
+[1333][1333l]|[Filter Restaurants by Vegan-Friendly, Price and Distance][1333]                      |![rb]&nbsp;&nbsp;![rs]
 [1337][1337l]|[The K Weakest Rows in a Matrix][1337]                                                |![rs]
 [1338][1338l]|[Reduce Array Size to The Half][1338]                                                 |![rb]
 [1342][1342l]|[Number of Steps to Reduce a Number to Zero][1342]                                    |![rb]&nbsp;&nbsp;![rs]
@@ -1403,6 +1404,7 @@
 [1329]:./Medium/1329-Sort%20the%20Matrix%20Diagonally/README.md#1329-sort-the-matrix-diagonally
 [1331]:./Easy/1331-Rank%20Transform%20of%20an%20Array/README.md#1331-rank-transform-of-an-array
 [1332]:./Easy/1332-Remove%20Palindromic%20Subsequences/README.md#1332-remove-palindromic-subsequences
+[1333]:./Medium/1333-Filter%20Restaurants%20by%20Vegan-Friendly,%20Price%20and%20Distance/README.md#1333-filter-restaurants-by-vegan-friendly-price-and-distance
 [1337]:./Easy/1337-The%20K%20Weakest%20Rows%20in%20a%20Matrix/README.md#1337-the-k-weakest-rows-in-a-matrix
 [1338]:./Medium/1338-Reduce%20Array%20Size%20to%20The%20Half/README.md#1338-reduce-array-size-to-the-half
 [1342]:./Easy/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/README.md#1342-number-of-steps-to-reduce-a-number-to-zero
@@ -2205,6 +2207,7 @@
 [1329l]:https://leetcode.com/problems/sort-the-matrix-diagonally/
 [1331l]:https://leetcode.com/problems/rank-transform-of-an-array/
 [1332l]:https://leetcode.com/problems/remove-palindromic-subsequences/
+[1333l]:https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/
 [1337l]:https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 [1338l]:https://leetcode.com/problems/reduce-array-size-to-the-half/
 [1342l]:https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/

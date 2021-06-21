@@ -607,6 +607,7 @@
 [1329][1329l]|[将矩阵按对角线排序][1329]                                |![rb]&nbsp;&nbsp;![rs]
 [1331][1331l]|[数组序号转换][1331]                                      |![py]
 [1332][1332l]|[删除回文子序列][1332]                                    |![py]
+[1333][1333l]|[餐厅过滤器][1333]                                        |![rb]&nbsp;&nbsp;![rs]
 [1337][1337l]|[方阵中战斗力最弱的 K 行][1337]                           |![rs]
 [1338][1338l]|[数组大小减半][1338]                                      |![rb]
 [1342][1342l]|[将数字变成 0 的操作次数][1342]                           |![rb]&nbsp;&nbsp;![rs]
@@ -1403,6 +1404,7 @@
 [1329]:./Medium/1329-Sort%20the%20Matrix%20Diagonally/README_CN.md#1329-将矩阵按对角线排序
 [1331]:./Easy/1331-Rank%20Transform%20of%20an%20Array/README_CN.md#1331-数组序号转换
 [1332]:./Easy/1332-Remove%20Palindromic%20Subsequences/README_CN.md#1332-删除回文子序列
+[1333]:./Medium/1333-Filter%20Restaurants%20by%20Vegan-Friendly,%20Price%20and%20Distance/README_CN.md#1333-餐厅过滤器
 [1337]:./Easy/1337-The%20K%20Weakest%20Rows%20in%20a%20Matrix/README_CN.md#1337-方阵中战斗力最弱的-K-行
 [1338]:./Medium/1338-Reduce%20Array%20Size%20to%20The%20Half/README_CN.md#1338-数组大小减半
 [1342]:./Easy/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/README_CN.md#1342-将数字变成-0-的操作次数
@@ -2205,6 +2207,7 @@
 [1329l]:https://leetcode-cn.com/problems/sort-the-matrix-diagonally/
 [1331l]:https://leetcode-cn.com/problems/rank-transform-of-an-array/
 [1332l]:https://leetcode-cn.com/problems/remove-palindromic-subsequences/
+[1333l]:https://leetcode-cn.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/
 [1337l]:https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/
 [1338l]:https://leetcode-cn.com/problems/reduce-array-size-to-the-half/
 [1342l]:https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/
