@@ -555,6 +555,7 @@
 [1191][1191l]|[K 次串联后最大子数组之和][1191]                          |![rb]&nbsp;&nbsp;![rs]
 [1200][1200l]|[最小绝对差][1200]                                        |![rs]
 [1207][1207l]|[独一无二的出现次数][1207]                                |![rs]
+[1208][1208l]|[尽可能使字符串相等][1208]                                |![rb]&nbsp;&nbsp;![rs]
 [1209][1209l]|[删除字符串中的所有相邻重复项 II][1209]                   |![rs]
 [1217][1217l]|[玩筹码][1217]                                            |![rs]
 [1220][1220l]|[统计元音字母序列的数目][1220]                            |![rs]
@@ -1352,6 +1353,7 @@
 [1191]:./Medium/1191-K-Concatenation%20Maximum%20Sum/README_CN.md#1191-k-次串联后最大子数组之和
 [1200]:./Easy/1200-Minimum%20Absolute%20Difference/README_CN.md#1200-最小绝对差
 [1207]:./Easy/1207-Unique%20Number%20of%20Occurrences/README_CN.md#1207-独一无二的出现次数
+[1208]:./Medium/1208-Get%20Equal%20Substrings%20Within%20Budget/README_CN.md#1208-尽可能使字符串相等
 [1209]:./Medium/1209-Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/README_CN.md#1209-删除字符串中的所有相邻重复项-ii
 [1217]:./Easy/1217-Play%20with%20Chips/README_CN.md#1217-玩筹码
 [1220]:./Hard/1220-Count%20Vowels%20Permutation/README_CN.md#1220-统计元音字母序列的数目
@@ -2155,6 +2157,7 @@
 [1191l]:https://leetcode-cn.com/problems/k-concatenation-maximum-sum/
 [1200l]:https://leetcode-cn.com/problems/minimum-absolute-difference/
 [1207l]:https://leetcode-cn.com/problems/unique-number-of-occurrences/
+[1208l]:https://leetcode-cn.com/problems/get-equal-substrings-within-budget/
 [1209l]:https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/
 [1217l]:https://leetcode-cn.com/problems/play-with-chips/
 [1220l]:https://leetcode-cn.com/problems/count-vowels-permutation/

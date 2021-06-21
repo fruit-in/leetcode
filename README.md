@@ -555,6 +555,7 @@
 [1191][1191l]|[K-Concatenation Maximum Sum][1191]                                                   |![rb]&nbsp;&nbsp;![rs]
 [1200][1200l]|[Minimum Absolute Difference][1200]                                                   |![rs]
 [1207][1207l]|[Unique Number of Occurrences][1207]                                                  |![rs]
+[1208][1208l]|[Get Equal Substrings Within Budget][1208]                                            |![rb]&nbsp;&nbsp;![rs]
 [1209][1209l]|[Remove All Adjacent Duplicates in String II][1209]                                   |![rs]
 [1217][1217l]|[Play with Chips][1217]                                                               |![rs]
 [1220][1220l]|[Count Vowels Permutation][1220]                                                      |![rs]
@@ -1352,6 +1353,7 @@
 [1191]:./Medium/1191-K-Concatenation%20Maximum%20Sum/README.md#1191-k-concatenation-maximum-sum
 [1200]:./Easy/1200-Minimum%20Absolute%20Difference/README.md#1200-minimum-absolute-difference
 [1207]:./Easy/1207-Unique%20Number%20of%20Occurrences/README.md#1207-unique-number-of-occurrences
+[1208]:./Medium/1208-Get%20Equal%20Substrings%20Within%20Budget/README.md#1208-get-equal-substrings-within-budget
 [1209]:./Medium/1209-Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/README.md#1209-remove-all-adjacent-duplicates-in-string-ii
 [1217]:./Easy/1217-Play%20with%20Chips/README.md#1217-play-with-chips
 [1220]:./Hard/1220-Count%20Vowels%20Permutation/README.md#1220-count-vowels-permutation
@@ -2155,6 +2157,7 @@
 [1191l]:https://leetcode.com/problems/k-concatenation-maximum-sum/
 [1200l]:https://leetcode.com/problems/minimum-absolute-difference/
 [1207l]:https://leetcode.com/problems/unique-number-of-occurrences/
+[1208l]:https://leetcode.com/problems/get-equal-substrings-within-budget/
 [1209l]:https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
 [1217l]:https://leetcode.com/problems/play-with-chips/
 [1220l]:https://leetcode.com/problems/count-vowels-permutation/
