@@ -791,6 +791,7 @@
 [1816][1816l]|[截断句子][1816]                                          |![py]
 [1822][1822l]|[数组元素积的符号][1822]                                  |![rb]&nbsp;&nbsp;![rs]
 [1827][1827l]|[最少操作使数组递增][1827]                                |![rb]&nbsp;&nbsp;![rs]
+[1832][1832l]|[判断句子是否为全字母句][1832]                            |![rs]
 [1833][1833l]|[雪糕的最大数量][1833]                                    |![rs]
 
 
@@ -1589,6 +1590,7 @@
 [1816]:./Easy/1816-Truncate%20Sentence/README_CN.md#1816-截断句子
 [1822]:./Easy/1822-Sign%20of%20the%20Product%20of%20an%20Array/README_CN.md#1822-数组元素积的符号
 [1827]:./Easy/1827-Minimum%20Operations%20to%20Make%20the%20Array%20Increasing/README_CN.md#1827-最少操作使数组递增
+[1832]:./Easy/1832-Check%20if%20the%20Sentence%20Is%20Pangram/README_CN.md#1832-判断句子是否为全字母句
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README_CN.md#1833-雪糕的最大数量
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
@@ -2393,4 +2395,5 @@
 [1816l]:https://leetcode-cn.com/problems/truncate-sentence/
 [1822l]:https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/
 [1827l]:https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-increasing/
+[1832l]:https://leetcode-cn.com/problems/check-if-the-sentence-is-pangram/
 [1833l]:https://leetcode-cn.com/problems/maximum-ice-cream-bars/

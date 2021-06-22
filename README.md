@@ -791,6 +791,7 @@
 [1816][1816l]|[Truncate Sentence][1816]                                                             |![py]
 [1822][1822l]|[Sign of the Product of an Array][1822]                                               |![rb]&nbsp;&nbsp;![rs]
 [1827][1827l]|[Minimum Operations to Make the Array Increasing][1827]                               |![rb]&nbsp;&nbsp;![rs]
+[1832][1832l]|[Check if the Sentence Is Pangram][1832]                                              |![rs]
 [1833][1833l]|[Maximum Ice Cream Bars][1833]                                                        |![rs]
 
 
@@ -1589,6 +1590,7 @@
 [1816]:./Easy/1816-Truncate%20Sentence/README.md#1816-truncate-sentence
 [1822]:./Easy/1822-Sign%20of%20the%20Product%20of%20an%20Array/README.md#1822-sign-of-the-product-of-an-array
 [1827]:./Easy/1827-Minimum%20Operations%20to%20Make%20the%20Array%20Increasing/README.md#1827-minimum-operations-to-make-the-array-increasing
+[1832]:./Easy/1832-Check%20if%20the%20Sentence%20Is%20Pangram/README.md#1832-check-if-the-sentence-is-pangram
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README.md#1833-maximum-ice-cream-bars
 
 [1l]:https://leetcode.com/problems/two-sum/
@@ -2393,4 +2395,5 @@
 [1816l]:https://leetcode.com/problems/truncate-sentence/
 [1822l]:https://leetcode.com/problems/sign-of-the-product-of-an-array/
 [1827l]:https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
+[1832l]:https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 [1833l]:https://leetcode.com/problems/maximum-ice-cream-bars/
