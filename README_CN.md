@@ -656,6 +656,7 @@
 [1423][1423l]|[可获得的最大点数][1423]                                  |![rs]
 [1424][1424l]|[对角线遍历 II][1424]                                     |![rb]
 [1431][1431l]|[拥有最多糖果的孩子][1431]                                |![rs]
+[1432][1432l]|[改变一个整数能得到的最大差值][1432]                      |![rs]
 [1433][1433l]|[检查一个字符串是否可以打破另一个字符串][1433]            |![rs]
 [1436][1436l]|[旅行终点站][1436]                                        |![rs]
 [1437][1437l]|[是否所有 1 都至少相隔 k 个元素][1437]                    |![rs]
@@ -1457,6 +1458,7 @@
 [1423]:./Medium/1423-Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/README_CN.md#1423-可获得的最大点数
 [1424]:./Medium/1424-Diagonal%20Traverse%20II/README_CN.md#1424-对角线遍历-ii
 [1431]:./Easy/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies/README_CN.md#1431-拥有最多糖果的孩子
+[1432]:./Medium/1432-Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer/README_CN.md#1432-改变一个整数能得到的最大差值
 [1433]:./Medium/1433-Check%20If%20a%20String%20Can%20Break%20Another%20String/README_CN.md#1433-检查一个字符串是否可以打破另一个字符串
 [1436]:./Easy/1436-Destination%20City/README_CN.md#1436-旅行终点站
 [1437]:./Medium/1437-Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away/README_CN.md#1437-是否所有-1-都至少相隔-k-个元素
@@ -2264,6 +2266,7 @@
 [1423l]:https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/
 [1424l]:https://leetcode-cn.com/problems/diagonal-traverse-ii/
 [1431l]:https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/
+[1432l]:https://leetcode-cn.com/problems/max-difference-you-can-get-from-changing-an-integer/
 [1433l]:https://leetcode-cn.com/problems/check-if-a-string-can-break-another-string/
 [1436l]:https://leetcode-cn.com/problems/destination-city/
 [1437l]:https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
