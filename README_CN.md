@@ -796,6 +796,7 @@
 [1827][1827l]|[最少操作使数组递增][1827]                                |![rb]&nbsp;&nbsp;![rs]
 [1832][1832l]|[判断句子是否为全字母句][1832]                            |![rs]
 [1833][1833l]|[雪糕的最大数量][1833]                                    |![rs]
+[1837][1837l]|[K 进制表示下的各位数字总和][1837]                        |![rb]&nbsp;&nbsp;![rs]
 
 
 [py]:./ico/python.ico
@@ -1598,6 +1599,7 @@
 [1827]:./Easy/1827-Minimum%20Operations%20to%20Make%20the%20Array%20Increasing/README_CN.md#1827-最少操作使数组递增
 [1832]:./Easy/1832-Check%20if%20the%20Sentence%20Is%20Pangram/README_CN.md#1832-判断句子是否为全字母句
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README_CN.md#1833-雪糕的最大数量
+[1837]:./Easy/1837-Sum%20of%20Digits%20in%20Base%20K/README_CN.md#1837-k-进制表示下的各位数字总和
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -2406,3 +2408,4 @@
 [1827l]:https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-increasing/
 [1832l]:https://leetcode-cn.com/problems/check-if-the-sentence-is-pangram/
 [1833l]:https://leetcode-cn.com/problems/maximum-ice-cream-bars/
+[1837l]:https://leetcode-cn.com/problems/sum-of-digits-in-base-k/
