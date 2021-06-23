@@ -672,6 +672,7 @@
 [1461][1461l]|[Check If a String Contains All Binary Codes of Size K][1461]                         |![rs]
 [1464][1464l]|[Maximum Product of Two Elements in an Array][1464]                                   |![rs]
 [1470][1470l]|[Shuffle the Array][1470]                                                             |![rs]
+[1471][1471l]|[The k Strongest Values in an Array][1471]                                            |![rb]&nbsp;&nbsp;![rs]
 [1472][1472l]|[Design Browser History][1472]                                                        |![rs]
 [1475][1475l]|[Final Prices With a Special Discount in a Shop][1475]                                |![rs]
 [1476][1476l]|[Subrectangle Queries][1476]                                                          |![rs]
@@ -1472,6 +1473,7 @@
 [1461]:./Medium/1461-Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/README.md#1461-check-if-a-string-contains-all-binary-codes-of-size-k
 [1464]:./Easy/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/README.md#1464-maximum-product-of-two-elements-in-an-array
 [1470]:./Easy/1470-Shuffle%20the%20Array/README.md#1470-shuffle-the-array
+[1471]:./Medium/1471-The%20k%20Strongest%20Values%20in%20an%20Array/README.md#1471-the-k-strongest-values-in-an-array
 [1472]:./Medium/1472-Design%20Browser%20History/README.md#1472-design-browser-history
 [1475]:./Easy/1475-Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/README.md#1475-final-prices-with-a-special-discount-in-a-shop
 [1476]:./Medium/1476-Subrectangle%20Queries/README.md#1476-subrectangle-queries
@@ -2278,6 +2280,7 @@
 [1461l]:https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 [1464l]:https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 [1470l]:https://leetcode.com/problems/shuffle-the-array/
+[1471l]:https://leetcode.com/problems/the-k-strongest-values-in-an-array/
 [1472l]:https://leetcode.com/problems/design-browser-history/
 [1475l]:https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1476l]:https://leetcode.com/problems/subrectangle-queries/
