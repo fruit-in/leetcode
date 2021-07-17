@@ -792,6 +792,7 @@
 [1805][1805l]|[字符串中不同整数的数目][1805]                            |![rs]
 [1812][1812l]|[判断国际象棋棋盘中一个格子的颜色][1812]                  |![py]&nbsp;&nbsp;![rb]
 [1816][1816l]|[截断句子][1816]                                          |![py]
+[1818][1818l]|[绝对差值和][1818]                                        |![rs]
 [1822][1822l]|[数组元素积的符号][1822]                                  |![rb]&nbsp;&nbsp;![rs]
 [1823][1823l]|[找出游戏的获胜者][1823]                                  |![rs]
 [1827][1827l]|[最少操作使数组递增][1827]                                |![rb]&nbsp;&nbsp;![rs]
@@ -1598,6 +1599,7 @@
 [1805]:./Easy/1805-Number%20of%20Different%20Integers%20in%20a%20String/README_CN.md#1805-字符串中不同整数的数目
 [1812]:./Easy/1812-Determine%20Color%20of%20a%20Chessboard%20Square/README_CN.md#1812-判断国际象棋棋盘中一个格子的颜色
 [1816]:./Easy/1816-Truncate%20Sentence/README_CN.md#1816-截断句子
+[1818]:./Medium/1818-Minimum%20Absolute%20Sum%20Difference/README_CN.md#1818-绝对差值和
 [1822]:./Easy/1822-Sign%20of%20the%20Product%20of%20an%20Array/README_CN.md#1822-数组元素积的符号
 [1823]:./Medium/1823-Find%20the%20Winner%20of%20the%20Circular%20Game/README_CN.md#1823-找出游戏的获胜者
 [1827]:./Easy/1827-Minimum%20Operations%20to%20Make%20the%20Array%20Increasing/README_CN.md#1827-最少操作使数组递增
@@ -2410,6 +2412,7 @@
 [1805l]:https://leetcode-cn.com/problems/number-of-different-integers-in-a-string/
 [1812l]:https://leetcode-cn.com/problems/determine-color-of-a-chessboard-square/
 [1816l]:https://leetcode-cn.com/problems/truncate-sentence/
+[1818l]:https://leetcode-cn.com/problems/minimum-absolute-sum-difference/
 [1822l]:https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/
 [1823l]:https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/
 [1827l]:https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-increasing/
