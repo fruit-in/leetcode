@@ -798,6 +798,7 @@
 [1833][1833l]|[雪糕的最大数量][1833]                                    |![rs]
 [1837][1837l]|[K 进制表示下的各位数字总和][1837]                        |![rb]&nbsp;&nbsp;![rs]
 [1844][1844l]|[将所有数字用字符替换][1844]                              |![rs]
+[1848][1848l]|[到目标元素的最小距离][1848]                              |![rs]
 
 
 [py]:./ico/python.ico
@@ -1602,6 +1603,7 @@
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README_CN.md#1833-雪糕的最大数量
 [1837]:./Easy/1837-Sum%20of%20Digits%20in%20Base%20K/README_CN.md#1837-k-进制表示下的各位数字总和
 [1844]:./Easy/1844-Replace%20All%20Digits%20with%20Characters/README_CN.md#1844-将所有数字用字符替换
+[1848]:./Easy/1848-Minimum%20Distance%20to%20the%20Target%20Element/README_CN.md#1848-到目标元素的最小距离
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -2412,3 +2414,4 @@
 [1833l]:https://leetcode-cn.com/problems/maximum-ice-cream-bars/
 [1837l]:https://leetcode-cn.com/problems/sum-of-digits-in-base-k/
 [1844l]:https://leetcode-cn.com/problems/replace-all-digits-with-character/
+[1848l]:https://leetcode-cn.com/problems/minimum-distance-to-the-target-element/

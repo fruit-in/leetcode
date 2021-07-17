@@ -798,6 +798,7 @@
 [1833][1833l]|[Maximum Ice Cream Bars][1833]                                                        |![rs]
 [1837][1837l]|[Sum of Digits in Base K][1837]                                                       |![rb]&nbsp;&nbsp;![rs]
 [1844][1844l]|[Replace All Digits with Characters][1844]                                            |![rs]
+[1848][1848l]|[Minimum Distance to the Target Element][1848]                                        |![rs]
 
 
 [py]:./ico/python.ico
@@ -1602,6 +1603,7 @@
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README.md#1833-maximum-ice-cream-bars
 [1837]:./Easy/1837-Sum%20of%20Digits%20in%20Base%20K/README.md#1837-sum-of-digits-in-base-k
 [1844]:./Easy/1844-Replace%20All%20Digits%20with%20Characters/README.md#1844-replace-all-digits-with-characters
+[1848]:./Easy/1848-Minimum%20Distance%20to%20the%20Target%20Element/README.md#1848-minimum-distance-to-the-target-element
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -2412,3 +2414,4 @@
 [1833l]:https://leetcode.com/problems/maximum-ice-cream-bars/
 [1837l]:https://leetcode.com/problems/sum-of-digits-in-base-k/
 [1844l]:https://leetcode.com/problems/replace-all-digits-with-characters/
+[1848l]:https://leetcode.com/problems/minimum-distance-to-the-target-element/
