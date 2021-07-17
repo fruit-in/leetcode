@@ -797,6 +797,7 @@
 [1832][1832l]|[Check if the Sentence Is Pangram][1832]                                              |![rs]
 [1833][1833l]|[Maximum Ice Cream Bars][1833]                                                        |![rs]
 [1837][1837l]|[Sum of Digits in Base K][1837]                                                       |![rb]&nbsp;&nbsp;![rs]
+[1844][1844l]|[Replace All Digits with Characters][1844]                                            |![rs]
 
 
 [py]:./ico/python.ico
@@ -1600,6 +1601,7 @@
 [1832]:./Easy/1832-Check%20if%20the%20Sentence%20Is%20Pangram/README.md#1832-check-if-the-sentence-is-pangram
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README.md#1833-maximum-ice-cream-bars
 [1837]:./Easy/1837-Sum%20of%20Digits%20in%20Base%20K/README.md#1837-sum-of-digits-in-base-k
+[1844]:./Easy/1844-Replace%20All%20Digits%20with%20Characters/README.md#1844-replace-all-digits-with-characters
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -2409,3 +2411,4 @@
 [1832l]:https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 [1833l]:https://leetcode.com/problems/maximum-ice-cream-bars/
 [1837l]:https://leetcode.com/problems/sum-of-digits-in-base-k/
+[1844l]:https://leetcode.com/problems/replace-all-digits-with-characters/
