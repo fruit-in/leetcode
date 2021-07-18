@@ -649,6 +649,7 @@
 [1409][1409l]|[Queries on a Permutation With Key][1409]                                             |![rb]&nbsp;&nbsp;![rs]&nbsp;&nbsp;![kt]
 [1410][1410l]|[HTML Entity Parser][1410]                                                            |![rs]
 [1413][1413l]|[Minimum Value to Get Positive Step by Step Sum][1413]                                |![rs]
+[1414][1414l]|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K][1414]                   |![rb]&nbsp;&nbsp;![rs]
 [1415][1415l]|[The k-th Lexicographical String of All Happy Strings of Length n][1415]              |![py]&nbsp;&nbsp;![rb]
 [1417][1417l]|[Reformat The String][1417]                                                           |![rs]
 [1419][1419l]|[Minimum Number of Frogs Croaking][1419]                                              |![rb]&nbsp;&nbsp;![rs]
@@ -1457,6 +1458,7 @@
 [1409]:./Medium/1409-Queries%20on%20a%20Permutation%20With%20Key/README.md#1409-queries-on-a-permutation-with-key
 [1410]:./Medium/1410-HTML%20Entity%20Parser/README.md#1410-html-entity-parser
 [1413]:./Easy/1413-Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/README.md#1413-minimum-value-to-get-positive-step-by-step-sum
+[1414]:./Medium/1414-Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K/README.md#1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k
 [1415]:./Medium/1415-The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/README.md#1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n
 [1417]:./Easy/1417-Reformat%20The%20String/README.md#1417-reformat-the-string
 [1419]:./Medium/1419-Minimum%20Number%20of%20Frogs%20Croaking/README.md#1419-minimum-number-of-frogs-croaking
@@ -2271,6 +2273,7 @@
 [1409l]:https://leetcode.com/problems/queries-on-a-permutation-with-key/
 [1410l]:https://leetcode.com/problems/html-entity-parser/
 [1413l]:https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
+[1414l]:https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 [1415l]:https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 [1417l]:https://leetcode.com/problems/reformat-the-string/
 [1419l]:https://leetcode.com/problems/minimum-number-of-frogs-croaking/
