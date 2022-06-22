@@ -804,6 +804,7 @@
 [1844][1844l]|[将所有数字用字符替换][1844]                              |![rs]
 [1848][1848l]|[到目标元素的最小距离][1848]                              |![rs]
 [1854][1854l]|[人口最多的年份][1854]                                    |![rs]
+[1859][1859l]|[将句子排序][1859]                                        |![py]
 
 
 [py]:./ico/python.ico
@@ -1614,6 +1615,7 @@
 [1844]:./Easy/1844-Replace%20All%20Digits%20with%20Characters/README_CN.md#1844-将所有数字用字符替换
 [1848]:./Easy/1848-Minimum%20Distance%20to%20the%20Target%20Element/README_CN.md#1848-到目标元素的最小距离
 [1854]:./Easy/1854-Maximum%20Population%20Year/README_CN.md#1854-人口最多的年份
+[1859]:./Easy/1859-Sorting%20the%20Sentence/README_CN.md#1859-将句子排序
 
 [1l]:https://leetcode-cn.com/problems/two-sum/
 [2l]:https://leetcode-cn.com/problems/add-two-numbers/
@@ -2430,3 +2432,4 @@
 [1844l]:https://leetcode-cn.com/problems/replace-all-digits-with-character/
 [1848l]:https://leetcode-cn.com/problems/minimum-distance-to-the-target-element/
 [1854l]:https://leetcode-cn.com/problems/maximum-population-year/
+[1859l]:https://leetcode.cn/problems/sorting-the-sentence/

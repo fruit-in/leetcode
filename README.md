@@ -804,6 +804,7 @@
 [1844][1844l]|[Replace All Digits with Characters][1844]                                            |![rs]
 [1848][1848l]|[Minimum Distance to the Target Element][1848]                                        |![rs]
 [1854][1854l]|[Maximum Population Year][1854]                                                       |![rs]
+[1859][1859l]|[Sorting the Sentence][1859]                                                          |![py]
 
 
 [py]:./ico/python.ico
@@ -1614,6 +1615,7 @@
 [1844]:./Easy/1844-Replace%20All%20Digits%20with%20Characters/README.md#1844-replace-all-digits-with-characters
 [1848]:./Easy/1848-Minimum%20Distance%20to%20the%20Target%20Element/README.md#1848-minimum-distance-to-the-target-element
 [1854]:./Easy/1854-Maximum%20Population%20Year/README.md#1854-maximum-population-year
+[1859]:./Easy/1859-Sorting%20the%20Sentence/README.md#1859-sorting-the-sentence
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -2430,3 +2432,4 @@
 [1844l]:https://leetcode.com/problems/replace-all-digits-with-characters/
 [1848l]:https://leetcode.com/problems/minimum-distance-to-the-target-element/
 [1854l]:https://leetcode.com/problems/maximum-population-year/
+[1859l]:https://leetcode.com/problems/sorting-the-sentence/
