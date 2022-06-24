@@ -808,6 +808,7 @@
 [1869][1869l]|[Longer Contiguous Segments of Ones than Zeros][1869]                                 |![rs]
 [1880][1880l]|[Check if Word Equals Summation of Two Words][1880]                                   |![rs]
 [1929][1929l]|[Concatenation of Array][1929]                                                        |![py]&nbsp;&nbsp;![rs]
+[2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
 
 
 [py]:./ico/python.ico
@@ -1622,6 +1623,7 @@
 [1869]:./Easy/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README.md#1869-longer-contiguous-segments-of-ones-than-zeros
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README.md#1880-check-if-word-equals-summation-of-two-words
 [1929]:./Easy/1929-Concatenation%20of%20Array/README.md#1929-concatenation-of-array
+[2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -2442,3 +2444,4 @@
 [1869l]:https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1880l]:https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 [1929l]:https://leetcode.com/problems/concatenation-of-array/
+[2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
