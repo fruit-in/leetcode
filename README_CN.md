@@ -805,6 +805,7 @@
 [1848][1848l]|[到目标元素的最小距离][1848]                              |![rs]
 [1854][1854l]|[人口最多的年份][1854]                                    |![rs]
 [1859][1859l]|[将句子排序][1859]                                        |![py]
+[1869][1869l]|[哪种连续子字符串更长][1869]                              |![rs]
 
 
 [py]:./ico/python.ico
@@ -1616,6 +1617,7 @@
 [1848]:./Easy/1848-Minimum%20Distance%20to%20the%20Target%20Element/README_CN.md#1848-到目标元素的最小距离
 [1854]:./Easy/1854-Maximum%20Population%20Year/README_CN.md#1854-人口最多的年份
 [1859]:./Easy/1859-Sorting%20the%20Sentence/README_CN.md#1859-将句子排序
+[1869]:./Easy/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README_CN.md#1869-哪种连续子字符串更长
 
 [1l]:https://leetcode.cn/problems/two-sum/
 [2l]:https://leetcode.cn/problems/add-two-numbers/
@@ -2433,3 +2435,4 @@
 [1848l]:https://leetcode.cn/problems/minimum-distance-to-the-target-element/
 [1854l]:https://leetcode.cn/problems/maximum-population-year/
 [1859l]:https://leetcode.cn/problems/sorting-the-sentence/
+[1869l]:https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/
