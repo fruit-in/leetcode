@@ -807,6 +807,7 @@
 [1859][1859l]|[将句子排序][1859]                                        |![py]
 [1869][1869l]|[哪种连续子字符串更长][1869]                              |![rs]
 [1880][1880l]|[检查某单词是否等于两单词之和][1880]                      |![rs]
+[1929][1929l]|[数组串联][1929]                                          |![py]&nbsp;&nbsp;![rs]
 
 
 [py]:./ico/python.ico
@@ -1620,6 +1621,7 @@
 [1859]:./Easy/1859-Sorting%20the%20Sentence/README_CN.md#1859-将句子排序
 [1869]:./Easy/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README_CN.md#1869-哪种连续子字符串更长
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README_CN.md#1880-检查某单词是否等于两单词之和
+[1929]:./Easy/1929-Concatenation%20of%20Array/README_CN.md#1929-数组串联
 
 [1l]:https://leetcode.cn/problems/two-sum/
 [2l]:https://leetcode.cn/problems/add-two-numbers/
@@ -2439,3 +2441,4 @@
 [1859l]:https://leetcode.cn/problems/sorting-the-sentence/
 [1869l]:https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1880l]:https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/
+[1929l]:https://leetcode.cn/problems/concatenation-of-array/

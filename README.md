@@ -807,6 +807,7 @@
 [1859][1859l]|[Sorting the Sentence][1859]                                                          |![py]
 [1869][1869l]|[Longer Contiguous Segments of Ones than Zeros][1869]                                 |![rs]
 [1880][1880l]|[Check if Word Equals Summation of Two Words][1880]                                   |![rs]
+[1929][1929l]|[Concatenation of Array][1929]                                                        |![py]&nbsp;&nbsp;![rs]
 
 
 [py]:./ico/python.ico
@@ -1620,6 +1621,7 @@
 [1859]:./Easy/1859-Sorting%20the%20Sentence/README.md#1859-sorting-the-sentence
 [1869]:./Easy/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README.md#1869-longer-contiguous-segments-of-ones-than-zeros
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README.md#1880-check-if-word-equals-summation-of-two-words
+[1929]:./Easy/1929-Concatenation%20of%20Array/README.md#1929-concatenation-of-array
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -2439,3 +2441,4 @@
 [1859l]:https://leetcode.com/problems/sorting-the-sentence/
 [1869l]:https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1880l]:https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
+[1929l]:https://leetcode.com/problems/concatenation-of-array/
