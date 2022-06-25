@@ -811,6 +811,7 @@
 [1979][1979l]|[Find Greatest Common Divisor of Array][1979]                                         |![py]&nbsp;&nbsp;![rb]
 [2011][2011l]|[Final Value of Variable After Performing Operations][2011]                           |![py]&nbsp;&nbsp;![rs]
 [2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
+[2154][2154l]|[Keep Multiplying Found Values by Two][2154]                                          |![rs]
 [2185][2185l]|[Counting Words With a Given Prefix][2185]                                            |![rs]
 [2309][2309l]|[Greatest English Letter in Upper and Lower Case][2309]                               |![rs]
 
@@ -1630,6 +1631,7 @@
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README.md#1979-find-greatest-common-divisor-of-array
 [2011]:./Easy/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README.md#2011-final-value-of-variable-after-performing-operations
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
+[2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README.md#2154-keep-multiplying-found-values-by-two
 [2185]:./Easy/2185-Counting%20Words%20With%20a%20Given%20Prefix/README.md#2185-counting-words-with-a-given-prefix
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README.md#2309-greatest-english-letter-in-upper-and-lower-case
 
@@ -2455,5 +2457,6 @@
 [1979l]:https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 [2011l]:https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
+[2154l]:https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 [2185l]:https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2309l]:https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
