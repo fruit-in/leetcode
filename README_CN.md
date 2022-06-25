@@ -808,6 +808,7 @@
 [1869][1869l]|[哪种连续子字符串更长][1869]                              |![rs]
 [1880][1880l]|[检查某单词是否等于两单词之和][1880]                      |![rs]
 [1929][1929l]|[数组串联][1929]                                          |![py]&nbsp;&nbsp;![rs]
+[1979][1979l]|[找出数组的最大公约数][1979]                              |![py]&nbsp;&nbsp;![rb]
 [2022][2022l]|[将一维数组转变成二维数组][2022]                          |![rs]
 
 
@@ -1623,6 +1624,7 @@
 [1869]:./Easy/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README_CN.md#1869-哪种连续子字符串更长
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README_CN.md#1880-检查某单词是否等于两单词之和
 [1929]:./Easy/1929-Concatenation%20of%20Array/README_CN.md#1929-数组串联
+[1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README_CN.md#1979-找出数组的最大公约数
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README_CN.md#2022-将一维数组转变成二维数组
 
 [1l]:https://leetcode.cn/problems/two-sum/
@@ -2444,4 +2446,5 @@
 [1869l]:https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1880l]:https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/
 [1929l]:https://leetcode.cn/problems/concatenation-of-array/
+[1979l]:https://leetcode.cn/problems/find-greatest-common-divisor-of-array/
 [2022l]:https://leetcode.cn/problems/convert-1d-array-into-2d-array/
