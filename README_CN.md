@@ -831,6 +831,7 @@
 [2278][2278l]|[字母在字符串中的百分比][2278]                            |![rs]
 [2283][2283l]|[判断一个数的数字计数是否等于数位的值][2283]              |![rs]
 [2293][2293l]|[极大极小游戏][2293]                                      |![rs]
+[2299][2299l]|[强密码检验器 II][2299]                                   |![rs]
 [2309][2309l]|[兼具大小写的最好英文字母][2309]                          |![rs]
 
 
@@ -1669,6 +1670,7 @@
 [2278]:./Easy/2278-Percentage%20of%20Letter%20in%20String/README_CN.md#2278-字母在字符串中的百分比
 [2283]:./Easy/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README_CN.md#2283-判断一个数的数字计数是否等于数位的值
 [2293]:./Easy/2293-Min%20Max%20Game/README_CN.md#2293-极大极小游戏
+[2299]:./Easy/2299-Strong%20Password%20Checker%20II/README_CN.md#2299-强密码检验器-ii
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README_CN.md#2309-兼具大小写的最好英文字母
 
 [1l]:https://leetcode.cn/problems/two-sum/
@@ -2513,4 +2515,5 @@
 [2278l]:https://leetcode.cn/problems/percentage-of-letter-in-string/
 [2283l]:https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2293l]:https://leetcode.cn/problems/min-max-game/
+[2299l]:https://leetcode.cn/problems/strong-password-checker-ii/
 [2309l]:https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/
