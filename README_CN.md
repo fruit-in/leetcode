@@ -818,6 +818,7 @@
 [2006][2006l]|[差的绝对值为 K 的数对数目][2006]                         |![rs]
 [2011][2011l]|[执行操作后的变量值][2011]                                |![py]&nbsp;&nbsp;![rs]
 [2022][2022l]|[将一维数组转变成二维数组][2022]                          |![rs]
+[2057][2057l]|[值相等的最小索引][2057]                                  |![rs]
 [2154][2154l]|[将找到的值乘以 2][2154]                                  |![rs]
 [2185][2185l]|[统计包含给定前缀的字符串][2185]                          |![rs]
 [2235][2235l]|[两整数相加][2235]                                        |![py]&nbsp;&nbsp;![rs]
@@ -1646,6 +1647,7 @@
 [2006]:./Easy/2006-Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/README_CN.md#2006-差的绝对值为-k-的数对数目
 [2011]:./Easy/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README_CN.md#2011-执行操作后的变量值
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README_CN.md#2022-将一维数组转变成二维数组
+[2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README_CN.md#2057-值相等的最小索引
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README_CN.md#2154-将找到的值乘以-2
 [2185]:./Easy/2185-Counting%20Words%20With%20a%20Given%20Prefix/README_CN.md#2185-统计包含给定前缀的字符串
 [2235]:./Easy/2235-Add%20Two%20Integers/README_CN.md#2235-两整数相加
@@ -2480,6 +2482,7 @@
 [2006l]:https://leetcode.cn/problems/count-number-of-pairs-with-absolute-difference-k/
 [2011l]:https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/
 [2022l]:https://leetcode.cn/problems/convert-1d-array-into-2d-array/
+[2057l]:https://leetcode.cn/problems/smallest-index-with-equal-value/
 [2154l]:https://leetcode.cn/problems/keep-multiplying-found-values-by-two/
 [2185l]:https://leetcode.cn/problems/counting-words-with-a-given-prefix/
 [2235l]:https://leetcode.cn/problems/add-two-integers/
