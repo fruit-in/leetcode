@@ -807,6 +807,7 @@
 [1859][1859l]|[Sorting the Sentence][1859]                                                          |![py]
 [1869][1869l]|[Longer Contiguous Segments of Ones than Zeros][1869]                                 |![rs]
 [1880][1880l]|[Check if Word Equals Summation of Two Words][1880]                                   |![rs]
+[1925][1925l]|[Count Square Sum Triples][1925]                                                      |![py]
 [1929][1929l]|[Concatenation of Array][1929]                                                        |![py]&nbsp;&nbsp;![rs]
 [1979][1979l]|[Find Greatest Common Divisor of Array][1979]                                         |![py]&nbsp;&nbsp;![rb]
 [2011][2011l]|[Final Value of Variable After Performing Operations][2011]                           |![py]&nbsp;&nbsp;![rs]
@@ -1628,6 +1629,7 @@
 [1859]:./Easy/1859-Sorting%20the%20Sentence/README.md#1859-sorting-the-sentence
 [1869]:./Easy/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README.md#1869-longer-contiguous-segments-of-ones-than-zeros
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README.md#1880-check-if-word-equals-summation-of-two-words
+[1925]:./Easy/1925-Count%20Square%20Sum%20Triples/README.md#1925-count-square-sum-triples
 [1929]:./Easy/1929-Concatenation%20of%20Array/README.md#1929-concatenation-of-array
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README.md#1979-find-greatest-common-divisor-of-array
 [2011]:./Easy/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README.md#2011-final-value-of-variable-after-performing-operations
@@ -2455,6 +2457,7 @@
 [1859l]:https://leetcode.com/problems/sorting-the-sentence/
 [1869l]:https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1880l]:https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
+[1925l]:https://leetcode.com/problems/count-square-sum-triples/
 [1929l]:https://leetcode.com/problems/concatenation-of-array/
 [1979l]:https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 [2011l]:https://leetcode.com/problems/final-value-of-variable-after-performing-operations/

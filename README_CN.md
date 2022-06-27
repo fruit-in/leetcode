@@ -807,6 +807,7 @@
 [1859][1859l]|[将句子排序][1859]                                        |![py]
 [1869][1869l]|[哪种连续子字符串更长][1869]                              |![rs]
 [1880][1880l]|[检查某单词是否等于两单词之和][1880]                      |![rs]
+[1925][1925l]|[统计平方和三元组的数目][1925]                            |![py]
 [1929][1929l]|[数组串联][1929]                                          |![py]&nbsp;&nbsp;![rs]
 [1979][1979l]|[找出数组的最大公约数][1979]                              |![py]&nbsp;&nbsp;![rb]
 [2011][2011l]|[执行操作后的变量值][2011]                                |![py]&nbsp;&nbsp;![rs]
@@ -1628,6 +1629,7 @@
 [1859]:./Easy/1859-Sorting%20the%20Sentence/README_CN.md#1859-将句子排序
 [1869]:./Easy/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README_CN.md#1869-哪种连续子字符串更长
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README_CN.md#1880-检查某单词是否等于两单词之和
+[1925]:./Easy/1925-Count%20Square%20Sum%20Triples/README_CN.md#1925-统计平方和三元组的数目
 [1929]:./Easy/1929-Concatenation%20of%20Array/README_CN.md#1929-数组串联
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README_CN.md#1979-找出数组的最大公约数
 [2011]:./Easy/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README_CN.md#2011-执行操作后的变量值
@@ -2455,6 +2457,7 @@
 [1859l]:https://leetcode.cn/problems/sorting-the-sentence/
 [1869l]:https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1880l]:https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/
+[1925l]:https://leetcode.cn/problems/count-square-sum-triples/
 [1929l]:https://leetcode.cn/problems/concatenation-of-array/
 [1979l]:https://leetcode.cn/problems/find-greatest-common-divisor-of-array/
 [2011l]:https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/
