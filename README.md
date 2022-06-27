@@ -819,6 +819,7 @@
 [2011][2011l]|[Final Value of Variable After Performing Operations][2011]                           |![py]&nbsp;&nbsp;![rs]
 [2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
 [2057][2057l]|[Smallest Index With Equal Value][2057]                                               |![rs]
+[2068][2068l]|[Check Whether Two Strings are Almost Equivalent][2068]                               |![rs]
 [2154][2154l]|[Keep Multiplying Found Values by Two][2154]                                          |![rs]
 [2185][2185l]|[Counting Words With a Given Prefix][2185]                                            |![rs]
 [2235][2235l]|[Add Two Integers][2235]                                                              |![py]&nbsp;&nbsp;![rs]
@@ -1648,6 +1649,7 @@
 [2011]:./Easy/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README.md#2011-final-value-of-variable-after-performing-operations
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README.md#2057-smallest-index-with-equal-value
+[2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README.md#2068-check-whether-two-strings-are-almost-equivalent
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README.md#2154-keep-multiplying-found-values-by-two
 [2185]:./Easy/2185-Counting%20Words%20With%20a%20Given%20Prefix/README.md#2185-counting-words-with-a-given-prefix
 [2235]:./Easy/2235-Add%20Two%20Integers/README.md#2235-add-two-integers
@@ -2483,6 +2485,7 @@
 [2011l]:https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
 [2057l]:https://leetcode.com/problems/smallest-index-with-equal-value/
+[2068l]:https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
 [2154l]:https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 [2185l]:https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2235l]:https://leetcode.com/problems/add-two-integers/
