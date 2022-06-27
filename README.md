@@ -822,6 +822,7 @@
 [2068][2068l]|[Check Whether Two Strings are Almost Equivalent][2068]                               |![rs]
 [2119][2119l]|[A Number After a Double Reversal][2119]                                              |![rs]
 [2154][2154l]|[Keep Multiplying Found Values by Two][2154]                                          |![rs]
+[2169][2169l]|[Count Operations to Obtain Zero][2169]                                               |![py]
 [2185][2185l]|[Counting Words With a Given Prefix][2185]                                            |![rs]
 [2235][2235l]|[Add Two Integers][2235]                                                              |![py]&nbsp;&nbsp;![rs]
 [2309][2309l]|[Greatest English Letter in Upper and Lower Case][2309]                               |![rs]
@@ -1653,6 +1654,7 @@
 [2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README.md#2068-check-whether-two-strings-are-almost-equivalent
 [2119]:./Easy/2119-A%20Number%20After%20a%20Double%20Reversal/README.md#2119-a-number-after-a-double-reversal
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README.md#2154-keep-multiplying-found-values-by-two
+[2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README.md#2169-count-operations-to-obtain-zero
 [2185]:./Easy/2185-Counting%20Words%20With%20a%20Given%20Prefix/README.md#2185-counting-words-with-a-given-prefix
 [2235]:./Easy/2235-Add%20Two%20Integers/README.md#2235-add-two-integers
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README.md#2309-greatest-english-letter-in-upper-and-lower-case
@@ -2490,6 +2492,7 @@
 [2068l]:https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
 [2119l]:https://leetcode.com/problems/a-number-after-a-double-reversal/
 [2154l]:https://leetcode.com/problems/keep-multiplying-found-values-by-two/
+[2169l]:https://leetcode.com/problems/count-operations-to-obtain-zero/
 [2185l]:https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2235l]:https://leetcode.com/problems/add-two-integers/
 [2309l]:https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
