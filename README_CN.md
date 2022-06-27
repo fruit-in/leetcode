@@ -825,6 +825,7 @@
 [2169][2169l]|[得到 0 的操作数][2169]                                   |![py]
 [2185][2185l]|[统计包含给定前缀的字符串][2185]                          |![rs]
 [2200][2200l]|[找出数组中的所有 K 近邻下标][2200]                       |![rs]
+[2220][2220l]|[转换数字的最少位翻转次数][2220]                          |![rs]
 [2235][2235l]|[两整数相加][2235]                                        |![py]&nbsp;&nbsp;![rs]
 [2309][2309l]|[兼具大小写的最好英文字母][2309]                          |![rs]
 
@@ -1658,6 +1659,7 @@
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README_CN.md#2169-得到-0-的操作数
 [2185]:./Easy/2185-Counting%20Words%20With%20a%20Given%20Prefix/README_CN.md#2185-统计包含给定前缀的字符串
 [2200]:./Easy/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README_CN.md#2200-找出数组中的所有-k-近邻下标
+[2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README_CN.md#2220-转换数字的最少位翻转次数
 [2235]:./Easy/2235-Add%20Two%20Integers/README_CN.md#2235-两整数相加
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README_CN.md#2309-兼具大小写的最好英文字母
 
@@ -2497,5 +2499,6 @@
 [2169l]:https://leetcode.cn/problems/count-operations-to-obtain-zero/
 [2185l]:https://leetcode.cn/problems/counting-words-with-a-given-prefix/
 [2200l]:https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/
+[2220l]:https://leetcode.cn/problems/minimum-bit-flips-to-convert-number/
 [2235l]:https://leetcode.cn/problems/add-two-integers/
 [2309l]:https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/
