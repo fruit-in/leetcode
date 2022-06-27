@@ -810,6 +810,7 @@
 [1880][1880l]|[检查某单词是否等于两单词之和][1880]                      |![rs]
 [1925][1925l]|[统计平方和三元组的数目][1925]                            |![py]
 [1929][1929l]|[数组串联][1929]                                          |![py]&nbsp;&nbsp;![rs]
+[1957][1957l]|[删除字符使字符串变好][1957]                              |![py]
 [1979][1979l]|[找出数组的最大公约数][1979]                              |![py]&nbsp;&nbsp;![rb]
 [2011][2011l]|[执行操作后的变量值][2011]                                |![py]&nbsp;&nbsp;![rs]
 [2022][2022l]|[将一维数组转变成二维数组][2022]                          |![rs]
@@ -1633,6 +1634,7 @@
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README_CN.md#1880-检查某单词是否等于两单词之和
 [1925]:./Easy/1925-Count%20Square%20Sum%20Triples/README_CN.md#1925-统计平方和三元组的数目
 [1929]:./Easy/1929-Concatenation%20of%20Array/README_CN.md#1929-数组串联
+[1957]:./Easy/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README_CN.md#1957-删除字符使字符串变好
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README_CN.md#1979-找出数组的最大公约数
 [2011]:./Easy/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README_CN.md#2011-执行操作后的变量值
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README_CN.md#2022-将一维数组转变成二维数组
@@ -2462,6 +2464,7 @@
 [1880l]:https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/
 [1925l]:https://leetcode.cn/problems/count-square-sum-triples/
 [1929l]:https://leetcode.cn/problems/concatenation-of-array/
+[1957l]:https://leetcode.cn/problems/delete-characters-to-make-fancy-string/
 [1979l]:https://leetcode.cn/problems/find-greatest-common-divisor-of-array/
 [2011l]:https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/
 [2022l]:https://leetcode.cn/problems/convert-1d-array-into-2d-array/
