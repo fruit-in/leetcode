@@ -827,6 +827,7 @@
 [2200][2200l]|[找出数组中的所有 K 近邻下标][2200]                       |![rs]
 [2220][2220l]|[转换数字的最少位翻转次数][2220]                          |![rs]
 [2235][2235l]|[两整数相加][2235]                                        |![py]&nbsp;&nbsp;![rs]
+[2264][2264l]|[字符串中最大的 3 位相同数字][2264]                       |![rs]
 [2309][2309l]|[兼具大小写的最好英文字母][2309]                          |![rs]
 
 
@@ -1661,6 +1662,7 @@
 [2200]:./Easy/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README_CN.md#2200-找出数组中的所有-k-近邻下标
 [2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README_CN.md#2220-转换数字的最少位翻转次数
 [2235]:./Easy/2235-Add%20Two%20Integers/README_CN.md#2235-两整数相加
+[2264]:./Easy/2264-Largest%203-Same-Digit%20Number%20in%20String/README_CN.md#2264-字符串中最大的-3-位相同数字
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README_CN.md#2309-兼具大小写的最好英文字母
 
 [1l]:https://leetcode.cn/problems/two-sum/
@@ -2501,4 +2503,5 @@
 [2200l]:https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/
 [2220l]:https://leetcode.cn/problems/minimum-bit-flips-to-convert-number/
 [2235l]:https://leetcode.cn/problems/add-two-integers/
+[2264l]:https://leetcode.cn/problems/largest-3-same-digit-number-in-string/
 [2309l]:https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/
