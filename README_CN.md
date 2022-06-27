@@ -813,6 +813,7 @@
 [2022][2022l]|[将一维数组转变成二维数组][2022]                          |![rs]
 [2154][2154l]|[将找到的值乘以 2][2154]                                  |![rs]
 [2185][2185l]|[统计包含给定前缀的字符串][2185]                          |![rs]
+[2235][2235l]|[两整数相加][2235]                                        |![py]&nbsp;&nbsp;![rs]
 [2309][2309l]|[兼具大小写的最好英文字母][2309]                          |![rs]
 
 
@@ -1633,6 +1634,7 @@
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README_CN.md#2022-将一维数组转变成二维数组
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README_CN.md#2154-将找到的值乘以-2
 [2185]:./Easy/2185-Counting%20Words%20With%20a%20Given%20Prefix/README_CN.md#2185-统计包含给定前缀的字符串
+[2235]:./Easy/2235-Add%20Two%20Integers/README_CN.md#2235-两整数相加
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README_CN.md#2309-兼具大小写的最好英文字母
 
 [1l]:https://leetcode.cn/problems/two-sum/
@@ -2459,4 +2461,5 @@
 [2022l]:https://leetcode.cn/problems/convert-1d-array-into-2d-array/
 [2154l]:https://leetcode.cn/problems/keep-multiplying-found-values-by-two/
 [2185l]:https://leetcode.cn/problems/counting-words-with-a-given-prefix/
+[2235l]:https://leetcode.cn/problems/add-two-integers/
 [2309l]:https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/
