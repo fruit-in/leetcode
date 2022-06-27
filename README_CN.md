@@ -829,6 +829,7 @@
 [2235][2235l]|[两整数相加][2235]                                        |![py]&nbsp;&nbsp;![rs]
 [2264][2264l]|[字符串中最大的 3 位相同数字][2264]                       |![rs]
 [2278][2278l]|[字母在字符串中的百分比][2278]                            |![rs]
+[2283][2283l]|[判断一个数的数字计数是否等于数位的值][2283]              |![rs]
 [2309][2309l]|[兼具大小写的最好英文字母][2309]                          |![rs]
 
 
@@ -1665,6 +1666,7 @@
 [2235]:./Easy/2235-Add%20Two%20Integers/README_CN.md#2235-两整数相加
 [2264]:./Easy/2264-Largest%203-Same-Digit%20Number%20in%20String/README_CN.md#2264-字符串中最大的-3-位相同数字
 [2278]:./Easy/2278-Percentage%20of%20Letter%20in%20String/README_CN.md#2278-字母在字符串中的百分比
+[2283]:./Easy/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README_CN.md#2283-判断一个数的数字计数是否等于数位的值
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README_CN.md#2309-兼具大小写的最好英文字母
 
 [1l]:https://leetcode.cn/problems/two-sum/
@@ -2507,4 +2509,5 @@
 [2235l]:https://leetcode.cn/problems/add-two-integers/
 [2264l]:https://leetcode.cn/problems/largest-3-same-digit-number-in-string/
 [2278l]:https://leetcode.cn/problems/percentage-of-letter-in-string/
+[2283l]:https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2309l]:https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/
