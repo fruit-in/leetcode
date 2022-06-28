@@ -810,6 +810,7 @@
 [1880][1880l]|[检查某单词是否等于两单词之和][1880]                      |![rs]
 [1903][1903l]|[字符串中的最大奇数][1903]                                |![rs]
 [1909][1909l]|[删除一个元素使数组严格递增][1909]                        |![rs]
+[1913][1913l]|[两个数对之间的最大乘积差][1913]                          |![rs]
 [1925][1925l]|[统计平方和三元组的数目][1925]                            |![py]
 [1929][1929l]|[数组串联][1929]                                          |![py]&nbsp;&nbsp;![rs]
 [1957][1957l]|[删除字符使字符串变好][1957]                              |![py]
@@ -1651,6 +1652,7 @@
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README_CN.md#1880-检查某单词是否等于两单词之和
 [1903]:./Easy/1903-Largest%20Odd%20Number%20in%20String/README_CN.md#1903-字符串中的最大奇数
 [1909]:./Easy/1909-Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing/README_CN.md#1909-删除一个元素使数组严格递增
+[1913]:./Easy/1913-Maximum%20Product%20Difference%20Between%20Two%20Pairs/README_CN.md#1913-两个数对之间的最大乘积差
 [1925]:./Easy/1925-Count%20Square%20Sum%20Triples/README_CN.md#1925-统计平方和三元组的数目
 [1929]:./Easy/1929-Concatenation%20of%20Array/README_CN.md#1929-数组串联
 [1957]:./Easy/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README_CN.md#1957-删除字符使字符串变好
@@ -2498,6 +2500,7 @@
 [1880l]:https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/
 [1903l]:https://leetcode.cn/problems/largest-odd-number-in-string/
 [1909l]:https://leetcode.cn/problems/remove-one-element-to-make-the-array-strictly-increasing/
+[1913l]:https://leetcode.cn/problems/maximum-product-difference-between-two-pairs/
 [1925l]:https://leetcode.cn/problems/count-square-sum-triples/
 [1929l]:https://leetcode.cn/problems/concatenation-of-array/
 [1957l]:https://leetcode.cn/problems/delete-characters-to-make-fancy-string/

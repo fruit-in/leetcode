@@ -810,6 +810,7 @@
 [1880][1880l]|[Check if Word Equals Summation of Two Words][1880]                                   |![rs]
 [1903][1903l]|[Largest Odd Number in String][1903]                                                  |![rs]
 [1909][1909l]|[Remove One Element to Make the Array Strictly Increasing][1909]                      |![rs]
+[1913][1913l]|[Maximum Product Difference Between Two Pairs][1913]                                  |![rs]
 [1925][1925l]|[Count Square Sum Triples][1925]                                                      |![py]
 [1929][1929l]|[Concatenation of Array][1929]                                                        |![py]&nbsp;&nbsp;![rs]
 [1957][1957l]|[Delete Characters to Make Fancy String][1957]                                        |![py]
@@ -1651,6 +1652,7 @@
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README.md#1880-check-if-word-equals-summation-of-two-words
 [1903]:./Easy/1903-Largest%20Odd%20Number%20in%20String/README.md#1903-largest-odd-number-in-string
 [1909]:./Easy/1909-Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing/README.md#1909-remove-one-element-to-make-the-array-strictly-increasing
+[1913]:./Easy/1913-Maximum%20Product%20Difference%20Between%20Two%20Pairs/README.md#1913-maximum-product-difference-between-two-pairs
 [1925]:./Easy/1925-Count%20Square%20Sum%20Triples/README.md#1925-count-square-sum-triples
 [1929]:./Easy/1929-Concatenation%20of%20Array/README.md#1929-concatenation-of-array
 [1957]:./Easy/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README.md#1957-delete-characters-to-make-fancy-string
@@ -2498,6 +2500,7 @@
 [1880l]:https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 [1903l]:https://leetcode.com/problems/largest-odd-number-in-string/
 [1909l]:https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
+[1913l]:https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 [1925l]:https://leetcode.com/problems/count-square-sum-triples/
 [1929l]:https://leetcode.com/problems/concatenation-of-array/
 [1957l]:https://leetcode.com/problems/delete-characters-to-make-fancy-string/
