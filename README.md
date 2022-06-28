@@ -814,6 +814,7 @@
 [1920][1920l]|[Build Array from Permutation][1920]                                                  |![rs]
 [1925][1925l]|[Count Square Sum Triples][1925]                                                      |![py]
 [1929][1929l]|[Concatenation of Array][1929]                                                        |![py]&nbsp;&nbsp;![rs]
+[1952][1952l]|[Three Divisors][1952]                                                                |![rs]
 [1957][1957l]|[Delete Characters to Make Fancy String][1957]                                        |![py]
 [1961][1961l]|[Check If String Is a Prefix of Array][1961]                                          |![py]
 [1967][1967l]|[Number of Strings That Appear as Substrings in Word][1967]                           |![py]
@@ -1657,6 +1658,7 @@
 [1920]:./Easy/1920-Build%20Array%20from%20Permutation/README.md#1920-build-array-from-permutation
 [1925]:./Easy/1925-Count%20Square%20Sum%20Triples/README.md#1925-count-square-sum-triples
 [1929]:./Easy/1929-Concatenation%20of%20Array/README.md#1929-concatenation-of-array
+[1952]:./Easy/1952-Three%20Divisors/README.md#1952-three-divisors
 [1957]:./Easy/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README.md#1957-delete-characters-to-make-fancy-string
 [1961]:./Easy/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README.md#1961-check-if-string-is-a-prefix-of-array
 [1967]:./Easy/1967-Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/README.md#1967-number-of-strings-that-appear-as-substrings-in-word
@@ -2506,6 +2508,7 @@
 [1920l]:https://leetcode.com/problems/build-array-from-permutation/
 [1925l]:https://leetcode.com/problems/count-square-sum-triples/
 [1929l]:https://leetcode.com/problems/concatenation-of-array/
+[1952l]:https://leetcode.com/problems/three-divisors/
 [1957l]:https://leetcode.com/problems/delete-characters-to-make-fancy-string/
 [1961l]:https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 [1967l]:https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
