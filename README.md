@@ -827,6 +827,7 @@
 [2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
 [2057][2057l]|[Smallest Index With Equal Value][2057]                                               |![rs]
 [2068][2068l]|[Check Whether Two Strings are Almost Equivalent][2068]                               |![rs]
+[2103][2103l]|[Rings and Rods][2103]                                                                |![rs]
 [2119][2119l]|[A Number After a Double Reversal][2119]                                              |![rs]
 [2154][2154l]|[Keep Multiplying Found Values by Two][2154]                                          |![rs]
 [2169][2169l]|[Count Operations to Obtain Zero][2169]                                               |![py]
@@ -1673,6 +1674,7 @@
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README.md#2057-smallest-index-with-equal-value
 [2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README.md#2068-check-whether-two-strings-are-almost-equivalent
+[2103]:./Easy/2103-Rings%20and%20Rods/README.md#2103-rings-and-rods
 [2119]:./Easy/2119-A%20Number%20After%20a%20Double%20Reversal/README.md#2119-a-number-after-a-double-reversal
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README.md#2154-keep-multiplying-found-values-by-two
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README.md#2169-count-operations-to-obtain-zero
@@ -2525,6 +2527,7 @@
 [2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
 [2057l]:https://leetcode.com/problems/smallest-index-with-equal-value/
 [2068l]:https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
+[2103l]:https://leetcode.com/problems/rings-and-rods/
 [2119l]:https://leetcode.com/problems/a-number-after-a-double-reversal/
 [2154l]:https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 [2169l]:https://leetcode.com/problems/count-operations-to-obtain-zero/

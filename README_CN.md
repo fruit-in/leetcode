@@ -827,6 +827,7 @@
 [2022][2022l]|[将一维数组转变成二维数组][2022]                          |![rs]
 [2057][2057l]|[值相等的最小索引][2057]                                  |![rs]
 [2068][2068l]|[检查两个字符串是否几乎相等][2068]                        |![rs]
+[2103][2103l]|[环和杆][2103]                                            |![rs]
 [2119][2119l]|[反转两次的数字][2119]                                    |![rs]
 [2154][2154l]|[将找到的值乘以 2][2154]                                  |![rs]
 [2169][2169l]|[得到 0 的操作数][2169]                                   |![py]
@@ -1673,6 +1674,7 @@
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README_CN.md#2022-将一维数组转变成二维数组
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README_CN.md#2057-值相等的最小索引
 [2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README_CN.md#2068-检查两个字符串是否几乎相等
+[2103]:./Easy/2103-Rings%20and%20Rods/README_CN.md#2103-环和杆
 [2119]:./Easy/2119-A%20Number%20After%20a%20Double%20Reversal/README_CN.md#2119-反转两次的数字
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README_CN.md#2154-将找到的值乘以-2
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README_CN.md#2169-得到-0-的操作数
@@ -2525,6 +2527,7 @@
 [2022l]:https://leetcode.cn/problems/convert-1d-array-into-2d-array/
 [2057l]:https://leetcode.cn/problems/smallest-index-with-equal-value/
 [2068l]:https://leetcode.cn/problems/check-whether-two-strings-are-almost-equivalent/
+[2103l]:https://leetcode.cn/problems/rings-and-rods/
 [2119l]:https://leetcode.cn/problems/a-number-after-a-double-reversal/
 [2154l]:https://leetcode.cn/problems/keep-multiplying-found-values-by-two/
 [2169l]:https://leetcode.cn/problems/count-operations-to-obtain-zero/
