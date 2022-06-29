@@ -808,6 +808,7 @@
 [1869][1869l]|[Longer Contiguous Segments of Ones than Zeros][1869]                                 |![rs]
 [1876][1876l]|[Substrings of Size Three with Distinct Characters][1876]                             |![rs]
 [1880][1880l]|[Check if Word Equals Summation of Two Words][1880]                                   |![rs]
+[1897][1897l]|[Redistribute Characters to Make All Strings Equal][1897]                             |![rs]
 [1903][1903l]|[Largest Odd Number in String][1903]                                                  |![rs]
 [1909][1909l]|[Remove One Element to Make the Array Strictly Increasing][1909]                      |![rs]
 [1913][1913l]|[Maximum Product Difference Between Two Pairs][1913]                                  |![rs]
@@ -1652,6 +1653,7 @@
 [1869]:./Easy/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README.md#1869-longer-contiguous-segments-of-ones-than-zeros
 [1876]:./Easy/1876-Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/README.md#1876-substrings-of-size-three-with-distinct-characters
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README.md#1880-check-if-word-equals-summation-of-two-words
+[1897]:./Easy/1897-Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/README.md#1897-redistribute-characters-to-make-all-strings-equal
 [1903]:./Easy/1903-Largest%20Odd%20Number%20in%20String/README.md#1903-largest-odd-number-in-string
 [1909]:./Easy/1909-Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing/README.md#1909-remove-one-element-to-make-the-array-strictly-increasing
 [1913]:./Easy/1913-Maximum%20Product%20Difference%20Between%20Two%20Pairs/README.md#1913-maximum-product-difference-between-two-pairs
@@ -2502,6 +2504,7 @@
 [1869l]:https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1876l]:https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
 [1880l]:https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
+[1897l]:https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
 [1903l]:https://leetcode.com/problems/largest-odd-number-in-string/
 [1909l]:https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
 [1913l]:https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
