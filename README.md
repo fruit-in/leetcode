@@ -834,6 +834,7 @@
 [2185][2185l]|[Counting Words With a Given Prefix][2185]                                            |![rs]
 [2200][2200l]|[Find All K-Distant Indices in an Array][2200]                                        |![rs]
 [2220][2220l]|[Minimum Bit Flips to Convert Number][2220]                                           |![rs]
+[2224][2224l]|[Minimum Number of Operations to Convert Time][2224]                                  |![py]
 [2235][2235l]|[Add Two Integers][2235]                                                              |![py]&nbsp;&nbsp;![rs]
 [2264][2264l]|[Largest 3-Same-Digit Number in String][2264]                                         |![rs]
 [2278][2278l]|[Percentage of Letter in String][2278]                                                |![rs]
@@ -1681,6 +1682,7 @@
 [2185]:./Easy/2185-Counting%20Words%20With%20a%20Given%20Prefix/README.md#2185-counting-words-with-a-given-prefix
 [2200]:./Easy/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README.md#2200-find-all-k-distant-indices-in-an-array
 [2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README.md#2220-minimum-bit-flips-to-convert-number
+[2224]:./Easy/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README.md#2224-minimum-number-of-operations-to-convert-time
 [2235]:./Easy/2235-Add%20Two%20Integers/README.md#2235-add-two-integers
 [2264]:./Easy/2264-Largest%203-Same-Digit%20Number%20in%20String/README.md#2264-largest-3-same-digit-number-in-string
 [2278]:./Easy/2278-Percentage%20of%20Letter%20in%20String/README.md#2278-percentage-of-letter-in-string
@@ -2534,6 +2536,7 @@
 [2185l]:https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2200l]:https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 [2220l]:https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
+[2224l]:https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 [2235l]:https://leetcode.com/problems/add-two-integers/
 [2264l]:https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 [2278l]:https://leetcode.com/problems/percentage-of-letter-in-string/
