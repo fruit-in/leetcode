@@ -821,6 +821,7 @@
 [1967][1967l]|[作为子字符串出现在单词中的字符串数目][1967]              |![py]
 [1979][1979l]|[找出数组的最大公约数][1979]                              |![py]&nbsp;&nbsp;![rb]
 [1995][1995l]|[统计特殊四元组][1995]                                    |![py]
+[2000][2000l]|[反转单词前缀][2000]                                      |![py]
 [2006][2006l]|[差的绝对值为 K 的数对数目][2006]                         |![rs]
 [2011][2011l]|[执行操作后的变量值][2011]                                |![py]&nbsp;&nbsp;![rs]
 [2022][2022l]|[将一维数组转变成二维数组][2022]                          |![rs]
@@ -1666,6 +1667,7 @@
 [1967]:./Easy/1967-Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/README_CN.md#1967-作为子字符串出现在单词中的字符串数目
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README_CN.md#1979-找出数组的最大公约数
 [1995]:./Easy/1995-Count%20Special%20Quadruplets/README_CN.md#1995-统计特殊四元组
+[2000]:./Easy/2000-Reverse%20Prefix%20of%20Word/README_CN.md#2000-反转单词前缀
 [2006]:./Easy/2006-Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/README_CN.md#2006-差的绝对值为-k-的数对数目
 [2011]:./Easy/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README_CN.md#2011-执行操作后的变量值
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README_CN.md#2022-将一维数组转变成二维数组
@@ -2517,6 +2519,7 @@
 [1967l]:https://leetcode.cn/problems/number-of-strings-that-appear-as-substrings-in-word/
 [1979l]:https://leetcode.cn/problems/find-greatest-common-divisor-of-array/
 [1995l]:https://leetcode.cn/problems/count-special-quadruplets/
+[2000l]:https://leetcode.cn/problems/reverse-prefix-of-word/
 [2006l]:https://leetcode.cn/problems/count-number-of-pairs-with-absolute-difference-k/
 [2011l]:https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/
 [2022l]:https://leetcode.cn/problems/convert-1d-array-into-2d-array/

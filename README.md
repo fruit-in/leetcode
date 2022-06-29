@@ -821,6 +821,7 @@
 [1967][1967l]|[Number of Strings That Appear as Substrings in Word][1967]                           |![py]
 [1979][1979l]|[Find Greatest Common Divisor of Array][1979]                                         |![py]&nbsp;&nbsp;![rb]
 [1995][1995l]|[Count Special Quadruplets][1995]                                                     |![py]
+[2000][2000l]|[Reverse Prefix of Word][2000]                                                        |![py]
 [2006][2006l]|[Count Number of Pairs With Absolute Difference K][2006]                              |![rs]
 [2011][2011l]|[Final Value of Variable After Performing Operations][2011]                           |![py]&nbsp;&nbsp;![rs]
 [2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
@@ -1666,6 +1667,7 @@
 [1967]:./Easy/1967-Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/README.md#1967-number-of-strings-that-appear-as-substrings-in-word
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README.md#1979-find-greatest-common-divisor-of-array
 [1995]:./Easy/1995-Count%20Special%20Quadruplets/README.md#1995-count-special-quadruplets
+[2000]:./Easy/2000-Reverse%20Prefix%20of%20Word/README.md#2000-reverse-prefix-of-word
 [2006]:./Easy/2006-Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/README.md#2006-count-number-of-pairs-with-absolute-difference-k
 [2011]:./Easy/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README.md#2011-final-value-of-variable-after-performing-operations
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
@@ -2517,6 +2519,7 @@
 [1967l]:https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 [1979l]:https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 [1995l]:https://leetcode.com/problems/count-special-quadruplets/
+[2000l]:https://leetcode.com/problems/reverse-prefix-of-word/
 [2006l]:https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [2011l]:https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
