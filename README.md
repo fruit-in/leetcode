@@ -824,6 +824,7 @@
 [2000][2000l]|[Reverse Prefix of Word][2000]                                                        |![py]
 [2006][2006l]|[Count Number of Pairs With Absolute Difference K][2006]                              |![rs]
 [2011][2011l]|[Final Value of Variable After Performing Operations][2011]                           |![py]&nbsp;&nbsp;![rs]
+[2016][2016l]|[Maximum Difference Between Increasing Elements][2016]                                |![rs]
 [2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
 [2057][2057l]|[Smallest Index With Equal Value][2057]                                               |![rs]
 [2068][2068l]|[Check Whether Two Strings are Almost Equivalent][2068]                               |![rs]
@@ -1672,6 +1673,7 @@
 [2000]:./Easy/2000-Reverse%20Prefix%20of%20Word/README.md#2000-reverse-prefix-of-word
 [2006]:./Easy/2006-Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/README.md#2006-count-number-of-pairs-with-absolute-difference-k
 [2011]:./Easy/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README.md#2011-final-value-of-variable-after-performing-operations
+[2016]:./Easy/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README.md#2016-maximum-difference-between-increasing-elements
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README.md#2057-smallest-index-with-equal-value
 [2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README.md#2068-check-whether-two-strings-are-almost-equivalent
@@ -2526,6 +2528,7 @@
 [2000l]:https://leetcode.com/problems/reverse-prefix-of-word/
 [2006l]:https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [2011l]:https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+[2016l]:https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 [2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
 [2057l]:https://leetcode.com/problems/smallest-index-with-equal-value/
 [2068l]:https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
