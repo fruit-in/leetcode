@@ -830,6 +830,7 @@
 [2057][2057l]|[值相等的最小索引][2057]                                  |![rs]
 [2068][2068l]|[检查两个字符串是否几乎相等][2068]                        |![rs]
 [2078][2078l]|[两栋颜色不同且距离最远的房子][2078]                      |![rs]
+[2099][2099l]|[找到和最大的长度为 K 的子序列][2099]                     |![rs]
 [2103][2103l]|[环和杆][2103]                                            |![rs]
 [2119][2119l]|[反转两次的数字][2119]                                    |![rs]
 [2154][2154l]|[将找到的值乘以 2][2154]                                  |![rs]
@@ -1681,6 +1682,7 @@
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README_CN.md#2057-值相等的最小索引
 [2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README_CN.md#2068-检查两个字符串是否几乎相等
 [2078]:./Easy/2078-Two%20Furthest%20Houses%20With%20Different%20Colors/README_CN.md#2078-两栋颜色不同且距离最远的房子
+[2099]:./Easy/2099-Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum/README_CN.md#2099-找到和最大的长度为-k-的子序列
 [2103]:./Easy/2103-Rings%20and%20Rods/README_CN.md#2103-环和杆
 [2119]:./Easy/2119-A%20Number%20After%20a%20Double%20Reversal/README_CN.md#2119-反转两次的数字
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README_CN.md#2154-将找到的值乘以-2
@@ -2538,6 +2540,7 @@
 [2057l]:https://leetcode.cn/problems/smallest-index-with-equal-value/
 [2068l]:https://leetcode.cn/problems/check-whether-two-strings-are-almost-equivalent/
 [2078l]:https://leetcode.cn/problems/two-furthest-houses-with-different-colors/
+[2099l]:https://leetcode.cn/problems/find-subsequence-of-length-k-with-the-largest-sum/
 [2103l]:https://leetcode.cn/problems/rings-and-rods/
 [2119l]:https://leetcode.cn/problems/a-number-after-a-double-reversal/
 [2154l]:https://leetcode.cn/problems/keep-multiplying-found-values-by-two/
