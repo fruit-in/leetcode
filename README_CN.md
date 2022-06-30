@@ -826,6 +826,7 @@
 [2011][2011l]|[执行操作后的变量值][2011]                                |![py]&nbsp;&nbsp;![rs]
 [2016][2016l]|[增量元素之间的最大差值][2016]                            |![rs]
 [2022][2022l]|[将一维数组转变成二维数组][2022]                          |![rs]
+[2027][2027l]|[转换字符串的最少操作次数][2027]                          |![rs]
 [2057][2057l]|[值相等的最小索引][2057]                                  |![rs]
 [2068][2068l]|[检查两个字符串是否几乎相等][2068]                        |![rs]
 [2103][2103l]|[环和杆][2103]                                            |![rs]
@@ -1675,6 +1676,7 @@
 [2011]:./Easy/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README_CN.md#2011-执行操作后的变量值
 [2016]:./Easy/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README_CN.md#2016-增量元素之间的最大差值
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README_CN.md#2022-将一维数组转变成二维数组
+[2027]:./Easy/2027-Minimum%20Moves%20to%20Convert%20String/README_CN.md#2027-转换字符串的最少操作次数
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README_CN.md#2057-值相等的最小索引
 [2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README_CN.md#2068-检查两个字符串是否几乎相等
 [2103]:./Easy/2103-Rings%20and%20Rods/README_CN.md#2103-环和杆
@@ -2530,6 +2532,7 @@
 [2011l]:https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/
 [2016l]:https://leetcode.cn/problems/maximum-difference-between-increasing-elements/
 [2022l]:https://leetcode.cn/problems/convert-1d-array-into-2d-array/
+[2027l]:https://leetcode.cn/problems/minimum-moves-to-convert-string/
 [2057l]:https://leetcode.cn/problems/smallest-index-with-equal-value/
 [2068l]:https://leetcode.cn/problems/check-whether-two-strings-are-almost-equivalent/
 [2103l]:https://leetcode.cn/problems/rings-and-rods/
