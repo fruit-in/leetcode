@@ -838,6 +838,7 @@
 [2176][2176l]|[统计数组中相等且可以被整除的数对][2176]                  |![rs]
 [2185][2185l]|[统计包含给定前缀的字符串][2185]                          |![rs]
 [2200][2200l]|[找出数组中的所有 K 近邻下标][2200]                       |![rs]
+[2206][2206l]|[将数组划分成相等数对][2206]                              |![rs]
 [2220][2220l]|[转换数字的最少位翻转次数][2220]                          |![rs]
 [2224][2224l]|[转化时间需要的最少操作数][2224]                          |![py]
 [2235][2235l]|[两整数相加][2235]                                        |![py]&nbsp;&nbsp;![rs]
@@ -1692,6 +1693,7 @@
 [2176]:./Easy/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README_CN.md#2176-统计数组中相等且可以被整除的数对
 [2185]:./Easy/2185-Counting%20Words%20With%20a%20Given%20Prefix/README_CN.md#2185-统计包含给定前缀的字符串
 [2200]:./Easy/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README_CN.md#2200-找出数组中的所有-k-近邻下标
+[2206]:./Easy/2206-Divide%20Array%20Into%20Equal%20Pairs/README_CN.md#2206-将数组划分成相等数对
 [2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README_CN.md#2220-转换数字的最少位翻转次数
 [2224]:./Easy/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README_CN.md#2224-转化时间需要的最少操作数
 [2235]:./Easy/2235-Add%20Two%20Integers/README_CN.md#2235-两整数相加
@@ -2552,6 +2554,7 @@
 [2176l]:https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/
 [2185l]:https://leetcode.cn/problems/counting-words-with-a-given-prefix/
 [2200l]:https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/
+[2206l]:https://leetcode.cn/problems/divide-array-into-equal-pairs/
 [2220l]:https://leetcode.cn/problems/minimum-bit-flips-to-convert-number/
 [2224l]:https://leetcode.cn/problems/minimum-number-of-operations-to-convert-time/
 [2235l]:https://leetcode.cn/problems/add-two-integers/
