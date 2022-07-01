@@ -835,6 +835,7 @@
 [2119][2119l]|[反转两次的数字][2119]                                    |![rs]
 [2154][2154l]|[将找到的值乘以 2][2154]                                  |![rs]
 [2169][2169l]|[得到 0 的操作数][2169]                                   |![py]
+[2176][2176l]|[统计数组中相等且可以被整除的数对][2176]                  |![rs]
 [2185][2185l]|[统计包含给定前缀的字符串][2185]                          |![rs]
 [2200][2200l]|[找出数组中的所有 K 近邻下标][2200]                       |![rs]
 [2220][2220l]|[转换数字的最少位翻转次数][2220]                          |![rs]
@@ -1688,6 +1689,7 @@
 [2119]:./Easy/2119-A%20Number%20After%20a%20Double%20Reversal/README_CN.md#2119-反转两次的数字
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README_CN.md#2154-将找到的值乘以-2
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README_CN.md#2169-得到-0-的操作数
+[2176]:./Easy/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README_CN.md#2176-统计数组中相等且可以被整除的数对
 [2185]:./Easy/2185-Counting%20Words%20With%20a%20Given%20Prefix/README_CN.md#2185-统计包含给定前缀的字符串
 [2200]:./Easy/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README_CN.md#2200-找出数组中的所有-k-近邻下标
 [2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README_CN.md#2220-转换数字的最少位翻转次数
@@ -2547,6 +2549,7 @@
 [2119l]:https://leetcode.cn/problems/a-number-after-a-double-reversal/
 [2154l]:https://leetcode.cn/problems/keep-multiplying-found-values-by-two/
 [2169l]:https://leetcode.cn/problems/count-operations-to-obtain-zero/
+[2176l]:https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/
 [2185l]:https://leetcode.cn/problems/counting-words-with-a-given-prefix/
 [2200l]:https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/
 [2220l]:https://leetcode.cn/problems/minimum-bit-flips-to-convert-number/
