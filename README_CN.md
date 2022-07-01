@@ -840,6 +840,7 @@
 [2220][2220l]|[转换数字的最少位翻转次数][2220]                          |![rs]
 [2224][2224l]|[转化时间需要的最少操作数][2224]                          |![py]
 [2235][2235l]|[两整数相加][2235]                                        |![py]&nbsp;&nbsp;![rs]
+[2236][2236l]|[判断根结点是否等于子结点之和][2236]                      |![py]
 [2264][2264l]|[字符串中最大的 3 位相同数字][2264]                       |![rs]
 [2278][2278l]|[字母在字符串中的百分比][2278]                            |![rs]
 [2283][2283l]|[判断一个数的数字计数是否等于数位的值][2283]              |![rs]
@@ -1692,6 +1693,7 @@
 [2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README_CN.md#2220-转换数字的最少位翻转次数
 [2224]:./Easy/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README_CN.md#2224-转化时间需要的最少操作数
 [2235]:./Easy/2235-Add%20Two%20Integers/README_CN.md#2235-两整数相加
+[2236]:./Easy/2236-Root%20Equals%20Sum%20of%20Children/README_CN.md#2236-判断根结点是否等于子结点之和
 [2264]:./Easy/2264-Largest%203-Same-Digit%20Number%20in%20String/README_CN.md#2264-字符串中最大的-3-位相同数字
 [2278]:./Easy/2278-Percentage%20of%20Letter%20in%20String/README_CN.md#2278-字母在字符串中的百分比
 [2283]:./Easy/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README_CN.md#2283-判断一个数的数字计数是否等于数位的值
@@ -2550,6 +2552,7 @@
 [2220l]:https://leetcode.cn/problems/minimum-bit-flips-to-convert-number/
 [2224l]:https://leetcode.cn/problems/minimum-number-of-operations-to-convert-time/
 [2235l]:https://leetcode.cn/problems/add-two-integers/
+[2236l]:https://leetcode.cn/problems/root-equals-sum-of-children/
 [2264l]:https://leetcode.cn/problems/largest-3-same-digit-number-in-string/
 [2278l]:https://leetcode.cn/problems/percentage-of-letter-in-string/
 [2283l]:https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/

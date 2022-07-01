@@ -840,6 +840,7 @@
 [2220][2220l]|[Minimum Bit Flips to Convert Number][2220]                                           |![rs]
 [2224][2224l]|[Minimum Number of Operations to Convert Time][2224]                                  |![py]
 [2235][2235l]|[Add Two Integers][2235]                                                              |![py]&nbsp;&nbsp;![rs]
+[2236][2236l]|[Root Equals Sum of Children][2236]                                                   |![py]
 [2264][2264l]|[Largest 3-Same-Digit Number in String][2264]                                         |![rs]
 [2278][2278l]|[Percentage of Letter in String][2278]                                                |![rs]
 [2283][2283l]|[Check if Number Has Equal Digit Count and Digit Value][2283]                         |![rs]
@@ -1692,6 +1693,7 @@
 [2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README.md#2220-minimum-bit-flips-to-convert-number
 [2224]:./Easy/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README.md#2224-minimum-number-of-operations-to-convert-time
 [2235]:./Easy/2235-Add%20Two%20Integers/README.md#2235-add-two-integers
+[2236]:./Easy/2236-Root%20Equals%20Sum%20of%20Children/README.md#2236-root-equals-sum-of-children
 [2264]:./Easy/2264-Largest%203-Same-Digit%20Number%20in%20String/README.md#2264-largest-3-same-digit-number-in-string
 [2278]:./Easy/2278-Percentage%20of%20Letter%20in%20String/README.md#2278-percentage-of-letter-in-string
 [2283]:./Easy/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README.md#2283-check-if-number-has-equal-digit-count-and-digit-value
@@ -2550,6 +2552,7 @@
 [2220l]:https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 [2224l]:https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 [2235l]:https://leetcode.com/problems/add-two-integers/
+[2236l]:https://leetcode.com/problems/root-equals-sum-of-children/
 [2264l]:https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 [2278l]:https://leetcode.com/problems/percentage-of-letter-in-string/
 [2283l]:https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
