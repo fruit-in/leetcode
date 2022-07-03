@@ -839,6 +839,7 @@
 [2119][2119l]|[反转两次的数字][2119]                                    |![rs]
 [2125][2125l]|[银行中的激光束数量][2125]                                |![py]
 [2154][2154l]|[将找到的值乘以 2][2154]                                  |![rs]
+[2161][2161l]|[根据给定数字划分数组][2161]                              |![py]
 [2169][2169l]|[得到 0 的操作数][2169]                                   |![py]
 [2176][2176l]|[统计数组中相等且可以被整除的数对][2176]                  |![rs]
 [2185][2185l]|[统计包含给定前缀的字符串][2185]                          |![rs]
@@ -1699,6 +1700,7 @@
 [2119]:./Easy/2119-A%20Number%20After%20a%20Double%20Reversal/README_CN.md#2119-反转两次的数字
 [2125]:./Medium/2125-Number%20of%20Laser%20Beams%20in%20a%20Bank/README_CN.md#2125-银行中的激光束数量
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README_CN.md#2154-将找到的值乘以-2
+[2161]:./Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot/README_CN.md#2161-根据给定数字划分数组
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README_CN.md#2169-得到-0-的操作数
 [2176]:./Easy/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README_CN.md#2176-统计数组中相等且可以被整除的数对
 [2185]:./Easy/2185-Counting%20Words%20With%20a%20Given%20Prefix/README_CN.md#2185-统计包含给定前缀的字符串
@@ -2565,6 +2567,7 @@
 [2119l]:https://leetcode.cn/problems/a-number-after-a-double-reversal/
 [2125l]:https://leetcode.cn/problems/number-of-laser-beams-in-a-bank/
 [2154l]:https://leetcode.cn/problems/keep-multiplying-found-values-by-two/
+[2161l]:https://leetcode.cn/problems/partition-array-according-to-given-pivot/
 [2169l]:https://leetcode.cn/problems/count-operations-to-obtain-zero/
 [2176l]:https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/
 [2185l]:https://leetcode.cn/problems/counting-words-with-a-given-prefix/
