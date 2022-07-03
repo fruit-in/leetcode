@@ -819,6 +819,7 @@
 [1957][1957l]|[删除字符使字符串变好][1957]                              |![py]
 [1961][1961l]|[检查字符串是否为数组前缀][1961]                          |![py]
 [1967][1967l]|[作为子字符串出现在单词中的字符串数目][1967]              |![py]
+[1974][1974l]|[使用特殊打字机键入单词的最少时间][1974]                  |![rs]
 [1979][1979l]|[找出数组的最大公约数][1979]                              |![py]&nbsp;&nbsp;![rb]
 [1995][1995l]|[统计特殊四元组][1995]                                    |![py]
 [2000][2000l]|[反转单词前缀][2000]                                      |![py]
@@ -1674,6 +1675,7 @@
 [1957]:./Easy/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README_CN.md#1957-删除字符使字符串变好
 [1961]:./Easy/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README_CN.md#1961-检查字符串是否为数组前缀
 [1967]:./Easy/1967-Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/README_CN.md#1967-作为子字符串出现在单词中的字符串数目
+[1974]:./Easy/1974-Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/README_CN.md#1974-使用特殊打字机键入单词的最少时间
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README_CN.md#1979-找出数组的最大公约数
 [1995]:./Easy/1995-Count%20Special%20Quadruplets/README_CN.md#1995-统计特殊四元组
 [2000]:./Easy/2000-Reverse%20Prefix%20of%20Word/README_CN.md#2000-反转单词前缀
@@ -2535,6 +2537,7 @@
 [1957l]:https://leetcode.cn/problems/delete-characters-to-make-fancy-string/
 [1961l]:https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array/
 [1967l]:https://leetcode.cn/problems/number-of-strings-that-appear-as-substrings-in-word/
+[1974l]:https://leetcode.cn/problems/minimum-time-to-type-word-using-special-typewriter/
 [1979l]:https://leetcode.cn/problems/find-greatest-common-divisor-of-array/
 [1995l]:https://leetcode.cn/problems/count-special-quadruplets/
 [2000l]:https://leetcode.cn/problems/reverse-prefix-of-word/

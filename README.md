@@ -819,6 +819,7 @@
 [1957][1957l]|[Delete Characters to Make Fancy String][1957]                                        |![py]
 [1961][1961l]|[Check If String Is a Prefix of Array][1961]                                          |![py]
 [1967][1967l]|[Number of Strings That Appear as Substrings in Word][1967]                           |![py]
+[1974][1974l]|[Minimum Time to Type Word Using Special Typewriter][1974]                            |![rs]
 [1979][1979l]|[Find Greatest Common Divisor of Array][1979]                                         |![py]&nbsp;&nbsp;![rb]
 [1995][1995l]|[Count Special Quadruplets][1995]                                                     |![py]
 [2000][2000l]|[Reverse Prefix of Word][2000]                                                        |![py]
@@ -1674,6 +1675,7 @@
 [1957]:./Easy/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README.md#1957-delete-characters-to-make-fancy-string
 [1961]:./Easy/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README.md#1961-check-if-string-is-a-prefix-of-array
 [1967]:./Easy/1967-Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/README.md#1967-number-of-strings-that-appear-as-substrings-in-word
+[1974]:./Easy/1974-Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/README.md#1974-minimum-time-to-type-word-using-special-typewriter
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README.md#1979-find-greatest-common-divisor-of-array
 [1995]:./Easy/1995-Count%20Special%20Quadruplets/README.md#1995-count-special-quadruplets
 [2000]:./Easy/2000-Reverse%20Prefix%20of%20Word/README.md#2000-reverse-prefix-of-word
@@ -2535,6 +2537,7 @@
 [1957l]:https://leetcode.com/problems/delete-characters-to-make-fancy-string/
 [1961l]:https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 [1967l]:https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+[1974l]:https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
 [1979l]:https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 [1995l]:https://leetcode.com/problems/count-special-quadruplets/
 [2000l]:https://leetcode.com/problems/reverse-prefix-of-word/
