@@ -837,6 +837,7 @@
 [2099][2099l]|[Find Subsequence of Length K With the Largest Sum][2099]                             |![rs]
 [2103][2103l]|[Rings and Rods][2103]                                                                |![rs]
 [2119][2119l]|[A Number After a Double Reversal][2119]                                              |![rs]
+[2125][2125l]|[Number of Laser Beams in a Bank][2125]                                               |![py]
 [2154][2154l]|[Keep Multiplying Found Values by Two][2154]                                          |![rs]
 [2169][2169l]|[Count Operations to Obtain Zero][2169]                                               |![py]
 [2176][2176l]|[Count Equal and Divisible Pairs in an Array][2176]                                   |![rs]
@@ -1696,6 +1697,7 @@
 [2099]:./Easy/2099-Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum/README.md#2099-find-subsequence-of-length-k-with-the-largest-sum
 [2103]:./Easy/2103-Rings%20and%20Rods/README.md#2103-rings-and-rods
 [2119]:./Easy/2119-A%20Number%20After%20a%20Double%20Reversal/README.md#2119-a-number-after-a-double-reversal
+[2125]:./Medium/2125-Number%20of%20Laser%20Beams%20in%20a%20Bank/README.md#2125-number-of-laser-beams-in-a-bank
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README.md#2154-keep-multiplying-found-values-by-two
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README.md#2169-count-operations-to-obtain-zero
 [2176]:./Easy/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README.md#2176-count-equal-and-divisible-pairs-in-an-array
@@ -2561,6 +2563,7 @@
 [2099l]:https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
 [2103l]:https://leetcode.com/problems/rings-and-rods/
 [2119l]:https://leetcode.com/problems/a-number-after-a-double-reversal/
+[2125l]:https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 [2154l]:https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 [2169l]:https://leetcode.com/problems/count-operations-to-obtain-zero/
 [2176l]:https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/

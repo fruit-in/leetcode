@@ -837,6 +837,7 @@
 [2099][2099l]|[找到和最大的长度为 K 的子序列][2099]                     |![rs]
 [2103][2103l]|[环和杆][2103]                                            |![rs]
 [2119][2119l]|[反转两次的数字][2119]                                    |![rs]
+[2125][2125l]|[银行中的激光束数量][2125]                                |![py]
 [2154][2154l]|[将找到的值乘以 2][2154]                                  |![rs]
 [2169][2169l]|[得到 0 的操作数][2169]                                   |![py]
 [2176][2176l]|[统计数组中相等且可以被整除的数对][2176]                  |![rs]
@@ -1696,6 +1697,7 @@
 [2099]:./Easy/2099-Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum/README_CN.md#2099-找到和最大的长度为-k-的子序列
 [2103]:./Easy/2103-Rings%20and%20Rods/README_CN.md#2103-环和杆
 [2119]:./Easy/2119-A%20Number%20After%20a%20Double%20Reversal/README_CN.md#2119-反转两次的数字
+[2125]:./Medium/2125-Number%20of%20Laser%20Beams%20in%20a%20Bank/README_CN.md#2125-银行中的激光束数量
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README_CN.md#2154-将找到的值乘以-2
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README_CN.md#2169-得到-0-的操作数
 [2176]:./Easy/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README_CN.md#2176-统计数组中相等且可以被整除的数对
@@ -2561,6 +2563,7 @@
 [2099l]:https://leetcode.cn/problems/find-subsequence-of-length-k-with-the-largest-sum/
 [2103l]:https://leetcode.cn/problems/rings-and-rods/
 [2119l]:https://leetcode.cn/problems/a-number-after-a-double-reversal/
+[2125l]:https://leetcode.cn/problems/number-of-laser-beams-in-a-bank/
 [2154l]:https://leetcode.cn/problems/keep-multiplying-found-values-by-two/
 [2169l]:https://leetcode.cn/problems/count-operations-to-obtain-zero/
 [2176l]:https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/
