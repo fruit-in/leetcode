@@ -821,6 +821,7 @@
 [1967][1967l]|[作为子字符串出现在单词中的字符串数目][1967]              |![py]
 [1974][1974l]|[使用特殊打字机键入单词的最少时间][1974]                  |![rs]
 [1979][1979l]|[找出数组的最大公约数][1979]                              |![py]&nbsp;&nbsp;![rb]
+[1984][1984l]|[学生分数的最小差值][1984]                                |![rs]
 [1995][1995l]|[统计特殊四元组][1995]                                    |![py]
 [2000][2000l]|[反转单词前缀][2000]                                      |![py]
 [2006][2006l]|[差的绝对值为 K 的数对数目][2006]                         |![rs]
@@ -1677,6 +1678,7 @@
 [1967]:./Easy/1967-Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/README_CN.md#1967-作为子字符串出现在单词中的字符串数目
 [1974]:./Easy/1974-Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/README_CN.md#1974-使用特殊打字机键入单词的最少时间
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README_CN.md#1979-找出数组的最大公约数
+[1984]:./Easy/1984-Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/README_CN.md#1984-学生分数的最小差值
 [1995]:./Easy/1995-Count%20Special%20Quadruplets/README_CN.md#1995-统计特殊四元组
 [2000]:./Easy/2000-Reverse%20Prefix%20of%20Word/README_CN.md#2000-反转单词前缀
 [2006]:./Easy/2006-Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/README_CN.md#2006-差的绝对值为-k-的数对数目
@@ -2539,6 +2541,7 @@
 [1967l]:https://leetcode.cn/problems/number-of-strings-that-appear-as-substrings-in-word/
 [1974l]:https://leetcode.cn/problems/minimum-time-to-type-word-using-special-typewriter/
 [1979l]:https://leetcode.cn/problems/find-greatest-common-divisor-of-array/
+[1984l]:https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 [1995l]:https://leetcode.cn/problems/count-special-quadruplets/
 [2000l]:https://leetcode.cn/problems/reverse-prefix-of-word/
 [2006l]:https://leetcode.cn/problems/count-number-of-pairs-with-absolute-difference-k/
