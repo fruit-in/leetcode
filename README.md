@@ -824,6 +824,7 @@
 [1984][1984l]|[Minimum Difference Between Highest and Lowest of K Scores][1984]                     |![rs]
 [1995][1995l]|[Count Special Quadruplets][1995]                                                     |![py]
 [2000][2000l]|[Reverse Prefix of Word][2000]                                                        |![py]
+[2001][2001l]|[Number of Pairs of Interchangeable Rectangles][2001]                                 |![py]
 [2006][2006l]|[Count Number of Pairs With Absolute Difference K][2006]                              |![rs]
 [2011][2011l]|[Final Value of Variable After Performing Operations][2011]                           |![py]&nbsp;&nbsp;![rs]
 [2016][2016l]|[Maximum Difference Between Increasing Elements][2016]                                |![rs]
@@ -1682,6 +1683,7 @@
 [1984]:./Easy/1984-Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/README.md#1984-minimum-difference-between-highest-and-lowest-of-k-scores
 [1995]:./Easy/1995-Count%20Special%20Quadruplets/README.md#1995-count-special-quadruplets
 [2000]:./Easy/2000-Reverse%20Prefix%20of%20Word/README.md#2000-reverse-prefix-of-word
+[2001]:./Medium/2001-Number%20of%20Pairs%20of%20Interchangeable%20Rectangles/README.md#2001-number-of-pairs-of-interchangeable-rectangles
 [2006]:./Easy/2006-Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/README.md#2006-count-number-of-pairs-with-absolute-difference-k
 [2011]:./Easy/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README.md#2011-final-value-of-variable-after-performing-operations
 [2016]:./Easy/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README.md#2016-maximum-difference-between-increasing-elements
@@ -2546,6 +2548,7 @@
 [1984l]:https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 [1995l]:https://leetcode.com/problems/count-special-quadruplets/
 [2000l]:https://leetcode.com/problems/reverse-prefix-of-word/
+[2001l]:https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/
 [2006l]:https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [2011l]:https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2016l]:https://leetcode.com/problems/maximum-difference-between-increasing-elements/
