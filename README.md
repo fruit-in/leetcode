@@ -842,6 +842,7 @@
 [2161][2161l]|[Partition Array According to Given Pivot][2161]                                      |![py]
 [2169][2169l]|[Count Operations to Obtain Zero][2169]                                               |![py]
 [2176][2176l]|[Count Equal and Divisible Pairs in an Array][2176]                                   |![rs]
+[2181][2181l]|[Merge Nodes in Between Zeros][2181]                                                  |![py]
 [2185][2185l]|[Counting Words With a Given Prefix][2185]                                            |![rs]
 [2200][2200l]|[Find All K-Distant Indices in an Array][2200]                                        |![rs]
 [2206][2206l]|[Divide Array Into Equal Pairs][2206]                                                 |![rs]
@@ -1703,6 +1704,7 @@
 [2161]:./Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot/README.md#2161-partition-array-according-to-given-pivot
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README.md#2169-count-operations-to-obtain-zero
 [2176]:./Easy/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README.md#2176-count-equal-and-divisible-pairs-in-an-array
+[2181]:./Medium/2181-Merge%20Nodes%20in%20Between%20Zeros/README.md#2181-merge-nodes-in-between-zeros
 [2185]:./Easy/2185-Counting%20Words%20With%20a%20Given%20Prefix/README.md#2185-counting-words-with-a-given-prefix
 [2200]:./Easy/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README.md#2200-find-all-k-distant-indices-in-an-array
 [2206]:./Easy/2206-Divide%20Array%20Into%20Equal%20Pairs/README.md#2206-divide-array-into-equal-pairs
@@ -2570,6 +2572,7 @@
 [2161l]:https://leetcode.com/problems/partition-array-according-to-given-pivot/
 [2169l]:https://leetcode.com/problems/count-operations-to-obtain-zero/
 [2176l]:https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
+[2181l]:https://leetcode.com/problems/merge-nodes-in-between-zeros/
 [2185l]:https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2200l]:https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 [2206l]:https://leetcode.com/problems/divide-array-into-equal-pairs/
