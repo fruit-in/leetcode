@@ -841,6 +841,7 @@
 [2114][2114l]|[Maximum Number of Words Found in Sentences][2114]                                    |![rs]
 [2119][2119l]|[A Number After a Double Reversal][2119]                                              |![rs]
 [2125][2125l]|[Number of Laser Beams in a Bank][2125]                                               |![py]
+[2129][2129l]|[Capitalize the Title][2129]                                                          |![py]
 [2154][2154l]|[Keep Multiplying Found Values by Two][2154]                                          |![rs]
 [2161][2161l]|[Partition Array According to Given Pivot][2161]                                      |![py]
 [2169][2169l]|[Count Operations to Obtain Zero][2169]                                               |![py]
@@ -1706,6 +1707,7 @@
 [2114]:./Easy/2114-Maximum%20Number%20of%20Words%20Found%20in%20Sentences/README.md#2114-maximum-number-of-words-found-in-sentences
 [2119]:./Easy/2119-A%20Number%20After%20a%20Double%20Reversal/README.md#2119-a-number-after-a-double-reversal
 [2125]:./Medium/2125-Number%20of%20Laser%20Beams%20in%20a%20Bank/README.md#2125-number-of-laser-beams-in-a-bank
+[2129]:./Easy/2129-Capitalize%20the%20Title/README.md#2129-capitalize-the-title
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README.md#2154-keep-multiplying-found-values-by-two
 [2161]:./Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot/README.md#2161-partition-array-according-to-given-pivot
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README.md#2169-count-operations-to-obtain-zero
@@ -2577,6 +2579,7 @@
 [2114l]:https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [2119l]:https://leetcode.com/problems/a-number-after-a-double-reversal/
 [2125l]:https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
+[2129l]:https://leetcode.com/problems/capitalize-the-title/
 [2154l]:https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 [2161l]:https://leetcode.com/problems/partition-array-according-to-given-pivot/
 [2169l]:https://leetcode.com/problems/count-operations-to-obtain-zero/

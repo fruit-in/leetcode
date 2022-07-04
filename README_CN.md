@@ -841,6 +841,7 @@
 [2114][2114l]|[句子中的最多单词数][2114]                                |![rs]
 [2119][2119l]|[反转两次的数字][2119]                                    |![rs]
 [2125][2125l]|[银行中的激光束数量][2125]                                |![py]
+[2129][2129l]|[将标题首字母大写][2129]                                  |![py]
 [2154][2154l]|[将找到的值乘以 2][2154]                                  |![rs]
 [2161][2161l]|[根据给定数字划分数组][2161]                              |![py]
 [2169][2169l]|[得到 0 的操作数][2169]                                   |![py]
@@ -1706,6 +1707,7 @@
 [2114]:./Easy/2114-Maximum%20Number%20of%20Words%20Found%20in%20Sentences/README_CN.md#2114-句子中的最多单词数
 [2119]:./Easy/2119-A%20Number%20After%20a%20Double%20Reversal/README_CN.md#2119-反转两次的数字
 [2125]:./Medium/2125-Number%20of%20Laser%20Beams%20in%20a%20Bank/README_CN.md#2125-银行中的激光束数量
+[2129]:./Easy/2129-Capitalize%20the%20Title/README_CN.md#2129-将标题首字母大写
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README_CN.md#2154-将找到的值乘以-2
 [2161]:./Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot/README_CN.md#2161-根据给定数字划分数组
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README_CN.md#2169-得到-0-的操作数
@@ -2577,6 +2579,7 @@
 [2114l]:https://leetcode.cn/problems/maximum-number-of-words-found-in-sentences/
 [2119l]:https://leetcode.cn/problems/a-number-after-a-double-reversal/
 [2125l]:https://leetcode.cn/problems/number-of-laser-beams-in-a-bank/
+[2129l]:https://leetcode.cn/problems/capitalize-the-title/
 [2154l]:https://leetcode.cn/problems/keep-multiplying-found-values-by-two/
 [2161l]:https://leetcode.cn/problems/partition-array-according-to-given-pivot/
 [2169l]:https://leetcode.cn/problems/count-operations-to-obtain-zero/
