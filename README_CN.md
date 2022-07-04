@@ -838,6 +838,7 @@
 [2085][2085l]|[统计出现过一次的公共字符串][2085]                        |![py]
 [2099][2099l]|[找到和最大的长度为 K 的子序列][2099]                     |![rs]
 [2103][2103l]|[环和杆][2103]                                            |![rs]
+[2114][2114l]|[句子中的最多单词数][2114]                                |![rs]
 [2119][2119l]|[反转两次的数字][2119]                                    |![rs]
 [2125][2125l]|[银行中的激光束数量][2125]                                |![py]
 [2154][2154l]|[将找到的值乘以 2][2154]                                  |![rs]
@@ -1702,6 +1703,7 @@
 [2085]:./Easy/2085-Count%20Common%20Words%20With%20One%20Occurrence/README_CN.md#2085-统计出现过一次的公共字符串
 [2099]:./Easy/2099-Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum/README_CN.md#2099-找到和最大的长度为-k-的子序列
 [2103]:./Easy/2103-Rings%20and%20Rods/README_CN.md#2103-环和杆
+[2114]:./Easy/2114-Maximum%20Number%20of%20Words%20Found%20in%20Sentences/README_CN.md#2114-句子中的最多单词数
 [2119]:./Easy/2119-A%20Number%20After%20a%20Double%20Reversal/README_CN.md#2119-反转两次的数字
 [2125]:./Medium/2125-Number%20of%20Laser%20Beams%20in%20a%20Bank/README_CN.md#2125-银行中的激光束数量
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README_CN.md#2154-将找到的值乘以-2
@@ -2572,6 +2574,7 @@
 [2085l]:https://leetcode.cn/problems/count-common-words-with-one-occurrence/
 [2099l]:https://leetcode.cn/problems/find-subsequence-of-length-k-with-the-largest-sum/
 [2103l]:https://leetcode.cn/problems/rings-and-rods/
+[2114l]:https://leetcode.cn/problems/maximum-number-of-words-found-in-sentences/
 [2119l]:https://leetcode.cn/problems/a-number-after-a-double-reversal/
 [2125l]:https://leetcode.cn/problems/number-of-laser-beams-in-a-bank/
 [2154l]:https://leetcode.cn/problems/keep-multiplying-found-values-by-two/
