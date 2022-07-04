@@ -815,6 +815,7 @@
 [1920][1920l]|[Build Array from Permutation][1920]                                                  |![rs]
 [1925][1925l]|[Count Square Sum Triples][1925]                                                      |![py]
 [1929][1929l]|[Concatenation of Array][1929]                                                        |![py]&nbsp;&nbsp;![rs]
+[1941][1941l]|[Check if All Characters Have Equal Number of Occurrences][1941]                      |![rs]
 [1952][1952l]|[Three Divisors][1952]                                                                |![rs]
 [1957][1957l]|[Delete Characters to Make Fancy String][1957]                                        |![py]
 [1961][1961l]|[Check If String Is a Prefix of Array][1961]                                          |![py]
@@ -1677,6 +1678,7 @@
 [1920]:./Easy/1920-Build%20Array%20from%20Permutation/README.md#1920-build-array-from-permutation
 [1925]:./Easy/1925-Count%20Square%20Sum%20Triples/README.md#1925-count-square-sum-triples
 [1929]:./Easy/1929-Concatenation%20of%20Array/README.md#1929-concatenation-of-array
+[1941]:./Easy/1941-Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences/README.md#1941-check-if-all-characters-have-equal-number-of-occurrences
 [1952]:./Easy/1952-Three%20Divisors/README.md#1952-three-divisors
 [1957]:./Easy/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README.md#1957-delete-characters-to-make-fancy-string
 [1961]:./Easy/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README.md#1961-check-if-string-is-a-prefix-of-array
@@ -2545,6 +2547,7 @@
 [1920l]:https://leetcode.com/problems/build-array-from-permutation/
 [1925l]:https://leetcode.com/problems/count-square-sum-triples/
 [1929l]:https://leetcode.com/problems/concatenation-of-array/
+[1941l]:https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 [1952l]:https://leetcode.com/problems/three-divisors/
 [1957l]:https://leetcode.com/problems/delete-characters-to-make-fancy-string/
 [1961l]:https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
