@@ -835,6 +835,7 @@
 [2057][2057l]|[Smallest Index With Equal Value][2057]                                               |![rs]
 [2068][2068l]|[Check Whether Two Strings are Almost Equivalent][2068]                               |![rs]
 [2078][2078l]|[Two Furthest Houses With Different Colors][2078]                                     |![rs]
+[2085][2085l]|[Count Common Words With One Occurrence][2085]                                        |![py]
 [2099][2099l]|[Find Subsequence of Length K With the Largest Sum][2099]                             |![rs]
 [2103][2103l]|[Rings and Rods][2103]                                                                |![rs]
 [2119][2119l]|[A Number After a Double Reversal][2119]                                              |![rs]
@@ -1698,6 +1699,7 @@
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README.md#2057-smallest-index-with-equal-value
 [2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README.md#2068-check-whether-two-strings-are-almost-equivalent
 [2078]:./Easy/2078-Two%20Furthest%20Houses%20With%20Different%20Colors/README.md#2078-two-furthest-houses-with-different-colors
+[2085]:./Easy/2085-Count%20Common%20Words%20With%20One%20Occurrence/README.md#2085-count-common-words-with-one-occurrence
 [2099]:./Easy/2099-Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum/README.md#2099-find-subsequence-of-length-k-with-the-largest-sum
 [2103]:./Easy/2103-Rings%20and%20Rods/README.md#2103-rings-and-rods
 [2119]:./Easy/2119-A%20Number%20After%20a%20Double%20Reversal/README.md#2119-a-number-after-a-double-reversal
@@ -2567,6 +2569,7 @@
 [2057l]:https://leetcode.com/problems/smallest-index-with-equal-value/
 [2068l]:https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
 [2078l]:https://leetcode.com/problems/two-furthest-houses-with-different-colors/
+[2085l]:https://leetcode.com/problems/count-common-words-with-one-occurrence/
 [2099l]:https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
 [2103l]:https://leetcode.com/problems/rings-and-rods/
 [2119l]:https://leetcode.com/problems/a-number-after-a-double-reversal/
