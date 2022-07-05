@@ -840,6 +840,7 @@
 [2094][2094l]|[Finding 3-Digit Even Numbers][2094]                                                  |![rs]
 [2099][2099l]|[Find Subsequence of Length K With the Largest Sum][2099]                             |![rs]
 [2103][2103l]|[Rings and Rods][2103]                                                                |![rs]
+[2108][2108l]|[Find First Palindromic String in the Array][2108]                                    |![rs]
 [2114][2114l]|[Maximum Number of Words Found in Sentences][2114]                                    |![rs]
 [2119][2119l]|[A Number After a Double Reversal][2119]                                              |![rs]
 [2125][2125l]|[Number of Laser Beams in a Bank][2125]                                               |![py]
@@ -1708,6 +1709,7 @@
 [2094]:./Easy/2094-Finding%203-Digit%20Even%20Numbers/README.md#2094-finding-3-digit-even-numbers
 [2099]:./Easy/2099-Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum/README.md#2099-find-subsequence-of-length-k-with-the-largest-sum
 [2103]:./Easy/2103-Rings%20and%20Rods/README.md#2103-rings-and-rods
+[2108]:./Easy/2108-Find%20First%20Palindromic%20String%20in%20the%20Array/README.md#2108-find-first-palindromic-string-in-the-array
 [2114]:./Easy/2114-Maximum%20Number%20of%20Words%20Found%20in%20Sentences/README.md#2114-maximum-number-of-words-found-in-sentences
 [2119]:./Easy/2119-A%20Number%20After%20a%20Double%20Reversal/README.md#2119-a-number-after-a-double-reversal
 [2125]:./Medium/2125-Number%20of%20Laser%20Beams%20in%20a%20Bank/README.md#2125-number-of-laser-beams-in-a-bank
@@ -2582,6 +2584,7 @@
 [2094l]:https://leetcode.com/problems/finding-3-digit-even-numbers/
 [2099l]:https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
 [2103l]:https://leetcode.com/problems/rings-and-rods/
+[2108l]:https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 [2114l]:https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [2119l]:https://leetcode.com/problems/a-number-after-a-double-reversal/
 [2125l]:https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
