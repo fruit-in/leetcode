@@ -823,6 +823,7 @@
 [1974][1974l]|[Minimum Time to Type Word Using Special Typewriter][1974]                            |![rs]
 [1979][1979l]|[Find Greatest Common Divisor of Array][1979]                                         |![py]&nbsp;&nbsp;![rb]
 [1984][1984l]|[Minimum Difference Between Highest and Lowest of K Scores][1984]                     |![rs]
+[1991][1991l]|[Find the Middle Index in Array][1991]                                                |![py]
 [1995][1995l]|[Count Special Quadruplets][1995]                                                     |![py]
 [2000][2000l]|[Reverse Prefix of Word][2000]                                                        |![py]
 [2001][2001l]|[Number of Pairs of Interchangeable Rectangles][2001]                                 |![py]
@@ -1693,6 +1694,7 @@
 [1974]:./Easy/1974-Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/README.md#1974-minimum-time-to-type-word-using-special-typewriter
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README.md#1979-find-greatest-common-divisor-of-array
 [1984]:./Easy/1984-Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/README.md#1984-minimum-difference-between-highest-and-lowest-of-k-scores
+[1991]:./Easy/1991-Find%20the%20Middle%20Index%20in%20Array/README.md#1991-find-the-middle-index-in-array
 [1995]:./Easy/1995-Count%20Special%20Quadruplets/README.md#1995-count-special-quadruplets
 [2000]:./Easy/2000-Reverse%20Prefix%20of%20Word/README.md#2000-reverse-prefix-of-word
 [2001]:./Medium/2001-Number%20of%20Pairs%20of%20Interchangeable%20Rectangles/README.md#2001-number-of-pairs-of-interchangeable-rectangles
@@ -2569,6 +2571,7 @@
 [1974l]:https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
 [1979l]:https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 [1984l]:https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
+[1991l]:https://leetcode.com/problems/find-the-middle-index-in-array/
 [1995l]:https://leetcode.com/problems/count-special-quadruplets/
 [2000l]:https://leetcode.com/problems/reverse-prefix-of-word/
 [2001l]:https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/
