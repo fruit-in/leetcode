@@ -868,6 +868,7 @@
 [2293][2293l]|[Min Max Game][2293]                                                                  |![rs]
 [2299][2299l]|[Strong Password Checker II][2299]                                                    |![rs]
 [2309][2309l]|[Greatest English Letter in Upper and Lower Case][2309]                               |![rs]
+[2315][2315l]|[Count Asterisks][2315]                                                               |![rs]
 
 
 [py]:./ico/python.ico
@@ -1742,6 +1743,7 @@
 [2293]:./Easy/2293-Min%20Max%20Game/README.md#2293-min-max-game
 [2299]:./Easy/2299-Strong%20Password%20Checker%20II/README.md#2299-strong-password-checker-ii
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README.md#2309-greatest-english-letter-in-upper-and-lower-case
+[2315]:./Easy/2315-Count%20Asterisks/README.md#2315-count-asterisks
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -2622,3 +2624,4 @@
 [2293l]:https://leetcode.com/problems/min-max-game/
 [2299l]:https://leetcode.com/problems/strong-password-checker-ii/
 [2309l]:https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
+[2315l]:https://leetcode.com/problems/count-asterisks/
