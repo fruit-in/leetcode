@@ -864,6 +864,7 @@
 [2264][2264l]|[Largest 3-Same-Digit Number in String][2264]                                         |![rs]
 [2278][2278l]|[Percentage of Letter in String][2278]                                                |![rs]
 [2283][2283l]|[Check if Number Has Equal Digit Count and Digit Value][2283]                         |![rs]
+[2287][2287l]|[Rearrange Characters to Make Target String][2287]                                    |![rs]
 [2293][2293l]|[Min Max Game][2293]                                                                  |![rs]
 [2299][2299l]|[Strong Password Checker II][2299]                                                    |![rs]
 [2309][2309l]|[Greatest English Letter in Upper and Lower Case][2309]                               |![rs]
@@ -1737,6 +1738,7 @@
 [2264]:./Easy/2264-Largest%203-Same-Digit%20Number%20in%20String/README.md#2264-largest-3-same-digit-number-in-string
 [2278]:./Easy/2278-Percentage%20of%20Letter%20in%20String/README.md#2278-percentage-of-letter-in-string
 [2283]:./Easy/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README.md#2283-check-if-number-has-equal-digit-count-and-digit-value
+[2287]:./Easy/2287-Rearrange%20Characters%20to%20Make%20Target%20String/README.md#2287-rearrange-characters-to-make-target-string
 [2293]:./Easy/2293-Min%20Max%20Game/README.md#2293-min-max-game
 [2299]:./Easy/2299-Strong%20Password%20Checker%20II/README.md#2299-strong-password-checker-ii
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README.md#2309-greatest-english-letter-in-upper-and-lower-case
@@ -2616,6 +2618,7 @@
 [2264l]:https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 [2278l]:https://leetcode.com/problems/percentage-of-letter-in-string/
 [2283l]:https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
+[2287l]:https://leetcode.com/problems/rearrange-characters-to-make-target-string/
 [2293l]:https://leetcode.com/problems/min-max-game/
 [2299l]:https://leetcode.com/problems/strong-password-checker-ii/
 [2309l]:https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
