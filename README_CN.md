@@ -833,6 +833,7 @@
 [2022][2022l]|[将一维数组转变成二维数组][2022]                          |![rs]
 [2027][2027l]|[转换字符串的最少操作次数][2027]                          |![rs]
 [2037][2037l]|[使每位学生都有座位的最少移动次数][2037]                  |![rs]
+[2053][2053l]|[数组中第 K 个独一无二的字符串][2053]                     |![py]
 [2057][2057l]|[值相等的最小索引][2057]                                  |![rs]
 [2068][2068l]|[检查两个字符串是否几乎相等][2068]                        |![rs]
 [2078][2078l]|[两栋颜色不同且距离最远的房子][2078]                      |![rs]
@@ -1704,6 +1705,7 @@
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README_CN.md#2022-将一维数组转变成二维数组
 [2027]:./Easy/2027-Minimum%20Moves%20to%20Convert%20String/README_CN.md#2027-转换字符串的最少操作次数
 [2037]:./Easy/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README_CN.md#2037-使每位学生都有座位的最少移动次数
+[2053]:./Easy/2053-Kth%20Distinct%20String%20in%20an%20Array/README_CN.md#2053-数组中第-k-个独一无二的字符串
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README_CN.md#2057-值相等的最小索引
 [2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README_CN.md#2068-检查两个字符串是否几乎相等
 [2078]:./Easy/2078-Two%20Furthest%20Houses%20With%20Different%20Colors/README_CN.md#2078-两栋颜色不同且距离最远的房子
@@ -2581,6 +2583,7 @@
 [2022l]:https://leetcode.cn/problems/convert-1d-array-into-2d-array/
 [2027l]:https://leetcode.cn/problems/minimum-moves-to-convert-string/
 [2037l]:https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone/
+[2053l]:https://leetcode.cn/problems/kth-distinct-string-in-an-array/
 [2057l]:https://leetcode.cn/problems/smallest-index-with-equal-value/
 [2068l]:https://leetcode.cn/problems/check-whether-two-strings-are-almost-equivalent/
 [2078l]:https://leetcode.cn/problems/two-furthest-houses-with-different-colors/
