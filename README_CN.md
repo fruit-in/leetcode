@@ -862,6 +862,7 @@
 [2194][2194l]|[Excel 表中某个范围内的单元格][2194]                      |![rs]
 [2200][2200l]|[找出数组中的所有 K 近邻下标][2200]                       |![rs]
 [2206][2206l]|[将数组划分成相等数对][2206]                              |![rs]
+[2215][2215l]|[找出两数组的不同][2215]                                  |![rs]
 [2220][2220l]|[转换数字的最少位翻转次数][2220]                          |![rs]
 [2224][2224l]|[转化时间需要的最少操作数][2224]                          |![py]
 [2235][2235l]|[两整数相加][2235]                                        |![py]&nbsp;&nbsp;![rs]
@@ -1742,6 +1743,7 @@
 [2194]:./Easy/2194-Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet/README_CN.md#2194-excel-表中某个范围内的单元格
 [2200]:./Easy/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README_CN.md#2200-找出数组中的所有-k-近邻下标
 [2206]:./Easy/2206-Divide%20Array%20Into%20Equal%20Pairs/README_CN.md#2206-将数组划分成相等数对
+[2215]:./Easy/2215-Find%20the%20Difference%20of%20Two%20Arrays/README_CN.md#2215-找出两数组的不同
 [2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README_CN.md#2220-转换数字的最少位翻转次数
 [2224]:./Easy/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README_CN.md#2224-转化时间需要的最少操作数
 [2235]:./Easy/2235-Add%20Two%20Integers/README_CN.md#2235-两整数相加
@@ -2628,6 +2630,7 @@
 [2194l]:https://leetcode.cn/problems/cells-in-a-range-on-an-excel-sheet/
 [2200l]:https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/
 [2206l]:https://leetcode.cn/problems/divide-array-into-equal-pairs/
+[2215l]:https://leetcode.cn/problems/find-the-difference-of-two-arrays/
 [2220l]:https://leetcode.cn/problems/minimum-bit-flips-to-convert-number/
 [2224l]:https://leetcode.cn/problems/minimum-number-of-operations-to-convert-time/
 [2235l]:https://leetcode.cn/problems/add-two-integers/
