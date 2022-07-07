@@ -815,6 +815,7 @@
 [1920][1920l]|[基于排列构建数组][1920]                                  |![rs]
 [1925][1925l]|[统计平方和三元组的数目][1925]                            |![py]
 [1929][1929l]|[数组串联][1929]                                          |![py]&nbsp;&nbsp;![rs]
+[1935][1935l]|[可以输入的最大单词数][1935]                              |![py]
 [1941][1941l]|[检查是否所有字符出现次数相同][1941]                      |![rs]
 [1952][1952l]|[三除数][1952]                                            |![rs]
 [1957][1957l]|[删除字符使字符串变好][1957]                              |![py]
@@ -1690,6 +1691,7 @@
 [1920]:./Easy/1920-Build%20Array%20from%20Permutation/README_CN.md#1920-基于排列构建数组
 [1925]:./Easy/1925-Count%20Square%20Sum%20Triples/README_CN.md#1925-统计平方和三元组的数目
 [1929]:./Easy/1929-Concatenation%20of%20Array/README_CN.md#1929-数组串联
+[1935]:./Easy/1935-Maximum%20Number%20of%20Words%20You%20Can%20Type/README_CN.md#1935-可以输入的最大单词数
 [1941]:./Easy/1941-Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences/README_CN.md#1941-检查是否所有字符出现次数相同
 [1952]:./Easy/1952-Three%20Divisors/README_CN.md#1952-三除数
 [1957]:./Easy/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README_CN.md#1957-删除字符使字符串变好
@@ -2571,6 +2573,7 @@
 [1920l]:https://leetcode.cn/problems/build-array-from-permutation/
 [1925l]:https://leetcode.cn/problems/count-square-sum-triples/
 [1929l]:https://leetcode.cn/problems/concatenation-of-array/
+[1935l]:https://leetcode.cn/problems/maximum-number-of-words-you-can-type/
 [1941l]:https://leetcode.cn/problems/check-if-all-characters-have-equal-number-of-occurrences/
 [1952l]:https://leetcode.cn/problems/three-divisors/
 [1957l]:https://leetcode.cn/problems/delete-characters-to-make-fancy-string/
