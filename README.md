@@ -834,6 +834,7 @@
 [2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
 [2027][2027l]|[Minimum Moves to Convert String][2027]                                               |![rs]
 [2037][2037l]|[Minimum Number of Moves to Seat Everyone][2037]                                      |![rs]
+[2047][2047l]|[Number of Valid Words in a Sentence][2047]                                           |![py]
 [2053][2053l]|[Kth Distinct String in an Array][2053]                                               |![py]
 [2057][2057l]|[Smallest Index With Equal Value][2057]                                               |![rs]
 [2068][2068l]|[Check Whether Two Strings are Almost Equivalent][2068]                               |![rs]
@@ -1710,6 +1711,7 @@
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
 [2027]:./Easy/2027-Minimum%20Moves%20to%20Convert%20String/README.md#2027-minimum-moves-to-convert-string
 [2037]:./Easy/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README.md#2037-minimum-number-of-moves-to-seat-everyone
+[2047]:./Easy/2047-Number%20of%20Valid%20Words%20in%20a%20Sentence/README.md#2047-number-of-valid-words-in-a-sentence
 [2053]:./Easy/2053-Kth%20Distinct%20String%20in%20an%20Array/README.md#2053-kth-distinct-string-in-an-array
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README.md#2057-smallest-index-with-equal-value
 [2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README.md#2068-check-whether-two-strings-are-almost-equivalent
@@ -2592,6 +2594,7 @@
 [2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
 [2027l]:https://leetcode.com/problems/minimum-moves-to-convert-string/
 [2037l]:https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
+[2047l]:https://leetcode.com/problems/number-of-valid-words-in-a-sentence/
 [2053l]:https://leetcode.com/problems/kth-distinct-string-in-an-array/
 [2057l]:https://leetcode.com/problems/smallest-index-with-equal-value/
 [2068l]:https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
