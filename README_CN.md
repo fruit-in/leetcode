@@ -810,6 +810,7 @@
 [1876][1876l]|[长度为三且各字符不同的子字符串][1876]                    |![rs]
 [1880][1880l]|[检查某单词是否等于两单词之和][1880]                      |![rs]
 [1886][1886l]|[判断矩阵经轮转后是否一致][1886]                          |![rs]
+[1893][1893l]|[检查是否区域内所有整数都被覆盖][1893]                    |![py]
 [1897][1897l]|[重新分配字符使所有字符串都相等][1897]                    |![rs]
 [1903][1903l]|[字符串中的最大奇数][1903]                                |![rs]
 [1909][1909l]|[删除一个元素使数组严格递增][1909]                        |![rs]
@@ -1694,6 +1695,7 @@
 [1876]:./Easy/1876-Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/README_CN.md#1876-长度为三且各字符不同的子字符串
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README_CN.md#1880-检查某单词是否等于两单词之和
 [1886]:./Easy/1886-Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/README_CN.md#1886-判断矩阵经轮转后是否一致
+[1893]:./Easy/1893-Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered/README_CN.md#1893-检查是否区域内所有整数都被覆盖
 [1897]:./Easy/1897-Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/README_CN.md#1897-重新分配字符使所有字符串都相等
 [1903]:./Easy/1903-Largest%20Odd%20Number%20in%20String/README_CN.md#1903-字符串中的最大奇数
 [1909]:./Easy/1909-Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing/README_CN.md#1909-删除一个元素使数组严格递增
@@ -2584,6 +2586,7 @@
 [1876l]:https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/
 [1880l]:https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/
 [1886l]:https://leetcode.cn/problems/determine-whether-matrix-can-be-obtained-by-rotation/
+[1893l]:https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/
 [1897l]:https://leetcode.cn/problems/redistribute-characters-to-make-all-strings-equal/
 [1903l]:https://leetcode.cn/problems/largest-odd-number-in-string/
 [1909l]:https://leetcode.cn/problems/remove-one-element-to-make-the-array-strictly-increasing/
