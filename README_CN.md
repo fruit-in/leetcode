@@ -437,6 +437,7 @@
 [885][885l]  |[螺旋矩阵 III][885]                                       |![rs]
 [888][888l]  |[公平的糖果交换][888]                                     |![rs]
 [889][889l]  |[根据前序和后序遍历构造二叉树][889]                       |![py]
+[890][890l]  |[查找和替换模式][890]                                     |![py]
 [892][892l]  |[三维形体的表面积][892]                                   |![rb]&nbsp;&nbsp;![rs]
 [893][893l]  |[特殊等价字符串组][893]                                   |![rs]
 [894][894l]  |[所有可能的满二叉树][894]                                 |![rb]
@@ -1326,6 +1327,7 @@
 [885]:./Medium/0885-Spiral%20Matrix%20III/README_CN.md#885-螺旋矩阵-iii
 [888]:./Easy/0888-Fair%20Candy%20Swap/README_CN.md#888-公平的糖果交换
 [889]:./Medium/0889-Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal/README_CN.md#889-根据前序和后序遍历构造二叉树
+[890]:./Medium/0890-Find%20and%20Replace%20Pattern/README_CN.md#890-查找和替换模式
 [892]:./Easy/0892-Surface%20Area%20of%203D%20Shapes/README_CN.md#892-三维形体的表面积
 [893]:./Easy/0893-Groups%20of%20Special-Equivalent%20Strings/README_CN.md#893-特殊等价字符串组
 [894]:./Medium/0894-All%20Possible%20Full%20Binary%20Trees/README_CN.md#894-所有可能的满二叉树
@@ -2220,6 +2222,7 @@
 [885l]:https://leetcode.cn/problems/spiral-matrix-iii/
 [888l]:https://leetcode.cn/problems/fair-candy-swap/
 [889l]:https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
+[890l]:https://leetcode.cn/problems/find-and-replace-pattern/
 [892l]:https://leetcode.cn/problems/surface-area-of-3d-shapes/
 [893l]:https://leetcode.cn/problems/groups-of-special-equivalent-strings/
 [894l]:https://leetcode.cn/problems/all-possible-full-binary-trees/
