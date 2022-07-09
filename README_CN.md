@@ -805,6 +805,7 @@
 [1848][1848l]|[到目标元素的最小距离][1848]                              |![rs]
 [1854][1854l]|[人口最多的年份][1854]                                    |![rs]
 [1859][1859l]|[将句子排序][1859]                                        |![py]
+[1863][1863l]|[找出所有子集的异或总和再求和][1863]                      |![py]
 [1869][1869l]|[哪种连续子字符串更长][1869]                              |![rs]
 [1876][1876l]|[长度为三且各字符不同的子字符串][1876]                    |![rs]
 [1880][1880l]|[检查某单词是否等于两单词之和][1880]                      |![rs]
@@ -1686,6 +1687,7 @@
 [1848]:./Easy/1848-Minimum%20Distance%20to%20the%20Target%20Element/README_CN.md#1848-到目标元素的最小距离
 [1854]:./Easy/1854-Maximum%20Population%20Year/README_CN.md#1854-人口最多的年份
 [1859]:./Easy/1859-Sorting%20the%20Sentence/README_CN.md#1859-将句子排序
+[1863]:./Easy/1863-Sum%20of%20All%20Subset%20XOR%20Totals/README_CN.md#1863-找出所有子集的异或总和再求和
 [1869]:./Easy/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README_CN.md#1869-哪种连续子字符串更长
 [1876]:./Easy/1876-Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/README_CN.md#1876-长度为三且各字符不同的子字符串
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README_CN.md#1880-检查某单词是否等于两单词之和
@@ -2573,6 +2575,7 @@
 [1848l]:https://leetcode.cn/problems/minimum-distance-to-the-target-element/
 [1854l]:https://leetcode.cn/problems/maximum-population-year/
 [1859l]:https://leetcode.cn/problems/sorting-the-sentence/
+[1863l]:https://leetcode.cn/problems/sum-of-all-subset-xor-totals/
 [1869l]:https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1876l]:https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/
 [1880l]:https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/

@@ -805,6 +805,7 @@
 [1848][1848l]|[Minimum Distance to the Target Element][1848]                                        |![rs]
 [1854][1854l]|[Maximum Population Year][1854]                                                       |![rs]
 [1859][1859l]|[Sorting the Sentence][1859]                                                          |![py]
+[1863][1863l]|[Sum of All Subset XOR Totals][1863]                                                  |![py]
 [1869][1869l]|[Longer Contiguous Segments of Ones than Zeros][1869]                                 |![rs]
 [1876][1876l]|[Substrings of Size Three with Distinct Characters][1876]                             |![rs]
 [1880][1880l]|[Check if Word Equals Summation of Two Words][1880]                                   |![rs]
@@ -1686,6 +1687,7 @@
 [1848]:./Easy/1848-Minimum%20Distance%20to%20the%20Target%20Element/README.md#1848-minimum-distance-to-the-target-element
 [1854]:./Easy/1854-Maximum%20Population%20Year/README.md#1854-maximum-population-year
 [1859]:./Easy/1859-Sorting%20the%20Sentence/README.md#1859-sorting-the-sentence
+[1863]:./Easy/1863-Sum%20of%20All%20Subset%20XOR%20Totals/README.md#1863-sum-of-all-subset-xor-totals
 [1869]:./Easy/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README.md#1869-longer-contiguous-segments-of-ones-than-zeros
 [1876]:./Easy/1876-Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/README.md#1876-substrings-of-size-three-with-distinct-characters
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README.md#1880-check-if-word-equals-summation-of-two-words
@@ -2573,6 +2575,7 @@
 [1848l]:https://leetcode.com/problems/minimum-distance-to-the-target-element/
 [1854l]:https://leetcode.com/problems/maximum-population-year/
 [1859l]:https://leetcode.com/problems/sorting-the-sentence/
+[1863l]:https://leetcode.com/problems/sum-of-all-subset-xor-totals/
 [1869l]:https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1876l]:https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
 [1880l]:https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
