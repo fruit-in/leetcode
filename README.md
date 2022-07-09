@@ -37,6 +37,7 @@
 [48][48l]    |[Rotate Image][48]                                                                    |![rs]
 [49][49l]    |[Group Anagrams][49]                                                                  |![rs]
 [50][50l]    |[Pow(x, n)][50]                                                                       |![rs]
+[52][52l]    |[N-Queens II][52]                                                                     |![py]
 [53][53l]    |[Maximum Subarray][53]                                                                |![rs]
 [54][54l]    |[Spiral Matrix][54]                                                                   |![rs]
 [55][55l]    |[Jump Game][55]                                                                       |![rb]&nbsp;&nbsp;![rs]
@@ -922,6 +923,7 @@
 [48]:./Medium/0048-Rotate%20Image/README.md#48-rotate-image
 [49]:./Medium/0049-Group%20Anagrams/README.md#49-group-anagrams
 [50]:./Medium/0050-Pow\(x,%20n\)/README.md#50-powx-n
+[52]:./Hard/0052-N-Queens%20II/README.md#52-n-queens-ii
 [53]:./Easy/0053-Maximum%20Subarray/README.md#53-maximum-subarray
 [54]:./Medium/0054-Spiral%20Matrix/README.md#54-spiral-matrix
 [55]:./Medium/0055-Jump%20Game/README.md#55-jump-game

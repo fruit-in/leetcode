@@ -37,6 +37,7 @@
 [48][48l]    |[旋转图像][48]                                            |![rs]
 [49][49l]    |[字母异位词分组][49]                                      |![rs]
 [50][50l]    |[Pow(x, n)][50]                                           |![rs]
+[52][52l]    |[N皇后 II][52]                                            |![py]
 [53][53l]    |[最大子序和][53]                                          |![rs]
 [54][54l]    |[螺旋矩阵][54]                                            |![rs]
 [55][55l]    |[跳跃游戏][55]                                            |![rb]&nbsp;&nbsp;![rs]
@@ -922,6 +923,7 @@
 [48]:./Medium/0048-Rotate%20Image/README_CN.md#48-旋转图像
 [49]:./Medium/0049-Group%20Anagrams/README_CN.md#49-字母异位词分组
 [50]:./Medium/0050-Pow\(x,%20n\)/README_CN.md#50-powx-n
+[52]:./Hard/0052-N皇后%20II/README_CN.md#52-n-queens-ii
 [53]:./Easy/0053-Maximum%20Subarray/README_CN.md#53-最大子序和
 [54]:./Medium/0054-Spiral%20Matrix/README_CN.md#54-螺旋矩阵
 [55]:./Medium/0055-Jump%20Game/README_CN.md#55-跳跃游戏
