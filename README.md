@@ -824,6 +824,7 @@
 [1957][1957l]|[Delete Characters to Make Fancy String][1957]                                        |![py]
 [1961][1961l]|[Check If String Is a Prefix of Array][1961]                                          |![py]
 [1967][1967l]|[Number of Strings That Appear as Substrings in Word][1967]                           |![py]
+[1971][1971l]|[Find if Path Exists in Graph][1971]                                                  |![py]
 [1974][1974l]|[Minimum Time to Type Word Using Special Typewriter][1974]                            |![rs]
 [1979][1979l]|[Find Greatest Common Divisor of Array][1979]                                         |![py]&nbsp;&nbsp;![rb]
 [1984][1984l]|[Minimum Difference Between Highest and Lowest of K Scores][1984]                     |![rs]
@@ -1707,6 +1708,7 @@
 [1957]:./Easy/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README.md#1957-delete-characters-to-make-fancy-string
 [1961]:./Easy/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README.md#1961-check-if-string-is-a-prefix-of-array
 [1967]:./Easy/1967-Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/README.md#1967-number-of-strings-that-appear-as-substrings-in-word
+[1971]:./Easy/1971-Find%20if%20Path%20Exists%20in%20Graph/README.md#1971-find-if-path-exists-in-graph
 [1974]:./Easy/1974-Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/README.md#1974-minimum-time-to-type-word-using-special-typewriter
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README.md#1979-find-greatest-common-divisor-of-array
 [1984]:./Easy/1984-Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/README.md#1984-minimum-difference-between-highest-and-lowest-of-k-scores
@@ -2596,6 +2598,7 @@
 [1957l]:https://leetcode.com/problems/delete-characters-to-make-fancy-string/
 [1961l]:https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 [1967l]:https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+[1971l]:https://leetcode.com/problems/find-if-path-exists-in-graph/
 [1974l]:https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
 [1979l]:https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 [1984l]:https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/

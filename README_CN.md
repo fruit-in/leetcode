@@ -824,6 +824,7 @@
 [1957][1957l]|[删除字符使字符串变好][1957]                              |![py]
 [1961][1961l]|[检查字符串是否为数组前缀][1961]                          |![py]
 [1967][1967l]|[作为子字符串出现在单词中的字符串数目][1967]              |![py]
+[1971][1971l]|[寻找图中是否存在路径][1971]                              |![py]
 [1974][1974l]|[使用特殊打字机键入单词的最少时间][1974]                  |![rs]
 [1979][1979l]|[找出数组的最大公约数][1979]                              |![py]&nbsp;&nbsp;![rb]
 [1984][1984l]|[学生分数的最小差值][1984]                                |![rs]
@@ -1707,6 +1708,7 @@
 [1957]:./Easy/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README_CN.md#1957-删除字符使字符串变好
 [1961]:./Easy/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README_CN.md#1961-检查字符串是否为数组前缀
 [1967]:./Easy/1967-Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/README_CN.md#1967-作为子字符串出现在单词中的字符串数目
+[1971]:./Easy/1971-Find%20if%20Path%20Exists%20in%20Graph/README_CN.md#1971-寻找图中是否存在路径
 [1974]:./Easy/1974-Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/README_CN.md#1974-使用特殊打字机键入单词的最少时间
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README_CN.md#1979-找出数组的最大公约数
 [1984]:./Easy/1984-Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/README_CN.md#1984-学生分数的最小差值
@@ -2596,6 +2598,7 @@
 [1957l]:https://leetcode.cn/problems/delete-characters-to-make-fancy-string/
 [1961l]:https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array/
 [1967l]:https://leetcode.cn/problems/number-of-strings-that-appear-as-substrings-in-word/
+[1971l]:https://leetcode.cn/problems/find-if-path-exists-in-graph/
 [1974l]:https://leetcode.cn/problems/minimum-time-to-type-word-using-special-typewriter/
 [1979l]:https://leetcode.cn/problems/find-greatest-common-divisor-of-array/
 [1984l]:https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
