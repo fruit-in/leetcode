@@ -875,6 +875,7 @@
 [2206][2206l]|[将数组划分成相等数对][2206]                              |![rs]
 [2215][2215l]|[找出两数组的不同][2215]                                  |![rs]
 [2220][2220l]|[转换数字的最少位翻转次数][2220]                          |![rs]
+[2221][2221l]|[数组的三角和][2221]                                      |![rs]
 [2224][2224l]|[转化时间需要的最少操作数][2224]                          |![py]
 [2235][2235l]|[两整数相加][2235]                                        |![py]&nbsp;&nbsp;![rs]
 [2236][2236l]|[判断根结点是否等于子结点之和][2236]                      |![py]
@@ -1768,6 +1769,7 @@
 [2206]:./Easy/2206-Divide%20Array%20Into%20Equal%20Pairs/README_CN.md#2206-将数组划分成相等数对
 [2215]:./Easy/2215-Find%20the%20Difference%20of%20Two%20Arrays/README_CN.md#2215-找出两数组的不同
 [2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README_CN.md#2220-转换数字的最少位翻转次数
+[2221]:./Medium/2221-Find%20Triangular%20Sum%20of%20an%20Array/README_CN.md#2221-数组的三角和
 [2224]:./Easy/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README_CN.md#2224-转化时间需要的最少操作数
 [2235]:./Easy/2235-Add%20Two%20Integers/README_CN.md#2235-两整数相加
 [2236]:./Easy/2236-Root%20Equals%20Sum%20of%20Children/README_CN.md#2236-判断根结点是否等于子结点之和
@@ -2666,6 +2668,7 @@
 [2206l]:https://leetcode.cn/problems/divide-array-into-equal-pairs/
 [2215l]:https://leetcode.cn/problems/find-the-difference-of-two-arrays/
 [2220l]:https://leetcode.cn/problems/minimum-bit-flips-to-convert-number/
+[2221l]:https://leetcode.cn/problems/find-triangular-sum-of-an-array/
 [2224l]:https://leetcode.cn/problems/minimum-number-of-operations-to-convert-time/
 [2235l]:https://leetcode.cn/problems/add-two-integers/
 [2236l]:https://leetcode.cn/problems/root-equals-sum-of-children/

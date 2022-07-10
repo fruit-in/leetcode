@@ -875,6 +875,7 @@
 [2206][2206l]|[Divide Array Into Equal Pairs][2206]                                                 |![rs]
 [2215][2215l]|[Find the Difference of Two Arrays][2215]                                             |![rs]
 [2220][2220l]|[Minimum Bit Flips to Convert Number][2220]                                           |![rs]
+[2221][2221l]|[Find Triangular Sum of an Array][2221]                                               |![rs]
 [2224][2224l]|[Minimum Number of Operations to Convert Time][2224]                                  |![py]
 [2235][2235l]|[Add Two Integers][2235]                                                              |![py]&nbsp;&nbsp;![rs]
 [2236][2236l]|[Root Equals Sum of Children][2236]                                                   |![py]
@@ -1768,6 +1769,7 @@
 [2206]:./Easy/2206-Divide%20Array%20Into%20Equal%20Pairs/README.md#2206-divide-array-into-equal-pairs
 [2215]:./Easy/2215-Find%20the%20Difference%20of%20Two%20Arrays/README.md#2215-find-the-difference-of-two-arrays
 [2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README.md#2220-minimum-bit-flips-to-convert-number
+[2221]:./Medium/2221-Find%20Triangular%20Sum%20of%20an%20Array/README.md#2221-find-triangular-sum-of-an-array
 [2224]:./Easy/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README.md#2224-minimum-number-of-operations-to-convert-time
 [2235]:./Easy/2235-Add%20Two%20Integers/README.md#2235-add-two-integers
 [2236]:./Easy/2236-Root%20Equals%20Sum%20of%20Children/README.md#2236-root-equals-sum-of-children
@@ -2666,6 +2668,7 @@
 [2206l]:https://leetcode.com/problems/divide-array-into-equal-pairs/
 [2215l]:https://leetcode.com/problems/find-the-difference-of-two-arrays/
 [2220l]:https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
+[2221l]:https://leetcode.com/problems/find-triangular-sum-of-an-array/
 [2224l]:https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 [2235l]:https://leetcode.com/problems/add-two-integers/
 [2236l]:https://leetcode.com/problems/root-equals-sum-of-children/
