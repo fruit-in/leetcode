@@ -812,6 +812,7 @@
 [1863][1863l]|[找出所有子集的异或总和再求和][1863]                      |![py]
 [1869][1869l]|[哪种连续子字符串更长][1869]                              |![rs]
 [1876][1876l]|[长度为三且各字符不同的子字符串][1876]                    |![rs]
+[1877][1877l]|[数组中最大数对和的最小值][1877]                          |![rs]
 [1880][1880l]|[检查某单词是否等于两单词之和][1880]                      |![rs]
 [1886][1886l]|[判断矩阵经轮转后是否一致][1886]                          |![rs]
 [1893][1893l]|[检查是否区域内所有整数都被覆盖][1893]                    |![py]
@@ -1703,6 +1704,7 @@
 [1863]:./Easy/1863-Sum%20of%20All%20Subset%20XOR%20Totals/README_CN.md#1863-找出所有子集的异或总和再求和
 [1869]:./Easy/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README_CN.md#1869-哪种连续子字符串更长
 [1876]:./Easy/1876-Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/README_CN.md#1876-长度为三且各字符不同的子字符串
+[1877]:./Medium/1877-Minimize%20Maximum%20Pair%20Sum%20in%20Array/README_CN.md#1877-数组中最大数对和的最小值
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README_CN.md#1880-检查某单词是否等于两单词之和
 [1886]:./Easy/1886-Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/README_CN.md#1886-判断矩阵经轮转后是否一致
 [1893]:./Easy/1893-Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered/README_CN.md#1893-检查是否区域内所有整数都被覆盖
@@ -2599,6 +2601,7 @@
 [1863l]:https://leetcode.cn/problems/sum-of-all-subset-xor-totals/
 [1869l]:https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1876l]:https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/
+[1877l]:https://leetcode.cn/problems/minimize-maximum-pair-sum-in-array/
 [1880l]:https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/
 [1886l]:https://leetcode.cn/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 [1893l]:https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/

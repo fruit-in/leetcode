@@ -812,6 +812,7 @@
 [1863][1863l]|[Sum of All Subset XOR Totals][1863]                                                  |![py]
 [1869][1869l]|[Longer Contiguous Segments of Ones than Zeros][1869]                                 |![rs]
 [1876][1876l]|[Substrings of Size Three with Distinct Characters][1876]                             |![rs]
+[1877][1877l]|[Minimize Maximum Pair Sum in Array][1877]                                            |![rs]
 [1880][1880l]|[Check if Word Equals Summation of Two Words][1880]                                   |![rs]
 [1886][1886l]|[Determine Whether Matrix Can Be Obtained By Rotation][1886]                          |![rs]
 [1893][1893l]|[Check if All the Integers in a Range Are Covered][1893]                              |![py]
@@ -1703,6 +1704,7 @@
 [1863]:./Easy/1863-Sum%20of%20All%20Subset%20XOR%20Totals/README.md#1863-sum-of-all-subset-xor-totals
 [1869]:./Easy/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README.md#1869-longer-contiguous-segments-of-ones-than-zeros
 [1876]:./Easy/1876-Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/README.md#1876-substrings-of-size-three-with-distinct-characters
+[1877]:./Medium/1877-Minimize%20Maximum%20Pair%20Sum%20in%20Array/README.md#1877-minimize-maximum-pair-sum-in-array
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README.md#1880-check-if-word-equals-summation-of-two-words
 [1886]:./Easy/1886-Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/README.md#1886-determine-whether-matrix-can-be-obtained-by-rotation
 [1893]:./Easy/1893-Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered/README.md#1893-check-if-all-the-integers-in-a-range-are-covered
@@ -2599,6 +2601,7 @@
 [1863l]:https://leetcode.com/problems/sum-of-all-subset-xor-totals/
 [1869l]:https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1876l]:https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
+[1877l]:https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 [1880l]:https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 [1886l]:https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 [1893l]:https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
