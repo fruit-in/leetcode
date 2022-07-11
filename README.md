@@ -889,6 +889,7 @@
 [2287][2287l]|[Rearrange Characters to Make Target String][2287]                                    |![rs]
 [2293][2293l]|[Min Max Game][2293]                                                                  |![rs]
 [2299][2299l]|[Strong Password Checker II][2299]                                                    |![rs]
+[2303][2303l]|[Calculate Amount Paid in Taxes][2303]                                                |![rs]
 [2309][2309l]|[Greatest English Letter in Upper and Lower Case][2309]                               |![rs]
 [2315][2315l]|[Count Asterisks][2315]                                                               |![rs]
 
@@ -1786,6 +1787,7 @@
 [2287]:./Easy/2287-Rearrange%20Characters%20to%20Make%20Target%20String/README.md#2287-rearrange-characters-to-make-target-string
 [2293]:./Easy/2293-Min%20Max%20Game/README.md#2293-min-max-game
 [2299]:./Easy/2299-Strong%20Password%20Checker%20II/README.md#2299-strong-password-checker-ii
+[2303]:./Easy/2303-Calculate%20Amount%20Paid%20in%20Taxes/README.md#2303-calculate-amount-paid-in-taxes
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README.md#2309-greatest-english-letter-in-upper-and-lower-case
 [2315]:./Easy/2315-Count%20Asterisks/README.md#2315-count-asterisks
 
@@ -2688,5 +2690,6 @@
 [2287l]:https://leetcode.com/problems/rearrange-characters-to-make-target-string/
 [2293l]:https://leetcode.com/problems/min-max-game/
 [2299l]:https://leetcode.com/problems/strong-password-checker-ii/
+[2303l]:https://leetcode.com/problems/calculate-amount-paid-in-taxes/
 [2309l]:https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
 [2315l]:https://leetcode.com/problems/count-asterisks/

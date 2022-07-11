@@ -889,6 +889,7 @@
 [2287][2287l]|[重排字符形成目标字符串][2287]                            |![rs]
 [2293][2293l]|[极大极小游戏][2293]                                      |![rs]
 [2299][2299l]|[强密码检验器 II][2299]                                   |![rs]
+[2303][2303l]|[计算应缴税款总额][2303]                                  |![rs]
 [2309][2309l]|[兼具大小写的最好英文字母][2309]                          |![rs]
 [2315][2315l]|[统计星号][2315]                                          |![rs]
 
@@ -1786,6 +1787,7 @@
 [2287]:./Easy/2287-Rearrange%20Characters%20to%20Make%20Target%20String/README_CN.md#2287-重排字符形成目标字符串
 [2293]:./Easy/2293-Min%20Max%20Game/README_CN.md#2293-极大极小游戏
 [2299]:./Easy/2299-Strong%20Password%20Checker%20II/README_CN.md#2299-强密码检验器-ii
+[2303]:./Easy/2303-Calculate%20Amount%20Paid%20in%20Taxes/README_CN.md#2303-计算应缴税款总额
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README_CN.md#2309-兼具大小写的最好英文字母
 [2315]:./Easy/2315-Count%20Asterisks/README_CN.md#2315-统计星号
 
@@ -2688,5 +2690,6 @@
 [2287l]:https://leetcode.cn/problems/rearrange-characters-to-make-target-string/
 [2293l]:https://leetcode.cn/problems/min-max-game/
 [2299l]:https://leetcode.cn/problems/strong-password-checker-ii/
+[2303l]:https://leetcode.cn/problems/calculate-amount-paid-in-taxes/
 [2309l]:https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/
 [2315l]:https://leetcode.cn/problems/count-asterisks/
