@@ -867,6 +867,7 @@
 [2148][2148l]|[元素计数][2148]                                          |![rs]
 [2149][2149l]|[按符号重排数组][2149]                                    |![rs]
 [2154][2154l]|[将找到的值乘以 2][2154]                                  |![rs]
+[2160][2160l]|[拆分数位后四位数字的最小和][2160]                        |![rs]
 [2161][2161l]|[根据给定数字划分数组][2161]                              |![py]
 [2169][2169l]|[得到 0 的操作数][2169]                                   |![py]
 [2176][2176l]|[统计数组中相等且可以被整除的数对][2176]                  |![rs]
@@ -1768,6 +1769,7 @@
 [2148]:./Easy/2148-Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements/README_CN.md#2148-元素计数
 [2149]:./Medium/2149-Rearrange%20Array%20Elements%20by%20Sign/README_CN.md#2149-按符号重排数组
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README_CN.md#2154-将找到的值乘以-2
+[2160]:./Easy/2160-Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/README_CN.md#2160-拆分数位后四位数字的最小和
 [2161]:./Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot/README_CN.md#2161-根据给定数字划分数组
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README_CN.md#2169-得到-0-的操作数
 [2176]:./Easy/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README_CN.md#2176-统计数组中相等且可以被整除的数对
@@ -2674,6 +2676,7 @@
 [2148l]:https://leetcode.cn/problems/count-elements-with-strictly-smaller-and-greater-elements/
 [2149l]:https://leetcode.cn/problems/rearrange-array-elements-by-sign/
 [2154l]:https://leetcode.cn/problems/keep-multiplying-found-values-by-two/
+[2160l]:https://leetcode.cn/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2161l]:https://leetcode.cn/problems/partition-array-according-to-given-pivot/
 [2169l]:https://leetcode.cn/problems/count-operations-to-obtain-zero/
 [2176l]:https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/

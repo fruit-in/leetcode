@@ -867,6 +867,7 @@
 [2148][2148l]|[Count Elements With Strictly Smaller and Greater Elements][2148]                     |![rs]
 [2149][2149l]|[Rearrange Array Elements by Sign][2149]                                              |![rs]
 [2154][2154l]|[Keep Multiplying Found Values by Two][2154]                                          |![rs]
+[2160][2160l]|[Minimum Sum of Four Digit Number After Splitting Digits][2160]                       |![rs]
 [2161][2161l]|[Partition Array According to Given Pivot][2161]                                      |![py]
 [2169][2169l]|[Count Operations to Obtain Zero][2169]                                               |![py]
 [2176][2176l]|[Count Equal and Divisible Pairs in an Array][2176]                                   |![rs]
@@ -1768,6 +1769,7 @@
 [2148]:./Easy/2148-Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements/README.md#2148-count-elements-with-strictly-smaller-and-greater-elements
 [2149]:./Medium/2149-Rearrange%20Array%20Elements%20by%20Sign/README.md#2149-rearrange-array-elements-by-sign
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README.md#2154-keep-multiplying-found-values-by-two
+[2160]:./Easy/2160-Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/README.md#2160-minimum-sum-of-four-digit-number-after-splitting-digits
 [2161]:./Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot/README.md#2161-partition-array-according-to-given-pivot
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README.md#2169-count-operations-to-obtain-zero
 [2176]:./Easy/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README.md#2176-count-equal-and-divisible-pairs-in-an-array
@@ -2674,6 +2676,7 @@
 [2148l]:https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/
 [2149l]:https://leetcode.com/problems/rearrange-array-elements-by-sign/
 [2154l]:https://leetcode.com/problems/keep-multiplying-found-values-by-two/
+[2160l]:https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2161l]:https://leetcode.com/problems/partition-array-according-to-given-pivot/
 [2169l]:https://leetcode.com/problems/count-operations-to-obtain-zero/
 [2176l]:https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
