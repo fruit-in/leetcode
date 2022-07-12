@@ -862,6 +862,7 @@
 [2129][2129l]|[将标题首字母大写][2129]                                  |![py]
 [2130][2130l]|[链表最大孪生和][2130]                                    |![py]
 [2133][2133l]|[检查是否每一行每一列都包含全部整数][2133]                |![rs]
+[2138][2138l]|[将字符串拆分为若干长度为 k 的组][2138]                   |![py]
 [2149][2149l]|[按符号重排数组][2149]                                    |![rs]
 [2154][2154l]|[将找到的值乘以 2][2154]                                  |![rs]
 [2161][2161l]|[根据给定数字划分数组][2161]                              |![py]
@@ -1760,6 +1761,7 @@
 [2129]:./Easy/2129-Capitalize%20the%20Title/README_CN.md#2129-将标题首字母大写
 [2130]:./Medium/2130-Maximum%20Twin%20Sum%20of%20a%20Linked%20List/README_CN.md#2130-链表最大孪生和
 [2133]:./Easy/2133-Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers/README_CN.md#2133-检查是否每一行每一列都包含全部整数
+[2138]:./Easy/2138-Divide%20a%20String%20Into%20Groups%20of%20Size%20k/README_CN.md#2138-将字符串拆分为若干长度为-k-的组
 [2149]:./Medium/2149-Rearrange%20Array%20Elements%20by%20Sign/README_CN.md#2149-按符号重排数组
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README_CN.md#2154-将找到的值乘以-2
 [2161]:./Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot/README_CN.md#2161-根据给定数字划分数组
@@ -2663,6 +2665,7 @@
 [2129l]:https://leetcode.cn/problems/capitalize-the-title/
 [2130l]:https://leetcode.cn/problems/maximum-twin-sum-of-a-linked-list/
 [2133l]:https://leetcode.cn/problems/check-if-every-row-and-column-contains-all-numbers/
+[2138l]:https://leetcode.cn/problems/divide-a-string-into-groups-of-size-k/
 [2149l]:https://leetcode.cn/problems/rearrange-array-elements-by-sign/
 [2154l]:https://leetcode.cn/problems/keep-multiplying-found-values-by-two/
 [2161l]:https://leetcode.cn/problems/partition-array-according-to-given-pivot/
