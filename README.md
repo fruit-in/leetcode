@@ -863,6 +863,7 @@
 [2130][2130l]|[Maximum Twin Sum of a Linked List][2130]                                             |![py]
 [2133][2133l]|[Check if Every Row and Column Contains All Numbers][2133]                            |![rs]
 [2138][2138l]|[Divide a String Into Groups of Size k][2138]                                         |![py]
+[2144][2144l]|[Minimum Cost of Buying Candies With Discount][2144]                                  |![rs]
 [2149][2149l]|[Rearrange Array Elements by Sign][2149]                                              |![rs]
 [2154][2154l]|[Keep Multiplying Found Values by Two][2154]                                          |![rs]
 [2161][2161l]|[Partition Array According to Given Pivot][2161]                                      |![py]
@@ -1762,6 +1763,7 @@
 [2130]:./Medium/2130-Maximum%20Twin%20Sum%20of%20a%20Linked%20List/README.md#2130-maximum-twin-sum-of-a-linked-list
 [2133]:./Easy/2133-Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers/README.md#2133-check-if-every-row-and-column-contains-all-numbers
 [2138]:./Easy/2138-Divide%20a%20String%20Into%20Groups%20of%20Size%20k/README.md#2138-divide-a-string-into-groups-of-size-k
+[2144]:./Easy/2144-Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/README.md#2144-minimum-cost-of-buying-candies-with-discount
 [2149]:./Medium/2149-Rearrange%20Array%20Elements%20by%20Sign/README.md#2149-rearrange-array-elements-by-sign
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README.md#2154-keep-multiplying-found-values-by-two
 [2161]:./Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot/README.md#2161-partition-array-according-to-given-pivot
@@ -2666,6 +2668,7 @@
 [2130l]:https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
 [2133l]:https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/
 [2138l]:https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
+[2144l]:https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 [2149l]:https://leetcode.com/problems/rearrange-array-elements-by-sign/
 [2154l]:https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 [2161l]:https://leetcode.com/problems/partition-array-according-to-given-pivot/
