@@ -887,6 +887,7 @@
 [2235][2235l]|[Add Two Integers][2235]                                                              |![py]&nbsp;&nbsp;![rs]
 [2236][2236l]|[Root Equals Sum of Children][2236]                                                   |![py]
 [2239][2239l]|[Find Closest Number to Zero][2239]                                                   |![rs]
+[2243][2243l]|[Calculate Digit Sum of a String][2243]                                               |![py]
 [2255][2255l]|[Count Prefixes of a Given String][2255]                                              |![rs]
 [2264][2264l]|[Largest 3-Same-Digit Number in String][2264]                                         |![rs]
 [2265][2265l]|[Count Nodes Equal to Average of Subtree][2265]                                       |![py]
@@ -1791,6 +1792,7 @@
 [2235]:./Easy/2235-Add%20Two%20Integers/README.md#2235-add-two-integers
 [2236]:./Easy/2236-Root%20Equals%20Sum%20of%20Children/README.md#2236-root-equals-sum-of-children
 [2239]:./Easy/2239-Find%20Closest%20Number%20to%20Zero/README.md#2239-find-closest-number-to-zero
+[2243]:./Easy/2243-Calculate%20Digit%20Sum%20of%20a%20String/README.md#2243-calculate-digit-sum-of-a-string
 [2255]:./Easy/2255-Count%20Prefixes%20of%20a%20Given%20String/README.md#2255-count-prefixes-of-a-given-string
 [2264]:./Easy/2264-Largest%203-Same-Digit%20Number%20in%20String/README.md#2264-largest-3-same-digit-number-in-string
 [2265]:./Medium/2265-Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/README.md#2265-count-nodes-equal-to-average-of-subtree
@@ -2700,6 +2702,7 @@
 [2235l]:https://leetcode.com/problems/add-two-integers/
 [2236l]:https://leetcode.com/problems/root-equals-sum-of-children/
 [2239l]:https://leetcode.com/problems/find-closest-number-to-zero/
+[2243l]:https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 [2255l]:https://leetcode.com/problems/count-prefixes-of-a-given-string/
 [2264l]:https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 [2265l]:https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
