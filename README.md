@@ -843,6 +843,7 @@
 [2016][2016l]|[Maximum Difference Between Increasing Elements][2016]                                |![rs]
 [2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
 [2027][2027l]|[Minimum Moves to Convert String][2027]                                               |![rs]
+[2032][2032l]|[Two Out of Three][2032]                                                              |![py]
 [2037][2037l]|[Minimum Number of Moves to Seat Everyone][2037]                                      |![rs]
 [2047][2047l]|[Number of Valid Words in a Sentence][2047]                                           |![py]
 [2053][2053l]|[Kth Distinct String in an Array][2053]                                               |![py]
@@ -1746,6 +1747,7 @@
 [2016]:./Easy/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README.md#2016-maximum-difference-between-increasing-elements
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
 [2027]:./Easy/2027-Minimum%20Moves%20to%20Convert%20String/README.md#2027-minimum-moves-to-convert-string
+[2032]:./Easy/2032-Two%20Out%20of%20Three/README.md#2032-two-out-of-three
 [2037]:./Easy/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README.md#2037-minimum-number-of-moves-to-seat-everyone
 [2047]:./Easy/2047-Number%20of%20Valid%20Words%20in%20a%20Sentence/README.md#2047-number-of-valid-words-in-a-sentence
 [2053]:./Easy/2053-Kth%20Distinct%20String%20in%20an%20Array/README.md#2053-kth-distinct-string-in-an-array
@@ -2654,6 +2656,7 @@
 [2016l]:https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 [2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
 [2027l]:https://leetcode.com/problems/minimum-moves-to-convert-string/
+[2032l]:https://leetcode.com/problems/two-out-of-three/
 [2037l]:https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
 [2047l]:https://leetcode.com/problems/number-of-valid-words-in-a-sentence/
 [2053l]:https://leetcode.com/problems/kth-distinct-string-in-an-array/
