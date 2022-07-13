@@ -888,6 +888,7 @@
 [2236][2236l]|[判断根结点是否等于子结点之和][2236]                      |![py]
 [2239][2239l]|[找到最接近 0 的数字][2239]                               |![rs]
 [2243][2243l]|[计算字符串的数字和][2243]                                |![py]
+[2248][2248l]|[多个数组求交集][2248]                                    |![py]
 [2255][2255l]|[统计是给定字符串前缀的字符串数目][2255]                  |![rs]
 [2264][2264l]|[字符串中最大的 3 位相同数字][2264]                       |![rs]
 [2265][2265l]|[统计值等于子树平均值的节点数][2265]                      |![py]
@@ -1793,6 +1794,7 @@
 [2236]:./Easy/2236-Root%20Equals%20Sum%20of%20Children/README_CN.md#2236-判断根结点是否等于子结点之和
 [2239]:./Easy/2239-Find%20Closest%20Number%20to%20Zero/README_CN.md#2239-找到最接近-0-的数字
 [2243]:./Easy/2243-Calculate%20Digit%20Sum%20of%20a%20String/README_CN.md#2243-计算字符串的数字和
+[2248]:./Easy/2248-Intersection%20of%20Multiple%20Arrays/README_CN.md#2248-多个数组求交集
 [2255]:./Easy/2255-Count%20Prefixes%20of%20a%20Given%20String/README_CN.md#2255-统计是给定字符串前缀的字符串数目
 [2264]:./Easy/2264-Largest%203-Same-Digit%20Number%20in%20String/README_CN.md#2264-字符串中最大的-3-位相同数字
 [2265]:./Medium/2265-Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/README_CN.md#2265-统计值等于子树平均值的节点数
@@ -2703,6 +2705,7 @@
 [2236l]:https://leetcode.cn/problems/root-equals-sum-of-children/
 [2239l]:https://leetcode.cn/problems/find-closest-number-to-zero/
 [2243l]:https://leetcode.cn/problems/calculate-digit-sum-of-a-string/
+[2248l]:https://leetcode.cn/problems/intersection-of-multiple-arrays/
 [2255l]:https://leetcode.cn/problems/count-prefixes-of-a-given-string/
 [2264l]:https://leetcode.cn/problems/largest-3-same-digit-number-in-string/
 [2265l]:https://leetcode.cn/problems/count-nodes-equal-to-average-of-subtree/
