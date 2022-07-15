@@ -849,6 +849,7 @@
 [2047][2047l]|[句子中的有效单词数][2047]                                |![py]
 [2053][2053l]|[数组中第 K 个独一无二的字符串][2053]                     |![py]
 [2057][2057l]|[值相等的最小索引][2057]                                  |![rs]
+[2062][2062l]|[统计字符串中的元音子字符串][2062]                        |![py]
 [2068][2068l]|[检查两个字符串是否几乎相等][2068]                        |![rs]
 [2078][2078l]|[两栋颜色不同且距离最远的房子][2078]                      |![rs]
 [2085][2085l]|[统计出现过一次的公共字符串][2085]                        |![py]
@@ -1756,6 +1757,7 @@
 [2047]:./Easy/2047-Number%20of%20Valid%20Words%20in%20a%20Sentence/README_CN.md#2047-句子中的有效单词数
 [2053]:./Easy/2053-Kth%20Distinct%20String%20in%20an%20Array/README_CN.md#2053-数组中第-k-个独一无二的字符串
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README_CN.md#2057-值相等的最小索引
+[2062]:./Easy/2062-Count%20Vowel%20Substrings%20of%20a%20String/README_CN.md#2062-统计字符串中的元音子字符串
 [2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README_CN.md#2068-检查两个字符串是否几乎相等
 [2078]:./Easy/2078-Two%20Furthest%20Houses%20With%20Different%20Colors/README_CN.md#2078-两栋颜色不同且距离最远的房子
 [2085]:./Easy/2085-Count%20Common%20Words%20With%20One%20Occurrence/README_CN.md#2085-统计出现过一次的公共字符串
@@ -2668,6 +2670,7 @@
 [2047l]:https://leetcode.cn/problems/number-of-valid-words-in-a-sentence/
 [2053l]:https://leetcode.cn/problems/kth-distinct-string-in-an-array/
 [2057l]:https://leetcode.cn/problems/smallest-index-with-equal-value/
+[2062l]:https://leetcode.cn/problems/count-vowel-substrings-of-a-string/
 [2068l]:https://leetcode.cn/problems/check-whether-two-strings-are-almost-equivalent/
 [2078l]:https://leetcode.cn/problems/two-furthest-houses-with-different-colors/
 [2085l]:https://leetcode.cn/problems/count-common-words-with-one-occurrence/
