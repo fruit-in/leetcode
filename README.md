@@ -907,6 +907,7 @@
 [2303][2303l]|[Calculate Amount Paid in Taxes][2303]                                                |![rs]
 [2309][2309l]|[Greatest English Letter in Upper and Lower Case][2309]                               |![rs]
 [2315][2315l]|[Count Asterisks][2315]                                                               |![rs]
+[2319][2319l]|[Check if Matrix Is X-Matrix][2319]                                                   |![py]
 
 
 [py]:./ico/python.ico
@@ -1820,6 +1821,7 @@
 [2303]:./Easy/2303-Calculate%20Amount%20Paid%20in%20Taxes/README.md#2303-calculate-amount-paid-in-taxes
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README.md#2309-greatest-english-letter-in-upper-and-lower-case
 [2315]:./Easy/2315-Count%20Asterisks/README.md#2315-count-asterisks
+[2319]:./Easy/2319-Check%20if%20Matrix%20Is%20X-Matrix/README.md#2319-check-if-matrix-is-x-matrix
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -2738,3 +2740,4 @@
 [2303l]:https://leetcode.com/problems/calculate-amount-paid-in-taxes/
 [2309l]:https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
 [2315l]:https://leetcode.com/problems/count-asterisks/
+[2319l]:https://leetcode.com/problems/check-if-matrix-is-x-matrix/

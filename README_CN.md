@@ -907,6 +907,7 @@
 [2303][2303l]|[计算应缴税款总额][2303]                                  |![rs]
 [2309][2309l]|[兼具大小写的最好英文字母][2309]                          |![rs]
 [2315][2315l]|[统计星号][2315]                                          |![rs]
+[2319][2319l]|[判断矩阵是否是一个 X 矩阵][2319]                         |![py]
 
 
 [py]:./ico/python.ico
@@ -1820,6 +1821,7 @@
 [2303]:./Easy/2303-Calculate%20Amount%20Paid%20in%20Taxes/README_CN.md#2303-计算应缴税款总额
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README_CN.md#2309-兼具大小写的最好英文字母
 [2315]:./Easy/2315-Count%20Asterisks/README_CN.md#2315-统计星号
+[2319]:./Easy/2319-Check%20if%20Matrix%20Is%20X-Matrix/README_CN.md#2319-判断矩阵是否是一个-x-矩阵
 
 [1l]:https://leetcode.cn/problems/two-sum/
 [2l]:https://leetcode.cn/problems/add-two-numbers/
@@ -2738,3 +2740,4 @@
 [2303l]:https://leetcode.cn/problems/calculate-amount-paid-in-taxes/
 [2309l]:https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/
 [2315l]:https://leetcode.cn/problems/count-asterisks/
+[2319l]:https://leetcode.cn/problems/check-if-matrix-is-x-matrix/
