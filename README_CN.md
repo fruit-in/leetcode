@@ -897,6 +897,7 @@
 [2255][2255l]|[统计是给定字符串前缀的字符串数目][2255]                  |![rs]
 [2264][2264l]|[字符串中最大的 3 位相同数字][2264]                       |![rs]
 [2265][2265l]|[统计值等于子树平均值的节点数][2265]                      |![py]
+[2269][2269l]|[找到一个数字的 K 美丽值][2269]                           |![py]
 [2278][2278l]|[字母在字符串中的百分比][2278]                            |![rs]
 [2283][2283l]|[判断一个数的数字计数是否等于数位的值][2283]              |![rs]
 [2287][2287l]|[重排字符形成目标字符串][2287]                            |![rs]
@@ -1808,6 +1809,7 @@
 [2255]:./Easy/2255-Count%20Prefixes%20of%20a%20Given%20String/README_CN.md#2255-统计是给定字符串前缀的字符串数目
 [2264]:./Easy/2264-Largest%203-Same-Digit%20Number%20in%20String/README_CN.md#2264-字符串中最大的-3-位相同数字
 [2265]:./Medium/2265-Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/README_CN.md#2265-统计值等于子树平均值的节点数
+[2269]:./Easy/2269-Find%20the%20K-Beauty%20of%20a%20Number/README_CN.md#2269-找到一个数字的-k-美丽值
 [2278]:./Easy/2278-Percentage%20of%20Letter%20in%20String/README_CN.md#2278-字母在字符串中的百分比
 [2283]:./Easy/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README_CN.md#2283-判断一个数的数字计数是否等于数位的值
 [2287]:./Easy/2287-Rearrange%20Characters%20to%20Make%20Target%20String/README_CN.md#2287-重排字符形成目标字符串
@@ -2724,6 +2726,7 @@
 [2255l]:https://leetcode.cn/problems/count-prefixes-of-a-given-string/
 [2264l]:https://leetcode.cn/problems/largest-3-same-digit-number-in-string/
 [2265l]:https://leetcode.cn/problems/count-nodes-equal-to-average-of-subtree/
+[2269l]:https://leetcode.cn/problems/find-the-k-beauty-of-a-number/
 [2278l]:https://leetcode.cn/problems/percentage-of-letter-in-string/
 [2283l]:https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2287l]:https://leetcode.cn/problems/rearrange-characters-to-make-target-string/
