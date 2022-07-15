@@ -845,6 +845,7 @@
 [2027][2027l]|[转换字符串的最少操作次数][2027]                          |![rs]
 [2032][2032l]|[至少在两个数组中出现的值][2032]                          |![py]
 [2037][2037l]|[使每位学生都有座位的最少移动次数][2037]                  |![rs]
+[2042][2042l]|[检查句子中的数字是否递增][2042]                          |![py]
 [2047][2047l]|[句子中的有效单词数][2047]                                |![py]
 [2053][2053l]|[数组中第 K 个独一无二的字符串][2053]                     |![py]
 [2057][2057l]|[值相等的最小索引][2057]                                  |![rs]
@@ -1751,6 +1752,7 @@
 [2027]:./Easy/2027-Minimum%20Moves%20to%20Convert%20String/README_CN.md#2027-转换字符串的最少操作次数
 [2032]:./Easy/2032-Two%20Out%20of%20Three/README_CN.md#2032-至少在两个数组中出现的值
 [2037]:./Easy/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README_CN.md#2037-使每位学生都有座位的最少移动次数
+[2042]:./Easy/2042-Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/README_CN.md#2042-检查句子中的数字是否递增
 [2047]:./Easy/2047-Number%20of%20Valid%20Words%20in%20a%20Sentence/README_CN.md#2047-句子中的有效单词数
 [2053]:./Easy/2053-Kth%20Distinct%20String%20in%20an%20Array/README_CN.md#2053-数组中第-k-个独一无二的字符串
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README_CN.md#2057-值相等的最小索引
@@ -2662,6 +2664,7 @@
 [2027l]:https://leetcode.cn/problems/minimum-moves-to-convert-string/
 [2032l]:https://leetcode.cn/problems/two-out-of-three/
 [2037l]:https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone/
+[2042l]:https://leetcode.cn/problems/check-if-numbers-are-ascending-in-a-sentence/
 [2047l]:https://leetcode.cn/problems/number-of-valid-words-in-a-sentence/
 [2053l]:https://leetcode.cn/problems/kth-distinct-string-in-an-array/
 [2057l]:https://leetcode.cn/problems/smallest-index-with-equal-value/
