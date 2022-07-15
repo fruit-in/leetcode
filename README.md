@@ -908,6 +908,7 @@
 [2309][2309l]|[Greatest English Letter in Upper and Lower Case][2309]                               |![rs]
 [2315][2315l]|[Count Asterisks][2315]                                                               |![rs]
 [2319][2319l]|[Check if Matrix Is X-Matrix][2319]                                                   |![py]
+[2325][2325l]|[Decode the Message][2325]                                                            |![py]
 
 
 [py]:./ico/python.ico
@@ -1822,6 +1823,7 @@
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README.md#2309-greatest-english-letter-in-upper-and-lower-case
 [2315]:./Easy/2315-Count%20Asterisks/README.md#2315-count-asterisks
 [2319]:./Easy/2319-Check%20if%20Matrix%20Is%20X-Matrix/README.md#2319-check-if-matrix-is-x-matrix
+[2325]:./Easy/2325-Decode%20the%20Message/README.md#2325-decode-the-message
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -2741,3 +2743,4 @@
 [2309l]:https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
 [2315l]:https://leetcode.com/problems/count-asterisks/
 [2319l]:https://leetcode.com/problems/check-if-matrix-is-x-matrix/
+[2325l]:https://leetcode.com/problems/decode-the-message/
