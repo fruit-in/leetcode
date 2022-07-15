@@ -854,6 +854,7 @@
 [2068][2068l]|[Check Whether Two Strings are Almost Equivalent][2068]                               |![rs]
 [2073][2073l]|[Time Needed to Buy Tickets][2073]                                                    |![py]
 [2078][2078l]|[Two Furthest Houses With Different Colors][2078]                                     |![rs]
+[2079][2079l]|[Watering Plants][2079]                                                               |![rs]
 [2085][2085l]|[Count Common Words With One Occurrence][2085]                                        |![py]
 [2089][2089l]|[Find Target Indices After Sorting Array][2089]                                       |![py]
 [2094][2094l]|[Finding 3-Digit Even Numbers][2094]                                                  |![rs]
@@ -1770,6 +1771,7 @@
 [2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README.md#2068-check-whether-two-strings-are-almost-equivalent
 [2073]:./Easy/2073-Time%20Needed%20to%20Buy%20Tickets/README.md#2073-time-needed-to-buy-tickets
 [2078]:./Easy/2078-Two%20Furthest%20Houses%20With%20Different%20Colors/README.md#2078-two-furthest-houses-with-different-colors
+[2079]:./Medium/2079-Watering%20Plants/README.md#2079-watering-plants
 [2085]:./Easy/2085-Count%20Common%20Words%20With%20One%20Occurrence/README.md#2085-count-common-words-with-one-occurrence
 [2089]:./Easy/2089-Find%20Target%20Indices%20After%20Sorting%20Array/README.md#2089-find-target-indices-after-sorting-array
 [2094]:./Easy/2094-Finding%203-Digit%20Even%20Numbers/README.md#2094-finding-3-digit-even-numbers
@@ -2691,6 +2693,7 @@
 [2068l]:https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
 [2073l]:https://leetcode.com/problems/time-needed-to-buy-tickets/
 [2078l]:https://leetcode.com/problems/two-furthest-houses-with-different-colors/
+[2079l]:https://leetcode.com/problems/watering-plants/
 [2085l]:https://leetcode.com/problems/count-common-words-with-one-occurrence/
 [2089l]:https://leetcode.com/problems/find-target-indices-after-sorting-array/
 [2094l]:https://leetcode.com/problems/finding-3-digit-even-numbers/

@@ -854,6 +854,7 @@
 [2068][2068l]|[检查两个字符串是否几乎相等][2068]                        |![rs]
 [2073][2073l]|[买票需要的时间][2073]                                    |![py]
 [2078][2078l]|[两栋颜色不同且距离最远的房子][2078]                      |![rs]
+[2079][2079l]|[给植物浇水][2079]                                        |![rs]
 [2085][2085l]|[统计出现过一次的公共字符串][2085]                        |![py]
 [2089][2089l]|[找出数组排序后的目标下标][2089]                          |![py]
 [2094][2094l]|[找出 3 位偶数][2094]                                     |![rs]
@@ -1770,6 +1771,7 @@
 [2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README_CN.md#2068-检查两个字符串是否几乎相等
 [2073]:./Easy/2073-Time%20Needed%20to%20Buy%20Tickets/README_CN.md#2073-买票需要的时间
 [2078]:./Easy/2078-Two%20Furthest%20Houses%20With%20Different%20Colors/README_CN.md#2078-两栋颜色不同且距离最远的房子
+[2079]:./Medium/2079-Watering%20Plants/README_CN.md#2079-给植物浇水
 [2085]:./Easy/2085-Count%20Common%20Words%20With%20One%20Occurrence/README_CN.md#2085-统计出现过一次的公共字符串
 [2089]:./Easy/2089-Find%20Target%20Indices%20After%20Sorting%20Array/README_CN.md#2089-找出数组排序后的目标下标
 [2094]:./Easy/2094-Finding%203-Digit%20Even%20Numbers/README_CN.md#2094-找出-3-位偶数
@@ -2691,6 +2693,7 @@
 [2068l]:https://leetcode.cn/problems/check-whether-two-strings-are-almost-equivalent/
 [2073l]:https://leetcode.cn/problems/time-needed-to-buy-tickets/
 [2078l]:https://leetcode.cn/problems/two-furthest-houses-with-different-colors/
+[2079l]:https://leetcode.cn/problems/watering-plants/
 [2085l]:https://leetcode.cn/problems/count-common-words-with-one-occurrence/
 [2089l]:https://leetcode.cn/problems/find-target-indices-after-sorting-array/
 [2094l]:https://leetcode.cn/problems/finding-3-digit-even-numbers/
