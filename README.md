@@ -883,6 +883,7 @@
 [2194][2194l]|[Cells in a Range on an Excel Sheet][2194]                                            |![rs]
 [2200][2200l]|[Find All K-Distant Indices in an Array][2200]                                        |![rs]
 [2206][2206l]|[Divide Array Into Equal Pairs][2206]                                                 |![rs]
+[2210][2210l]|[Count Hills and Valleys in an Array][2210]                                           |![py]
 [2215][2215l]|[Find the Difference of Two Arrays][2215]                                             |![rs]
 [2220][2220l]|[Minimum Bit Flips to Convert Number][2220]                                           |![rs]
 [2221][2221l]|[Find Triangular Sum of an Array][2221]                                               |![rs]
@@ -1793,6 +1794,7 @@
 [2194]:./Easy/2194-Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet/README.md#2194-cells-in-a-range-on-an-excel-sheet
 [2200]:./Easy/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README.md#2200-find-all-k-distant-indices-in-an-array
 [2206]:./Easy/2206-Divide%20Array%20Into%20Equal%20Pairs/README.md#2206-divide-array-into-equal-pairs
+[2210]:./Easy/2210-Count%20Hills%20and%20Valleys%20in%20an%20Array/README.md#2210-count-hills-and-valleys-in-an-array
 [2215]:./Easy/2215-Find%20the%20Difference%20of%20Two%20Arrays/README.md#2215-find-the-difference-of-two-arrays
 [2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README.md#2220-minimum-bit-flips-to-convert-number
 [2221]:./Medium/2221-Find%20Triangular%20Sum%20of%20an%20Array/README.md#2221-find-triangular-sum-of-an-array
@@ -2708,6 +2710,7 @@
 [2194l]:https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
 [2200l]:https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 [2206l]:https://leetcode.com/problems/divide-array-into-equal-pairs/
+[2210l]:https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 [2215l]:https://leetcode.com/problems/find-the-difference-of-two-arrays/
 [2220l]:https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 [2221l]:https://leetcode.com/problems/find-triangular-sum-of-an-array/
