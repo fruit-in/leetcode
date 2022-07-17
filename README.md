@@ -910,6 +910,7 @@
 [2303][2303l]|[Calculate Amount Paid in Taxes][2303]                                                |![rs]
 [2309][2309l]|[Greatest English Letter in Upper and Lower Case][2309]                               |![rs]
 [2315][2315l]|[Count Asterisks][2315]                                                               |![rs]
+[2317][2317l]|[Maximum XOR After Operations][2317]                                                  |![rs]
 [2319][2319l]|[Check if Matrix Is X-Matrix][2319]                                                   |![py]
 [2325][2325l]|[Decode the Message][2325]                                                            |![py]
 
@@ -1828,6 +1829,7 @@
 [2303]:./Easy/2303-Calculate%20Amount%20Paid%20in%20Taxes/README.md#2303-calculate-amount-paid-in-taxes
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README.md#2309-greatest-english-letter-in-upper-and-lower-case
 [2315]:./Easy/2315-Count%20Asterisks/README.md#2315-count-asterisks
+[2317]:./Medium/2317-Maximum%20XOR%20After%20Operations/README.md#2317-maximum-xor-after-operations
 [2319]:./Easy/2319-Check%20if%20Matrix%20Is%20X-Matrix/README.md#2319-check-if-matrix-is-x-matrix
 [2325]:./Easy/2325-Decode%20the%20Message/README.md#2325-decode-the-message
 
@@ -2751,5 +2753,6 @@
 [2303l]:https://leetcode.com/problems/calculate-amount-paid-in-taxes/
 [2309l]:https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
 [2315l]:https://leetcode.com/problems/count-asterisks/
+[2317l]:https://leetcode.com/problems/maximum-xor-after-operations/
 [2319l]:https://leetcode.com/problems/check-if-matrix-is-x-matrix/
 [2325l]:https://leetcode.com/problems/decode-the-message/
