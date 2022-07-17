@@ -771,6 +771,7 @@
 [1725][1725l]|[Number Of Rectangles That Can Form The Largest Square][1725]                         |![rb]&nbsp;&nbsp;![rs]
 [1726][1726l]|[Tuple with Same Product][1726]                                                       |![rb]&nbsp;&nbsp;![rs]
 [1732][1732l]|[Find the Highest Altitude][1732]                                                     |![rb]&nbsp;&nbsp;![rs]
+[1734][1734l]|[Decode XORed Permutation][1734]                                                      |![rs]
 [1736][1736l]|[Latest Time by Replacing Hidden Digits][1736]                                        |![rs]
 [1738][1738l]|[Find Kth Largest XOR Coordinate Value][1738]                                         |![rb]&nbsp;&nbsp;![rs]
 [1742][1742l]|[Maximum Number of Balls in a Box][1742]                                              |![py]
@@ -1688,6 +1689,7 @@
 [1725]:./Easy/1725-Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/README.md#1725-number-of-rectangles-that-can-form-the-largest-square
 [1726]:./Medium/1726-Tuple%20with%20Same%20Product/README.md#1726-tuple-with-same-product
 [1732]:./Easy/1732-Find%20the%20Highest%20Altitude/README.md#1732-find-the-highest-altitude
+[1734]:./Medium/1734-Decode%20XORed%20Permutation/README.md#1734-decode-xored-permutation
 [1736]:./Easy/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README.md#1736-latest-time-by-replacing-hidden-digits
 [1738]:./Medium/1738-Find%20Kth%20Largest%20XOR%20Coordinate%20Value/README.md#1738-find-kth-largest-xor-coordinate-value
 [1742]:./Easy/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README.md#1742-maximum-number-of-balls-in-a-box
@@ -2610,6 +2612,7 @@
 [1725l]:https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
 [1726l]:https://leetcode.com/problems/tuple-with-same-product/
 [1732l]:https://leetcode.com/problems/find-the-highest-altitude/
+[1734l]:https://leetcode.com/problems/decode-xored-permutation/
 [1736l]:https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/
 [1738l]:https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/
 [1742l]:https://leetcode.com/problems/maximum-number-of-balls-in-a-box/

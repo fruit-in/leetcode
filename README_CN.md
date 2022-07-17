@@ -771,6 +771,7 @@
 [1725][1725l]|[可以形成最大正方形的矩形数目][1725]                      |![rb]&nbsp;&nbsp;![rs]
 [1726][1726l]|[同积元组][1726]                                          |![rb]&nbsp;&nbsp;![rs]
 [1732][1732l]|[找到最高海拔][1732]                                      |![rb]&nbsp;&nbsp;![rs]
+[1734][1734l]|[解码异或后的排列][1734]                                  |![rs]
 [1736][1736l]|[替换隐藏数字得到的最晚时间][1736]                        |![rs]
 [1738][1738l]|[找出第 K 大的异或坐标值][1738]                           |![rb]&nbsp;&nbsp;![rs]
 [1742][1742l]|[盒子中小球的最大数量][1742]                              |![py]
@@ -1688,6 +1689,7 @@
 [1725]:./Easy/1725-Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/README_CN.md#1725-可以形成最大正方形的矩形数目
 [1726]:./Medium/1726-Tuple%20with%20Same%20Product/README_CN.md#1726-同积元组
 [1732]:./Easy/1732-Find%20the%20Highest%20Altitude/README_CN.md#1732-找到最高海拔
+[1734]:./Medium/1734-Decode%20XORed%20Permutation/README_CN.md#1734-解码异或后的排列
 [1736]:./Easy/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README_CN.md#1736-替换隐藏数字得到的最晚时间
 [1738]:./Medium/1738-Find%20Kth%20Largest%20XOR%20Coordinate%20Value/README_CN.md#1738-找出第-k-大的异或坐标值
 [1742]:./Easy/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README_CN.md#1742-盒子中小球的最大数量
@@ -2610,6 +2612,7 @@
 [1725l]:https://leetcode.cn/problems/number-of-rectangles-that-can-form-the-largest-square/
 [1726l]:https://leetcode.cn/problems/tuple-with-same-product/
 [1732l]:https://leetcode.cn/problems/find-the-highest-altitude/
+[1734l]:https://leetcode.cn/problems/decode-xored-permutation/
 [1736l]:https://leetcode.cn/problems/latest-time-by-replacing-hidden-digits/
 [1738l]:https://leetcode.cn/problems/find-kth-largest-xor-coordinate-value/
 [1742l]:https://leetcode.cn/problems/maximum-number-of-balls-in-a-box/
