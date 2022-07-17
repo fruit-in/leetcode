@@ -898,6 +898,7 @@
 [2243][2243l]|[Calculate Digit Sum of a String][2243]                                               |![py]
 [2248][2248l]|[Intersection of Multiple Arrays][2248]                                               |![py]
 [2255][2255l]|[Count Prefixes of a Given String][2255]                                              |![rs]
+[2259][2259l]|[Remove Digit From Number to Maximize Result][2259]                                   |![py]
 [2264][2264l]|[Largest 3-Same-Digit Number in String][2264]                                         |![rs]
 [2265][2265l]|[Count Nodes Equal to Average of Subtree][2265]                                       |![py]
 [2269][2269l]|[Find the K-Beauty of a Number][2269]                                                 |![py]
@@ -1817,6 +1818,7 @@
 [2243]:./Easy/2243-Calculate%20Digit%20Sum%20of%20a%20String/README.md#2243-calculate-digit-sum-of-a-string
 [2248]:./Easy/2248-Intersection%20of%20Multiple%20Arrays/README.md#2248-intersection-of-multiple-arrays
 [2255]:./Easy/2255-Count%20Prefixes%20of%20a%20Given%20String/README.md#2255-count-prefixes-of-a-given-string
+[2259]:./Easy/2259-Remove%20Digit%20From%20Number%20to%20Maximize%20Result/README.md#2259-remove-digit-from-number-to-maximize-result
 [2264]:./Easy/2264-Largest%203-Same-Digit%20Number%20in%20String/README.md#2264-largest-3-same-digit-number-in-string
 [2265]:./Medium/2265-Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/README.md#2265-count-nodes-equal-to-average-of-subtree
 [2269]:./Easy/2269-Find%20the%20K-Beauty%20of%20a%20Number/README.md#2269-find-the-k-beauty-of-a-number
@@ -2741,6 +2743,7 @@
 [2243l]:https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 [2248l]:https://leetcode.com/problems/intersection-of-multiple-arrays/
 [2255l]:https://leetcode.com/problems/count-prefixes-of-a-given-string/
+[2259l]:https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 [2264l]:https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 [2265l]:https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
 [2269l]:https://leetcode.com/problems/find-the-k-beauty-of-a-number/
