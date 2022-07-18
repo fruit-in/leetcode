@@ -486,6 +486,7 @@
 [974][974l]  |[和可被 K 整除的子数组][974]                              |![rb]&nbsp;&nbsp;![rs]
 [976][976l]  |[三角形的最大周长][976]                                   |![rs]
 [977][977l]  |[有序数组的平方][977]                                     |![rs]
+[981][981l]  |[基于时间的键值存储][981]                                 |![py]
 [984][984l]  |[不含 AAA 或 BBB 的字符串][984]                           |![rb]
 [985][985l]  |[查询后的偶数和][985]                                     |![py]
 [986][986l]  |[区间列表的交集][986]                                     |![rb]&nbsp;&nbsp;![rs]
@@ -1406,6 +1407,7 @@
 [974]:./Medium/0974-Subarray%20Sums%20Divisible%20by%20K/README_CN.md#974-和可被-k-整除的子数组
 [976]:./Easy/0976-Largest%20Perimeter%20Triangle/README_CN.md#976-三角形的最大周长
 [977]:./Easy/0977-Squares%20of%20a%20Sorted%20Array/README_CN.md#977-有序数组的平方
+[981]:./Medium/0981-Time%20Based%20Key-Value%20Store/README_CN.md#981-基于时间的键值存储
 [984]:./Medium/0984-String%20Without%20AAA%20or%20BBB/README_CN.md#984-不含-aaa-或-bbb-的字符串
 [985]:./Easy/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README_CN.md#985-查询后的偶数和
 [986]:./Medium/0986-Interval%20List%20Intersections/README_CN.md#986-区间列表的交集
@@ -2331,6 +2333,7 @@
 [974l]:https://leetcode.cn/problems/subarray-sums-divisible-by-k/
 [976l]:https://leetcode.cn/problems/largest-perimeter-triangle/
 [977l]:https://leetcode.cn/problems/squares-of-a-sorted-array/
+[981l]:https://leetcode.cn/problems/time-based-key-value-store/
 [984l]:https://leetcode.cn/problems/string-without-aaa-or-bbb/
 [985l]:https://leetcode.cn/problems/sum-of-even-numbers-after-queries/
 [986l]:https://leetcode.cn/problems/interval-list-intersections/

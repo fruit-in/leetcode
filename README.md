@@ -486,6 +486,7 @@
 [974][974l]  |[Subarray Sums Divisible by K][974]                                                   |![rb]&nbsp;&nbsp;![rs]
 [976][976l]  |[Largest Perimeter Triangle][976]                                                     |![rs]
 [977][977l]  |[Squares of a Sorted Array][977]                                                      |![rs]
+[981][981l]  |[Time Based Key-Value Store][981]                                                     |![py]
 [984][984l]  |[String Without AAA or BBB][984]                                                      |![rb]
 [985][985l]  |[Sum of Even Numbers After Queries][985]                                              |![py]
 [986][986l]  |[Interval List Intersections][986]                                                    |![rb]&nbsp;&nbsp;![rs]
@@ -1406,6 +1407,7 @@
 [974]:./Medium/0974-Subarray%20Sums%20Divisible%20by%20K/README.md#974-subarray-sums-divisible-by-k
 [976]:./Easy/0976-Largest%20Perimeter%20Triangle/README.md#976-largest-perimeter-triangle
 [977]:./Easy/0977-Squares%20of%20a%20Sorted%20Array/README.md#977-squares-of-a-sorted-array
+[981]:./Medium/0981-Time%20Based%20Key-Value%20Store/README.md#981-time-based-key-value-store
 [984]:./Medium/0984-String%20Without%20AAA%20or%20BBB/README.md#984-string-without-aaa-or-bbb
 [985]:./Easy/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README.md#985-sum-of-even-numbers-after-queries
 [986]:./Medium/0986-Interval%20List%20Intersections/README.md#986-interval-list-intersections
@@ -2331,6 +2333,7 @@
 [974l]:https://leetcode.com/problems/subarray-sums-divisible-by-k/
 [976l]:https://leetcode.com/problems/largest-perimeter-triangle/
 [977l]:https://leetcode.com/problems/squares-of-a-sorted-array/
+[981l]:https://leetcode.com/problems/time-based-key-value-store/
 [984l]:https://leetcode.com/problems/string-without-aaa-or-bbb/
 [985l]:https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [986l]:https://leetcode.com/problems/interval-list-intersections/
