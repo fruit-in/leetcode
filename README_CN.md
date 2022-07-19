@@ -163,6 +163,7 @@
 [263][263l]  |[丑数][263]                                               |![rb]&nbsp;&nbsp;![rs]
 [264][264l]  |[丑数 II][264]                                            |![rs]
 [268][268l]  |[缺失数字][268]                                           |![rs]
+[273][273l]  |[整数转换英文表示][273]                                   |![py]
 [274][274l]  |[H 指数][274]                                             |![rs]
 [275][275l]  |[H指数 II][275]                                           |![rs]
 [278][278l]  |[第一个错误的版本][278]                                   |![py]
@@ -1085,6 +1086,7 @@
 [263]:./Easy/0263-Ugly%20Number/README_CN.md#263-丑数
 [264]:./Medium/0264-Ugly%20Number%20II/README_CN.md#264-丑数-ii
 [268]:./Easy/0268-Missing%20Number/README_CN.md#268-缺失数字
+[273]:./Hard/0273-Integer%20to%20English%20Words/README_CN.md#273-整数转换英文表示
 [274]:./Medium/0274-H-Index/README_CN.md#274-h-指数
 [275]:./Medium/0275-H-Index%20II/README_CN.md#275-H指数-ii
 [278]:./Easy/0278-First%20Bad%20Version/README_CN.md#278-第一个错误的版本
@@ -2005,6 +2007,7 @@
 [263l]:https://leetcode.cn/problems/ugly-number/
 [264l]:https://leetcode.cn/problems/ugly-number-ii/
 [268l]:https://leetcode.cn/problems/missing-number/
+[273l]:https://leetcode.cn/problems/integer-to-english-words/
 [274l]:https://leetcode.cn/problems/h-index/
 [275l]:https://leetcode.cn/problems/h-index-ii/
 [278l]:https://leetcode.cn/problems/first-bad-version/
