@@ -546,6 +546,7 @@
 [1122][1122l]|[数组的相对排序][1122]                                    |![rs]
 [1123][1123l]|[最深叶节点的最近公共祖先][1123]                          |![py]
 [1128][1128l]|[等价多米诺骨牌对的数量][1128]                            |![rs]
+[1131][1131l]|[绝对值表达式的最大值][1131]                              |![rs]
 [1137][1137l]|[第 N 个泰波那契数][1137]                                 |![rs]
 [1138][1138l]|[字母板上的路径][1138]                                    |![rb]&nbsp;&nbsp;![rs]
 [1144][1144l]|[递减元素使数组呈锯齿状][1144]                            |![rs]
@@ -1473,6 +1474,7 @@
 [1122]:./Easy/1122-Relative%20Sort%20Array/README_CN.md#1122-数组的相对排序
 [1123]:./Medium/1123-Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/README_CN.md#1123-最深叶节点的最近公共祖先
 [1128]:./Easy/1128-Number%20of%20Equivalent%20Domino%20Pairs/README_CN.md#1128-等价多米诺骨牌对的数量
+[1131]:./Medium/1131-Maximum%20of%20Absolute%20Value%20Expression/README_CN.md#1131-绝对值表达式的最大值
 [1137]:./Easy/1137-N-th%20Tribonacci%20Number/README_CN.md#1137-第-n-个泰波那契数
 [1138]:./Medium/1138-Alphabet%20Board%20Path/README_CN.md#1138-字母板上的路径
 [1144]:./Medium/1144-Decrease%20Elements%20To%20Make%20Array%20Zigzag/README_CN.md#1144-递减元素使数组呈锯齿状
@@ -2405,6 +2407,7 @@
 [1122l]:https://leetcode.cn/problems/relative-sort-array/
 [1123l]:https://leetcode.cn/problems/lowest-common-ancestor-of-deepest-leaves/
 [1128l]:https://leetcode.cn/problems/number-of-equivalent-domino-pairs/
+[1131l]:https://leetcode.cn/problems/maximum-of-absolute-value-expression/
 [1137l]:https://leetcode.cn/problems/n-th-tribonacci-number/
 [1138l]:https://leetcode.cn/problems/alphabet-board-path/
 [1144l]:https://leetcode.cn/problems/decrease-elements-to-make-array-zigzag/
