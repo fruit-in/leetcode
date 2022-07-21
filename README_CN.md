@@ -515,6 +515,7 @@
 [1020][1020l]|[飞地的数量][1020]                                        |![rs]
 [1021][1021l]|[删除最外层的括号][1021]                                  |![rs]
 [1022][1022l]|[从根到叶的二进制数之和][1022]                            |![py]
+[1024][1024l]|[视频拼接][1024]                                          |![rs]
 [1025][1025l]|[除数博弈][1025]                                          |![rs]
 [1026][1026l]|[节点与其祖先之间的最大差值][1026]                        |![py]
 [1028][1028l]|[从先序遍历还原二叉树][1028]                              |![py]
@@ -1441,6 +1442,7 @@
 [1020]:./Medium/1020-Number%20of%20Enclaves/README_CN.md#1020-飞地的数量
 [1021]:./Easy/1021-Remove%20Outermost%20Parentheses/README_CN.md#1021-删除最外层的括号
 [1022]:./Easy/1022-Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/README_CN.md#1022-从根到叶的二进制数之和
+[1024]:./Medium/1024-Video%20Stitching/README_CN.md#1024-视频拼接
 [1025]:./Easy/1025-Divisor%20Game/README_CN.md#1025-除数博弈
 [1026]:./Medium/1026-Maximum%20Difference%20Between%20Node%20and%20Ancestor/README_CN.md#1026-节点与其祖先之间的最大差值
 [1028]:./Hard/1028-Recover%20a%20Tree%20From%20Preorder%20Traversal/README_CN.md#1028-从先序遍历还原二叉树
@@ -2372,6 +2374,7 @@
 [1020l]:https://leetcode.cn/problems/number-of-enclaves/
 [1021l]:https://leetcode.cn/problems/remove-outermost-parentheses/
 [1022l]:https://leetcode.cn/problems/sum-of-root-to-leaf-binary-numbers/
+[1024l]:https://leetcode.cn/problems/video-stitching/
 [1025l]:https://leetcode.cn/problems/divisor-game/
 [1026l]:https://leetcode.cn/problems/maximum-difference-between-node-and-ancestor/
 [1028l]:https://leetcode.cn/problems/recover-a-tree-from-preorder-traversal/
