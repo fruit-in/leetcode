@@ -476,6 +476,7 @@
 [950][950l]  |[Reveal Cards In Increasing Order][950]                                               |![rs]
 [951][951l]  |[Flip Equivalent Binary Trees][951]                                                   |![rb]
 [953][953l]  |[Verifying an Alien Dictionary][953]                                                  |![py]
+[954][954l]  |[Array of Doubled Pairs][954]                                                         |![py]
 [957][957l]  |[Prison Cells After N Days][957]                                                      |![rs]
 [961][961l]  |[N-Repeated Element in Size 2N Array][961]                                            |![rs]
 [962][962l]  |[Maximum Width Ramp][962]                                                             |![rs]
@@ -1401,6 +1402,7 @@
 [950]:./Medium/0950-Reveal%20Cards%20In%20Increasing%20Order/README.md#950-reveal-cards-in-increasing-order
 [951]:./Medium/0951-Flip%20Equivalent%20Binary%20Trees/README.md#951-flip-equivalent-binary-trees
 [953]:./Easy/0953-Verifying%20an%20Alien%20Dictionary/README.md#953-verifying-an-alien-dictionary
+[954]:./Medium/0954-Array%20of%20Doubled%20Pairs/README.md#954-array-of-doubled-pairs
 [957]:./Medium/0957-Prison%20Cells%20After%20N%20Days/README.md#957-prison-cells-after-n-days
 [961]:./Easy/0961-N-Repeated%20Element%20in%20Size%202N%20Array/README.md#961-n-repeated-element-in-size-2n-array
 [962]:./Medium/0962-Maximum%20Width%20Ramp/README.md#962-maximum-width-ramp
@@ -2331,6 +2333,7 @@
 [950l]:https://leetcode.com/problems/reveal-cards-in-increasing-order/
 [951l]:https://leetcode.com/problems/flip-equivalent-binary-trees/
 [953l]:https://leetcode.com/problems/verifying-an-alien-dictionary/
+[954l]:https://leetcode.com/problems/array-of-doubled-pairs/
 [957l]:https://leetcode.com/problems/prison-cells-after-n-days/
 [961l]:https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 [962l]:https://leetcode.com/problems/maximum-width-ramp/
