@@ -874,6 +874,7 @@
 [2130][2130l]|[链表最大孪生和][2130]                                    |![py]
 [2133][2133l]|[检查是否每一行每一列都包含全部整数][2133]                |![rs]
 [2138][2138l]|[将字符串拆分为若干长度为 k 的组][2138]                   |![py]
+[2139][2139l]|[得到目标值的最少行动次数][2139]                          |![rs]
 [2144][2144l]|[打折购买糖果的最小开销][2144]                            |![rs]
 [2148][2148l]|[元素计数][2148]                                          |![rs]
 [2149][2149l]|[按符号重排数组][2149]                                    |![rs]
@@ -1798,6 +1799,7 @@
 [2130]:./Medium/2130-Maximum%20Twin%20Sum%20of%20a%20Linked%20List/README_CN.md#2130-链表最大孪生和
 [2133]:./Easy/2133-Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers/README_CN.md#2133-检查是否每一行每一列都包含全部整数
 [2138]:./Easy/2138-Divide%20a%20String%20Into%20Groups%20of%20Size%20k/README_CN.md#2138-将字符串拆分为若干长度为-k-的组
+[2139]:./Medium/2139-Minimum%20Moves%20to%20Reach%20Target%20Score/README_CN.md#2139-得到目标值的最少行动次数
 [2144]:./Easy/2144-Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/README_CN.md#2144-打折购买糖果的最小开销
 [2148]:./Easy/2148-Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements/README_CN.md#2148-元素计数
 [2149]:./Medium/2149-Rearrange%20Array%20Elements%20by%20Sign/README_CN.md#2149-按符号重排数组
@@ -2727,6 +2729,7 @@
 [2130l]:https://leetcode.cn/problems/maximum-twin-sum-of-a-linked-list/
 [2133l]:https://leetcode.cn/problems/check-if-every-row-and-column-contains-all-numbers/
 [2138l]:https://leetcode.cn/problems/divide-a-string-into-groups-of-size-k/
+[2139l]:https://leetcode.cn/problems/minimum-moves-to-reach-target-score/
 [2144l]:https://leetcode.cn/problems/minimum-cost-of-buying-candies-with-discount/
 [2148l]:https://leetcode.cn/problems/count-elements-with-strictly-smaller-and-greater-elements/
 [2149l]:https://leetcode.cn/problems/rearrange-array-elements-by-sign/
