@@ -850,6 +850,7 @@
 [2000][2000l]|[Reverse Prefix of Word][2000]                                                        |![py]
 [2001][2001l]|[Number of Pairs of Interchangeable Rectangles][2001]                                 |![py]
 [2006][2006l]|[Count Number of Pairs With Absolute Difference K][2006]                              |![rs]
+[2008][2008l]|[Maximum Earnings From Taxi][2008]                                                    |![rs]
 [2011][2011l]|[Final Value of Variable After Performing Operations][2011]                           |![py]&nbsp;&nbsp;![rs]
 [2016][2016l]|[Maximum Difference Between Increasing Elements][2016]                                |![rs]
 [2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
@@ -1780,6 +1781,7 @@
 [2000]:./Easy/2000-Reverse%20Prefix%20of%20Word/README.md#2000-reverse-prefix-of-word
 [2001]:./Medium/2001-Number%20of%20Pairs%20of%20Interchangeable%20Rectangles/README.md#2001-number-of-pairs-of-interchangeable-rectangles
 [2006]:./Easy/2006-Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/README.md#2006-count-number-of-pairs-with-absolute-difference-k
+[2008]:./Medium/2008-Maximum%20Earnings%20From%20Taxi/README.md#2008-maximum-earnings-from-taxi
 [2011]:./Easy/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README.md#2011-final-value-of-variable-after-performing-operations
 [2016]:./Easy/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README.md#2016-maximum-difference-between-increasing-elements
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
@@ -2715,6 +2717,7 @@
 [2000l]:https://leetcode.com/problems/reverse-prefix-of-word/
 [2001l]:https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/
 [2006l]:https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
+[2008l]:https://leetcode.com/problems/maximum-earnings-from-taxi/
 [2011l]:https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2016l]:https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 [2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
