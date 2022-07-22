@@ -322,6 +322,7 @@
 [623][623l]  |[在二叉树中增加一行][623]                                 |![py]
 [628][628l]  |[三个数的最大乘积][628]                                   |![py]
 [633][633l]  |[平方数之和][633]                                         |![rs]
+[636][636l]  |[函数的独占时间][636]                                     |![rs]
 [637][637l]  |[二叉树的层平均值][637]                                   |![py]
 [643][643l]  |[子数组最大平均数 I][643]                                 |![rs]
 [645][645l]  |[错误的集合][645]                                         |![rs]
@@ -1250,6 +1251,7 @@
 [623]:./Medium/0623-Add%20One%20Row%20to%20Tree/README_CN.md#623-在二叉树中增加一行
 [628]:./Easy/0628-Maximum%20Product%20of%20Three%20Numbers/README_CN.md#628-三个数的最大乘积
 [633]:./Easy/0633-Sum%20of%20Square%20Numbers/README_CN.md#633-平方数之和
+[636]:./Medium/0636-Exclusive%20Time%20of%20Functions/README_CN.md#636-函数的独占时间
 [637]:./Easy/0637-Average%20of%20Levels%20in%20Binary%20Tree/README_CN.md#637-二叉树的层平均值
 [643]:./Easy/0643-Maximum%20Average%20Subarray%20I/README_CN.md#643-子数组最大平均数-i
 [645]:./Easy/0645-Set%20Mismatch/README_CN.md#645-错误的集合
@@ -2180,6 +2182,7 @@
 [623l]:https://leetcode.cn/problems/add-one-row-to-tree/
 [628l]:https://leetcode.cn/problems/maximum-product-of-three-numbers/
 [633l]:https://leetcode.cn/problems/sum-of-square-numbers/
+[636l]:https://leetcode.cn/problems/exclusive-time-of-functions/
 [637l]:https://leetcode.cn/problems/average-of-levels-in-binary-tree/
 [643l]:https://leetcode.cn/problems/maximum-average-subarray-i/
 [645l]:https://leetcode.cn/problems/set-mismatch/

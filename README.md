@@ -322,6 +322,7 @@
 [623][623l]  |[Add One Row to Tree][623]                                                            |![py]
 [628][628l]  |[Maximum Product of Three Numbers][628]                                               |![py]
 [633][633l]  |[Sum of Square Numbers][633]                                                          |![rs]
+[636][636l]  |[Exclusive Time of Functions][636]                                                    |![rs]
 [637][637l]  |[Average of Levels in Binary Tree][637]                                               |![py]
 [643][643l]  |[Maximum Average Subarray I][643]                                                     |![rs]
 [645][645l]  |[Set Mismatch][645]                                                                   |![rs]
@@ -1250,6 +1251,7 @@
 [623]:./Medium/0623-Add%20One%20Row%20to%20Tree/README.md#623-add-one-row-to-tree
 [628]:./Easy/0628-Maximum%20Product%20of%20Three%20Numbers/README.md#628-maximum-product-of-three-numbers
 [633]:./Easy/0633-Sum%20of%20Square%20Numbers/README.md#633-sum-of-square-numbers
+[636]:./Medium/0636-Exclusive%20Time%20of%20Functions/README.md#636-exclusive-time-of-functions
 [637]:./Easy/0637-Average%20of%20Levels%20in%20Binary%20Tree/README.md#637-average-of-levels-in-binary-tree
 [643]:./Easy/0643-Maximum%20Average%20Subarray%20I/README.md#643-maximum-average-subarray-i
 [645]:./Easy/0645-Set%20Mismatch/README.md#645-set-mismatch
@@ -2180,6 +2182,7 @@
 [623l]:https://leetcode.com/problems/add-one-row-to-tree/
 [628l]:https://leetcode.com/problems/maximum-product-of-three-numbers/
 [633l]:https://leetcode.com/problems/sum-of-square-numbers/
+[636l]:https://leetcode.com/problems/exclusive-time-of-functions/
 [637l]:https://leetcode.com/problems/average-of-levels-in-binary-tree/
 [643l]:https://leetcode.com/problems/maximum-average-subarray-i/
 [645l]:https://leetcode.com/problems/set-mismatch/
