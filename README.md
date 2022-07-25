@@ -502,6 +502,7 @@
 [999][999l]  |[Available Captures for Rook][999]                                                    |![rs]
 [1002][1002l]|[Find Common Characters][1002]                                                        |![py]
 [1003][1003l]|[Check If Word Is Valid After Substitutions][1003]                                    |![py]
+[1004][1004l]|[Max Consecutive Ones III][1004]                                                      |![rs]
 [1005][1005l]|[Maximize Sum Of Array After K Negations][1005]                                       |![rs]
 [1006][1006l]|[Clumsy Factorial][1006]                                                              |![rb]&nbsp;&nbsp;![rs]
 [1008][1008l]|[Construct Binary Search Tree from Preorder Traversal][1008]                          |![py]
@@ -1433,6 +1434,7 @@
 [999]:./Easy/0999-Available%20Captures%20for%20Rook/README.md#999-available-captures-for-rook
 [1002]:./Easy/1002-Find%20Common%20Characters/README.md#1002-find-common-characters
 [1003]:./Medium/1003-Check%20If%20Word%20Is%20Valid%20After%20Substitutions/README.md#1003-check-if-word-is-valid-after-substitutions
+[1004]:./Medium/1004-Max%20Consecutive%20Ones%20III/README.md#1004-max-consecutive-ones-iii
 [1005]:./Easy/1005-Maximize%20Sum%20Of%20Array%20After%20K%20Negations/README.md#1005-maximize-sum-of-array-after-k-negations
 [1006]:./Medium/1006-Clumsy%20Factorial/README.md#1006-clumsy-factorial
 [1008]:./Medium/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/README.md#1008-construct-binary-search-tree-from-preorder-traversal
@@ -2369,6 +2371,7 @@
 [999l]:https://leetcode.com/problems/available-captures-for-rook/
 [1002l]:https://leetcode.com/problems/find-common-characters/
 [1003l]:https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/
+[1004l]:https://leetcode.com/problems/max-consecutive-ones-iii/
 [1005l]:https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
 [1006l]:https://leetcode.com/problems/clumsy-factorial/
 [1008l]:https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/

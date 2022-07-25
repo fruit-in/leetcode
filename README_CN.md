@@ -502,6 +502,7 @@
 [999][999l]  |[车的可用捕获量][999]                                     |![rs]
 [1002][1002l]|[查找常用字符][1002]                                      |![py]
 [1003][1003l]|[检查替换后的词是否有效][1003]                            |![py]
+[1004][1004l]|[最大连续1的个数 III][1004]                               |![rs]
 [1005][1005l]|[K 次取反后最大化的数组和][1005]                          |![rs]
 [1006][1006l]|[笨阶乘][1006]                                            |![rb]&nbsp;&nbsp;![rs]
 [1008][1008l]|[前序遍历构造二叉搜索树][1008]                            |![py]
@@ -1433,6 +1434,7 @@
 [999]:./Easy/0999-Available%20Captures%20for%20Rook/README_CN.md#999-车的可用捕获量
 [1002]:./Easy/1002-Find%20Common%20Characters/README_CN.md#1002-查找常用字符
 [1003]:./Medium/1003-Check%20If%20Word%20Is%20Valid%20After%20Substitutions/README_CN.md#1003-检查替换后的词是否有效
+[1004]:./Medium/1004-Max%20Consecutive%20Ones%20III/README_CN.md#1004-最大连续1的个数-iii
 [1005]:./Easy/1005-Maximize%20Sum%20Of%20Array%20After%20K%20Negations/README_CN.md#1005-k-次取反后最大化的数组和
 [1006]:./Medium/1006-Clumsy%20Factorial/README_CN.md#1006-笨阶乘
 [1008]:./Medium/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/README_CN.md#1008-前序遍历构造二叉搜索树
@@ -2369,6 +2371,7 @@
 [999l]:https://leetcode.cn/problems/available-captures-for-rook/
 [1002l]:https://leetcode.cn/problems/find-common-characters/
 [1003l]:https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions/
+[1004l]:https://leetcode.cn/problems/max-consecutive-ones-iii/
 [1005l]:https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/
 [1006l]:https://leetcode.cn/problems/clumsy-factorial/
 [1008l]:https://leetcode.cn/problems/construct-binary-search-tree-from-preorder-traversal/
