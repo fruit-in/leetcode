@@ -731,6 +731,7 @@
 [1572][1572l]|[矩阵对角线元素的和][1572]                                |![rs]
 [1573][1573l]|[分割字符串的方案数][1573]                                |![rs]
 [1576][1576l]|[替换所有的问号][1576]                                    |![rs]
+[1578][1578l]|[使绳子变成彩色的最短时间][1578]                          |![rs]
 [1582][1582l]|[二进制矩阵中的特殊位置][1582]                            |![rs]
 [1588][1588l]|[所有奇数长度子数组的和][1588]                            |![rs]
 [1590][1590l]|[使数组和能被 P 整除][1590]                               |![rs]
@@ -1663,6 +1664,7 @@
 [1572]:./Easy/1572-Matrix%20Diagonal%20Sum/README_CN.md#1572-矩阵对角线元素的和
 [1573]:./Medium/1573-Number%20of%20Ways%20to%20Split%20a%20String/README_CN.md#1573-分割字符串的方案数
 [1576]:./Easy/1576-Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters/README_CN.md#1576-替换所有的问号
+[1578]:./Medium/1578-Minimum%20Time%20to%20Make%20Rope%20Colorful/README_CN.md#1578-使绳子变成彩色的最短时间
 [1582]:./Easy/1582-Special%20Positions%20in%20a%20Binary%20Matrix/README_CN.md#1582-二进制矩阵中的特殊位置
 [1588]:./Easy/1588-Sum%20of%20All%20Odd%20Length%20Subarrays/README_CN.md#1588-所有奇数长度子数组的和
 [1590]:./Medium/1590-Make%20Sum%20Divisible%20by%20P/README_CN.md#1590-使数组和能被-p-整除
@@ -2600,6 +2602,7 @@
 [1572l]:https://leetcode.cn/problems/matrix-diagonal-sum/
 [1573l]:https://leetcode.cn/problems/number-of-ways-to-split-a-string/
 [1576l]:https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
+[1578l]:https://leetcode.cn/problems/minimum-time-to-make-rope-colorful/
 [1582l]:https://leetcode.cn/problems/special-positions-in-a-binary-matrix/
 [1588l]:https://leetcode.cn/problems/sum-of-all-odd-length-subarrays/
 [1590l]:https://leetcode.cn/problems/make-sum-divisible-by-p/
