@@ -867,6 +867,7 @@
 [2057][2057l]|[值相等的最小索引][2057]                                  |![rs]
 [2062][2062l]|[统计字符串中的元音子字符串][2062]                        |![py]
 [2068][2068l]|[检查两个字符串是否几乎相等][2068]                        |![rs]
+[2069][2069l]|[模拟行走机器人 II][2069]                                 |![py]
 [2073][2073l]|[买票需要的时间][2073]                                    |![py]
 [2078][2078l]|[两栋颜色不同且距离最远的房子][2078]                      |![rs]
 [2079][2079l]|[给植物浇水][2079]                                        |![rs]
@@ -1802,6 +1803,7 @@
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README_CN.md#2057-值相等的最小索引
 [2062]:./Easy/2062-Count%20Vowel%20Substrings%20of%20a%20String/README_CN.md#2062-统计字符串中的元音子字符串
 [2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README_CN.md#2068-检查两个字符串是否几乎相等
+[2069]:./Medium/2069-Walking%20Robot%20Simulation%20II/README_CN.md#2069-模拟行走机器人-ii
 [2073]:./Easy/2073-Time%20Needed%20to%20Buy%20Tickets/README_CN.md#2073-买票需要的时间
 [2078]:./Easy/2078-Two%20Furthest%20Houses%20With%20Different%20Colors/README_CN.md#2078-两栋颜色不同且距离最远的房子
 [2079]:./Medium/2079-Watering%20Plants/README_CN.md#2079-给植物浇水
@@ -2742,6 +2744,7 @@
 [2057l]:https://leetcode.cn/problems/smallest-index-with-equal-value/
 [2062l]:https://leetcode.cn/problems/count-vowel-substrings-of-a-string/
 [2068l]:https://leetcode.cn/problems/check-whether-two-strings-are-almost-equivalent/
+[2069l]:https://leetcode.cn/problems/walking-robot-simulation-ii/
 [2073l]:https://leetcode.cn/problems/time-needed-to-buy-tickets/
 [2078l]:https://leetcode.cn/problems/two-furthest-houses-with-different-colors/
 [2079l]:https://leetcode.cn/problems/watering-plants/
