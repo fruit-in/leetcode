@@ -793,6 +793,7 @@
 [1750][1750l]|[Minimum Length of String After Deleting Similar Ends][1750]                          |![rb]&nbsp;&nbsp;![rs]
 [1752][1752l]|[Check if Array Is Sorted and Rotated][1752]                                          |![rb]&nbsp;&nbsp;![rs]
 [1753][1753l]|[Maximum Score From Removing Stones][1753]                                            |![rb]&nbsp;&nbsp;![rs]
+[1754][1754l]|[Largest Merge Of Two Strings][1754]                                                  |![py]
 [1758][1758l]|[Minimum Changes To Make Alternating Binary String][1758]                             |![rb]&nbsp;&nbsp;![rs]
 [1763][1763l]|[Longest Nice Substring][1763]                                                        |![rb]&nbsp;&nbsp;![rs]
 [1768][1768l]|[Merge Strings Alternately][1768]                                                     |![rs]
@@ -1729,6 +1730,7 @@
 [1750]:./Medium/1750-Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends/README.md#1750-minimum-length-of-string-after-deleting-similar-ends
 [1752]:./Easy/1752-Check%20if%20Array%20Is%20Sorted%20and%20Rotated/README.md#1752-check-if-array-is-sorted-and-rotated
 [1753]:./Medium/1753-Maximum%20Score%20From%20Removing%20Stones/README.md#1753-maximum-score-from-removing-stones
+[1754]:./Medium/1754-Largest%20Merge%20Of%20Two%20Strings/README.md#1754-largest-merge-of-two-strings
 [1758]:./Easy/1758-Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/README.md#1758-minimum-changes-to-make-alternating-binary-string
 [1763]:./Easy/1763-Longest%20Nice%20Substring/README.md#1763-longest-nice-substring
 [1768]:./Easy/1768-Merge%20Strings%20Alternately/README.md#1768-merge-strings-alternately
@@ -2670,6 +2672,7 @@
 [1750l]:https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/
 [1752l]:https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 [1753l]:https://leetcode.com/problems/maximum-score-from-removing-stones/
+[1754l]:https://leetcode.com/problems/largest-merge-of-two-strings/
 [1758l]:https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
 [1763l]:https://leetcode.com/problems/longest-nice-substring/
 [1768l]:https://leetcode.com/problems/merge-strings-alternately/
