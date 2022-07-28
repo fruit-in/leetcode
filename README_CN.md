@@ -826,6 +826,7 @@
 [1859][1859l]|[将句子排序][1859]                                        |![py]
 [1860][1860l]|[增长的内存泄露][1860]                                    |![rs]
 [1863][1863l]|[找出所有子集的异或总和再求和][1863]                      |![py]
+[1866][1866l]|[恰有 K 根木棍可以看到的排列数目][1866]                   |![rs]
 [1869][1869l]|[哪种连续子字符串更长][1869]                              |![rs]
 [1876][1876l]|[长度为三且各字符不同的子字符串][1876]                    |![rs]
 [1877][1877l]|[数组中最大数对和的最小值][1877]                          |![rs]
@@ -1764,6 +1765,7 @@
 [1859]:./Easy/1859-Sorting%20the%20Sentence/README_CN.md#1859-将句子排序
 [1860]:./Medium/1860-Incremental%20Memory%20Leak/README_CN.md#1860-增长的内存泄露
 [1863]:./Easy/1863-Sum%20of%20All%20Subset%20XOR%20Totals/README_CN.md#1863-找出所有子集的异或总和再求和
+[1866]:./Hard/1866-Number%20of%20Ways%20to%20Rearrange%20Sticks%20With%20K%20Sticks%20Visible/README_CN.md#1866-恰有-k-根木棍可以看到的排列数目
 [1869]:./Easy/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README_CN.md#1869-哪种连续子字符串更长
 [1876]:./Easy/1876-Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/README_CN.md#1876-长度为三且各字符不同的子字符串
 [1877]:./Medium/1877-Minimize%20Maximum%20Pair%20Sum%20in%20Array/README_CN.md#1877-数组中最大数对和的最小值
@@ -2707,6 +2709,7 @@
 [1859l]:https://leetcode.cn/problems/sorting-the-sentence/
 [1860l]:https://leetcode.cn/problems/incremental-memory-leak/
 [1863l]:https://leetcode.cn/problems/sum-of-all-subset-xor-totals/
+[1866l]:https://leetcode.cn/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/
 [1869l]:https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1876l]:https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/
 [1877l]:https://leetcode.cn/problems/minimize-maximum-pair-sum-in-array/

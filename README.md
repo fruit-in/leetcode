@@ -826,6 +826,7 @@
 [1859][1859l]|[Sorting the Sentence][1859]                                                          |![py]
 [1860][1860l]|[Incremental Memory Leak][1860]                                                       |![rs]
 [1863][1863l]|[Sum of All Subset XOR Totals][1863]                                                  |![py]
+[1866][1866l]|[Number of Ways to Rearrange Sticks With K Sticks Visible][1866]                      |![rs]
 [1869][1869l]|[Longer Contiguous Segments of Ones than Zeros][1869]                                 |![rs]
 [1876][1876l]|[Substrings of Size Three with Distinct Characters][1876]                             |![rs]
 [1877][1877l]|[Minimize Maximum Pair Sum in Array][1877]                                            |![rs]
@@ -1764,6 +1765,7 @@
 [1859]:./Easy/1859-Sorting%20the%20Sentence/README.md#1859-sorting-the-sentence
 [1860]:./Medium/1860-Incremental%20Memory%20Leak/README.md#1860-incremental-memory-leak
 [1863]:./Easy/1863-Sum%20of%20All%20Subset%20XOR%20Totals/README.md#1863-sum-of-all-subset-xor-totals
+[1866]:./Hard/1866-Number%20of%20Ways%20to%20Rearrange%20Sticks%20With%20K%20Sticks%20Visible/README.md#1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible
 [1869]:./Easy/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README.md#1869-longer-contiguous-segments-of-ones-than-zeros
 [1876]:./Easy/1876-Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/README.md#1876-substrings-of-size-three-with-distinct-characters
 [1877]:./Medium/1877-Minimize%20Maximum%20Pair%20Sum%20in%20Array/README.md#1877-minimize-maximum-pair-sum-in-array
@@ -2707,6 +2709,7 @@
 [1859l]:https://leetcode.com/problems/sorting-the-sentence/
 [1860l]:https://leetcode.com/problems/incremental-memory-leak/
 [1863l]:https://leetcode.com/problems/sum-of-all-subset-xor-totals/
+[1866l]:https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/
 [1869l]:https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1876l]:https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
 [1877l]:https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
