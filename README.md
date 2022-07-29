@@ -910,6 +910,7 @@
 [2220][2220l]|[Minimum Bit Flips to Convert Number][2220]                                           |![rs]
 [2221][2221l]|[Find Triangular Sum of an Array][2221]                                               |![rs]
 [2224][2224l]|[Minimum Number of Operations to Convert Time][2224]                                  |![py]
+[2225][2225l]|[Find Players With Zero or One Losses][2225]                                          |![py]
 [2231][2231l]|[Largest Number After Digit Swaps by Parity][2231]                                    |![rs]
 [2235][2235l]|[Add Two Integers][2235]                                                              |![py]&nbsp;&nbsp;![rs]
 [2236][2236l]|[Root Equals Sum of Children][2236]                                                   |![py]
@@ -1849,6 +1850,7 @@
 [2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README.md#2220-minimum-bit-flips-to-convert-number
 [2221]:./Medium/2221-Find%20Triangular%20Sum%20of%20an%20Array/README.md#2221-find-triangular-sum-of-an-array
 [2224]:./Easy/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README.md#2224-minimum-number-of-operations-to-convert-time
+[2225]:./Medium/2225-Find%20Players%20With%20Zero%20or%20One%20Losses/README.md#2225-find-players-with-zero-or-one-losses
 [2231]:./Easy/2231-Largest%20Number%20After%20Digit%20Swaps%20by%20Parity/README.md#2231-largest-number-after-digit-swaps-by-parity
 [2235]:./Easy/2235-Add%20Two%20Integers/README.md#2235-add-two-integers
 [2236]:./Easy/2236-Root%20Equals%20Sum%20of%20Children/README.md#2236-root-equals-sum-of-children
@@ -2793,6 +2795,7 @@
 [2220l]:https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 [2221l]:https://leetcode.com/problems/find-triangular-sum-of-an-array/
 [2224l]:https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
+[2225l]:https://leetcode.com/problems/find-players-with-zero-or-one-losses/
 [2231l]:https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
 [2235l]:https://leetcode.com/problems/add-two-integers/
 [2236l]:https://leetcode.com/problems/root-equals-sum-of-children/

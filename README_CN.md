@@ -910,6 +910,7 @@
 [2220][2220l]|[转换数字的最少位翻转次数][2220]                          |![rs]
 [2221][2221l]|[数组的三角和][2221]                                      |![rs]
 [2224][2224l]|[转化时间需要的最少操作数][2224]                          |![py]
+[2225][2225l]|[找出输掉零场或一场比赛的玩家][2225]                      |![py]
 [2231][2231l]|[按奇偶性交换后的最大数字][2231]                          |![rs]
 [2235][2235l]|[两整数相加][2235]                                        |![py]&nbsp;&nbsp;![rs]
 [2236][2236l]|[判断根结点是否等于子结点之和][2236]                      |![py]
@@ -1849,6 +1850,7 @@
 [2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README_CN.md#2220-转换数字的最少位翻转次数
 [2221]:./Medium/2221-Find%20Triangular%20Sum%20of%20an%20Array/README_CN.md#2221-数组的三角和
 [2224]:./Easy/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README_CN.md#2224-转化时间需要的最少操作数
+[2225]:./Medium/2225-Find%20Players%20With%20Zero%20or%20One%20Losses/README_CN.md#2225-找出输掉零场或一场比赛的玩家
 [2231]:./Easy/2231-Largest%20Number%20After%20Digit%20Swaps%20by%20Parity/README_CN.md#2231-按奇偶性交换后的最大数字
 [2235]:./Easy/2235-Add%20Two%20Integers/README_CN.md#2235-两整数相加
 [2236]:./Easy/2236-Root%20Equals%20Sum%20of%20Children/README_CN.md#2236-判断根结点是否等于子结点之和
@@ -2793,6 +2795,7 @@
 [2220l]:https://leetcode.cn/problems/minimum-bit-flips-to-convert-number/
 [2221l]:https://leetcode.cn/problems/find-triangular-sum-of-an-array/
 [2224l]:https://leetcode.cn/problems/minimum-number-of-operations-to-convert-time/
+[2225l]:https://leetcode.cn/problems/find-players-with-zero-or-one-losses/
 [2231l]:https://leetcode.cn/problems/largest-number-after-digit-swaps-by-parity/
 [2235l]:https://leetcode.cn/problems/add-two-integers/
 [2236l]:https://leetcode.cn/problems/root-equals-sum-of-children/
