@@ -916,6 +916,7 @@
 [2236][2236l]|[Root Equals Sum of Children][2236]                                                   |![py]
 [2239][2239l]|[Find Closest Number to Zero][2239]                                                   |![rs]
 [2243][2243l]|[Calculate Digit Sum of a String][2243]                                               |![py]
+[2244][2244l]|[Minimum Rounds to Complete All Tasks][2244]                                          |![py]
 [2248][2248l]|[Intersection of Multiple Arrays][2248]                                               |![py]
 [2255][2255l]|[Count Prefixes of a Given String][2255]                                              |![rs]
 [2259][2259l]|[Remove Digit From Number to Maximize Result][2259]                                   |![py]
@@ -1856,6 +1857,7 @@
 [2236]:./Easy/2236-Root%20Equals%20Sum%20of%20Children/README.md#2236-root-equals-sum-of-children
 [2239]:./Easy/2239-Find%20Closest%20Number%20to%20Zero/README.md#2239-find-closest-number-to-zero
 [2243]:./Easy/2243-Calculate%20Digit%20Sum%20of%20a%20String/README.md#2243-calculate-digit-sum-of-a-string
+[2244]:./Medium/2244-Minimum%20Rounds%20to%20Complete%20All%20Tasks/README.md#2244-minimum-rounds-to-complete-all-tasks
 [2248]:./Easy/2248-Intersection%20of%20Multiple%20Arrays/README.md#2248-intersection-of-multiple-arrays
 [2255]:./Easy/2255-Count%20Prefixes%20of%20a%20Given%20String/README.md#2255-count-prefixes-of-a-given-string
 [2259]:./Easy/2259-Remove%20Digit%20From%20Number%20to%20Maximize%20Result/README.md#2259-remove-digit-from-number-to-maximize-result
@@ -2801,6 +2803,7 @@
 [2236l]:https://leetcode.com/problems/root-equals-sum-of-children/
 [2239l]:https://leetcode.com/problems/find-closest-number-to-zero/
 [2243l]:https://leetcode.com/problems/calculate-digit-sum-of-a-string/
+[2244l]:https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
 [2248l]:https://leetcode.com/problems/intersection-of-multiple-arrays/
 [2255l]:https://leetcode.com/problems/count-prefixes-of-a-given-string/
 [2259l]:https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
