@@ -406,6 +406,7 @@
 [822][822l]  |[Card Flipping Game][822]                                                             |![rs]
 [824][824l]  |[Goat Latin][824]                                                                     |![py]
 [826][826l]  |[Most Profit Assigning Work][826]                                                     |![rs]
+[829][829l]  |[Consecutive Numbers Sum][829]                                                        |![py]
 [830][830l]  |[Positions of Large Groups][830]                                                      |![rs]
 [831][831l]  |[Masking Personal Information][831]                                                   |![rb]
 [832][832l]  |[Flipping an Image][832]                                                              |![py]
@@ -1347,6 +1348,7 @@
 [822]:./Medium/0822-Card%20Flipping%20Game/README.md#822-card-flipping-game
 [824]:./Easy/0824-Goat%20Latin/README.md#824-goat-latin
 [826]:./Medium/0826-Most%20Profit%20Assigning%20Work/README.md#826-most-profit-assigning-work
+[829]:./Hard/0829-Consecutive%20Numbers%20Sum/README.md#829-consecutive-numbers-sum
 [830]:./Easy/0830-Positions%20of%20Large%20Groups/README.md#830-positions-of-large-groups
 [831]:./Medium/0831-Masking%20Personal%20Information/README.md#831-masking-personal-information
 [832]:./Easy/0832-Flipping%20an%20Image/README.md#832-flipping-an-image
@@ -2293,6 +2295,7 @@
 [822l]:https://leetcode.com/problems/card-flipping-game/
 [824l]:https://leetcode.com/problems/goat-latin/
 [826l]:https://leetcode.com/problems/most-profit-assigning-work/
+[829l]:https://leetcode.com/problems/consecutive-numbers-sum/
 [830l]:https://leetcode.com/problems/positions-of-large-groups/
 [831l]:https://leetcode.com/problems/masking-personal-information/
 [832l]:https://leetcode.com/problems/flipping-an-image/
