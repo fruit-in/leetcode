@@ -936,6 +936,7 @@
 [2317][2317l]|[Maximum XOR After Operations][2317]                                                  |![rs]
 [2319][2319l]|[Check if Matrix Is X-Matrix][2319]                                                   |![py]
 [2325][2325l]|[Decode the Message][2325]                                                            |![py]
+[2331][2331l]|[Evaluate Boolean Binary Tree][2331]                                                  |![py]
 
 
 [py]:./ico/python.ico
@@ -1878,6 +1879,7 @@
 [2317]:./Medium/2317-Maximum%20XOR%20After%20Operations/README.md#2317-maximum-xor-after-operations
 [2319]:./Easy/2319-Check%20if%20Matrix%20Is%20X-Matrix/README.md#2319-check-if-matrix-is-x-matrix
 [2325]:./Easy/2325-Decode%20the%20Message/README.md#2325-decode-the-message
+[2331]:./Easy/2331-Evaluate%20Boolean%20Binary%20Tree/README.md#2331-evaluate-boolean-binary-tree
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -2825,3 +2827,4 @@
 [2317l]:https://leetcode.com/problems/maximum-xor-after-operations/
 [2319l]:https://leetcode.com/problems/check-if-matrix-is-x-matrix/
 [2325l]:https://leetcode.com/problems/decode-the-message/
+[2331l]:https://leetcode.com/problems/evaluate-boolean-binary-tree/

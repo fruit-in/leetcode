@@ -936,6 +936,7 @@
 [2317][2317l]|[操作后的最大异或和][2317]                                |![rs]
 [2319][2319l]|[判断矩阵是否是一个 X 矩阵][2319]                         |![py]
 [2325][2325l]|[解密消息][2325]                                          |![py]
+[2331][2331l]|[计算布尔二叉树的值][2331]                                |![py]
 
 
 [py]:./ico/python.ico
@@ -1878,6 +1879,7 @@
 [2317]:./Medium/2317-Maximum%20XOR%20After%20Operations/README_CN.md#2317-操作后的最大异或和
 [2319]:./Easy/2319-Check%20if%20Matrix%20Is%20X-Matrix/README_CN.md#2319-判断矩阵是否是一个-x-矩阵
 [2325]:./Easy/2325-Decode%20the%20Message/README_CN.md#2325-解密消息
+[2331]:./Easy/2331-Evaluate%20Boolean%20Binary%20Tree/README_CN.md#2331-计算布尔二叉树的值
 
 [1l]:https://leetcode.cn/problems/two-sum/
 [2l]:https://leetcode.cn/problems/add-two-numbers/
@@ -2825,3 +2827,4 @@
 [2317l]:https://leetcode.cn/problems/maximum-xor-after-operations/
 [2319l]:https://leetcode.cn/problems/check-if-matrix-is-x-matrix/
 [2325l]:https://leetcode.cn/problems/decode-the-message/
+[2331l]:https://leetcode.cn/problems/evaluate-boolean-binary-tree/
