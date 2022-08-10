@@ -774,6 +774,7 @@
 [1695][1695l]|[删除子数组的最大得分][1695]                              |![rb]&nbsp;&nbsp;![rs]
 [1700][1700l]|[无法吃午餐的学生数量][1700]                              |![rb]&nbsp;&nbsp;![rs]
 [1701][1701l]|[平均等待时间][1701]                                      |![rb]&nbsp;&nbsp;![rs]
+[1702][1702l]|[修改后的最大二进制字符串][1702]                          |![rs]
 [1704][1704l]|[判断字符串的两半是否相似][1704]                          |![rb]&nbsp;&nbsp;![rs]
 [1705][1705l]|[吃苹果的最大数目][1705]                                  |![rs]
 [1710][1710l]|[卡车上的最大单元数][1710]                                |![rs]
@@ -1717,6 +1718,7 @@
 [1695]:./Medium/1695-Maximum%20Erasure%20Value/README_CN.md#1695-删除子数组的最大得分
 [1700]:./Easy/1700-Number%20of%20Students%20Unable%20to%20Eat%20Lunch/README_CN.md#1700-无法吃午餐的学生数量
 [1701]:./Medium/1701-Average%20Waiting%20Time/README_CN.md#1701-平均等待时间
+[1702]:./Medium/1702-Maximum%20Binary%20String%20After%20Change/README_CN.md#1702-修改后的最大二进制字符串
 [1704]:./Easy/1704-Determine%20if%20String%20Halves%20Are%20Alike/README_CN.md#1704-判断字符串的两半是否相似
 [1705]:./Medium/1705-Maximum%20Number%20of%20Eaten%20Apples/README_CN.md#1705-吃苹果的最大数目
 [1710]:./Easy/1710-Maximum%20Units%20on%20a%20Truck/README_CN.md#1710-卡车上的最大单元数
@@ -2665,6 +2667,7 @@
 [1695l]:https://leetcode.cn/problems/maximum-erasure-value/
 [1700l]:https://leetcode.cn/problems/number-of-students-unable-to-eat-lunch/
 [1701l]:https://leetcode.cn/problems/average-waiting-time/
+[1702l]:https://leetcode.cn/problems/maximum-binary-string-after-change/
 [1704l]:https://leetcode.cn/problems/determine-if-string-halves-are-alike/
 [1705l]:https://leetcode.cn/problems/maximum-number-of-eaten-apples/
 [1710l]:https://leetcode.cn/problems/maximum-units-on-a-truck/
