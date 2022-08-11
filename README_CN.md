@@ -597,6 +597,7 @@
 [1282][1282l]|[用户分组][1282]                                          |![rs]
 [1286][1286l]|[字母组合迭代器][1286]                                    |![rs]
 [1287][1287l]|[有序数组中出现次数超过25%的元素][1287]                   |![rs]
+[1288][1288l]|[删除被覆盖区间][1288]                                    |![rs]
 [1290][1290l]|[二进制链表转整数][1290]                                  |![py]
 [1291][1291l]|[顺次数][1291]                                            |![rb]&nbsp;&nbsp;![rs]
 [1295][1295l]|[统计位数为偶数的数字][1295]                              |![py]
@@ -1541,6 +1542,7 @@
 [1282]:./Medium/1282-Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To/README_CN.md#1282-用户分组
 [1286]:./Medium/1286-Iterator%20for%20Combination/README_CN.md#1286-字母组合迭代器
 [1287]:./Easy/1287-Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array/README_CN.md#1287-有序数组中出现次数超过25的元素
+[1288]:./Medium/1288-Remove%20Covered%20Intervals/README_CN.md#1288-删除被覆盖区间
 [1290]:./Easy/1290-Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/README_CN.md#1290-二进制链表转整数
 [1291]:./Medium/1291-Sequential%20Digits/README_CN.md#1291-顺次数
 [1295]:./Easy/1295-Find%20Numbers%20with%20Even%20Number%20of%20Digits/README_CN.md#1295-统计位数为偶数的数字
@@ -2490,6 +2492,7 @@
 [1282l]:https://leetcode.cn/problems/group-the-people-given-the-group-size-they-belong-to/
 [1286l]:https://leetcode.cn/problems/iterator-for-combination/
 [1287l]:https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array/
+[1288l]:https://leetcode.cn/problems/remove-covered-intervals/
 [1290l]:https://leetcode.cn/problems/convert-binary-number-in-a-linked-list-to-integer/
 [1291l]:https://leetcode.cn/problems/sequential-digits/
 [1295l]:https://leetcode.cn/problems/find-numbers-with-even-number-of-digits/
