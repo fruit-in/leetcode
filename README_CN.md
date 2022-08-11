@@ -462,6 +462,7 @@
 [922][922l]  |[按奇偶排序数组 II][922]                                  |![py]
 [925][925l]  |[长按键入][925]                                           |![py]
 [929][929l]  |[独特的电子邮件地址][929]                                 |![py]&nbsp;&nbsp;![rb]
+[930][930l]  |[和相同的二元子数组][930]                                 |![rs]
 [931][931l]  |[下降路径最小和][931]                                     |![rs]
 [933][933l]  |[最近的请求次数][933]                                     |![rs]
 [935][935l]  |[骑士拨号器][935]                                         |![rb]&nbsp;&nbsp;![rs]
@@ -1407,6 +1408,7 @@
 [922]:./Easy/0922-Sort%20Array%20By%20Parity%20II/README_CN.md#922-按奇偶排序数组-ii
 [925]:./Easy/0925-Long%20Pressed%20Name/README_CN.md#925-长按键入
 [929]:./Easy/0929-Unique%20Email%20Addresses/README_CN.md#929-独特的电子邮件地址
+[930]:./Medium/0930-Binary%20Subarrays%20With%20Sum/README_CN.md#930-和相同的二元子数组
 [931]:./Medium/0931-Minimum%20Falling%20Path%20Sum/README_CN.md#931-下降路径最小和
 [933]:./Easy/0933-Number%20of%20Recent%20Calls/README_CN.md#933-最近的请求次数
 [935]:./Medium/0935-Knight%20Dialer/README_CN.md#935-骑士拨号器
@@ -2357,6 +2359,7 @@
 [922l]:https://leetcode.cn/problems/sort-array-by-parity-ii/
 [925l]:https://leetcode.cn/problems/long-pressed-name/
 [929l]:https://leetcode.cn/problems/unique-email-addresses/
+[930l]:https://leetcode.cn/problems/binary-subarrays-with-sum/
 [931l]:https://leetcode.cn/problems/minimum-falling-path-sum/
 [933l]:https://leetcode.cn/problems/number-of-recent-calls/
 [935l]:https://leetcode.cn/problems/knight-dialer/

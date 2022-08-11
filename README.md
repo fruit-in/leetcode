@@ -462,6 +462,7 @@
 [922][922l]  |[Sort Array By Parity II][922]                                                        |![py]
 [925][925l]  |[Long Pressed Name][925]                                                              |![py]
 [929][929l]  |[Unique Email Addresses][929]                                                         |![py]&nbsp;&nbsp;![rb]
+[930][930l]  |[Binary Subarrays With Sum][930]                                                      |![rs]
 [931][931l]  |[Minimum Falling Path Sum][931]                                                       |![rs]
 [933][933l]  |[Number of Recent Calls][933]                                                         |![rs]
 [935][935l]  |[Knight Dialer][935]                                                                  |![rb]&nbsp;&nbsp;![rs]
@@ -1408,6 +1409,7 @@
 [922]:./Easy/0922-Sort%20Array%20By%20Parity%20II/README.md#922-sort-array-by-parity-ii
 [925]:./Easy/0925-Long%20Pressed%20Name/README.md#925-long-pressed-name
 [929]:./Easy/0929-Unique%20Email%20Addresses/README.md#929-unique-email-addresses
+[930]:./Medium/0930-Binary%20Subarrays%20With%20Sum/README.md#930-binary-subarrays-with-sum
 [931]:./Medium/0931-Minimum%20Falling%20Path%20Sum/README.md#931-minimum-falling-path-sum
 [933]:./Easy/0933-Number%20of%20Recent%20Calls/README.md#933-number-of-recent-calls
 [935]:./Medium/0935-Knight%20Dialer/README.md#935-knight-dialer
@@ -2359,6 +2361,7 @@
 [922l]:https://leetcode.com/problems/sort-array-by-parity-ii/
 [925l]:https://leetcode.com/problems/long-pressed-name/
 [929l]:https://leetcode.com/problems/unique-email-addresses/
+[930l]:https://leetcode.com/problems/binary-subarrays-with-sum/
 [931l]:https://leetcode.com/problems/minimum-falling-path-sum/
 [933l]:https://leetcode.com/problems/number-of-recent-calls/
 [935l]:https://leetcode.com/problems/knight-dialer/
