@@ -857,6 +857,7 @@
 [1968][1968l]|[构造元素不等于两相邻元素平均值的数组][1968]              |![rs]
 [1971][1971l]|[寻找图中是否存在路径][1971]                              |![py]
 [1974][1974l]|[使用特殊打字机键入单词的最少时间][1974]                  |![rs]
+[1975][1975l]|[最大方阵和][1975]                                        |![rs]
 [1979][1979l]|[找出数组的最大公约数][1979]                              |![py]&nbsp;&nbsp;![rb]
 [1984][1984l]|[学生分数的最小差值][1984]                                |![rs]
 [1991][1991l]|[找到数组的中间位置][1991]                                |![py]
@@ -1806,6 +1807,7 @@
 [1968]:./Medium/1968-Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors/README_CN.md#1968-构造元素不等于两相邻元素平均值的数组
 [1971]:./Easy/1971-Find%20if%20Path%20Exists%20in%20Graph/README_CN.md#1971-寻找图中是否存在路径
 [1974]:./Easy/1974-Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/README_CN.md#1974-使用特殊打字机键入单词的最少时间
+[1975]:./Medium/1975-Maximum%20Matrix%20Sum/README_CN.md#1975-最大方阵和
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README_CN.md#1979-找出数组的最大公约数
 [1984]:./Easy/1984-Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/README_CN.md#1984-学生分数的最小差值
 [1991]:./Easy/1991-Find%20the%20Middle%20Index%20in%20Array/README_CN.md#1991-找到数组的中间位置
@@ -2760,6 +2762,7 @@
 [1968l]:https://leetcode.cn/problems/array-with-elements-not-equal-to-average-of-neighbors/
 [1971l]:https://leetcode.cn/problems/find-if-path-exists-in-graph/
 [1974l]:https://leetcode.cn/problems/minimum-time-to-type-word-using-special-typewriter/
+[1975l]:https://leetcode.cn/problems/maximum-matrix-sum/
 [1979l]:https://leetcode.cn/problems/find-greatest-common-divisor-of-array/
 [1984l]:https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 [1991l]:https://leetcode.cn/problems/find-the-middle-index-in-array/

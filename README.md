@@ -857,6 +857,7 @@
 [1968][1968l]|[Array With Elements Not Equal to Average of Neighbors][1968]                         |![rs]
 [1971][1971l]|[Find if Path Exists in Graph][1971]                                                  |![py]
 [1974][1974l]|[Minimum Time to Type Word Using Special Typewriter][1974]                            |![rs]
+[1975][1975l]|[Maximum Matrix Sum][1975]                                                            |![rs]
 [1979][1979l]|[Find Greatest Common Divisor of Array][1979]                                         |![py]&nbsp;&nbsp;![rb]
 [1984][1984l]|[Minimum Difference Between Highest and Lowest of K Scores][1984]                     |![rs]
 [1991][1991l]|[Find the Middle Index in Array][1991]                                                |![py]
@@ -1807,6 +1808,7 @@
 [1968]:./Medium/1968-Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors/README.md#1968-array-with-elements-not-equal-to-average-of-neighbors
 [1971]:./Easy/1971-Find%20if%20Path%20Exists%20in%20Graph/README.md#1971-find-if-path-exists-in-graph
 [1974]:./Easy/1974-Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/README.md#1974-minimum-time-to-type-word-using-special-typewriter
+[1975]:./Medium/1975-Maximum%20Matrix%20Sum/README.md#1975-maximum-matrix-sum
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README.md#1979-find-greatest-common-divisor-of-array
 [1984]:./Easy/1984-Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/README.md#1984-minimum-difference-between-highest-and-lowest-of-k-scores
 [1991]:./Easy/1991-Find%20the%20Middle%20Index%20in%20Array/README.md#1991-find-the-middle-index-in-array
@@ -2762,6 +2764,7 @@
 [1968l]:https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 [1971l]:https://leetcode.com/problems/find-if-path-exists-in-graph/
 [1974l]:https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
+[1975l]:https://leetcode.com/problems/maximum-matrix-sum/
 [1979l]:https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 [1984l]:https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 [1991l]:https://leetcode.com/problems/find-the-middle-index-in-array/
