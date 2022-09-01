@@ -744,6 +744,7 @@
 [1588][1588l]|[所有奇数长度子数组的和][1588]                            |![rs]
 [1590][1590l]|[使数组和能被 P 整除][1590]                               |![rs]
 [1592][1592l]|[重新排列单词间的空格][1592]                              |![py]
+[1594][1594l]|[矩阵的最大非负积][1594]                                  |![rs]
 [1598][1598l]|[文件夹操作日志搜集器][1598]                              |![rb]
 [1603][1603l]|[设计停车系统][1603]                                      |![rs]
 [1608][1608l]|[特殊数组的特征值][1608]                                  |![rs]
@@ -1695,6 +1696,7 @@
 [1588]:./Easy/1588-Sum%20of%20All%20Odd%20Length%20Subarrays/README_CN.md#1588-所有奇数长度子数组的和
 [1590]:./Medium/1590-Make%20Sum%20Divisible%20by%20P/README_CN.md#1590-使数组和能被-p-整除
 [1592]:./Easy/1592-Rearrange%20Spaces%20Between%20Words/README_CN.md#1592-重新排列单词间的空格
+[1594]:./Medium/1594-Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/README_CN.md#1594-矩阵的最大非负积
 [1598]:./Easy/1598-Crawler%20Log%20Folder/README_CN.md#1598-文件夹操作日志搜集器
 [1603]:./Easy/1603-Design%20Parking%20System/README_CN.md#1603-设计停车系统
 [1608]:./Easy/1608-Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/README_CN.md#1608-特殊数组的特征值
@@ -2651,6 +2653,7 @@
 [1588l]:https://leetcode.cn/problems/sum-of-all-odd-length-subarrays/
 [1590l]:https://leetcode.cn/problems/make-sum-divisible-by-p/
 [1592l]:https://leetcode.cn/problems/rearrange-spaces-between-words/
+[1594l]:https://leetcode.cn/problems/maximum-non-negative-product-in-a-matrix/
 [1598l]:https://leetcode.cn/problems/crawler-log-folder/
 [1603l]:https://leetcode.cn/problems/design-parking-system/
 [1608l]:https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x/

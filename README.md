@@ -744,6 +744,7 @@
 [1588][1588l]|[Sum of All Odd Length Subarrays][1588]                                               |![rs]
 [1590][1590l]|[Make Sum Divisible by P][1590]                                                       |![rs]
 [1592][1592l]|[Rearrange Spaces Between Words][1592]                                                |![py]
+[1594][1594l]|[Maximum Non Negative Product in a Matrix][1594]                                      |![rs]
 [1598][1598l]|[Crawler Log Folder][1598]                                                            |![rb]
 [1603][1603l]|[Design Parking System][1603]                                                         |![rs]
 [1608][1608l]|[Special Array With X Elements Greater Than or Equal X][1608]                         |![rs]
@@ -1696,6 +1697,7 @@
 [1588]:./Easy/1588-Sum%20of%20All%20Odd%20Length%20Subarrays/README.md#1588-sum-of-all-odd-length-subarrays
 [1590]:./Medium/1590-Make%20Sum%20Divisible%20by%20P/README.md#1590-make-sum-divisible-by-p
 [1592]:./Easy/1592-Rearrange%20Spaces%20Between%20Words/README.md#1592-rearrange-spaces-between-words
+[1594]:./Medium/1594-Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/README.md#1594-maximum-non-negative-product-in-a-matrix
 [1598]:./Easy/1598-Crawler%20Log%20Folder/README.md#1598-crawler-log-folder
 [1603]:./Easy/1603-Design%20Parking%20System/README.md#1603-design-parking-system
 [1608]:./Easy/1608-Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/README.md#1608-special-array-with-x-elements-greater-than-or-equal-x
@@ -2653,6 +2655,7 @@
 [1588l]:https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
 [1590l]:https://leetcode.com/problems/make-sum-divisible-by-p/
 [1592l]:https://leetcode.com/problems/rearrange-spaces-between-words/
+[1594l]:https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
 [1598l]:https://leetcode.com/problems/crawler-log-folder/
 [1603l]:https://leetcode.com/problems/design-parking-system/
 [1608l]:https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
