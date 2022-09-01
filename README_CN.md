@@ -431,6 +431,7 @@
 [869][869l]  |[重新排序得到 2 的幂][869]                                |![rs]
 [870][870l]  |[优势洗牌][870]                                           |![rb]&nbsp;&nbsp;![rs]
 [872][872l]  |[叶子相似的树][872]                                       |![py]
+[873][873l]  |[最长的斐波那契子序列的长度][873]                         |![rs]
 [874][874l]  |[模拟行走机器人][874]                                     |![rs]
 [875][875l]  |[爱吃香蕉的珂珂][875]                                     |![rb]&nbsp;&nbsp;![rs]
 [876][876l]  |[链表的中间结点][876]                                     |![py]
@@ -1383,6 +1384,7 @@
 [869]:./Medium/0869-Reordered%20Power%20of%202/README_CN.md#869-重新排序得到-2-的幂
 [870]:./Medium/0870-Advantage%20Shuffle/README_CN.md#870-优势洗牌
 [872]:./Easy/0872-Leaf-Similar%20Trees/README_CN.md#872-叶子相似的树
+[873]:./Medium/0873-Length%20of%20Longest%20Fibonacci%20Subsequence/README_CN.md#873-最长的斐波那契子序列的长度
 [874]:./Easy/0874-Walking%20Robot%20Simulation/README_CN.md#874-模拟行走机器人
 [875]:./Medium/0875-Koko%20Eating%20Bananas/README_CN.md#875-爱吃香蕉的珂珂
 [876]:./Easy/0876-Middle%20of%20the%20Linked%20List/README_CN.md#876-链表的中间结点
@@ -2340,6 +2342,7 @@
 [869l]:https://leetcode.cn/problems/reordered-power-of-2/
 [870l]:https://leetcode.cn/problems/advantage-shuffle/
 [872l]:https://leetcode.cn/problems/leaf-similar-trees/
+[873l]:https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/
 [874l]:https://leetcode.cn/problems/walking-robot-simulation/
 [875l]:https://leetcode.cn/problems/koko-eating-bananas/
 [876l]:https://leetcode.cn/problems/middle-of-the-linked-list/
