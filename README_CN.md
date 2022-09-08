@@ -267,6 +267,7 @@
 [498][498l]  |[对角线遍历][498]                                         |![rs]
 [500][500l]  |[键盘行][500]                                             |![py]
 [501][501l]  |[二叉搜索树中的众数][501]                                 |![py]
+[503][503l]  |[下一个更大元素 II][503]                                  |![rs]
 [504][504l]  |[七进制数][504]                                           |![py]
 [506][506l]  |[相对名次][506]                                           |![rs]
 [507][507l]  |[完美数][507]                                             |![rb]&nbsp;&nbsp;![rs]
@@ -1220,6 +1221,7 @@
 [498]:./Medium/0498-Diagonal%20Traverse/README_CN.md#498-对角线遍历
 [500]:./Easy/0500-Keyboard%20Row/README_CN.md#500-键盘行
 [501]:./Easy/0501-Find%20Mode%20in%20Binary%20Search%20Tree/README_CN.md#501-二叉搜索树中的众数
+[503]:./Medium/0503-Next%20Greater%20Element%20II/README_CN.md#503-下一个更大元素-ii
 [504]:./Easy/0504-Base%207/README_CN.md#504-七进制数
 [506]:./Easy/0506-Relative%20Ranks/README_CN.md#506-相对名次
 [507]:./Easy/0507-Perfect%20Number/README_CN.md#507-完美数
@@ -2175,6 +2177,7 @@
 [498l]:https://leetcode.cn/problems/diagonal-traverse/
 [500l]:https://leetcode.cn/problems/keyboard-row/
 [501l]:https://leetcode.cn/problems/find-mode-in-binary-search-tree/
+[503l]:https://leetcode.cn/problems/next-greater-element-ii/
 [504l]:https://leetcode.cn/problems/base-7/
 [506l]:https://leetcode.cn/problems/relative-ranks/
 [507l]:https://leetcode.cn/problems/perfect-number/
