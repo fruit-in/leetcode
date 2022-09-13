@@ -754,6 +754,7 @@
 [1609][1609l]|[Even Odd Tree][1609]                                                                 |![py]&nbsp;&nbsp;![rb]
 [1614][1614l]|[Maximum Nesting Depth of the Parentheses][1614]                                      |![rb]&nbsp;&nbsp;![rs]
 [1619][1619l]|[Mean of Array After Removing Some Elements][1619]                                    |![rb]&nbsp;&nbsp;![rs]
+[1621][1621l]|[Number of Sets of K Non-Overlapping Line Segments][1621]                             |![py]
 [1624][1624l]|[Largest Substring Between Two Equal Characters][1624]                                |![rb]&nbsp;&nbsp;![rs]
 [1629][1629l]|[Slowest Key][1629]                                                                   |![rb]&nbsp;&nbsp;![rs]
 [1630][1630l]|[Arithmetic Subarrays][1630]                                                          |![rb]&nbsp;&nbsp;![rs]
@@ -1712,6 +1713,7 @@
 [1609]:./Medium/1609-Even%20Odd%20Tree/README.md#1609-even-odd-tree
 [1614]:./Easy/1614-Maximum%20Nesting%20Depth%20of%20the%20Parentheses/README.md#1614-maximum-nesting-depth-of-the-parentheses
 [1619]:./Easy/1619-Mean%20of%20Array%20After%20Removing%20Some%20Elements/README.md#1619-mean-of-array-after-removing-some-elements
+[1621]:./Medium/1621-Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments/README.md#1621-number-of-sets-of-k-non-overlapping-line-segments
 [1624]:./Easy/1624-Largest%20Substring%20Between%20Two%20Equal%20Characters/README.md#1624-largest-substring-between-two-equal-characters
 [1629]:./Easy/1629-Slowest%20Key/README.md#1629-slowest-key
 [1630]:./Medium/1630-Arithmetic%20Subarrays/README.md#1630-arithmetic-subarrays
@@ -2675,6 +2677,7 @@
 [1609l]:https://leetcode.com/problems/even-odd-tree/
 [1614l]:https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 [1619l]:https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
+[1621l]:https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/
 [1624l]:https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 [1629l]:https://leetcode.com/problems/slowest-key/
 [1630l]:https://leetcode.com/problems/arithmetic-subarrays/
