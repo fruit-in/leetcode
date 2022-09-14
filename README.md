@@ -860,6 +860,7 @@
 [1952][1952l]|[Three Divisors][1952]                                                                |![rs]
 [1957][1957l]|[Delete Characters to Make Fancy String][1957]                                        |![py]
 [1961][1961l]|[Check If String Is a Prefix of Array][1961]                                          |![py]
+[1962][1962l]|[Remove Stones to Minimize the Total][1962]                                           |![rs]
 [1967][1967l]|[Number of Strings That Appear as Substrings in Word][1967]                           |![py]
 [1968][1968l]|[Array With Elements Not Equal to Average of Neighbors][1968]                         |![rs]
 [1971][1971l]|[Find if Path Exists in Graph][1971]                                                  |![py]
@@ -1821,6 +1822,7 @@
 [1952]:./Easy/1952-Three%20Divisors/README.md#1952-three-divisors
 [1957]:./Easy/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README.md#1957-delete-characters-to-make-fancy-string
 [1961]:./Easy/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README.md#1961-check-if-string-is-a-prefix-of-array
+[1962]:./Medium/1962-Remove%20Stones%20to%20Minimize%20the%20Total/README.md#1962-remove-stones-to-minimize-the-total
 [1967]:./Easy/1967-Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/README.md#1967-number-of-strings-that-appear-as-substrings-in-word
 [1968]:./Medium/1968-Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors/README.md#1968-array-with-elements-not-equal-to-average-of-neighbors
 [1971]:./Easy/1971-Find%20if%20Path%20Exists%20in%20Graph/README.md#1971-find-if-path-exists-in-graph
@@ -2787,6 +2789,7 @@
 [1952l]:https://leetcode.com/problems/three-divisors/
 [1957l]:https://leetcode.com/problems/delete-characters-to-make-fancy-string/
 [1961l]:https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
+[1962l]:https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 [1967l]:https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 [1968l]:https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 [1971l]:https://leetcode.com/problems/find-if-path-exists-in-graph/
