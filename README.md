@@ -867,6 +867,7 @@
 [1974][1974l]|[Minimum Time to Type Word Using Special Typewriter][1974]                            |![rs]
 [1975][1975l]|[Maximum Matrix Sum][1975]                                                            |![rs]
 [1979][1979l]|[Find Greatest Common Divisor of Array][1979]                                         |![py]&nbsp;&nbsp;![rb]
+[1980][1980l]|[Find Unique Binary String][1980]                                                     |![py]
 [1984][1984l]|[Minimum Difference Between Highest and Lowest of K Scores][1984]                     |![rs]
 [1991][1991l]|[Find the Middle Index in Array][1991]                                                |![py]
 [1995][1995l]|[Count Special Quadruplets][1995]                                                     |![py]
@@ -1829,6 +1830,7 @@
 [1974]:./Easy/1974-Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/README.md#1974-minimum-time-to-type-word-using-special-typewriter
 [1975]:./Medium/1975-Maximum%20Matrix%20Sum/README.md#1975-maximum-matrix-sum
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README.md#1979-find-greatest-common-divisor-of-array
+[1980]:./Medium/1980-Find%20Unique%20Binary%20String/README.md#1980-find-unique-binary-string
 [1984]:./Easy/1984-Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/README.md#1984-minimum-difference-between-highest-and-lowest-of-k-scores
 [1991]:./Easy/1991-Find%20the%20Middle%20Index%20in%20Array/README.md#1991-find-the-middle-index-in-array
 [1995]:./Easy/1995-Count%20Special%20Quadruplets/README.md#1995-count-special-quadruplets
@@ -2796,6 +2798,7 @@
 [1974l]:https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
 [1975l]:https://leetcode.com/problems/maximum-matrix-sum/
 [1979l]:https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+[1980l]:https://leetcode.com/problems/find-unique-binary-string/
 [1984l]:https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 [1991l]:https://leetcode.com/problems/find-the-middle-index-in-array/
 [1995l]:https://leetcode.com/problems/count-special-quadruplets/
