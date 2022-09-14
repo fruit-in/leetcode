@@ -853,6 +853,7 @@
 [1920][1920l]|[基于排列构建数组][1920]                                  |![rs]
 [1925][1925l]|[统计平方和三元组的数目][1925]                            |![py]
 [1929][1929l]|[数组串联][1929]                                          |![py]&nbsp;&nbsp;![rs]
+[1930][1930l]|[长度为 3 的不同回文子序列][1930]                         |![rs]
 [1935][1935l]|[可以输入的最大单词数][1935]                              |![py]
 [1941][1941l]|[检查是否所有字符出现次数相同][1941]                      |![rs]
 [1945][1945l]|[字符串转化后的各位数字之和][1945]                        |![py]
@@ -1813,6 +1814,7 @@
 [1920]:./Easy/1920-Build%20Array%20from%20Permutation/README_CN.md#1920-基于排列构建数组
 [1925]:./Easy/1925-Count%20Square%20Sum%20Triples/README_CN.md#1925-统计平方和三元组的数目
 [1929]:./Easy/1929-Concatenation%20of%20Array/README_CN.md#1929-数组串联
+[1930]:./Medium/1930-Unique%20Length-3%20Palindromic%20Subsequences/README_CN.md#1930-长度为-3-的不同回文子序列
 [1935]:./Easy/1935-Maximum%20Number%20of%20Words%20You%20Can%20Type/README_CN.md#1935-可以输入的最大单词数
 [1941]:./Easy/1941-Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences/README_CN.md#1941-检查是否所有字符出现次数相同
 [1945]:./Easy/1945-Sum%20of%20Digits%20of%20String%20After%20Convert/README_CN.md#1945-字符串转化后的各位数字之和
@@ -2778,6 +2780,7 @@
 [1920l]:https://leetcode.cn/problems/build-array-from-permutation/
 [1925l]:https://leetcode.cn/problems/count-square-sum-triples/
 [1929l]:https://leetcode.cn/problems/concatenation-of-array/
+[1930l]:https://leetcode.cn/problems/unique-length-3-palindromic-subsequences/
 [1935l]:https://leetcode.cn/problems/maximum-number-of-words-you-can-type/
 [1941l]:https://leetcode.cn/problems/check-if-all-characters-have-equal-number-of-occurrences/
 [1945l]:https://leetcode.cn/problems/sum-of-digits-of-string-after-convert/

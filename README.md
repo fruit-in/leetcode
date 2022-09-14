@@ -853,6 +853,7 @@
 [1920][1920l]|[Build Array from Permutation][1920]                                                  |![rs]
 [1925][1925l]|[Count Square Sum Triples][1925]                                                      |![py]
 [1929][1929l]|[Concatenation of Array][1929]                                                        |![py]&nbsp;&nbsp;![rs]
+[1930][1930l]|[Unique Length-3 Palindromic Subsequences][1930]                                      |![rs]
 [1935][1935l]|[Maximum Number of Words You Can Type][1935]                                          |![py]
 [1941][1941l]|[Check if All Characters Have Equal Number of Occurrences][1941]                      |![rs]
 [1945][1945l]|[Sum of Digits of String After Convert][1945]                                         |![py]
@@ -1813,6 +1814,7 @@
 [1920]:./Easy/1920-Build%20Array%20from%20Permutation/README.md#1920-build-array-from-permutation
 [1925]:./Easy/1925-Count%20Square%20Sum%20Triples/README.md#1925-count-square-sum-triples
 [1929]:./Easy/1929-Concatenation%20of%20Array/README.md#1929-concatenation-of-array
+[1930]:./Medium/1930-Unique%20Length-3%20Palindromic%20Subsequences/README.md#1930-unique-length-3-palindromic-subsequences
 [1935]:./Easy/1935-Maximum%20Number%20of%20Words%20You%20Can%20Type/README.md#1935-maximum-number-of-words-you-can-type
 [1941]:./Easy/1941-Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences/README.md#1941-check-if-all-characters-have-equal-number-of-occurrences
 [1945]:./Easy/1945-Sum%20of%20Digits%20of%20String%20After%20Convert/README.md#1945-sum-of-digits-of-string-after-convert
@@ -2778,6 +2780,7 @@
 [1920l]:https://leetcode.com/problems/build-array-from-permutation/
 [1925l]:https://leetcode.com/problems/count-square-sum-triples/
 [1929l]:https://leetcode.com/problems/concatenation-of-array/
+[1930l]:https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
 [1935l]:https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 [1941l]:https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 [1945l]:https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
