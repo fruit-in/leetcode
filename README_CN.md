@@ -542,6 +542,7 @@
 [1054][1054l]|[距离相等的条形码][1054]                                  |![rs]
 [1071][1071l]|[字符串的最大公因子][1071]                                |![py]
 [1078][1078l]|[Bigram 分词][1078]                                       |![py]
+[1081][1081l]|[不同字符的最小子序列][1081]                              |![rs]
 [1089][1089l]|[复写零][1089]                                            |![rs]
 [1090][1090l]|[受标签影响的最大值][1090]                                |![rb]
 [1091][1091l]|[二进制矩阵中的最短路径][1091]                            |![rs]
@@ -1506,6 +1507,7 @@
 [1054]:./Medium/1054-Distant%20Barcodes/README_CN.md#1054-距离相等的条形码
 [1071]:./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings/README_CN.md#1071-字符串的最大公因子
 [1078]:./Easy/1078-Occurrences%20After%20Bigram/README_CN.md#1078-bigram-分词
+[1081]:./Medium/1081-Smallest%20Subsequence%20of%20Distinct%20Characters/README_CN.md#1081-不同字符的最小子序列
 [1089]:./Easy/1089-Duplicate%20Zeros/README_CN.md#1089-复写零
 [1090]:./Medium/1090-Largest%20Values%20From%20Labels/README_CN.md#1090-受标签影响的最大值
 [1091]:./Medium/1091-Shortest%20Path%20in%20Binary%20Matrix/README_CN.md#1091-二进制矩阵中的最短路径
@@ -2475,6 +2477,7 @@
 [1054l]:https://leetcode.cn/problems/distant-barcodes/
 [1071l]:https://leetcode.cn/problems/greatest-common-divisor-of-strings/
 [1078l]:https://leetcode.cn/problems/occurrences-after-bigram/
+[1081l]:https://leetcode.cn/problems/smallest-subsequence-of-distinct-characters/
 [1089l]:https://leetcode.cn/problems/duplicate-zeros/
 [1090l]:https://leetcode.cn/problems/largest-values-from-labels/
 [1091l]:https://leetcode.cn/problems/shortest-path-in-binary-matrix/

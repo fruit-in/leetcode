@@ -542,6 +542,7 @@
 [1054][1054l]|[Distant Barcodes][1054]                                                              |![rs]
 [1071][1071l]|[Greatest Common Divisor of Strings][1071]                                            |![py]
 [1078][1078l]|[Occurrences After Bigram][1078]                                                      |![py]
+[1081][1081l]|[Smallest Subsequence of Distinct Characters][1081]                                   |![rs]
 [1089][1089l]|[Duplicate Zeros][1089]                                                               |![rs]
 [1090][1090l]|[Largest Values From Labels][1090]                                                    |![rb]
 [1091][1091l]|[Shortest Path in Binary Matrix][1091]                                                |![rs]
@@ -1506,6 +1507,7 @@
 [1054]:./Medium/1054-Distant%20Barcodes/README.md#1054-distant-barcodes
 [1071]:./Easy/1071-Greatest%20Common%20Divisor%20of%20Strings/README.md#1071-greatest-common-divisor-of-strings
 [1078]:./Easy/1078-Occurrences%20After%20Bigram/README.md#1078-occurrences-after-bigram
+[1081]:./Medium/1081-Smallest%20Subsequence%20of%20Distinct%20Characters/README.md#1081-smallest-subsequence-of-distinct-characters
 [1089]:./Easy/1089-Duplicate%20Zeros/README.md#1089-duplicate-zeros
 [1090]:./Medium/1090-Largest%20Values%20From%20Labels/README.md#1090-largest-values-from-labels
 [1091]:./Medium/1091-Shortest%20Path%20in%20Binary%20Matrix/README.md#1091-shortest-path-in-binary-matrix
@@ -2475,6 +2477,7 @@
 [1054l]:https://leetcode.com/problems/distant-barcodes/
 [1071l]:https://leetcode.com/problems/greatest-common-divisor-of-strings/
 [1078l]:https://leetcode.com/problems/occurrences-after-bigram/
+[1081l]:https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
 [1089l]:https://leetcode.com/problems/duplicate-zeros/
 [1090l]:https://leetcode.com/problems/largest-values-from-labels/
 [1091l]:https://leetcode.com/problems/shortest-path-in-binary-matrix/
