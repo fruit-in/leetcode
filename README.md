@@ -887,6 +887,7 @@
 [2032][2032l]|[Two Out of Three][2032]                                                              |![py]
 [2037][2037l]|[Minimum Number of Moves to Seat Everyone][2037]                                      |![rs]
 [2042][2042l]|[Check if Numbers Are Ascending in a Sentence][2042]                                  |![py]
+[2043][2043l]|[Simple Bank System][2043]                                                            |![py]
 [2047][2047l]|[Number of Valid Words in a Sentence][2047]                                           |![py]
 [2053][2053l]|[Kth Distinct String in an Array][2053]                                               |![py]
 [2057][2057l]|[Smallest Index With Equal Value][2057]                                               |![rs]
@@ -1857,6 +1858,7 @@
 [2032]:./Easy/2032-Two%20Out%20of%20Three/README.md#2032-two-out-of-three
 [2037]:./Easy/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README.md#2037-minimum-number-of-moves-to-seat-everyone
 [2042]:./Easy/2042-Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/README.md#2042-check-if-numbers-are-ascending-in-a-sentence
+[2043]:./Medium/2043-Simple%20Bank%20System/README.md#2043-simple-bank-system
 [2047]:./Easy/2047-Number%20of%20Valid%20Words%20in%20a%20Sentence/README.md#2047-number-of-valid-words-in-a-sentence
 [2053]:./Easy/2053-Kth%20Distinct%20String%20in%20an%20Array/README.md#2053-kth-distinct-string-in-an-array
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README.md#2057-smallest-index-with-equal-value
@@ -2832,6 +2834,7 @@
 [2032l]:https://leetcode.com/problems/two-out-of-three/
 [2037l]:https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
 [2042l]:https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
+[2043l]:https://leetcode.com/problems/simple-bank-system/
 [2047l]:https://leetcode.com/problems/number-of-valid-words-in-a-sentence/
 [2053l]:https://leetcode.com/problems/kth-distinct-string-in-an-array/
 [2057l]:https://leetcode.com/problems/smallest-index-with-equal-value/
