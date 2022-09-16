@@ -960,6 +960,7 @@
 [2331][2331l]|[计算布尔二叉树的值][2331]                                |![py]
 [2335][2335l]|[装满杯子需要的最短总时长][2335]                          |![rs]
 [2341][2341l]|[数组能形成多少数对][2341]                                |![rs]
+[2347][2347l]|[最好的扑克手牌][2347]                                    |![py]
 [2351][2351l]|[第一个出现两次的字母][2351]                              |![rs]
 
 
@@ -1927,6 +1928,7 @@
 [2331]:./Easy/2331-Evaluate%20Boolean%20Binary%20Tree/README_CN.md#2331-计算布尔二叉树的值
 [2335]:./Easy/2335-Minimum%20Amount%20of%20Time%20to%20Fill%20Cups/README_CN.md#2335-装满杯子需要的最短总时长
 [2341]:./Easy/2341-Maximum%20Number%20of%20Pairs%20in%20Array/README_CN.md#2341-数组能形成多少数对
+[2347]:./Easy/2347-Best%20Poker%20Hand/README_CN.md#2347-最好的扑克手牌
 [2351]:./Easy/2351-First%20Letter%20to%20Appear%20Twice/README_CN.md#2351-第一个出现两次的字母
 
 [1l]:https://leetcode.cn/problems/two-sum/
@@ -2899,4 +2901,5 @@
 [2331l]:https://leetcode.cn/problems/evaluate-boolean-binary-tree/
 [2335l]:https://leetcode.cn/problems/minimum-amount-of-time-to-fill-cups/
 [2341l]:https://leetcode.cn/problems/maximum-number-of-pairs-in-array/
+[2347l]:https://leetcode.cn/problems/best-poker-hand/
 [2351l]:https://leetcode.cn/problems/first-letter-to-appear-twice/
