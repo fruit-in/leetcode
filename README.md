@@ -461,6 +461,7 @@
 [915][915l]  |[Partition Array into Disjoint Intervals][915]                                        |![rb]&nbsp;&nbsp;![rs]
 [916][916l]  |[Word Subsets][916]                                                                   |![rb]&nbsp;&nbsp;![rs]
 [917][917l]  |[Reverse Only Letters][917]                                                           |![py]
+[919][919l]  |[Complete Binary Tree Inserter][919]                                                  |![py]
 [921][921l]  |[Minimum Add to Make Parentheses Valid][921]                                          |![rs]
 [922][922l]  |[Sort Array By Parity II][922]                                                        |![py]
 [925][925l]  |[Long Pressed Name][925]                                                              |![py]
@@ -1429,6 +1430,7 @@
 [915]:./Medium/0915-Partition%20Array%20into%20Disjoint%20Intervals/README.md#915-partition-array-into-disjoint-intervals
 [916]:./Medium/0916-Word%20Subsets/README.md#916-word-subsets
 [917]:./Easy/0917-Reverse%20Only%20Letters/README.md#917-reverse-only-letters
+[919]:./Medium/0919-Complete%20Binary%20Tree%20Inserter/README.md#919-complete-binary-tree-inserter
 [921]:./Medium/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid/README.md#921-minimum-add-to-make-parentheses-valid
 [922]:./Easy/0922-Sort%20Array%20By%20Parity%20II/README.md#922-sort-array-by-parity-ii
 [925]:./Easy/0925-Long%20Pressed%20Name/README.md#925-long-pressed-name
@@ -2402,6 +2404,7 @@
 [915l]:https://leetcode.com/problems/partition-array-into-disjoint-intervals/
 [916l]:https://leetcode.com/problems/word-subsets/
 [917l]:https://leetcode.com/problems/reverse-only-letters/
+[919l]:https://leetcode.com/problems/complete-binary-tree-inserter/
 [921l]:https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 [922l]:https://leetcode.com/problems/sort-array-by-parity-ii/
 [925l]:https://leetcode.com/problems/long-pressed-name/

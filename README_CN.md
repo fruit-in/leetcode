@@ -461,6 +461,7 @@
 [915][915l]  |[分割数组][915]                                           |![rb]&nbsp;&nbsp;![rs]
 [916][916l]  |[单词子集][916]                                           |![rb]&nbsp;&nbsp;![rs]
 [917][917l]  |[仅仅反转字母][917]                                       |![py]
+[919][919l]  |[完全二叉树插入器][919]                                   |![py]
 [921][921l]  |[使括号有效的最少添加][921]                               |![rs]
 [922][922l]  |[按奇偶排序数组 II][922]                                  |![py]
 [925][925l]  |[长按键入][925]                                           |![py]
@@ -1429,6 +1430,7 @@
 [915]:./Medium/0915-Partition%20Array%20into%20Disjoint%20Intervals/README_CN.md#915-分割数组
 [916]:./Medium/0916-Word%20Subsets/README_CN.md#916-单词子集
 [917]:./Easy/0917-Reverse%20Only%20Letters/README_CN.md#917-仅仅反转字母
+[919]:./Medium/0919-Complete%20Binary%20Tree%20Inserter/README_CN.md#919-完全二叉树插入器
 [921]:./Medium/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid/README_CN.md#921-使括号有效的最少添加
 [922]:./Easy/0922-Sort%20Array%20By%20Parity%20II/README_CN.md#922-按奇偶排序数组-ii
 [925]:./Easy/0925-Long%20Pressed%20Name/README_CN.md#925-长按键入
@@ -2402,6 +2404,7 @@
 [915l]:https://leetcode.cn/problems/partition-array-into-disjoint-intervals/
 [916l]:https://leetcode.cn/problems/word-subsets/
 [917l]:https://leetcode.cn/problems/reverse-only-letters/
+[919l]:https://leetcode.cn/problems/complete-binary-tree-inserter/
 [921l]:https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/
 [922l]:https://leetcode.cn/problems/sort-array-by-parity-ii/
 [925l]:https://leetcode.cn/problems/long-pressed-name/
