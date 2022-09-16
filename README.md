@@ -179,6 +179,7 @@
 [304][304l]  |[Range Sum Query 2D - Immutable][304]                                                 |![rs]
 [306][306l]  |[Additive Number][306]                                                                |![rb]&nbsp;&nbsp;![rs]
 [313][313l]  |[Super Ugly Number][313]                                                              |![rs]
+[316][316l]  |[Remove Duplicate Letters][316]                                                       |![rs]
 [318][318l]  |[Maximum Product of Word Lengths][318]                                                |![py]
 [319][319l]  |[Bulb Switcher][319]                                                                  |![rs]
 [322][322l]  |[Coin Change][322]                                                                    |![rs]
@@ -1142,6 +1143,7 @@
 [304]:./Medium/0304-Range%20Sum%20Query%202D%20-%20Immutable/README.md#304-range-sum-query-2d---immutable
 [306]:./Medium/0306-Additive%20Number/README.md#306-additive-number
 [313]:./Medium/0313-Super%20Ugly%20Number/README.md#313-super-ugly-number
+[316]:./Medium/0316-Remove%20Duplicate%20Letters/README.md#316-remove-duplicate-letters
 [318]:./Medium/0318-Maximum%20Product%20of%20Word%20Lengths/README.md#318-maximum-product-of-word-lengths
 [319]:./Medium/0319-Bulb%20Switcher/README.md#319-bulb-switcher
 [322]:./Medium/0322-Coin%20Change/README.md#322-coin-change
@@ -2104,6 +2106,7 @@
 [304l]:https://leetcode.com/problems/range-sum-query-2d-immutable/
 [306l]:https://leetcode.com/problems/additive-number/
 [313l]:https://leetcode.com/problems/super-ugly-number/
+[316l]:https://leetcode.com/problems/remove-duplicate-letters/
 [318l]:https://leetcode.com/problems/maximum-product-of-word-lengths/
 [319l]:https://leetcode.com/problems/bulb-switcher/
 [322l]:https://leetcode.com/problems/coin-change/

@@ -179,6 +179,7 @@
 [304][304l]  |[二维区域和检索 - 矩阵不可变][304]                        |![rs]
 [306][306l]  |[累加数][306]                                             |![rb]&nbsp;&nbsp;![rs]
 [313][313l]  |[超级丑数][313]                                           |![rs]
+[316][316l]  |[去除重复字母][316]                                       |![rs]
 [318][318l]  |[最大单词长度乘积][318]                                   |![py]
 [319][319l]  |[灯泡开关][319]                                           |![rs]
 [322][322l]  |[零钱兑换][322]                                           |![rs]
@@ -1142,6 +1143,7 @@
 [304]:./Medium/0304-Range%20Sum%20Query%202D%20-%20Immutable/README_CN.md#304-二维区域和检索---矩阵不可变
 [306]:./Medium/0306-Additive%20Number/README_CN.md#306-累加数
 [313]:./Medium/0313-Super%20Ugly%20Number/README_CN.md#313-超级丑数
+[316]:./Medium/0316-Remove%20Duplicate%20Letters/README_CN.md#316-去除重复字母
 [318]:./Medium/0318-Maximum%20Product%20of%20Word%20Lengths/README_CN.md#318-最大单词长度乘积
 [319]:./Medium/0319-Bulb%20Switcher/README_CN.md#319-灯泡开关
 [322]:./Medium/0322-Coin%20Change/README_CN.md#322-零钱兑换
@@ -2104,6 +2106,7 @@
 [304l]:https://leetcode.cn/problems/range-sum-query-2d-immutable/
 [306l]:https://leetcode.cn/problems/additive-number/
 [313l]:https://leetcode.cn/problems/super-ugly-number/
+[316l]:https://leetcode.cn/problems/remove-duplicate-letters/
 [318l]:https://leetcode.cn/problems/maximum-product-of-word-lengths/
 [319l]:https://leetcode.cn/problems/bulb-switcher/
 [322l]:https://leetcode.cn/problems/coin-change/
