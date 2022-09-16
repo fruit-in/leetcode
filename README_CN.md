@@ -847,6 +847,7 @@
 [1877][1877l]|[数组中最大数对和的最小值][1877]                          |![rs]
 [1880][1880l]|[检查某单词是否等于两单词之和][1880]                      |![rs]
 [1886][1886l]|[判断矩阵经轮转后是否一致][1886]                          |![rs]
+[1887][1887l]|[使数组元素相等的减少操作次数][1887]                      |![rs]
 [1893][1893l]|[检查是否区域内所有整数都被覆盖][1893]                    |![py]
 [1897][1897l]|[重新分配字符使所有字符串都相等][1897]                    |![rs]
 [1903][1903l]|[字符串中的最大奇数][1903]                                |![rs]
@@ -1812,6 +1813,7 @@
 [1877]:./Medium/1877-Minimize%20Maximum%20Pair%20Sum%20in%20Array/README_CN.md#1877-数组中最大数对和的最小值
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README_CN.md#1880-检查某单词是否等于两单词之和
 [1886]:./Easy/1886-Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/README_CN.md#1886-判断矩阵经轮转后是否一致
+[1887]:./Medium/1887-Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal/README_CN.md#1887-使数组元素相等的减少操作次数
 [1893]:./Easy/1893-Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered/README_CN.md#1893-检查是否区域内所有整数都被覆盖
 [1897]:./Easy/1897-Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/README_CN.md#1897-重新分配字符使所有字符串都相等
 [1903]:./Easy/1903-Largest%20Odd%20Number%20in%20String/README_CN.md#1903-字符串中的最大奇数
@@ -2782,6 +2784,7 @@
 [1877l]:https://leetcode.cn/problems/minimize-maximum-pair-sum-in-array/
 [1880l]:https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/
 [1886l]:https://leetcode.cn/problems/determine-whether-matrix-can-be-obtained-by-rotation/
+[1887l]:https://leetcode.cn/problems/reduction-operations-to-make-the-array-elements-equal/
 [1893l]:https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/
 [1897l]:https://leetcode.cn/problems/redistribute-characters-to-make-all-strings-equal/
 [1903l]:https://leetcode.cn/problems/largest-odd-number-in-string/
