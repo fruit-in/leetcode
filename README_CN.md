@@ -837,6 +837,7 @@
 [1833][1833l]|[雪糕的最大数量][1833]                                    |![rs]
 [1837][1837l]|[K 进制表示下的各位数字总和][1837]                        |![rb]&nbsp;&nbsp;![rs]
 [1844][1844l]|[将所有数字用字符替换][1844]                              |![rs]
+[1845][1845l]|[座位预约管理系统][1845]                                  |![py]
 [1848][1848l]|[到目标元素的最小距离][1848]                              |![rs]
 [1854][1854l]|[人口最多的年份][1854]                                    |![rs]
 [1859][1859l]|[将句子排序][1859]                                        |![py]
@@ -1806,6 +1807,7 @@
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README_CN.md#1833-雪糕的最大数量
 [1837]:./Easy/1837-Sum%20of%20Digits%20in%20Base%20K/README_CN.md#1837-k-进制表示下的各位数字总和
 [1844]:./Easy/1844-Replace%20All%20Digits%20with%20Characters/README_CN.md#1844-将所有数字用字符替换
+[1845]:./Medium/1845-Seat%20Reservation%20Manager/README_CN.md#1845-座位预约管理系统
 [1848]:./Easy/1848-Minimum%20Distance%20to%20the%20Target%20Element/README_CN.md#1848-到目标元素的最小距离
 [1854]:./Easy/1854-Maximum%20Population%20Year/README_CN.md#1854-人口最多的年份
 [1859]:./Easy/1859-Sorting%20the%20Sentence/README_CN.md#1859-将句子排序
@@ -2780,6 +2782,7 @@
 [1833l]:https://leetcode.cn/problems/maximum-ice-cream-bars/
 [1837l]:https://leetcode.cn/problems/sum-of-digits-in-base-k/
 [1844l]:https://leetcode.cn/problems/replace-all-digits-with-character/
+[1845l]:https://leetcode.cn/problems/seat-reservation-manager/
 [1848l]:https://leetcode.cn/problems/minimum-distance-to-the-target-element/
 [1854l]:https://leetcode.cn/problems/maximum-population-year/
 [1859l]:https://leetcode.cn/problems/sorting-the-sentence/

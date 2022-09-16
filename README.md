@@ -837,6 +837,7 @@
 [1833][1833l]|[Maximum Ice Cream Bars][1833]                                                        |![rs]
 [1837][1837l]|[Sum of Digits in Base K][1837]                                                       |![rb]&nbsp;&nbsp;![rs]
 [1844][1844l]|[Replace All Digits with Characters][1844]                                            |![rs]
+[1845][1845l]|[Seat Reservation Manager][1845]                                                      |![py]
 [1848][1848l]|[Minimum Distance to the Target Element][1848]                                        |![rs]
 [1854][1854l]|[Maximum Population Year][1854]                                                       |![rs]
 [1859][1859l]|[Sorting the Sentence][1859]                                                          |![py]
@@ -1806,6 +1807,7 @@
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README.md#1833-maximum-ice-cream-bars
 [1837]:./Easy/1837-Sum%20of%20Digits%20in%20Base%20K/README.md#1837-sum-of-digits-in-base-k
 [1844]:./Easy/1844-Replace%20All%20Digits%20with%20Characters/README.md#1844-replace-all-digits-with-characters
+[1845]:./Medium/1845-Seat%20Reservation%20Manager/README.md#1845-seat-reservation-manager
 [1848]:./Easy/1848-Minimum%20Distance%20to%20the%20Target%20Element/README.md#1848-minimum-distance-to-the-target-element
 [1854]:./Easy/1854-Maximum%20Population%20Year/README.md#1854-maximum-population-year
 [1859]:./Easy/1859-Sorting%20the%20Sentence/README.md#1859-sorting-the-sentence
@@ -2780,6 +2782,7 @@
 [1833l]:https://leetcode.com/problems/maximum-ice-cream-bars/
 [1837l]:https://leetcode.com/problems/sum-of-digits-in-base-k/
 [1844l]:https://leetcode.com/problems/replace-all-digits-with-characters/
+[1845l]:https://leetcode.com/problems/seat-reservation-manager/
 [1848l]:https://leetcode.com/problems/minimum-distance-to-the-target-element/
 [1854l]:https://leetcode.com/problems/maximum-population-year/
 [1859l]:https://leetcode.com/problems/sorting-the-sentence/
