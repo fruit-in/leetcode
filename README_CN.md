@@ -900,6 +900,7 @@
 [2099][2099l]|[找到和最大的长度为 K 的子序列][2099]                     |![rs]
 [2103][2103l]|[环和杆][2103]                                            |![rs]
 [2108][2108l]|[找出数组中的第一个回文字符串][2108]                      |![rs]
+[2109][2109l]|[向字符串添加空格][2109]                                  |![rs]
 [2114][2114l]|[句子中的最多单词数][2114]                                |![rs]
 [2119][2119l]|[反转两次的数字][2119]                                    |![rs]
 [2124][2124l]|[检查是否所有 A 都在 B 之前][2124]                        |![py]
@@ -1866,6 +1867,7 @@
 [2099]:./Easy/2099-Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum/README_CN.md#2099-找到和最大的长度为-k-的子序列
 [2103]:./Easy/2103-Rings%20and%20Rods/README_CN.md#2103-环和杆
 [2108]:./Easy/2108-Find%20First%20Palindromic%20String%20in%20the%20Array/README_CN.md#2108-找出数组中的第一个回文字符串
+[2109]:./Medium/2109-Adding%20Spaces%20to%20a%20String/README_CN.md#2109-向字符串添加空格
 [2114]:./Easy/2114-Maximum%20Number%20of%20Words%20Found%20in%20Sentences/README_CN.md#2114-句子中的最多单词数
 [2119]:./Easy/2119-A%20Number%20After%20a%20Double%20Reversal/README_CN.md#2119-反转两次的数字
 [2124]:./Easy/2124-Check%20if%20All%20A's%20Appears%20Before%20All%20B's/README_CN.md#2124-检查是否所有-a-都在-b-之前
@@ -2837,6 +2839,7 @@
 [2099l]:https://leetcode.cn/problems/find-subsequence-of-length-k-with-the-largest-sum/
 [2103l]:https://leetcode.cn/problems/rings-and-rods/
 [2108l]:https://leetcode.cn/problems/find-first-palindromic-string-in-the-array/
+[2109l]:https://leetcode.cn/problems/adding-spaces-to-a-string/
 [2114l]:https://leetcode.cn/problems/maximum-number-of-words-found-in-sentences/
 [2119l]:https://leetcode.cn/problems/a-number-after-a-double-reversal/
 [2124l]:https://leetcode.cn/problems/check-if-all-as-appears-before-all-bs/
