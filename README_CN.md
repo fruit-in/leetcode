@@ -966,6 +966,7 @@
 [2347][2347l]|[最好的扑克手牌][2347]                                    |![py]
 [2351][2351l]|[第一个出现两次的字母][2351]                              |![rs]
 [2413][2413l]|[最小偶倍数][2413]                                        |![rs]
+[2418][2418l]|[按身高排序][2418]                                        |![rs]
 
 
 [py]:./ico/python.ico
@@ -1938,6 +1939,7 @@
 [2347]:./Easy/2347-Best%20Poker%20Hand/README_CN.md#2347-最好的扑克手牌
 [2351]:./Easy/2351-First%20Letter%20to%20Appear%20Twice/README_CN.md#2351-第一个出现两次的字母
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README_CN.md#2413-最小偶倍数
+[2418]:./Easy/2418-Sort%20the%20People/README_CN.md#2418-按身高排序
 
 [1l]:https://leetcode.cn/problems/two-sum/
 [2l]:https://leetcode.cn/problems/add-two-numbers/
@@ -2915,3 +2917,4 @@
 [2347l]:https://leetcode.cn/problems/best-poker-hand/
 [2351l]:https://leetcode.cn/problems/first-letter-to-appear-twice/
 [2413l]:https://leetcode.cn/problems/smallest-even-multiple/
+[2418l]:https://leetcode.cn/problems/sort-the-people/

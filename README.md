@@ -966,6 +966,7 @@
 [2347][2347l]|[Best Poker Hand][2347]                                                               |![py]
 [2351][2351l]|[First Letter to Appear Twice][2351]                                                  |![rs]
 [2413][2413l]|[Smallest Even Multiple][2413]                                                        |![rs]
+[2418][2418l]|[Sort the People][2418]                                                               |![rs]
 
 
 [py]:./ico/python.ico
@@ -1938,6 +1939,7 @@
 [2347]:./Easy/2347-Best%20Poker%20Hand/README.md#2347-best-poker-hand
 [2351]:./Easy/2351-First%20Letter%20to%20Appear%20Twice/README.md#2351-first-letter-to-appear-twice
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README.md#2413-smallest-even-multiple
+[2418]:./Easy/2418-Sort%20the%20People/README.md#2418-sort-the-people
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -2915,3 +2917,4 @@
 [2347l]:https://leetcode.com/problems/best-poker-hand/
 [2351l]:https://leetcode.com/problems/first-letter-to-appear-twice/
 [2413l]:https://leetcode.com/problems/smallest-even-multiple/
+[2418l]:https://leetcode.com/problems/sort-the-people/
