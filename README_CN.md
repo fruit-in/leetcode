@@ -966,6 +966,7 @@
 [2347][2347l]|[最好的扑克手牌][2347]                                    |![py]
 [2351][2351l]|[第一个出现两次的字母][2351]                              |![rs]
 [2357][2357l]|[使数组中所有元素都等于零][2357]                          |![rs]
+[2395][2395l]|[和相等的子数组][2395]                                    |![rs]
 [2413][2413l]|[最小偶倍数][2413]                                        |![rs]
 [2418][2418l]|[按身高排序][2418]                                        |![rs]
 
@@ -1940,6 +1941,7 @@
 [2347]:./Easy/2347-Best%20Poker%20Hand/README_CN.md#2347-最好的扑克手牌
 [2351]:./Easy/2351-First%20Letter%20to%20Appear%20Twice/README_CN.md#2351-第一个出现两次的字母
 [2357]:./Easy/2357-Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts/README_CN.md#2357-使数组中所有元素都等于零
+[2395]:./Easy/2395-Find%20Subarrays%20With%20Equal%20Sum/README_CN.md#2395-和相等的子数组
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README_CN.md#2413-最小偶倍数
 [2418]:./Easy/2418-Sort%20the%20People/README_CN.md#2418-按身高排序
 
@@ -2919,5 +2921,6 @@
 [2347l]:https://leetcode.cn/problems/best-poker-hand/
 [2351l]:https://leetcode.cn/problems/first-letter-to-appear-twice/
 [2357l]:https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/
+[2395l]:https://leetcode.cn/problems/find-subarrays-with-equal-sum/
 [2413l]:https://leetcode.cn/problems/smallest-even-multiple/
 [2418l]:https://leetcode.cn/problems/sort-the-people/
