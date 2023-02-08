@@ -965,6 +965,7 @@
 [2341][2341l]|[Maximum Number of Pairs in Array][2341]                                              |![rs]
 [2347][2347l]|[Best Poker Hand][2347]                                                               |![py]
 [2351][2351l]|[First Letter to Appear Twice][2351]                                                  |![rs]
+[2357][2357l]|[Make Array Zero by Subtracting Equal Amounts][2357]                                  |![rs]
 [2413][2413l]|[Smallest Even Multiple][2413]                                                        |![rs]
 [2418][2418l]|[Sort the People][2418]                                                               |![rs]
 
@@ -1938,6 +1939,7 @@
 [2341]:./Easy/2341-Maximum%20Number%20of%20Pairs%20in%20Array/README.md#2341-maximum-number-of-pairs-in-array
 [2347]:./Easy/2347-Best%20Poker%20Hand/README.md#2347-best-poker-hand
 [2351]:./Easy/2351-First%20Letter%20to%20Appear%20Twice/README.md#2351-first-letter-to-appear-twice
+[2357]:./Easy/2357-Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts/README.md#2357-make-array-zero-by-subtracting-equal-amounts
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README.md#2413-smallest-even-multiple
 [2418]:./Easy/2418-Sort%20the%20People/README.md#2418-sort-the-people
 
@@ -2916,5 +2918,6 @@
 [2341l]:https://leetcode.com/problems/maximum-number-of-pairs-in-array/
 [2347l]:https://leetcode.com/problems/best-poker-hand/
 [2351l]:https://leetcode.com/problems/first-letter-to-appear-twice/
+[2357l]:https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
 [2413l]:https://leetcode.com/problems/smallest-even-multiple/
 [2418l]:https://leetcode.com/problems/sort-the-people/
