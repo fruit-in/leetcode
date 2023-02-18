@@ -970,6 +970,7 @@
 [2413][2413l]|[最小偶倍数][2413]                                        |![rs]
 [2418][2418l]|[按身高排序][2418]                                        |![rs]
 [2441][2441l]|[与对应负数同时存在的最大正整数][2441]                    |![rs]
+[2465][2465l]|[不同的平均值数目][2465]                                  |![rs]
 
 
 [py]:./ico/python.ico
@@ -1946,6 +1947,7 @@
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README_CN.md#2413-最小偶倍数
 [2418]:./Easy/2418-Sort%20the%20People/README_CN.md#2418-按身高排序
 [2441]:./Easy/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README_CN.md#2441-与对应负数同时存在的最大正整数
+[2465]:./Easy/2465-Number%20of%20Distinct%20Averages/README_CN.md#2465-不同的平均值数目
 
 [1l]:https://leetcode.cn/problems/two-sum/
 [2l]:https://leetcode.cn/problems/add-two-numbers/
@@ -2927,3 +2929,4 @@
 [2413l]:https://leetcode.cn/problems/smallest-even-multiple/
 [2418l]:https://leetcode.cn/problems/sort-the-people/
 [2441l]:https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative/
+[2465l]:https://leetcode.cn/problems/number-of-distinct-averages/
