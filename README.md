@@ -971,6 +971,7 @@
 [2418][2418l]|[Sort the People][2418]                                                               |![rs]
 [2441][2441l]|[Largest Positive Integer That Exists With Its Negative][2441]                        |![rs]
 [2465][2465l]|[Number of Distinct Averages][2465]                                                   |![rs]
+[2469][2469l]|[Convert the Temperature][2469]                                                       |![rs]
 
 
 [py]:./ico/python.ico
@@ -1948,6 +1949,7 @@
 [2418]:./Easy/2418-Sort%20the%20People/README.md#2418-sort-the-people
 [2441]:./Easy/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README.md#2441-largest-positive-integer-that-exists-with-its-negative
 [2465]:./Easy/2465-Number%20of%20Distinct%20Averages/README.md#2465-number-of-distinct-averages
+[2469]:./Easy/2469-Convert%20the%20Temperature/README.md#2469-convert-the-temperature
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -2930,3 +2932,4 @@
 [2418l]:https://leetcode.com/problems/sort-the-people/
 [2441l]:https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
 [2465l]:https://leetcode.com/problems/number-of-distinct-averages/
+[2469l]:https://leetcode.com/problems/convert-the-temperature/
