@@ -973,6 +973,7 @@
 [2465][2465l]|[不同的平均值数目][2465]                                  |![rs]
 [2469][2469l]|[温度转换][2469]                                          |![rs]
 [2490][2490l]|[回环句][2490]                                            |![py]
+[2496][2496l]|[数组中字符串的最大值][2496]                              |![rs]
 
 
 [py]:./ico/python.ico
@@ -1952,6 +1953,7 @@
 [2465]:./Easy/2465-Number%20of%20Distinct%20Averages/README_CN.md#2465-不同的平均值数目
 [2469]:./Easy/2469-Convert%20the%20Temperature/README_CN.md#2469-温度转换
 [2490]:./Easy/2490-Circular%20Sentence/README_CN.md#2490-回环句
+[2496]:./Easy/2496-Maximum%20Value%20of%20a%20String%20in%20an%20Array/README_CN.md#2496-数组中字符串的最大值
 
 [1l]:https://leetcode.cn/problems/two-sum/
 [2l]:https://leetcode.cn/problems/add-two-numbers/
@@ -2936,3 +2938,4 @@
 [2465l]:https://leetcode.cn/problems/number-of-distinct-averages/
 [2469l]:https://leetcode.cn/problems/convert-the-temperature/
 [2490l]:https://leetcode.cn/problems/circular-sentence/
+[2496l]:https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/
