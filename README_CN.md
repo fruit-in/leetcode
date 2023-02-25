@@ -976,6 +976,7 @@
 [2496][2496l]|[数组中字符串的最大值][2496]                              |![rs]
 [2520][2520l]|[统计能整除数字的位数][2520]                              |![rs]
 [2525][2525l]|[根据规则将箱子分类][2525]                                |![rs]
+[2544][2544l]|[交替数字和][2544]                                        |![rs]
 
 
 [py]:./ico/python.ico
@@ -1958,6 +1959,7 @@
 [2496]:./Easy/2496-Maximum%20Value%20of%20a%20String%20in%20an%20Array/README_CN.md#2496-数组中字符串的最大值
 [2520]:./Easy/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README_CN.md#2520-统计能整除数字的位数
 [2525]:./Easy/2525-Categorize%20Box%20According%20to%20Criteria/README_CN.md#2525-根据规则将箱子分类
+[2544]:./Easy/2544-Alternating%20Digit%20Sum/README_CN.md#2544-交替数字和
 
 [1l]:https://leetcode.cn/problems/two-sum/
 [2l]:https://leetcode.cn/problems/add-two-numbers/
@@ -2945,3 +2947,4 @@
 [2496l]:https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/
 [2520l]:https://leetcode.cn/problems/count-the-digits-that-divide-a-number/
 [2525l]:https://leetcode.cn/problems/categorize-box-according-to-criteria/
+[2544l]:https://leetcode.cn/problems/alternating-digit-sum/
