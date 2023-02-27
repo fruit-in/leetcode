@@ -892,6 +892,7 @@
 [2053][2053l]|[Kth Distinct String in an Array][2053]                                               |![py]
 [2057][2057l]|[Smallest Index With Equal Value][2057]                                               |![rs]
 [2062][2062l]|[Count Vowel Substrings of a String][2062]                                            |![py]
+[2063][2063l]|[Vowels of All Substrings][2063]                                                      |![rs]
 [2068][2068l]|[Check Whether Two Strings are Almost Equivalent][2068]                               |![rs]
 [2069][2069l]|[Walking Robot Simulation II][2069]                                                   |![py]
 [2073][2073l]|[Time Needed to Buy Tickets][2073]                                                    |![py]
@@ -1877,6 +1878,7 @@
 [2053]:./Easy/2053-Kth%20Distinct%20String%20in%20an%20Array/README.md#2053-kth-distinct-string-in-an-array
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README.md#2057-smallest-index-with-equal-value
 [2062]:./Easy/2062-Count%20Vowel%20Substrings%20of%20a%20String/README.md#2062-count-vowel-substrings-of-a-string
+[2063]:./Medium/2063-Vowels%20of%20All%20Substrings/README.md#2063-vowels-of-all-substrings
 [2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README.md#2068-check-whether-two-strings-are-almost-equivalent
 [2069]:./Medium/2069-Walking%20Robot%20Simulation%20II/README.md#2069-walking-robot-simulation-ii
 [2073]:./Easy/2073-Time%20Needed%20to%20Buy%20Tickets/README.md#2073-time-needed-to-buy-tickets
@@ -2867,6 +2869,7 @@
 [2053l]:https://leetcode.com/problems/kth-distinct-string-in-an-array/
 [2057l]:https://leetcode.com/problems/smallest-index-with-equal-value/
 [2062l]:https://leetcode.com/problems/count-vowel-substrings-of-a-string/
+[2063l]:https://leetcode.com/problems/vowels-of-all-substrings/
 [2068l]:https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
 [2069l]:https://leetcode.com/problems/walking-robot-simulation-ii/
 [2073l]:https://leetcode.com/problems/time-needed-to-buy-tickets/

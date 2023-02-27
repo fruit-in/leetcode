@@ -892,6 +892,7 @@
 [2053][2053l]|[数组中第 K 个独一无二的字符串][2053]                     |![py]
 [2057][2057l]|[值相等的最小索引][2057]                                  |![rs]
 [2062][2062l]|[统计字符串中的元音子字符串][2062]                        |![py]
+[2063][2063l]|[所有子字符串中的元音][2063]                              |![rs]
 [2068][2068l]|[检查两个字符串是否几乎相等][2068]                        |![rs]
 [2069][2069l]|[模拟行走机器人 II][2069]                                 |![py]
 [2073][2073l]|[买票需要的时间][2073]                                    |![py]
@@ -1877,6 +1878,7 @@
 [2053]:./Easy/2053-Kth%20Distinct%20String%20in%20an%20Array/README_CN.md#2053-数组中第-k-个独一无二的字符串
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README_CN.md#2057-值相等的最小索引
 [2062]:./Easy/2062-Count%20Vowel%20Substrings%20of%20a%20String/README_CN.md#2062-统计字符串中的元音子字符串
+[2063]:./Medium/2063-Vowels%20of%20All%20Substrings/README_CN.md#2063-所有子字符串中的元音
 [2068]:./Easy/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README_CN.md#2068-检查两个字符串是否几乎相等
 [2069]:./Medium/2069-Walking%20Robot%20Simulation%20II/README_CN.md#2069-模拟行走机器人-ii
 [2073]:./Easy/2073-Time%20Needed%20to%20Buy%20Tickets/README_CN.md#2073-买票需要的时间
@@ -2867,6 +2869,7 @@
 [2053l]:https://leetcode.cn/problems/kth-distinct-string-in-an-array/
 [2057l]:https://leetcode.cn/problems/smallest-index-with-equal-value/
 [2062l]:https://leetcode.cn/problems/count-vowel-substrings-of-a-string/
+[2063l]:https://leetcode.cn/problems/vowels-of-all-substrings/
 [2068l]:https://leetcode.cn/problems/check-whether-two-strings-are-almost-equivalent/
 [2069l]:https://leetcode.cn/problems/walking-robot-simulation-ii/
 [2073l]:https://leetcode.cn/problems/time-needed-to-buy-tickets/
