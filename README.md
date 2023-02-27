@@ -909,6 +909,7 @@
 [2119][2119l]|[A Number After a Double Reversal][2119]                                              |![rs]
 [2124][2124l]|[Check if All A's Appears Before All B's][2124]                                       |![py]
 [2125][2125l]|[Number of Laser Beams in a Bank][2125]                                               |![py]
+[2126][2126l]|[Destroying Asteroids][2126]                                                          |![rs]
 [2129][2129l]|[Capitalize the Title][2129]                                                          |![py]
 [2130][2130l]|[Maximum Twin Sum of a Linked List][2130]                                             |![py]
 [2133][2133l]|[Check if Every Row and Column Contains All Numbers][2133]                            |![rs]
@@ -1895,6 +1896,7 @@
 [2119]:./Easy/2119-A%20Number%20After%20a%20Double%20Reversal/README.md#2119-a-number-after-a-double-reversal
 [2124]:./Easy/2124-Check%20if%20All%20A's%20Appears%20Before%20All%20B's/README.md#2124-check-if-all-a's-appears-before-all-b's
 [2125]:./Medium/2125-Number%20of%20Laser%20Beams%20in%20a%20Bank/README.md#2125-number-of-laser-beams-in-a-bank
+[2126]:./Medium/2126-Destroying%20Asteroids/README.md#2126-destroying-asteroids
 [2129]:./Easy/2129-Capitalize%20the%20Title/README.md#2129-capitalize-the-title
 [2130]:./Medium/2130-Maximum%20Twin%20Sum%20of%20a%20Linked%20List/README.md#2130-maximum-twin-sum-of-a-linked-list
 [2133]:./Easy/2133-Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers/README.md#2133-check-if-every-row-and-column-contains-all-numbers
@@ -2886,6 +2888,7 @@
 [2119l]:https://leetcode.com/problems/a-number-after-a-double-reversal/
 [2124l]:https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
 [2125l]:https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
+[2126l]:https://leetcode.com/problems/destroying-asteroids/
 [2129l]:https://leetcode.com/problems/capitalize-the-title/
 [2130l]:https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
 [2133l]:https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/
