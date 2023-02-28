@@ -949,6 +949,7 @@
 [2259][2259l]|[移除指定数字得到的最大结果][2259]                        |![py]
 [2264][2264l]|[字符串中最大的 3 位相同数字][2264]                       |![rs]
 [2265][2265l]|[统计值等于子树平均值的节点数][2265]                      |![py]
+[2266][2266l]|[统计打字方案数][2266]                                    |![py]
 [2269][2269l]|[找到一个数字的 K 美丽值][2269]                           |![py]
 [2270][2270l]|[分割数组的方案数][2270]                                  |![rs]
 [2273][2273l]|[移除字母异位词后的结果数组][2273]                        |![py]
@@ -1937,6 +1938,7 @@
 [2259]:./Easy/2259-Remove%20Digit%20From%20Number%20to%20Maximize%20Result/README_CN.md#2259-移除指定数字得到的最大结果
 [2264]:./Easy/2264-Largest%203-Same-Digit%20Number%20in%20String/README_CN.md#2264-字符串中最大的-3-位相同数字
 [2265]:./Medium/2265-Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/README_CN.md#2265-统计值等于子树平均值的节点数
+[2266]:./Medium/2266-Count%20Number%20of%20Texts/README_CN.md#2266-统计打字方案数
 [2269]:./Easy/2269-Find%20the%20K-Beauty%20of%20a%20Number/README_CN.md#2269-找到一个数字的-k-美丽值
 [2270]:./Medium/2270-Number%20of%20Ways%20to%20Split%20Array/README_CN.md#2270-分割数组的方案数
 [2273]:./Easy/2273-Find%20Resultant%20Array%20After%20Removing%20Anagrams/README_CN.md#2273-移除字母异位词后的结果数组
@@ -2930,6 +2932,7 @@
 [2259l]:https://leetcode.cn/problems/remove-digit-from-number-to-maximize-result/
 [2264l]:https://leetcode.cn/problems/largest-3-same-digit-number-in-string/
 [2265l]:https://leetcode.cn/problems/count-nodes-equal-to-average-of-subtree/
+[2266l]:https://leetcode.cn/problems/count-number-of-texts/
 [2269l]:https://leetcode.cn/problems/find-the-k-beauty-of-a-number/
 [2270l]:https://leetcode.cn/problems/number-of-ways-to-split-array/
 [2273l]:https://leetcode.cn/problems/find-resultant-array-after-removing-anagrams/

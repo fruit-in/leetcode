@@ -949,6 +949,7 @@
 [2259][2259l]|[Remove Digit From Number to Maximize Result][2259]                                   |![py]
 [2264][2264l]|[Largest 3-Same-Digit Number in String][2264]                                         |![rs]
 [2265][2265l]|[Count Nodes Equal to Average of Subtree][2265]                                       |![py]
+[2266][2266l]|[Count Number of Texts][2266]                                                         |![py]
 [2269][2269l]|[Find the K-Beauty of a Number][2269]                                                 |![py]
 [2270][2270l]|[Number of Ways to Split Array][2270]                                                 |![rs]
 [2273][2273l]|[Find Resultant Array After Removing Anagrams][2273]                                  |![py]
@@ -1937,6 +1938,7 @@
 [2259]:./Easy/2259-Remove%20Digit%20From%20Number%20to%20Maximize%20Result/README.md#2259-remove-digit-from-number-to-maximize-result
 [2264]:./Easy/2264-Largest%203-Same-Digit%20Number%20in%20String/README.md#2264-largest-3-same-digit-number-in-string
 [2265]:./Medium/2265-Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/README.md#2265-count-nodes-equal-to-average-of-subtree
+[2266]:./Medium/2266-Count%20Number%20of%20Texts/README.md#2266-count-number-of-texts
 [2269]:./Easy/2269-Find%20the%20K-Beauty%20of%20a%20Number/README.md#2269-find-the-k-beauty-of-a-number
 [2270]:./Medium/2270-Number%20of%20Ways%20to%20Split%20Array/README.md#2270-number-of-ways-to-split-array
 [2273]:./Easy/2273-Find%20Resultant%20Array%20After%20Removing%20Anagrams/README.md#2273-find-resultant-array-after-removing-anagrams
@@ -2930,6 +2932,7 @@
 [2259l]:https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 [2264l]:https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 [2265l]:https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
+[2266l]:https://leetcode.com/problems/count-number-of-texts/
 [2269l]:https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 [2270l]:https://leetcode.com/problems/number-of-ways-to-split-array/
 [2273l]:https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
