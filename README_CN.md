@@ -930,6 +930,7 @@
 [2186][2186l]|[使两字符串互为字母异位词的最少步骤数][2186]              |![rs]
 [2190][2190l]|[数组中紧跟 key 之后出现最频繁的数字][2190]               |![rs]
 [2194][2194l]|[Excel 表中某个范围内的单元格][2194]                      |![rs]
+[2196][2196l]|[根据描述创建二叉树][2196]                                |![py]
 [2200][2200l]|[找出数组中的所有 K 近邻下标][2200]                       |![rs]
 [2206][2206l]|[将数组划分成相等数对][2206]                              |![rs]
 [2210][2210l]|[统计数组中峰和谷的数量][2210]                            |![py]
@@ -1919,6 +1920,7 @@
 [2186]:./Medium/2186-Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II/README_CN.md#2186-使两字符串互为字母异位词的最少步骤数
 [2190]:./Easy/2190-Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array/README_CN.md#2190-数组中紧跟-key-之后出现最频繁的数字
 [2194]:./Easy/2194-Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet/README_CN.md#2194-excel-表中某个范围内的单元格
+[2196]:./Medium/2196-Create%20Binary%20Tree%20From%20Descriptions/README_CN.md#2196-根据描述创建二叉树
 [2200]:./Easy/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README_CN.md#2200-找出数组中的所有-k-近邻下标
 [2206]:./Easy/2206-Divide%20Array%20Into%20Equal%20Pairs/README_CN.md#2206-将数组划分成相等数对
 [2210]:./Easy/2210-Count%20Hills%20and%20Valleys%20in%20an%20Array/README_CN.md#2210-统计数组中峰和谷的数量
@@ -2913,6 +2915,7 @@
 [2186l]:https://leetcode.cn/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 [2190l]:https://leetcode.cn/problems/most-frequent-number-following-key-in-an-array/
 [2194l]:https://leetcode.cn/problems/cells-in-a-range-on-an-excel-sheet/
+[2196l]:https://leetcode.cn/problems/create-binary-tree-from-descriptions/
 [2200l]:https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/
 [2206l]:https://leetcode.cn/problems/divide-array-into-equal-pairs/
 [2210l]:https://leetcode.cn/problems/count-hills-and-valleys-in-an-array/
