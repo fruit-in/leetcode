@@ -919,6 +919,7 @@
 [2144][2144l]|[Minimum Cost of Buying Candies With Discount][2144]                                  |![rs]
 [2148][2148l]|[Count Elements With Strictly Smaller and Greater Elements][2148]                     |![rs]
 [2149][2149l]|[Rearrange Array Elements by Sign][2149]                                              |![rs]
+[2150][2150l]|[Find All Lonely Numbers in the Array][2150]                                          |![rs]
 [2154][2154l]|[Keep Multiplying Found Values by Two][2154]                                          |![rs]
 [2160][2160l]|[Minimum Sum of Four Digit Number After Splitting Digits][2160]                       |![rs]
 [2161][2161l]|[Partition Array According to Given Pivot][2161]                                      |![py]
@@ -1911,6 +1912,7 @@
 [2144]:./Easy/2144-Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/README.md#2144-minimum-cost-of-buying-candies-with-discount
 [2148]:./Easy/2148-Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements/README.md#2148-count-elements-with-strictly-smaller-and-greater-elements
 [2149]:./Medium/2149-Rearrange%20Array%20Elements%20by%20Sign/README.md#2149-rearrange-array-elements-by-sign
+[2150]:./Medium/2150-Find%20All%20Lonely%20Numbers%20in%20the%20Array/README.md#2150-find-all-lonely-numbers-in-the-array
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README.md#2154-keep-multiplying-found-values-by-two
 [2160]:./Easy/2160-Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/README.md#2160-minimum-sum-of-four-digit-number-after-splitting-digits
 [2161]:./Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot/README.md#2161-partition-array-according-to-given-pivot
@@ -2908,6 +2910,7 @@
 [2144l]:https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 [2148l]:https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/
 [2149l]:https://leetcode.com/problems/rearrange-array-elements-by-sign/
+[2150l]:https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
 [2154l]:https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 [2160l]:https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2161l]:https://leetcode.com/problems/partition-array-according-to-given-pivot/
