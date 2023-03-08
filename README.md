@@ -884,6 +884,7 @@
 [2016][2016l]|[Maximum Difference Between Increasing Elements][2016]                                |![rs]
 [2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
 [2027][2027l]|[Minimum Moves to Convert String][2027]                                               |![rs]
+[2028][2028l]|[Find Missing Observations][2028]                                                     |![rs]
 [2032][2032l]|[Two Out of Three][2032]                                                              |![py]
 [2037][2037l]|[Minimum Number of Moves to Seat Everyone][2037]                                      |![rs]
 [2042][2042l]|[Check if Numbers Are Ascending in a Sentence][2042]                                  |![py]
@@ -1878,6 +1879,7 @@
 [2016]:./Easy/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README.md#2016-maximum-difference-between-increasing-elements
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
 [2027]:./Easy/2027-Minimum%20Moves%20to%20Convert%20String/README.md#2027-minimum-moves-to-convert-string
+[2028]:./Medium/2028-Find%20Missing%20Observations/README.md#2028-find-missing-observations
 [2032]:./Easy/2032-Two%20Out%20of%20Three/README.md#2032-two-out-of-three
 [2037]:./Easy/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README.md#2037-minimum-number-of-moves-to-seat-everyone
 [2042]:./Easy/2042-Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/README.md#2042-check-if-numbers-are-ascending-in-a-sentence
@@ -2877,6 +2879,7 @@
 [2016l]:https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 [2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
 [2027l]:https://leetcode.com/problems/minimum-moves-to-convert-string/
+[2028l]:https://leetcode.com/problems/find-missing-observations/
 [2032l]:https://leetcode.com/problems/two-out-of-three/
 [2037l]:https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
 [2042l]:https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/

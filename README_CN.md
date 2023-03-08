@@ -884,6 +884,7 @@
 [2016][2016l]|[增量元素之间的最大差值][2016]                            |![rs]
 [2022][2022l]|[将一维数组转变成二维数组][2022]                          |![rs]
 [2027][2027l]|[转换字符串的最少操作次数][2027]                          |![rs]
+[2028][2028l]|[找出缺失的观测数据][2028]                                |![rs]
 [2032][2032l]|[至少在两个数组中出现的值][2032]                          |![py]
 [2037][2037l]|[使每位学生都有座位的最少移动次数][2037]                  |![rs]
 [2042][2042l]|[检查句子中的数字是否递增][2042]                          |![py]
@@ -1878,6 +1879,7 @@
 [2016]:./Easy/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README_CN.md#2016-增量元素之间的最大差值
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README_CN.md#2022-将一维数组转变成二维数组
 [2027]:./Easy/2027-Minimum%20Moves%20to%20Convert%20String/README_CN.md#2027-转换字符串的最少操作次数
+[2028]:./Medium/2028-Find%20Missing%20Observations/README_CN.md#2028-找出缺失的观测数据
 [2032]:./Easy/2032-Two%20Out%20of%20Three/README_CN.md#2032-至少在两个数组中出现的值
 [2037]:./Easy/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README_CN.md#2037-使每位学生都有座位的最少移动次数
 [2042]:./Easy/2042-Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/README_CN.md#2042-检查句子中的数字是否递增
@@ -2877,6 +2879,7 @@
 [2016l]:https://leetcode.cn/problems/maximum-difference-between-increasing-elements/
 [2022l]:https://leetcode.cn/problems/convert-1d-array-into-2d-array/
 [2027l]:https://leetcode.cn/problems/minimum-moves-to-convert-string/
+[2028l]:https://leetcode.cn/problems/find-missing-observations/
 [2032l]:https://leetcode.cn/problems/two-out-of-three/
 [2037l]:https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone/
 [2042l]:https://leetcode.cn/problems/check-if-numbers-are-ascending-in-a-sentence/
