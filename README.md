@@ -962,6 +962,7 @@
 [2283][2283l]|[Check if Number Has Equal Digit Count and Digit Value][2283]                         |![rs]
 [2287][2287l]|[Rearrange Characters to Make Target String][2287]                                    |![rs]
 [2293][2293l]|[Min Max Game][2293]                                                                  |![rs]
+[2294][2294l]|[Partition Array Such That Maximum Difference Is K][2294]                             |![rs]
 [2295][2295l]|[Replace Elements in an Array][2295]                                                  |![rs]
 [2299][2299l]|[Strong Password Checker II][2299]                                                    |![rs]
 [2303][2303l]|[Calculate Amount Paid in Taxes][2303]                                                |![rs]
@@ -1957,6 +1958,7 @@
 [2283]:./Easy/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README.md#2283-check-if-number-has-equal-digit-count-and-digit-value
 [2287]:./Easy/2287-Rearrange%20Characters%20to%20Make%20Target%20String/README.md#2287-rearrange-characters-to-make-target-string
 [2293]:./Easy/2293-Min%20Max%20Game/README.md#2293-min-max-game
+[2294]:./Medium/2294-Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K/README.md#2294-partition-array-such-that-maximum-difference-is-k
 [2295]:./Medium/2295-Replace%20Elements%20in%20an%20Array/README.md#2295-replace-elements-in-an-array
 [2299]:./Easy/2299-Strong%20Password%20Checker%20II/README.md#2299-strong-password-checker-ii
 [2303]:./Easy/2303-Calculate%20Amount%20Paid%20in%20Taxes/README.md#2303-calculate-amount-paid-in-taxes
@@ -2957,6 +2959,7 @@
 [2283l]:https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2287l]:https://leetcode.com/problems/rearrange-characters-to-make-target-string/
 [2293l]:https://leetcode.com/problems/min-max-game/
+[2294l]:https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/
 [2295l]:https://leetcode.com/problems/replace-elements-in-an-array/
 [2299l]:https://leetcode.com/problems/strong-password-checker-ii/
 [2303l]:https://leetcode.com/problems/calculate-amount-paid-in-taxes/

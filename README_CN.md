@@ -962,6 +962,7 @@
 [2283][2283l]|[判断一个数的数字计数是否等于数位的值][2283]              |![rs]
 [2287][2287l]|[重排字符形成目标字符串][2287]                            |![rs]
 [2293][2293l]|[极大极小游戏][2293]                                      |![rs]
+[2294][2294l]|[划分数组使最大差为 K][2294]                              |![rs]
 [2295][2295l]|[替换数组中的元素][2295]                                  |![rs]
 [2299][2299l]|[强密码检验器 II][2299]                                   |![rs]
 [2303][2303l]|[计算应缴税款总额][2303]                                  |![rs]
@@ -1957,6 +1958,7 @@
 [2283]:./Easy/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README_CN.md#2283-判断一个数的数字计数是否等于数位的值
 [2287]:./Easy/2287-Rearrange%20Characters%20to%20Make%20Target%20String/README_CN.md#2287-重排字符形成目标字符串
 [2293]:./Easy/2293-Min%20Max%20Game/README_CN.md#2293-极大极小游戏
+[2294]:./Medium/2294-Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K/README_CN.md#2294-划分数组使最大差为-k
 [2295]:./Medium/2295-Replace%20Elements%20in%20an%20Array/README_CN.md#2295-替换数组中的元素
 [2299]:./Easy/2299-Strong%20Password%20Checker%20II/README_CN.md#2299-强密码检验器-ii
 [2303]:./Easy/2303-Calculate%20Amount%20Paid%20in%20Taxes/README_CN.md#2303-计算应缴税款总额
@@ -2957,6 +2959,7 @@
 [2283l]:https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2287l]:https://leetcode.cn/problems/rearrange-characters-to-make-target-string/
 [2293l]:https://leetcode.cn/problems/min-max-game/
+[2294l]:https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/
 [2295l]:https://leetcode.cn/problems/replace-elements-in-an-array/
 [2299l]:https://leetcode.cn/problems/strong-password-checker-ii/
 [2303l]:https://leetcode.cn/problems/calculate-amount-paid-in-taxes/
