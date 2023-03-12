@@ -875,6 +875,7 @@
 [1979][1979l]|[Find Greatest Common Divisor of Array][1979]                                         |![py]&nbsp;&nbsp;![rb]
 [1980][1980l]|[Find Unique Binary String][1980]                                                     |![py]
 [1984][1984l]|[Minimum Difference Between Highest and Lowest of K Scores][1984]                     |![rs]
+[1985][1985l]|[Find the Kth Largest Integer in the Array][1985]                                     |![py]
 [1991][1991l]|[Find the Middle Index in Array][1991]                                                |![py]
 [1995][1995l]|[Count Special Quadruplets][1995]                                                     |![py]
 [2000][2000l]|[Reverse Prefix of Word][2000]                                                        |![py]
@@ -1873,6 +1874,7 @@
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README.md#1979-find-greatest-common-divisor-of-array
 [1980]:./Medium/1980-Find%20Unique%20Binary%20String/README.md#1980-find-unique-binary-string
 [1984]:./Easy/1984-Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/README.md#1984-minimum-difference-between-highest-and-lowest-of-k-scores
+[1985]:./Medium/1985-Find%20the%20Kth%20Largest%20Integer%20in%20the%20Array/README.md#1985-find-the-kth-largest-integer-in-the-array
 [1991]:./Easy/1991-Find%20the%20Middle%20Index%20in%20Array/README.md#1991-find-the-middle-index-in-array
 [1995]:./Easy/1995-Count%20Special%20Quadruplets/README.md#1995-count-special-quadruplets
 [2000]:./Easy/2000-Reverse%20Prefix%20of%20Word/README.md#2000-reverse-prefix-of-word
@@ -2876,6 +2878,7 @@
 [1979l]:https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 [1980l]:https://leetcode.com/problems/find-unique-binary-string/
 [1984l]:https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
+[1985l]:https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 [1991l]:https://leetcode.com/problems/find-the-middle-index-in-array/
 [1995l]:https://leetcode.com/problems/count-special-quadruplets/
 [2000l]:https://leetcode.com/problems/reverse-prefix-of-word/

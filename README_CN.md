@@ -875,6 +875,7 @@
 [1979][1979l]|[找出数组的最大公约数][1979]                              |![py]&nbsp;&nbsp;![rb]
 [1980][1980l]|[找出不同的二进制字符串][1980]                            |![py]
 [1984][1984l]|[学生分数的最小差值][1984]                                |![rs]
+[1985][1985l]|[找出数组中的第 K 大整数][1985]                           |![py]
 [1991][1991l]|[找到数组的中间位置][1991]                                |![py]
 [1995][1995l]|[统计特殊四元组][1995]                                    |![py]
 [2000][2000l]|[反转单词前缀][2000]                                      |![py]
@@ -1873,6 +1874,7 @@
 [1979]:./Easy/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README_CN.md#1979-找出数组的最大公约数
 [1980]:./Medium/1980-Find%20Unique%20Binary%20String/README_CN.md#1980-找出不同的二进制字符串
 [1984]:./Easy/1984-Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/README_CN.md#1984-学生分数的最小差值
+[1985]:./Medium/1985-Find%20the%20Kth%20Largest%20Integer%20in%20the%20Array/README_CN.md#1985-找出数组中的第-k-大整数
 [1991]:./Easy/1991-Find%20the%20Middle%20Index%20in%20Array/README_CN.md#1991-找到数组的中间位置
 [1995]:./Easy/1995-Count%20Special%20Quadruplets/README_CN.md#1995-统计特殊四元组
 [2000]:./Easy/2000-Reverse%20Prefix%20of%20Word/README_CN.md#2000-反转单词前缀
@@ -2876,6 +2878,7 @@
 [1979l]:https://leetcode.cn/problems/find-greatest-common-divisor-of-array/
 [1980l]:https://leetcode.cn/problems/find-unique-binary-string/
 [1984l]:https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
+[1985l]:https://leetcode.cn/problems/find-the-kth-largest-integer-in-the-array/
 [1991l]:https://leetcode.cn/problems/find-the-middle-index-in-array/
 [1995l]:https://leetcode.cn/problems/count-special-quadruplets/
 [2000l]:https://leetcode.cn/problems/reverse-prefix-of-word/
