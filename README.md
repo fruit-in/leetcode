@@ -917,6 +917,7 @@
 [2126][2126l]|[Destroying Asteroids][2126]                                                          |![rs]
 [2129][2129l]|[Capitalize the Title][2129]                                                          |![py]
 [2130][2130l]|[Maximum Twin Sum of a Linked List][2130]                                             |![py]
+[2131][2131l]|[Longest Palindrome by Concatenating Two Letter Words][2131]                          |![rs]
 [2133][2133l]|[Check if Every Row and Column Contains All Numbers][2133]                            |![rs]
 [2138][2138l]|[Divide a String Into Groups of Size k][2138]                                         |![py]
 [2139][2139l]|[Minimum Moves to Reach Target Score][2139]                                           |![rs]
@@ -1917,6 +1918,7 @@
 [2126]:./Medium/2126-Destroying%20Asteroids/README.md#2126-destroying-asteroids
 [2129]:./Easy/2129-Capitalize%20the%20Title/README.md#2129-capitalize-the-title
 [2130]:./Medium/2130-Maximum%20Twin%20Sum%20of%20a%20Linked%20List/README.md#2130-maximum-twin-sum-of-a-linked-list
+[2131]:./Medium/2131-Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/README.md#2131-longest-palindrome-by-concatenating-two-letter-words
 [2133]:./Easy/2133-Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers/README.md#2133-check-if-every-row-and-column-contains-all-numbers
 [2138]:./Easy/2138-Divide%20a%20String%20Into%20Groups%20of%20Size%20k/README.md#2138-divide-a-string-into-groups-of-size-k
 [2139]:./Medium/2139-Minimum%20Moves%20to%20Reach%20Target%20Score/README.md#2139-minimum-moves-to-reach-target-score
@@ -2922,6 +2924,7 @@
 [2126l]:https://leetcode.com/problems/destroying-asteroids/
 [2129l]:https://leetcode.com/problems/capitalize-the-title/
 [2130l]:https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+[2131l]:https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
 [2133l]:https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/
 [2138l]:https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
 [2139l]:https://leetcode.com/problems/minimum-moves-to-reach-target-score/
