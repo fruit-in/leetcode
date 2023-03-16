@@ -931,6 +931,7 @@
 [2161][2161l]|[Partition Array According to Given Pivot][2161]                                      |![py]
 [2164][2164l]|[Sort Even and Odd Indices Independently][2164]                                       |![py]
 [2169][2169l]|[Count Operations to Obtain Zero][2169]                                               |![py]
+[2171][2171l]|[Removing Minimum Number of Magic Beans][2171]                                        |![rs]
 [2176][2176l]|[Count Equal and Divisible Pairs in an Array][2176]                                   |![rs]
 [2180][2180l]|[Count Integers With Even Digit Sum][2180]                                            |![py]
 [2181][2181l]|[Merge Nodes in Between Zeros][2181]                                                  |![py]
@@ -1933,6 +1934,7 @@
 [2161]:./Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot/README.md#2161-partition-array-according-to-given-pivot
 [2164]:./Easy/2164-Sort%20Even%20and%20Odd%20Indices%20Independently/README.md#2164-sort-even-and-odd-indices-independently
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README.md#2169-count-operations-to-obtain-zero
+[2171]:./Medium/2171-Removing%20Minimum%20Number%20of%20Magic%20Beans/README.md#2171-removing-minimum-number-of-magic-beans
 [2176]:./Easy/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README.md#2176-count-equal-and-divisible-pairs-in-an-array
 [2180]:./Easy/2180-Count%20Integers%20With%20Even%20Digit%20Sum/README.md#2180-count-integers-with-even-digit-sum
 [2181]:./Medium/2181-Merge%20Nodes%20in%20Between%20Zeros/README.md#2181-merge-nodes-in-between-zeros
@@ -2940,6 +2942,7 @@
 [2161l]:https://leetcode.com/problems/partition-array-according-to-given-pivot/
 [2164l]:https://leetcode.com/problems/sort-even-and-odd-indices-independently/
 [2169l]:https://leetcode.com/problems/count-operations-to-obtain-zero/
+[2171l]:https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
 [2176l]:https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 [2180l]:https://leetcode.com/problems/count-integers-with-even-digit-sum/
 [2181l]:https://leetcode.com/problems/merge-nodes-in-between-zeros/

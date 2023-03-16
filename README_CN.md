@@ -931,6 +931,7 @@
 [2161][2161l]|[根据给定数字划分数组][2161]                              |![py]
 [2164][2164l]|[对奇偶下标分别排序][2164]                                |![py]
 [2169][2169l]|[得到 0 的操作数][2169]                                   |![py]
+[2171][2171l]|[拿出最少数目的魔法豆][2171]                              |![rs]
 [2176][2176l]|[统计数组中相等且可以被整除的数对][2176]                  |![rs]
 [2180][2180l]|[统计各位数字之和为偶数的整数个数][2180]                  |![py]
 [2181][2181l]|[合并零之间的节点][2181]                                  |![py]
@@ -1933,6 +1934,7 @@
 [2161]:./Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot/README_CN.md#2161-根据给定数字划分数组
 [2164]:./Easy/2164-Sort%20Even%20and%20Odd%20Indices%20Independently/README_CN.md#2164-对奇偶下标分别排序
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README_CN.md#2169-得到-0-的操作数
+[2171]:./Medium/2171-Removing%20Minimum%20Number%20of%20Magic%20Beans/README_CN.md#2171-拿出最少数目的魔法豆
 [2176]:./Easy/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README_CN.md#2176-统计数组中相等且可以被整除的数对
 [2180]:./Easy/2180-Count%20Integers%20With%20Even%20Digit%20Sum/README_CN.md#2180-统计各位数字之和为偶数的整数个数
 [2181]:./Medium/2181-Merge%20Nodes%20in%20Between%20Zeros/README_CN.md#2181-合并零之间的节点
@@ -2940,6 +2942,7 @@
 [2161l]:https://leetcode.cn/problems/partition-array-according-to-given-pivot/
 [2164l]:https://leetcode.cn/problems/sort-even-and-odd-indices-independently/
 [2169l]:https://leetcode.cn/problems/count-operations-to-obtain-zero/
+[2171l]:https://leetcode.cn/problems/removing-minimum-number-of-magic-beans/
 [2176l]:https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/
 [2180l]:https://leetcode.cn/problems/count-integers-with-even-digit-sum/
 [2181l]:https://leetcode.cn/problems/merge-nodes-in-between-zeros/
