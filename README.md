@@ -903,6 +903,7 @@
 [2078][2078l]|[Two Furthest Houses With Different Colors][2078]                                     |![rs]
 [2079][2079l]|[Watering Plants][2079]                                                               |![rs]
 [2085][2085l]|[Count Common Words With One Occurrence][2085]                                        |![py]
+[2087][2087l]|[Minimum Cost Homecoming of a Robot in a Grid][2087]                                  |![py]
 [2089][2089l]|[Find Target Indices After Sorting Array][2089]                                       |![py]
 [2094][2094l]|[Finding 3-Digit Even Numbers][2094]                                                  |![rs]
 [2099][2099l]|[Find Subsequence of Length K With the Largest Sum][2099]                             |![rs]
@@ -1906,6 +1907,7 @@
 [2078]:./Easy/2078-Two%20Furthest%20Houses%20With%20Different%20Colors/README.md#2078-two-furthest-houses-with-different-colors
 [2079]:./Medium/2079-Watering%20Plants/README.md#2079-watering-plants
 [2085]:./Easy/2085-Count%20Common%20Words%20With%20One%20Occurrence/README.md#2085-count-common-words-with-one-occurrence
+[2087]:./Medium/2087-Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid/README.md#2087-minimum-cost-homecoming-of-a-robot-in-a-grid
 [2089]:./Easy/2089-Find%20Target%20Indices%20After%20Sorting%20Array/README.md#2089-find-target-indices-after-sorting-array
 [2094]:./Easy/2094-Finding%203-Digit%20Even%20Numbers/README.md#2094-finding-3-digit-even-numbers
 [2099]:./Easy/2099-Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum/README.md#2099-find-subsequence-of-length-k-with-the-largest-sum
@@ -2914,6 +2916,7 @@
 [2078l]:https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 [2079l]:https://leetcode.com/problems/watering-plants/
 [2085l]:https://leetcode.com/problems/count-common-words-with-one-occurrence/
+[2087l]:https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/
 [2089l]:https://leetcode.com/problems/find-target-indices-after-sorting-array/
 [2094l]:https://leetcode.com/problems/finding-3-digit-even-numbers/
 [2099l]:https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
