@@ -761,6 +761,7 @@
 [1624][1624l]|[两个相同字符之间的最长子字符串][1624]                    |![rb]&nbsp;&nbsp;![rs]
 [1629][1629l]|[按键持续时间最长的键][1629]                              |![rb]&nbsp;&nbsp;![rs]
 [1630][1630l]|[等差子数组][1630]                                        |![rb]&nbsp;&nbsp;![rs]
+[1631][1631l]|[最小体力消耗路径][1631]                                  |![rs]
 [1636][1636l]|[按照频率将数组升序排序][1636]                            |![rs]
 [1637][1637l]|[两点之间不包含任何点的最宽垂直面积][1637]                |![rb]&nbsp;&nbsp;![rs]
 [1640][1640l]|[能否连接形成数组][1640]                                  |![rb]&nbsp;&nbsp;![rs]
@@ -1765,6 +1766,7 @@
 [1624]:./Easy/1624-Largest%20Substring%20Between%20Two%20Equal%20Characters/README_CN.md#1624-两个相同字符之间的最长子字符串
 [1629]:./Easy/1629-Slowest%20Key/README_CN.md#1629-按键持续时间最长的键
 [1630]:./Medium/1630-Arithmetic%20Subarrays/README_CN.md#1630-等差子数组
+[1631]:./Medium/1631-Path%20With%20Minimum%20Effort/README_CN.md#1631-最小体力消耗路径
 [1636]:./Easy/1636-Sort%20Array%20by%20Increasing%20Frequency/README_CN.md#1636-按照频率将数组升序排序
 [1637]:./Medium/1637-Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points/README_CN.md#1637-两点之间不包含任何点的最宽垂直面积
 [1640]:./Easy/1640-Check%20Array%20Formation%20Through%20Concatenation/README_CN.md#1640-能否连接形成数组
@@ -2774,6 +2776,7 @@
 [1624l]:https://leetcode.cn/problems/largest-substring-between-two-equal-characters/
 [1629l]:https://leetcode.cn/problems/slowest-key/
 [1630l]:https://leetcode.cn/problems/arithmetic-subarrays/
+[1631l]:https://leetcode.cn/problems/path-with-minimum-effort/
 [1636l]:https://leetcode.cn/problems/sort-array-by-increasing-frequency/
 [1637l]:https://leetcode.cn/problems/widest-vertical-area-between-two-points-containing-no-points/
 [1640l]:https://leetcode.cn/problems/check-array-formation-through-concatenation/
