@@ -208,6 +208,7 @@
 [386][386l]  |[Lexicographical Numbers][386]                                                        |![rs]
 [387][387l]  |[First Unique Character in a String][387]                                             |![rb]&nbsp;&nbsp;![rs]
 [389][389l]  |[Find the Difference][389]                                                            |![rs]
+[390][390l]  |[Elimination Game][390]                                                               |![rs]
 [392][392l]  |[Is Subsequence][392]                                                                 |![rs]
 [393][393l]  |[UTF-8 Validation][393]                                                               |![rs]
 [396][396l]  |[Rotate Function][396]                                                                |![rs]
@@ -1213,6 +1214,7 @@
 [386]:./Medium/0386-Lexicographical%20Numbers/README.md#386-lexicographical-numbers
 [387]:./Easy/0387-First%20Unique%20Character%20in%20a%20String/README.md#387-first-unique-character-in-a-string
 [389]:./Easy/0389-Find%20the%20Difference/README.md#389-find-the-difference
+[390]:./Medium/0390-Elimination%20Game/README.md#390-elimination-game
 [392]:./Easy/0392-Is%20Subsequence/README.md#392-is-subsequence
 [393]:./Medium/0393-UTF-8%20Validation/README.md#393-utf-8-validation
 [396]:./Medium/0396-Rotate%20Function/README.md#396-rotate-function
@@ -2219,6 +2221,7 @@
 [386l]:https://leetcode.com/problems/lexicographical-numbers/
 [387l]:https://leetcode.com/problems/first-unique-character-in-a-string/
 [389l]:https://leetcode.com/problems/find-the-difference/
+[390l]:https://leetcode.com/problems/elimination-game/
 [392l]:https://leetcode.com/problems/is-subsequence/
 [393l]:https://leetcode.com/problems/utf-8-validation/
 [396l]:https://leetcode.com/problems/rotate-function/
