@@ -934,6 +934,7 @@
 [2160][2160l]|[Minimum Sum of Four Digit Number After Splitting Digits][2160]                       |![rs]
 [2161][2161l]|[Partition Array According to Given Pivot][2161]                                      |![py]
 [2164][2164l]|[Sort Even and Odd Indices Independently][2164]                                       |![py]
+[2166][2166l]|[Design Bitset][2166]                                                                 |![py]
 [2169][2169l]|[Count Operations to Obtain Zero][2169]                                               |![py]
 [2171][2171l]|[Removing Minimum Number of Magic Beans][2171]                                        |![rs]
 [2176][2176l]|[Count Equal and Divisible Pairs in an Array][2176]                                   |![rs]
@@ -1941,6 +1942,7 @@
 [2160]:./Easy/2160-Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/README.md#2160-minimum-sum-of-four-digit-number-after-splitting-digits
 [2161]:./Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot/README.md#2161-partition-array-according-to-given-pivot
 [2164]:./Easy/2164-Sort%20Even%20and%20Odd%20Indices%20Independently/README.md#2164-sort-even-and-odd-indices-independently
+[2166]:./Medium/2166-Design%20Bitset/README.md#2166-design-bitset
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README.md#2169-count-operations-to-obtain-zero
 [2171]:./Medium/2171-Removing%20Minimum%20Number%20of%20Magic%20Beans/README.md#2171-removing-minimum-number-of-magic-beans
 [2176]:./Easy/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README.md#2176-count-equal-and-divisible-pairs-in-an-array
@@ -2953,6 +2955,7 @@
 [2160l]:https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2161l]:https://leetcode.com/problems/partition-array-according-to-given-pivot/
 [2164l]:https://leetcode.com/problems/sort-even-and-odd-indices-independently/
+[2166l]:https://leetcode.com/problems/design-bitset/
 [2169l]:https://leetcode.com/problems/count-operations-to-obtain-zero/
 [2171l]:https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
 [2176l]:https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
