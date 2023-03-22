@@ -995,6 +995,7 @@
 [2441][2441l]|[与对应负数同时存在的最大正整数][2441]                    |![rs]
 [2465][2465l]|[不同的平均值数目][2465]                                  |![rs]
 [2469][2469l]|[温度转换][2469]                                          |![rs]
+[2482][2482l]|[行和列中一和零的差值][2482]                              |![rs]
 [2490][2490l]|[回环句][2490]                                            |![py]
 [2496][2496l]|[数组中字符串的最大值][2496]                              |![rs]
 [2520][2520l]|[统计能整除数字的位数][2520]                              |![rs]
@@ -2003,6 +2004,7 @@
 [2441]:./Easy/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README_CN.md#2441-与对应负数同时存在的最大正整数
 [2465]:./Easy/2465-Number%20of%20Distinct%20Averages/README_CN.md#2465-不同的平均值数目
 [2469]:./Easy/2469-Convert%20the%20Temperature/README_CN.md#2469-温度转换
+[2482]:./Medium/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README_CN.md#2482-行和列中一和零的差值
 [2490]:./Easy/2490-Circular%20Sentence/README_CN.md#2490-回环句
 [2496]:./Easy/2496-Maximum%20Value%20of%20a%20String%20in%20an%20Array/README_CN.md#2496-数组中字符串的最大值
 [2520]:./Easy/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README_CN.md#2520-统计能整除数字的位数
@@ -3016,6 +3018,7 @@
 [2441l]:https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative/
 [2465l]:https://leetcode.cn/problems/number-of-distinct-averages/
 [2469l]:https://leetcode.cn/problems/convert-the-temperature/
+[2482l]:https://leetcode.cn/problems/difference-between-ones-and-zeros-in-row-and-column/
 [2490l]:https://leetcode.cn/problems/circular-sentence/
 [2496l]:https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/
 [2520l]:https://leetcode.cn/problems/count-the-digits-that-divide-a-number/

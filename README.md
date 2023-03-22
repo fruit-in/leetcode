@@ -995,6 +995,7 @@
 [2441][2441l]|[Largest Positive Integer That Exists With Its Negative][2441]                        |![rs]
 [2465][2465l]|[Number of Distinct Averages][2465]                                                   |![rs]
 [2469][2469l]|[Convert the Temperature][2469]                                                       |![rs]
+[2482][2482l]|[Difference Between Ones and Zeros in Row and Column][2482]                           |![rs]
 [2490][2490l]|[Circular Sentence][2490]                                                             |![py]
 [2496][2496l]|[Maximum Value of a String in an Array][2496]                                         |![rs]
 [2520][2520l]|[Count the Digits That Divide a Number][2520]                                         |![rs]
@@ -2003,6 +2004,7 @@
 [2441]:./Easy/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README.md#2441-largest-positive-integer-that-exists-with-its-negative
 [2465]:./Easy/2465-Number%20of%20Distinct%20Averages/README.md#2465-number-of-distinct-averages
 [2469]:./Easy/2469-Convert%20the%20Temperature/README.md#2469-convert-the-temperature
+[2482]:./Medium/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README.md#2482-difference-between-ones-and-zeros-in-row-and-column
 [2490]:./Easy/2490-Circular%20Sentence/README.md#2490-circular-sentence
 [2496]:./Easy/2496-Maximum%20Value%20of%20a%20String%20in%20an%20Array/README.md#2496-maximum-value-of-a-string-in-an-array
 [2520]:./Easy/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README.md#2520-count-the-digits-that-divide-a-number
@@ -3016,6 +3018,7 @@
 [2441l]:https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
 [2465l]:https://leetcode.com/problems/number-of-distinct-averages/
 [2469l]:https://leetcode.com/problems/convert-the-temperature/
+[2482l]:https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
 [2490l]:https://leetcode.com/problems/circular-sentence/
 [2496l]:https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 [2520l]:https://leetcode.com/problems/count-the-digits-that-divide-a-number/
