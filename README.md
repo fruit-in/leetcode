@@ -987,6 +987,7 @@
 [2331][2331l]|[Evaluate Boolean Binary Tree][2331]                                                  |![py]
 [2335][2335l]|[Minimum Amount of Time to Fill Cups][2335]                                           |![rs]
 [2341][2341l]|[Maximum Number of Pairs in Array][2341]                                              |![rs]
+[2342][2342l]|[Max Sum of a Pair With Equal Sum of Digits][2342]                                    |![rs]
 [2347][2347l]|[Best Poker Hand][2347]                                                               |![py]
 [2351][2351l]|[First Letter to Appear Twice][2351]                                                  |![rs]
 [2357][2357l]|[Make Array Zero by Subtracting Equal Amounts][2357]                                  |![rs]
@@ -1997,6 +1998,7 @@
 [2331]:./Easy/2331-Evaluate%20Boolean%20Binary%20Tree/README.md#2331-evaluate-boolean-binary-tree
 [2335]:./Easy/2335-Minimum%20Amount%20of%20Time%20to%20Fill%20Cups/README.md#2335-minimum-amount-of-time-to-fill-cups
 [2341]:./Easy/2341-Maximum%20Number%20of%20Pairs%20in%20Array/README.md#2341-maximum-number-of-pairs-in-array
+[2342]:./Medium/2342-Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits/README.md#2342-max-sum-of-a-pair-with-equal-sum-of-digits
 [2347]:./Easy/2347-Best%20Poker%20Hand/README.md#2347-best-poker-hand
 [2351]:./Easy/2351-First%20Letter%20to%20Appear%20Twice/README.md#2351-first-letter-to-appear-twice
 [2357]:./Easy/2357-Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts/README.md#2357-make-array-zero-by-subtracting-equal-amounts
@@ -3012,6 +3014,7 @@
 [2331l]:https://leetcode.com/problems/evaluate-boolean-binary-tree/
 [2335l]:https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/
 [2341l]:https://leetcode.com/problems/maximum-number-of-pairs-in-array/
+[2342l]:https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 [2347l]:https://leetcode.com/problems/best-poker-hand/
 [2351l]:https://leetcode.com/problems/first-letter-to-appear-twice/
 [2357l]:https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
