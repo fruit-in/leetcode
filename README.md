@@ -898,6 +898,7 @@
 [2053][2053l]|[Kth Distinct String in an Array][2053]                                               |![py]
 [2055][2055l]|[Plates Between Candles][2055]                                                        |![rs]
 [2057][2057l]|[Smallest Index With Equal Value][2057]                                               |![rs]
+[2058][2058l]|[Find the Minimum and Maximum Number of Nodes Between Critical Points][2058]          |![py]
 [2059][2059l]|[Minimum Operations to Convert Number][2059]                                          |![rs]
 [2062][2062l]|[Count Vowel Substrings of a String][2062]                                            |![py]
 [2063][2063l]|[Vowels of All Substrings][2063]                                                      |![rs]
@@ -1911,6 +1912,7 @@
 [2053]:./Easy/2053-Kth%20Distinct%20String%20in%20an%20Array/README.md#2053-kth-distinct-string-in-an-array
 [2055]:./Medium/2055-Plates%20Between%20Candles/README.md#2055-plates-between-candles
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README.md#2057-smallest-index-with-equal-value
+[2058]:./Medium/2058-Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points/README.md#2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points
 [2059]:./Medium/2059-Minimum%20Operations%20to%20Convert%20Number/README.md#2059-minimum-operations-to-convert-number
 [2062]:./Easy/2062-Count%20Vowel%20Substrings%20of%20a%20String/README.md#2062-count-vowel-substrings-of-a-string
 [2063]:./Medium/2063-Vowels%20of%20All%20Substrings/README.md#2063-vowels-of-all-substrings
@@ -2929,6 +2931,7 @@
 [2053l]:https://leetcode.com/problems/kth-distinct-string-in-an-array/
 [2055l]:https://leetcode.com/problems/plates-between-candles/
 [2057l]:https://leetcode.com/problems/smallest-index-with-equal-value/
+[2058l]:https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
 [2059l]:https://leetcode.com/problems/minimum-operations-to-convert-number/
 [2062l]:https://leetcode.com/problems/count-vowel-substrings-of-a-string/
 [2063l]:https://leetcode.com/problems/vowels-of-all-substrings/

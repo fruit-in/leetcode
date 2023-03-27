@@ -898,6 +898,7 @@
 [2053][2053l]|[数组中第 K 个独一无二的字符串][2053]                     |![py]
 [2055][2055l]|[蜡烛之间的盘子][2055]                                    |![rs]
 [2057][2057l]|[值相等的最小索引][2057]                                  |![rs]
+[2058][2058l]|[找出临界点之间的最小和最大距离][2058]                    |![py]
 [2059][2059l]|[转化数字的最小运算数][2059]                              |![rs]
 [2062][2062l]|[统计字符串中的元音子字符串][2062]                        |![py]
 [2063][2063l]|[所有子字符串中的元音][2063]                              |![rs]
@@ -1911,6 +1912,7 @@
 [2053]:./Easy/2053-Kth%20Distinct%20String%20in%20an%20Array/README_CN.md#2053-数组中第-k-个独一无二的字符串
 [2055]:./Medium/2055-Plates%20Between%20Candles/README_CN.md#2055-蜡烛之间的盘子
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README_CN.md#2057-值相等的最小索引
+[2058]:./Medium/2058-Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points/README_CN.md#2058-找出临界点之间的最小和最大距离
 [2059]:./Medium/2059-Minimum%20Operations%20to%20Convert%20Number/README_CN.md#2059-转化数字的最小运算数
 [2062]:./Easy/2062-Count%20Vowel%20Substrings%20of%20a%20String/README_CN.md#2062-统计字符串中的元音子字符串
 [2063]:./Medium/2063-Vowels%20of%20All%20Substrings/README_CN.md#2063-所有子字符串中的元音
@@ -2929,6 +2931,7 @@
 [2053l]:https://leetcode.cn/problems/kth-distinct-string-in-an-array/
 [2055l]:https://leetcode.cn/problems/plates-between-candles/
 [2057l]:https://leetcode.cn/problems/smallest-index-with-equal-value/
+[2058l]:https://leetcode.cn/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
 [2059l]:https://leetcode.cn/problems/minimum-operations-to-convert-number/
 [2062l]:https://leetcode.cn/problems/count-vowel-substrings-of-a-string/
 [2063l]:https://leetcode.cn/problems/vowels-of-all-substrings/
