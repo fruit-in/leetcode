@@ -951,6 +951,7 @@
 [2200][2200l]|[找出数组中的所有 K 近邻下标][2200]                       |![rs]
 [2206][2206l]|[将数组划分成相等数对][2206]                              |![rs]
 [2210][2210l]|[统计数组中峰和谷的数量][2210]                            |![py]
+[2211][2211l]|[统计道路上的碰撞次数][2211]                              |![rs]
 [2215][2215l]|[找出两数组的不同][2215]                                  |![rs]
 [2220][2220l]|[转换数字的最少位翻转次数][2220]                          |![rs]
 [2221][2221l]|[数组的三角和][2221]                                      |![rs]
@@ -1966,6 +1967,7 @@
 [2200]:./Easy/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README_CN.md#2200-找出数组中的所有-k-近邻下标
 [2206]:./Easy/2206-Divide%20Array%20Into%20Equal%20Pairs/README_CN.md#2206-将数组划分成相等数对
 [2210]:./Easy/2210-Count%20Hills%20and%20Valleys%20in%20an%20Array/README_CN.md#2210-统计数组中峰和谷的数量
+[2211]:./Medium/2211-Count%20Collisions%20on%20a%20Road/README_CN.md#2211-统计道路上的碰撞次数
 [2215]:./Easy/2215-Find%20the%20Difference%20of%20Two%20Arrays/README_CN.md#2215-找出两数组的不同
 [2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README_CN.md#2220-转换数字的最少位翻转次数
 [2221]:./Medium/2221-Find%20Triangular%20Sum%20of%20an%20Array/README_CN.md#2221-数组的三角和
@@ -2986,6 +2988,7 @@
 [2200l]:https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/
 [2206l]:https://leetcode.cn/problems/divide-array-into-equal-pairs/
 [2210l]:https://leetcode.cn/problems/count-hills-and-valleys-in-an-array/
+[2211l]:https://leetcode.cn/problems/count-collisions-on-a-road/
 [2215l]:https://leetcode.cn/problems/find-the-difference-of-two-arrays/
 [2220l]:https://leetcode.cn/problems/minimum-bit-flips-to-convert-number/
 [2221l]:https://leetcode.cn/problems/find-triangular-sum-of-an-array/
