@@ -1010,6 +1010,7 @@
 [2544][2544l]|[交替数字和][2544]                                        |![rs]
 [2553][2553l]|[分割数组中数字的数位][2553]                              |![rs]
 [2558][2558l]|[从数量最多的堆取走礼物][2558]                            |![rs]
+[2598][2598l]|[执行操作后的最大 MEX][2598]                              |![rs]
 
 
 [py]:./ico/python.ico
@@ -2026,6 +2027,7 @@
 [2544]:./Easy/2544-Alternating%20Digit%20Sum/README_CN.md#2544-交替数字和
 [2553]:./Easy/2553-Separate%20the%20Digits%20in%20an%20Array/README_CN.md#2553-分割数组中数字的数位
 [2558]:./Easy/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README_CN.md#2558-take-gifts-from-the-richest-pile
+[2598]:./Medium/2598-Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/README_CN.md#2598-执行操作后的最大-mex
 
 [1l]:https://leetcode.cn/problems/two-sum/
 [2l]:https://leetcode.cn/problems/add-two-numbers/
@@ -3047,3 +3049,4 @@
 [2544l]:https://leetcode.cn/problems/alternating-digit-sum/
 [2553l]:https://leetcode.cn/problems/separate-the-digits-in-an-array/
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
+[2598l]:https://leetcode.cn/problems/smallest-missing-non-negative-integer-after-operations/
