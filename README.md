@@ -1011,6 +1011,7 @@
 [2553][2553l]|[Separate the Digits in an Array][2553]                                               |![rs]
 [2558][2558l]|[Take Gifts From the Richest Pile][2558]                                              |![rs]
 [2598][2598l]|[Smallest Missing Non-negative Integer After Operations][2598]                        |![rs]
+[2601][2601l]|[Prime Subtraction Operation][2601]                                                   |![rs]
 
 
 [py]:./ico/python.ico
@@ -2028,6 +2029,7 @@
 [2553]:./Easy/2553-Separate%20the%20Digits%20in%20an%20Array/README.md#2553-separate-the-digits-in-an-array
 [2558]:./Easy/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README.md#2558-take-gifts-from-the-richest-pile
 [2598]:./Medium/2598-Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/README.md#2598-smallest-missing-non-negative-integer-after-operations
+[2601]:./Medium/2601-Prime%20Subtraction%20Operation/README.md#2601-prime-subtraction-operation
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -3050,3 +3052,4 @@
 [2553l]:https://leetcode.com/problems/separate-the-digits-in-an-array/
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2598l]:https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/
+[2601l]:https://leetcode.com/problems/prime-subtraction-operation/
