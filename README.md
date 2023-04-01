@@ -605,6 +605,7 @@
 [1277][1277l]|[Count Square Submatrices with All Ones][1277]                                        |![rs]
 [1281][1281l]|[Subtract the Product and Sum of Digits of an Integer][1281]                          |![rs]
 [1282][1282l]|[Group the People Given the Group Size They Belong To][1282]                          |![rs]
+[1283][1283l]|[Find the Smallest Divisor Given a Threshold][1283]                                   |![py]
 [1286][1286l]|[Iterator for Combination][1286]                                                      |![rs]
 [1287][1287l]|[Element Appearing More Than 25% In Sorted Array][1287]                               |![rs]
 [1288][1288l]|[Remove Covered Intervals][1288]                                                      |![rs]
@@ -1623,6 +1624,7 @@
 [1277]:./Medium/1277-Count%20Square%20Submatrices%20with%20All%20Ones/README.md#1277-count-square-submatrices-with-all-ones
 [1281]:./Easy/1281-Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/README.md#1281-subtract-the-product-and-sum-of-digits-of-an-integer
 [1282]:./Medium/1282-Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To/README.md#1282-group-the-people-given-the-group-size-they-belong-to
+[1283]:./Medium/1283-Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold/README.md#1283-find-the-smallest-divisor-given-a-threshold
 [1286]:./Medium/1286-Iterator%20for%20Combination/README.md#1286-iterator-for-combination
 [1287]:./Easy/1287-Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array/README.md#1287-element-appearing-more-than-25-in-sorted-array
 [1288]:./Medium/1288-Remove%20Covered%20Intervals/README.md#1288-remove-covered-intervals
@@ -2646,6 +2648,7 @@
 [1277l]:https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 [1281l]:https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 [1282l]:https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
+[1283l]:https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 [1286l]:https://leetcode.com/problems/iterator-for-combination/
 [1287l]:https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 [1288l]:https://leetcode.com/problems/remove-covered-intervals/
