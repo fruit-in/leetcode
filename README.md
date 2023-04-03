@@ -948,6 +948,7 @@
 [2185][2185l]|[Counting Words With a Given Prefix][2185]                                            |![rs]
 [2186][2186l]|[Minimum Number of Steps to Make Two Strings Anagram II][2186]                        |![rs]
 [2190][2190l]|[Most Frequent Number Following Key In an Array][2190]                                |![rs]
+[2191][2191l]|[Sort the Jumbled Numbers][2191]                                                      |![rs]
 [2194][2194l]|[Cells in a Range on an Excel Sheet][2194]                                            |![rs]
 [2196][2196l]|[Create Binary Tree From Descriptions][2196]                                          |![py]
 [2200][2200l]|[Find All K-Distant Indices in an Array][2200]                                        |![rs]
@@ -1968,6 +1969,7 @@
 [2185]:./Easy/2185-Counting%20Words%20With%20a%20Given%20Prefix/README.md#2185-counting-words-with-a-given-prefix
 [2186]:./Medium/2186-Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II/README.md#2186-minimum-number-of-steps-to-make-two-strings-anagram-ii
 [2190]:./Easy/2190-Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array/README.md#2190-most-frequent-number-following-key-in-an-array
+[2191]:./Medium/2191-Sort%20the%20Jumbled%20Numbers/README.md#2191-sort-the-jumbled-numbers
 [2194]:./Easy/2194-Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet/README.md#2194-cells-in-a-range-on-an-excel-sheet
 [2196]:./Medium/2196-Create%20Binary%20Tree%20From%20Descriptions/README.md#2196-create-binary-tree-from-descriptions
 [2200]:./Easy/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README.md#2200-find-all-k-distant-indices-in-an-array
@@ -2993,6 +2995,7 @@
 [2185l]:https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2186l]:https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 [2190l]:https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
+[2191l]:https://leetcode.com/problems/sort-the-jumbled-numbers/
 [2194l]:https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
 [2196l]:https://leetcode.com/problems/create-binary-tree-from-descriptions/
 [2200l]:https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/

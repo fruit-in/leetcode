@@ -948,6 +948,7 @@
 [2185][2185l]|[统计包含给定前缀的字符串][2185]                          |![rs]
 [2186][2186l]|[使两字符串互为字母异位词的最少步骤数][2186]              |![rs]
 [2190][2190l]|[数组中紧跟 key 之后出现最频繁的数字][2190]               |![rs]
+[2191][2191l]|[将杂乱无章的数字排序][2191]                              |![rs]
 [2194][2194l]|[Excel 表中某个范围内的单元格][2194]                      |![rs]
 [2196][2196l]|[根据描述创建二叉树][2196]                                |![py]
 [2200][2200l]|[找出数组中的所有 K 近邻下标][2200]                       |![rs]
@@ -1968,6 +1969,7 @@
 [2185]:./Easy/2185-Counting%20Words%20With%20a%20Given%20Prefix/README_CN.md#2185-统计包含给定前缀的字符串
 [2186]:./Medium/2186-Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II/README_CN.md#2186-使两字符串互为字母异位词的最少步骤数
 [2190]:./Easy/2190-Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array/README_CN.md#2190-数组中紧跟-key-之后出现最频繁的数字
+[2191]:./Medium/2191-Sort%20the%20Jumbled%20Numbers/README_CN.md#2191-将杂乱无章的数字排序
 [2194]:./Easy/2194-Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet/README_CN.md#2194-excel-表中某个范围内的单元格
 [2196]:./Medium/2196-Create%20Binary%20Tree%20From%20Descriptions/README_CN.md#2196-根据描述创建二叉树
 [2200]:./Easy/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README_CN.md#2200-找出数组中的所有-k-近邻下标
@@ -2993,6 +2995,7 @@
 [2185l]:https://leetcode.cn/problems/counting-words-with-a-given-prefix/
 [2186l]:https://leetcode.cn/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 [2190l]:https://leetcode.cn/problems/most-frequent-number-following-key-in-an-array/
+[2191l]:https://leetcode.cn/problems/sort-the-jumbled-numbers/
 [2194l]:https://leetcode.cn/problems/cells-in-a-range-on-an-excel-sheet/
 [2196l]:https://leetcode.cn/problems/create-binary-tree-from-descriptions/
 [2200l]:https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/
