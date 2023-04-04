@@ -913,6 +913,7 @@
 [2087][2087l]|[网格图中机器人回家的最小代价][2087]                      |![py]
 [2089][2089l]|[找出数组排序后的目标下标][2089]                          |![py]
 [2094][2094l]|[找出 3 位偶数][2094]                                     |![rs]
+[2095][2095l]|[删除链表的中间节点][2095]                                |![py]
 [2099][2099l]|[找到和最大的长度为 K 的子序列][2099]                     |![rs]
 [2103][2103l]|[环和杆][2103]                                            |![rs]
 [2108][2108l]|[找出数组中的第一个回文字符串][2108]                      |![rs]
@@ -1934,6 +1935,7 @@
 [2087]:./Medium/2087-Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid/README_CN.md#2087-网格图中机器人回家的最小代价
 [2089]:./Easy/2089-Find%20Target%20Indices%20After%20Sorting%20Array/README_CN.md#2089-找出数组排序后的目标下标
 [2094]:./Easy/2094-Finding%203-Digit%20Even%20Numbers/README_CN.md#2094-找出-3-位偶数
+[2095]:./Medium/2095-Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/README_CN.md#2095-删除链表的中间节点
 [2099]:./Easy/2099-Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum/README_CN.md#2099-找到和最大的长度为-k-的子序列
 [2103]:./Easy/2103-Rings%20and%20Rods/README_CN.md#2103-环和杆
 [2108]:./Easy/2108-Find%20First%20Palindromic%20String%20in%20the%20Array/README_CN.md#2108-找出数组中的第一个回文字符串
@@ -2960,6 +2962,7 @@
 [2087l]:https://leetcode.cn/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/
 [2089l]:https://leetcode.cn/problems/find-target-indices-after-sorting-array/
 [2094l]:https://leetcode.cn/problems/finding-3-digit-even-numbers/
+[2095l]:https://leetcode.cn/problems/delete-the-middle-node-of-a-linked-list/
 [2099l]:https://leetcode.cn/problems/find-subsequence-of-length-k-with-the-largest-sum/
 [2103l]:https://leetcode.cn/problems/rings-and-rods/
 [2108l]:https://leetcode.cn/problems/find-first-palindromic-string-in-the-array/
