@@ -1011,6 +1011,7 @@
 [2496][2496l]|[Maximum Value of a String in an Array][2496]                                         |![rs]
 [2520][2520l]|[Count the Digits That Divide a Number][2520]                                         |![rs]
 [2525][2525l]|[Categorize Box According to Criteria][2525]                                          |![rs]
+[2526][2526l]|[Find Consecutive Integers from a Data Stream][2526]                                  |![rs]
 [2544][2544l]|[Alternating Digit Sum][2544]                                                         |![rs]
 [2553][2553l]|[Separate the Digits in an Array][2553]                                               |![rs]
 [2558][2558l]|[Take Gifts From the Richest Pile][2558]                                              |![rs]
@@ -2033,6 +2034,7 @@
 [2496]:./Easy/2496-Maximum%20Value%20of%20a%20String%20in%20an%20Array/README.md#2496-maximum-value-of-a-string-in-an-array
 [2520]:./Easy/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README.md#2520-count-the-digits-that-divide-a-number
 [2525]:./Easy/2525-Categorize%20Box%20According%20to%20Criteria/README.md#2525-categorize-box-according-to-criteria
+[2526]:./Medium/2526-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream/README.md#2526-find-consecutive-integers-from-a-data-stream
 [2544]:./Easy/2544-Alternating%20Digit%20Sum/README.md#2544-alternating-digit-sum
 [2553]:./Easy/2553-Separate%20the%20Digits%20in%20an%20Array/README.md#2553-separate-the-digits-in-an-array
 [2558]:./Easy/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README.md#2558-take-gifts-from-the-richest-pile
@@ -3060,6 +3062,7 @@
 [2496l]:https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 [2520l]:https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 [2525l]:https://leetcode.com/problems/categorize-box-according-to-criteria/
+[2526l]:https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/
 [2544l]:https://leetcode.com/problems/alternating-digit-sum/
 [2553l]:https://leetcode.com/problems/separate-the-digits-in-an-array/
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/

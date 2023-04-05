@@ -1011,6 +1011,7 @@
 [2496][2496l]|[数组中字符串的最大值][2496]                              |![rs]
 [2520][2520l]|[统计能整除数字的位数][2520]                              |![rs]
 [2525][2525l]|[根据规则将箱子分类][2525]                                |![rs]
+[2526][2526l]|[找到数据流中的连续整数][2526]                            |![rs]
 [2544][2544l]|[交替数字和][2544]                                        |![rs]
 [2553][2553l]|[分割数组中数字的数位][2553]                              |![rs]
 [2558][2558l]|[从数量最多的堆取走礼物][2558]                            |![rs]
@@ -2033,6 +2034,7 @@
 [2496]:./Easy/2496-Maximum%20Value%20of%20a%20String%20in%20an%20Array/README_CN.md#2496-数组中字符串的最大值
 [2520]:./Easy/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README_CN.md#2520-统计能整除数字的位数
 [2525]:./Easy/2525-Categorize%20Box%20According%20to%20Criteria/README_CN.md#2525-根据规则将箱子分类
+[2526]:./Medium/2526-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream/README_CN.md#2526-找到数据流中的连续整数
 [2544]:./Easy/2544-Alternating%20Digit%20Sum/README_CN.md#2544-交替数字和
 [2553]:./Easy/2553-Separate%20the%20Digits%20in%20an%20Array/README_CN.md#2553-分割数组中数字的数位
 [2558]:./Easy/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README_CN.md#2558-take-gifts-from-the-richest-pile
@@ -3060,6 +3062,7 @@
 [2496l]:https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/
 [2520l]:https://leetcode.cn/problems/count-the-digits-that-divide-a-number/
 [2525l]:https://leetcode.cn/problems/categorize-box-according-to-criteria/
+[2526l]:https://leetcode.cn/problems/find-consecutive-integers-from-a-data-stream/
 [2544l]:https://leetcode.cn/problems/alternating-digit-sum/
 [2553l]:https://leetcode.cn/problems/separate-the-digits-in-an-array/
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
