@@ -994,6 +994,7 @@
 [2326][2326l]|[螺旋矩阵 IV][2326]                                       |![py]
 [2331][2331l]|[计算布尔二叉树的值][2331]                                |![py]
 [2335][2335l]|[装满杯子需要的最短总时长][2335]                          |![rs]
+[2336][2336l]|[无限集中的最小数字][2336]                                |![rs]
 [2341][2341l]|[数组能形成多少数对][2341]                                |![rs]
 [2342][2342l]|[数位和相等数对的最大和][2342]                            |![rs]
 [2347][2347l]|[最好的扑克手牌][2347]                                    |![py]
@@ -2017,6 +2018,7 @@
 [2326]:./Medium/2326-Spiral%20Matrix%20IV/README_CN.md#2326-螺旋矩阵-iv
 [2331]:./Easy/2331-Evaluate%20Boolean%20Binary%20Tree/README_CN.md#2331-计算布尔二叉树的值
 [2335]:./Easy/2335-Minimum%20Amount%20of%20Time%20to%20Fill%20Cups/README_CN.md#2335-装满杯子需要的最短总时长
+[2336]:./Medium/2336-Smallest%20Number%20in%20Infinite%20Set/README_CN.md#2336-无限集中的最小数字
 [2341]:./Easy/2341-Maximum%20Number%20of%20Pairs%20in%20Array/README_CN.md#2341-数组能形成多少数对
 [2342]:./Medium/2342-Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits/README_CN.md#2342-数位和相等数对的最大和
 [2347]:./Easy/2347-Best%20Poker%20Hand/README_CN.md#2347-最好的扑克手牌
@@ -3045,6 +3047,7 @@
 [2326l]:https://leetcode.cn/problems/spiral-matrix-iv/
 [2331l]:https://leetcode.cn/problems/evaluate-boolean-binary-tree/
 [2335l]:https://leetcode.cn/problems/minimum-amount-of-time-to-fill-cups/
+[2336l]:https://leetcode.cn/problems/smallest-number-in-infinite-set/
 [2341l]:https://leetcode.cn/problems/maximum-number-of-pairs-in-array/
 [2342l]:https://leetcode.cn/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 [2347l]:https://leetcode.cn/problems/best-poker-hand/
