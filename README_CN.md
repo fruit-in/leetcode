@@ -959,6 +959,7 @@
 [2215][2215l]|[找出两数组的不同][2215]                                  |![rs]
 [2220][2220l]|[转换数字的最少位翻转次数][2220]                          |![rs]
 [2221][2221l]|[数组的三角和][2221]                                      |![rs]
+[2222][2222l]|[选择建筑的方案数][2222]                                  |![rs]
 [2224][2224l]|[转化时间需要的最少操作数][2224]                          |![py]
 [2225][2225l]|[找出输掉零场或一场比赛的玩家][2225]                      |![py]
 [2231][2231l]|[按奇偶性交换后的最大数字][2231]                          |![rs]
@@ -1983,6 +1984,7 @@
 [2215]:./Easy/2215-Find%20the%20Difference%20of%20Two%20Arrays/README_CN.md#2215-找出两数组的不同
 [2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README_CN.md#2220-转换数字的最少位翻转次数
 [2221]:./Medium/2221-Find%20Triangular%20Sum%20of%20an%20Array/README_CN.md#2221-数组的三角和
+[2222]:./Medium/2222-Number%20of%20Ways%20to%20Select%20Buildings/README_CN.md#2222-选择建筑的方案数
 [2224]:./Easy/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README_CN.md#2224-转化时间需要的最少操作数
 [2225]:./Medium/2225-Find%20Players%20With%20Zero%20or%20One%20Losses/README_CN.md#2225-找出输掉零场或一场比赛的玩家
 [2231]:./Easy/2231-Largest%20Number%20After%20Digit%20Swaps%20by%20Parity/README_CN.md#2231-按奇偶性交换后的最大数字
@@ -3012,6 +3014,7 @@
 [2215l]:https://leetcode.cn/problems/find-the-difference-of-two-arrays/
 [2220l]:https://leetcode.cn/problems/minimum-bit-flips-to-convert-number/
 [2221l]:https://leetcode.cn/problems/find-triangular-sum-of-an-array/
+[2222l]:https://leetcode.cn/problems/number-of-ways-to-select-buildings/
 [2224l]:https://leetcode.cn/problems/minimum-number-of-operations-to-convert-time/
 [2225l]:https://leetcode.cn/problems/find-players-with-zero-or-one-losses/
 [2231l]:https://leetcode.cn/problems/largest-number-after-digit-swaps-by-parity/
