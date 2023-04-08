@@ -114,6 +114,7 @@
 [160][160l]  |[相交链表][160]                                           |![py]
 [162][162l]  |[寻找峰值][162]                                           |![rs]
 [165][165l]  |[比较版本号][165]                                         |![rs]
+[166][166l]  |[分数到小数][166]                                         |![rs]
 [167][167l]  |[两数之和 II - 输入有序数组][167]                         |![rs]
 [168][168l]  |[Excel表列名称][168]                                      |![py]&nbsp;&nbsp;![rb]
 [169][169l]  |[多数元素][169]                                           |![rs]
@@ -1139,6 +1140,7 @@
 [160]:./Easy/0160-Intersection%20of%20Two%20Linked%20Lists/README_CN.md#160-相交链表
 [162]:./Medium/0162-Find%20Peak%20Element/README_CN.md#162-寻找峰值
 [165]:./Medium/0165-Compare%20Version%20Numbers/README_CN.md#165-比较版本号
+[166]:./Medium/0166-Fraction%20to%20Recurring%20Decimal/README_CN.md#166-分数到小数
 [167]:./Easy/0167-Two%20Sum%20II%20-%20Input%20array%20is%20sorted/README_CN.md#167-两数之和-ii---输入有序数组
 [168]:./Easy/0168-Excel%20Sheet%20Column%20Title/README_CN.md#168-excel表列名称
 [169]:./Easy/0169-Majority%20Element/README_CN.md#169-多数元素
@@ -2160,6 +2162,7 @@
 [160l]:https://leetcode.cn/problems/intersection-of-two-linked-lists/
 [162l]:https://leetcode.cn/problems/find-peak-element/
 [165l]:https://leetcode.cn/problems/compare-version-numbers/
+[166l]:https://leetcode.cn/problems/fraction-to-recurring-decimal/
 [167l]:https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/
 [168l]:https://leetcode.cn/problems/excel-sheet-column-title/
 [169l]:https://leetcode.cn/problems/majority-element/
