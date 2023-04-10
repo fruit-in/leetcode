@@ -989,6 +989,7 @@
 [2295][2295l]|[Replace Elements in an Array][2295]                                                  |![rs]
 [2299][2299l]|[Strong Password Checker II][2299]                                                    |![rs]
 [2303][2303l]|[Calculate Amount Paid in Taxes][2303]                                                |![rs]
+[2304][2304l]|[Minimum Path Cost in a Grid][2304]                                                   |![rs]
 [2309][2309l]|[Greatest English Letter in Upper and Lower Case][2309]                               |![rs]
 [2315][2315l]|[Count Asterisks][2315]                                                               |![rs]
 [2317][2317l]|[Maximum XOR After Operations][2317]                                                  |![rs]
@@ -2016,6 +2017,7 @@
 [2295]:./Medium/2295-Replace%20Elements%20in%20an%20Array/README.md#2295-replace-elements-in-an-array
 [2299]:./Easy/2299-Strong%20Password%20Checker%20II/README.md#2299-strong-password-checker-ii
 [2303]:./Easy/2303-Calculate%20Amount%20Paid%20in%20Taxes/README.md#2303-calculate-amount-paid-in-taxes
+[2304]:./Medium/2304-Minimum%20Path%20Cost%20in%20a%20Grid/README.md#2304-minimum-path-cost-in-a-grid
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README.md#2309-greatest-english-letter-in-upper-and-lower-case
 [2315]:./Easy/2315-Count%20Asterisks/README.md#2315-count-asterisks
 [2317]:./Medium/2317-Maximum%20XOR%20After%20Operations/README.md#2317-maximum-xor-after-operations
@@ -3048,6 +3050,7 @@
 [2295l]:https://leetcode.com/problems/replace-elements-in-an-array/
 [2299l]:https://leetcode.com/problems/strong-password-checker-ii/
 [2303l]:https://leetcode.com/problems/calculate-amount-paid-in-taxes/
+[2304l]:https://leetcode.com/problems/minimum-path-cost-in-a-grid/
 [2309l]:https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
 [2315l]:https://leetcode.com/problems/count-asterisks/
 [2317l]:https://leetcode.com/problems/maximum-xor-after-operations/
