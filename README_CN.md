@@ -1008,6 +1008,7 @@
 [2395][2395l]|[和相等的子数组][2395]                                    |![rs]
 [2413][2413l]|[最小偶倍数][2413]                                        |![rs]
 [2418][2418l]|[按身高排序][2418]                                        |![rs]
+[2425][2425l]|[所有数对的异或和][2425]                                  |![rs]
 [2441][2441l]|[与对应负数同时存在的最大正整数][2441]                    |![rs]
 [2465][2465l]|[不同的平均值数目][2465]                                  |![rs]
 [2469][2469l]|[温度转换][2469]                                          |![rs]
@@ -2036,6 +2037,7 @@
 [2395]:./Easy/2395-Find%20Subarrays%20With%20Equal%20Sum/README_CN.md#2395-和相等的子数组
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README_CN.md#2413-最小偶倍数
 [2418]:./Easy/2418-Sort%20the%20People/README_CN.md#2418-按身高排序
+[2425]:./Medium/2425-Bitwise%20XOR%20of%20All%20Pairings/README_CN.md#2425-所有数对的异或和
 [2441]:./Easy/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README_CN.md#2441-与对应负数同时存在的最大正整数
 [2465]:./Easy/2465-Number%20of%20Distinct%20Averages/README_CN.md#2465-不同的平均值数目
 [2469]:./Easy/2469-Convert%20the%20Temperature/README_CN.md#2469-温度转换
@@ -3069,6 +3071,7 @@
 [2395l]:https://leetcode.cn/problems/find-subarrays-with-equal-sum/
 [2413l]:https://leetcode.cn/problems/smallest-even-multiple/
 [2418l]:https://leetcode.cn/problems/sort-the-people/
+[2425l]:https://leetcode.cn/problems/bitwise-xor-of-all-pairings/
 [2441l]:https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative/
 [2465l]:https://leetcode.cn/problems/number-of-distinct-averages/
 [2469l]:https://leetcode.cn/problems/convert-the-temperature/
