@@ -938,6 +938,7 @@
 [2149][2149l]|[Rearrange Array Elements by Sign][2149]                                              |![rs]
 [2150][2150l]|[Find All Lonely Numbers in the Array][2150]                                          |![rs]
 [2154][2154l]|[Keep Multiplying Found Values by Two][2154]                                          |![rs]
+[2155][2155l]|[All Divisions With the Highest Score of a Binary Array][2155]                        |![rs]
 [2160][2160l]|[Minimum Sum of Four Digit Number After Splitting Digits][2160]                       |![rs]
 [2161][2161l]|[Partition Array According to Given Pivot][2161]                                      |![py]
 [2164][2164l]|[Sort Even and Odd Indices Independently][2164]                                       |![py]
@@ -1967,6 +1968,7 @@
 [2149]:./Medium/2149-Rearrange%20Array%20Elements%20by%20Sign/README.md#2149-rearrange-array-elements-by-sign
 [2150]:./Medium/2150-Find%20All%20Lonely%20Numbers%20in%20the%20Array/README.md#2150-find-all-lonely-numbers-in-the-array
 [2154]:./Easy/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README.md#2154-keep-multiplying-found-values-by-two
+[2155]:./Medium/2155-All%20Divisions%20With%20the%20Highest%20Score%20of%20a%20Binary%20Array/README.md#2155-all-divisions-with-the-highest-score-of-a-binary-array
 [2160]:./Easy/2160-Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/README.md#2160-minimum-sum-of-four-digit-number-after-splitting-digits
 [2161]:./Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot/README.md#2161-partition-array-according-to-given-pivot
 [2164]:./Easy/2164-Sort%20Even%20and%20Odd%20Indices%20Independently/README.md#2164-sort-even-and-odd-indices-independently
@@ -3001,6 +3003,7 @@
 [2149l]:https://leetcode.com/problems/rearrange-array-elements-by-sign/
 [2150l]:https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
 [2154l]:https://leetcode.com/problems/keep-multiplying-found-values-by-two/
+[2155l]:https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/
 [2160l]:https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2161l]:https://leetcode.com/problems/partition-array-according-to-given-pivot/
 [2164l]:https://leetcode.com/problems/sort-even-and-odd-indices-independently/
