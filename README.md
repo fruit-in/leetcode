@@ -1010,6 +1010,7 @@
 [2413][2413l]|[Smallest Even Multiple][2413]                                                        |![rs]
 [2418][2418l]|[Sort the People][2418]                                                               |![rs]
 [2425][2425l]|[Bitwise XOR of All Pairings][2425]                                                   |![rs]
+[2429][2429l]|[Minimize XOR][2429]                                                                  |![rs]
 [2441][2441l]|[Largest Positive Integer That Exists With Its Negative][2441]                        |![rs]
 [2465][2465l]|[Number of Distinct Averages][2465]                                                   |![rs]
 [2469][2469l]|[Convert the Temperature][2469]                                                       |![rs]
@@ -2040,6 +2041,7 @@
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README.md#2413-smallest-even-multiple
 [2418]:./Easy/2418-Sort%20the%20People/README.md#2418-sort-the-people
 [2425]:./Medium/2425-Bitwise%20XOR%20of%20All%20Pairings/README.md#2425-bitwise-xor-of-all-pairings
+[2429]:./Medium/2429-Minimize%20XOR/README.md#2429-minimize-xor
 [2441]:./Easy/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README.md#2441-largest-positive-integer-that-exists-with-its-negative
 [2465]:./Easy/2465-Number%20of%20Distinct%20Averages/README.md#2465-number-of-distinct-averages
 [2469]:./Easy/2469-Convert%20the%20Temperature/README.md#2469-convert-the-temperature
@@ -3075,6 +3077,7 @@
 [2413l]:https://leetcode.com/problems/smallest-even-multiple/
 [2418l]:https://leetcode.com/problems/sort-the-people/
 [2425l]:https://leetcode.com/problems/bitwise-xor-of-all-pairings/
+[2429l]:https://leetcode.com/problems/minimize-xor/
 [2441l]:https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
 [2465l]:https://leetcode.com/problems/number-of-distinct-averages/
 [2469l]:https://leetcode.com/problems/convert-the-temperature/
