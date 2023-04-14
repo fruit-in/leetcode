@@ -916,6 +916,7 @@
 [2089][2089l]|[Find Target Indices After Sorting Array][2089]                                       |![py]
 [2094][2094l]|[Finding 3-Digit Even Numbers][2094]                                                  |![rs]
 [2095][2095l]|[Delete the Middle Node of a Linked List][2095]                                       |![py]
+[2096][2096l]|[Step-By-Step Directions From a Binary Tree Node to Another][2096]                    |![py]
 [2099][2099l]|[Find Subsequence of Length K With the Largest Sum][2099]                             |![rs]
 [2103][2103l]|[Rings and Rods][2103]                                                                |![rs]
 [2108][2108l]|[Find First Palindromic String in the Array][2108]                                    |![rs]
@@ -1947,6 +1948,7 @@
 [2089]:./Easy/2089-Find%20Target%20Indices%20After%20Sorting%20Array/README.md#2089-find-target-indices-after-sorting-array
 [2094]:./Easy/2094-Finding%203-Digit%20Even%20Numbers/README.md#2094-finding-3-digit-even-numbers
 [2095]:./Medium/2095-Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/README.md#2095-delete-the-middle-node-of-a-linked-list
+[2096]:./Medium/2096-Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another/README.md#2096-step-by-step-directions-from-a-binary-tree-node-to-another
 [2099]:./Easy/2099-Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum/README.md#2099-find-subsequence-of-length-k-with-the-largest-sum
 [2103]:./Easy/2103-Rings%20and%20Rods/README.md#2103-rings-and-rods
 [2108]:./Easy/2108-Find%20First%20Palindromic%20String%20in%20the%20Array/README.md#2108-find-first-palindromic-string-in-the-array
@@ -2983,6 +2985,7 @@
 [2089l]:https://leetcode.com/problems/find-target-indices-after-sorting-array/
 [2094l]:https://leetcode.com/problems/finding-3-digit-even-numbers/
 [2095l]:https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+[2096l]:https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/
 [2099l]:https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
 [2103l]:https://leetcode.com/problems/rings-and-rods/
 [2108l]:https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
