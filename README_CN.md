@@ -281,6 +281,7 @@
 [518][518l]  |[零钱兑换 II][518]                                        |![rs]
 [520][520l]  |[检测大写字母][520]                                       |![rs]
 [521][521l]  |[最长特殊序列 Ⅰ][521]                                     |![rb]&nbsp;&nbsp;![rs]
+[524][524l]  |[通过删除字母匹配到字典里最长单词][524]                   |![py]
 [525][525l]  |[连续数组][525]                                           |![rb]&nbsp;&nbsp;![rs]
 [528][528l]  |[按权重随机选择][528]                                     |![rs]
 [529][529l]  |[扫雷游戏][529]                                           |![rs]
@@ -1313,6 +1314,7 @@
 [518]:./Medium/0518-Coin%20Change%202/README_CN.md#518-零钱兑换-ii
 [520]:./Easy/0520-Detect%20Capital/README_CN.md#520-检测大写字母
 [521]:./Easy/0521-Longest%20Uncommon%20Subsequence%20I/README_CN.md#521-最长特殊序列-i
+[524]:./Medium/0524-Longest%20Word%20in%20Dictionary%20through%20Deleting/README_CN.md#524-通过删除字母匹配到字典里最长单词
 [525]:./Medium/0525-Contiguous%20Array/README_CN.md#525-连续数组
 [528]:./Medium/0528-Random%20Pick%20with%20Weight/README_CN.md#528-按权重随机选择
 [529]:./Medium/0529-Minesweeper/README_CN.md#529-扫雷游戏
@@ -2347,6 +2349,7 @@
 [518l]:https://leetcode.cn/problems/coin-change-2/
 [520l]:https://leetcode.cn/problems/detect-capital/
 [521l]:https://leetcode.cn/problems/longest-uncommon-subsequence-i/
+[524l]:https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting/
 [525l]:https://leetcode.cn/problems/contiguous-array/
 [528l]:https://leetcode.cn/problems/random-pick-with-weight/
 [529l]:https://leetcode.cn/problems/minesweeper/

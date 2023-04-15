@@ -281,6 +281,7 @@
 [518][518l]  |[Coin Change 2][518]                                                                  |![rs]
 [520][520l]  |[Detect Capital][520]                                                                 |![rs]
 [521][521l]  |[Longest Uncommon Subsequence I][521]                                                 |![rb]&nbsp;&nbsp;![rs]
+[524][524l]  |[Longest Word in Dictionary through Deleting][524]                                    |![py]
 [525][525l]  |[Contiguous Array][525]                                                               |![rb]&nbsp;&nbsp;![rs]
 [528][528l]  |[Random Pick with Weight][528]                                                        |![rs]
 [529][529l]  |[Minesweeper][529]                                                                    |![rs]
@@ -1313,6 +1314,7 @@
 [518]:./Medium/0518-Coin%20Change%202/README.md#518-coin-change-2
 [520]:./Easy/0520-Detect%20Capital/README.md#520-detect-capital
 [521]:./Easy/0521-Longest%20Uncommon%20Subsequence%20I/README.md#521-longest-uncommon-subsequence-i
+[524]:./Medium/0524-Longest%20Word%20in%20Dictionary%20through%20Deleting/README.md#524-longest-word-in-dictionary-through-deleting
 [525]:./Medium/0525-Contiguous%20Array/README.md#525-contiguous-array
 [528]:./Medium/0528-Random%20Pick%20with%20Weight/README.md#528-random-pick-with-weight
 [529]:./Medium/0529-Minesweeper/README.md#529-minesweeper
@@ -2347,6 +2349,7 @@
 [518l]:https://leetcode.com/problems/coin-change-2/
 [520l]:https://leetcode.com/problems/detect-capital/
 [521l]:https://leetcode.com/problems/longest-uncommon-subsequence-i/
+[524l]:https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 [525l]:https://leetcode.com/problems/contiguous-array/
 [528l]:https://leetcode.com/problems/random-pick-with-weight/
 [529l]:https://leetcode.com/problems/minesweeper/
