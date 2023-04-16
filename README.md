@@ -848,6 +848,7 @@
 [1845][1845l]|[Seat Reservation Manager][1845]                                                      |![py]
 [1848][1848l]|[Minimum Distance to the Target Element][1848]                                        |![rs]
 [1854][1854l]|[Maximum Population Year][1854]                                                       |![rs]
+[1855][1855l]|[Maximum Distance Between a Pair of Values][1855]                                     |![py]
 [1859][1859l]|[Sorting the Sentence][1859]                                                          |![py]
 [1860][1860l]|[Incremental Memory Leak][1860]                                                       |![rs]
 [1863][1863l]|[Sum of All Subset XOR Totals][1863]                                                  |![py]
@@ -1881,6 +1882,7 @@
 [1845]:./Medium/1845-Seat%20Reservation%20Manager/README.md#1845-seat-reservation-manager
 [1848]:./Easy/1848-Minimum%20Distance%20to%20the%20Target%20Element/README.md#1848-minimum-distance-to-the-target-element
 [1854]:./Easy/1854-Maximum%20Population%20Year/README.md#1854-maximum-population-year
+[1855]:./Medium/1855-Maximum%20Distance%20Between%20a%20Pair%20of%20Values/README.md#1855-maximum-distance-between-a-pair-of-values
 [1859]:./Easy/1859-Sorting%20the%20Sentence/README.md#1859-sorting-the-sentence
 [1860]:./Medium/1860-Incremental%20Memory%20Leak/README.md#1860-incremental-memory-leak
 [1863]:./Easy/1863-Sum%20of%20All%20Subset%20XOR%20Totals/README.md#1863-sum-of-all-subset-xor-totals
@@ -2919,6 +2921,7 @@
 [1845l]:https://leetcode.com/problems/seat-reservation-manager/
 [1848l]:https://leetcode.com/problems/minimum-distance-to-the-target-element/
 [1854l]:https://leetcode.com/problems/maximum-population-year/
+[1855l]:https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
 [1859l]:https://leetcode.com/problems/sorting-the-sentence/
 [1860l]:https://leetcode.com/problems/incremental-memory-leak/
 [1863l]:https://leetcode.com/problems/sum-of-all-subset-xor-totals/
