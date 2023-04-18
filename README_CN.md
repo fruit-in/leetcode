@@ -945,6 +945,7 @@
 [2160][2160l]|[拆分数位后四位数字的最小和][2160]                        |![rs]
 [2161][2161l]|[根据给定数字划分数组][2161]                              |![py]
 [2164][2164l]|[对奇偶下标分别排序][2164]                                |![py]
+[2165][2165l]|[重排数字的最小值][2165]                                  |![rs]
 [2166][2166l]|[设计位集][2166]                                          |![py]
 [2169][2169l]|[得到 0 的操作数][2169]                                   |![py]
 [2171][2171l]|[拿出最少数目的魔法豆][2171]                              |![rs]
@@ -1980,6 +1981,7 @@
 [2160]:./Easy/2160-Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/README_CN.md#2160-拆分数位后四位数字的最小和
 [2161]:./Medium/2161-Partition%20Array%20According%20to%20Given%20Pivot/README_CN.md#2161-根据给定数字划分数组
 [2164]:./Easy/2164-Sort%20Even%20and%20Odd%20Indices%20Independently/README_CN.md#2164-对奇偶下标分别排序
+[2165]:./Medium/2165-Smallest%20Value%20of%20the%20Rearranged%20Number/README_CN.md#2165-重排数字的最小值
 [2166]:./Medium/2166-Design%20Bitset/README_CN.md#2166-设计位集
 [2169]:./Easy/2169-Count%20Operations%20to%20Obtain%20Zero/README_CN.md#2169-得到-0-的操作数
 [2171]:./Medium/2171-Removing%20Minimum%20Number%20of%20Magic%20Beans/README_CN.md#2171-拿出最少数目的魔法豆
@@ -3020,6 +3022,7 @@
 [2160l]:https://leetcode.cn/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2161l]:https://leetcode.cn/problems/partition-array-according-to-given-pivot/
 [2164l]:https://leetcode.cn/problems/sort-even-and-odd-indices-independently/
+[2165l]:https://leetcode.cn/problems/smallest-value-of-the-rearranged-number/
 [2166l]:https://leetcode.cn/problems/design-bitset/
 [2169l]:https://leetcode.cn/problems/count-operations-to-obtain-zero/
 [2171l]:https://leetcode.cn/problems/removing-minimum-number-of-magic-beans/
