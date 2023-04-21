@@ -900,6 +900,7 @@
 [2037][2037l]|[Minimum Number of Moves to Seat Everyone][2037]                                      |![rs]
 [2042][2042l]|[Check if Numbers Are Ascending in a Sentence][2042]                                  |![py]
 [2043][2043l]|[Simple Bank System][2043]                                                            |![py]
+[2044][2044l]|[Count Number of Maximum Bitwise-OR Subsets][2044]                                    |![rs]
 [2047][2047l]|[Number of Valid Words in a Sentence][2047]                                           |![py]
 [2053][2053l]|[Kth Distinct String in an Array][2053]                                               |![py]
 [2055][2055l]|[Plates Between Candles][2055]                                                        |![rs]
@@ -1938,6 +1939,7 @@
 [2037]:./Easy/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README.md#2037-minimum-number-of-moves-to-seat-everyone
 [2042]:./Easy/2042-Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/README.md#2042-check-if-numbers-are-ascending-in-a-sentence
 [2043]:./Medium/2043-Simple%20Bank%20System/README.md#2043-simple-bank-system
+[2044]:./Medium/2044-Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/README.md#2044-count-number-of-maximum-bitwise-or-subsets
 [2047]:./Easy/2047-Number%20of%20Valid%20Words%20in%20a%20Sentence/README.md#2047-number-of-valid-words-in-a-sentence
 [2053]:./Easy/2053-Kth%20Distinct%20String%20in%20an%20Array/README.md#2053-kth-distinct-string-in-an-array
 [2055]:./Medium/2055-Plates%20Between%20Candles/README.md#2055-plates-between-candles
@@ -2981,6 +2983,7 @@
 [2037l]:https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
 [2042l]:https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 [2043l]:https://leetcode.com/problems/simple-bank-system/
+[2044l]:https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/
 [2047l]:https://leetcode.com/problems/number-of-valid-words-in-a-sentence/
 [2053l]:https://leetcode.com/problems/kth-distinct-string-in-an-array/
 [2055l]:https://leetcode.com/problems/plates-between-candles/
