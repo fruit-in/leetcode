@@ -515,6 +515,7 @@
 [1004][1004l]|[Max Consecutive Ones III][1004]                                                      |![rs]
 [1005][1005l]|[Maximize Sum Of Array After K Negations][1005]                                       |![rs]
 [1006][1006l]|[Clumsy Factorial][1006]                                                              |![rb]&nbsp;&nbsp;![rs]
+[1007][1006l]|[Minimum Domino Rotations For Equal Row][1007]                                        |![rs]
 [1008][1008l]|[Construct Binary Search Tree from Preorder Traversal][1008]                          |![py]
 [1009][1009l]|[Complement of Base 10 Integer][1009]                                                 |![rs]
 [1010][1010l]|[Pairs of Songs With Total Durations Divisible by 60][1010]                           |![rs]
@@ -1554,6 +1555,7 @@
 [1004]:./Medium/1004-Max%20Consecutive%20Ones%20III/README.md#1004-max-consecutive-ones-iii
 [1005]:./Easy/1005-Maximize%20Sum%20Of%20Array%20After%20K%20Negations/README.md#1005-maximize-sum-of-array-after-k-negations
 [1006]:./Medium/1006-Clumsy%20Factorial/README.md#1006-clumsy-factorial
+[1007]:./Medium/1007-Minimum%20Domino%20Rotations%20For%20Equal%20Row/README.md#1007-minimum-domino-rotations-for-equal-row
 [1008]:./Medium/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/README.md#1008-construct-binary-search-tree-from-preorder-traversal
 [1009]:./Easy/1009-Complement%20of%20Base%2010%20Integer/README.md#1009-complement-of-base-10-integer
 [1010]:./Easy/1010-Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060/README.md#1010-pairs-of-songs-with-total-durations-divisible-by-60
@@ -2598,6 +2600,7 @@
 [1004l]:https://leetcode.com/problems/max-consecutive-ones-iii/
 [1005l]:https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
 [1006l]:https://leetcode.com/problems/clumsy-factorial/
+[1007l]:https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/
 [1008l]:https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 [1009l]:https://leetcode.com/problems/complement-of-base-10-integer/
 [1010l]:https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/

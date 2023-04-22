@@ -515,6 +515,7 @@
 [1004][1004l]|[最大连续1的个数 III][1004]                               |![rs]
 [1005][1005l]|[K 次取反后最大化的数组和][1005]                          |![rs]
 [1006][1006l]|[笨阶乘][1006]                                            |![rb]&nbsp;&nbsp;![rs]
+[1007][1007l]|[行相等的最少多米诺旋转][1007]                            |![rs]
 [1008][1008l]|[前序遍历构造二叉搜索树][1008]                            |![py]
 [1009][1009l]|[十进制整数的反码][1009]                                  |![rs]
 [1010][1010l]|[总持续时间可被 60 整除的歌曲][1010]                      |![rs]
@@ -1554,6 +1555,7 @@
 [1004]:./Medium/1004-Max%20Consecutive%20Ones%20III/README_CN.md#1004-最大连续1的个数-iii
 [1005]:./Easy/1005-Maximize%20Sum%20Of%20Array%20After%20K%20Negations/README_CN.md#1005-k-次取反后最大化的数组和
 [1006]:./Medium/1006-Clumsy%20Factorial/README_CN.md#1006-笨阶乘
+[1007]:./Medium/1007-Minimum%20Domino%20Rotations%20For%20Equal%20Row/README_CN.md#1007-行相等的最少多米诺旋转
 [1008]:./Medium/1008-Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/README_CN.md#1008-前序遍历构造二叉搜索树
 [1009]:./Easy/1009-Complement%20of%20Base%2010%20Integer/README_CN.md#1009-十进制整数的反码
 [1010]:./Easy/1010-Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060/README_CN.md#1010-总持续时间可被-60-整除的歌曲
@@ -2598,6 +2600,7 @@
 [1004l]:https://leetcode.cn/problems/max-consecutive-ones-iii/
 [1005l]:https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/
 [1006l]:https://leetcode.cn/problems/clumsy-factorial/
+[1007l]:https://leetcode.cn/problems/minimum-domino-rotations-for-equal-row/
 [1008l]:https://leetcode.cn/problems/construct-binary-search-tree-from-preorder-traversal/
 [1009l]:https://leetcode.cn/problems/complement-of-base-10-integer/
 [1010l]:https://leetcode.cn/problems/pairs-of-songs-with-total-durations-divisible-by-60/
