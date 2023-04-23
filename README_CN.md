@@ -997,6 +997,7 @@
 [2294][2294l]|[划分数组使最大差为 K][2294]                              |![rs]
 [2295][2295l]|[替换数组中的元素][2295]                                  |![rs]
 [2299][2299l]|[强密码检验器 II][2299]                                   |![rs]
+[2300][2300l]|[咒语和药水的成功对数][2300]                              |![py]
 [2303][2303l]|[计算应缴税款总额][2303]                                  |![rs]
 [2304][2304l]|[网格中的最小路径代价][2304]                              |![rs]
 [2309][2309l]|[兼具大小写的最好英文字母][2309]                          |![rs]
@@ -2037,6 +2038,7 @@
 [2294]:./Medium/2294-Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K/README_CN.md#2294-划分数组使最大差为-k
 [2295]:./Medium/2295-Replace%20Elements%20in%20an%20Array/README_CN.md#2295-替换数组中的元素
 [2299]:./Easy/2299-Strong%20Password%20Checker%20II/README_CN.md#2299-强密码检验器-ii
+[2300]:./Medium/2300-Successful%20Pairs%20of%20Spells%20and%20Potions/README_CN.md#2300-咒语和药水的成功对数
 [2303]:./Easy/2303-Calculate%20Amount%20Paid%20in%20Taxes/README_CN.md#2303-计算应缴税款总额
 [2304]:./Medium/2304-Minimum%20Path%20Cost%20in%20a%20Grid/README_CN.md#2304-网格中的最小路径代价
 [2309]:./Easy/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README_CN.md#2309-兼具大小写的最好英文字母
@@ -3082,6 +3084,7 @@
 [2294l]:https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/
 [2295l]:https://leetcode.cn/problems/replace-elements-in-an-array/
 [2299l]:https://leetcode.cn/problems/strong-password-checker-ii/
+[2300l]:https://leetcode.cn/problems/successful-pairs-of-spells-and-potions/
 [2303l]:https://leetcode.cn/problems/calculate-amount-paid-in-taxes/
 [2304l]:https://leetcode.cn/problems/minimum-path-cost-in-a-grid/
 [2309l]:https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/
