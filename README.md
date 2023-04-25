@@ -1016,6 +1016,7 @@
 [2351][2351l]|[First Letter to Appear Twice][2351]                                                  |![rs]
 [2357][2357l]|[Make Array Zero by Subtracting Equal Amounts][2357]                                  |![rs]
 [2363][2363l]|[Merge Similar Items][2363]                                                           |![rs]
+[2367][2367l]|[Number of Arithmetic Triplets][2367]                                                 |![rs]
 [2375][2375l]|[Construct Smallest Number From DI String][2375]                                      |![rs]
 [2395][2395l]|[Find Subarrays With Equal Sum][2395]                                                 |![rs]
 [2413][2413l]|[Smallest Even Multiple][2413]                                                        |![rs]
@@ -2058,6 +2059,7 @@
 [2351]:./Easy/2351-First%20Letter%20to%20Appear%20Twice/README.md#2351-first-letter-to-appear-twice
 [2357]:./Easy/2357-Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts/README.md#2357-make-array-zero-by-subtracting-equal-amounts
 [2363]:./Easy/2363-Merge%20Similar%20Items/README.md#2363-merge-similar-items
+[2367]:./Easy/2367-Number%20of%20Arithmetic%20Triplets/README.md#2367-number-of-arithmetic-triplets
 [2375]:./Medium/2375-Construct%20Smallest%20Number%20From%20DI%20String/README.md#2375-construct-smallest-number-from-di-string
 [2395]:./Easy/2395-Find%20Subarrays%20With%20Equal%20Sum/README.md#2395-find-subarrays-with-equal-sum
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README.md#2413-smallest-even-multiple
@@ -3105,6 +3107,7 @@
 [2351l]:https://leetcode.com/problems/first-letter-to-appear-twice/
 [2357l]:https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
 [2363l]:https://leetcode.com/problems/merge-similar-items/
+[2367l]:https://leetcode.com/problems/number-of-arithmetic-triplets/
 [2375l]:https://leetcode.com/problems/construct-smallest-number-from-di-string/
 [2395l]:https://leetcode.com/problems/find-subarrays-with-equal-sum/
 [2413l]:https://leetcode.com/problems/smallest-even-multiple/
