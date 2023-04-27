@@ -1019,6 +1019,7 @@
 [2367][2367l]|[Number of Arithmetic Triplets][2367]                                                 |![rs]
 [2373][2373l]|[Largest Local Values in a Matrix][2373]                                              |![rs]
 [2375][2375l]|[Construct Smallest Number From DI String][2375]                                      |![rs]
+[2390][2390l]|[Removing Stars From a String][2390]                                                  |![rs]
 [2395][2395l]|[Find Subarrays With Equal Sum][2395]                                                 |![rs]
 [2413][2413l]|[Smallest Even Multiple][2413]                                                        |![rs]
 [2418][2418l]|[Sort the People][2418]                                                               |![rs]
@@ -2063,6 +2064,7 @@
 [2367]:./Easy/2367-Number%20of%20Arithmetic%20Triplets/README.md#2367-number-of-arithmetic-triplets
 [2373]:./Easy/2373-Largest%20Local%20Values%20in%20a%20Matrix/README.md#2373-largest-local-values-in-a-matrix
 [2375]:./Medium/2375-Construct%20Smallest%20Number%20From%20DI%20String/README.md#2375-construct-smallest-number-from-di-string
+[2390]:./Medium/2390-Removing%20Stars%20From%20a%20String/README.md#2390-removing-stars-from-a-string
 [2395]:./Easy/2395-Find%20Subarrays%20With%20Equal%20Sum/README.md#2395-find-subarrays-with-equal-sum
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README.md#2413-smallest-even-multiple
 [2418]:./Easy/2418-Sort%20the%20People/README.md#2418-sort-the-people
@@ -3112,6 +3114,7 @@
 [2367l]:https://leetcode.com/problems/number-of-arithmetic-triplets/
 [2373l]:https://leetcode.com/problems/largest-local-values-in-a-matrix/
 [2375l]:https://leetcode.com/problems/construct-smallest-number-from-di-string/
+[2390l]:https://leetcode.com/problems/removing-stars-from-a-string/
 [2395l]:https://leetcode.com/problems/find-subarrays-with-equal-sum/
 [2413l]:https://leetcode.com/problems/smallest-even-multiple/
 [2418l]:https://leetcode.com/problems/sort-the-people/
