@@ -1016,6 +1016,7 @@
 [2351][2351l]|[第一个出现两次的字母][2351]                              |![rs]
 [2357][2357l]|[使数组中所有元素都等于零][2357]                          |![rs]
 [2363][2363l]|[合并相似的物品][2363]                                    |![rs]
+[2364][2364l]|[统计坏数对的数目][2364]                                  |![rs]
 [2367][2367l]|[算术三元组的数目][2367]                                  |![rs]
 [2373][2373l]|[矩阵中的局部最大值][2373]                                |![rs]
 [2375][2375l]|[根据模式串构造最小数字][2375]                            |![rs]
@@ -2061,6 +2062,7 @@
 [2351]:./Easy/2351-First%20Letter%20to%20Appear%20Twice/README_CN.md#2351-第一个出现两次的字母
 [2357]:./Easy/2357-Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts/README_CN.md#2357-使数组中所有元素都等于零
 [2363]:./Easy/2363-Merge%20Similar%20Items/README_CN.md#2363-合并相似的物品
+[2364]:./Medium/2364-Count%20Number%20of%20Bad%20Pairs/README_CN.md#2364-统计坏数对的数目
 [2367]:./Easy/2367-Number%20of%20Arithmetic%20Triplets/README_CN.md#2367-算术三元组的数目
 [2373]:./Easy/2373-Largest%20Local%20Values%20in%20a%20Matrix/README_CN.md#2373-矩阵中的局部最大值
 [2375]:./Medium/2375-Construct%20Smallest%20Number%20From%20DI%20String/README_CN.md#2375-根据模式串构造最小数字
@@ -3111,6 +3113,7 @@
 [2351l]:https://leetcode.cn/problems/first-letter-to-appear-twice/
 [2357l]:https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/
 [2363l]:https://leetcode.cn/problems/merge-similar-items/
+[2364l]:https://leetcode.cn/problems/count-number-of-bad-pairs/
 [2367l]:https://leetcode.cn/problems/number-of-arithmetic-triplets/
 [2373l]:https://leetcode.cn/problems/largest-local-values-in-a-matrix/
 [2375l]:https://leetcode.cn/problems/construct-smallest-number-from-di-string/
