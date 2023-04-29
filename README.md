@@ -719,6 +719,7 @@
 [1492][1492l]|[The kth Factor of n][1492]                                                           |![py]&nbsp;&nbsp;![rb]&nbsp;&nbsp;![rs]
 [1493][1493l]|[Longest Subarray of 1's After Deleting One Element][1493]                            |![rb]&nbsp;&nbsp;![rs]
 [1496][1496l]|[Path Crossing][1496]                                                                 |![rs]
+[1497][1497l]|[Check If Array Pairs Are Divisible by k][1497]                                       |![rs]
 [1502][1502l]|[Can Make Arithmetic Progression From Sequence][1502]                                 |![rb]&nbsp;&nbsp;![rs]
 [1503][1503l]|[Last Moment Before All Ants Fall Out of a Plank][1503]                               |![rb]&nbsp;&nbsp;![rs]
 [1507][1507l]|[Reformat Date][1507]                                                                 |![py]
@@ -1765,6 +1766,7 @@
 [1492]:./Medium/1492-The%20kth%20Factor%20of%20n/README.md#1492-the-kth-factor-of-n
 [1493]:./Medium/1493-Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/README.md#1493-longest-subarray-of-1s-after-deleting-one-element
 [1496]:./Easy/1496-Path%20Crossing/README.md#1496-path-crossing
+[1497]:./Medium/1497-Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/README.md#1497-check-if-array-pairs-are-divisible-by-k
 [1502]:./Easy/1502-Can%20Make%20Arithmetic%20Progression%20From%20Sequence/README.md#1502-can-make-arithmetic-progression-from-sequence
 [1503]:./Medium/1503-Last%20Moment%20Before%20All%20Ants%20Fall%20Out%20of%20a%20Plank/README.md#1503-last-moment-before-all-ants-fall-out-of-a-plank
 [1507]:./Easy/1507-Reformat%20Date/README.md#1507-reformat-date
@@ -2816,6 +2818,7 @@
 [1492l]:https://leetcode.com/problems/the-kth-factor-of-n/
 [1493l]:https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
 [1496l]:https://leetcode.com/problems/path-crossing/
+[1497l]:https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/
 [1502l]:https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 [1503l]:https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/
 [1507l]:https://leetcode.com/problems/reformat-date/

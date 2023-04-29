@@ -719,6 +719,7 @@
 [1492][1492l]|[n 的第 k 个因子][1492]                                   |![py]&nbsp;&nbsp;![rb]&nbsp;&nbsp;![rs]
 [1493][1493l]|[删掉一个元素以后全为 1 的最长子数组][1493]               |![rb]&nbsp;&nbsp;![rs]
 [1496][1496l]|[判断路径是否相交][1496]                                  |![rs]
+[1497][1497l]|[检查数组对是否可以被 k 整除][1497]                       |![rs]
 [1502][1502l]|[判断能否形成等差数列][1502]                              |![rb]&nbsp;&nbsp;![rs]
 [1503][1503l]|[所有蚂蚁掉下来前的最后一刻][1503]                        |![rb]&nbsp;&nbsp;![rs]
 [1507][1507l]|[转变日期格式][1507]                                      |![py]
@@ -1765,6 +1766,7 @@
 [1492]:./Medium/1492-The%20kth%20Factor%20of%20n/README_CN.md#1492-n-的第-k-个因子
 [1493]:./Medium/1493-Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/README_CN.md#1493-删掉一个元素以后全为-1-的最长子数组
 [1496]:./Easy/1496-Path%20Crossing/README_CN.md#1496-判断路径是否相交
+[1497]:./Medium/1497-Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/README_CN.md#1497-检查数组对是否可以被-k-整除
 [1502]:./Easy/1502-Can%20Make%20Arithmetic%20Progression%20From%20Sequence/README_CN.md#1502-判断能否形成等差数列
 [1503]:./Medium/1503-Last%20Moment%20Before%20All%20Ants%20Fall%20Out%20of%20a%20Plank/README_CN.md#1503-所有蚂蚁掉下来前的最后一刻
 [1507]:./Easy/1507-Reformat%20Date/README_CN.md#1507-转变日期格式
@@ -2816,6 +2818,7 @@
 [1492l]:https://leetcode.cn/problems/the-kth-factor-of-n/
 [1493l]:https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/
 [1496l]:https://leetcode.cn/problems/path-crossing/
+[1497l]:https://leetcode.cn/problems/check-if-array-pairs-are-divisible-by-k/
 [1502l]:https://leetcode.cn/problems/can-make-arithmetic-progression-from-sequence/
 [1503l]:https://leetcode.cn/problems/last-moment-before-all-ants-fall-out-of-a-plank/
 [1507l]:https://leetcode.cn/problems/reformat-date/
