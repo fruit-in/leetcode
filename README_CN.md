@@ -760,6 +760,7 @@
 [1594][1594l]|[矩阵的最大非负积][1594]                                  |![rs]
 [1598][1598l]|[文件夹操作日志搜集器][1598]                              |![rb]
 [1603][1603l]|[设计停车系统][1603]                                      |![rs]
+[1604][1604l]|[警告一小时内使用相同员工卡大于等于三次的人][1604]        |![rs]
 [1608][1608l]|[特殊数组的特征值][1608]                                  |![rs]
 [1609][1609l]|[奇偶树][1609]                                            |![py]&nbsp;&nbsp;![rb]
 [1614][1614l]|[括号的最大嵌套深度][1614]                                |![rb]&nbsp;&nbsp;![rs]
@@ -1807,6 +1808,7 @@
 [1594]:./Medium/1594-Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/README_CN.md#1594-矩阵的最大非负积
 [1598]:./Easy/1598-Crawler%20Log%20Folder/README_CN.md#1598-文件夹操作日志搜集器
 [1603]:./Easy/1603-Design%20Parking%20System/README_CN.md#1603-设计停车系统
+[1604]:./Medium/1604-Alert%20Using%20Same%20Key-Card%20Three%20or%20More%20Times%20in%20a%20One%20Hour%20Period/README_CN.md#1604-警告一小时内使用相同员工卡大于等于三次的人
 [1608]:./Easy/1608-Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/README_CN.md#1608-特殊数组的特征值
 [1609]:./Medium/1609-Even%20Odd%20Tree/README_CN.md#1609-奇偶树
 [1614]:./Easy/1614-Maximum%20Nesting%20Depth%20of%20the%20Parentheses/README_CN.md#1614-括号的最大嵌套深度
@@ -2859,6 +2861,7 @@
 [1594l]:https://leetcode.cn/problems/maximum-non-negative-product-in-a-matrix/
 [1598l]:https://leetcode.cn/problems/crawler-log-folder/
 [1603l]:https://leetcode.cn/problems/design-parking-system/
+[1604l]:https://leetcode.cn/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/
 [1608l]:https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x/
 [1609l]:https://leetcode.cn/problems/even-odd-tree/
 [1614l]:https://leetcode.cn/problems/maximum-nesting-depth-of-the-parentheses/
