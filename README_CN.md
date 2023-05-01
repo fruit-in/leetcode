@@ -774,6 +774,7 @@
 [1637][1637l]|[两点之间不包含任何点的最宽垂直面积][1637]                |![rb]&nbsp;&nbsp;![rs]
 [1640][1640l]|[能否连接形成数组][1640]                                  |![rb]&nbsp;&nbsp;![rs]
 [1641][1641l]|[统计字典序元音字符串的数目][1641]                        |![rb]&nbsp;&nbsp;![rs]
+[1642][1642l]|[可以到达的最远建筑][1642]                                |![rs]
 [1646][1646l]|[获取生成数组中的最大值][1646]                            |![rs]
 [1647][1647l]|[字符频次唯一的最小删除次数][1647]                        |![rb]&nbsp;&nbsp;![rs]
 [1652][1652l]|[拆炸弹][1652]                                            |![rb]&nbsp;&nbsp;![rs]
@@ -1822,6 +1823,7 @@
 [1637]:./Medium/1637-Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points/README_CN.md#1637-两点之间不包含任何点的最宽垂直面积
 [1640]:./Easy/1640-Check%20Array%20Formation%20Through%20Concatenation/README_CN.md#1640-能否连接形成数组
 [1641]:./Medium/1641-Count%20Sorted%20Vowel%20Strings/README_CN.md#1641-统计字典序元音字符串的数目
+[1642]:./Medium/1642-Furthest%20Building%20You%20Can%20Reach/README_CN.md#1642-可以到达的最远建筑
 [1646]:./Easy/1646-Get%20Maximum%20in%20Generated%20Array/README_CN.md#1646-获取生成数组中的最大值
 [1647]:./Medium/1647-Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique/README_CN.md#1647-字符频次唯一的最小删除次数
 [1652]:./Easy/1652-Defuse%20the%20Bomb/README_CN.md#1652-拆炸弹
@@ -2875,6 +2877,7 @@
 [1637l]:https://leetcode.cn/problems/widest-vertical-area-between-two-points-containing-no-points/
 [1640l]:https://leetcode.cn/problems/check-array-formation-through-concatenation/
 [1641l]:https://leetcode.cn/problems/count-sorted-vowel-strings/
+[1642l]:https://leetcode.cn/problems/furthest-building-you-can-reach/
 [1646l]:https://leetcode.cn/problems/get-maximum-in-generated-array/
 [1647l]:https://leetcode.cn/problems/minimum-deletions-to-make-character-frequencies-unique/
 [1652l]:https://leetcode.cn/problems/defuse-the-bomb/
