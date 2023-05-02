@@ -810,6 +810,7 @@
 [1732][1732l]|[找到最高海拔][1732]                                      |![rb]&nbsp;&nbsp;![rs]
 [1734][1734l]|[解码异或后的排列][1734]                                  |![rs]
 [1736][1736l]|[替换隐藏数字得到的最晚时间][1736]                        |![rs]
+[1737][1737l]|[满足三条件之一需改变的最少字符数][1737]                  |![rs]
 [1738][1738l]|[找出第 K 大的异或坐标值][1738]                           |![rb]&nbsp;&nbsp;![rs]
 [1742][1742l]|[盒子中小球的最大数量][1742]                              |![py]
 [1743][1743l]|[从相邻元素对还原数组][1743]                              |![rs]
@@ -1859,6 +1860,7 @@
 [1732]:./Easy/1732-Find%20the%20Highest%20Altitude/README_CN.md#1732-找到最高海拔
 [1734]:./Medium/1734-Decode%20XORed%20Permutation/README_CN.md#1734-解码异或后的排列
 [1736]:./Easy/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README_CN.md#1736-替换隐藏数字得到的最晚时间
+[1737]:./Medium/1737-Change%20Minimum%20Characters%20to%20Satisfy%20One%20of%20Three%20Conditions/README_CN.md#1737-满足三条件之一需改变的最少字符数
 [1738]:./Medium/1738-Find%20Kth%20Largest%20XOR%20Coordinate%20Value/README_CN.md#1738-找出第-k-大的异或坐标值
 [1742]:./Easy/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README_CN.md#1742-盒子中小球的最大数量
 [1743]:./Medium/1743-Restore%20the%20Array%20From%20Adjacent%20Pairs/README_CN.md#1743-从相邻元素对还原数组
@@ -2913,6 +2915,7 @@
 [1732l]:https://leetcode.cn/problems/find-the-highest-altitude/
 [1734l]:https://leetcode.cn/problems/decode-xored-permutation/
 [1736l]:https://leetcode.cn/problems/latest-time-by-replacing-hidden-digits/
+[1737l]:https://leetcode.cn/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/
 [1738l]:https://leetcode.cn/problems/find-kth-largest-xor-coordinate-value/
 [1742l]:https://leetcode.cn/problems/maximum-number-of-balls-in-a-box/
 [1743l]:https://leetcode.cn/problems/restore-the-array-from-adjacent-pairs/

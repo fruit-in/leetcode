@@ -810,6 +810,7 @@
 [1732][1732l]|[Find the Highest Altitude][1732]                                                     |![rb]&nbsp;&nbsp;![rs]
 [1734][1734l]|[Decode XORed Permutation][1734]                                                      |![rs]
 [1736][1736l]|[Latest Time by Replacing Hidden Digits][1736]                                        |![rs]
+[1737][1737l]|[Change Minimum Characters to Satisfy One of Three Conditions][1737]                  |![rs]
 [1738][1738l]|[Find Kth Largest XOR Coordinate Value][1738]                                         |![rb]&nbsp;&nbsp;![rs]
 [1742][1742l]|[Maximum Number of Balls in a Box][1742]                                              |![py]
 [1743][1743l]|[Restore the Array From Adjacent Pairs][1743]                                         |![rs]
@@ -1859,6 +1860,7 @@
 [1732]:./Easy/1732-Find%20the%20Highest%20Altitude/README.md#1732-find-the-highest-altitude
 [1734]:./Medium/1734-Decode%20XORed%20Permutation/README.md#1734-decode-xored-permutation
 [1736]:./Easy/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README.md#1736-latest-time-by-replacing-hidden-digits
+[1737]:./Medium/1737-Change%20Minimum%20Characters%20to%20Satisfy%20One%20of%20Three%20Conditions/README.md#1737-change-minimum-characters-to-satisfy-one-of-three-conditions
 [1738]:./Medium/1738-Find%20Kth%20Largest%20XOR%20Coordinate%20Value/README.md#1738-find-kth-largest-xor-coordinate-value
 [1742]:./Easy/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README.md#1742-maximum-number-of-balls-in-a-box
 [1743]:./Medium/1743-Restore%20the%20Array%20From%20Adjacent%20Pairs/README.md#1743-restore-the-array-from-adjacent-pairs
@@ -2913,6 +2915,7 @@
 [1732l]:https://leetcode.com/problems/find-the-highest-altitude/
 [1734l]:https://leetcode.com/problems/decode-xored-permutation/
 [1736l]:https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/
+[1737l]:https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/
 [1738l]:https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/
 [1742l]:https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
 [1743l]:https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
