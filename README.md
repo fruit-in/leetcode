@@ -998,6 +998,7 @@
 [2278][2278l]|[Percentage of Letter in String][2278]                                                |![rs]
 [2279][2279l]|[Maximum Bags With Full Capacity of Rocks][2279]                                      |![rs]
 [2283][2283l]|[Check if Number Has Equal Digit Count and Digit Value][2283]                         |![rs]
+[2284][2284l]|[Sender With Largest Word Count][2284]                                                |![py]
 [2287][2287l]|[Rearrange Characters to Make Target String][2287]                                    |![rs]
 [2293][2293l]|[Min Max Game][2293]                                                                  |![rs]
 [2294][2294l]|[Partition Array Such That Maximum Difference Is K][2294]                             |![rs]
@@ -2049,6 +2050,7 @@
 [2278]:./Easy/2278-Percentage%20of%20Letter%20in%20String/README.md#2278-percentage-of-letter-in-string
 [2279]:./Medium/2279-Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/README.md#2279-maximum-bags-with-full-capacity-of-rocks
 [2283]:./Easy/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README.md#2283-check-if-number-has-equal-digit-count-and-digit-value
+[2284]:./Medium/2284-Sender%20With%20Largest%20Word%20Count/README.md#2284-sender-with-largest-word-count
 [2287]:./Easy/2287-Rearrange%20Characters%20to%20Make%20Target%20String/README.md#2287-rearrange-characters-to-make-target-string
 [2293]:./Easy/2293-Min%20Max%20Game/README.md#2293-min-max-game
 [2294]:./Medium/2294-Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K/README.md#2294-partition-array-such-that-maximum-difference-is-k
@@ -3105,6 +3107,7 @@
 [2278l]:https://leetcode.com/problems/percentage-of-letter-in-string/
 [2279l]:https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
 [2283l]:https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
+[2284l]:https://leetcode.com/problems/sender-with-largest-word-count/
 [2287l]:https://leetcode.com/problems/rearrange-characters-to-make-target-string/
 [2293l]:https://leetcode.com/problems/min-max-game/
 [2294l]:https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/

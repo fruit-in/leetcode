@@ -998,6 +998,7 @@
 [2278][2278l]|[字母在字符串中的百分比][2278]                            |![rs]
 [2279][2279l]|[装满石头的背包的最大数量][2279]                          |![rs]
 [2283][2283l]|[判断一个数的数字计数是否等于数位的值][2283]              |![rs]
+[2284][2284l]|[最多单词数的发件人][2284]                                |![py]
 [2287][2287l]|[重排字符形成目标字符串][2287]                            |![rs]
 [2293][2293l]|[极大极小游戏][2293]                                      |![rs]
 [2294][2294l]|[划分数组使最大差为 K][2294]                              |![rs]
@@ -2049,6 +2050,7 @@
 [2278]:./Easy/2278-Percentage%20of%20Letter%20in%20String/README_CN.md#2278-字母在字符串中的百分比
 [2279]:./Medium/2279-Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/README_CN.md#2279-装满石头的背包的最大数量
 [2283]:./Easy/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README_CN.md#2283-判断一个数的数字计数是否等于数位的值
+[2284]:./Medium/2284-Sender%20With%20Largest%20Word%20Count/README_CN.md#2284-最多单词数的发件人
 [2287]:./Easy/2287-Rearrange%20Characters%20to%20Make%20Target%20String/README_CN.md#2287-重排字符形成目标字符串
 [2293]:./Easy/2293-Min%20Max%20Game/README_CN.md#2293-极大极小游戏
 [2294]:./Medium/2294-Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K/README_CN.md#2294-划分数组使最大差为-k
@@ -3105,6 +3107,7 @@
 [2278l]:https://leetcode.cn/problems/percentage-of-letter-in-string/
 [2279l]:https://leetcode.cn/problems/maximum-bags-with-full-capacity-of-rocks/
 [2283l]:https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/
+[2284l]:https://leetcode.cn/problems/sender-with-largest-word-count/
 [2287l]:https://leetcode.cn/problems/rearrange-characters-to-make-target-string/
 [2293l]:https://leetcode.cn/problems/min-max-game/
 [2294l]:https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/
