@@ -1046,6 +1046,7 @@
 [2558][2558l]|[Take Gifts From the Richest Pile][2558]                                              |![rs]
 [2598][2598l]|[Smallest Missing Non-negative Integer After Operations][2598]                        |![rs]
 [2601][2601l]|[Prime Subtraction Operation][2601]                                                   |![rs]
+[2602][2602l]|[Minimum Operations to Make All Array Elements Equal][2602]                           |![rs]
 
 
 [py]:./ico/python.ico
@@ -2098,6 +2099,7 @@
 [2558]:./Easy/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README.md#2558-take-gifts-from-the-richest-pile
 [2598]:./Medium/2598-Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/README.md#2598-smallest-missing-non-negative-integer-after-operations
 [2601]:./Medium/2601-Prime%20Subtraction%20Operation/README.md#2601-prime-subtraction-operation
+[2602]:./Medium/2602-Minimum%20Operations%20to%20Make%20All%20Array%20Elements%20Equal/README.md#2602-minimum-operations-to-make-all-array-elements-equal
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -3155,3 +3157,4 @@
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2598l]:https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/
 [2601l]:https://leetcode.com/problems/prime-subtraction-operation/
+[2602l]:https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/
