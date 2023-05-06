@@ -1019,6 +1019,7 @@
 [2341][2341l]|[数组能形成多少数对][2341]                                |![rs]
 [2342][2342l]|[数位和相等数对的最大和][2342]                            |![rs]
 [2347][2347l]|[最好的扑克手牌][2347]                                    |![py]
+[2348][2348l]|[全 0 子数组的数目][2348]                                 |![rs]
 [2351][2351l]|[第一个出现两次的字母][2351]                              |![rs]
 [2357][2357l]|[使数组中所有元素都等于零][2357]                          |![rs]
 [2363][2363l]|[合并相似的物品][2363]                                    |![rs]
@@ -2072,6 +2073,7 @@
 [2341]:./Easy/2341-Maximum%20Number%20of%20Pairs%20in%20Array/README_CN.md#2341-数组能形成多少数对
 [2342]:./Medium/2342-Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits/README_CN.md#2342-数位和相等数对的最大和
 [2347]:./Easy/2347-Best%20Poker%20Hand/README_CN.md#2347-最好的扑克手牌
+[2348]:./Medium/2348-Number%20of%20Zero-Filled%20Subarrays/README_CN.md#2348-全-0-子数组的数目
 [2351]:./Easy/2351-First%20Letter%20to%20Appear%20Twice/README_CN.md#2351-第一个出现两次的字母
 [2357]:./Easy/2357-Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts/README_CN.md#2357-使数组中所有元素都等于零
 [2363]:./Easy/2363-Merge%20Similar%20Items/README_CN.md#2363-合并相似的物品
@@ -3130,6 +3132,7 @@
 [2341l]:https://leetcode.cn/problems/maximum-number-of-pairs-in-array/
 [2342l]:https://leetcode.cn/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 [2347l]:https://leetcode.cn/problems/best-poker-hand/
+[2348l]:https://leetcode.cn/problems/number-of-zero-filled-subarrays/
 [2351l]:https://leetcode.cn/problems/first-letter-to-appear-twice/
 [2357l]:https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/
 [2363l]:https://leetcode.cn/problems/merge-similar-items/
