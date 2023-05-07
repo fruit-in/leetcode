@@ -777,6 +777,7 @@
 [1642][1642l]|[可以到达的最远建筑][1642]                                |![rs]
 [1646][1646l]|[获取生成数组中的最大值][1646]                            |![rs]
 [1647][1647l]|[字符频次唯一的最小删除次数][1647]                        |![rb]&nbsp;&nbsp;![rs]
+[1648][1648l]|[销售价值减少的颜色球][1648]                              |![rs]
 [1652][1652l]|[拆炸弹][1652]                                            |![rb]&nbsp;&nbsp;![rs]
 [1656][1656l]|[设计有序流][1656]                                        |![py]
 [1658][1658l]|[将 x 减到 0 的最小操作数][1658]                          |![rb]&nbsp;&nbsp;![rs]
@@ -1831,6 +1832,7 @@
 [1642]:./Medium/1642-Furthest%20Building%20You%20Can%20Reach/README_CN.md#1642-可以到达的最远建筑
 [1646]:./Easy/1646-Get%20Maximum%20in%20Generated%20Array/README_CN.md#1646-获取生成数组中的最大值
 [1647]:./Medium/1647-Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique/README_CN.md#1647-字符频次唯一的最小删除次数
+[1648]:./Medium/1648-Sell%20Diminishing-Valued%20Colored%20Balls/README_CN.md#1648-销售价值减少的颜色球
 [1652]:./Easy/1652-Defuse%20the%20Bomb/README_CN.md#1652-拆炸弹
 [1656]:./Easy/1656-Design%20an%20Ordered%20Stream/README_CN.md#1656-设计有序流
 [1658]:./Medium/1658-Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/README_CN.md#1658-将-x-减到-0-的最小操作数
@@ -2890,6 +2892,7 @@
 [1642l]:https://leetcode.cn/problems/furthest-building-you-can-reach/
 [1646l]:https://leetcode.cn/problems/get-maximum-in-generated-array/
 [1647l]:https://leetcode.cn/problems/minimum-deletions-to-make-character-frequencies-unique/
+[1648l]:https://leetcode.cn/problems/sell-diminishing-valued-colored-balls/
 [1652l]:https://leetcode.cn/problems/defuse-the-bomb/
 [1656l]:https://leetcode.cn/problems/design-an-ordered-stream/
 [1658l]:https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/

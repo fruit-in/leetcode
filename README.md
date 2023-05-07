@@ -777,6 +777,7 @@
 [1642][1642l]|[Furthest Building You Can Reach][1642]                                               |![rs]
 [1646][1646l]|[Get Maximum in Generated Array][1646]                                                |![rs]
 [1647][1647l]|[Minimum Deletions to Make Character Frequencies Unique][1647]                        |![rb]&nbsp;&nbsp;![rs]
+[1648][1648l]|[Sell Diminishing-Valued Colored Balls][1648]                                         |![rs]
 [1652][1652l]|[Defuse the Bomb][1652]                                                               |![rb]&nbsp;&nbsp;![rs]
 [1656][1656l]|[Design an Ordered Stream][1656]                                                      |![py]
 [1658][1658l]|[Minimum Operations to Reduce X to Zero][1658]                                        |![rb]&nbsp;&nbsp;![rs]
@@ -1831,6 +1832,7 @@
 [1642]:./Medium/1642-Furthest%20Building%20You%20Can%20Reach/README.md#1642-furthest-building-you-can-reach
 [1646]:./Easy/1646-Get%20Maximum%20in%20Generated%20Array/README.md#1646-get-maximum-in-generated-array
 [1647]:./Medium/1647-Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique/README.md#1647-minimum-deletions-to-make-character-frequencies-unique
+[1648]:./Medium/1648-Sell%20Diminishing-Valued%20Colored%20Balls/README.md#1648-sell-diminishing-valued-colored-balls
 [1652]:./Easy/1652-Defuse%20the%20Bomb/README.md#1652-defuse-the-bomb
 [1656]:./Easy/1656-Design%20an%20Ordered%20Stream/README.md#1656-design-an-ordered-stream
 [1658]:./Medium/1658-Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/README.md#1658-minimum-operations-to-reduce-x-to-zero
@@ -2890,6 +2892,7 @@
 [1642l]:https://leetcode.com/problems/furthest-building-you-can-reach/
 [1646l]:https://leetcode.com/problems/get-maximum-in-generated-array/
 [1647l]:https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
+[1648l]:https://leetcode.com/problems/sell-diminishing-valued-colored-balls/
 [1652l]:https://leetcode.com/problems/defuse-the-bomb/
 [1656l]:https://leetcode.com/problems/design-an-ordered-stream/
 [1658l]:https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
