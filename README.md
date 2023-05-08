@@ -998,6 +998,7 @@
 [2273][2273l]|[Find Resultant Array After Removing Anagrams][2273]                                  |![py]
 [2278][2278l]|[Percentage of Letter in String][2278]                                                |![rs]
 [2279][2279l]|[Maximum Bags With Full Capacity of Rocks][2279]                                      |![rs]
+[2280][2280l]|[Minimum Lines to Represent a Line Chart][2280]                                       |![rs]
 [2283][2283l]|[Check if Number Has Equal Digit Count and Digit Value][2283]                         |![rs]
 [2284][2284l]|[Sender With Largest Word Count][2284]                                                |![py]
 [2287][2287l]|[Rearrange Characters to Make Target String][2287]                                    |![rs]
@@ -2053,6 +2054,7 @@
 [2273]:./Easy/2273-Find%20Resultant%20Array%20After%20Removing%20Anagrams/README.md#2273-find-resultant-array-after-removing-anagrams
 [2278]:./Easy/2278-Percentage%20of%20Letter%20in%20String/README.md#2278-percentage-of-letter-in-string
 [2279]:./Medium/2279-Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/README.md#2279-maximum-bags-with-full-capacity-of-rocks
+[2280]:./Medium/2280-Minimum%20Lines%20to%20Represent%20a%20Line%20Chart/README.md#2280-minimum-lines-to-represent-a-line-chart
 [2283]:./Easy/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README.md#2283-check-if-number-has-equal-digit-count-and-digit-value
 [2284]:./Medium/2284-Sender%20With%20Largest%20Word%20Count/README.md#2284-sender-with-largest-word-count
 [2287]:./Easy/2287-Rearrange%20Characters%20to%20Make%20Target%20String/README.md#2287-rearrange-characters-to-make-target-string
@@ -3113,6 +3115,7 @@
 [2273l]:https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 [2278l]:https://leetcode.com/problems/percentage-of-letter-in-string/
 [2279l]:https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
+[2280l]:https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/
 [2283l]:https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2284l]:https://leetcode.com/problems/sender-with-largest-word-count/
 [2287l]:https://leetcode.com/problems/rearrange-characters-to-make-target-string/
