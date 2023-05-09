@@ -948,6 +948,7 @@
 [2138][2138l]|[Divide a String Into Groups of Size k][2138]                                         |![py]
 [2139][2139l]|[Minimum Moves to Reach Target Score][2139]                                           |![rs]
 [2144][2144l]|[Minimum Cost of Buying Candies With Discount][2144]                                  |![rs]
+[2145][2145l]|[Count the Hidden Sequences][2145]                                                    |![rs]
 [2148][2148l]|[Count Elements With Strictly Smaller and Greater Elements][2148]                     |![rs]
 [2149][2149l]|[Rearrange Array Elements by Sign][2149]                                              |![rs]
 [2150][2150l]|[Find All Lonely Numbers in the Array][2150]                                          |![rs]
@@ -2004,6 +2005,7 @@
 [2138]:./Easy/2138-Divide%20a%20String%20Into%20Groups%20of%20Size%20k/README.md#2138-divide-a-string-into-groups-of-size-k
 [2139]:./Medium/2139-Minimum%20Moves%20to%20Reach%20Target%20Score/README.md#2139-minimum-moves-to-reach-target-score
 [2144]:./Easy/2144-Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/README.md#2144-minimum-cost-of-buying-candies-with-discount
+[2145]:./Medium/2145-Count%20the%20Hidden%20Sequences/README.md#2145-count-the-hidden-sequences
 [2148]:./Easy/2148-Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements/README.md#2148-count-elements-with-strictly-smaller-and-greater-elements
 [2149]:./Medium/2149-Rearrange%20Array%20Elements%20by%20Sign/README.md#2149-rearrange-array-elements-by-sign
 [2150]:./Medium/2150-Find%20All%20Lonely%20Numbers%20in%20the%20Array/README.md#2150-find-all-lonely-numbers-in-the-array
@@ -3065,6 +3067,7 @@
 [2138l]:https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
 [2139l]:https://leetcode.com/problems/minimum-moves-to-reach-target-score/
 [2144l]:https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
+[2145l]:https://leetcode.com/problems/count-the-hidden-sequences/
 [2148l]:https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/
 [2149l]:https://leetcode.com/problems/rearrange-array-elements-by-sign/
 [2150l]:https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
