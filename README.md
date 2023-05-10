@@ -1030,6 +1030,7 @@
 [2367][2367l]|[Number of Arithmetic Triplets][2367]                                                 |![rs]
 [2373][2373l]|[Largest Local Values in a Matrix][2373]                                              |![rs]
 [2375][2375l]|[Construct Smallest Number From DI String][2375]                                      |![rs]
+[2379][2379l]|[Minimum Recolors to Get K Consecutive Black Blocks][2379]                            |![rs]
 [2390][2390l]|[Removing Stars From a String][2390]                                                  |![rs]
 [2395][2395l]|[Find Subarrays With Equal Sum][2395]                                                 |![rs]
 [2413][2413l]|[Smallest Even Multiple][2413]                                                        |![rs]
@@ -2087,6 +2088,7 @@
 [2367]:./Easy/2367-Number%20of%20Arithmetic%20Triplets/README.md#2367-number-of-arithmetic-triplets
 [2373]:./Easy/2373-Largest%20Local%20Values%20in%20a%20Matrix/README.md#2373-largest-local-values-in-a-matrix
 [2375]:./Medium/2375-Construct%20Smallest%20Number%20From%20DI%20String/README.md#2375-construct-smallest-number-from-di-string
+[2379]:./Easy/2379-Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/README.md#2379-minimum-recolors-to-get-k-consecutive-black-blocks
 [2390]:./Medium/2390-Removing%20Stars%20From%20a%20String/README.md#2390-removing-stars-from-a-string
 [2395]:./Easy/2395-Find%20Subarrays%20With%20Equal%20Sum/README.md#2395-find-subarrays-with-equal-sum
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README.md#2413-smallest-even-multiple
@@ -3149,6 +3151,7 @@
 [2367l]:https://leetcode.com/problems/number-of-arithmetic-triplets/
 [2373l]:https://leetcode.com/problems/largest-local-values-in-a-matrix/
 [2375l]:https://leetcode.com/problems/construct-smallest-number-from-di-string/
+[2379l]:https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 [2390l]:https://leetcode.com/problems/removing-stars-from-a-string/
 [2395l]:https://leetcode.com/problems/find-subarrays-with-equal-sum/
 [2413l]:https://leetcode.com/problems/smallest-even-multiple/

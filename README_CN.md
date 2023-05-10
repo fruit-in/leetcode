@@ -1030,6 +1030,7 @@
 [2367][2367l]|[算术三元组的数目][2367]                                  |![rs]
 [2373][2373l]|[矩阵中的局部最大值][2373]                                |![rs]
 [2375][2375l]|[根据模式串构造最小数字][2375]                            |![rs]
+[2379][2379l]|[得到 K 个黑块的最少涂色次数][2379]                       |![rs]
 [2390][2390l]|[从字符串中移除星号][2390]                                |![rs]
 [2395][2395l]|[和相等的子数组][2395]                                    |![rs]
 [2413][2413l]|[最小偶倍数][2413]                                        |![rs]
@@ -2087,6 +2088,7 @@
 [2367]:./Easy/2367-Number%20of%20Arithmetic%20Triplets/README_CN.md#2367-算术三元组的数目
 [2373]:./Easy/2373-Largest%20Local%20Values%20in%20a%20Matrix/README_CN.md#2373-矩阵中的局部最大值
 [2375]:./Medium/2375-Construct%20Smallest%20Number%20From%20DI%20String/README_CN.md#2375-根据模式串构造最小数字
+[2379]:./Easy/2379-Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/README_CN.md#2379-得到-k-个黑块的最少涂色次数
 [2390]:./Medium/2390-Removing%20Stars%20From%20a%20String/README_CN.md#2390-从字符串中移除星号
 [2395]:./Easy/2395-Find%20Subarrays%20With%20Equal%20Sum/README_CN.md#2395-和相等的子数组
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README_CN.md#2413-最小偶倍数
@@ -3149,6 +3151,7 @@
 [2367l]:https://leetcode.cn/problems/number-of-arithmetic-triplets/
 [2373l]:https://leetcode.cn/problems/largest-local-values-in-a-matrix/
 [2375l]:https://leetcode.cn/problems/construct-smallest-number-from-di-string/
+[2379l]:https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 [2390l]:https://leetcode.cn/problems/removing-stars-from-a-string/
 [2395l]:https://leetcode.cn/problems/find-subarrays-with-equal-sum/
 [2413l]:https://leetcode.cn/problems/smallest-even-multiple/
