@@ -931,6 +931,7 @@
 [2099][2099l]|[找到和最大的长度为 K 的子序列][2099]                     |![rs]
 [2100][2100l]|[适合打劫银行的日子][2100]                                |![rs]
 [2103][2103l]|[环和杆][2103]                                            |![rs]
+[2105][2105l]|[给植物浇水 II][2105]                                     |![rs]
 [2108][2108l]|[找出数组中的第一个回文字符串][2108]                      |![rs]
 [2109][2109l]|[向字符串添加空格][2109]                                  |![rs]
 [2110][2110l]|[股票平滑下跌阶段的数目][2110]                            |![rs]
@@ -1989,6 +1990,7 @@
 [2099]:./Easy/2099-Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum/README_CN.md#2099-找到和最大的长度为-k-的子序列
 [2100]:./Medium/2100-Find%20Good%20Days%20to%20Rob%20the%20Bank/README_CN.md#2100-适合打劫银行的日子
 [2103]:./Easy/2103-Rings%20and%20Rods/README_CN.md#2103-环和杆
+[2105]:./Medium/2105-Watering%20Plants%20II/README_CN.md#2105-给植物浇水-ii
 [2108]:./Easy/2108-Find%20First%20Palindromic%20String%20in%20the%20Array/README_CN.md#2108-找出数组中的第一个回文字符串
 [2109]:./Medium/2109-Adding%20Spaces%20to%20a%20String/README_CN.md#2109-向字符串添加空格
 [2110]:./Medium/2110-Number%20of%20Smooth%20Descent%20Periods%20of%20a%20Stock/README_CN.md#2110-股票平滑下跌阶段的数目
@@ -3052,6 +3054,7 @@
 [2099l]:https://leetcode.cn/problems/find-subsequence-of-length-k-with-the-largest-sum/
 [2100l]:https://leetcode.cn/problems/find-good-days-to-rob-the-bank/
 [2103l]:https://leetcode.cn/problems/rings-and-rods/
+[2105l]:https://leetcode.cn/problems/watering-plants-ii/
 [2108l]:https://leetcode.cn/problems/find-first-palindromic-string-in-the-array/
 [2109l]:https://leetcode.cn/problems/adding-spaces-to-a-string/
 [2110l]:https://leetcode.cn/problems/number-of-smooth-descent-periods-of-a-stock/
