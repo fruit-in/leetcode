@@ -1020,6 +1020,7 @@
 [2331][2331l]|[Evaluate Boolean Binary Tree][2331]                                                  |![py]
 [2335][2335l]|[Minimum Amount of Time to Fill Cups][2335]                                           |![rs]
 [2336][2336l]|[Smallest Number in Infinite Set][2336]                                               |![rs]
+[2337][2337l]|[Move Pieces to Obtain a String][2337]                                                |![rs]
 [2341][2341l]|[Maximum Number of Pairs in Array][2341]                                              |![rs]
 [2342][2342l]|[Max Sum of a Pair With Equal Sum of Digits][2342]                                    |![rs]
 [2347][2347l]|[Best Poker Hand][2347]                                                               |![py]
@@ -2079,6 +2080,7 @@
 [2331]:./Easy/2331-Evaluate%20Boolean%20Binary%20Tree/README.md#2331-evaluate-boolean-binary-tree
 [2335]:./Easy/2335-Minimum%20Amount%20of%20Time%20to%20Fill%20Cups/README.md#2335-minimum-amount-of-time-to-fill-cups
 [2336]:./Medium/2336-Smallest%20Number%20in%20Infinite%20Set/README.md#2336-smallest-number-in-infinite-set
+[2337]:./Medium/2337-Move%20Pieces%20to%20Obtain%20a%20String/README.md#2337-move-pieces-to-obtain-a-string
 [2341]:./Easy/2341-Maximum%20Number%20of%20Pairs%20in%20Array/README.md#2341-maximum-number-of-pairs-in-array
 [2342]:./Medium/2342-Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits/README.md#2342-max-sum-of-a-pair-with-equal-sum-of-digits
 [2347]:./Easy/2347-Best%20Poker%20Hand/README.md#2347-best-poker-hand
@@ -3143,6 +3145,7 @@
 [2331l]:https://leetcode.com/problems/evaluate-boolean-binary-tree/
 [2335l]:https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/
 [2336l]:https://leetcode.com/problems/smallest-number-in-infinite-set/
+[2337l]:https://leetcode.com/problems/move-pieces-to-obtain-a-string/
 [2341l]:https://leetcode.com/problems/maximum-number-of-pairs-in-array/
 [2342l]:https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 [2347l]:https://leetcode.com/problems/best-poker-hand/
