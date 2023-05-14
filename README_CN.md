@@ -803,6 +803,7 @@
 [1704][1704l]|[判断字符串的两半是否相似][1704]                          |![rb]&nbsp;&nbsp;![rs]
 [1705][1705l]|[吃苹果的最大数目][1705]                                  |![rs]
 [1710][1710l]|[卡车上的最大单元数][1710]                                |![rs]
+[1711][1711l]|[大餐计数][1711]                                          |![rs]
 [1712][1712l]|[将数组分成三个子数组的方案数][1712]                      |![rs]
 [1716][1716l]|[计算力扣银行的钱][1716]                                  |![rb]&nbsp;&nbsp;![rs]
 [1720][1720l]|[解码异或后的数组][1720]                                  |![rb]&nbsp;&nbsp;![rs]
@@ -1864,6 +1865,7 @@
 [1704]:./Easy/1704-Determine%20if%20String%20Halves%20Are%20Alike/README_CN.md#1704-判断字符串的两半是否相似
 [1705]:./Medium/1705-Maximum%20Number%20of%20Eaten%20Apples/README_CN.md#1705-吃苹果的最大数目
 [1710]:./Easy/1710-Maximum%20Units%20on%20a%20Truck/README_CN.md#1710-卡车上的最大单元数
+[1711]:./Medium/1711-Count%20Good%20Meals/README_CN.md#1711-大餐计数
 [1712]:./Medium/1712-Ways%20to%20Split%20Array%20Into%20Three%20Subarrays/README_CN.md#1712-将数组分成三个子数组的方案数
 [1716]:./Easy/1716-Calculate%20Money%20in%20Leetcode%20Bank/README_CN.md#1716-计算力扣银行的钱
 [1720]:./Easy/1720-Decode%20XORed%20Array/README_CN.md#1720-解码异或后的数组
@@ -2930,6 +2932,7 @@
 [1704l]:https://leetcode.cn/problems/determine-if-string-halves-are-alike/
 [1705l]:https://leetcode.cn/problems/maximum-number-of-eaten-apples/
 [1710l]:https://leetcode.cn/problems/maximum-units-on-a-truck/
+[1711l]:https://leetcode.cn/problems/count-good-meals/
 [1712l]:https://leetcode.cn/problems/ways-to-split-array-into-three-subarrays/
 [1716l]:https://leetcode.cn/problems/calculate-money-in-leetcode-bank/
 [1720l]:https://leetcode.cn/problems/decode-xored-array/
