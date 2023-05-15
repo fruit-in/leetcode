@@ -1037,6 +1037,7 @@
 [2379][2379l]|[Minimum Recolors to Get K Consecutive Black Blocks][2379]                            |![rs]
 [2390][2390l]|[Removing Stars From a String][2390]                                                  |![rs]
 [2395][2395l]|[Find Subarrays With Equal Sum][2395]                                                 |![rs]
+[2400][2400l]|[Number of Ways to Reach a Position After Exactly k Steps][2400]                      |![rs]
 [2413][2413l]|[Smallest Even Multiple][2413]                                                        |![rs]
 [2418][2418l]|[Sort the People][2418]                                                               |![rs]
 [2425][2425l]|[Bitwise XOR of All Pairings][2425]                                                   |![rs]
@@ -2099,6 +2100,7 @@
 [2379]:./Easy/2379-Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/README.md#2379-minimum-recolors-to-get-k-consecutive-black-blocks
 [2390]:./Medium/2390-Removing%20Stars%20From%20a%20String/README.md#2390-removing-stars-from-a-string
 [2395]:./Easy/2395-Find%20Subarrays%20With%20Equal%20Sum/README.md#2395-find-subarrays-with-equal-sum
+[2400]:./Medium/2400-Number%20of%20Ways%20to%20Reach%20a%20Position%20After%20Exactly%20k%20Steps/README.md#2400-number-of-ways-to-reach-a-position-after-exactly-k-steps
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README.md#2413-smallest-even-multiple
 [2418]:./Easy/2418-Sort%20the%20People/README.md#2418-sort-the-people
 [2425]:./Medium/2425-Bitwise%20XOR%20of%20All%20Pairings/README.md#2425-bitwise-xor-of-all-pairings
@@ -3166,6 +3168,7 @@
 [2379l]:https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 [2390l]:https://leetcode.com/problems/removing-stars-from-a-string/
 [2395l]:https://leetcode.com/problems/find-subarrays-with-equal-sum/
+[2400l]:https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/
 [2413l]:https://leetcode.com/problems/smallest-even-multiple/
 [2418l]:https://leetcode.com/problems/sort-the-people/
 [2425l]:https://leetcode.com/problems/bitwise-xor-of-all-pairings/
