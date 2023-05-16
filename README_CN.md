@@ -1035,6 +1035,7 @@
 [2373][2373l]|[矩阵中的局部最大值][2373]                                |![rs]
 [2375][2375l]|[根据模式串构造最小数字][2375]                            |![rs]
 [2379][2379l]|[得到 K 个黑块的最少涂色次数][2379]                       |![rs]
+[2384][2384l]|[最大回文数字][2384]                                      |![rs]
 [2390][2390l]|[从字符串中移除星号][2390]                                |![rs]
 [2395][2395l]|[和相等的子数组][2395]                                    |![rs]
 [2400][2400l]|[恰好移动 k 步到达某一位置的方法数目][2400]               |![rs]
@@ -2098,6 +2099,7 @@
 [2373]:./Easy/2373-Largest%20Local%20Values%20in%20a%20Matrix/README_CN.md#2373-矩阵中的局部最大值
 [2375]:./Medium/2375-Construct%20Smallest%20Number%20From%20DI%20String/README_CN.md#2375-根据模式串构造最小数字
 [2379]:./Easy/2379-Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/README_CN.md#2379-得到-k-个黑块的最少涂色次数
+[2384]:./Medium/2384-Largest%20Palindromic%20Number/README_CN.md#2384-最大回文数字
 [2390]:./Medium/2390-Removing%20Stars%20From%20a%20String/README_CN.md#2390-从字符串中移除星号
 [2395]:./Easy/2395-Find%20Subarrays%20With%20Equal%20Sum/README_CN.md#2395-和相等的子数组
 [2400]:./Medium/2400-Number%20of%20Ways%20to%20Reach%20a%20Position%20After%20Exactly%20k%20Steps/README_CN.md#2400-恰好移动-k-步到达某一位置的方法数目
@@ -3166,6 +3168,7 @@
 [2373l]:https://leetcode.cn/problems/largest-local-values-in-a-matrix/
 [2375l]:https://leetcode.cn/problems/construct-smallest-number-from-di-string/
 [2379l]:https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
+[2384l]:https://leetcode.cn/problems/largest-palindromic-number/
 [2390l]:https://leetcode.cn/problems/removing-stars-from-a-string/
 [2395l]:https://leetcode.cn/problems/find-subarrays-with-equal-sum/
 [2400l]:https://leetcode.cn/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/
