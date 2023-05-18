@@ -1039,6 +1039,7 @@
 [2390][2390l]|[从字符串中移除星号][2390]                                |![rs]
 [2391][2391l]|[收集垃圾的最少总时间][2391]                              |![rs]
 [2395][2395l]|[和相等的子数组][2395]                                    |![rs]
+[2396][2396l]|[严格回文的数字][2396]                                    |![rs]
 [2400][2400l]|[恰好移动 k 步到达某一位置的方法数目][2400]               |![rs]
 [2413][2413l]|[最小偶倍数][2413]                                        |![rs]
 [2418][2418l]|[按身高排序][2418]                                        |![rs]
@@ -2104,6 +2105,7 @@
 [2390]:./Medium/2390-Removing%20Stars%20From%20a%20String/README_CN.md#2390-从字符串中移除星号
 [2391]:./Medium/2391-Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage/README_CN.md#2391-收集垃圾的最少总时间
 [2395]:./Easy/2395-Find%20Subarrays%20With%20Equal%20Sum/README_CN.md#2395-和相等的子数组
+[2396]:./Medium/2396-Strictly%20Palindromic%20Number/README_CN.md#2396-严格回文的数字
 [2400]:./Medium/2400-Number%20of%20Ways%20to%20Reach%20a%20Position%20After%20Exactly%20k%20Steps/README_CN.md#2400-恰好移动-k-步到达某一位置的方法数目
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README_CN.md#2413-最小偶倍数
 [2418]:./Easy/2418-Sort%20the%20People/README_CN.md#2418-按身高排序
@@ -3174,6 +3176,7 @@
 [2390l]:https://leetcode.cn/problems/removing-stars-from-a-string/
 [2391l]:https://leetcode.cn/problems/minimum-amount-of-time-to-collect-garbage/
 [2395l]:https://leetcode.cn/problems/find-subarrays-with-equal-sum/
+[2396l]:https://leetcode.cn/problems/strictly-palindromic-number/
 [2400l]:https://leetcode.cn/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/
 [2413l]:https://leetcode.cn/problems/smallest-even-multiple/
 [2418l]:https://leetcode.cn/problems/sort-the-people/
