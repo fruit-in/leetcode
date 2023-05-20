@@ -881,6 +881,7 @@
 [1935][1935l]|[Maximum Number of Words You Can Type][1935]                                          |![py]
 [1941][1941l]|[Check if All Characters Have Equal Number of Occurrences][1941]                      |![rs]
 [1945][1945l]|[Sum of Digits of String After Convert][1945]                                         |![py]
+[1946][1946l]|[Largest Number After Mutating Substring][1946]                                       |![rs]
 [1952][1952l]|[Three Divisors][1952]                                                                |![rs]
 [1957][1957l]|[Delete Characters to Make Fancy String][1957]                                        |![py]
 [1961][1961l]|[Check If String Is a Prefix of Array][1961]                                          |![py]
@@ -1948,6 +1949,7 @@
 [1935]:./Easy/1935-Maximum%20Number%20of%20Words%20You%20Can%20Type/README.md#1935-maximum-number-of-words-you-can-type
 [1941]:./Easy/1941-Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences/README.md#1941-check-if-all-characters-have-equal-number-of-occurrences
 [1945]:./Easy/1945-Sum%20of%20Digits%20of%20String%20After%20Convert/README.md#1945-sum-of-digits-of-string-after-convert
+[1946]:./Medium/1946-Largest%20Number%20After%20Mutating%20Substring/README.md#1946-largest-number-after-mutating-substring
 [1952]:./Easy/1952-Three%20Divisors/README.md#1952-three-divisors
 [1957]:./Easy/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README.md#1957-delete-characters-to-make-fancy-string
 [1961]:./Easy/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README.md#1961-check-if-string-is-a-prefix-of-array
@@ -3020,6 +3022,7 @@
 [1935l]:https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 [1941l]:https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 [1945l]:https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
+[1946l]:https://leetcode.com/problems/largest-number-after-mutating-substring/
 [1952l]:https://leetcode.com/problems/three-divisors/
 [1957l]:https://leetcode.com/problems/delete-characters-to-make-fancy-string/
 [1961l]:https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/

@@ -881,6 +881,7 @@
 [1935][1935l]|[可以输入的最大单词数][1935]                              |![py]
 [1941][1941l]|[检查是否所有字符出现次数相同][1941]                      |![rs]
 [1945][1945l]|[字符串转化后的各位数字之和][1945]                        |![py]
+[1946][1946l]|[子字符串突变后可能得到的最大整数][1946]                  |![rs]
 [1952][1952l]|[三除数][1952]                                            |![rs]
 [1957][1957l]|[删除字符使字符串变好][1957]                              |![py]
 [1961][1961l]|[检查字符串是否为数组前缀][1961]                          |![py]
@@ -1948,6 +1949,7 @@
 [1935]:./Easy/1935-Maximum%20Number%20of%20Words%20You%20Can%20Type/README_CN.md#1935-可以输入的最大单词数
 [1941]:./Easy/1941-Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences/README_CN.md#1941-检查是否所有字符出现次数相同
 [1945]:./Easy/1945-Sum%20of%20Digits%20of%20String%20After%20Convert/README_CN.md#1945-字符串转化后的各位数字之和
+[1946]:./Medium/1946-Largest%20Number%20After%20Mutating%20Substring/README_CN.md#1946-子字符串突变后可能得到的最大整数
 [1952]:./Easy/1952-Three%20Divisors/README_CN.md#1952-三除数
 [1957]:./Easy/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README_CN.md#1957-删除字符使字符串变好
 [1961]:./Easy/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README_CN.md#1961-检查字符串是否为数组前缀
@@ -3020,6 +3022,7 @@
 [1935l]:https://leetcode.cn/problems/maximum-number-of-words-you-can-type/
 [1941l]:https://leetcode.cn/problems/check-if-all-characters-have-equal-number-of-occurrences/
 [1945l]:https://leetcode.cn/problems/sum-of-digits-of-string-after-convert/
+[1946l]:https://leetcode.cn/problems/largest-number-after-mutating-substring/
 [1952l]:https://leetcode.cn/problems/three-divisors/
 [1957l]:https://leetcode.cn/problems/delete-characters-to-make-fancy-string/
 [1961l]:https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array/
