@@ -883,6 +883,7 @@
 [1945][1945l]|[字符串转化后的各位数字之和][1945]                        |![py]
 [1946][1946l]|[子字符串突变后可能得到的最大整数][1946]                  |![rs]
 [1952][1952l]|[三除数][1952]                                            |![rs]
+[1954][1954l]|[收集足够苹果的最小花园周长][1954]                        |![rs]
 [1957][1957l]|[删除字符使字符串变好][1957]                              |![py]
 [1961][1961l]|[检查字符串是否为数组前缀][1961]                          |![py]
 [1962][1962l]|[移除石子使总数最小][1962]                                |![rs]
@@ -1951,6 +1952,7 @@
 [1945]:./Easy/1945-Sum%20of%20Digits%20of%20String%20After%20Convert/README_CN.md#1945-字符串转化后的各位数字之和
 [1946]:./Medium/1946-Largest%20Number%20After%20Mutating%20Substring/README_CN.md#1946-子字符串突变后可能得到的最大整数
 [1952]:./Easy/1952-Three%20Divisors/README_CN.md#1952-三除数
+[1954]:./Medium/1954-Minimum%20Garden%20Perimeter%20to%20Collect%20Enough%20Apples/README_CN.md#1954-收集足够苹果的最小花园周长
 [1957]:./Easy/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README_CN.md#1957-删除字符使字符串变好
 [1961]:./Easy/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README_CN.md#1961-检查字符串是否为数组前缀
 [1962]:./Medium/1962-Remove%20Stones%20to%20Minimize%20the%20Total/README_CN.md#1962-移除石子使总数最小
@@ -3024,6 +3026,7 @@
 [1945l]:https://leetcode.cn/problems/sum-of-digits-of-string-after-convert/
 [1946l]:https://leetcode.cn/problems/largest-number-after-mutating-substring/
 [1952l]:https://leetcode.cn/problems/three-divisors/
+[1954l]:https://leetcode.cn/problems/minimum-garden-perimeter-to-collect-enough-apples/
 [1957l]:https://leetcode.cn/problems/delete-characters-to-make-fancy-string/
 [1961l]:https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array/
 [1962l]:https://leetcode.cn/problems/remove-stones-to-minimize-the-total/
