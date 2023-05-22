@@ -1038,6 +1038,7 @@
 [2373][2373l]|[矩阵中的局部最大值][2373]                                |![rs]
 [2375][2375l]|[根据模式串构造最小数字][2375]                            |![rs]
 [2379][2379l]|[得到 K 个黑块的最少涂色次数][2379]                       |![rs]
+[2383][2383l]|[赢得比赛需要的最少训练时长][2383]                        |![rs]
 [2384][2384l]|[最大回文数字][2384]                                      |![rs]
 [2390][2390l]|[从字符串中移除星号][2390]                                |![rs]
 [2391][2391l]|[收集垃圾的最少总时间][2391]                              |![rs]
@@ -2107,6 +2108,7 @@
 [2373]:./Easy/2373-Largest%20Local%20Values%20in%20a%20Matrix/README_CN.md#2373-矩阵中的局部最大值
 [2375]:./Medium/2375-Construct%20Smallest%20Number%20From%20DI%20String/README_CN.md#2375-根据模式串构造最小数字
 [2379]:./Easy/2379-Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/README_CN.md#2379-得到-k-个黑块的最少涂色次数
+[2383]:./Easy/2383-Minimum%20Hours%20of%20Training%20to%20Win%20a%20Competition/README_CN.md#2383-赢得比赛需要的最少训练时长
 [2384]:./Medium/2384-Largest%20Palindromic%20Number/README_CN.md#2384-最大回文数字
 [2390]:./Medium/2390-Removing%20Stars%20From%20a%20String/README_CN.md#2390-从字符串中移除星号
 [2391]:./Medium/2391-Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage/README_CN.md#2391-收集垃圾的最少总时间
@@ -3181,6 +3183,7 @@
 [2373l]:https://leetcode.cn/problems/largest-local-values-in-a-matrix/
 [2375l]:https://leetcode.cn/problems/construct-smallest-number-from-di-string/
 [2379l]:https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
+[2383l]:https://leetcode.cn/problems/minimum-hours-of-training-to-win-a-competition/
 [2384l]:https://leetcode.cn/problems/largest-palindromic-number/
 [2390l]:https://leetcode.cn/problems/removing-stars-from-a-string/
 [2391l]:https://leetcode.cn/problems/minimum-amount-of-time-to-collect-garbage/

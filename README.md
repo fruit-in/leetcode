@@ -1038,6 +1038,7 @@
 [2373][2373l]|[Largest Local Values in a Matrix][2373]                                              |![rs]
 [2375][2375l]|[Construct Smallest Number From DI String][2375]                                      |![rs]
 [2379][2379l]|[Minimum Recolors to Get K Consecutive Black Blocks][2379]                            |![rs]
+[2383][2383l]|[Minimum Hours of Training to Win a Competition][2383]                                |![rs]
 [2384][2384l]|[Largest Palindromic Number][2384]                                                    |![rs]
 [2390][2390l]|[Removing Stars From a String][2390]                                                  |![rs]
 [2391][2391l]|[Minimum Amount of Time to Collect Garbage][2391]                                     |![rs]
@@ -2107,6 +2108,7 @@
 [2373]:./Easy/2373-Largest%20Local%20Values%20in%20a%20Matrix/README.md#2373-largest-local-values-in-a-matrix
 [2375]:./Medium/2375-Construct%20Smallest%20Number%20From%20DI%20String/README.md#2375-construct-smallest-number-from-di-string
 [2379]:./Easy/2379-Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/README.md#2379-minimum-recolors-to-get-k-consecutive-black-blocks
+[2383]:./Easy/2383-Minimum%20Hours%20of%20Training%20to%20Win%20a%20Competition/README.md#2383-minimum-hours-of-training-to-win-a-competition
 [2384]:./Medium/2384-Largest%20Palindromic%20Number/README.md#2384-largest-palindromic-number
 [2390]:./Medium/2390-Removing%20Stars%20From%20a%20String/README.md#2390-removing-stars-from-a-string
 [2391]:./Medium/2391-Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage/README.md#2391-minimum-amount-of-time-to-collect-garbage
@@ -3181,6 +3183,7 @@
 [2373l]:https://leetcode.com/problems/largest-local-values-in-a-matrix/
 [2375l]:https://leetcode.com/problems/construct-smallest-number-from-di-string/
 [2379l]:https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
+[2383l]:https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/
 [2384l]:https://leetcode.com/problems/largest-palindromic-number/
 [2390l]:https://leetcode.com/problems/removing-stars-from-a-string/
 [2391l]:https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
