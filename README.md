@@ -1045,6 +1045,7 @@
 [2395][2395l]|[Find Subarrays With Equal Sum][2395]                                                 |![rs]
 [2396][2396l]|[Strictly Palindromic Number][2396]                                                   |![rs]
 [2400][2400l]|[Number of Ways to Reach a Position After Exactly k Steps][2400]                      |![rs]
+[2405][2405l]|[Optimal Partition of String][2405]                                                   |![rs]
 [2413][2413l]|[Smallest Even Multiple][2413]                                                        |![rs]
 [2418][2418l]|[Sort the People][2418]                                                               |![rs]
 [2425][2425l]|[Bitwise XOR of All Pairings][2425]                                                   |![rs]
@@ -2115,6 +2116,7 @@
 [2395]:./Easy/2395-Find%20Subarrays%20With%20Equal%20Sum/README.md#2395-find-subarrays-with-equal-sum
 [2396]:./Medium/2396-Strictly%20Palindromic%20Number/README.md#2396-strictly-palindromic-number
 [2400]:./Medium/2400-Number%20of%20Ways%20to%20Reach%20a%20Position%20After%20Exactly%20k%20Steps/README.md#2400-number-of-ways-to-reach-a-position-after-exactly-k-steps
+[2405]:./Medium/2405-Optimal%20Partition%20of%20String/README.md#2405-optimal-partition-of-string
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README.md#2413-smallest-even-multiple
 [2418]:./Easy/2418-Sort%20the%20People/README.md#2418-sort-the-people
 [2425]:./Medium/2425-Bitwise%20XOR%20of%20All%20Pairings/README.md#2425-bitwise-xor-of-all-pairings
@@ -3190,6 +3192,7 @@
 [2395l]:https://leetcode.com/problems/find-subarrays-with-equal-sum/
 [2396l]:https://leetcode.com/problems/strictly-palindromic-number/
 [2400l]:https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/
+[2405l]:https://leetcode.com/problems/optimal-partition-of-string/
 [2413l]:https://leetcode.com/problems/smallest-even-multiple/
 [2418l]:https://leetcode.com/problems/sort-the-people/
 [2425l]:https://leetcode.com/problems/bitwise-xor-of-all-pairings/
