@@ -977,6 +977,7 @@
 [2194][2194l]|[Cells in a Range on an Excel Sheet][2194]                                            |![rs]
 [2196][2196l]|[Create Binary Tree From Descriptions][2196]                                          |![py]
 [2200][2200l]|[Find All K-Distant Indices in an Array][2200]                                        |![rs]
+[2201][2201l]|[Count Artifacts That Can Be Extracted][2201]                                         |![rs]
 [2206][2206l]|[Divide Array Into Equal Pairs][2206]                                                 |![rs]
 [2210][2210l]|[Count Hills and Valleys in an Array][2210]                                           |![py]
 [2211][2211l]|[Count Collisions on a Road][2211]                                                    |![rs]
@@ -2049,6 +2050,7 @@
 [2194]:./Easy/2194-Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet/README.md#2194-cells-in-a-range-on-an-excel-sheet
 [2196]:./Medium/2196-Create%20Binary%20Tree%20From%20Descriptions/README.md#2196-create-binary-tree-from-descriptions
 [2200]:./Easy/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README.md#2200-find-all-k-distant-indices-in-an-array
+[2201]:./Medium/2201-Count%20Artifacts%20That%20Can%20Be%20Extracted/README.md#2201-count-artifacts-that-can-be-extracted
 [2206]:./Easy/2206-Divide%20Array%20Into%20Equal%20Pairs/README.md#2206-divide-array-into-equal-pairs
 [2210]:./Easy/2210-Count%20Hills%20and%20Valleys%20in%20an%20Array/README.md#2210-count-hills-and-valleys-in-an-array
 [2211]:./Medium/2211-Count%20Collisions%20on%20a%20Road/README.md#2211-count-collisions-on-a-road
@@ -3126,6 +3128,7 @@
 [2194l]:https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
 [2196l]:https://leetcode.com/problems/create-binary-tree-from-descriptions/
 [2200l]:https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
+[2201l]:https://leetcode.com/problems/count-artifacts-that-can-be-extracted/
 [2206l]:https://leetcode.com/problems/divide-array-into-equal-pairs/
 [2210l]:https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 [2211l]:https://leetcode.com/problems/count-collisions-on-a-road/
