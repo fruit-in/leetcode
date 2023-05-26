@@ -1041,6 +1041,7 @@
 [2379][2379l]|[得到 K 个黑块的最少涂色次数][2379]                       |![rs]
 [2383][2383l]|[赢得比赛需要的最少训练时长][2383]                        |![rs]
 [2384][2384l]|[最大回文数字][2384]                                      |![rs]
+[2389][2389l]|[和有限的最长子序列][2389]                                |![rs]
 [2390][2390l]|[从字符串中移除星号][2390]                                |![rs]
 [2391][2391l]|[收集垃圾的最少总时间][2391]                              |![rs]
 [2395][2395l]|[和相等的子数组][2395]                                    |![rs]
@@ -2114,6 +2115,7 @@
 [2379]:./Easy/2379-Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/README_CN.md#2379-得到-k-个黑块的最少涂色次数
 [2383]:./Easy/2383-Minimum%20Hours%20of%20Training%20to%20Win%20a%20Competition/README_CN.md#2383-赢得比赛需要的最少训练时长
 [2384]:./Medium/2384-Largest%20Palindromic%20Number/README_CN.md#2384-最大回文数字
+[2389]:./Easy/2389-Longest%20Subsequence%20With%20Limited%20Sum/README_CN.md#2389-和有限的最长子序列
 [2390]:./Medium/2390-Removing%20Stars%20From%20a%20String/README_CN.md#2390-从字符串中移除星号
 [2391]:./Medium/2391-Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage/README_CN.md#2391-收集垃圾的最少总时间
 [2395]:./Easy/2395-Find%20Subarrays%20With%20Equal%20Sum/README_CN.md#2395-和相等的子数组
@@ -3192,6 +3194,7 @@
 [2379l]:https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 [2383l]:https://leetcode.cn/problems/minimum-hours-of-training-to-win-a-competition/
 [2384l]:https://leetcode.cn/problems/largest-palindromic-number/
+[2389l]:https://leetcode.cn/problems/longest-subsequence-with-limited-sum/
 [2390l]:https://leetcode.cn/problems/removing-stars-from-a-string/
 [2391l]:https://leetcode.cn/problems/minimum-amount-of-time-to-collect-garbage/
 [2395l]:https://leetcode.cn/problems/find-subarrays-with-equal-sum/
