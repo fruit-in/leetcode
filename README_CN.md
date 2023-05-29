@@ -994,6 +994,7 @@
 [2236][2236l]|[判断根结点是否等于子结点之和][2236]                      |![py]
 [2239][2239l]|[找到最接近 0 的数字][2239]                               |![rs]
 [2240][2240l]|[买钢笔和铅笔的方案数][2240]                              |![rs]
+[2241][2241l]|[设计一个 ATM 机器][2241]                                 |![rs]
 [2243][2243l]|[计算字符串的数字和][2243]                                |![py]
 [2244][2244l]|[完成所有任务需要的最少轮数][2244]                        |![py]
 [2248][2248l]|[多个数组求交集][2248]                                    |![py]
@@ -2070,6 +2071,7 @@
 [2236]:./Easy/2236-Root%20Equals%20Sum%20of%20Children/README_CN.md#2236-判断根结点是否等于子结点之和
 [2239]:./Easy/2239-Find%20Closest%20Number%20to%20Zero/README_CN.md#2239-找到最接近-0-的数字
 [2240]:./Medium/2240-Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils/README_CN.md#2240-买钢笔和铅笔的方案数
+[2241]:./Medium/2241-Design%20an%20ATM%20Machine/README_CN.md#2241-设计一个-atm-机器
 [2243]:./Easy/2243-Calculate%20Digit%20Sum%20of%20a%20String/README_CN.md#2243-计算字符串的数字和
 [2244]:./Medium/2244-Minimum%20Rounds%20to%20Complete%20All%20Tasks/README_CN.md#2244-完成所有任务需要的最少轮数
 [2248]:./Easy/2248-Intersection%20of%20Multiple%20Arrays/README_CN.md#2248-多个数组求交集
@@ -3151,6 +3153,7 @@
 [2236l]:https://leetcode.cn/problems/root-equals-sum-of-children/
 [2239l]:https://leetcode.cn/problems/find-closest-number-to-zero/
 [2240l]:https://leetcode.cn/problems/number-of-ways-to-buy-pens-and-pencils/
+[2241l]:https://leetcode.cn/problems/design-an-atm-machine/
 [2243l]:https://leetcode.cn/problems/calculate-digit-sum-of-a-string/
 [2244l]:https://leetcode.cn/problems/minimum-rounds-to-complete-all-tasks/
 [2248l]:https://leetcode.cn/problems/intersection-of-multiple-arrays/
