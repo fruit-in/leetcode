@@ -1049,6 +1049,7 @@
 [2391][2391l]|[Minimum Amount of Time to Collect Garbage][2391]                                     |![rs]
 [2395][2395l]|[Find Subarrays With Equal Sum][2395]                                                 |![rs]
 [2396][2396l]|[Strictly Palindromic Number][2396]                                                   |![rs]
+[2399][2399l]|[Check Distances Between Same Letters][2399]                                          |![rs]
 [2400][2400l]|[Number of Ways to Reach a Position After Exactly k Steps][2400]                      |![rs]
 [2405][2405l]|[Optimal Partition of String][2405]                                                   |![rs]
 [2413][2413l]|[Smallest Even Multiple][2413]                                                        |![rs]
@@ -2126,6 +2127,7 @@
 [2391]:./Medium/2391-Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage/README.md#2391-minimum-amount-of-time-to-collect-garbage
 [2395]:./Easy/2395-Find%20Subarrays%20With%20Equal%20Sum/README.md#2395-find-subarrays-with-equal-sum
 [2396]:./Medium/2396-Strictly%20Palindromic%20Number/README.md#2396-strictly-palindromic-number
+[2399]:./Easy/2399-Check%20Distances%20Between%20Same%20Letters/README.md#2399-check-distances-between-same-letters
 [2400]:./Medium/2400-Number%20of%20Ways%20to%20Reach%20a%20Position%20After%20Exactly%20k%20Steps/README.md#2400-number-of-ways-to-reach-a-position-after-exactly-k-steps
 [2405]:./Medium/2405-Optimal%20Partition%20of%20String/README.md#2405-optimal-partition-of-string
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README.md#2413-smallest-even-multiple
@@ -3208,6 +3210,7 @@
 [2391l]:https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
 [2395l]:https://leetcode.com/problems/find-subarrays-with-equal-sum/
 [2396l]:https://leetcode.com/problems/strictly-palindromic-number/
+[2399l]:https://leetcode.com/problems/check-distances-between-same-letters/
 [2400l]:https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/
 [2405l]:https://leetcode.com/problems/optimal-partition-of-string/
 [2413l]:https://leetcode.com/problems/smallest-even-multiple/

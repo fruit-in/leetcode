@@ -1049,6 +1049,7 @@
 [2391][2391l]|[收集垃圾的最少总时间][2391]                              |![rs]
 [2395][2395l]|[和相等的子数组][2395]                                    |![rs]
 [2396][2396l]|[严格回文的数字][2396]                                    |![rs]
+[2399][2399l]|[检查相同字母间的距离][2399]                              |![rs]
 [2400][2400l]|[恰好移动 k 步到达某一位置的方法数目][2400]               |![rs]
 [2405][2405l]|[子字符串的最优划分][2405]                                |![rs]
 [2413][2413l]|[最小偶倍数][2413]                                        |![rs]
@@ -2126,6 +2127,7 @@
 [2391]:./Medium/2391-Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage/README_CN.md#2391-收集垃圾的最少总时间
 [2395]:./Easy/2395-Find%20Subarrays%20With%20Equal%20Sum/README_CN.md#2395-和相等的子数组
 [2396]:./Medium/2396-Strictly%20Palindromic%20Number/README_CN.md#2396-严格回文的数字
+[2399]:./Easy/2399-Check%20Distances%20Between%20Same%20Letters/README_CN.md#2399-检查相同字母间的距离
 [2400]:./Medium/2400-Number%20of%20Ways%20to%20Reach%20a%20Position%20After%20Exactly%20k%20Steps/README_CN.md#2400-恰好移动-k-步到达某一位置的方法数目
 [2405]:./Medium/2405-Optimal%20Partition%20of%20String/README_CN.md#2405-子字符串的最优划分
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README_CN.md#2413-最小偶倍数
@@ -3208,6 +3210,7 @@
 [2391l]:https://leetcode.cn/problems/minimum-amount-of-time-to-collect-garbage/
 [2395l]:https://leetcode.cn/problems/find-subarrays-with-equal-sum/
 [2396l]:https://leetcode.cn/problems/strictly-palindromic-number/
+[2399l]:https://leetcode.cn/problems/check-distances-between-same-letters/
 [2400l]:https://leetcode.cn/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/
 [2405l]:https://leetcode.cn/problems/optimal-partition-of-string/
 [2413l]:https://leetcode.cn/problems/smallest-even-multiple/
