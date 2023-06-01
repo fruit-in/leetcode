@@ -1052,6 +1052,7 @@
 [2396][2396l]|[Strictly Palindromic Number][2396]                                                   |![rs]
 [2399][2399l]|[Check Distances Between Same Letters][2399]                                          |![rs]
 [2400][2400l]|[Number of Ways to Reach a Position After Exactly k Steps][2400]                      |![rs]
+[2404][2404l]|[Most Frequent Even Element][2404]                                                    |![rs]
 [2405][2405l]|[Optimal Partition of String][2405]                                                   |![rs]
 [2413][2413l]|[Smallest Even Multiple][2413]                                                        |![rs]
 [2414][2414l]|[Length of the Longest Alphabetical Continuous Substring][2414]                       |![rs]
@@ -2131,6 +2132,7 @@
 [2396]:./Medium/2396-Strictly%20Palindromic%20Number/README.md#2396-strictly-palindromic-number
 [2399]:./Easy/2399-Check%20Distances%20Between%20Same%20Letters/README.md#2399-check-distances-between-same-letters
 [2400]:./Medium/2400-Number%20of%20Ways%20to%20Reach%20a%20Position%20After%20Exactly%20k%20Steps/README.md#2400-number-of-ways-to-reach-a-position-after-exactly-k-steps
+[2404]:./Easy/2404-Most%20Frequent%20Even%20Element/README.md#2404-most-frequent-even-element
 [2405]:./Medium/2405-Optimal%20Partition%20of%20String/README.md#2405-optimal-partition-of-string
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README.md#2413-smallest-even-multiple
 [2414]:./Medium/2414-Length%20of%20the%20Longest%20Alphabetical%20Continuous%20Substring/README.md#2414-length-of-the-longest-alphabetical-continuous-substring
@@ -3215,6 +3217,7 @@
 [2396l]:https://leetcode.com/problems/strictly-palindromic-number/
 [2399l]:https://leetcode.com/problems/check-distances-between-same-letters/
 [2400l]:https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/
+[2404l]:https://leetcode.com/problems/most-frequent-even-element/
 [2405l]:https://leetcode.com/problems/optimal-partition-of-string/
 [2413l]:https://leetcode.com/problems/smallest-even-multiple/
 [2414l]:https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
