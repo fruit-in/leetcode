@@ -826,6 +826,7 @@
 [1753][1753l]|[移除石子的最大得分][1753]                                |![rb]&nbsp;&nbsp;![rs]
 [1754][1754l]|[构造字典序最大的合并字符串][1754]                        |![py]
 [1758][1758l]|[生成交替二进制字符串的最少操作数][1758]                  |![rb]&nbsp;&nbsp;![rs]
+[1759][1759l]|[统计同质子字符串的数目][1759]                            |![rs]
 [1763][1763l]|[最长的美好子字符串][1763]                                |![rb]&nbsp;&nbsp;![rs]
 [1768][1768l]|[交替合并字符串][1768]                                    |![rs]
 [1769][1769l]|[移动所有球到每个盒子所需的最小操作数][1769]              |![rs]
@@ -1907,6 +1908,7 @@
 [1753]:./Medium/1753-Maximum%20Score%20From%20Removing%20Stones/README_CN.md#1753-移除石子的最大得分
 [1754]:./Medium/1754-Largest%20Merge%20Of%20Two%20Strings/README_CN.md#1754-构造字典序最大的合并字符串
 [1758]:./Easy/1758-Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/README_CN.md#1758-生成交替二进制字符串的最少操作数
+[1759]:./Medium/1759-Count%20Number%20of%20Homogenous%20Substrings/README_CN.md#1759-统计同质子字符串的数目
 [1763]:./Easy/1763-Longest%20Nice%20Substring/README_CN.md#1763-最长的美好子字符串
 [1768]:./Easy/1768-Merge%20Strings%20Alternately/README_CN.md#1768-交替合并字符串
 [1769]:./Medium/1769-Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box/README_CN.md#1769-移动所有球到每个盒子所需的最小操作数
@@ -2993,6 +2995,7 @@
 [1753l]:https://leetcode.cn/problems/maximum-score-from-removing-stones/
 [1754l]:https://leetcode.cn/problems/largest-merge-of-two-strings/
 [1758l]:https://leetcode.cn/problems/minimum-changes-to-make-alternating-binary-string/
+[1759l]:https://leetcode.cn/problems/count-number-of-homogenous-substrings/
 [1763l]:https://leetcode.cn/problems/longest-nice-substring/
 [1768l]:https://leetcode.cn/problems/merge-strings-alternately/
 [1769l]:https://leetcode.cn/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
