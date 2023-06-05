@@ -914,6 +914,7 @@
 [2028][2028l]|[找出缺失的观测数据][2028]                                |![rs]
 [2032][2032l]|[至少在两个数组中出现的值][2032]                          |![py]
 [2037][2037l]|[使每位学生都有座位的最少移动次数][2037]                  |![rs]
+[2038][2038l]|[如果相邻两个颜色均相同则删除当前颜色][2038]              |![rs]
 [2042][2042l]|[检查句子中的数字是否递增][2042]                          |![py]
 [2043][2043l]|[简易银行系统][2043]                                      |![py]
 [2044][2044l]|[统计按位或能得到最大值的子集数目][2044]                  |![rs]
@@ -1997,6 +1998,7 @@
 [2028]:./Medium/2028-Find%20Missing%20Observations/README_CN.md#2028-找出缺失的观测数据
 [2032]:./Easy/2032-Two%20Out%20of%20Three/README_CN.md#2032-至少在两个数组中出现的值
 [2037]:./Easy/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README_CN.md#2037-使每位学生都有座位的最少移动次数
+[2038]:./Medium/2038-Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/README_CN.md#2038-如果相邻两个颜色均相同则删除当前颜色
 [2042]:./Easy/2042-Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/README_CN.md#2042-检查句子中的数字是否递增
 [2043]:./Medium/2043-Simple%20Bank%20System/README_CN.md#2043-简易银行系统
 [2044]:./Medium/2044-Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/README_CN.md#2044-统计按位或能得到最大值的子集数目
@@ -3085,6 +3087,7 @@
 [2028l]:https://leetcode.cn/problems/find-missing-observations/
 [2032l]:https://leetcode.cn/problems/two-out-of-three/
 [2037l]:https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone/
+[2038l]:https://leetcode.cn/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
 [2042l]:https://leetcode.cn/problems/check-if-numbers-are-ascending-in-a-sentence/
 [2043l]:https://leetcode.cn/problems/simple-bank-system/
 [2044l]:https://leetcode.cn/problems/count-number-of-maximum-bitwise-or-subsets/

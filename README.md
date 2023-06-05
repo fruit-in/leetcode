@@ -914,6 +914,7 @@
 [2028][2028l]|[Find Missing Observations][2028]                                                     |![rs]
 [2032][2032l]|[Two Out of Three][2032]                                                              |![py]
 [2037][2037l]|[Minimum Number of Moves to Seat Everyone][2037]                                      |![rs]
+[2038][2038l]|[Remove Colored Pieces if Both Neighbors are the Same Color][2038]                    |![rs]
 [2042][2042l]|[Check if Numbers Are Ascending in a Sentence][2042]                                  |![py]
 [2043][2043l]|[Simple Bank System][2043]                                                            |![py]
 [2044][2044l]|[Count Number of Maximum Bitwise-OR Subsets][2044]                                    |![rs]
@@ -1997,6 +1998,7 @@
 [2028]:./Medium/2028-Find%20Missing%20Observations/README.md#2028-find-missing-observations
 [2032]:./Easy/2032-Two%20Out%20of%20Three/README.md#2032-two-out-of-three
 [2037]:./Easy/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README.md#2037-minimum-number-of-moves-to-seat-everyone
+[2038]:./Medium/2038-Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/README.md#2038-remove-colored-pieces-if-both-neighbors-are-the-same-color
 [2042]:./Easy/2042-Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/README.md#2042-check-if-numbers-are-ascending-in-a-sentence
 [2043]:./Medium/2043-Simple%20Bank%20System/README.md#2043-simple-bank-system
 [2044]:./Medium/2044-Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/README.md#2044-count-number-of-maximum-bitwise-or-subsets
@@ -3085,6 +3087,7 @@
 [2028l]:https://leetcode.com/problems/find-missing-observations/
 [2032l]:https://leetcode.com/problems/two-out-of-three/
 [2037l]:https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
+[2038l]:https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
 [2042l]:https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 [2043l]:https://leetcode.com/problems/simple-bank-system/
 [2044l]:https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/
