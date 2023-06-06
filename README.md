@@ -1057,6 +1057,7 @@
 [2400][2400l]|[Number of Ways to Reach a Position After Exactly k Steps][2400]                      |![rs]
 [2404][2404l]|[Most Frequent Even Element][2404]                                                    |![rs]
 [2405][2405l]|[Optimal Partition of String][2405]                                                   |![rs]
+[2410][2410l]|[Maximum Matching of Players With Trainers][2410]                                     |![rs]
 [2413][2413l]|[Smallest Even Multiple][2413]                                                        |![rs]
 [2414][2414l]|[Length of the Longest Alphabetical Continuous Substring][2414]                       |![rs]
 [2418][2418l]|[Sort the People][2418]                                                               |![rs]
@@ -2141,6 +2142,7 @@
 [2400]:./Medium/2400-Number%20of%20Ways%20to%20Reach%20a%20Position%20After%20Exactly%20k%20Steps/README.md#2400-number-of-ways-to-reach-a-position-after-exactly-k-steps
 [2404]:./Easy/2404-Most%20Frequent%20Even%20Element/README.md#2404-most-frequent-even-element
 [2405]:./Medium/2405-Optimal%20Partition%20of%20String/README.md#2405-optimal-partition-of-string
+[2410]:./Medium/2410-Maximum%20Matching%20of%20Players%20With%20Trainers/README.md#2410-maximum-matching-of-players-with-trainers
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README.md#2413-smallest-even-multiple
 [2414]:./Medium/2414-Length%20of%20the%20Longest%20Alphabetical%20Continuous%20Substring/README.md#2414-length-of-the-longest-alphabetical-continuous-substring
 [2418]:./Easy/2418-Sort%20the%20People/README.md#2418-sort-the-people
@@ -3230,6 +3232,7 @@
 [2400l]:https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/
 [2404l]:https://leetcode.com/problems/most-frequent-even-element/
 [2405l]:https://leetcode.com/problems/optimal-partition-of-string/
+[2410l]:https://leetcode.com/problems/maximum-matching-of-players-with-trainers/
 [2413l]:https://leetcode.com/problems/smallest-even-multiple/
 [2414l]:https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 [2418l]:https://leetcode.com/problems/sort-the-people/
