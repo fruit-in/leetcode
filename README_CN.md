@@ -1079,6 +1079,7 @@
 [2598][2598l]|[执行操作后的最大 MEX][2598]                              |![rs]
 [2601][2601l]|[质数减法运算][2601]                                      |![rs]
 [2602][2602l]|[使数组元素全部相等的最少操作次数][2602]                  |![rs]
+[2611][2611l]|[老鼠和奶酪][2611]                                        |![rs]
 
 
 [py]:./ico/python.ico
@@ -2164,6 +2165,7 @@
 [2598]:./Medium/2598-Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/README_CN.md#2598-执行操作后的最大-mex
 [2601]:./Medium/2601-Prime%20Subtraction%20Operation/README_CN.md#2601-质数减法运算
 [2602]:./Medium/2602-Minimum%20Operations%20to%20Make%20All%20Array%20Elements%20Equal/README_CN.md#2602-使数组元素全部相等的最少操作次数
+[2611]:./Medium/2611-Mice%20and%20Cheese/README_CN.md#2611-老鼠和奶酪
 
 [1l]:https://leetcode.cn/problems/two-sum/
 [2l]:https://leetcode.cn/problems/add-two-numbers/
@@ -3254,3 +3256,4 @@
 [2598l]:https://leetcode.cn/problems/smallest-missing-non-negative-integer-after-operations/
 [2601l]:https://leetcode.cn/problems/prime-subtraction-operation/
 [2602l]:https://leetcode.cn/problems/minimum-operations-to-make-all-array-elements-equal/
+[2611l]:https://leetcode.cn/problems/mice-and-cheese/
