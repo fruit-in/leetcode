@@ -1064,6 +1064,7 @@
 [2425][2425l]|[Bitwise XOR of All Pairings][2425]                                                   |![rs]
 [2429][2429l]|[Minimize XOR][2429]                                                                  |![rs]
 [2441][2441l]|[Largest Positive Integer That Exists With Its Negative][2441]                        |![rs]
+[2443][2443l]|[Sum of Number and Its Reverse][2443]                                                 |![py]
 [2465][2465l]|[Number of Distinct Averages][2465]                                                   |![rs]
 [2469][2469l]|[Convert the Temperature][2469]                                                       |![rs]
 [2482][2482l]|[Difference Between Ones and Zeros in Row and Column][2482]                           |![rs]
@@ -2150,6 +2151,7 @@
 [2425]:./Medium/2425-Bitwise%20XOR%20of%20All%20Pairings/README.md#2425-bitwise-xor-of-all-pairings
 [2429]:./Medium/2429-Minimize%20XOR/README.md#2429-minimize-xor
 [2441]:./Easy/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README.md#2441-largest-positive-integer-that-exists-with-its-negative
+[2443]:./Medium/2443-Sum%20of%20Number%20and%20Its%20Reverse/README.md#2443-sum-of-number-and-its-reverse
 [2465]:./Easy/2465-Number%20of%20Distinct%20Averages/README.md#2465-number-of-distinct-averages
 [2469]:./Easy/2469-Convert%20the%20Temperature/README.md#2469-convert-the-temperature
 [2482]:./Medium/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README.md#2482-difference-between-ones-and-zeros-in-row-and-column
@@ -3241,6 +3243,7 @@
 [2425l]:https://leetcode.com/problems/bitwise-xor-of-all-pairings/
 [2429l]:https://leetcode.com/problems/minimize-xor/
 [2441l]:https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
+[2443l]:https://leetcode.com/problems/sum-of-number-and-its-reverse/
 [2465l]:https://leetcode.com/problems/number-of-distinct-averages/
 [2469l]:https://leetcode.com/problems/convert-the-temperature/
 [2482l]:https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
