@@ -852,6 +852,7 @@
 [1824][1824l]|[Minimum Sideway Jumps][1824]                                                         |![rs]
 [1827][1827l]|[Minimum Operations to Make the Array Increasing][1827]                               |![rb]&nbsp;&nbsp;![rs]
 [1828][1828l]|[Queries on Number of Points Inside a Circle][1828]                                   |![py]
+[1829][1829l]|[Maximum XOR for Each Query][1829]                                                    |![rs]
 [1832][1832l]|[Check if the Sentence Is Pangram][1832]                                              |![rs]
 [1833][1833l]|[Maximum Ice Cream Bars][1833]                                                        |![rs]
 [1837][1837l]|[Sum of Digits in Base K][1837]                                                       |![rb]&nbsp;&nbsp;![rs]
@@ -1940,6 +1941,7 @@
 [1824]:./Medium/1824-Minimum%20Sideway%20Jumps/README.md#1824-minimum-sideway-jumps
 [1827]:./Easy/1827-Minimum%20Operations%20to%20Make%20the%20Array%20Increasing/README.md#1827-minimum-operations-to-make-the-array-increasing
 [1828]:./Medium/1828-Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle/README.md#1828-queries-on-number-of-points-inside-a-circle
+[1829]:./Medium/1829-Maximum%20XOR%20for%20Each%20Query/README.md#1829-maximum-xor-for-each-query
 [1832]:./Easy/1832-Check%20if%20the%20Sentence%20Is%20Pangram/README.md#1832-check-if-the-sentence-is-pangram
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README.md#1833-maximum-ice-cream-bars
 [1837]:./Easy/1837-Sum%20of%20Digits%20in%20Base%20K/README.md#1837-sum-of-digits-in-base-k
@@ -3033,6 +3035,7 @@
 [1824l]:https://leetcode.com/problems/minimum-sideway-jumps/
 [1827l]:https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 [1828l]:https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/
+[1829l]:https://leetcode.com/problems/maximum-xor-for-each-query/
 [1832l]:https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 [1833l]:https://leetcode.com/problems/maximum-ice-cream-bars/
 [1837l]:https://leetcode.com/problems/sum-of-digits-in-base-k/

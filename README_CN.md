@@ -852,6 +852,7 @@
 [1824][1824l]|[最少侧跳次数][1824]                                      |![rs]
 [1827][1827l]|[最少操作使数组递增][1827]                                |![rb]&nbsp;&nbsp;![rs]
 [1828][1828l]|[统计一个圆中点的数目][1828]                              |![py]
+[1829][1829l]|[每个查询的最大异或值][1829]                              |![rs]
 [1832][1832l]|[判断句子是否为全字母句][1832]                            |![rs]
 [1833][1833l]|[雪糕的最大数量][1833]                                    |![rs]
 [1837][1837l]|[K 进制表示下的各位数字总和][1837]                        |![rb]&nbsp;&nbsp;![rs]
@@ -1940,6 +1941,7 @@
 [1824]:./Medium/1824-Minimum%20Sideway%20Jumps/README_CN.md#1824-最少侧跳次数
 [1827]:./Easy/1827-Minimum%20Operations%20to%20Make%20the%20Array%20Increasing/README_CN.md#1827-最少操作使数组递增
 [1828]:./Medium/1828-Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle/README_CN.md#1828-统计一个圆中点的数目
+[1829]:./Medium/1829-Maximum%20XOR%20for%20Each%20Query/README_CN.md#1829-每个查询的最大异或值
 [1832]:./Easy/1832-Check%20if%20the%20Sentence%20Is%20Pangram/README_CN.md#1832-判断句子是否为全字母句
 [1833]:./Medium/1833-Maximum%20Ice%20Cream%20Bars/README_CN.md#1833-雪糕的最大数量
 [1837]:./Easy/1837-Sum%20of%20Digits%20in%20Base%20K/README_CN.md#1837-k-进制表示下的各位数字总和
@@ -3033,6 +3035,7 @@
 [1824l]:https://leetcode.cn/problems/minimum-sideway-jumps/
 [1827l]:https://leetcode.cn/problems/minimum-operations-to-make-the-array-increasing/
 [1828l]:https://leetcode.cn/problems/queries-on-number-of-points-inside-a-circle/
+[1829l]:https://leetcode.cn/problems/maximum-xor-for-each-query/
 [1832l]:https://leetcode.cn/problems/check-if-the-sentence-is-pangram/
 [1833l]:https://leetcode.cn/problems/maximum-ice-cream-bars/
 [1837l]:https://leetcode.cn/problems/sum-of-digits-in-base-k/
