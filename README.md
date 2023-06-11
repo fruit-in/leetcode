@@ -362,6 +362,7 @@
 [706][706l]  |[Design HashMap][706]                                                                 |![rs]
 [707][707l]  |[Design Linked List][707]                                                             |![py]
 [709][709l]  |[To Lower Case][709]                                                                  |![rs]
+[710][710l]  |[Random Pick with Blacklist][710]                                                     |![py]
 [713][713l]  |[Subarray Product Less Than K][713]                                                   |![rb]&nbsp;&nbsp;![rs]
 [717][717l]  |[1-bit and 2-bit Characters][717]                                                     |![rs]
 [720][720l]  |[Longest Word in Dictionary][720]                                                     |![py]
@@ -1451,6 +1452,7 @@
 [706]:./Easy/0706-Design%20HashMap/README.md#706-design-hashmap
 [707]:./Medium/0707-Design%20Linked%20List/README.md#707-design-linked-list
 [709]:./Easy/0709-To%20Lower%20Case/README.md#709-to-lower-case
+[710]:./Hard/0710-Random%20Pick%20with%20Blacklist/README.md#710-random-pick-with-blacklist
 [713]:./Medium/0713-Subarray%20Product%20Less%20Than%20K/README.md#713-subarray-product-less-than-k
 [717]:./Easy/0717-1-bit%20and%202-bit%20Characters/README.md#717-1-bit-and-2-bit-characters
 [720]:./Easy/0720-Longest%20Word%20in%20Dictionary/README.md#720-longest-word-in-dictionary
@@ -2545,6 +2547,7 @@
 [706l]:https://leetcode.com/problems/design-hashmap/
 [707l]:https://leetcode.com/problems/design-linked-list/
 [709l]:https://leetcode.com/problems/to-lower-case/
+[710l]:https://leetcode.com/problems/random-pick-with-blacklist/
 [713l]:https://leetcode.com/problems/subarray-product-less-than-k/
 [717l]:https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [720l]:https://leetcode.com/problems/longest-word-in-dictionary/
