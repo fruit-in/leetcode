@@ -1064,6 +1064,7 @@
 [2414][2414l]|[最长的字母序连续子字符串的长度][2414]                    |![rs]
 [2418][2418l]|[按身高排序][2418]                                        |![rs]
 [2425][2425l]|[所有数对的异或和][2425]                                  |![rs]
+[2428][2428l]|[沙漏的最大总和][2428]                                    |![rs]
 [2429][2429l]|[最小 XOR][2429]                                          |![rs]
 [2441][2441l]|[与对应负数同时存在的最大正整数][2441]                    |![rs]
 [2443][2443l]|[反转之后的数字和][2443]                                  |![py]
@@ -2154,6 +2155,7 @@
 [2414]:./Medium/2414-Length%20of%20the%20Longest%20Alphabetical%20Continuous%20Substring/README_CN.md#2414-最长的字母序连续子字符串的长度
 [2418]:./Easy/2418-Sort%20the%20People/README_CN.md#2418-按身高排序
 [2425]:./Medium/2425-Bitwise%20XOR%20of%20All%20Pairings/README_CN.md#2425-所有数对的异或和
+[2428]:./Medium/2428-Maximum%20Sum%20of%20an%20Hourglass/README_CN.md#2428-沙漏的最大总和
 [2429]:./Medium/2429-Minimize%20XOR/README_CN.md#2429-最小-xor
 [2441]:./Easy/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README_CN.md#2441-与对应负数同时存在的最大正整数
 [2443]:./Medium/2443-Sum%20of%20Number%20and%20Its%20Reverse/README_CN.md#2443-反转之后的数字和
@@ -3249,6 +3251,7 @@
 [2414l]:https://leetcode.cn/problems/length-of-the-longest-alphabetical-continuous-substring/
 [2418l]:https://leetcode.cn/problems/sort-the-people/
 [2425l]:https://leetcode.cn/problems/bitwise-xor-of-all-pairings/
+[2428l]:https://leetcode.cn/problems/maximum-sum-of-an-hourglass/
 [2429l]:https://leetcode.cn/problems/minimize-xor/
 [2441l]:https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative/
 [2443l]:https://leetcode.cn/problems/sum-of-number-and-its-reverse/
