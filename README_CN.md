@@ -1059,6 +1059,7 @@
 [2400][2400l]|[恰好移动 k 步到达某一位置的方法数目][2400]               |![rs]
 [2404][2404l]|[出现最频繁的偶数元素][2404]                              |![rs]
 [2405][2405l]|[子字符串的最优划分][2405]                                |![rs]
+[2409][2409l]|[统计共同度过的日子数][2409]                              |![py]
 [2410][2410l]|[运动员和训练师的最大匹配数][2410]                        |![rs]
 [2413][2413l]|[最小偶倍数][2413]                                        |![rs]
 [2414][2414l]|[最长的字母序连续子字符串的长度][2414]                    |![rs]
@@ -2150,6 +2151,7 @@
 [2400]:./Medium/2400-Number%20of%20Ways%20to%20Reach%20a%20Position%20After%20Exactly%20k%20Steps/README_CN.md#2400-恰好移动-k-步到达某一位置的方法数目
 [2404]:./Easy/2404-Most%20Frequent%20Even%20Element/README_CN.md#2404-出现最频繁的偶数元素
 [2405]:./Medium/2405-Optimal%20Partition%20of%20String/README_CN.md#2405-子字符串的最优划分
+[2409]:./Easy/2409-Count%20Days%20Spent%20Together/README_CN.md#2409-统计共同度过的日子数
 [2410]:./Medium/2410-Maximum%20Matching%20of%20Players%20With%20Trainers/README_CN.md#2410-运动员和训练师的最大匹配数
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README_CN.md#2413-最小偶倍数
 [2414]:./Medium/2414-Length%20of%20the%20Longest%20Alphabetical%20Continuous%20Substring/README_CN.md#2414-最长的字母序连续子字符串的长度
@@ -3246,6 +3248,7 @@
 [2400l]:https://leetcode.cn/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/
 [2404l]:https://leetcode.cn/problems/most-frequent-even-element/
 [2405l]:https://leetcode.cn/problems/optimal-partition-of-string/
+[2409l]:https://leetcode.cn/problems/count-days-spent-together/
 [2410l]:https://leetcode.cn/problems/maximum-matching-of-players-with-trainers/
 [2413l]:https://leetcode.cn/problems/smallest-even-multiple/
 [2414l]:https://leetcode.cn/problems/length-of-the-longest-alphabetical-continuous-substring/
