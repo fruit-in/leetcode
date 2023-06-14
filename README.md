@@ -937,6 +937,7 @@
 [2087][2087l]|[Minimum Cost Homecoming of a Robot in a Grid][2087]                                  |![py]
 [2089][2089l]|[Find Target Indices After Sorting Array][2089]                                       |![py]
 [2090][2090l]|[K Radius Subarray Averages][2090]                                                    |![rs]
+[2091][2091l]|[Removing Minimum and Maximum From Array][2091]                                       |![rs]
 [2094][2094l]|[Finding 3-Digit Even Numbers][2094]                                                  |![rs]
 [2095][2095l]|[Delete the Middle Node of a Linked List][2095]                                       |![py]
 [2096][2096l]|[Step-By-Step Directions From a Binary Tree Node to Another][2096]                    |![py]
@@ -2029,6 +2030,7 @@
 [2087]:./Medium/2087-Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid/README.md#2087-minimum-cost-homecoming-of-a-robot-in-a-grid
 [2089]:./Easy/2089-Find%20Target%20Indices%20After%20Sorting%20Array/README.md#2089-find-target-indices-after-sorting-array
 [2090]:./Medium/2090-K%20Radius%20Subarray%20Averages/README.md#2090-k-radius-subarray-averages
+[2091]:./Medium/2091-Removing%20Minimum%20and%20Maximum%20From%20Array/README.md#2091-removing-minimum-and-maximum-from-array
 [2094]:./Easy/2094-Finding%203-Digit%20Even%20Numbers/README.md#2094-finding-3-digit-even-numbers
 [2095]:./Medium/2095-Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/README.md#2095-delete-the-middle-node-of-a-linked-list
 [2096]:./Medium/2096-Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another/README.md#2096-step-by-step-directions-from-a-binary-tree-node-to-another
@@ -3126,6 +3128,7 @@
 [2087l]:https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/
 [2089l]:https://leetcode.com/problems/find-target-indices-after-sorting-array/
 [2090l]:https://leetcode.com/problems/k-radius-subarray-averages/
+[2091l]:https://leetcode.com/problems/removing-minimum-and-maximum-from-array/
 [2094l]:https://leetcode.com/problems/finding-3-digit-even-numbers/
 [2095l]:https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
 [2096l]:https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/

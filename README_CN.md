@@ -937,6 +937,7 @@
 [2087][2087l]|[网格图中机器人回家的最小代价][2087]                      |![py]
 [2089][2089l]|[找出数组排序后的目标下标][2089]                          |![py]
 [2090][2090l]|[半径为 k 的子数组平均值][2090]                           |![rs]
+[2091][2091l]|[从数组中移除最大值和最小值][2091]                        |![rs]
 [2094][2094l]|[找出 3 位偶数][2094]                                     |![rs]
 [2095][2095l]|[删除链表的中间节点][2095]                                |![py]
 [2096][2096l]|[从二叉树一个节点到另一个节点每一步的方向][2096]          |![py]
@@ -2029,6 +2030,7 @@
 [2087]:./Medium/2087-Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid/README_CN.md#2087-网格图中机器人回家的最小代价
 [2089]:./Easy/2089-Find%20Target%20Indices%20After%20Sorting%20Array/README_CN.md#2089-找出数组排序后的目标下标
 [2090]:./Medium/2090-K%20Radius%20Subarray%20Averages/README_CN.md#2090-半径为-k-的子数组平均值
+[2091]:./Medium/2091-Removing%20Minimum%20and%20Maximum%20From%20Array/README_CN.md#2091-从数组中移除最大值和最小值
 [2094]:./Easy/2094-Finding%203-Digit%20Even%20Numbers/README_CN.md#2094-找出-3-位偶数
 [2095]:./Medium/2095-Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/README_CN.md#2095-删除链表的中间节点
 [2096]:./Medium/2096-Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another/README_CN.md#2096-从二叉树一个节点到另一个节点每一步的方向
@@ -3126,6 +3128,7 @@
 [2087l]:https://leetcode.cn/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/
 [2089l]:https://leetcode.cn/problems/find-target-indices-after-sorting-array/
 [2090l]:https://leetcode.cn/problems/k-radius-subarray-averages/
+[2091l]:https://leetcode.cn/problems/removing-minimum-and-maximum-from-array/
 [2094l]:https://leetcode.cn/problems/finding-3-digit-even-numbers/
 [2095l]:https://leetcode.cn/problems/delete-the-middle-node-of-a-linked-list/
 [2096l]:https://leetcode.cn/problems/step-by-step-directions-from-a-binary-tree-node-to-another/
