@@ -1066,6 +1066,7 @@
 [2414][2414l]|[Length of the Longest Alphabetical Continuous Substring][2414]                       |![rs]
 [2418][2418l]|[Sort the People][2418]                                                               |![rs]
 [2425][2425l]|[Bitwise XOR of All Pairings][2425]                                                   |![rs]
+[2427][2427l]|[Number of Common Factors][2427]                                                      |![rs]
 [2428][2428l]|[Maximum Sum of an Hourglass][2428]                                                   |![rs]
 [2429][2429l]|[Minimize XOR][2429]                                                                  |![rs]
 [2441][2441l]|[Largest Positive Integer That Exists With Its Negative][2441]                        |![rs]
@@ -2159,6 +2160,7 @@
 [2414]:./Medium/2414-Length%20of%20the%20Longest%20Alphabetical%20Continuous%20Substring/README.md#2414-length-of-the-longest-alphabetical-continuous-substring
 [2418]:./Easy/2418-Sort%20the%20People/README.md#2418-sort-the-people
 [2425]:./Medium/2425-Bitwise%20XOR%20of%20All%20Pairings/README.md#2425-bitwise-xor-of-all-pairings
+[2427]:./Easy/2427-Number%20of%20Common%20Factors/README.md#2427-number-of-common-factors
 [2428]:./Medium/2428-Maximum%20Sum%20of%20an%20Hourglass/README.md#2428-maximum-sum-of-an-hourglass
 [2429]:./Medium/2429-Minimize%20XOR/README.md#2429-minimize-xor
 [2441]:./Easy/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README.md#2441-largest-positive-integer-that-exists-with-its-negative
@@ -3257,6 +3259,7 @@
 [2414l]:https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 [2418l]:https://leetcode.com/problems/sort-the-people/
 [2425l]:https://leetcode.com/problems/bitwise-xor-of-all-pairings/
+[2427l]:https://leetcode.com/problems/number-of-common-factors/
 [2428l]:https://leetcode.com/problems/maximum-sum-of-an-hourglass/
 [2429l]:https://leetcode.com/problems/minimize-xor/
 [2441l]:https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
