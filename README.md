@@ -1046,6 +1046,7 @@
 [2363][2363l]|[Merge Similar Items][2363]                                                           |![rs]
 [2364][2364l]|[Count Number of Bad Pairs][2364]                                                     |![rs]
 [2367][2367l]|[Number of Arithmetic Triplets][2367]                                                 |![rs]
+[2368][2368l]|[Reachable Nodes With Restrictions][2368]                                             |![py]
 [2373][2373l]|[Largest Local Values in a Matrix][2373]                                              |![rs]
 [2375][2375l]|[Construct Smallest Number From DI String][2375]                                      |![rs]
 [2379][2379l]|[Minimum Recolors to Get K Consecutive Black Blocks][2379]                            |![rs]
@@ -2140,6 +2141,7 @@
 [2363]:./Easy/2363-Merge%20Similar%20Items/README.md#2363-merge-similar-items
 [2364]:./Medium/2364-Count%20Number%20of%20Bad%20Pairs/README.md#2364-count-number-of-bad-pairs
 [2367]:./Easy/2367-Number%20of%20Arithmetic%20Triplets/README.md#2367-number-of-arithmetic-triplets
+[2368]:./Medium/2368-Reachable%20Nodes%20With%20Restrictions/README.md#2368-reachable-nodes-with-restrictions
 [2373]:./Easy/2373-Largest%20Local%20Values%20in%20a%20Matrix/README.md#2373-largest-local-values-in-a-matrix
 [2375]:./Medium/2375-Construct%20Smallest%20Number%20From%20DI%20String/README.md#2375-construct-smallest-number-from-di-string
 [2379]:./Easy/2379-Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/README.md#2379-minimum-recolors-to-get-k-consecutive-black-blocks
@@ -3239,6 +3241,7 @@
 [2363l]:https://leetcode.com/problems/merge-similar-items/
 [2364l]:https://leetcode.com/problems/count-number-of-bad-pairs/
 [2367l]:https://leetcode.com/problems/number-of-arithmetic-triplets/
+[2368l]:https://leetcode.com/problems/reachable-nodes-with-restrictions/
 [2373l]:https://leetcode.com/problems/largest-local-values-in-a-matrix/
 [2375l]:https://leetcode.com/problems/construct-smallest-number-from-di-string/
 [2379l]:https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
