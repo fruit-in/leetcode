@@ -864,6 +864,7 @@
 [1855][1855l]|[下标对中的最大距离][1855]                                |![py]
 [1859][1859l]|[将句子排序][1859]                                        |![py]
 [1860][1860l]|[增长的内存泄露][1860]                                    |![rs]
+[1861][1861l]|[旋转盒子][1861]                                          |![rs]
 [1863][1863l]|[找出所有子集的异或总和再求和][1863]                      |![py]
 [1866][1866l]|[恰有 K 根木棍可以看到的排列数目][1866]                   |![rs]
 [1869][1869l]|[哪种连续子字符串更长][1869]                              |![rs]
@@ -1959,6 +1960,7 @@
 [1855]:./Medium/1855-Maximum%20Distance%20Between%20a%20Pair%20of%20Values/README_CN.md#1855-下标对中的最大距离
 [1859]:./Easy/1859-Sorting%20the%20Sentence/README_CN.md#1859-将句子排序
 [1860]:./Medium/1860-Incremental%20Memory%20Leak/README_CN.md#1860-增长的内存泄露
+[1861]:./Medium/1861-Rotating%20the%20Box/README_CN.md#1861-旋转盒子
 [1863]:./Easy/1863-Sum%20of%20All%20Subset%20XOR%20Totals/README_CN.md#1863-找出所有子集的异或总和再求和
 [1866]:./Hard/1866-Number%20of%20Ways%20to%20Rearrange%20Sticks%20With%20K%20Sticks%20Visible/README_CN.md#1866-恰有-k-根木棍可以看到的排列数目
 [1869]:./Easy/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README_CN.md#1869-哪种连续子字符串更长
@@ -3059,6 +3061,7 @@
 [1855l]:https://leetcode.cn/problems/maximum-distance-between-a-pair-of-values/
 [1859l]:https://leetcode.cn/problems/sorting-the-sentence/
 [1860l]:https://leetcode.cn/problems/incremental-memory-leak/
+[1861l]:https://leetcode.cn/problems/rotating-the-box/
 [1863l]:https://leetcode.cn/problems/sum-of-all-subset-xor-totals/
 [1866l]:https://leetcode.cn/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/
 [1869l]:https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/
