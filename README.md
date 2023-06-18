@@ -600,6 +600,7 @@
 [1249][1249l]|[Minimum Remove to Make Valid Parentheses][1249]                                      |![rs]
 [1252][1252l]|[Cells with Odd Values in a Matrix][1252]                                             |![rs]
 [1253][1253l]|[Reconstruct a 2-Row Binary Matrix][1253]                                             |![rb]&nbsp;&nbsp;![rs]
+[1255][1255l]|[Maximum Score Words Formed by Letters][1255]                                         |![rs]
 [1260][1260l]|[Shift 2D Grid][1260]                                                                 |![rs]
 [1261][1261l]|[Find Elements in a Contaminated Binary Tree][1261]                                   |![py]
 [1262][1262l]|[Greatest Sum Divisible by Three][1262]                                               |![rs]
@@ -1696,6 +1697,7 @@
 [1249]:./Medium/1249-Minimum%20Remove%20to%20Make%20Valid%20Parentheses/README.md#1249-minimum-remove-to-make-valid-parentheses
 [1252]:./Easy/1252-Cells%20with%20Odd%20Values%20in%20a%20Matrix/README.md#1252-cells-with-odd-values-in-a-matrix
 [1253]:./Medium/1253-Reconstruct%20a%202-Row%20Binary%20Matrix/README.md#1253-reconstruct-a-2-row-binary-matrix
+[1255]:./Hard/1255-Maximum%20Score%20Words%20Formed%20by%20Letters/README.md#1255-maximum-score-words-formed-by-letters
 [1260]:./Easy/1260-Shift%202D%20Grid/README.md#1260-shift-2d-grid
 [1261]:./Medium/1261-Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree/README.md#1261-find-elements-in-a-contaminated-binary-tree
 [1262]:./Medium/1262-Greatest%20Sum%20Divisible%20by%20Three/README.md#1262-greatest-sum-divisible-by-three
@@ -2797,6 +2799,7 @@
 [1249l]:https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 [1252l]:https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
 [1253l]:https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/
+[1255l]:https://leetcode.com/problems/maximum-score-words-formed-by-letters/
 [1260l]:https://leetcode.com/problems/shift-2d-grid/
 [1261l]:https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
 [1262l]:https://leetcode.com/problems/greatest-sum-divisible-by-three/
