@@ -1073,6 +1073,7 @@
 [2428][2428l]|[Maximum Sum of an Hourglass][2428]                                                   |![rs]
 [2429][2429l]|[Minimize XOR][2429]                                                                  |![rs]
 [2441][2441l]|[Largest Positive Integer That Exists With Its Negative][2441]                        |![rs]
+[2442][2442l]|[Count Number of Distinct Integers After Reverse Operations][2442]                    |![py]
 [2443][2443l]|[Sum of Number and Its Reverse][2443]                                                 |![py]
 [2465][2465l]|[Number of Distinct Averages][2465]                                                   |![rs]
 [2469][2469l]|[Convert the Temperature][2469]                                                       |![rs]
@@ -2170,6 +2171,7 @@
 [2428]:./Medium/2428-Maximum%20Sum%20of%20an%20Hourglass/README.md#2428-maximum-sum-of-an-hourglass
 [2429]:./Medium/2429-Minimize%20XOR/README.md#2429-minimize-xor
 [2441]:./Easy/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README.md#2441-largest-positive-integer-that-exists-with-its-negative
+[2442]:./Medium/2442-Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations/README.md#2442-count-number-of-distinct-integers-after-reverse-operations
 [2443]:./Medium/2443-Sum%20of%20Number%20and%20Its%20Reverse/README.md#2443-sum-of-number-and-its-reverse
 [2465]:./Easy/2465-Number%20of%20Distinct%20Averages/README.md#2465-number-of-distinct-averages
 [2469]:./Easy/2469-Convert%20the%20Temperature/README.md#2469-convert-the-temperature
@@ -3272,6 +3274,7 @@
 [2428l]:https://leetcode.com/problems/maximum-sum-of-an-hourglass/
 [2429l]:https://leetcode.com/problems/minimize-xor/
 [2441l]:https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
+[2442l]:https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/
 [2443l]:https://leetcode.com/problems/sum-of-number-and-its-reverse/
 [2465l]:https://leetcode.com/problems/number-of-distinct-averages/
 [2469l]:https://leetcode.com/problems/convert-the-temperature/
