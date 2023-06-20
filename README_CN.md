@@ -1015,6 +1015,7 @@
 [2269][2269l]|[找到一个数字的 K 美丽值][2269]                           |![py]
 [2270][2270l]|[分割数组的方案数][2270]                                  |![rs]
 [2273][2273l]|[移除字母异位词后的结果数组][2273]                        |![py]
+[2274][2274l]|[不含特殊楼层的最大连续楼层数][2274]                      |![rs]
 [2275][2275l]|[按位与结果大于零的最长组合][2275]                        |![rs]
 [2278][2278l]|[字母在字符串中的百分比][2278]                            |![rs]
 [2279][2279l]|[装满石头的背包的最大数量][2279]                          |![rs]
@@ -2113,6 +2114,7 @@
 [2269]:./Easy/2269-Find%20the%20K-Beauty%20of%20a%20Number/README_CN.md#2269-找到一个数字的-k-美丽值
 [2270]:./Medium/2270-Number%20of%20Ways%20to%20Split%20Array/README_CN.md#2270-分割数组的方案数
 [2273]:./Easy/2273-Find%20Resultant%20Array%20After%20Removing%20Anagrams/README_CN.md#2273-移除字母异位词后的结果数组
+[2274]:./Medium/2274-Maximum%20Consecutive%20Floors%20Without%20Special%20Floors/README_CN.md#2274-不含特殊楼层的最大连续楼层数
 [2275]:./Medium/2275-Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero/README_CN.md#2275-按位与结果大于零的最长组合
 [2278]:./Easy/2278-Percentage%20of%20Letter%20in%20String/README_CN.md#2278-字母在字符串中的百分比
 [2279]:./Medium/2279-Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/README_CN.md#2279-装满石头的背包的最大数量
@@ -3216,6 +3218,7 @@
 [2269l]:https://leetcode.cn/problems/find-the-k-beauty-of-a-number/
 [2270l]:https://leetcode.cn/problems/number-of-ways-to-split-array/
 [2273l]:https://leetcode.cn/problems/find-resultant-array-after-removing-anagrams/
+[2274l]:https://leetcode.cn/problems/maximum-consecutive-floors-without-special-floors/
 [2275l]:https://leetcode.cn/problems/largest-combination-with-bitwise-and-greater-than-zero/
 [2278l]:https://leetcode.cn/problems/percentage-of-letter-in-string/
 [2279l]:https://leetcode.cn/problems/maximum-bags-with-full-capacity-of-rocks/
