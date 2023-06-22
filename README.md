@@ -874,6 +874,7 @@
 [1880][1880l]|[Check if Word Equals Summation of Two Words][1880]                                   |![rs]
 [1886][1886l]|[Determine Whether Matrix Can Be Obtained By Rotation][1886]                          |![rs]
 [1887][1887l]|[Reduction Operations to Make the Array Elements Equal][1887]                         |![rs]
+[1888][1888l]|[Minimum Number of Flips to Make the Binary String Alternating][1888]                 |![rs]
 [1893][1893l]|[Check if All the Integers in a Range Are Covered][1893]                              |![py]
 [1897][1897l]|[Redistribute Characters to Make All Strings Equal][1897]                             |![rs]
 [1899][1899l]|[Merge Triplets to Form Target Triplet][1899]                                         |![rs]
@@ -1974,6 +1975,7 @@
 [1880]:./Easy/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README.md#1880-check-if-word-equals-summation-of-two-words
 [1886]:./Easy/1886-Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/README.md#1886-determine-whether-matrix-can-be-obtained-by-rotation
 [1887]:./Medium/1887-Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal/README.md#1887-reduction-operations-to-make-the-array-elements-equal
+[1888]:./Medium/1888-Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/README.md#1888-minimum-number-of-flips-to-make-the-binary-string-alternating
 [1893]:./Easy/1893-Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered/README.md#1893-check-if-all-the-integers-in-a-range-are-covered
 [1897]:./Easy/1897-Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/README.md#1897-redistribute-characters-to-make-all-strings-equal
 [1899]:./Medium/1899-Merge%20Triplets%20to%20Form%20Target%20Triplet/README.md#1899-merge-triplets-to-form-target-triplet
@@ -3079,6 +3081,7 @@
 [1880l]:https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 [1886l]:https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 [1887l]:https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
+[1888l]:https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/
 [1893l]:https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 [1897l]:https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
 [1899l]:https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
