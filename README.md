@@ -883,6 +883,7 @@
 [1909][1909l]|[Remove One Element to Make the Array Strictly Increasing][1909]                      |![rs]
 [1913][1913l]|[Maximum Product Difference Between Two Pairs][1913]                                  |![rs]
 [1920][1920l]|[Build Array from Permutation][1920]                                                  |![rs]
+[1921][1921l]|[Eliminate Maximum Number of Monsters][1921]                                          |![rs]
 [1925][1925l]|[Count Square Sum Triples][1925]                                                      |![py]
 [1929][1929l]|[Concatenation of Array][1929]                                                        |![py]&nbsp;&nbsp;![rs]
 [1930][1930l]|[Unique Length-3 Palindromic Subsequences][1930]                                      |![rs]
@@ -1984,6 +1985,7 @@
 [1909]:./Easy/1909-Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing/README.md#1909-remove-one-element-to-make-the-array-strictly-increasing
 [1913]:./Easy/1913-Maximum%20Product%20Difference%20Between%20Two%20Pairs/README.md#1913-maximum-product-difference-between-two-pairs
 [1920]:./Easy/1920-Build%20Array%20from%20Permutation/README.md#1920-build-array-from-permutation
+[1921]:./Medium/1921-Eliminate%20Maximum%20Number%20of%20Monsters/README.md#1921-eliminate-maximum-number-of-monsters
 [1925]:./Easy/1925-Count%20Square%20Sum%20Triples/README.md#1925-count-square-sum-triples
 [1929]:./Easy/1929-Concatenation%20of%20Array/README.md#1929-concatenation-of-array
 [1930]:./Medium/1930-Unique%20Length-3%20Palindromic%20Subsequences/README.md#1930-unique-length-3-palindromic-subsequences
@@ -3090,6 +3092,7 @@
 [1909l]:https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
 [1913l]:https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 [1920l]:https://leetcode.com/problems/build-array-from-permutation/
+[1921l]:https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
 [1925l]:https://leetcode.com/problems/count-square-sum-triples/
 [1929l]:https://leetcode.com/problems/concatenation-of-array/
 [1930l]:https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
