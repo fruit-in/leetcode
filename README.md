@@ -678,6 +678,7 @@
 [1399][1399l]|[Count Largest Group][1399]                                                           |![py]
 [1400][1400l]|[Construct K Palindrome Strings][1400]                                                |![rs]
 [1401][1401l]|[Circle and Rectangle Overlapping][1401]                                              |![rs]
+[1402][1402l]|[Reducing Dishes][1402]                                                               |![rs]
 [1403][1403l]|[Minimum Subsequence in Non-Increasing Order][1403]                                   |![rs]
 [1404][1404l]|[Number of Steps to Reduce a Number in Binary Representation to One][1404]            |![rs]
 [1405][1405l]|[Longest Happy String][1405]                                                          |![rs]
@@ -1780,6 +1781,7 @@
 [1399]:./Easy/1399-Count%20Largest%20Group/README.md#1399-count-largest-group
 [1400]:./Medium/1400-Construct%20K%20Palindrome%20Strings/README.md#1400-construct-k-palindrome-strings
 [1401]:./Medium/1401-Circle%20and%20Rectangle%20Overlapping/README.md#1401-circle-and-rectangle-overlapping
+[1402]:./Hard/1402-Reducing%20Dishes/README.md#1402-reducing-dishes
 [1403]:./Easy/1403-Minimum%20Subsequence%20in%20Non-Increasing%20Order/README.md#1403-minimum-subsequence-in-non-increasing-order
 [1404]:./Medium/1404-Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/README.md#1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one
 [1405]:./Medium/1405-Longest%20Happy%20String/README.md#1405-longest-happy-string
@@ -2887,6 +2889,7 @@
 [1399l]:https://leetcode.com/problems/count-largest-group/
 [1400l]:https://leetcode.com/problems/construct-k-palindrome-strings/
 [1401l]:https://leetcode.com/problems/circle-and-rectangle-overlapping/
+[1042l]:https://leetcode.com/problems/reducing-dishes/
 [1403l]:https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
 [1404l]:https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
 [1405l]:https://leetcode.com/problems/longest-happy-string/

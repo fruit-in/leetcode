@@ -678,6 +678,7 @@
 [1399][1399l]|[统计最大组的数目][1399]                                  |![py]
 [1400][1400l]|[构造 K 个回文字符串][1400]                               |![rs]
 [1401][1401l]|[圆和矩形是否有重叠][1401]                                |![rs]
+[1402][1402l]|[做菜顺序][1402]                                          |![rs]
 [1403][1403l]|[非递增顺序的最小子序列][1403]                            |![rs]
 [1404][1404l]|[将二进制表示减到 1 的步骤数][1404]                       |![rs]
 [1405][1405l]|[最长快乐字符串][1405]                                    |![rs]
@@ -1780,6 +1781,7 @@
 [1399]:./Easy/1399-Count%20Largest%20Group/README_CN.md#1399-统计最大组的数目
 [1400]:./Medium/1400-Construct%20K%20Palindrome%20Strings/README_CN.md#1400-构造-k-个回文字符串
 [1401]:./Medium/1401-Circle%20and%20Rectangle%20Overlapping/README_CN.md#1401-圆和矩形是否有重叠
+[1402]:./Hard/1402-Reducing%20Dishes/README_CN.md#1402-做菜顺序
 [1403]:./Easy/1403-Minimum%20Subsequence%20in%20Non-Increasing%20Order/README_CN.md#1403-非递增顺序的最小子序列
 [1404]:./Medium/1404-Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/README_CN.md#1404-将二进制表示减到-1-的步骤数
 [1405]:./Medium/1405-Longest%20Happy%20String/README_CN.md#1405-最长快乐字符串
@@ -2887,6 +2889,7 @@
 [1399l]:https://leetcode.cn/problems/count-largest-group/
 [1400l]:https://leetcode.cn/problems/construct-k-palindrome-strings/
 [1401l]:https://leetcode.cn/problems/circle-and-rectangle-overlapping/
+[1402l]:https://leetcode.cn/problems/reducing-dishes/
 [1403l]:https://leetcode.cn/problems/minimum-subsequence-in-non-increasing-order/
 [1404l]:https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
 [1405l]:https://leetcode.cn/problems/longest-happy-string/
