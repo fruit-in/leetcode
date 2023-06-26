@@ -1092,6 +1092,7 @@
 [2526][2526l]|[找到数据流中的连续整数][2526]                            |![rs]
 [2544][2544l]|[交替数字和][2544]                                        |![rs]
 [2553][2553l]|[分割数组中数字的数位][2553]                              |![rs]
+[2554][2554l]|[从一个范围内选择最多整数 I][2554]                        |![rs]
 [2558][2558l]|[从数量最多的堆取走礼物][2558]                            |![rs]
 [2598][2598l]|[执行操作后的最大 MEX][2598]                              |![rs]
 [2601][2601l]|[质数减法运算][2601]                                      |![rs]
@@ -2196,6 +2197,7 @@
 [2526]:./Medium/2526-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream/README_CN.md#2526-找到数据流中的连续整数
 [2544]:./Easy/2544-Alternating%20Digit%20Sum/README_CN.md#2544-交替数字和
 [2553]:./Easy/2553-Separate%20the%20Digits%20in%20an%20Array/README_CN.md#2553-分割数组中数字的数位
+[2554]:./Medium/2554-Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I/README_CN.md#2554-从一个范围内选择最多整数-i
 [2558]:./Easy/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README_CN.md#2558-take-gifts-from-the-richest-pile
 [2598]:./Medium/2598-Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/README_CN.md#2598-执行操作后的最大-mex
 [2601]:./Medium/2601-Prime%20Subtraction%20Operation/README_CN.md#2601-质数减法运算
@@ -3305,6 +3307,7 @@
 [2526l]:https://leetcode.cn/problems/find-consecutive-integers-from-a-data-stream/
 [2544l]:https://leetcode.cn/problems/alternating-digit-sum/
 [2553l]:https://leetcode.cn/problems/separate-the-digits-in-an-array/
+[2554l]:https://leetcode.cn/problems/maximum-number-of-integers-to-choose-from-a-range-i/
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2598l]:https://leetcode.cn/problems/smallest-missing-non-negative-integer-after-operations/
 [2601l]:https://leetcode.cn/problems/prime-subtraction-operation/

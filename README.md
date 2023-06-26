@@ -1092,6 +1092,7 @@
 [2526][2526l]|[Find Consecutive Integers from a Data Stream][2526]                                  |![rs]
 [2544][2544l]|[Alternating Digit Sum][2544]                                                         |![rs]
 [2553][2553l]|[Separate the Digits in an Array][2553]                                               |![rs]
+[2554][2554l]|[Maximum Number of Integers to Choose From a Range I][2554]                           |![rs]
 [2558][2558l]|[Take Gifts From the Richest Pile][2558]                                              |![rs]
 [2598][2598l]|[Smallest Missing Non-negative Integer After Operations][2598]                        |![rs]
 [2601][2601l]|[Prime Subtraction Operation][2601]                                                   |![rs]
@@ -2196,6 +2197,7 @@
 [2526]:./Medium/2526-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream/README.md#2526-find-consecutive-integers-from-a-data-stream
 [2544]:./Easy/2544-Alternating%20Digit%20Sum/README.md#2544-alternating-digit-sum
 [2553]:./Easy/2553-Separate%20the%20Digits%20in%20an%20Array/README.md#2553-separate-the-digits-in-an-array
+[2554]:./Medium/2554-Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I/README.md#2554-maximum-number-of-integers-to-choose-from-a-range-i
 [2558]:./Easy/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README.md#2558-take-gifts-from-the-richest-pile
 [2598]:./Medium/2598-Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/README.md#2598-smallest-missing-non-negative-integer-after-operations
 [2601]:./Medium/2601-Prime%20Subtraction%20Operation/README.md#2601-prime-subtraction-operation
@@ -3305,6 +3307,7 @@
 [2526l]:https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/
 [2544l]:https://leetcode.com/problems/alternating-digit-sum/
 [2553l]:https://leetcode.com/problems/separate-the-digits-in-an-array/
+[2554l]:https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2598l]:https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/
 [2601l]:https://leetcode.com/problems/prime-subtraction-operation/
