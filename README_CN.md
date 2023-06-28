@@ -917,6 +917,7 @@
 [2016][2016l]|[增量元素之间的最大差值][2016]                            |![rs]
 [2022][2022l]|[将一维数组转变成二维数组][2022]                          |![rs]
 [2023][2023l]|[连接后等于目标字符串的字符串对][2023]                    |![py]
+[2024][2024l]|[考试的最大困扰度][2024]                                  |![rs]
 [2027][2027l]|[转换字符串的最少操作次数][2027]                          |![rs]
 [2028][2028l]|[找出缺失的观测数据][2028]                                |![rs]
 [2032][2032l]|[至少在两个数组中出现的值][2032]                          |![py]
@@ -2023,6 +2024,7 @@
 [2016]:./Easy/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README_CN.md#2016-增量元素之间的最大差值
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README_CN.md#2022-将一维数组转变成二维数组
 [2023]:./Medium/2023-Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/README_CN.md#2023-连接后等于目标字符串的字符串对
+[2024]:./Medium/2024-Maximize%20the%20Confusion%20of%20an%20Exam/README_CN.md#2024-考试的最大困扰度
 [2027]:./Easy/2027-Minimum%20Moves%20to%20Convert%20String/README_CN.md#2027-转换字符串的最少操作次数
 [2028]:./Medium/2028-Find%20Missing%20Observations/README_CN.md#2028-找出缺失的观测数据
 [2032]:./Easy/2032-Two%20Out%20of%20Three/README_CN.md#2032-至少在两个数组中出现的值
@@ -3134,6 +3136,7 @@
 [2016l]:https://leetcode.cn/problems/maximum-difference-between-increasing-elements/
 [2022l]:https://leetcode.cn/problems/convert-1d-array-into-2d-array/
 [2023l]:https://leetcode.cn/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
+[2024l]:https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/
 [2027l]:https://leetcode.cn/problems/minimum-moves-to-convert-string/
 [2028l]:https://leetcode.cn/problems/find-missing-observations/
 [2032l]:https://leetcode.cn/problems/two-out-of-three/

@@ -917,6 +917,7 @@
 [2016][2016l]|[Maximum Difference Between Increasing Elements][2016]                                |![rs]
 [2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
 [2023][2023l]|[Number of Pairs of Strings With Concatenation Equal to Target][2023]                 |![py]
+[2024][2024l]|[Maximize the Confusion of an Exam][2024]                                             |![rs]
 [2027][2027l]|[Minimum Moves to Convert String][2027]                                               |![rs]
 [2028][2028l]|[Find Missing Observations][2028]                                                     |![rs]
 [2032][2032l]|[Two Out of Three][2032]                                                              |![py]
@@ -2023,6 +2024,7 @@
 [2016]:./Easy/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README.md#2016-maximum-difference-between-increasing-elements
 [2022]:./Easy/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
 [2023]:./Medium/2023-Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/README.md#2023-number-of-pairs-of-strings-with-concatenation-equal-to-target
+[2024]:./Medium/2024-Maximize%20the%20Confusion%20of%20an%20Exam/README.md#2024-maximize-the-confusion-of-an-exam
 [2027]:./Easy/2027-Minimum%20Moves%20to%20Convert%20String/README.md#2027-minimum-moves-to-convert-string
 [2028]:./Medium/2028-Find%20Missing%20Observations/README.md#2028-find-missing-observations
 [2032]:./Easy/2032-Two%20Out%20of%20Three/README.md#2032-two-out-of-three
@@ -3134,6 +3136,7 @@
 [2016l]:https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 [2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
 [2023l]:https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
+[2024l]:https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
 [2027l]:https://leetcode.com/problems/minimum-moves-to-convert-string/
 [2028l]:https://leetcode.com/problems/find-missing-observations/
 [2032l]:https://leetcode.com/problems/two-out-of-three/
