@@ -1014,6 +1014,7 @@
 [2248][2248l]|[Intersection of Multiple Arrays][2248]                                               |![py]
 [2255][2255l]|[Count Prefixes of a Given String][2255]                                              |![rs]
 [2259][2259l]|[Remove Digit From Number to Maximize Result][2259]                                   |![py]
+[2260][2260l]|[Minimum Consecutive Cards to Pick Up][2260]                                          |![rs]
 [2264][2264l]|[Largest 3-Same-Digit Number in String][2264]                                         |![rs]
 [2265][2265l]|[Count Nodes Equal to Average of Subtree][2265]                                       |![py]
 [2266][2266l]|[Count Number of Texts][2266]                                                         |![py]
@@ -2121,6 +2122,7 @@
 [2248]:./Easy/2248-Intersection%20of%20Multiple%20Arrays/README.md#2248-intersection-of-multiple-arrays
 [2255]:./Easy/2255-Count%20Prefixes%20of%20a%20Given%20String/README.md#2255-count-prefixes-of-a-given-string
 [2259]:./Easy/2259-Remove%20Digit%20From%20Number%20to%20Maximize%20Result/README.md#2259-remove-digit-from-number-to-maximize-result
+[2260]:./Medium/2260-Minimum%20Consecutive%20Cards%20to%20Pick%20Up/README.md#2260-minimum-consecutive-cards-to-pick-up
 [2264]:./Easy/2264-Largest%203-Same-Digit%20Number%20in%20String/README.md#2264-largest-3-same-digit-number-in-string
 [2265]:./Medium/2265-Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/README.md#2265-count-nodes-equal-to-average-of-subtree
 [2266]:./Medium/2266-Count%20Number%20of%20Texts/README.md#2266-count-number-of-texts
@@ -3233,6 +3235,7 @@
 [2248l]:https://leetcode.com/problems/intersection-of-multiple-arrays/
 [2255l]:https://leetcode.com/problems/count-prefixes-of-a-given-string/
 [2259l]:https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
+[2260l]:https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/
 [2264l]:https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 [2265l]:https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
 [2266l]:https://leetcode.com/problems/count-number-of-texts/
