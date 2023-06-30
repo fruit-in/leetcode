@@ -1004,6 +1004,7 @@
 [2224][2224l]|[Minimum Number of Operations to Convert Time][2224]                                  |![py]
 [2225][2225l]|[Find Players With Zero or One Losses][2225]                                          |![py]
 [2231][2231l]|[Largest Number After Digit Swaps by Parity][2231]                                    |![rs]
+[2232][2232l]|[Minimize Result by Adding Parentheses to Expression][2232]                           |![py]
 [2235][2235l]|[Add Two Integers][2235]                                                              |![py]&nbsp;&nbsp;![rs]
 [2236][2236l]|[Root Equals Sum of Children][2236]                                                   |![py]
 [2239][2239l]|[Find Closest Number to Zero][2239]                                                   |![rs]
@@ -2112,6 +2113,7 @@
 [2224]:./Easy/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README.md#2224-minimum-number-of-operations-to-convert-time
 [2225]:./Medium/2225-Find%20Players%20With%20Zero%20or%20One%20Losses/README.md#2225-find-players-with-zero-or-one-losses
 [2231]:./Easy/2231-Largest%20Number%20After%20Digit%20Swaps%20by%20Parity/README.md#2231-largest-number-after-digit-swaps-by-parity
+[2232]:./Medium/2232-Minimize%20Result%20by%20Adding%20Parentheses%20to%20Expression/README.md#2232-minimize-result-by-adding-parentheses-to-expression
 [2235]:./Easy/2235-Add%20Two%20Integers/README.md#2235-add-two-integers
 [2236]:./Easy/2236-Root%20Equals%20Sum%20of%20Children/README.md#2236-root-equals-sum-of-children
 [2239]:./Easy/2239-Find%20Closest%20Number%20to%20Zero/README.md#2239-find-closest-number-to-zero
@@ -3225,6 +3227,7 @@
 [2224l]:https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 [2225l]:https://leetcode.com/problems/find-players-with-zero-or-one-losses/
 [2231l]:https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
+[2232l]:https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/
 [2235l]:https://leetcode.com/problems/add-two-integers/
 [2236l]:https://leetcode.com/problems/root-equals-sum-of-children/
 [2239l]:https://leetcode.com/problems/find-closest-number-to-zero/

@@ -1004,6 +1004,7 @@
 [2224][2224l]|[转化时间需要的最少操作数][2224]                          |![py]
 [2225][2225l]|[找出输掉零场或一场比赛的玩家][2225]                      |![py]
 [2231][2231l]|[按奇偶性交换后的最大数字][2231]                          |![rs]
+[2232][2232l]|[向表达式添加括号后的最小结果][2232]                      |![py]
 [2235][2235l]|[两整数相加][2235]                                        |![py]&nbsp;&nbsp;![rs]
 [2236][2236l]|[判断根结点是否等于子结点之和][2236]                      |![py]
 [2239][2239l]|[找到最接近 0 的数字][2239]                               |![rs]
@@ -2112,6 +2113,7 @@
 [2224]:./Easy/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README_CN.md#2224-转化时间需要的最少操作数
 [2225]:./Medium/2225-Find%20Players%20With%20Zero%20or%20One%20Losses/README_CN.md#2225-找出输掉零场或一场比赛的玩家
 [2231]:./Easy/2231-Largest%20Number%20After%20Digit%20Swaps%20by%20Parity/README_CN.md#2231-按奇偶性交换后的最大数字
+[2232]:./Medium/2232-Minimize%20Result%20by%20Adding%20Parentheses%20to%20Expression/README_CN.md#2232-向表达式添加括号后的最小结果
 [2235]:./Easy/2235-Add%20Two%20Integers/README_CN.md#2235-两整数相加
 [2236]:./Easy/2236-Root%20Equals%20Sum%20of%20Children/README_CN.md#2236-判断根结点是否等于子结点之和
 [2239]:./Easy/2239-Find%20Closest%20Number%20to%20Zero/README_CN.md#2239-找到最接近-0-的数字
@@ -3225,6 +3227,7 @@
 [2224l]:https://leetcode.cn/problems/minimum-number-of-operations-to-convert-time/
 [2225l]:https://leetcode.cn/problems/find-players-with-zero-or-one-losses/
 [2231l]:https://leetcode.cn/problems/largest-number-after-digit-swaps-by-parity/
+[2232l]:https://leetcode.cn/problems/minimize-result-by-adding-parentheses-to-expression/
 [2235l]:https://leetcode.cn/problems/add-two-integers/
 [2236l]:https://leetcode.cn/problems/root-equals-sum-of-children/
 [2239l]:https://leetcode.cn/problems/find-closest-number-to-zero/
