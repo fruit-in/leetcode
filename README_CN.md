@@ -877,6 +877,7 @@
 [1887][1887l]|[使数组元素相等的减少操作次数][1887]                      |![rs]
 [1888][1888l]|[使二进制字符串字符交替的最少反转次数][1888]              |![rs]
 [1893][1893l]|[检查是否区域内所有整数都被覆盖][1893]                    |![py]
+[1894][1894l]|[找到需要补充粉笔的学生编号][1894]                        |![rs]
 [1897][1897l]|[重新分配字符使所有字符串都相等][1897]                    |![rs]
 [1899][1899l]|[合并若干三元组以形成目标三元组][1899]                    |![rs]
 [1901][1901l]|[寻找峰值 II][1901]                                       |![rs]
@@ -1986,6 +1987,7 @@
 [1887]:./Medium/1887-Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal/README_CN.md#1887-使数组元素相等的减少操作次数
 [1888]:./Medium/1888-Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/README_CN.md#1888-使二进制字符串字符交替的最少反转次数
 [1893]:./Easy/1893-Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered/README_CN.md#1893-检查是否区域内所有整数都被覆盖
+[1894]:./Medium/1894-Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/README_CN.md#1894-找到需要补充粉笔的学生编号
 [1897]:./Easy/1897-Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/README_CN.md#1897-重新分配字符使所有字符串都相等
 [1899]:./Medium/1899-Merge%20Triplets%20to%20Form%20Target%20Triplet/README_CN.md#1899-合并若干三元组以形成目标三元组
 [1901]:./Medium/1901-Find%20a%20Peak%20Element%20II/README_CN.md#1901-寻找峰值-ii
@@ -3100,6 +3102,7 @@
 [1887l]:https://leetcode.cn/problems/reduction-operations-to-make-the-array-elements-equal/
 [1888l]:https://leetcode.cn/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/
 [1893l]:https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/
+[1894l]:https://leetcode.cn/problems/find-the-student-that-will-replace-the-chalk/
 [1897l]:https://leetcode.cn/problems/redistribute-characters-to-make-all-strings-equal/
 [1899l]:https://leetcode.cn/problems/merge-triplets-to-form-target-triplet/
 [1901l]:https://leetcode.cn/problems/find-a-peak-element-ii/
