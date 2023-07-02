@@ -262,6 +262,7 @@
 [478][478l]  |[Generate Random Point in a Circle][478]                                              |![rs]
 [481][481l]  |[Magical String][481]                                                                 |![rs]
 [482][482l]  |[License Key Formatting][482]                                                         |![py]
+[483][483l]  |[Smallest Good Base][483]                                                             |![py]
 [485][485l]  |[Max Consecutive Ones][485]                                                           |![rs]
 [492][492l]  |[Construct the Rectangle][492]                                                        |![rs]
 [494][494l]  |[Target Sum][494]                                                                     |![rb]&nbsp;&nbsp;![rs]
@@ -1372,6 +1373,7 @@
 [478]:./Medium/0478-Generate%20Random%20Point%20in%20a%20Circle/README.md#478-generate-random-point-in-a-circle
 [481]:./Medium/0481-Magical%20String/README.md#481-magical-string
 [482]:./Easy/0482-License%20Key%20Formatting/README.md#482-license-key-formatting
+[483]:./Hard/0483-Smallest%20Good%20Base/README.md#483-smallest-good-base
 [485]:./Easy/0485-Max%20Consecutive%20Ones/README.md#485-max-consecutive-ones
 [492]:./Easy/0492-Construct%20the%20Rectangle/README.md#492-construct-the-rectangle
 [494]:./Medium/0494-Target%20Sum/README.md#494-target-sum
@@ -2484,6 +2486,7 @@
 [478l]:https://leetcode.com/problems/generate-random-point-in-a-circle/
 [481l]:https://leetcode.com/problems/magical-string/
 [482l]:https://leetcode.com/problems/license-key-formatting/
+[483l]:https://leetcode.com/problems/smallest-good-base/
 [485l]:https://leetcode.com/problems/max-consecutive-ones/
 [492l]:https://leetcode.com/problems/construct-the-rectangle/
 [494l]:https://leetcode.com/problems/target-sum/
