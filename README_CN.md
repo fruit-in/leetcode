@@ -1086,6 +1086,7 @@
 [2441][2441l]|[与对应负数同时存在的最大正整数][2441]                    |![rs]
 [2442][2442l]|[反转之后不同整数的数目][2442]                            |![py]
 [2443][2443l]|[反转之后的数字和][2443]                                  |![py]
+[2453][2453l]|[摧毁一系列目标][2453]                                    |![rs]
 [2465][2465l]|[不同的平均值数目][2465]                                  |![rs]
 [2469][2469l]|[温度转换][2469]                                          |![rs]
 [2482][2482l]|[行和列中一和零的差值][2482]                              |![rs]
@@ -2197,6 +2198,7 @@
 [2441]:./Easy/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README_CN.md#2441-与对应负数同时存在的最大正整数
 [2442]:./Medium/2442-Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations/README_CN.md#2442-反转之后不同整数的数目
 [2443]:./Medium/2443-Sum%20of%20Number%20and%20Its%20Reverse/README_CN.md#2443-反转之后的数字和
+[2453]:./Medium/2453-Destroy%20Sequential%20Targets/README_CN.md#2453-摧毁一系列目标
 [2465]:./Easy/2465-Number%20of%20Distinct%20Averages/README_CN.md#2465-不同的平均值数目
 [2469]:./Easy/2469-Convert%20the%20Temperature/README_CN.md#2469-温度转换
 [2482]:./Medium/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README_CN.md#2482-行和列中一和零的差值
@@ -3313,6 +3315,7 @@
 [2441l]:https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative/
 [2442l]:https://leetcode.cn/problems/count-number-of-distinct-integers-after-reverse-operations/
 [2443l]:https://leetcode.cn/problems/sum-of-number-and-its-reverse/
+[2453l]:https://leetcode.cn/problems/destroy-sequential-targets/
 [2465l]:https://leetcode.cn/problems/number-of-distinct-averages/
 [2469l]:https://leetcode.cn/problems/convert-the-temperature/
 [2482l]:https://leetcode.cn/problems/difference-between-ones-and-zeros-in-row-and-column/

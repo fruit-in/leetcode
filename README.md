@@ -1086,6 +1086,7 @@
 [2441][2441l]|[Largest Positive Integer That Exists With Its Negative][2441]                        |![rs]
 [2442][2442l]|[Count Number of Distinct Integers After Reverse Operations][2442]                    |![py]
 [2443][2443l]|[Sum of Number and Its Reverse][2443]                                                 |![py]
+[2453][2453l]|[Destroy Sequential Targets][2453]                                                    |![rs]
 [2465][2465l]|[Number of Distinct Averages][2465]                                                   |![rs]
 [2469][2469l]|[Convert the Temperature][2469]                                                       |![rs]
 [2482][2482l]|[Difference Between Ones and Zeros in Row and Column][2482]                           |![rs]
@@ -2197,6 +2198,7 @@
 [2441]:./Easy/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README.md#2441-largest-positive-integer-that-exists-with-its-negative
 [2442]:./Medium/2442-Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations/README.md#2442-count-number-of-distinct-integers-after-reverse-operations
 [2443]:./Medium/2443-Sum%20of%20Number%20and%20Its%20Reverse/README.md#2443-sum-of-number-and-its-reverse
+[2453]:./Medium/2453-Destroy%20Sequential%20Targets/README.md#2453-destroy-sequential-targets
 [2465]:./Easy/2465-Number%20of%20Distinct%20Averages/README.md#2465-number-of-distinct-averages
 [2469]:./Easy/2469-Convert%20the%20Temperature/README.md#2469-convert-the-temperature
 [2482]:./Medium/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README.md#2482-difference-between-ones-and-zeros-in-row-and-column
@@ -3313,6 +3315,7 @@
 [2441l]:https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
 [2442l]:https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/
 [2443l]:https://leetcode.com/problems/sum-of-number-and-its-reverse/
+[2453l]:https://leetcode.com/problems/destroy-sequential-targets/
 [2465l]:https://leetcode.com/problems/number-of-distinct-averages/
 [2469l]:https://leetcode.com/problems/convert-the-temperature/
 [2482l]:https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
