@@ -1044,6 +1044,7 @@
 [2315][2315l]|[Count Asterisks][2315]                                                               |![rs]
 [2317][2317l]|[Maximum XOR After Operations][2317]                                                  |![rs]
 [2319][2319l]|[Check if Matrix Is X-Matrix][2319]                                                   |![py]
+[2320][2320l]|[Count Number of Ways to Place Houses][2320]                                          |![rs]
 [2325][2325l]|[Decode the Message][2325]                                                            |![py]
 [2326][2326l]|[Spiral Matrix IV][2326]                                                              |![py]
 [2331][2331l]|[Evaluate Boolean Binary Tree][2331]                                                  |![py]
@@ -2157,6 +2158,7 @@
 [2315]:./Easy/2315-Count%20Asterisks/README.md#2315-count-asterisks
 [2317]:./Medium/2317-Maximum%20XOR%20After%20Operations/README.md#2317-maximum-xor-after-operations
 [2319]:./Easy/2319-Check%20if%20Matrix%20Is%20X-Matrix/README.md#2319-check-if-matrix-is-x-matrix
+[2320]:./Medium/2320-Count%20Number%20of%20Ways%20to%20Place%20Houses/README.md#2320-count-number-of-ways-to-place-houses
 [2325]:./Easy/2325-Decode%20the%20Message/README.md#2325-decode-the-message
 [2326]:./Medium/2326-Spiral%20Matrix%20IV/README.md#2326-spiral-matrix-iv
 [2331]:./Easy/2331-Evaluate%20Boolean%20Binary%20Tree/README.md#2331-evaluate-boolean-binary-tree
@@ -3275,6 +3277,7 @@
 [2315l]:https://leetcode.com/problems/count-asterisks/
 [2317l]:https://leetcode.com/problems/maximum-xor-after-operations/
 [2319l]:https://leetcode.com/problems/check-if-matrix-is-x-matrix/
+[2320l]:https://leetcode.com/problems/count-number-of-ways-to-place-houses/
 [2325l]:https://leetcode.com/problems/decode-the-message/
 [2326l]:https://leetcode.com/problems/spiral-matrix-iv/
 [2331l]:https://leetcode.com/problems/evaluate-boolean-binary-tree/
