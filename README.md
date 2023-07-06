@@ -1065,6 +1065,7 @@
 [2374][2374l]|[Node With Highest Edge Score][2374]                                                  |![rs]
 [2375][2375l]|[Construct Smallest Number From DI String][2375]                                      |![rs]
 [2379][2379l]|[Minimum Recolors to Get K Consecutive Black Blocks][2379]                            |![rs]
+[2381][2381l]|[Shifting Letters II][2381]                                                           |![rs]
 [2383][2383l]|[Minimum Hours of Training to Win a Competition][2383]                                |![rs]
 [2384][2384l]|[Largest Palindromic Number][2384]                                                    |![rs]
 [2389][2389l]|[Longest Subsequence With Limited Sum][2389]                                          |![rs]
@@ -2179,6 +2180,7 @@
 [2374]:./Medium/2374-Node%20With%20Highest%20Edge%20Score/README.md#2374-node-with-highest-edge-score
 [2375]:./Medium/2375-Construct%20Smallest%20Number%20From%20DI%20String/README.md#2375-construct-smallest-number-from-di-string
 [2379]:./Easy/2379-Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/README.md#2379-minimum-recolors-to-get-k-consecutive-black-blocks
+[2381]:./Medium/2381-Shifting%20Letters%20II/README.md#2381-shifting-letters-ii
 [2383]:./Easy/2383-Minimum%20Hours%20of%20Training%20to%20Win%20a%20Competition/README.md#2383-minimum-hours-of-training-to-win-a-competition
 [2384]:./Medium/2384-Largest%20Palindromic%20Number/README.md#2384-largest-palindromic-number
 [2389]:./Easy/2389-Longest%20Subsequence%20With%20Limited%20Sum/README.md#2389-longest-subsequence-with-limited-sum
@@ -3298,6 +3300,7 @@
 [2374l]:https://leetcode.com/problems/node-with-highest-edge-score/
 [2375l]:https://leetcode.com/problems/construct-smallest-number-from-di-string/
 [2379l]:https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
+[2381l]:https://leetcode.com/problems/shifting-letters-ii/
 [2383l]:https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/
 [2384l]:https://leetcode.com/problems/largest-palindromic-number/
 [2389l]:https://leetcode.com/problems/longest-subsequence-with-limited-sum/

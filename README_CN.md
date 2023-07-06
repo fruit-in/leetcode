@@ -1065,6 +1065,7 @@
 [2374][2374l]|[边积分最高的节点][2374]                                  |![rs]
 [2375][2375l]|[根据模式串构造最小数字][2375]                            |![rs]
 [2379][2379l]|[得到 K 个黑块的最少涂色次数][2379]                       |![rs]
+[2381][2381l]|[字母移位 II][2381]                                       |![rs]
 [2383][2383l]|[赢得比赛需要的最少训练时长][2383]                        |![rs]
 [2384][2384l]|[最大回文数字][2384]                                      |![rs]
 [2389][2389l]|[和有限的最长子序列][2389]                                |![rs]
@@ -2179,6 +2180,7 @@
 [2374]:./Medium/2374-Node%20With%20Highest%20Edge%20Score/README_CN.md#2374-边积分最高的节点
 [2375]:./Medium/2375-Construct%20Smallest%20Number%20From%20DI%20String/README_CN.md#2375-根据模式串构造最小数字
 [2379]:./Easy/2379-Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/README_CN.md#2379-得到-k-个黑块的最少涂色次数
+[2381]:./Medium/2381-Shifting%20Letters%20II/README_CN.md#2381-字母移位-ii
 [2383]:./Easy/2383-Minimum%20Hours%20of%20Training%20to%20Win%20a%20Competition/README_CN.md#2383-赢得比赛需要的最少训练时长
 [2384]:./Medium/2384-Largest%20Palindromic%20Number/README_CN.md#2384-最大回文数字
 [2389]:./Easy/2389-Longest%20Subsequence%20With%20Limited%20Sum/README_CN.md#2389-和有限的最长子序列
@@ -3298,6 +3300,7 @@
 [2374l]:https://leetcode.cn/problems/node-with-highest-edge-score/
 [2375l]:https://leetcode.cn/problems/construct-smallest-number-from-di-string/
 [2379l]:https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
+[2381l]:https://leetcode.cn/problems/shifting-letters-ii/
 [2383l]:https://leetcode.cn/problems/minimum-hours-of-training-to-win-a-competition/
 [2384l]:https://leetcode.cn/problems/largest-palindromic-number/
 [2389l]:https://leetcode.cn/problems/longest-subsequence-with-limited-sum/
