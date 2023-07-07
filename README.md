@@ -930,6 +930,7 @@
 [2044][2044l]|[Count Number of Maximum Bitwise-OR Subsets][2044]                                    |![rs]
 [2047][2047l]|[Number of Valid Words in a Sentence][2047]                                           |![py]
 [2053][2053l]|[Kth Distinct String in an Array][2053]                                               |![py]
+[2054][2054l]|[Two Best Non-Overlapping Events][2054]                                               |![rs]
 [2055][2055l]|[Plates Between Candles][2055]                                                        |![rs]
 [2057][2057l]|[Smallest Index With Equal Value][2057]                                               |![rs]
 [2058][2058l]|[Find the Minimum and Maximum Number of Nodes Between Critical Points][2058]          |![py]
@@ -2045,6 +2046,7 @@
 [2044]:./Medium/2044-Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/README.md#2044-count-number-of-maximum-bitwise-or-subsets
 [2047]:./Easy/2047-Number%20of%20Valid%20Words%20in%20a%20Sentence/README.md#2047-number-of-valid-words-in-a-sentence
 [2053]:./Easy/2053-Kth%20Distinct%20String%20in%20an%20Array/README.md#2053-kth-distinct-string-in-an-array
+[2054]:./Medium/2054-Two%20Best%20Non-Overlapping%20Events/README.md#2054-two-best-non-overlapping-events
 [2055]:./Medium/2055-Plates%20Between%20Candles/README.md#2055-plates-between-candles
 [2057]:./Easy/2057-Smallest%20Index%20With%20Equal%20Value/README.md#2057-smallest-index-with-equal-value
 [2058]:./Medium/2058-Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points/README.md#2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points
@@ -3165,6 +3167,7 @@
 [2044l]:https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/
 [2047l]:https://leetcode.com/problems/number-of-valid-words-in-a-sentence/
 [2053l]:https://leetcode.com/problems/kth-distinct-string-in-an-array/
+[2054l]:https://leetcode.com/problems/two-best-non-overlapping-events/
 [2055l]:https://leetcode.com/problems/plates-between-candles/
 [2057l]:https://leetcode.com/problems/smallest-index-with-equal-value/
 [2058l]:https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
