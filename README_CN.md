@@ -393,6 +393,7 @@
 [785][785l]  |[判断二分图][785]                                         |![rs]
 [788][788l]  |[旋转数字][788]                                           |![rs]
 [789][789l]  |[逃脱阻碍者][789]                                         |![rb]&nbsp;&nbsp;![rs]
+[790][790l]  |[多米诺和托米诺平铺][790]                                 |![rs]
 [791][791l]  |[自定义字符串排序][791]                                   |![rs]
 [794][794l]  |[有效的井字游戏][794]                                     |![rs]
 [796][796l]  |[旋转字符串][796]                                         |![rs]
@@ -1509,6 +1510,7 @@
 [785]:./Medium/0785-Is%20Graph%20Bipartite%3F/README_CN.md#785-判断二分图
 [788]:./Easy/0788-Rotated%20Digits/README_CN.md#788-旋转数字
 [789]:./Medium/0789-Escape%20The%20Ghosts/README_CN.md#789-逃脱阻碍者
+[790]:./Medium/0790-Domino%20and%20Tromino%20Tiling/README_CN.md#790-多米诺和托米诺平铺
 [791]:./Medium/0791-Custom%20Sort%20String/README_CN.md#791-自定义字符串排序
 [794]:./Medium/0794-Valid%20Tic-Tac-Toe%20State/README_CN.md#794-有效的井字游戏
 [796]:./Easy/0796-Rotate%20String/README_CN.md#796-旋转字符串
@@ -2630,6 +2632,7 @@
 [785l]:https://leetcode.cn/problems/is-graph-bipartite/
 [788l]:https://leetcode.cn/problems/rotated-digits/
 [789l]:https://leetcode.cn/problems/escape-the-ghosts/
+[790l]:https://leetcode.cn/problems/domino-and-tromino-tiling/
 [791l]:https://leetcode.cn/problems/custom-sort-string/
 [794l]:https://leetcode.cn/problems/valid-tic-tac-toe-state/
 [796l]:https://leetcode.cn/problems/rotate-string/

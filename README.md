@@ -393,6 +393,7 @@
 [785][785l]  |[Is Graph Bipartite?][785]                                                            |![rs]
 [788][788l]  |[Rotated Digits][788]                                                                 |![rs]
 [789][789l]  |[Escape The Ghosts][789]                                                              |![rb]&nbsp;&nbsp;![rs]
+[790][790l]  |[Domino and Tromino Tiling][790]                                                      |![rs]
 [791][791l]  |[Custom Sort String][791]                                                             |![rs]
 [794][794l]  |[Valid Tic-Tac-Toe State][794]                                                        |![rs]
 [796][796l]  |[Rotate String][796]                                                                  |![rs]
@@ -1509,6 +1510,7 @@
 [785]:./Medium/0785-Is%20Graph%20Bipartite%3F/README.md#785-is-graph-bipartite
 [788]:./Easy/0788-Rotated%20Digits/README.md#788-rotated-digits
 [789]:./Medium/0789-Escape%20The%20Ghosts/README.md#789-escape-the-ghosts
+[790]:./Medium/0790-Domino%20and%20Tromino%20Tiling/README.md#790-domino-and-tromino-tiling
 [791]:./Medium/0791-Custom%20Sort%20String/README.md#791-custom-sort-string
 [794]:./Medium/0794-Valid%20Tic-Tac-Toe%20State/README.md#794-valid-tic-tac-toe-state
 [796]:./Easy/0796-Rotate%20String/README.md#796-rotate-string
@@ -2630,6 +2632,7 @@
 [785l]:https://leetcode.com/problems/is-graph-bipartite/
 [788l]:https://leetcode.com/problems/rotated-digits/
 [789l]:https://leetcode.com/problems/escape-the-ghosts/
+[790l]:https://leetcode.com/problems/domino-and-tromino-tiling/
 [791l]:https://leetcode.com/problems/custom-sort-string/
 [794l]:https://leetcode.com/problems/valid-tic-tac-toe-state/
 [796l]:https://leetcode.com/problems/rotate-string/
