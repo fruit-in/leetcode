@@ -1020,6 +1020,7 @@
 [2244][2244l]|[完成所有任务需要的最少轮数][2244]                        |![py]
 [2248][2248l]|[多个数组求交集][2248]                                    |![py]
 [2255][2255l]|[统计是给定字符串前缀的字符串数目][2255]                  |![rs]
+[2256][2256l]|[最小平均差][2256]                                        |![rs]
 [2259][2259l]|[移除指定数字得到的最大结果][2259]                        |![py]
 [2260][2260l]|[必须拿起的最小连续卡牌数][2260]                          |![rs]
 [2264][2264l]|[字符串中最大的 3 位相同数字][2264]                       |![rs]
@@ -2140,6 +2141,7 @@
 [2244]:./Medium/2244-Minimum%20Rounds%20to%20Complete%20All%20Tasks/README_CN.md#2244-完成所有任务需要的最少轮数
 [2248]:./Easy/2248-Intersection%20of%20Multiple%20Arrays/README_CN.md#2248-多个数组求交集
 [2255]:./Easy/2255-Count%20Prefixes%20of%20a%20Given%20String/README_CN.md#2255-统计是给定字符串前缀的字符串数目
+[2256]:./Medium/2256-Minimum%20Average%20Difference/README_CN.md#2256-最小平均差
 [2259]:./Easy/2259-Remove%20Digit%20From%20Number%20to%20Maximize%20Result/README_CN.md#2259-移除指定数字得到的最大结果
 [2260]:./Medium/2260-Minimum%20Consecutive%20Cards%20to%20Pick%20Up/README_CN.md#2260-必须拿起的最小连续卡牌数
 [2264]:./Easy/2264-Largest%203-Same-Digit%20Number%20in%20String/README_CN.md#2264-字符串中最大的-3-位相同数字
@@ -3265,6 +3267,7 @@
 [2244l]:https://leetcode.cn/problems/minimum-rounds-to-complete-all-tasks/
 [2248l]:https://leetcode.cn/problems/intersection-of-multiple-arrays/
 [2255l]:https://leetcode.cn/problems/count-prefixes-of-a-given-string/
+[2256l]:https://leetcode.cn/problems/minimum-average-difference/
 [2259l]:https://leetcode.cn/problems/remove-digit-from-number-to-maximize-result/
 [2260l]:https://leetcode.cn/problems/minimum-consecutive-cards-to-pick-up/
 [2264l]:https://leetcode.cn/problems/largest-3-same-digit-number-in-string/
