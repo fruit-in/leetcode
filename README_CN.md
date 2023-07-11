@@ -989,6 +989,7 @@
 [2171][2171l]|[拿出最少数目的魔法豆][2171]                              |![rs]
 [2176][2176l]|[统计数组中相等且可以被整除的数对][2176]                  |![rs]
 [2177][2177l]|[找到和为给定整数的三个连续整数][2177]                    |![rs]
+[2178][2178l]|[拆分成最多数目的正偶数之和][2178]                        |![rs]
 [2180][2180l]|[统计各位数字之和为偶数的整数个数][2180]                  |![py]
 [2181][2181l]|[合并零之间的节点][2181]                                  |![py]
 [2185][2185l]|[统计包含给定前缀的字符串][2185]                          |![rs]
@@ -2110,6 +2111,7 @@
 [2171]:./Medium/2171-Removing%20Minimum%20Number%20of%20Magic%20Beans/README_CN.md#2171-拿出最少数目的魔法豆
 [2176]:./Easy/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README_CN.md#2176-统计数组中相等且可以被整除的数对
 [2177]:./Medium/2177-Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number/README_CN.md#2177-找到和为给定整数的三个连续整数
+[2178]:./Medium/2178-Maximum%20Split%20of%20Positive%20Even%20Integers/README_CN.md#2178-拆分成最多数目的正偶数之和
 [2180]:./Easy/2180-Count%20Integers%20With%20Even%20Digit%20Sum/README_CN.md#2180-统计各位数字之和为偶数的整数个数
 [2181]:./Medium/2181-Merge%20Nodes%20in%20Between%20Zeros/README_CN.md#2181-合并零之间的节点
 [2185]:./Easy/2185-Counting%20Words%20With%20a%20Given%20Prefix/README_CN.md#2185-统计包含给定前缀的字符串
@@ -3236,6 +3238,7 @@
 [2171l]:https://leetcode.cn/problems/removing-minimum-number-of-magic-beans/
 [2176l]:https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/
 [2177l]:https://leetcode.cn/problems/find-three-consecutive-integers-that-sum-to-a-given-number/
+[2178l]:https://leetcode.cn/problems/maximum-split-of-positive-even-integers/
 [2180l]:https://leetcode.cn/problems/count-integers-with-even-digit-sum/
 [2181l]:https://leetcode.cn/problems/merge-nodes-in-between-zeros/
 [2185l]:https://leetcode.cn/problems/counting-words-with-a-given-prefix/
