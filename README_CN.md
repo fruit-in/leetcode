@@ -1087,6 +1087,7 @@
 [2413][2413l]|[最小偶倍数][2413]                                        |![rs]
 [2414][2414l]|[最长的字母序连续子字符串的长度][2414]                    |![rs]
 [2418][2418l]|[按身高排序][2418]                                        |![rs]
+[2420][2420l]|[找到所有好下标][2420]                                    |![rs]
 [2423][2423l]|[删除字符使频率相同][2423]                                |![rs]
 [2425][2425l]|[所有数对的异或和][2425]                                  |![rs]
 [2427][2427l]|[公因子的数目][2427]                                      |![rs]
@@ -2209,6 +2210,7 @@
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README_CN.md#2413-最小偶倍数
 [2414]:./Medium/2414-Length%20of%20the%20Longest%20Alphabetical%20Continuous%20Substring/README_CN.md#2414-最长的字母序连续子字符串的长度
 [2418]:./Easy/2418-Sort%20the%20People/README_CN.md#2418-按身高排序
+[2420]:./Medium/2420-Find%20All%20Good%20Indices/README_CN.md#2420-找到所有好下标
 [2423]:./Easy/2423-Remove%20Letter%20To%20Equalize%20Frequency/README_CN.md#2423-删除字符使频率相同
 [2425]:./Medium/2425-Bitwise%20XOR%20of%20All%20Pairings/README_CN.md#2425-所有数对的异或和
 [2427]:./Easy/2427-Number%20of%20Common%20Factors/README_CN.md#2427-公因子的数目
@@ -3336,6 +3338,7 @@
 [2413l]:https://leetcode.cn/problems/smallest-even-multiple/
 [2414l]:https://leetcode.cn/problems/length-of-the-longest-alphabetical-continuous-substring/
 [2418l]:https://leetcode.cn/problems/sort-the-people/
+[2420l]:https://leetcode.cn/problems/find-all-good-indices/
 [2423l]:https://leetcode.cn/problems/remove-letter-to-equalize-frequency/
 [2425l]:https://leetcode.cn/problems/bitwise-xor-of-all-pairings/
 [2427l]:https://leetcode.cn/problems/number-of-common-factors/

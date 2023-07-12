@@ -1087,6 +1087,7 @@
 [2413][2413l]|[Smallest Even Multiple][2413]                                                        |![rs]
 [2414][2414l]|[Length of the Longest Alphabetical Continuous Substring][2414]                       |![rs]
 [2418][2418l]|[Sort the People][2418]                                                               |![rs]
+[2420][2420l]|[Find All Good Indices][2420]                                                         |![rs]
 [2423][2423l]|[Remove Letter To Equalize Frequency][2423]                                           |![rs]
 [2425][2425l]|[Bitwise XOR of All Pairings][2425]                                                   |![rs]
 [2427][2427l]|[Number of Common Factors][2427]                                                      |![rs]
@@ -2209,6 +2210,7 @@
 [2413]:./Easy/2413-Smallest%20Even%20Multiple/README.md#2413-smallest-even-multiple
 [2414]:./Medium/2414-Length%20of%20the%20Longest%20Alphabetical%20Continuous%20Substring/README.md#2414-length-of-the-longest-alphabetical-continuous-substring
 [2418]:./Easy/2418-Sort%20the%20People/README.md#2418-sort-the-people
+[2420]:./Medium/2420-Find%20All%20Good%20Indices/README.md#2420-find-all-good-indices
 [2423]:./Easy/2423-Remove%20Letter%20To%20Equalize%20Frequency/README.md#2423-remove-letter-to-equalize-frequency
 [2425]:./Medium/2425-Bitwise%20XOR%20of%20All%20Pairings/README.md#2425-bitwise-xor-of-all-pairings
 [2427]:./Easy/2427-Number%20of%20Common%20Factors/README.md#2427-number-of-common-factors
@@ -3336,6 +3338,7 @@
 [2413l]:https://leetcode.com/problems/smallest-even-multiple/
 [2414l]:https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 [2418l]:https://leetcode.com/problems/sort-the-people/
+[2420l]:https://leetcode.com/problems/find-all-good-indices/
 [2423l]:https://leetcode.com/problems/remove-letter-to-equalize-frequency/
 [2425l]:https://leetcode.com/problems/bitwise-xor-of-all-pairings/
 [2427l]:https://leetcode.com/problems/number-of-common-factors/
