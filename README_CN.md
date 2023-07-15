@@ -1097,6 +1097,7 @@
 [2428][2428l]|[沙漏的最大总和][2428]                                    |![rs]
 [2429][2429l]|[最小 XOR][2429]                                          |![rs]
 [2432][2432l]|[处理用时最长的那个任务的员工][2432]                      |![rs]
+[2437][2437l]|[有效时间的数目][2437]                                    |![py]
 [2441][2441l]|[与对应负数同时存在的最大正整数][2441]                    |![rs]
 [2442][2442l]|[反转之后不同整数的数目][2442]                            |![py]
 [2443][2443l]|[反转之后的数字和][2443]                                  |![py]
@@ -2223,6 +2224,7 @@
 [2428]:./Medium/2428-Maximum%20Sum%20of%20an%20Hourglass/README_CN.md#2428-沙漏的最大总和
 [2429]:./Medium/2429-Minimize%20XOR/README_CN.md#2429-最小-xor
 [2432]:./Easy/2432-The%20Employee%20That%20Worked%20on%20the%20Longest%20Task/README_CN.md#2432-处理用时最长的那个任务的员工
+[2437]:./Easy/2437-Number%20of%20Valid%20Clock%20Times/README_CN.md#2437-有效时间的数目
 [2441]:./Easy/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README_CN.md#2441-与对应负数同时存在的最大正整数
 [2442]:./Medium/2442-Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations/README_CN.md#2442-反转之后不同整数的数目
 [2443]:./Medium/2443-Sum%20of%20Number%20and%20Its%20Reverse/README_CN.md#2443-反转之后的数字和
@@ -3354,6 +3356,7 @@
 [2428l]:https://leetcode.cn/problems/maximum-sum-of-an-hourglass/
 [2429l]:https://leetcode.cn/problems/minimize-xor/
 [2432l]:https://leetcode.cn/problems/the-employee-that-worked-on-the-longest-task/
+[2437l]:https://leetcode.cn/problems/number-of-valid-clock-times/
 [2441l]:https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative/
 [2442l]:https://leetcode.cn/problems/count-number-of-distinct-integers-after-reverse-operations/
 [2443l]:https://leetcode.cn/problems/sum-of-number-and-its-reverse/
