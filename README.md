@@ -578,6 +578,7 @@
 [1161][1161l]|[Maximum Level Sum of a Binary Tree][1161]                                            |![py]
 [1162][1162l]|[As Far from Land as Possible][1162]                                                  |![rs]
 [1170][1170l]|[Compare Strings by Frequency of the Smallest Character][1170]                        |![py]
+[1172][1172l]|[Dinner Plate Stacks][1172]                                                           |![rs]
 [1175][1175l]|[Prime Arrangements][1175]                                                            |![rs]
 [1177][1177l]|[Can Make Palindrome from Substring][1177]                                            |![rs]
 [1184][1184l]|[Distance Between Bus Stops][1184]                                                    |![rs]
@@ -1705,6 +1706,7 @@
 [1161]:./Medium/1161-Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/README.md#1161-maximum-level-sum-of-a-binary-tree
 [1162]:./Medium/1162-As%20Far%20from%20Land%20as%20Possible/README.md#1162-as-far-from-land-as-possible
 [1170]:./Easy/1170-Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/README.md#1170-compare-strings-by-frequency-of-the-smallest-character
+[1172]:./Hard/1172-Dinner%20Plate%20Stacks/README.md#1172-dinner-plate-stacks
 [1175]:./Easy/1175-Prime%20Arrangements/README.md#1175-prime-arrangements
 [1177]:./Medium/1177-Can%20Make%20Palindrome%20from%20Substring/README.md#1177-can-make-palindrome-from-substring
 [1184]:./Easy/1184-Distance%20Between%20Bus%20Stops/README.md#1184-distance-between-bus-stops
@@ -2837,6 +2839,7 @@
 [1161l]:https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
 [1162l]:https://leetcode.com/problems/as-far-from-land-as-possible/
 [1170l]:https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
+[1172l]:https://leetcode.com/problems/dinner-plate-stacks/
 [1175l]:https://leetcode.com/problems/prime-arrangements/
 [1177l]:https://leetcode.com/problems/can-make-palindrome-from-substring/
 [1184l]:https://leetcode.com/problems/distance-between-bus-stops/
