@@ -1008,6 +1008,7 @@
 [2210][2210l]|[Count Hills and Valleys in an Array][2210]                                           |![py]
 [2211][2211l]|[Count Collisions on a Road][2211]                                                    |![rs]
 [2215][2215l]|[Find the Difference of Two Arrays][2215]                                             |![rs]
+[2217][2217l]|[Find Palindrome With Fixed Length][2217]                                             |![rs]
 [2220][2220l]|[Minimum Bit Flips to Convert Number][2220]                                           |![rs]
 [2221][2221l]|[Find Triangular Sum of an Array][2221]                                               |![rs]
 [2222][2222l]|[Number of Ways to Select Buildings][2222]                                            |![rs]
@@ -2137,6 +2138,7 @@
 [2210]:./Easy/2210-Count%20Hills%20and%20Valleys%20in%20an%20Array/README.md#2210-count-hills-and-valleys-in-an-array
 [2211]:./Medium/2211-Count%20Collisions%20on%20a%20Road/README.md#2211-count-collisions-on-a-road
 [2215]:./Easy/2215-Find%20the%20Difference%20of%20Two%20Arrays/README.md#2215-find-the-difference-of-two-arrays
+[2217]:./Medium/2217-Find%20Palindrome%20With%20Fixed%20Length/README.md#2217-find-palindrome-with-fixed-length
 [2220]:./Easy/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README.md#2220-minimum-bit-flips-to-convert-number
 [2221]:./Medium/2221-Find%20Triangular%20Sum%20of%20an%20Array/README.md#2221-find-triangular-sum-of-an-array
 [2222]:./Medium/2222-Number%20of%20Ways%20to%20Select%20Buildings/README.md#2222-number-of-ways-to-select-buildings
@@ -3271,6 +3273,7 @@
 [2210l]:https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 [2211l]:https://leetcode.com/problems/count-collisions-on-a-road/
 [2215l]:https://leetcode.com/problems/find-the-difference-of-two-arrays/
+[2217l]:https://leetcode.com/problems/find-palindrome-with-fixed-length/
 [2220l]:https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 [2221l]:https://leetcode.com/problems/find-triangular-sum-of-an-array/
 [2222l]:https://leetcode.com/problems/number-of-ways-to-select-buildings/
