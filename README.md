@@ -1121,6 +1121,7 @@
 [2554][2554l]|[Maximum Number of Integers to Choose From a Range I][2554]                           |![rs]
 [2558][2558l]|[Take Gifts From the Richest Pile][2558]                                              |![rs]
 [2559][2559l]|[Count Vowel Strings in Ranges][2559]                                                 |![rs]
+[2596][2596l]|[Check Knight Tour Configuration][2596]                                               |![rs]
 [2598][2598l]|[Smallest Missing Non-negative Integer After Operations][2598]                        |![rs]
 [2601][2601l]|[Prime Subtraction Operation][2601]                                                   |![rs]
 [2602][2602l]|[Minimum Operations to Make All Array Elements Equal][2602]                           |![rs]
@@ -2253,6 +2254,7 @@
 [2554]:./Medium/2554-Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I/README.md#2554-maximum-number-of-integers-to-choose-from-a-range-i
 [2558]:./Easy/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README.md#2558-take-gifts-from-the-richest-pile
 [2559]:./Medium/2559-Count%20Vowel%20Strings%20in%20Ranges/README.md#2559-count-vowel-strings-in-ranges
+[2596]:./Medium/2596-Check%20Knight%20Tour%20Configuration/README.md#2596-check-knight-tour-configuration
 [2598]:./Medium/2598-Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/README.md#2598-smallest-missing-non-negative-integer-after-operations
 [2601]:./Medium/2601-Prime%20Subtraction%20Operation/README.md#2601-prime-subtraction-operation
 [2602]:./Medium/2602-Minimum%20Operations%20to%20Make%20All%20Array%20Elements%20Equal/README.md#2602-minimum-operations-to-make-all-array-elements-equal
@@ -3390,6 +3392,7 @@
 [2554l]:https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2559l]:https://leetcode.com/problems/count-vowel-strings-in-ranges/
+[2596l]:https://leetcode.com/problems/check-knight-tour-configuration/
 [2598l]:https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/
 [2601l]:https://leetcode.com/problems/prime-subtraction-operation/
 [2602l]:https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/

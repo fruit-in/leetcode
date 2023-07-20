@@ -1121,6 +1121,7 @@
 [2554][2554l]|[从一个范围内选择最多整数 I][2554]                        |![rs]
 [2558][2558l]|[从数量最多的堆取走礼物][2558]                            |![rs]
 [2559][2559l]|[统计范围内的元音字符串数][2559]                          |![rs]
+[2596][2596l]|[检查骑士巡视方案][2596]                                  |![rs]
 [2598][2598l]|[执行操作后的最大 MEX][2598]                              |![rs]
 [2601][2601l]|[质数减法运算][2601]                                      |![rs]
 [2602][2602l]|[使数组元素全部相等的最少操作次数][2602]                  |![rs]
@@ -2253,6 +2254,7 @@
 [2554]:./Medium/2554-Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I/README_CN.md#2554-从一个范围内选择最多整数-i
 [2558]:./Easy/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README_CN.md#2558-take-gifts-from-the-richest-pile
 [2559]:./Medium/2559-Count%20Vowel%20Strings%20in%20Ranges/README_CN.md#2559-统计范围内的元音字符串数
+[2596]:./Medium/2596-Check%20Knight%20Tour%20Configuration/README_CN.md#2596-检查骑士巡视方案
 [2598]:./Medium/2598-Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/README_CN.md#2598-执行操作后的最大-mex
 [2601]:./Medium/2601-Prime%20Subtraction%20Operation/README_CN.md#2601-质数减法运算
 [2602]:./Medium/2602-Minimum%20Operations%20to%20Make%20All%20Array%20Elements%20Equal/README_CN.md#2602-使数组元素全部相等的最少操作次数
@@ -3390,6 +3392,7 @@
 [2554l]:https://leetcode.cn/problems/maximum-number-of-integers-to-choose-from-a-range-i/
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2559l]:https://leetcode.cn/problems/count-vowel-strings-in-ranges/
+[2596l]:https://leetcode.cn/problems/check-knight-tour-configuration/
 [2598l]:https://leetcode.cn/problems/smallest-missing-non-negative-integer-after-operations/
 [2601l]:https://leetcode.cn/problems/prime-subtraction-operation/
 [2602l]:https://leetcode.cn/problems/minimum-operations-to-make-all-array-elements-equal/
