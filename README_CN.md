@@ -1113,6 +1113,7 @@
 [2490][2490l]|[回环句][2490]                                            |![py]
 [2496][2496l]|[数组中字符串的最大值][2496]                              |![rs]
 [2501][2501l]|[数组中最长的方波][2501]                                  |![rs]
+[2512][2512l]|[奖励最顶尖的 K 名学生][2512]                             |![py]
 [2520][2520l]|[统计能整除数字的位数][2520]                              |![rs]
 [2525][2525l]|[根据规则将箱子分类][2525]                                |![rs]
 [2526][2526l]|[找到数据流中的连续整数][2526]                            |![rs]
@@ -2246,6 +2247,7 @@
 [2490]:./Easy/2490-Circular%20Sentence/README_CN.md#2490-回环句
 [2496]:./Easy/2496-Maximum%20Value%20of%20a%20String%20in%20an%20Array/README_CN.md#2496-数组中字符串的最大值
 [2501]:./Medium/2501-Longest%20Square%20Streak%20in%20an%20Array/README_CN.md#2501-数组中最长的方波
+[2512]:./Medium/2512-Reward%20Top%20K%20Students/README_CN.md#2512-奖励最顶尖的-k-名学生
 [2520]:./Easy/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README_CN.md#2520-统计能整除数字的位数
 [2525]:./Easy/2525-Categorize%20Box%20According%20to%20Criteria/README_CN.md#2525-根据规则将箱子分类
 [2526]:./Medium/2526-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream/README_CN.md#2526-找到数据流中的连续整数
@@ -3384,6 +3386,7 @@
 [2490l]:https://leetcode.cn/problems/circular-sentence/
 [2496l]:https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/
 [2501l]:https://leetcode.cn/problems/longest-square-streak-in-an-array/
+[2512l]:https://leetcode.cn/problems/reward-top-k-students/
 [2520l]:https://leetcode.cn/problems/count-the-digits-that-divide-a-number/
 [2525l]:https://leetcode.cn/problems/categorize-box-according-to-criteria/
 [2526l]:https://leetcode.cn/problems/find-consecutive-integers-from-a-data-stream/
