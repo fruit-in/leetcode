@@ -676,6 +676,7 @@
 [1385][1385l]|[两个数组间的距离值][1385]                                |![rs]
 [1387][1387l]|[将整数按权重排序][1387]                                  |![rs]
 [1389][1389l]|[按既定顺序创建目标数组][1389]                            |![rb]&nbsp;&nbsp;![rs]
+[1390][1390l]|[四因数][1390]                                            |![rs]
 [1391][1391l]|[检查网格中是否存在有效路径][1391]                        |![rs]
 [1394][1394l]|[找出数组中的幸运数][1394]                                |![rs]
 [1395][1395l]|[统计作战单位数][1395]                                    |![rs]
@@ -1810,6 +1811,7 @@
 [1385]:./Easy/1385-Find%20the%20Distance%20Value%20Between%20Two%20Arrays/README_CN.md#1385-两个数组间的距离值
 [1387]:./Medium/1387-Sort%20Integers%20by%20The%20Power%20Value/README_CN.md#1387-将整数按权重排序
 [1389]:./Easy/1389-Create%20Target%20Array%20in%20the%20Given%20Order/README_CN.md#1389-按既定顺序创建目标数组
+[1390]:./Medium/1390-Four%20Divisors/README_CN.md#1390-四因数
 [1391]:./Medium/1391-Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/README_CN.md#1391-检查网格中是否存在有效路径
 [1394]:./Easy/1394-Find%20Lucky%20Integer%20in%20an%20Array/README_CN.md#1394-找出数组中的幸运数
 [1395]:./Medium/1395-Count%20Number%20of%20Teams/README_CN.md#1395-统计作战单位数
@@ -2949,6 +2951,7 @@
 [1385l]:https://leetcode.cn/problems/find-the-distance-value-between-two-arrays/
 [1387l]:https://leetcode.cn/problems/sort-integers-by-the-power-value/
 [1389l]:https://leetcode.cn/problems/create-target-array-in-the-given-order/
+[1390l]:https://leetcode.cn/problems/four-divisors/
 [1391l]:https://leetcode.cn/problems/check-if-there-is-a-valid-path-in-a-grid/
 [1394l]:https://leetcode.cn/problems/find-lucky-integer-in-an-array/
 [1395l]:https://leetcode.cn/problems/count-number-of-teams/

@@ -676,6 +676,7 @@
 [1385][1385l]|[Find the Distance Value Between Two Arrays][1385]                                    |![rs]
 [1387][1387l]|[Sort Integers by The Power Value][1387]                                              |![rs]
 [1389][1389l]|[Create Target Array in the Given Order][1389]                                        |![rb]&nbsp;&nbsp;![rs]
+[1390][1390l]|[Four Divisors][1390]                                                                 |![rs]
 [1391][1391l]|[Check if There is a Valid Path in a Grid][1391]                                      |![rs]
 [1394][1394l]|[Find Lucky Integer in an Array][1394]                                                |![rs]
 [1395][1395l]|[Count Number of Teams][1395]                                                         |![rs]
@@ -1810,6 +1811,7 @@
 [1385]:./Easy/1385-Find%20the%20Distance%20Value%20Between%20Two%20Arrays/README.md#1385-find-the-distance-value-between-two-arrays
 [1387]:./Medium/1387-Sort%20Integers%20by%20The%20Power%20Value/README.md#1387-sort-integers-by-the-power-value
 [1389]:./Easy/1389-Create%20Target%20Array%20in%20the%20Given%20Order/README.md#1389-create-target-array-in-the-given-order
+[1390]:./Medium/1390-Four%20Divisors/README.md#1390-four-divisors
 [1391]:./Medium/1391-Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/README.md#1391-check-if-there-is-a-valid-path-in-a-grid
 [1394]:./Easy/1394-Find%20Lucky%20Integer%20in%20an%20Array/README.md#1394-find-lucky-integer-in-an-array
 [1395]:./Medium/1395-Count%20Number%20of%20Teams/README.md#1395-count-number-of-teams
@@ -2949,6 +2951,7 @@
 [1385l]:https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 [1387l]:https://leetcode.com/problems/sort-integers-by-the-power-value/
 [1389l]:https://leetcode.com/problems/create-target-array-in-the-given-order/
+[1390l]:https://leetcode.com/problems/four-divisors/
 [1391l]:https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
 [1394l]:https://leetcode.com/problems/find-lucky-integer-in-an-array/
 [1395l]:https://leetcode.com/problems/count-number-of-teams/
