@@ -1107,6 +1107,7 @@
 [2443][2443l]|[反转之后的数字和][2443]                                  |![py]
 [2446][2446l]|[判断两个事件是否存在冲突][2446]                          |![py]
 [2453][2453l]|[摧毁一系列目标][2453]                                    |![rs]
+[2455][2455l]|[可被三整除的偶数的平均值][2455]                          |![rs]
 [2465][2465l]|[不同的平均值数目][2465]                                  |![rs]
 [2469][2469l]|[温度转换][2469]                                          |![rs]
 [2482][2482l]|[行和列中一和零的差值][2482]                              |![rs]
@@ -2242,6 +2243,7 @@
 [2443]:./Medium/2443-Sum%20of%20Number%20and%20Its%20Reverse/README_CN.md#2443-反转之后的数字和
 [2446]:./Easy/2446-Determine%20if%20Two%20Events%20Have%20Conflict/README_CN.md#2446-判断两个事件是否存在冲突
 [2453]:./Medium/2453-Destroy%20Sequential%20Targets/README_CN.md#2453-摧毁一系列目标
+[2455]:./Easy/2455-Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three/README_CN.md#2455-可被三整除的偶数的平均值
 [2465]:./Easy/2465-Number%20of%20Distinct%20Averages/README_CN.md#2465-不同的平均值数目
 [2469]:./Easy/2469-Convert%20the%20Temperature/README_CN.md#2469-温度转换
 [2482]:./Medium/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README_CN.md#2482-行和列中一和零的差值
@@ -3382,6 +3384,7 @@
 [2443l]:https://leetcode.cn/problems/sum-of-number-and-its-reverse/
 [2446l]:https://leetcode.cn/problems/determine-if-two-events-have-conflict/
 [2453l]:https://leetcode.cn/problems/destroy-sequential-targets/
+[2455l]:https://leetcode.cn/problems/average-value-of-even-numbers-that-are-divisible-by-three/
 [2465l]:https://leetcode.cn/problems/number-of-distinct-averages/
 [2469l]:https://leetcode.cn/problems/convert-the-temperature/
 [2482l]:https://leetcode.cn/problems/difference-between-ones-and-zeros-in-row-and-column/

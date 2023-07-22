@@ -1107,6 +1107,7 @@
 [2443][2443l]|[Sum of Number and Its Reverse][2443]                                                 |![py]
 [2446][2446l]|[Determine if Two Events Have Conflict][2446]                                         |![py]
 [2453][2453l]|[Destroy Sequential Targets][2453]                                                    |![rs]
+[2455][2455l]|[Average Value of Even Numbers That Are Divisible by Three][2455]                     |![rs]
 [2465][2465l]|[Number of Distinct Averages][2465]                                                   |![rs]
 [2469][2469l]|[Convert the Temperature][2469]                                                       |![rs]
 [2482][2482l]|[Difference Between Ones and Zeros in Row and Column][2482]                           |![rs]
@@ -2242,6 +2243,7 @@
 [2443]:./Medium/2443-Sum%20of%20Number%20and%20Its%20Reverse/README.md#2443-sum-of-number-and-its-reverse
 [2446]:./Easy/2446-Determine%20if%20Two%20Events%20Have%20Conflict/README.md#2446-determine-if-two-events-have-conflict
 [2453]:./Medium/2453-Destroy%20Sequential%20Targets/README.md#2453-destroy-sequential-targets
+[2455]:./Easy/2455-Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three/README.md#2455-average-value-of-even-numbers-that-are-divisible-by-three
 [2465]:./Easy/2465-Number%20of%20Distinct%20Averages/README.md#2465-number-of-distinct-averages
 [2469]:./Easy/2469-Convert%20the%20Temperature/README.md#2469-convert-the-temperature
 [2482]:./Medium/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README.md#2482-difference-between-ones-and-zeros-in-row-and-column
@@ -3382,6 +3384,7 @@
 [2443l]:https://leetcode.com/problems/sum-of-number-and-its-reverse/
 [2446l]:https://leetcode.com/problems/determine-if-two-events-have-conflict/
 [2453l]:https://leetcode.com/problems/destroy-sequential-targets/
+[2455l]:https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/
 [2465l]:https://leetcode.com/problems/number-of-distinct-averages/
 [2469l]:https://leetcode.com/problems/convert-the-temperature/
 [2482l]:https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
