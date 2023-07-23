@@ -947,6 +947,7 @@
 [2073][2073l]|[Time Needed to Buy Tickets][2073]                                                    |![py]
 [2078][2078l]|[Two Furthest Houses With Different Colors][2078]                                     |![rs]
 [2079][2079l]|[Watering Plants][2079]                                                               |![rs]
+[2081][2081l]|[Sum of k-Mirror Numbers][2081]                                                       |![py]
 [2085][2085l]|[Count Common Words With One Occurrence][2085]                                        |![py]
 [2086][2086l]|[Minimum Number of Food Buckets to Feed the Hamsters][2086]                           |![rs]
 [2087][2087l]|[Minimum Cost Homecoming of a Robot in a Grid][2087]                                  |![py]
@@ -2083,6 +2084,7 @@
 [2073]:./Easy/2073-Time%20Needed%20to%20Buy%20Tickets/README.md#2073-time-needed-to-buy-tickets
 [2078]:./Easy/2078-Two%20Furthest%20Houses%20With%20Different%20Colors/README.md#2078-two-furthest-houses-with-different-colors
 [2079]:./Medium/2079-Watering%20Plants/README.md#2079-watering-plants
+[2081]:./Hard/2081-Sum%20of%20k-Mirror%20Numbers/README.md#2081-sum-of-k-mirror-numbers
 [2085]:./Easy/2085-Count%20Common%20Words%20With%20One%20Occurrence/README.md#2085-count-common-words-with-one-occurrence
 [2086]:./Medium/2086-Minimum%20Number%20of%20Food%20Buckets%20to%20Feed%20the%20Hamsters/README.md#2086-minimum-number-of-food-buckets-to-feed-the-hamsters
 [2087]:./Medium/2087-Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid/README.md#2087-minimum-cost-homecoming-of-a-robot-in-a-grid
@@ -3224,6 +3226,7 @@
 [2073l]:https://leetcode.com/problems/time-needed-to-buy-tickets/
 [2078l]:https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 [2079l]:https://leetcode.com/problems/watering-plants/
+[2081l]:https://leetcode.com/problems/sum-of-k-mirror-numbers/
 [2085l]:https://leetcode.com/problems/count-common-words-with-one-occurrence/
 [2086l]:https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/
 [2087l]:https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/

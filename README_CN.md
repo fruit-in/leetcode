@@ -947,6 +947,7 @@
 [2073][2073l]|[买票需要的时间][2073]                                    |![py]
 [2078][2078l]|[两栋颜色不同且距离最远的房子][2078]                      |![rs]
 [2079][2079l]|[给植物浇水][2079]                                        |![rs]
+[2081][2081l]|[k 镜像数字的和][2081]                                    |![py]
 [2085][2085l]|[统计出现过一次的公共字符串][2085]                        |![py]
 [2086][2086l]|[从房屋收集雨水需要的最少水桶数][2086]                    |![rs]
 [2087][2087l]|[网格图中机器人回家的最小代价][2087]                      |![py]
@@ -2083,6 +2084,7 @@
 [2073]:./Easy/2073-Time%20Needed%20to%20Buy%20Tickets/README_CN.md#2073-买票需要的时间
 [2078]:./Easy/2078-Two%20Furthest%20Houses%20With%20Different%20Colors/README_CN.md#2078-两栋颜色不同且距离最远的房子
 [2079]:./Medium/2079-Watering%20Plants/README_CN.md#2079-给植物浇水
+[2081]:./Hard/2081-Sum%20of%20k-Mirror%20Numbers/README_CN.md#2081-k-镜像数字的和
 [2085]:./Easy/2085-Count%20Common%20Words%20With%20One%20Occurrence/README_CN.md#2085-统计出现过一次的公共字符串
 [2086]:./Medium/2086-Minimum%20Number%20of%20Food%20Buckets%20to%20Feed%20the%20Hamsters/README_CN.md#2086-从房屋收集雨水需要的最少水桶数
 [2087]:./Medium/2087-Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid/README_CN.md#2087-网格图中机器人回家的最小代价
@@ -3224,6 +3226,7 @@
 [2073l]:https://leetcode.cn/problems/time-needed-to-buy-tickets/
 [2078l]:https://leetcode.cn/problems/two-furthest-houses-with-different-colors/
 [2079l]:https://leetcode.cn/problems/watering-plants/
+[2081l]:https://leetcode.cn/problems/sum-of-k-mirror-numbers/
 [2085l]:https://leetcode.cn/problems/count-common-words-with-one-occurrence/
 [2086l]:https://leetcode.cn/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/
 [2087l]:https://leetcode.cn/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/
