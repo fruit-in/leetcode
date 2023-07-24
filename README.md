@@ -1115,6 +1115,7 @@
 [2482][2482l]|[Difference Between Ones and Zeros in Row and Column][2482]                           |![rs]
 [2483][2483l]|[Minimum Penalty for a Shop][2483]                                                    |![rs]
 [2490][2490l]|[Circular Sentence][2490]                                                             |![py]
+[2491][2491l]|[Divide Players Into Teams of Equal Skill][2491]                                      |![rs]
 [2496][2496l]|[Maximum Value of a String in an Array][2496]                                         |![rs]
 [2501][2501l]|[Longest Square Streak in an Array][2501]                                             |![rs]
 [2512][2512l]|[Reward Top K Students][2512]                                                         |![py]
@@ -2253,6 +2254,7 @@
 [2482]:Problemset/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README.md#2482-difference-between-ones-and-zeros-in-row-and-column
 [2483]:Problemset/2483-Minimum%20Penalty%20for%20a%20Shop/README.md#2483-minimum-penalty-for-a-shop
 [2490]:Problemset/2490-Circular%20Sentence/README.md#2490-circular-sentence
+[2491]:Problemset/2491-Divide%20Players%20Into%20Teams%20of%20Equal%20Skill/README.md#2491-divide-players-into-teams-of-equal-skill
 [2496]:Problemset/2496-Maximum%20Value%20of%20a%20String%20in%20an%20Array/README.md#2496-maximum-value-of-a-string-in-an-array
 [2501]:Problemset/2501-Longest%20Square%20Streak%20in%20an%20Array/README.md#2501-longest-square-streak-in-an-array
 [2512]:Problemset/2512-Reward%20Top%20K%20Students/README.md#2512-reward-top-k-students
@@ -3396,6 +3398,7 @@
 [2482l]:https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
 [2483l]:https://leetcode.com/problems/minimum-penalty-for-a-shop/
 [2490l]:https://leetcode.com/problems/circular-sentence/
+[2491l]:https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/
 [2496l]:https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 [2501l]:https://leetcode.com/problems/longest-square-streak-in-an-array/
 [2512l]:https://leetcode.com/problems/reward-top-k-students/
