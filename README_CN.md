@@ -977,6 +977,7 @@
 [2130][2130l]|[链表最大孪生和][2130]                                    |![py]
 [2131][2131l]|[连接两字母单词得到的最长回文串][2131]                    |![rs]
 [2133][2133l]|[检查是否每一行每一列都包含全部整数][2133]                |![rs]
+[2134][2134l]|[最少交换次数来组合所有的 1 II][2134]                     |![rs]
 [2138][2138l]|[将字符串拆分为若干长度为 k 的组][2138]                   |![py]
 [2139][2139l]|[得到目标值的最少行动次数][2139]                          |![rs]
 [2144][2144l]|[打折购买糖果的最小开销][2144]                            |![rs]
@@ -2119,6 +2120,7 @@
 [2130]:Problemset/2130-Maximum%20Twin%20Sum%20of%20a%20Linked%20List/README_CN.md#2130-链表最大孪生和
 [2131]:Problemset/2131-Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/README_CN.md#2131-连接两字母单词得到的最长回文串
 [2133]:Problemset/2133-Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers/README_CN.md#2133-检查是否每一行每一列都包含全部整数
+[2134]:Problemset/2134-Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II/README_CN.md#2134-最少交换次数来组合所有的-1-ii
 [2138]:Problemset/2138-Divide%20a%20String%20Into%20Groups%20of%20Size%20k/README_CN.md#2138-将字符串拆分为若干长度为-k-的组
 [2139]:Problemset/2139-Minimum%20Moves%20to%20Reach%20Target%20Score/README_CN.md#2139-得到目标值的最少行动次数
 [2144]:Problemset/2144-Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/README_CN.md#2144-打折购买糖果的最小开销
@@ -3266,6 +3268,7 @@
 [2130l]:https://leetcode.cn/problems/maximum-twin-sum-of-a-linked-list/
 [2131l]:https://leetcode.cn/problems/longest-palindrome-by-concatenating-two-letter-words/
 [2133l]:https://leetcode.cn/problems/check-if-every-row-and-column-contains-all-numbers/
+[2134l]:https://leetcode.cn/problems/minimum-swaps-to-group-all-1s-together-ii/
 [2138l]:https://leetcode.cn/problems/divide-a-string-into-groups-of-size-k/
 [2139l]:https://leetcode.cn/problems/minimum-moves-to-reach-target-score/
 [2144l]:https://leetcode.cn/problems/minimum-cost-of-buying-candies-with-discount/
