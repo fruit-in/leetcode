@@ -1119,6 +1119,7 @@
 [2460][2460l]|[Apply Operations to an Array][2460]                                                  |![rs]
 [2465][2465l]|[Number of Distinct Averages][2465]                                                   |![rs]
 [2469][2469l]|[Convert the Temperature][2469]                                                       |![rs]
+[2475][2475l]|[Number of Unequal Triplets in Array][2475]                                           |![rs]
 [2482][2482l]|[Difference Between Ones and Zeros in Row and Column][2482]                           |![rs]
 [2483][2483l]|[Minimum Penalty for a Shop][2483]                                                    |![rs]
 [2490][2490l]|[Circular Sentence][2490]                                                             |![py]
@@ -2265,6 +2266,7 @@
 [2460]:Problemset/2460-Apply%20Operations%20to%20an%20Array/README.md#2460-apply-operations-to-an-array
 [2465]:Problemset/2465-Number%20of%20Distinct%20Averages/README.md#2465-number-of-distinct-averages
 [2469]:Problemset/2469-Convert%20the%20Temperature/README.md#2469-convert-the-temperature
+[2475]:Problemset/2475-Number%20of%20Unequal%20Triplets%20in%20Array/README.md#2475-number-of-unequal-triplets-in-array
 [2482]:Problemset/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README.md#2482-difference-between-ones-and-zeros-in-row-and-column
 [2483]:Problemset/2483-Minimum%20Penalty%20for%20a%20Shop/README.md#2483-minimum-penalty-for-a-shop
 [2490]:Problemset/2490-Circular%20Sentence/README.md#2490-circular-sentence
@@ -3416,6 +3418,7 @@
 [2460l]:https://leetcode.com/problems/apply-operations-to-an-array/
 [2465l]:https://leetcode.com/problems/number-of-distinct-averages/
 [2469l]:https://leetcode.com/problems/convert-the-temperature/
+[2475l]:https://leetcode.com/problems/number-of-unequal-triplets-in-array/
 [2482l]:https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
 [2483l]:https://leetcode.com/problems/minimum-penalty-for-a-shop/
 [2490l]:https://leetcode.com/problems/circular-sentence/
