@@ -1116,6 +1116,7 @@
 [2451][2451l]|[Odd String Difference][2451]                                                         |![py]
 [2453][2453l]|[Destroy Sequential Targets][2453]                                                    |![rs]
 [2455][2455l]|[Average Value of Even Numbers That Are Divisible by Three][2455]                     |![rs]
+[2457][2457l]|[Minimum Addition to Make Integer Beautiful][2457]                                    |![py]
 [2460][2460l]|[Apply Operations to an Array][2460]                                                  |![rs]
 [2465][2465l]|[Number of Distinct Averages][2465]                                                   |![rs]
 [2469][2469l]|[Convert the Temperature][2469]                                                       |![rs]
@@ -2263,6 +2264,7 @@
 [2451]:Problemset/2451-Odd%20String%20Difference/README.md#2451-odd-string-difference
 [2453]:Problemset/2453-Destroy%20Sequential%20Targets/README.md#2453-destroy-sequential-targets
 [2455]:Problemset/2455-Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three/README.md#2455-average-value-of-even-numbers-that-are-divisible-by-three
+[2457]:Problemset/2457-Minimum%20Addition%20to%20Make%20Integer%20Beautiful/README.md#2457-minimum-addition-to-make-integer-beautiful
 [2460]:Problemset/2460-Apply%20Operations%20to%20an%20Array/README.md#2460-apply-operations-to-an-array
 [2465]:Problemset/2465-Number%20of%20Distinct%20Averages/README.md#2465-number-of-distinct-averages
 [2469]:Problemset/2469-Convert%20the%20Temperature/README.md#2469-convert-the-temperature
@@ -3415,6 +3417,7 @@
 [2451l]:https://leetcode.com/problems/odd-string-difference/
 [2453l]:https://leetcode.com/problems/destroy-sequential-targets/
 [2455l]:https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/
+[2457l]:https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/
 [2460l]:https://leetcode.com/problems/apply-operations-to-an-array/
 [2465l]:https://leetcode.com/problems/number-of-distinct-averages/
 [2469l]:https://leetcode.com/problems/convert-the-temperature/
