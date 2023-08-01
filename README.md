@@ -1021,6 +1021,7 @@
 [2222][2222l]|[Number of Ways to Select Buildings][2222]                                            |![rs]
 [2224][2224l]|[Minimum Number of Operations to Convert Time][2224]                                  |![py]
 [2225][2225l]|[Find Players With Zero or One Losses][2225]                                          |![py]
+[2226][2226l]|[Maximum Candies Allocated to K Children][2226]                                       |![rs]
 [2231][2231l]|[Largest Number After Digit Swaps by Parity][2231]                                    |![rs]
 [2232][2232l]|[Minimize Result by Adding Parentheses to Expression][2232]                           |![py]
 [2235][2235l]|[Add Two Integers][2235]                                                              |![py]&nbsp;&nbsp;![rs]
@@ -2169,6 +2170,7 @@
 [2222]:Problemset/2222-Number%20of%20Ways%20to%20Select%20Buildings/README.md#2222-number-of-ways-to-select-buildings
 [2224]:Problemset/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README.md#2224-minimum-number-of-operations-to-convert-time
 [2225]:Problemset/2225-Find%20Players%20With%20Zero%20or%20One%20Losses/README.md#2225-find-players-with-zero-or-one-losses
+[2226]:Problemset/2226-Maximum%20Candies%20Allocated%20to%20K%20Children/README.md#2226-maximum-candies-allocated-to-k-children
 [2231]:Problemset/2231-Largest%20Number%20After%20Digit%20Swaps%20by%20Parity/README.md#2231-largest-number-after-digit-swaps-by-parity
 [2232]:Problemset/2232-Minimize%20Result%20by%20Adding%20Parentheses%20to%20Expression/README.md#2232-minimize-result-by-adding-parentheses-to-expression
 [2235]:Problemset/2235-Add%20Two%20Integers/README.md#2235-add-two-integers
@@ -3322,6 +3324,7 @@
 [2222l]:https://leetcode.com/problems/number-of-ways-to-select-buildings/
 [2224l]:https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 [2225l]:https://leetcode.com/problems/find-players-with-zero-or-one-losses/
+[2226l]:https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
 [2231l]:https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
 [2232l]:https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/
 [2235l]:https://leetcode.com/problems/add-two-integers/

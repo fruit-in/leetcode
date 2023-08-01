@@ -1021,6 +1021,7 @@
 [2222][2222l]|[选择建筑的方案数][2222]                                  |![rs]
 [2224][2224l]|[转化时间需要的最少操作数][2224]                          |![py]
 [2225][2225l]|[找出输掉零场或一场比赛的玩家][2225]                      |![py]
+[2226][2226l]|[每个小孩最多能分到多少糖果][2226]                        |![rs]
 [2231][2231l]|[按奇偶性交换后的最大数字][2231]                          |![rs]
 [2232][2232l]|[向表达式添加括号后的最小结果][2232]                      |![py]
 [2235][2235l]|[两整数相加][2235]                                        |![py]&nbsp;&nbsp;![rs]
@@ -2169,6 +2170,7 @@
 [2222]:Problemset/2222-Number%20of%20Ways%20to%20Select%20Buildings/README_CN.md#2222-选择建筑的方案数
 [2224]:Problemset/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README_CN.md#2224-转化时间需要的最少操作数
 [2225]:Problemset/2225-Find%20Players%20With%20Zero%20or%20One%20Losses/README_CN.md#2225-找出输掉零场或一场比赛的玩家
+[2226]:Problemset/2226-Maximum%20Candies%20Allocated%20to%20K%20Children/README_CN.md#2226-每个小孩最多能分到多少糖果
 [2231]:Problemset/2231-Largest%20Number%20After%20Digit%20Swaps%20by%20Parity/README_CN.md#2231-按奇偶性交换后的最大数字
 [2232]:Problemset/2232-Minimize%20Result%20by%20Adding%20Parentheses%20to%20Expression/README_CN.md#2232-向表达式添加括号后的最小结果
 [2235]:Problemset/2235-Add%20Two%20Integers/README_CN.md#2235-两整数相加
@@ -3322,6 +3324,7 @@
 [2222l]:https://leetcode.cn/problems/number-of-ways-to-select-buildings/
 [2224l]:https://leetcode.cn/problems/minimum-number-of-operations-to-convert-time/
 [2225l]:https://leetcode.cn/problems/find-players-with-zero-or-one-losses/
+[2226l]:https://leetcode.cn/problems/maximum-candies-allocated-to-k-children/
 [2231l]:https://leetcode.cn/problems/largest-number-after-digit-swaps-by-parity/
 [2232l]:https://leetcode.cn/problems/minimize-result-by-adding-parentheses-to-expression/
 [2235l]:https://leetcode.cn/problems/add-two-integers/
