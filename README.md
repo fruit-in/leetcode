@@ -1128,6 +1128,7 @@
 [2491][2491l]|[Divide Players Into Teams of Equal Skill][2491]                                      |![rs]
 [2496][2496l]|[Maximum Value of a String in an Array][2496]                                         |![rs]
 [2501][2501l]|[Longest Square Streak in an Array][2501]                                             |![rs]
+[2502][2502l]|[Design Memory Allocator][2502]                                                       |![rs]
 [2512][2512l]|[Reward Top K Students][2512]                                                         |![py]
 [2520][2520l]|[Count the Digits That Divide a Number][2520]                                         |![rs]
 [2525][2525l]|[Categorize Box According to Criteria][2525]                                          |![rs]
@@ -2277,6 +2278,7 @@
 [2491]:Problemset/2491-Divide%20Players%20Into%20Teams%20of%20Equal%20Skill/README.md#2491-divide-players-into-teams-of-equal-skill
 [2496]:Problemset/2496-Maximum%20Value%20of%20a%20String%20in%20an%20Array/README.md#2496-maximum-value-of-a-string-in-an-array
 [2501]:Problemset/2501-Longest%20Square%20Streak%20in%20an%20Array/README.md#2501-longest-square-streak-in-an-array
+[2502]:Problemset/2502-Design%20Memory%20Allocator/README.md#2502-design-memory-allocator
 [2512]:Problemset/2512-Reward%20Top%20K%20Students/README.md#2512-reward-top-k-students
 [2520]:Problemset/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README.md#2520-count-the-digits-that-divide-a-number
 [2525]:Problemset/2525-Categorize%20Box%20According%20to%20Criteria/README.md#2525-categorize-box-according-to-criteria
@@ -3431,6 +3433,7 @@
 [2491l]:https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/
 [2496l]:https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 [2501l]:https://leetcode.com/problems/longest-square-streak-in-an-array/
+[2502l]:https://leetcode.com/problems/design-memory-allocator/
 [2512l]:https://leetcode.com/problems/reward-top-k-students/
 [2520l]:https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 [2525l]:https://leetcode.com/problems/categorize-box-according-to-criteria/
