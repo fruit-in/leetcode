@@ -930,6 +930,7 @@
 [2027][2027l]|[转换字符串的最少操作次数][2027]                          |![rs]
 [2028][2028l]|[找出缺失的观测数据][2028]                                |![rs]
 [2032][2032l]|[至少在两个数组中出现的值][2032]                          |![py]
+[2034][2034l]|[股票价格波动][2034]                                      |![rs]
 [2037][2037l]|[使每位学生都有座位的最少移动次数][2037]                  |![rs]
 [2038][2038l]|[如果相邻两个颜色均相同则删除当前颜色][2038]              |![rs]
 [2042][2042l]|[检查句子中的数字是否递增][2042]                          |![py]
@@ -2081,6 +2082,7 @@
 [2027]:Problemset/2027-Minimum%20Moves%20to%20Convert%20String/README_CN.md#2027-转换字符串的最少操作次数
 [2028]:Problemset/2028-Find%20Missing%20Observations/README_CN.md#2028-找出缺失的观测数据
 [2032]:Problemset/2032-Two%20Out%20of%20Three/README_CN.md#2032-至少在两个数组中出现的值
+[2034]:Problemset/2034-Stock%20Price%20Fluctuation/README_CN.md#2034-股票价格波动
 [2037]:Problemset/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README_CN.md#2037-使每位学生都有座位的最少移动次数
 [2038]:Problemset/2038-Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/README_CN.md#2038-如果相邻两个颜色均相同则删除当前颜色
 [2042]:Problemset/2042-Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/README_CN.md#2042-检查句子中的数字是否递增
@@ -3237,6 +3239,7 @@
 [2027l]:https://leetcode.cn/problems/minimum-moves-to-convert-string/
 [2028l]:https://leetcode.cn/problems/find-missing-observations/
 [2032l]:https://leetcode.cn/problems/two-out-of-three/
+[2034l]:https://leetcode.cn/problems/stock-price-fluctuation/
 [2037l]:https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone/
 [2038l]:https://leetcode.cn/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
 [2042l]:https://leetcode.cn/problems/check-if-numbers-are-ascending-in-a-sentence/
