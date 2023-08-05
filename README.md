@@ -839,6 +839,7 @@
 [1758][1758l]|[Minimum Changes To Make Alternating Binary String][1758]                             |![rb]&nbsp;&nbsp;![rs]
 [1759][1759l]|[Count Number of Homogenous Substrings][1759]                                         |![rs]
 [1763][1763l]|[Longest Nice Substring][1763]                                                        |![rb]&nbsp;&nbsp;![rs]
+[1764][1764l]|[Form Array by Concatenating Subarrays of Another Array][1764]                        |![rs]
 [1768][1768l]|[Merge Strings Alternately][1768]                                                     |![rs]
 [1769][1769l]|[Minimum Number of Operations to Move All Balls to Each Box][1769]                    |![rs]
 [1773][1773l]|[Count Items Matching a Rule][1773]                                                   |![rs]
@@ -1991,6 +1992,7 @@
 [1758]:Problemset/1758-Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/README.md#1758-minimum-changes-to-make-alternating-binary-string
 [1759]:Problemset/1759-Count%20Number%20of%20Homogenous%20Substrings/README.md#1759-count-number-of-homogenous-substrings
 [1763]:Problemset/1763-Longest%20Nice%20Substring/README.md#1763-longest-nice-substring
+[1764]:Problemset/1764-Form%20Array%20by%20Concatenating%20Subarrays%20of%20Another%20Array/README.md#1764-form-array-by-concatenating-subarrays-of-another-array
 [1768]:Problemset/1768-Merge%20Strings%20Alternately/README.md#1768-merge-strings-alternately
 [1769]:Problemset/1769-Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box/README.md#1769-minimum-number-of-operations-to-move-all-balls-to-each-box
 [1773]:Problemset/1773-Count%20Items%20Matching%20a%20Rule/README.md#1773-count-items-matching-a-rule
@@ -3148,6 +3150,7 @@
 [1758l]:https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
 [1759l]:https://leetcode.com/problems/count-number-of-homogenous-substrings/
 [1763l]:https://leetcode.com/problems/longest-nice-substring/
+[1764l]:https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/
 [1768l]:https://leetcode.com/problems/merge-strings-alternately/
 [1769l]:https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
 [1773l]:https://leetcode.com/problems/count-items-matching-a-rule/

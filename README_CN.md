@@ -839,6 +839,7 @@
 [1758][1758l]|[生成交替二进制字符串的最少操作数][1758]                  |![rb]&nbsp;&nbsp;![rs]
 [1759][1759l]|[统计同质子字符串的数目][1759]                            |![rs]
 [1763][1763l]|[最长的美好子字符串][1763]                                |![rb]&nbsp;&nbsp;![rs]
+[1764][1764l]|[通过连接另一个数组的子数组得到一个数组][1764]            |![rs]
 [1768][1768l]|[交替合并字符串][1768]                                    |![rs]
 [1769][1769l]|[移动所有球到每个盒子所需的最小操作数][1769]              |![rs]
 [1773][1773l]|[统计匹配检索规则的物品数量][1773]                        |![rs]
@@ -1991,6 +1992,7 @@
 [1758]:Problemset/1758-Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/README_CN.md#1758-生成交替二进制字符串的最少操作数
 [1759]:Problemset/1759-Count%20Number%20of%20Homogenous%20Substrings/README_CN.md#1759-统计同质子字符串的数目
 [1763]:Problemset/1763-Longest%20Nice%20Substring/README_CN.md#1763-最长的美好子字符串
+[1764]:Problemset/1764-Form%20Array%20by%20Concatenating%20Subarrays%20of%20Another%20Array/README_CN.md#1764-通过连接另一个数组的子数组得到一个数组
 [1768]:Problemset/1768-Merge%20Strings%20Alternately/README_CN.md#1768-交替合并字符串
 [1769]:Problemset/1769-Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box/README_CN.md#1769-移动所有球到每个盒子所需的最小操作数
 [1773]:Problemset/1773-Count%20Items%20Matching%20a%20Rule/README_CN.md#1773-统计匹配检索规则的物品数量
@@ -3148,6 +3150,7 @@
 [1758l]:https://leetcode.cn/problems/minimum-changes-to-make-alternating-binary-string/
 [1759l]:https://leetcode.cn/problems/count-number-of-homogenous-substrings/
 [1763l]:https://leetcode.cn/problems/longest-nice-substring/
+[1764l]:https://leetcode.cn/problems/form-array-by-concatenating-subarrays-of-another-array/
 [1768l]:https://leetcode.cn/problems/merge-strings-alternately/
 [1769l]:https://leetcode.cn/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
 [1773l]:https://leetcode.cn/problems/count-items-matching-a-rule/
