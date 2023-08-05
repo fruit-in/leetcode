@@ -1125,6 +1125,7 @@
 [2465][2465l]|[不同的平均值数目][2465]                                  |![rs]
 [2469][2469l]|[温度转换][2469]                                          |![rs]
 [2475][2475l]|[数组中不等三元组的数目][2475]                            |![rs]
+[2481][2481l]|[分割圆的最少切割次数][2481]                              |![rs]
 [2482][2482l]|[行和列中一和零的差值][2482]                              |![rs]
 [2483][2483l]|[商店的最少代价][2483]                                    |![rs]
 [2490][2490l]|[回环句][2490]                                            |![py]
@@ -2278,6 +2279,7 @@
 [2465]:Problemset/2465-Number%20of%20Distinct%20Averages/README_CN.md#2465-不同的平均值数目
 [2469]:Problemset/2469-Convert%20the%20Temperature/README_CN.md#2469-温度转换
 [2475]:Problemset/2475-Number%20of%20Unequal%20Triplets%20in%20Array/README_CN.md#2475-数组中不等三元组的数目
+[2481]:Problemset/2481-Minimum%20Cuts%20to%20Divide%20a%20Circle/README_CN.md#2481-分割圆的最少切割次数
 [2482]:Problemset/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README_CN.md#2482-行和列中一和零的差值
 [2483]:Problemset/2483-Minimum%20Penalty%20for%20a%20Shop/README_CN.md#2483-商店的最少代价
 [2490]:Problemset/2490-Circular%20Sentence/README_CN.md#2490-回环句
@@ -3436,6 +3438,7 @@
 [2465l]:https://leetcode.cn/problems/number-of-distinct-averages/
 [2469l]:https://leetcode.cn/problems/convert-the-temperature/
 [2475l]:https://leetcode.cn/problems/number-of-unequal-triplets-in-array/
+[2481l]:https://leetcode.cn/problems/minimum-cuts-to-divide-a-circle/
 [2482l]:https://leetcode.cn/problems/difference-between-ones-and-zeros-in-row-and-column/
 [2483l]:https://leetcode.cn/problems/minimum-penalty-for-a-shop/
 [2490l]:https://leetcode.cn/problems/circular-sentence/
