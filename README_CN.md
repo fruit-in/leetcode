@@ -221,6 +221,7 @@
 [404][404l]  |[左叶子之和][404]                                         |![py]
 [405][405l]  |[数字转换为十六进制数][405]                               |![py]
 [409][409l]  |[最长回文串][409]                                         |![rs]
+[410][410l]  |[分割数组的最大值][410]                                   |![rs]
 [412][412l]  |[Fizz Buzz][412]                                          |![py]
 [413][413l]  |[等差数列划分][413]                                       |![rb]&nbsp;&nbsp;![rs]
 [414][414l]  |[第三大的数][414]                                         |![rs]
@@ -1375,6 +1376,7 @@
 [404]:Problemset/0404-Sum%20of%20Left%20Leaves/README_CN.md#404-左叶子之和
 [405]:Problemset/0405-Convert%20a%20Number%20to%20Hexadecimal/README_CN.md#405-数字转换为十六进制数
 [409]:Problemset/0409-Longest%20Palindrome/README_CN.md#409-最长回文串
+[410]:Problemset/0410-Split%20Array%20Largest%20Sum/README_CN.md#410-分割数组的最大值
 [412]:Problemset/0412-Fizz%20Buzz/README_CN.md#412-fizz-buzz
 [413]:Problemset/0413-Arithmetic%20Slices/README_CN.md#413-等差数列划分
 [414]:Problemset/0414-Third%20Maximum%20Number/README_CN.md#414-第三大的数
@@ -2530,6 +2532,7 @@
 [404l]:https://leetcode.cn/problems/sum-of-left-leaves/
 [405l]:https://leetcode.cn/problems/convert-a-number-to-hexadecimal/
 [409l]:https://leetcode.cn/problems/longest-palindrome/
+[410l]:https://leetcode.cn/problems/split-array-largest-sum/
 [412l]:https://leetcode.cn/problems/fizz-buzz/
 [413l]:https://leetcode.cn/problems/arithmetic-slices/
 [414l]:https://leetcode.cn/problems/third-maximum-number/
