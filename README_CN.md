@@ -1017,6 +1017,7 @@
 [2206][2206l]|[将数组划分成相等数对][2206]                              |![rs]
 [2210][2210l]|[统计数组中峰和谷的数量][2210]                            |![py]
 [2211][2211l]|[统计道路上的碰撞次数][2211]                              |![rs]
+[2212][2212l]|[射箭比赛中的最大得分][2212]                              |![rs]
 [2215][2215l]|[找出两数组的不同][2215]                                  |![rs]
 [2217][2217l]|[找到指定长度的回文数][2217]                              |![rs]
 [2220][2220l]|[转换数字的最少位翻转次数][2220]                          |![rs]
@@ -2173,6 +2174,7 @@
 [2206]:Problemset/2206-Divide%20Array%20Into%20Equal%20Pairs/README_CN.md#2206-将数组划分成相等数对
 [2210]:Problemset/2210-Count%20Hills%20and%20Valleys%20in%20an%20Array/README_CN.md#2210-统计数组中峰和谷的数量
 [2211]:Problemset/2211-Count%20Collisions%20on%20a%20Road/README_CN.md#2211-统计道路上的碰撞次数
+[2212]:Problemset/2212-Maximum%20Points%20in%20an%20Archery%20Competition/README_CN.md#2212-射箭比赛中的最大得分
 [2215]:Problemset/2215-Find%20the%20Difference%20of%20Two%20Arrays/README_CN.md#2215-找出两数组的不同
 [2217]:Problemset/2217-Find%20Palindrome%20With%20Fixed%20Length/README_CN.md#2217-找到指定长度的回文数
 [2220]:Problemset/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README_CN.md#2220-转换数字的最少位翻转次数
@@ -3334,6 +3336,7 @@
 [2206l]:https://leetcode.cn/problems/divide-array-into-equal-pairs/
 [2210l]:https://leetcode.cn/problems/count-hills-and-valleys-in-an-array/
 [2211l]:https://leetcode.cn/problems/count-collisions-on-a-road/
+[2212l]:https://leetcode.cn/problems/maximum-points-in-an-archery-competition/
 [2215l]:https://leetcode.cn/problems/find-the-difference-of-two-arrays/
 [2217l]:https://leetcode.cn/problems/find-palindrome-with-fixed-length/
 [2220l]:https://leetcode.cn/problems/minimum-bit-flips-to-convert-number/
