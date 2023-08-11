@@ -1079,6 +1079,7 @@
 [2349][2349l]|[Design a Number Container System][2349]                                              |![rs]
 [2351][2351l]|[First Letter to Appear Twice][2351]                                                  |![rs]
 [2357][2357l]|[Make Array Zero by Subtracting Equal Amounts][2357]                                  |![rs]
+[2358][2358l]|[Maximum Number of Groups Entering a Competition][2358]                               |![rs]
 [2363][2363l]|[Merge Similar Items][2363]                                                           |![rs]
 [2364][2364l]|[Count Number of Bad Pairs][2364]                                                     |![rs]
 [2367][2367l]|[Number of Arithmetic Triplets][2367]                                                 |![rs]
@@ -2239,6 +2240,7 @@
 [2349]:Problemset/2349-Design%20a%20Number%20Container%20System/README.md#2349-design-a-number-container-system
 [2351]:Problemset/2351-First%20Letter%20to%20Appear%20Twice/README.md#2351-first-letter-to-appear-twice
 [2357]:Problemset/2357-Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts/README.md#2357-make-array-zero-by-subtracting-equal-amounts
+[2358]:Problemset/2358-Maximum%20Number%20of%20Groups%20Entering%20a%20Competition/README.md#2358-maximum-number-of-groups-entering-a-competition
 [2363]:Problemset/2363-Merge%20Similar%20Items/README.md#2363-merge-similar-items
 [2364]:Problemset/2364-Count%20Number%20of%20Bad%20Pairs/README.md#2364-count-number-of-bad-pairs
 [2367]:Problemset/2367-Number%20of%20Arithmetic%20Triplets/README.md#2367-number-of-arithmetic-triplets
@@ -3404,6 +3406,7 @@
 [2349l]:https://leetcode.com/problems/design-a-number-container-system/
 [2351l]:https://leetcode.com/problems/first-letter-to-appear-twice/
 [2357l]:https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
+[2358l]:https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
 [2363l]:https://leetcode.com/problems/merge-similar-items/
 [2364l]:https://leetcode.com/problems/count-number-of-bad-pairs/
 [2367l]:https://leetcode.com/problems/number-of-arithmetic-triplets/
