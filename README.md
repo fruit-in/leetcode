@@ -1136,6 +1136,7 @@
 [2490][2490l]|[Circular Sentence][2490]                                                             |![py]
 [2491][2491l]|[Divide Players Into Teams of Equal Skill][2491]                                      |![rs]
 [2496][2496l]|[Maximum Value of a String in an Array][2496]                                         |![rs]
+[2500][2500l]|[Delete Greatest Value in Each Row][2500]                                             |![rs]
 [2501][2501l]|[Longest Square Streak in an Array][2501]                                             |![rs]
 [2502][2502l]|[Design Memory Allocator][2502]                                                       |![rs]
 [2512][2512l]|[Reward Top K Students][2512]                                                         |![py]
@@ -2298,6 +2299,7 @@
 [2490]:Problemset/2490-Circular%20Sentence/README.md#2490-circular-sentence
 [2491]:Problemset/2491-Divide%20Players%20Into%20Teams%20of%20Equal%20Skill/README.md#2491-divide-players-into-teams-of-equal-skill
 [2496]:Problemset/2496-Maximum%20Value%20of%20a%20String%20in%20an%20Array/README.md#2496-maximum-value-of-a-string-in-an-array
+[2500]:Problemset/2500-Delete%20Greatest%20Value%20in%20Each%20Row/README.md#2500-delete-greatest-value-in-each-row
 [2501]:Problemset/2501-Longest%20Square%20Streak%20in%20an%20Array/README.md#2501-longest-square-streak-in-an-array
 [2502]:Problemset/2502-Design%20Memory%20Allocator/README.md#2502-design-memory-allocator
 [2512]:Problemset/2512-Reward%20Top%20K%20Students/README.md#2512-reward-top-k-students
@@ -3465,6 +3467,7 @@
 [2490l]:https://leetcode.com/problems/circular-sentence/
 [2491l]:https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/
 [2496l]:https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
+[2500l]:https://leetcode.com/problems/delete-greatest-value-in-each-row/
 [2501l]:https://leetcode.com/problems/longest-square-streak-in-an-array/
 [2502l]:https://leetcode.com/problems/design-memory-allocator/
 [2512l]:https://leetcode.com/problems/reward-top-k-students/
