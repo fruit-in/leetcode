@@ -909,6 +909,7 @@
 [1957][1957l]|[删除字符使字符串变好][1957]                              |![py]
 [1961][1961l]|[检查字符串是否为数组前缀][1961]                          |![py]
 [1962][1962l]|[移除石子使总数最小][1962]                                |![rs]
+[1963][1963l]|[使字符串平衡的最小交换次数][1963]                        |![rs]
 [1967][1967l]|[作为子字符串出现在单词中的字符串数目][1967]              |![py]
 [1968][1968l]|[构造元素不等于两相邻元素平均值的数组][1968]              |![rs]
 [1971][1971l]|[寻找图中是否存在路径][1971]                              |![py]
@@ -2070,6 +2071,7 @@
 [1957]:Problemset/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README_CN.md#1957-删除字符使字符串变好
 [1961]:Problemset/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README_CN.md#1961-检查字符串是否为数组前缀
 [1962]:Problemset/1962-Remove%20Stones%20to%20Minimize%20the%20Total/README_CN.md#1962-移除石子使总数最小
+[1963]:Problemset/1963-Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced/README_CN.md#1963-使字符串平衡的最小交换次数
 [1967]:Problemset/1967-Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/README_CN.md#1967-作为子字符串出现在单词中的字符串数目
 [1968]:Problemset/1968-Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors/README_CN.md#1968-构造元素不等于两相邻元素平均值的数组
 [1971]:Problemset/1971-Find%20if%20Path%20Exists%20in%20Graph/README_CN.md#1971-寻找图中是否存在路径
@@ -3236,6 +3238,7 @@
 [1957l]:https://leetcode.cn/problems/delete-characters-to-make-fancy-string/
 [1961l]:https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array/
 [1962l]:https://leetcode.cn/problems/remove-stones-to-minimize-the-total/
+[1963l]:https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 [1967l]:https://leetcode.cn/problems/number-of-strings-that-appear-as-substrings-in-word/
 [1968l]:https://leetcode.cn/problems/array-with-elements-not-equal-to-average-of-neighbors/
 [1971l]:https://leetcode.cn/problems/find-if-path-exists-in-graph/
