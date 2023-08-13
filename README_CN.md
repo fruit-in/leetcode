@@ -698,6 +698,7 @@
 [1415][1415l]|[长度为 n 的开心字符串中字典序第 k 小的字符串][1415]      |![py]&nbsp;&nbsp;![rb]
 [1417][1417l]|[重新格式化字符串][1417]                                  |![rs]
 [1419][1419l]|[数青蛙][1419]                                            |![rb]&nbsp;&nbsp;![rs]
+[1420][1420l]|[生成数组][1420]                                          |![rs]
 [1422][1422l]|[分割字符串的最大得分][1422]                              |![rs]
 [1423][1423l]|[可获得的最大点数][1423]                                  |![rs]
 [1424][1424l]|[对角线遍历 II][1424]                                     |![rb]
@@ -1861,6 +1862,7 @@
 [1415]:Problemset/1415-The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/README_CN.md#1415-长度为-n-的开心字符串中字典序第-k-小的字符串
 [1417]:Problemset/1417-Reformat%20The%20String/README_CN.md#1417-重新格式化字符串
 [1419]:Problemset/1419-Minimum%20Number%20of%20Frogs%20Croaking/README_CN.md#1419-数青蛙
+[1420]:Problemset/1420-Build%20Array%20Where%20You%20Can%20Find%20The%20Maximum%20Exactly%20K%20Comparisons/README_CN.md#1420-生成数组
 [1422]:Problemset/1422-Maximum%20Score%20After%20Splitting%20a%20String/README_CN.md#1422-分割字符串的最大得分
 [1423]:Problemset/1423-Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/README_CN.md#1423-可获得的最大点数
 [1424]:Problemset/1424-Diagonal%20Traverse%20II/README_CN.md#1424-对角线遍历-ii
@@ -3029,6 +3031,7 @@
 [1415l]:https://leetcode.cn/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 [1417l]:https://leetcode.cn/problems/reformat-the-string/
 [1419l]:https://leetcode.cn/problems/minimum-number-of-frogs-croaking/
+[1420l]:https://leetcode.cn/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/
 [1422l]:https://leetcode.cn/problems/maximum-score-after-splitting-a-string/
 [1423l]:https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/
 [1424l]:https://leetcode.cn/problems/diagonal-traverse-ii/
