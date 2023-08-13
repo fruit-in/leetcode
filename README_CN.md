@@ -1140,6 +1140,7 @@
 [2500][2500l]|[删除每行中的最大值][2500]                                |![rs]
 [2501][2501l]|[数组中最长的方波][2501]                                  |![rs]
 [2502][2502l]|[设计内存分配器][2502]                                    |![rs]
+[2506][2506l]|[统计相似字符串对的数目][2506]                            |![rs]
 [2512][2512l]|[奖励最顶尖的 K 名学生][2512]                             |![py]
 [2520][2520l]|[统计能整除数字的位数][2520]                              |![rs]
 [2525][2525l]|[根据规则将箱子分类][2525]                                |![rs]
@@ -2304,6 +2305,7 @@
 [2500]:Problemset/2500-Delete%20Greatest%20Value%20in%20Each%20Row/README_CN.md#2500-删除每行中的最大值
 [2501]:Problemset/2501-Longest%20Square%20Streak%20in%20an%20Array/README_CN.md#2501-数组中最长的方波
 [2502]:Problemset/2502-Design%20Memory%20Allocator/README_CN.md#2502-设计内存分配器
+[2506]:Problemset/2506-Count%20Pairs%20Of%20Similar%20Strings/README_CN.md#2506-统计相似字符串对的数目
 [2512]:Problemset/2512-Reward%20Top%20K%20Students/README_CN.md#2512-奖励最顶尖的-k-名学生
 [2520]:Problemset/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README_CN.md#2520-统计能整除数字的位数
 [2525]:Problemset/2525-Categorize%20Box%20According%20to%20Criteria/README_CN.md#2525-根据规则将箱子分类
@@ -3473,6 +3475,7 @@
 [2500l]:https://leetcode.cn/problems/delete-greatest-value-in-each-row/
 [2501l]:https://leetcode.cn/problems/longest-square-streak-in-an-array/
 [2502l]:https://leetcode.cn/problems/design-memory-allocator/
+[2506l]:https://leetcode.cn/problems/count-pairs-of-similar-strings/
 [2512l]:https://leetcode.cn/problems/reward-top-k-students/
 [2520l]:https://leetcode.cn/problems/count-the-digits-that-divide-a-number/
 [2525l]:https://leetcode.cn/problems/categorize-box-according-to-criteria/
