@@ -544,6 +544,7 @@
 [1033][1033l]|[Moving Stones Until Consecutive][1033]                                               |![rb]&nbsp;&nbsp;![rs]
 [1037][1037l]|[Valid Boomerang][1037]                                                               |![rs]
 [1038][1038l]|[Binary Search Tree to Greater Sum Tree][1038]                                        |![py]
+[1040][1040l]|[Moving Stones Until Consecutive II][1040]                                            |![rs]
 [1041][1041l]|[Robot Bounded In Circle][1041]                                                       |![rs]
 [1042][1042l]|[Flower Planting With No Adjacent][1042]                                              |![rs]
 [1046][1046l]|[Last Stone Weight][1046]                                                             |![py]
@@ -1709,6 +1710,7 @@
 [1033]:Problemset/1033-Moving%20Stones%20Until%20Consecutive/README.md#1033-moving-stones-until-consecutive
 [1037]:Problemset/1037-Valid%20Boomerang/README.md#1037-valid-boomerang
 [1038]:Problemset/1038-Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree/README.md#1038-binary-search-tree-to-greater-sum-tree
+[1040]:Problemset/1040-Moving%20Stones%20Until%20Consecutive%20II/README.md#1040-moving-stones-until-consecutive-ii
 [1041]:Problemset/1041-Robot%20Bounded%20In%20Circle/README.md#1041-robot-bounded-in-circle
 [1042]:Problemset/1042-Flower%20Planting%20With%20No%20Adjacent/README.md#1042-flower-planting-with-no-adjacent
 [1046]:Problemset/1046-Last%20Stone%20Weight/README.md#1046-last-stone-weight
@@ -2879,6 +2881,7 @@
 [1033l]:https://leetcode.com/problems/moving-stones-until-consecutive/
 [1037l]:https://leetcode.com/problems/valid-boomerang/
 [1038l]:https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+[1040l]:https://leetcode.com/problems/moving-stones-until-consecutive-ii/
 [1041l]:https://leetcode.com/problems/robot-bounded-in-circle/
 [1042l]:https://leetcode.com/problems/flower-planting-with-no-adjacent/
 [1046l]:https://leetcode.com/problems/last-stone-weight/

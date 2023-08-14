@@ -544,6 +544,7 @@
 [1033][1033l]|[移动石子直到连续][1033]                                  |![rb]&nbsp;&nbsp;![rs]
 [1037][1037l]|[有效的回旋镖][1037]                                      |![rs]
 [1038][1038l]|[从二叉搜索树到更大和树][1038]                            |![py]
+[1040][1040l]|[移动石子直到连续 II][1040]                               |![rs]
 [1041][1041l]|[困于环中的机器人][1041]                                  |![rs]
 [1042][1042l]|[不邻接植花][1042]                                        |![rs]
 [1046][1046l]|[最后一块石头的重量][1046]                                |![py]
@@ -1709,6 +1710,7 @@
 [1033]:Problemset/1033-Moving%20Stones%20Until%20Consecutive/README_CN.md#1033-移动石子直到连续
 [1037]:Problemset/1037-Valid%20Boomerang/README_CN.md#1037-有效的回旋镖
 [1038]:Problemset/1038-Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree/README_CN.md#1038-从二叉搜索树到更大和树
+[1040]:Problemset/1040-Moving%20Stones%20Until%20Consecutive%20II/README_CN.md#1040-移动石子直到连续-ii
 [1041]:Problemset/1041-Robot%20Bounded%20In%20Circle/README_CN.md#1041-困于环中的机器人
 [1042]:Problemset/1042-Flower%20Planting%20With%20No%20Adjacent/README_CN.md#1042-不邻接植花
 [1046]:Problemset/1046-Last%20Stone%20Weight/README_CN.md#1046-最后一块石头的重量
@@ -2879,6 +2881,7 @@
 [1033l]:https://leetcode.cn/problems/moving-stones-until-consecutive/
 [1037l]:https://leetcode.cn/problems/valid-boomerang/
 [1038l]:https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/
+[1040l]:https://leetcode.cn/problems/moving-stones-until-consecutive-ii/
 [1041l]:https://leetcode.cn/problems/robot-bounded-in-circle/
 [1042l]:https://leetcode.cn/problems/flower-planting-with-no-adjacent/
 [1046l]:https://leetcode.cn/problems/last-stone-weight/
