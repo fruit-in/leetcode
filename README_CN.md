@@ -300,6 +300,7 @@
 [543][543l]  |[二叉树的直径][543]                                       |![py]
 [547][547l]  |[省份数量][547]                                           |![rb]&nbsp;&nbsp;![rs]
 [551][551l]  |[学生出勤记录 I][551]                                     |![py]
+[553][553l]  |[最优除法][553]                                           |![py]
 [554][554l]  |[砖墙][554]                                               |![rs]
 [557][557l]  |[反转字符串中的单词 III][557]                             |![py]&nbsp;&nbsp;![rb]
 [558][558l]  |[四叉树交集][558]                                         |![py]
@@ -1466,6 +1467,7 @@
 [543]:Problemset/0543-Diameter%20of%20Binary%20Tree/README_CN.md#543-二叉树的直径
 [547]:Problemset/0547-Number%20of%20Provinces/README_CN.md#547-省份数量
 [551]:Problemset/0551-Student%20Attendance%20Record%20I/README_CN.md#551-学生出勤记录-i
+[553]:Problemset/0553-Optimal%20Division/README_CN.md#553-最优除法
 [554]:Problemset/0554-Brick%20Wall/README_CN.md#554-砖墙
 [557]:Problemset/0557-Reverse%20Words%20in%20a%20String%20III/README_CN.md#557-反转字符串中的单词-iii
 [558]:Problemset/0558-Quad%20Tree%20Intersection/README_CN.md#558-四叉树交集
@@ -2634,6 +2636,7 @@
 [543l]:https://leetcode.cn/problems/diameter-of-binary-tree/
 [547l]:https://leetcode.cn/problems/number-of-provinces/
 [551l]:https://leetcode.cn/problems/student-attendance-record-i/
+[553l]:https://leetcode.cn/problems/optimal-division/
 [554l]:https://leetcode.cn/problems/brick-wall/
 [557l]:https://leetcode.cn/problems/reverse-words-in-a-string-iii/
 [558l]:https://leetcode.cn/problems/quad-tree-intersection/
