@@ -463,6 +463,7 @@
 [897][897l]  |[递增顺序查找树][897]                                     |![py]
 [900][900l]  |[RLE 迭代器][900]                                         |![rs]
 [901][901l]  |[股票价格跨度][901]                                       |![rs]
+[904][904l]  |[水果成篮][904]                                           |![rs]
 [905][905l]  |[按奇偶排序数组][905]                                     |![rs]
 [908][908l]  |[最小差值 I][908]                                         |![rs]
 [911][911l]  |[在线选举][911]                                           |![rs]
@@ -1630,6 +1631,7 @@
 [897]:Problemset/0897-Increasing%20Order%20Search%20Tree/README_CN.md#897-递增顺序查找树
 [900]:Problemset/0900-RLE%20Iterator/README_CN.md#900-rle-迭代器
 [901]:Problemset/0901-Online%20Stock%20Span/README_CN.md#901-股票价格跨度
+[904]:Problemset/0904-Fruit%20Into%20Baskets/README_CN.md#904-水果成篮
 [905]:Problemset/0905-Sort%20Array%20By%20Parity/README_CN.md#905-按奇偶排序数组
 [908]:Problemset/0908-Smallest%20Range%20I/README_CN.md#908-最小差值-i
 [911]:Problemset/0911-Online%20Election/README_CN.md#911-在线选举
@@ -2802,6 +2804,7 @@
 [897l]:https://leetcode.cn/problems/increasing-order-search-tree/
 [900l]:https://leetcode.cn/problems/rle-iterator/
 [901l]:https://leetcode.cn/problems/online-stock-span/
+[904l]:https://leetcode.cn/problems/fruit-into-baskets/
 [905l]:https://leetcode.cn/problems/sort-array-by-parity/
 [908l]:https://leetcode.cn/problems/smallest-range-i/
 [911l]:https://leetcode.cn/problems/online-election/
