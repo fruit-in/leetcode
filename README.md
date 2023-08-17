@@ -346,6 +346,7 @@
 [669][669l]  |[Trim a Binary Search Tree][669]                                                      |![py]
 [670][670l]  |[Maximum Swap][670]                                                                   |![rs]
 [671][671l]  |[Second Minimum Node In a Binary Tree][671]                                           |![py]
+[672][672l]  |[Bulb Switcher II][672]                                                               |![rs]
 [674][674l]  |[Longest Continuous Increasing Subsequence][674]                                      |![rs]
 [680][680l]  |[Valid Palindrome II][680]                                                            |![py]
 [682][682l]  |[Baseball Game][682]                                                                  |![py]
@@ -1514,6 +1515,7 @@
 [669]:Problemset/0669-Trim%20a%20Binary%20Search%20Tree/README.md#669-trim-a-binary-search-tree
 [670]:Problemset/0670-Maximum%20Swap/README.md#670-maximum-swap
 [671]:Problemset/0671-Second%20Minimum%20Node%20In%20a%20Binary%20Tree/README.md#671-second-minimum-node-in-a-binary-tree
+[672]:Problemset/0672-Bulb%20Switcher%20II/README.md#672-bulb-switcher-ii
 [674]:Problemset/0674-Longest%20Continuous%20Increasing%20Subsequence/README.md#674-longest-continuous-increasing-subsequence
 [680]:Problemset/0680-Valid%20Palindrome%20II/README.md#680-valid-palindrome-ii
 [682]:Problemset/0682-Baseball%20Game/README.md#682-baseball-game
@@ -2686,6 +2688,7 @@
 [669l]:https://leetcode.com/problems/trim-a-binary-search-tree/
 [670l]:https://leetcode.com/problems/maximum-swap/
 [671l]:https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
+[672l]:https://leetcode.com/problems/bulb-switcher-ii/
 [674l]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 [677l]:https://leetcode.com/problems/map-sum-pairs/
 [680l]:https://leetcode.com/problems/valid-palindrome-ii/
