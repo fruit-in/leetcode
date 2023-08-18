@@ -859,6 +859,7 @@
 [1796][1796l]|[Second Largest Digit in a String][1796]                                              |![rs]
 [1800][1800l]|[Maximum Ascending Subarray Sum][1800]                                                |![rb]&nbsp;&nbsp;![rs]
 [1805][1805l]|[Number of Different Integers in a String][1805]                                      |![rs]
+[1807][1807l]|[Evaluate the Bracket Pairs of a String][1807]                                        |![py]
 [1812][1812l]|[Determine Color of a Chessboard Square][1812]                                        |![py]&nbsp;&nbsp;![rb]
 [1813][1813l]|[Sentence Similarity III][1813]                                                       |![rs]
 [1814][1814l]|[Count Nice Pairs in an Array][1814]                                                  |![rs]
@@ -2028,6 +2029,7 @@
 [1796]:Problemset/1796-Second%20Largest%20Digit%20in%20a%20String/README.md#1796-second-largest-digit-in-a-string
 [1800]:Problemset/1800-Maximum%20Ascending%20Subarray%20Sum/README.md#1800-maximum-ascending-subarray-sum
 [1805]:Problemset/1805-Number%20of%20Different%20Integers%20in%20a%20String/README.md#1805-number-of-different-integers-in-a-string
+[1807]:Problemset/1807-Evaluate%20the%20Bracket%20Pairs%20of%20a%20String/README.md#1807-evaluate-the-bracket-pairs-of-a-string
 [1812]:Problemset/1812-Determine%20Color%20of%20a%20Chessboard%20Square/README.md#1812-determine-color-of-a-chessboard-square
 [1813]:Problemset/1813-Sentence%20Similarity%20III/README.md#1813-sentence-similarity-iii
 [1814]:Problemset/1814-Count%20Nice%20Pairs%20in%20an%20Array/README.md#1814-count-nice-pairs-in-an-array
@@ -3202,6 +3204,7 @@
 [1796l]:https://leetcode.com/problems/second-largest-digit-in-a-string/
 [1800l]:https://leetcode.com/problems/maximum-ascending-subarray-sum/
 [1805l]:https://leetcode.com/problems/number-of-different-integers-in-a-string/
+[1807l]:https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
 [1812l]:https://leetcode.com/problems/determine-color-of-a-chessboard-square/
 [1813l]:https://leetcode.com/problems/sentence-similarity-iii/
 [1814l]:https://leetcode.com/problems/count-nice-pairs-in-an-array/
