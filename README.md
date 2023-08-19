@@ -1147,6 +1147,7 @@
 [2501][2501l]|[Longest Square Streak in an Array][2501]                                             |![rs]
 [2502][2502l]|[Design Memory Allocator][2502]                                                       |![rs]
 [2506][2506l]|[Count Pairs Of Similar Strings][2506]                                                |![rs]
+[2511][2511l]|[Maximum Enemy Forts That Can Be Captured][2511]                                      |![rs]
 [2512][2512l]|[Reward Top K Students][2512]                                                         |![py]
 [2520][2520l]|[Count the Digits That Divide a Number][2520]                                         |![rs]
 [2525][2525l]|[Categorize Box According to Criteria][2525]                                          |![rs]
@@ -2318,6 +2319,7 @@
 [2501]:Problemset/2501-Longest%20Square%20Streak%20in%20an%20Array/README.md#2501-longest-square-streak-in-an-array
 [2502]:Problemset/2502-Design%20Memory%20Allocator/README.md#2502-design-memory-allocator
 [2506]:Problemset/2506-Count%20Pairs%20Of%20Similar%20Strings/README.md#2506-count-pairs-of-similar-strings
+[2511]:Problemset/2511-Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured/README.md#2511-maximum-enemy-forts-that-can-be-captured
 [2512]:Problemset/2512-Reward%20Top%20K%20Students/README.md#2512-reward-top-k-students
 [2520]:Problemset/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README.md#2520-count-the-digits-that-divide-a-number
 [2525]:Problemset/2525-Categorize%20Box%20According%20to%20Criteria/README.md#2525-categorize-box-according-to-criteria
@@ -3494,6 +3496,7 @@
 [2501l]:https://leetcode.com/problems/longest-square-streak-in-an-array/
 [2502l]:https://leetcode.com/problems/design-memory-allocator/
 [2506l]:https://leetcode.com/problems/count-pairs-of-similar-strings/
+[2511l]:https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/
 [2512l]:https://leetcode.com/problems/reward-top-k-students/
 [2520l]:https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 [2525l]:https://leetcode.com/problems/categorize-box-according-to-criteria/
