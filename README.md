@@ -909,6 +909,7 @@
 [1935][1935l]|[Maximum Number of Words You Can Type][1935]                                          |![py]
 [1941][1941l]|[Check if All Characters Have Equal Number of Occurrences][1941]                      |![rs]
 [1942][1942l]|[The Number of the Smallest Unoccupied Chair][1942]                                   |![rs]
+[1944][1944l]|[Number of Visible People in a Queue][1944]                                           |![rs]
 [1945][1945l]|[Sum of Digits of String After Convert][1945]                                         |![py]
 [1946][1946l]|[Largest Number After Mutating Substring][1946]                                       |![rs]
 [1952][1952l]|[Three Divisors][1952]                                                                |![rs]
@@ -2081,6 +2082,7 @@
 [1935]:Problemset/1935-Maximum%20Number%20of%20Words%20You%20Can%20Type/README.md#1935-maximum-number-of-words-you-can-type
 [1941]:Problemset/1941-Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences/README.md#1941-check-if-all-characters-have-equal-number-of-occurrences
 [1942]:Problemset/1942-The%20Number%20of%20the%20Smallest%20Unoccupied%20Chair/README.md#1942-the-number-of-the-smallest-unoccupied-chair
+[1944]:Problemset/1944-Number%20of%20Visible%20People%20in%20a%20Queue/README.md#1944-number-of-visible-people-in-a-queue
 [1945]:Problemset/1945-Sum%20of%20Digits%20of%20String%20After%20Convert/README.md#1945-sum-of-digits-of-string-after-convert
 [1946]:Problemset/1946-Largest%20Number%20After%20Mutating%20Substring/README.md#1946-largest-number-after-mutating-substring
 [1952]:Problemset/1952-Three%20Divisors/README.md#1952-three-divisors
@@ -3258,6 +3260,7 @@
 [1935l]:https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 [1941l]:https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 [1942l]:https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/
+[1944l]:https://leetcode.com/problems/number-of-visible-people-in-a-queue/
 [1945l]:https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 [1946l]:https://leetcode.com/problems/largest-number-after-mutating-substring/
 [1952l]:https://leetcode.com/problems/three-divisors/
