@@ -1150,6 +1150,7 @@
 [2506][2506l]|[Count Pairs Of Similar Strings][2506]                                                |![rs]
 [2511][2511l]|[Maximum Enemy Forts That Can Be Captured][2511]                                      |![rs]
 [2512][2512l]|[Reward Top K Students][2512]                                                         |![py]
+[2515][2515l]|[Shortest Distance to Target String in a Circular Array][2515]                        |![rs]
 [2520][2520l]|[Count the Digits That Divide a Number][2520]                                         |![rs]
 [2525][2525l]|[Categorize Box According to Criteria][2525]                                          |![rs]
 [2526][2526l]|[Find Consecutive Integers from a Data Stream][2526]                                  |![rs]
@@ -2323,6 +2324,7 @@
 [2506]:Problemset/2506-Count%20Pairs%20Of%20Similar%20Strings/README.md#2506-count-pairs-of-similar-strings
 [2511]:Problemset/2511-Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured/README.md#2511-maximum-enemy-forts-that-can-be-captured
 [2512]:Problemset/2512-Reward%20Top%20K%20Students/README.md#2512-reward-top-k-students
+[2515]:Problemset/2515-Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/README.md#2515-shortest-distance-to-target-string-in-a-circular-array
 [2520]:Problemset/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README.md#2520-count-the-digits-that-divide-a-number
 [2525]:Problemset/2525-Categorize%20Box%20According%20to%20Criteria/README.md#2525-categorize-box-according-to-criteria
 [2526]:Problemset/2526-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream/README.md#2526-find-consecutive-integers-from-a-data-stream
@@ -3501,6 +3503,7 @@
 [2506l]:https://leetcode.com/problems/count-pairs-of-similar-strings/
 [2511l]:https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/
 [2512l]:https://leetcode.com/problems/reward-top-k-students/
+[2515l]:https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 [2520l]:https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 [2525l]:https://leetcode.com/problems/categorize-box-according-to-criteria/
 [2526l]:https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/
