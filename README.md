@@ -371,6 +371,7 @@
 [713][713l]  |[Subarray Product Less Than K][713]                                                   |![rb]&nbsp;&nbsp;![rs]
 [717][717l]  |[1-bit and 2-bit Characters][717]                                                     |![rs]
 [720][720l]  |[Longest Word in Dictionary][720]                                                     |![py]
+[722][722l]  |[Remove Comments][722]                                                                |![py]
 [724][724l]  |[Find Pivot Index][724]                                                               |![rb]&nbsp;&nbsp;![rs]
 [725][725l]  |[Split Linked List in Parts][725]                                                     |![py]
 [728][728l]  |[Self Dividing Numbers][728]                                                          |![py]
@@ -1545,6 +1546,7 @@
 [713]:Problemset/0713-Subarray%20Product%20Less%20Than%20K/README.md#713-subarray-product-less-than-k
 [717]:Problemset/0717-1-bit%20and%202-bit%20Characters/README.md#717-1-bit-and-2-bit-characters
 [720]:Problemset/0720-Longest%20Word%20in%20Dictionary/README.md#720-longest-word-in-dictionary
+[722]:Problemset/0722-Remove%20Comments/README.md#722-remove-comments
 [724]:Problemset/0724-Find%20Pivot%20Index/README.md#724-find-pivot-index
 [725]:Problemset/0725-Split%20Linked%20List%20in%20Parts/README.md#725-split-linked-list-in-parts
 [728]:Problemset/0728-Self%20Dividing%20Numbers/README.md#728-self-dividing-numbers
@@ -2724,6 +2726,7 @@
 [713l]:https://leetcode.com/problems/subarray-product-less-than-k/
 [717l]:https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [720l]:https://leetcode.com/problems/longest-word-in-dictionary/
+[722l]:https://leetcode.com/problems/remove-comments/
 [724l]:https://leetcode.com/problems/find-pivot-index/
 [725l]:https://leetcode.com/problems/split-linked-list-in-parts/
 [728l]:https://leetcode.com/problems/self-dividing-numbers/

@@ -371,6 +371,7 @@
 [713][713l]  |[乘积小于K的子数组][713]                                  |![rb]&nbsp;&nbsp;![rs]
 [717][717l]  |[1比特与2比特字符][717]                                   |![rs]
 [720][720l]  |[词典中最长的单词][720]                                   |![py]
+[722][722l]  |[删除注释][722]                                           |![py]
 [724][724l]  |[寻找数组的中心索引][724]                                 |![rb]&nbsp;&nbsp;![rs]
 [725][725l]  |[分隔链表][725]                                           |![py]
 [728][728l]  |[自除数][728]                                             |![py]
@@ -1545,6 +1546,7 @@
 [713]:Problemset/0713-Subarray%20Product%20Less%20Than%20K/README_CN.md#713-乘积小于k的子数组
 [717]:Problemset/0717-1-bit%20and%202-bit%20Characters/README_CN.md#717-1比特与2比特字符
 [720]:Problemset/0720-Longest%20Word%20in%20Dictionary/README_CN.md#720-词典中最长的单词
+[722]:Problemset/0722-Remove%20Comments/README_CN.md#722-删除注释
 [724]:Problemset/0724-Find%20Pivot%20Index/README_CN.md#724-寻找数组的中心索引
 [725]:Problemset/0725-Split%20Linked%20List%20in%20Parts/README_CN.md#725-分隔链表
 [728]:Problemset/0728-Self%20Dividing%20Numbers/README_CN.md#728-自除数
@@ -2724,6 +2726,7 @@
 [713l]:https://leetcode.cn/problems/subarray-product-less-than-k/
 [717l]:https://leetcode.cn/problems/1-bit-and-2-bit-characters/
 [720l]:https://leetcode.cn/problems/longest-word-in-dictionary/
+[722l]:https://leetcode.cn/problems/remove-comments/
 [724l]:https://leetcode.cn/problems/find-pivot-index/
 [725l]:https://leetcode.cn/problems/split-linked-list-in-parts/
 [728l]:https://leetcode.cn/problems/self-dividing-numbers/
