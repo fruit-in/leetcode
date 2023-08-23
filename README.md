@@ -719,6 +719,7 @@
 [1448][1448l]|[Count Good Nodes in Binary Tree][1448]                                               |![py]
 [1450][1450l]|[Number of Students Doing Homework at a Given Time][1450]                             |![rs]
 [1451][1451l]|[Rearrange Words in a Sentence][1451]                                                 |![rb]
+[1452][1452l]|[People Whose List of Favorite Companies Is Not a Subset of Another List][1452]       |![rs]
 [1455][1455l]|[Check If a Word Occurs As a Prefix of Any Word in a Sentence][1455]                  |![rs]
 [1456][1456l]|[Maximum Number of Vowels in a Substring of Given Length][1456]                       |![py]&nbsp;&nbsp;![rb]
 [1457][1457l]|[Pseudo-Palindromic Paths in a Binary Tree][1457]                                     |![py]
@@ -1895,6 +1896,7 @@
 [1448]:Problemset/1448-Count%20Good%20Nodes%20in%20Binary%20Tree/README.md#1448-count-good-nodes-in-binary-tree
 [1450]:Problemset/1450-Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/README.md#1450-number-of-students-doing-homework-at-a-given-time
 [1451]:Problemset/1451-Rearrange%20Words%20in%20a%20Sentence/README.md#1451-rearrange-words-in-a-sentence
+[1452]:Problemset/1452-People%20Whose%20List%20of%20Favorite%20Companies%20Is%20Not%20a%20Subset%20of%20Another%20List/README.md#1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list
 [1455]:Problemset/1455-Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence/README.md#1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
 [1456]:Problemset/1456-Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/README.md#1456-maximum-number-of-vowels-in-a-substring-of-given-length
 [1457]:Problemset/1457-Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/README.md#1457-pseudo-palindromic-paths-in-a-binary-tree
@@ -3076,6 +3078,7 @@
 [1448l]:https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 [1450l]:https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 [1451l]:https://leetcode.com/problems/rearrange-words-in-a-sentence/
+[1452l]:https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/
 [1455l]:https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
 [1456l]:https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 [1457l]:https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
