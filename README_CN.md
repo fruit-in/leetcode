@@ -878,6 +878,7 @@
 [1829][1829l]|[每个查询的最大异或值][1829]                              |![rs]
 [1832][1832l]|[判断句子是否为全字母句][1832]                            |![rs]
 [1833][1833l]|[雪糕的最大数量][1833]                                    |![rs]
+[1834][1834l]|[单线程 CPU][1834]                                        |![rs]
 [1837][1837l]|[K 进制表示下的各位数字总和][1837]                        |![rb]&nbsp;&nbsp;![rs]
 [1844][1844l]|[将所有数字用字符替换][1844]                              |![rs]
 [1845][1845l]|[座位预约管理系统][1845]                                  |![py]
@@ -2055,6 +2056,7 @@
 [1829]:Problemset/1829-Maximum%20XOR%20for%20Each%20Query/README_CN.md#1829-每个查询的最大异或值
 [1832]:Problemset/1832-Check%20if%20the%20Sentence%20Is%20Pangram/README_CN.md#1832-判断句子是否为全字母句
 [1833]:Problemset/1833-Maximum%20Ice%20Cream%20Bars/README_CN.md#1833-雪糕的最大数量
+[1834]:Problemset/1834-Single-Threaded%20CPU/README_CN.md#1834-单线程-cpu
 [1837]:Problemset/1837-Sum%20of%20Digits%20in%20Base%20K/README_CN.md#1837-k-进制表示下的各位数字总和
 [1844]:Problemset/1844-Replace%20All%20Digits%20with%20Characters/README_CN.md#1844-将所有数字用字符替换
 [1845]:Problemset/1845-Seat%20Reservation%20Manager/README_CN.md#1845-座位预约管理系统
@@ -3237,6 +3239,7 @@
 [1829l]:https://leetcode.cn/problems/maximum-xor-for-each-query/
 [1832l]:https://leetcode.cn/problems/check-if-the-sentence-is-pangram/
 [1833l]:https://leetcode.cn/problems/maximum-ice-cream-bars/
+[1834l]:https://leetcode.cn/problems/single-threaded-cpu/
 [1837l]:https://leetcode.cn/problems/sum-of-digits-in-base-k/
 [1844l]:https://leetcode.cn/problems/replace-all-digits-with-character/
 [1845l]:https://leetcode.cn/problems/seat-reservation-manager/

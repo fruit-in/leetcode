@@ -878,6 +878,7 @@
 [1829][1829l]|[Maximum XOR for Each Query][1829]                                                    |![rs]
 [1832][1832l]|[Check if the Sentence Is Pangram][1832]                                              |![rs]
 [1833][1833l]|[Maximum Ice Cream Bars][1833]                                                        |![rs]
+[1834][1834l]|[Single-Threaded CPU][1834]                                                           |![rs]
 [1837][1837l]|[Sum of Digits in Base K][1837]                                                       |![rb]&nbsp;&nbsp;![rs]
 [1844][1844l]|[Replace All Digits with Characters][1844]                                            |![rs]
 [1845][1845l]|[Seat Reservation Manager][1845]                                                      |![py]
@@ -2055,6 +2056,7 @@
 [1829]:Problemset/1829-Maximum%20XOR%20for%20Each%20Query/README.md#1829-maximum-xor-for-each-query
 [1832]:Problemset/1832-Check%20if%20the%20Sentence%20Is%20Pangram/README.md#1832-check-if-the-sentence-is-pangram
 [1833]:Problemset/1833-Maximum%20Ice%20Cream%20Bars/README.md#1833-maximum-ice-cream-bars
+[1834]:Problemset/1834-Single-Threaded%20CPU/README.md#1834-single-threaded-cpu
 [1837]:Problemset/1837-Sum%20of%20Digits%20in%20Base%20K/README.md#1837-sum-of-digits-in-base-k
 [1844]:Problemset/1844-Replace%20All%20Digits%20with%20Characters/README.md#1844-replace-all-digits-with-characters
 [1845]:Problemset/1845-Seat%20Reservation%20Manager/README.md#1845-seat-reservation-manager
@@ -3237,6 +3239,7 @@
 [1829l]:https://leetcode.com/problems/maximum-xor-for-each-query/
 [1832l]:https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 [1833l]:https://leetcode.com/problems/maximum-ice-cream-bars/
+[1834l]:https://leetcode.com/problems/single-threaded-cpu/
 [1837l]:https://leetcode.com/problems/sum-of-digits-in-base-k/
 [1844l]:https://leetcode.com/problems/replace-all-digits-with-characters/
 [1845l]:https://leetcode.com/problems/seat-reservation-manager/
