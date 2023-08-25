@@ -478,6 +478,7 @@
 [921][921l]  |[使括号有效的最少添加][921]                               |![rs]
 [922][922l]  |[按奇偶排序数组 II][922]                                  |![py]
 [925][925l]  |[长按键入][925]                                           |![py]
+[926][926l]  |[将字符串翻转到单调递增][926]                             |![rs]
 [929][929l]  |[独特的电子邮件地址][929]                                 |![py]&nbsp;&nbsp;![rb]
 [930][930l]  |[和相同的二元子数组][930]                                 |![rs]
 [931][931l]  |[下降路径最小和][931]                                     |![rs]
@@ -1656,6 +1657,7 @@
 [921]:Problemset/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid/README_CN.md#921-使括号有效的最少添加
 [922]:Problemset/0922-Sort%20Array%20By%20Parity%20II/README_CN.md#922-按奇偶排序数组-ii
 [925]:Problemset/0925-Long%20Pressed%20Name/README_CN.md#925-长按键入
+[926]:Problemset/0926-Flip%20String%20to%20Monotone%20Increasing/README_CN.md#926-将字符串翻转到单调递增
 [929]:Problemset/0929-Unique%20Email%20Addresses/README_CN.md#929-独特的电子邮件地址
 [930]:Problemset/0930-Binary%20Subarrays%20With%20Sum/README_CN.md#930-和相同的二元子数组
 [931]:Problemset/0931-Minimum%20Falling%20Path%20Sum/README_CN.md#931-下降路径最小和
@@ -2839,6 +2841,7 @@
 [921l]:https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/
 [922l]:https://leetcode.cn/problems/sort-array-by-parity-ii/
 [925l]:https://leetcode.cn/problems/long-pressed-name/
+[926l]:https://leetcode.cn/problems/flip-string-to-monotone-increasing/
 [929l]:https://leetcode.cn/problems/unique-email-addresses/
 [930l]:https://leetcode.cn/problems/binary-subarrays-with-sum/
 [931l]:https://leetcode.cn/problems/minimum-falling-path-sum/
