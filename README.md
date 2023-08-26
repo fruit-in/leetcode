@@ -348,6 +348,7 @@
 [671][671l]  |[Second Minimum Node In a Binary Tree][671]                                           |![py]
 [672][672l]  |[Bulb Switcher II][672]                                                               |![rs]
 [674][674l]  |[Longest Continuous Increasing Subsequence][674]                                      |![rs]
+[675][675l]  |[Cut Off Trees for Golf Event][675]                                                   |![rs]
 [680][680l]  |[Valid Palindrome II][680]                                                            |![py]
 [682][682l]  |[Baseball Game][682]                                                                  |![py]
 [686][686l]  |[Repeated String Match][686]                                                          |![py]
@@ -1527,6 +1528,7 @@
 [671]:Problemset/0671-Second%20Minimum%20Node%20In%20a%20Binary%20Tree/README.md#671-second-minimum-node-in-a-binary-tree
 [672]:Problemset/0672-Bulb%20Switcher%20II/README.md#672-bulb-switcher-ii
 [674]:Problemset/0674-Longest%20Continuous%20Increasing%20Subsequence/README.md#674-longest-continuous-increasing-subsequence
+[675]:Problemset/0675-Cut%20Off%20Trees%20for%20Golf%20Event/README.md#675-cut-off-trees-for-golf-event
 [680]:Problemset/0680-Valid%20Palindrome%20II/README.md#680-valid-palindrome-ii
 [682]:Problemset/0682-Baseball%20Game/README.md#682-baseball-game
 [686]:Problemset/0686-Repeated%20String%20Match/README.md#686-repeated-string-match
@@ -2710,6 +2712,7 @@
 [671l]:https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
 [672l]:https://leetcode.com/problems/bulb-switcher-ii/
 [674l]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+[675l]:https://leetcode.com/problems/cut-off-trees-for-golf-event/
 [677l]:https://leetcode.com/problems/map-sum-pairs/
 [680l]:https://leetcode.com/problems/valid-palindrome-ii/
 [682l]:https://leetcode.com/problems/baseball-game/

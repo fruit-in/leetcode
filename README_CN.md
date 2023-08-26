@@ -348,6 +348,7 @@
 [671][671l]  |[二叉树中第二小的节点][671]                               |![py]
 [672][672l]  |[灯泡开关 Ⅱ][672]                                         |![rs]
 [674][674l]  |[最长连续递增序列][674]                                   |![rs]
+[675][675l]  |[为高尔夫比赛砍树][675]                                   |![rs]
 [680][680l]  |[验证回文字符串 Ⅱ][680]                                   |![py]
 [682][682l]  |[棒球比赛][682]                                           |![py]
 [686][686l]  |[重复叠加字符串匹配][686]                                 |![py]
@@ -1527,6 +1528,7 @@
 [671]:Problemset/0671-Second%20Minimum%20Node%20In%20a%20Binary%20Tree/README_CN.md#671-二叉树中第二小的节点
 [672]:Problemset/0672-Bulb%20Switcher%20II/README_CN.md#672-灯泡开关-Ⅱ
 [674]:Problemset/0674-Longest%20Continuous%20Increasing%20Subsequence/README_CN.md#674-最长连续递增序列
+[675]:Problemset/0675-Cut%20Off%20Trees%20for%20Golf%20Event/README_CN.md#675-为高尔夫比赛砍树
 [680]:Problemset/0680-Valid%20Palindrome%20II/README_CN.md#680-验证回文字符串-ii
 [682]:Problemset/0682-Baseball%20Game/README_CN.md#682-棒球比赛
 [686]:Problemset/0686-Repeated%20String%20Match/README_CN.md#686-重复叠加字符串匹配
@@ -2710,6 +2712,7 @@
 [671l]:https://leetcode.cn/problems/second-minimum-node-in-a-binary-tree/
 [672l]:https://leetcode.cn/problems/bulb-switcher-ii/
 [674l]:https://leetcode.cn/problems/longest-continuous-increasing-subsequence/
+[675l]:https://leetcode.cn/problems/cut-off-trees-for-golf-event/
 [677l]:https://leetcode.cn/problems/map-sum-pairs/
 [680l]:https://leetcode.cn/problems/valid-palindrome-ii/
 [682l]:https://leetcode.cn/problems/baseball-game/
