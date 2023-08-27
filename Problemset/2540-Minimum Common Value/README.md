@@ -1,0 +1,47 @@
+# 2540. Minimum Common Value
+Given two integer arrays `nums1` and `nums2`, sorted in non-decreasing order, return *the **minimum integer common** to both arrays*. If there is no common integer amongst `nums1` and `nums2`, return `-1`.
+
+Note that an integer is said to be **common** to `nums1` and `nums2` if both arrays have **at least one** occurrence of that integer.
+
+#### Example 1:
+<pre>
+<strong>Input:</strong> nums1 = [1,2,3], nums2 = [2,4]
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> The smallest element common to both arrays is 2, so we return 2.
+</pre>
+
+#### Example 2:
+<pre>
+<strong>Input:</strong> nums1 = [1,2,3,6], nums2 = [2,3,4,5]
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> There are two common elements in the array 2 and 3 out of which 2 is the smallest, so 2 is returned.
+</pre>
+
+#### Constraints:
+* <code>1 <= nums1.length, nums2.length <= 10<sup>5</sup></code>
+* <code>1 <= nums1[i], nums2[j] <= 10<sup>9</sup></code>
+* Both `nums1` and `nums2` are sorted in **non-decreasing** order.
+
+## Solutions (Rust)
+
+### 1. Solution
+```Rust
+impl Solution {
+    pub fn get_common(nums1: Vec<i32>, nums2: Vec<i32>) -> i32 {
+        let mut i = 0;
+        let mut j = 0;
+
+        while i < nums1.len() && j < nums2.len() {
+            if nums1[i] == nums2[j] {
+                return nums1[i];
+            } else if nums1[i] < nums2[j] {
+                i += 1;
+            } else {
+                j += 1;
+            }
+        }
+
+        -1
+    }
+}
+```

@@ -1162,6 +1162,7 @@
 [2525][2525l]|[根据规则将箱子分类][2525]                                |![rs]
 [2526][2526l]|[找到数据流中的连续整数][2526]                            |![rs]
 [2535][2535l]|[数组元素和与数字和的绝对差][2535]                        |![rs]
+[2540][2540l]|[最小公共值][2540]                                        |![rs]
 [2544][2544l]|[交替数字和][2544]                                        |![rs]
 [2553][2553l]|[分割数组中数字的数位][2553]                              |![rs]
 [2554][2554l]|[从一个范围内选择最多整数 I][2554]                        |![rs]
@@ -2344,6 +2345,7 @@
 [2525]:Problemset/2525-Categorize%20Box%20According%20to%20Criteria/README_CN.md#2525-根据规则将箱子分类
 [2526]:Problemset/2526-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream/README_CN.md#2526-找到数据流中的连续整数
 [2535]:Problemset/2535-Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/README_CN.md#2535-数组元素和与数字和的绝对差
+[2540]:Problemset/2540-Minimum%20Common%20Value/README_CN.md#2540-最小公共值
 [2544]:Problemset/2544-Alternating%20Digit%20Sum/README_CN.md#2544-交替数字和
 [2553]:Problemset/2553-Separate%20the%20Digits%20in%20an%20Array/README_CN.md#2553-分割数组中数字的数位
 [2554]:Problemset/2554-Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I/README_CN.md#2554-从一个范围内选择最多整数-i
@@ -3531,6 +3533,7 @@
 [2525l]:https://leetcode.cn/problems/categorize-box-according-to-criteria/
 [2526l]:https://leetcode.cn/problems/find-consecutive-integers-from-a-data-stream/
 [2535l]:https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/
+[2540l]:https://leetcode.cn/problems/minimum-common-value/
 [2544l]:https://leetcode.cn/problems/alternating-digit-sum/
 [2553l]:https://leetcode.cn/problems/separate-the-digits-in-an-array/
 [2554l]:https://leetcode.cn/problems/maximum-number-of-integers-to-choose-from-a-range-i/
