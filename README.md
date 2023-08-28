@@ -1159,6 +1159,7 @@
 [2512][2512l]|[Reward Top K Students][2512]                                                         |![py]
 [2515][2515l]|[Shortest Distance to Target String in a Circular Array][2515]                        |![rs]
 [2520][2520l]|[Count the Digits That Divide a Number][2520]                                         |![rs]
+[2521][2521l]|[Distinct Prime Factors of Product of Array][2521]                                    |![rs]
 [2525][2525l]|[Categorize Box According to Criteria][2525]                                          |![rs]
 [2526][2526l]|[Find Consecutive Integers from a Data Stream][2526]                                  |![rs]
 [2535][2535l]|[Difference Between Element Sum and Digit Sum of an Array][2535]                      |![rs]
@@ -2342,6 +2343,7 @@
 [2512]:Problemset/2512-Reward%20Top%20K%20Students/README.md#2512-reward-top-k-students
 [2515]:Problemset/2515-Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/README.md#2515-shortest-distance-to-target-string-in-a-circular-array
 [2520]:Problemset/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README.md#2520-count-the-digits-that-divide-a-number
+[2521]:Problemset/2521-Distinct%20Prime%20Factors%20of%20Product%20of%20Array/README.md#2521-distinct-prime-factors-of-product-of-array
 [2525]:Problemset/2525-Categorize%20Box%20According%20to%20Criteria/README.md#2525-categorize-box-according-to-criteria
 [2526]:Problemset/2526-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream/README.md#2526-find-consecutive-integers-from-a-data-stream
 [2535]:Problemset/2535-Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/README.md#2535-difference-between-element-sum-and-digit-sum-of-an-array
@@ -3530,6 +3532,7 @@
 [2512l]:https://leetcode.com/problems/reward-top-k-students/
 [2515l]:https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 [2520l]:https://leetcode.com/problems/count-the-digits-that-divide-a-number/
+[2521l]:https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/
 [2525l]:https://leetcode.com/problems/categorize-box-according-to-criteria/
 [2526l]:https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/
 [2535l]:https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/

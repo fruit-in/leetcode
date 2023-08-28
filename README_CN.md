@@ -1159,6 +1159,7 @@
 [2512][2512l]|[奖励最顶尖的 K 名学生][2512]                             |![py]
 [2515][2515l]|[到目标字符串的最短距离][2515]                            |![rs]
 [2520][2520l]|[统计能整除数字的位数][2520]                              |![rs]
+[2521][2521l]|[数组乘积中的不同质因数数目][2521]                        |![rs]
 [2525][2525l]|[根据规则将箱子分类][2525]                                |![rs]
 [2526][2526l]|[找到数据流中的连续整数][2526]                            |![rs]
 [2535][2535l]|[数组元素和与数字和的绝对差][2535]                        |![rs]
@@ -2342,6 +2343,7 @@
 [2512]:Problemset/2512-Reward%20Top%20K%20Students/README_CN.md#2512-奖励最顶尖的-k-名学生
 [2515]:Problemset/2515-Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/README_CN.md#2515-到目标字符串的最短距离
 [2520]:Problemset/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README_CN.md#2520-统计能整除数字的位数
+[2521]:Problemset/2521-Distinct%20Prime%20Factors%20of%20Product%20of%20Array/README_CN.md#2521-数组乘积中的不同质因数数目
 [2525]:Problemset/2525-Categorize%20Box%20According%20to%20Criteria/README_CN.md#2525-根据规则将箱子分类
 [2526]:Problemset/2526-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream/README_CN.md#2526-找到数据流中的连续整数
 [2535]:Problemset/2535-Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/README_CN.md#2535-数组元素和与数字和的绝对差
@@ -3530,6 +3532,7 @@
 [2512l]:https://leetcode.cn/problems/reward-top-k-students/
 [2515l]:https://leetcode.cn/problems/shortest-distance-to-target-string-in-a-circular-array/
 [2520l]:https://leetcode.cn/problems/count-the-digits-that-divide-a-number/
+[2521l]:https://leetcode.cn/problems/distinct-prime-factors-of-product-of-array/
 [2525l]:https://leetcode.cn/problems/categorize-box-according-to-criteria/
 [2526l]:https://leetcode.cn/problems/find-consecutive-integers-from-a-data-stream/
 [2535l]:https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/
