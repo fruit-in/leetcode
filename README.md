@@ -1,4 +1,4 @@
-[中文](./README_CN.md)
+[中文](./readme_cn.md)
 
 ## Problems
 |#           |Title                                                                                 |Languages
@@ -204,6 +204,7 @@
 [371][371l]  |[Sum of Two Integers][371]                                                            |![rs]
 [372][372l]  |[Super Pow][372]                                                                      |![rs]
 [374][374l]  |[Guess Number Higher or Lower][374]                                                   |![py]
+[380][380l]  |[Insert Delete GetRandom O(1)][380]                                                   |![rs]
 [382][382l]  |[Linked List Random Node][382]                                                        |![py]
 [383][383l]  |[Ransom Note][383]                                                                    |![py]
 [384][384l]  |[Shuffle an Array][384]                                                               |![rs]
@@ -1388,6 +1389,7 @@
 [371]:Problemset/0371-Sum%20of%20Two%20Integers/README.md#371-sum-of-two-integers
 [372]:Problemset/0372-Super%20Pow/README.md#372-super-pow
 [374]:Problemset/0374-Guess%20Number%20Higher%20or%20Lower/README.md#374-guess-number-higher-or-lower
+[380]:Problemset/0380-Insert%20Delete%20GetRandom%20O\(1\)/README.md#380-insert-delete-getrandom-o1
 [382]:Problemset/0382-Linked%20List%20Random%20Node/README.md#382-linked-list-random-node
 [383]:Problemset/0383-Ransom%20Note/README.md#383-ransom-note
 [384]:Problemset/0384-Shuffle%20an%20Array/README.md#384-shuffle-an-array

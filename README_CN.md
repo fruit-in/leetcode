@@ -204,6 +204,7 @@
 [371][371l]  |[两整数之和][371]                                         |![rs]
 [372][372l]  |[超级次方][372]                                           |![rs]
 [374][374l]  |[猜数字大小][374]                                         |![py]
+[380][380l]  |[O(1) 时间插入、删除和获取随机元素][380]                  |![rs]
 [382][382l]  |[链表随机节点][382]                                       |![py]
 [383][383l]  |[赎金信][383]                                             |![py]
 [384][384l]  |[打乱数组][384]                                           |![rs]
@@ -1388,6 +1389,7 @@
 [371]:Problemset/0371-Sum%20of%20Two%20Integers/README_CN.md#371-两整数之和
 [372]:Problemset/0372-Super%20Pow/README_CN.md#372-超级次方
 [374]:Problemset/0374-Guess%20Number%20Higher%20or%20Lower/README_CN.md#374-猜数字大小
+[380]:Problemset/0380-Insert%20Delete%20GetRandom%20O\(1\)/README_CN.md#380-o1-时间插入删除和获取随机元素
 [382]:Problemset/0382-Linked%20List%20Random%20Node/README_CN.md#382-链表随机节点
 [383]:Problemset/0383-Ransom%20Note/README_CN.md#383-赎金信
 [384]:Problemset/0384-Shuffle%20an%20Array/README_CN.md#384-打乱数组
