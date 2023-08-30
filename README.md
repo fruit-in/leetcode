@@ -422,6 +422,7 @@
 [821][821l]  |[Shortest Distance to a Character][821]                                               |![py]
 [822][822l]  |[Card Flipping Game][822]                                                             |![rs]
 [824][824l]  |[Goat Latin][824]                                                                     |![py]
+[825][825l]  |[Friends Of Appropriate Ages][825]                                                    |![py]
 [826][826l]  |[Most Profit Assigning Work][826]                                                     |![rs]
 [829][829l]  |[Consecutive Numbers Sum][829]                                                        |![py]
 [830][830l]  |[Positions of Large Groups][830]                                                      |![rs]
@@ -1607,6 +1608,7 @@
 [821]:Problemset/0821-Shortest%20Distance%20to%20a%20Character/README.md#821-shortest-distance-to-a-character
 [822]:Problemset/0822-Card%20Flipping%20Game/README.md#822-card-flipping-game
 [824]:Problemset/0824-Goat%20Latin/README.md#824-goat-latin
+[825]:Problemset/0825-Friends%20Of%20Appropriate%20Ages/README.md#825-friends-of-appropriate-ages
 [826]:Problemset/0826-Most%20Profit%20Assigning%20Work/README.md#826-most-profit-assigning-work
 [829]:Problemset/0829-Consecutive%20Numbers%20Sum/README.md#829-consecutive-numbers-sum
 [830]:Problemset/0830-Positions%20of%20Large%20Groups/README.md#830-positions-of-large-groups
@@ -2796,6 +2798,7 @@
 [821l]:https://leetcode.com/problems/shortest-distance-to-a-character/
 [822l]:https://leetcode.com/problems/card-flipping-game/
 [824l]:https://leetcode.com/problems/goat-latin/
+[825l]:https://leetcode.com/problems/friends-of-appropriate-ages/
 [826l]:https://leetcode.com/problems/most-profit-assigning-work/
 [829l]:https://leetcode.com/problems/consecutive-numbers-sum/
 [830l]:https://leetcode.com/problems/positions-of-large-groups/
