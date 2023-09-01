@@ -1013,6 +1013,7 @@
 [2155][2155l]|[分组得分最高的所有下标][2155]                            |![rs]
 [2160][2160l]|[拆分数位后四位数字的最小和][2160]                        |![rs]
 [2161][2161l]|[根据给定数字划分数组][2161]                              |![py]
+[2162][2162l]|[设置时间的最少代价][2162]                                |![rs]
 [2164][2164l]|[对奇偶下标分别排序][2164]                                |![py]
 [2165][2165l]|[重排数字的最小值][2165]                                  |![rs]
 [2166][2166l]|[设计位集][2166]                                          |![py]
@@ -2200,6 +2201,7 @@
 [2155]:Problemset/2155-All%20Divisions%20With%20the%20Highest%20Score%20of%20a%20Binary%20Array/README_CN.md#2155-分组得分最高的所有下标
 [2160]:Problemset/2160-Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/README_CN.md#2160-拆分数位后四位数字的最小和
 [2161]:Problemset/2161-Partition%20Array%20According%20to%20Given%20Pivot/README_CN.md#2161-根据给定数字划分数组
+[2162]:Problemset/2162-Minimum%20Cost%20to%20Set%20Cooking%20Time/README_CN.md#2162-设置时间的最少代价
 [2164]:Problemset/2164-Sort%20Even%20and%20Odd%20Indices%20Independently/README_CN.md#2164-对奇偶下标分别排序
 [2165]:Problemset/2165-Smallest%20Value%20of%20the%20Rearranged%20Number/README_CN.md#2165-重排数字的最小值
 [2166]:Problemset/2166-Design%20Bitset/README_CN.md#2166-设计位集
@@ -3391,6 +3393,7 @@
 [2155l]:https://leetcode.cn/problems/all-divisions-with-the-highest-score-of-a-binary-array/
 [2160l]:https://leetcode.cn/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2161l]:https://leetcode.cn/problems/partition-array-according-to-given-pivot/
+[2162l]:https://leetcode.cn/problems/minimum-cost-to-set-cooking-time/
 [2164l]:https://leetcode.cn/problems/sort-even-and-odd-indices-independently/
 [2165l]:https://leetcode.cn/problems/smallest-value-of-the-rearranged-number/
 [2166l]:https://leetcode.cn/problems/design-bitset/
