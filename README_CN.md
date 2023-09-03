@@ -512,6 +512,7 @@
 [970][970l]  |[强整数][970]                                             |![rs]
 [973][973l]  |[最接近原点的 K 个点][973]                                |![rs]
 [974][974l]  |[和可被 K 整除的子数组][974]                              |![rb]&nbsp;&nbsp;![rs]
+[975][975l]  |[奇偶跳][975]                                             |![py]
 [976][976l]  |[三角形的最大周长][976]                                   |![rs]
 [977][977l]  |[有序数组的平方][977]                                     |![rs]
 [978][978l]  |[最长湍流子数组][978]                                     |![rs]
@@ -1702,6 +1703,7 @@
 [970]:Problemset/0970-Powerful%20Integers/README_CN.md#970-强整数
 [973]:Problemset/0973-K%20Closest%20Points%20to%20Origin/README_CN.md#973-最接近原点的-K-个点
 [974]:Problemset/0974-Subarray%20Sums%20Divisible%20by%20K/README_CN.md#974-和可被-k-整除的子数组
+[975]:Problemset/0975-Odd%20Even%20Jump/README_CN.md#975-奇偶跳
 [976]:Problemset/0976-Largest%20Perimeter%20Triangle/README_CN.md#976-三角形的最大周长
 [977]:Problemset/0977-Squares%20of%20a%20Sorted%20Array/README_CN.md#977-有序数组的平方
 [978]:Problemset/0978-Longest%20Turbulent%20Subarray/README_CN.md#978-最长湍流子数组
@@ -2896,6 +2898,7 @@
 [970l]:https://leetcode.cn/problems/powerful-integers/
 [973l]:https://leetcode.cn/problems/k-closest-points-to-origin/
 [974l]:https://leetcode.cn/problems/subarray-sums-divisible-by-k/
+[975l]:https://leetcode.cn/problems/odd-even-jump/
 [976l]:https://leetcode.cn/problems/largest-perimeter-triangle/
 [977l]:https://leetcode.cn/problems/squares-of-a-sorted-array/
 [978l]:https://leetcode.cn/problems/longest-turbulent-subarray/

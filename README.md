@@ -512,6 +512,7 @@
 [970][970l]  |[Powerful Integers][970]                                                              |![rs]
 [973][973l]  |[K Closest Points to Origin][973]                                                     |![rs]
 [974][974l]  |[Subarray Sums Divisible by K][974]                                                   |![rb]&nbsp;&nbsp;![rs]
+[975][975l]  |[Odd Even Jump][975]                                                                  |![py]
 [976][976l]  |[Largest Perimeter Triangle][976]                                                     |![rs]
 [977][977l]  |[Squares of a Sorted Array][977]                                                      |![rs]
 [978][978l]  |[Longest Turbulent Subarray][978]                                                     |![rs]
@@ -1702,6 +1703,7 @@
 [970]:Problemset/0970-Powerful%20Integers/README.md#970-powerful-integers
 [973]:Problemset/0973-K%20Closest%20Points%20to%20Origin/README.md#973-k-closest-points-to-origin
 [974]:Problemset/0974-Subarray%20Sums%20Divisible%20by%20K/README.md#974-subarray-sums-divisible-by-k
+[975]:Problemset/0975-Odd%20Even%20Jump/README.md#975-odd-even-jump
 [976]:Problemset/0976-Largest%20Perimeter%20Triangle/README.md#976-largest-perimeter-triangle
 [977]:Problemset/0977-Squares%20of%20a%20Sorted%20Array/README.md#977-squares-of-a-sorted-array
 [978]:Problemset/0978-Longest%20Turbulent%20Subarray/README.md#978-longest-turbulent-subarray
@@ -2896,6 +2898,7 @@
 [970l]:https://leetcode.com/problems/powerful-integers/
 [973l]:https://leetcode.com/problems/k-closest-points-to-origin/
 [974l]:https://leetcode.com/problems/subarray-sums-divisible-by-k/
+[975l]:https://leetcode.com/problems/odd-even-jump/
 [976l]:https://leetcode.com/problems/largest-perimeter-triangle/
 [977l]:https://leetcode.com/problems/squares-of-a-sorted-array/
 [978l]:https://leetcode.com/problems/longest-turbulent-subarray/
