@@ -1172,6 +1172,7 @@
 [2535][2535l]|[数组元素和与数字和的绝对差][2535]                        |![rs]
 [2540][2540l]|[最小公共值][2540]                                        |![rs]
 [2544][2544l]|[交替数字和][2544]                                        |![rs]
+[2549][2549l]|[统计桌面上的不同数字][2549]                              |![rs]
 [2553][2553l]|[分割数组中数字的数位][2553]                              |![rs]
 [2554][2554l]|[从一个范围内选择最多整数 I][2554]                        |![rs]
 [2558][2558l]|[从数量最多的堆取走礼物][2558]                            |![rs]
@@ -2363,6 +2364,7 @@
 [2535]:Problemset/2535-Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/README_CN.md#2535-数组元素和与数字和的绝对差
 [2540]:Problemset/2540-Minimum%20Common%20Value/README_CN.md#2540-最小公共值
 [2544]:Problemset/2544-Alternating%20Digit%20Sum/README_CN.md#2544-交替数字和
+[2549]:Problemset/2549-Count%20Distinct%20Numbers%20on%20Board/README_CN.md#2549-统计桌面上的不同数字
 [2553]:Problemset/2553-Separate%20the%20Digits%20in%20an%20Array/README_CN.md#2553-分割数组中数字的数位
 [2554]:Problemset/2554-Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I/README_CN.md#2554-从一个范围内选择最多整数-i
 [2558]:Problemset/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README_CN.md#2558-take-gifts-from-the-richest-pile
@@ -3558,6 +3560,7 @@
 [2535l]:https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 [2540l]:https://leetcode.cn/problems/minimum-common-value/
 [2544l]:https://leetcode.cn/problems/alternating-digit-sum/
+[2549l]:https://leetcode.cn/problems/count-distinct-numbers-on-board/
 [2553l]:https://leetcode.cn/problems/separate-the-digits-in-an-array/
 [2554l]:https://leetcode.cn/problems/maximum-number-of-integers-to-choose-from-a-range-i/
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
