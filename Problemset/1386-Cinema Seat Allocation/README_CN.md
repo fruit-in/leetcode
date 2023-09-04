@@ -1,0 +1,73 @@
+# 1386. 安排电影院座位
+![](https://assets.leetcode.com/uploads/2020/02/14/cinema_seats_1.png)
+
+如上图所示，电影院的观影厅中有 `n` 行座位，行编号从 1 到 `n` ，且每一行内总共有 10 个座位，列编号从 1 到 10 。
+
+给你数组 `reservedSeats` ，包含所有已经被预约了的座位。比如说，`researvedSeats[i]=[3,8]` ，它表示第 **3** 行第 **8** 个座位被预约了。
+
+请你返回 **最多能安排多少个 4 人家庭** 。4 人家庭要占据 **同一行内连续** 的 4 个座位。隔着过道的座位（比方说 [3,3] 和 [3,4]）不是连续的座位，但是如果你可以将 4 人家庭拆成过道两边各坐 2 人，这样子是允许的。
+
+#### 示例 1:
+![](https://assets.leetcode.com/uploads/2020/02/14/cinema_seats_3.png)
+<pre>
+<strong>输入:</strong> n = 3, reservedSeats = [[1,2],[1,3],[1,8],[2,6],[3,1],[3,10]]
+<strong>输出:</strong> 4
+<strong>解释:</strong> 上图所示是最优的安排方案，总共可以安排 4 个家庭。蓝色的叉表示被预约的座位，橙色的连续座位表示一个 4 人家庭。
+</pre>
+
+#### 示例 2:
+<pre>
+<strong>输入:</strong> n = 2, reservedSeats = [[2,1],[1,8],[2,6]]
+<strong>输出:</strong> 2
+</pre>
+
+#### 示例 3:
+<pre>
+<strong>输入:</strong> n = 4, reservedSeats = [[4,3],[1,4],[4,6],[1,7]]
+<strong>输出:</strong> 4
+</pre>
+
+#### 提示:
+* `1 <= n <= 10^9`
+* `1 <= reservedSeats.length <= min(10*n, 10^4)`
+* `reservedSeats[i].length == 2`
+* `1 <= reservedSeats[i][0] <= n`
+* `1 <= reservedSeats[i][1] <= 10`
+* 所有 `reservedSeats[i]` 都是互不相同的。
+
+## 题解 (Rust)
+
+### 1. 题解
+```Rust
+use std::collections::HashMap;
+
+impl Solution {
+    pub fn max_number_of_families(n: i32, reserved_seats: Vec<Vec<i32>>) -> i32 {
+        let mut seats_map = HashMap::new();
+        let mut ret = 0;
+
+        for seat in &reserved_seats {
+            seats_map
+                .entry(seat[0])
+                .and_modify(|x| *x |= 1 << seat[1])
+                .or_insert(1 << seat[1]);
+        }
+
+        for row in seats_map.values() {
+            if row & 0x3fc == 0 {
+                ret += 2;
+            } else if row & 0x3c == 0 {
+                ret += 1;
+            } else if row & 0xf0 == 0 {
+                ret += 1;
+            } else if row & 0x3c0 == 0 {
+                ret += 1;
+            }
+        }
+
+        ret += (n - seats_map.len() as i32) * 2;
+
+        ret
+    }
+}
+```
