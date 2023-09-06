@@ -414,6 +414,7 @@
 [809][809l]  |[情感丰富的文字][809]                                     |![rs]
 [811][811l]  |[子域名访问计数][811]                                     |![rs]
 [812][812l]  |[最大三角形面积][812]                                     |![rs]
+[813][813l]  |[最大平均值和的分组][813]                                 |![py]
 [814][814l]  |[二叉树剪枝][814]                                         |![py]&nbsp;&nbsp;![rb]
 [816][816l]  |[模糊坐标][816]                                           |![rs]
 [817][817l]  |[链表组件][817]                                           |![py]&nbsp;&nbsp;![rb]
@@ -1608,6 +1609,7 @@
 [809]:Problemset/0809-Expressive%20Words/README_CN.md#809-情感丰富的文字
 [811]:Problemset/0811-Subdomain%20Visit%20Count/README_CN.md#811-子域名访问计数
 [812]:Problemset/0812-Largest%20Triangle%20Area/README_CN.md#812-最大三角形面积
+[813]:Problemset/0813-Largest%20Sum%20of%20Averages/README_CN.md#813-最大平均值和的分组
 [814]:Problemset/0814-Binary%20Tree%20Pruning/README_CN.md#814-二叉树剪枝
 [816]:Problemset/0816-Ambiguous%20Coordinates/README_CN.md#816-模糊坐标
 [817]:Problemset/0817-Linked%20List%20Components/README_CN.md#817-链表组件
@@ -2806,6 +2808,7 @@
 [809l]:https://leetcode.cn/problems/expressive-words/
 [811l]:https://leetcode.cn/problems/subdomain-visit-count/
 [812l]:https://leetcode.cn/problems/largest-triangle-area/
+[813l]:https://leetcode.cn/problems/largest-sum-of-averages/
 [814l]:https://leetcode.cn/problems/binary-tree-pruning/
 [816l]:https://leetcode.cn/problems/ambiguous-coordinates/
 [817l]:https://leetcode.cn/problems/linked-list-components/

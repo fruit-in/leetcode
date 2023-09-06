@@ -414,6 +414,7 @@
 [809][809l]  |[Expressive Words][809]                                                               |![rs]
 [811][811l]  |[Subdomain Visit Count][811]                                                          |![rs]
 [812][812l]  |[Largest Triangle Area][812]                                                          |![rs]
+[813][813l]  |[Largest Sum of Averages][813]                                                        |![py]
 [814][814l]  |[Binary Tree Pruning][814]                                                            |![py]&nbsp;&nbsp;![rb]
 [816][816l]  |[Ambiguous Coordinates][816]                                                          |![rs]
 [817][817l]  |[Linked List Components][817]                                                         |![py]&nbsp;&nbsp;![rb]
@@ -1608,6 +1609,7 @@
 [809]:Problemset/0809-Expressive%20Words/README.md#809-expressive-words
 [811]:Problemset/0811-Subdomain%20Visit%20Count/README.md#811-subdomain-visit-count
 [812]:Problemset/0812-Largest%20Triangle%20Area/README.md#812-largest-triangle-area
+[813]:Problemset/0813-Largest%20Sum%20of%20Averages/README.md#813-largest-sum-of-averages
 [814]:Problemset/0814-Binary%20Tree%20Pruning/README.md#814-binary-tree-pruning
 [816]:Problemset/0816-Ambiguous%20Coordinates/README.md#816-ambiguous-coordinates
 [817]:Problemset/0817-Linked%20List%20Components/README.md#817-linked-list-components
@@ -2806,6 +2808,7 @@
 [809l]:https://leetcode.com/problems/expressive-words/
 [811l]:https://leetcode.com/problems/subdomain-visit-count/
 [812l]:https://leetcode.com/problems/largest-triangle-area/
+[813l]:https://leetcode.com/problems/largest-sum-of-averages/
 [814l]:https://leetcode.com/problems/binary-tree-pruning/
 [816l]:https://leetcode.com/problems/ambiguous-coordinates/
 [817l]:https://leetcode.com/problems/linked-list-components/
