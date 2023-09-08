@@ -1177,6 +1177,7 @@
 [2540][2540l]|[Minimum Common Value][2540]                                                          |![rs]
 [2544][2544l]|[Alternating Digit Sum][2544]                                                         |![rs]
 [2549][2549l]|[Count Distinct Numbers on Board][2549]                                               |![rs]
+[2550][2550l]|[Count Collisions of Monkeys on a Polygon][2550]                                      |![rs]
 [2553][2553l]|[Separate the Digits in an Array][2553]                                               |![rs]
 [2554][2554l]|[Maximum Number of Integers to Choose From a Range I][2554]                           |![rs]
 [2558][2558l]|[Take Gifts From the Richest Pile][2558]                                              |![rs]
@@ -2373,6 +2374,7 @@
 [2540]:Problemset/2540-Minimum%20Common%20Value/README.md#2540-minimum-common-value
 [2544]:Problemset/2544-Alternating%20Digit%20Sum/README.md#2544-alternating-digit-sum
 [2549]:Problemset/2549-Count%20Distinct%20Numbers%20on%20Board/README.md#2549-count-distinct-numbers-on-board
+[2550]:Problemset/2550-Count%20Collisions%20of%20Monkeys%20on%20a%20Polygon/README.md#2550-count-collisions-of-monkeys-on-a-polygon
 [2553]:Problemset/2553-Separate%20the%20Digits%20in%20an%20Array/README.md#2553-separate-the-digits-in-an-array
 [2554]:Problemset/2554-Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I/README.md#2554-maximum-number-of-integers-to-choose-from-a-range-i
 [2558]:Problemset/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README.md#2558-take-gifts-from-the-richest-pile
@@ -3573,6 +3575,7 @@
 [2540l]:https://leetcode.com/problems/minimum-common-value/
 [2544l]:https://leetcode.com/problems/alternating-digit-sum/
 [2549l]:https://leetcode.com/problems/count-distinct-numbers-on-board/
+[2550l]:https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/
 [2553l]:https://leetcode.com/problems/separate-the-digits-in-an-array/
 [2554l]:https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
