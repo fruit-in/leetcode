@@ -1183,6 +1183,7 @@
 [2554][2554l]|[Maximum Number of Integers to Choose From a Range I][2554]                           |![rs]
 [2558][2558l]|[Take Gifts From the Richest Pile][2558]                                              |![rs]
 [2559][2559l]|[Count Vowel Strings in Ranges][2559]                                                 |![rs]
+[2562][2562l]|[Find the Array Concatenation Value][2562]                                            |![rs]
 [2579][2579l]|[Count Total Number of Colored Cells][2579]                                           |![rs]
 [2593][2593l]|[Find Score of an Array After Marking All Elements][2593]                             |![rs]
 [2594][2594l]|[Minimum Time to Repair Cars][2594]                                                   |![rs]
@@ -2381,6 +2382,7 @@
 [2554]:Problemset/2554-Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I/README.md#2554-maximum-number-of-integers-to-choose-from-a-range-i
 [2558]:Problemset/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README.md#2558-take-gifts-from-the-richest-pile
 [2559]:Problemset/2559-Count%20Vowel%20Strings%20in%20Ranges/README.md#2559-count-vowel-strings-in-ranges
+[2562]:Problemset/2562-Find%20the%20Array%20Concatenation%20Value/README.md#2562-find-the-array-concatenation-value
 [2579]:Problemset/2579-Count%20Total%20Number%20of%20Colored%20Cells/README.md#2579-count-total-number-of-colored-cells
 [2593]:Problemset/2593-Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements/README.md#2593-find-score-of-an-array-after-marking-all-elements
 [2594]:Problemset/2594-Minimum%20Time%20to%20Repair%20Cars/README.md#2594-minimum-time-to-repair-cars
@@ -3583,6 +3585,7 @@
 [2554l]:https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2559l]:https://leetcode.com/problems/count-vowel-strings-in-ranges/
+[2562l]:https://leetcode.com/problems/find-the-array-concatenation-value/
 [2579l]:https://leetcode.com/problems/count-total-number-of-colored-cells/
 [2593l]:https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/
 [2594l]:https://leetcode.com/problems/minimum-time-to-repair-cars/
