@@ -539,6 +539,7 @@
 [1009][1009l]|[十进制整数的反码][1009]                                  |![rs]
 [1010][1010l]|[总持续时间可被 60 整除的歌曲][1010]                      |![rs]
 [1011][1011l]|[在 D 天内送达包裹的能力][1011]                           |![rs]
+[1012][1012l]|[至少有 1 位重复的数字][1012]                             |![rs]
 [1013][1013l]|[将数组分成和相等的三个部分][1013]                        |![rs]
 [1014][1014l]|[最佳观光组合][1014]                                      |![rs]
 [1017][1017l]|[负二进制转换][1017]                                      |![rs]
@@ -1736,6 +1737,7 @@
 [1009]:Problemset/1009-Complement%20of%20Base%2010%20Integer/README_CN.md#1009-十进制整数的反码
 [1010]:Problemset/1010-Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060/README_CN.md#1010-总持续时间可被-60-整除的歌曲
 [1011]:Problemset/1011-Capacity%20To%20Ship%20Packages%20Within%20D%20Days/README_CN.md#1011-在-d-天内送达包裹的能力
+[1012]:Problemset/1012-Numbers%20With%20Repeated%20Digits/README_CN.md#1012-至少有-1-位重复的数字
 [1013]:Problemset/1013-Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/README_CN.md#1013-将数组分成和相等的三个部分
 [1014]:Problemset/1014-Best%20Sightseeing%20Pair/README_CN.md#1014-最佳观光组合
 [1017]:Problemset/1017-Convert%20to%20Base%20-2/README_CN.md#1017-负二进制转换
@@ -2937,6 +2939,7 @@
 [1009l]:https://leetcode.cn/problems/complement-of-base-10-integer/
 [1010l]:https://leetcode.cn/problems/pairs-of-songs-with-total-durations-divisible-by-60/
 [1011l]:https://leetcode.cn/problems/capacity-to-ship-packages-within-d-days/
+[1012l]:https://leetcode.cn/problems/numbers-with-repeated-digits/
 [1013l]:https://leetcode.cn/problems/partition-array-into-three-parts-with-equal-sum/
 [1014l]:https://leetcode.cn/problems/best-sightseeing-pair/
 [1017l]:https://leetcode.cn/problems/convert-to-base-2/

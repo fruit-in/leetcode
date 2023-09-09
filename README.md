@@ -539,6 +539,7 @@
 [1009][1009l]|[Complement of Base 10 Integer][1009]                                                 |![rs]
 [1010][1010l]|[Pairs of Songs With Total Durations Divisible by 60][1010]                           |![rs]
 [1011][1011l]|[Capacity To Ship Packages Within D Days][1011]                                       |![rs]
+[1012][1012l]|[Numbers With Repeated Digits][1012]                                                  |![rs]
 [1013][1013l]|[Partition Array Into Three Parts With Equal Sum][1013]                               |![rs]
 [1014][1014l]|[Best Sightseeing Pair][1014]                                                         |![rs]
 [1017][1017l]|[Convert to Base -2][1017]                                                            |![rs]
@@ -1736,6 +1737,7 @@
 [1009]:Problemset/1009-Complement%20of%20Base%2010%20Integer/README.md#1009-complement-of-base-10-integer
 [1010]:Problemset/1010-Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060/README.md#1010-pairs-of-songs-with-total-durations-divisible-by-60
 [1011]:Problemset/1011-Capacity%20To%20Ship%20Packages%20Within%20D%20Days/README.md#1011-capacity-to-ship-packages-within-d-days
+[1012]:Problemset/1012-Numbers%20With%20Repeated%20Digits/README.md#1012-numbers-with-repeated-digits
 [1013]:Problemset/1013-Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/README.md#1013-partition-array-into-three-parts-with-equal-sum
 [1014]:Problemset/1014-Best%20Sightseeing%20Pair/README.md#1014-best-sightseeing-pair
 [1017]:Problemset/1017-Convert%20to%20Base%20-2/README.md#1017-convert-to-base--2
@@ -2937,6 +2939,7 @@
 [1009l]:https://leetcode.com/problems/complement-of-base-10-integer/
 [1010l]:https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
 [1011l]:https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+[1012l]:https://leetcode.com/problems/numbers-with-repeated-digits/
 [1013l]:https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
 [1014l]:https://leetcode.com/problems/best-sightseeing-pair/
 [1017l]:https://leetcode.com/problems/convert-to-base-2/
