@@ -1185,6 +1185,7 @@
 [2558][2558l]|[从数量最多的堆取走礼物][2558]                            |![rs]
 [2559][2559l]|[统计范围内的元音字符串数][2559]                          |![rs]
 [2562][2562l]|[找出数组的串联值][2562]                                  |![rs]
+[2566][2566l]|[替换一个数字后的最大差值][2566]                          |![py]
 [2579][2579l]|[统计染色格子数][2579]                                    |![rs]
 [2593][2593l]|[标记所有元素后数组的分数][2593]                          |![rs]
 [2594][2594l]|[修车的最少时间][2594]                                    |![rs]
@@ -2385,6 +2386,7 @@
 [2558]:Problemset/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README_CN.md#2558-take-gifts-from-the-richest-pile
 [2559]:Problemset/2559-Count%20Vowel%20Strings%20in%20Ranges/README_CN.md#2559-统计范围内的元音字符串数
 [2562]:Problemset/2562-Find%20the%20Array%20Concatenation%20Value/README_CN.md#2562-找出数组的串联值
+[2566]:Problemset/2566-Maximum%20Difference%20by%20Remapping%20a%20Digit/README_CN.md#2566-替换一个数字后的最大差值
 [2579]:Problemset/2579-Count%20Total%20Number%20of%20Colored%20Cells/README_CN.md#2579-统计染色格子数
 [2593]:Problemset/2593-Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements/README_CN.md#2593-标记所有元素后数组的分数
 [2594]:Problemset/2594-Minimum%20Time%20to%20Repair%20Cars/README_CN.md#2594-修车的最少时间
@@ -3589,6 +3591,7 @@
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2559l]:https://leetcode.cn/problems/count-vowel-strings-in-ranges/
 [2562l]:https://leetcode.cn/problems/find-the-array-concatenation-value/
+[2566l]:https://leetcode.cn/problems/maximum-difference-by-remapping-a-digit/
 [2579l]:https://leetcode.cn/problems/count-total-number-of-colored-cells/
 [2593l]:https://leetcode.cn/problems/find-score-of-an-array-after-marking-all-elements/
 [2594l]:https://leetcode.cn/problems/minimum-time-to-repair-cars/
