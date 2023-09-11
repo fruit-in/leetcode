@@ -875,6 +875,7 @@
 [1792][1792l]|[最大平均通过率][1792]                                    |![py]
 [1796][1796l]|[字符串中第二大的数字][1796]                              |![rs]
 [1800][1800l]|[最大升序子数组和][1800]                                  |![rb]&nbsp;&nbsp;![rs]
+[1801][1801l]|[积压订单中的订单总数][1801]                              |![rs]
 [1805][1805l]|[字符串中不同整数的数目][1805]                            |![rs]
 [1807][1807l]|[替换字符串中的括号内容][1807]                            |![py]
 [1812][1812l]|[判断国际象棋棋盘中一个格子的颜色][1812]                  |![py]&nbsp;&nbsp;![rb]
@@ -2076,6 +2077,7 @@
 [1792]:Problemset/1792-Maximum%20Average%20Pass%20Ratio/README_CN.md#1792-最大平均通过率
 [1796]:Problemset/1796-Second%20Largest%20Digit%20in%20a%20String/README_CN.md#1796-字符串中第二大的数字
 [1800]:Problemset/1800-Maximum%20Ascending%20Subarray%20Sum/README_CN.md#1800-最大升序子数组和
+[1801]:Problemset/1801-Number%20of%20Orders%20in%20the%20Backlog/README_CN.md#1801-积压订单中的订单总数
 [1805]:Problemset/1805-Number%20of%20Different%20Integers%20in%20a%20String/README_CN.md#1805-字符串中不同整数的数目
 [1807]:Problemset/1807-Evaluate%20the%20Bracket%20Pairs%20of%20a%20String/README_CN.md#1807-替换字符串中的括号内容
 [1812]:Problemset/1812-Determine%20Color%20of%20a%20Chessboard%20Square/README_CN.md#1812-判断国际象棋棋盘中一个格子的颜色
@@ -3281,6 +3283,7 @@
 [1792l]:https://leetcode.cn/problems/maximum-average-pass-ratio/
 [1796l]:https://leetcode.cn/problems/second-largest-digit-in-a-string/
 [1800l]:https://leetcode.cn/problems/maximum-ascending-subarray-sum/
+[1801l]:https://leetcode.cn/problems/number-of-orders-in-the-backlog/
 [1805l]:https://leetcode.cn/problems/number-of-different-integers-in-a-string/
 [1807l]:https://leetcode.cn/problems/evaluate-the-bracket-pairs-of-a-string/
 [1812l]:https://leetcode.cn/problems/determine-color-of-a-chessboard-square/
