@@ -977,6 +977,7 @@
 [2068][2068l]|[Check Whether Two Strings are Almost Equivalent][2068]                               |![rs]
 [2069][2069l]|[Walking Robot Simulation II][2069]                                                   |![py]
 [2073][2073l]|[Time Needed to Buy Tickets][2073]                                                    |![py]
+[2075][2075l]|[Decode the Slanted Ciphertext][2075]                                                 |![rs]
 [2078][2078l]|[Two Furthest Houses With Different Colors][2078]                                     |![rs]
 [2079][2079l]|[Watering Plants][2079]                                                               |![rs]
 [2080][2080l]|[Range Frequency Queries][2080]                                                       |![rs]
@@ -2179,6 +2180,7 @@
 [2068]:Problemset/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README.md#2068-check-whether-two-strings-are-almost-equivalent
 [2069]:Problemset/2069-Walking%20Robot%20Simulation%20II/README.md#2069-walking-robot-simulation-ii
 [2073]:Problemset/2073-Time%20Needed%20to%20Buy%20Tickets/README.md#2073-time-needed-to-buy-tickets
+[2075]:Problemset/2075-Decode%20the%20Slanted%20Ciphertext/README.md#2075-decode-the-slanted-ciphertext
 [2078]:Problemset/2078-Two%20Furthest%20Houses%20With%20Different%20Colors/README.md#2078-two-furthest-houses-with-different-colors
 [2079]:Problemset/2079-Watering%20Plants/README.md#2079-watering-plants
 [2080]:Problemset/2080-Range%20Frequency%20Queries/README.md#2080-range-frequency-queries
@@ -3385,6 +3387,7 @@
 [2068l]:https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
 [2069l]:https://leetcode.com/problems/walking-robot-simulation-ii/
 [2073l]:https://leetcode.com/problems/time-needed-to-buy-tickets/
+[2075l]:https://leetcode.com/problems/decode-the-slanted-ciphertext/
 [2078l]:https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 [2079l]:https://leetcode.com/problems/watering-plants/
 [2080l]:https://leetcode.com/problems/range-frequency-queries/
