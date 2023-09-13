@@ -976,6 +976,7 @@
 [2063][2063l]|[Vowels of All Substrings][2063]                                                      |![rs]
 [2068][2068l]|[Check Whether Two Strings are Almost Equivalent][2068]                               |![rs]
 [2069][2069l]|[Walking Robot Simulation II][2069]                                                   |![py]
+[2070][2070l]|[Most Beautiful Item for Each Query][2070]                                            |![rs]
 [2073][2073l]|[Time Needed to Buy Tickets][2073]                                                    |![py]
 [2075][2075l]|[Decode the Slanted Ciphertext][2075]                                                 |![rs]
 [2078][2078l]|[Two Furthest Houses With Different Colors][2078]                                     |![rs]
@@ -2179,6 +2180,7 @@
 [2063]:Problemset/2063-Vowels%20of%20All%20Substrings/README.md#2063-vowels-of-all-substrings
 [2068]:Problemset/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README.md#2068-check-whether-two-strings-are-almost-equivalent
 [2069]:Problemset/2069-Walking%20Robot%20Simulation%20II/README.md#2069-walking-robot-simulation-ii
+[2070]:Problemset/2070-Most%20Beautiful%20Item%20for%20Each%20Query/README.md#2070-most-beautiful-item-for-each-query
 [2073]:Problemset/2073-Time%20Needed%20to%20Buy%20Tickets/README.md#2073-time-needed-to-buy-tickets
 [2075]:Problemset/2075-Decode%20the%20Slanted%20Ciphertext/README.md#2075-decode-the-slanted-ciphertext
 [2078]:Problemset/2078-Two%20Furthest%20Houses%20With%20Different%20Colors/README.md#2078-two-furthest-houses-with-different-colors
@@ -3386,6 +3388,7 @@
 [2063l]:https://leetcode.com/problems/vowels-of-all-substrings/
 [2068l]:https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
 [2069l]:https://leetcode.com/problems/walking-robot-simulation-ii/
+[2070l]:https://leetcode.com/problems/most-beautiful-item-for-each-query/
 [2073l]:https://leetcode.com/problems/time-needed-to-buy-tickets/
 [2075l]:https://leetcode.com/problems/decode-the-slanted-ciphertext/
 [2078l]:https://leetcode.com/problems/two-furthest-houses-with-different-colors/
