@@ -1108,6 +1108,7 @@
 [2348][2348l]|[Number of Zero-Filled Subarrays][2348]                                               |![rs]
 [2349][2349l]|[Design a Number Container System][2349]                                              |![rs]
 [2351][2351l]|[First Letter to Appear Twice][2351]                                                  |![rs]
+[2352][2352l]|[Equal Row and Column Pairs][2352]                                                    |![rs]
 [2357][2357l]|[Make Array Zero by Subtracting Equal Amounts][2357]                                  |![rs]
 [2358][2358l]|[Maximum Number of Groups Entering a Competition][2358]                               |![rs]
 [2363][2363l]|[Merge Similar Items][2363]                                                           |![rs]
@@ -2312,6 +2313,7 @@
 [2348]:Problemset/2348-Number%20of%20Zero-Filled%20Subarrays/README.md#2348-number-of-zero-filled-subarrays
 [2349]:Problemset/2349-Design%20a%20Number%20Container%20System/README.md#2349-design-a-number-container-system
 [2351]:Problemset/2351-First%20Letter%20to%20Appear%20Twice/README.md#2351-first-letter-to-appear-twice
+[2352]:Problemset/2352-Equal%20Row%20and%20Column%20Pairs/README.md#2352-equal-row-and-column-pairs
 [2357]:Problemset/2357-Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts/README.md#2357-make-array-zero-by-subtracting-equal-amounts
 [2358]:Problemset/2358-Maximum%20Number%20of%20Groups%20Entering%20a%20Competition/README.md#2358-maximum-number-of-groups-entering-a-competition
 [2363]:Problemset/2363-Merge%20Similar%20Items/README.md#2363-merge-similar-items
@@ -3520,6 +3522,7 @@
 [2348l]:https://leetcode.com/problems/number-of-zero-filled-subarrays/
 [2349l]:https://leetcode.com/problems/design-a-number-container-system/
 [2351l]:https://leetcode.com/problems/first-letter-to-appear-twice/
+[2352l]:https://leetcode.com/problems/equal-row-and-column-pairs/
 [2357l]:https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
 [2358l]:https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
 [2363l]:https://leetcode.com/problems/merge-similar-items/

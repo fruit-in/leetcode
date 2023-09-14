@@ -1108,6 +1108,7 @@
 [2348][2348l]|[全 0 子数组的数目][2348]                                 |![rs]
 [2349][2349l]|[设计数字容器系统][2349]                                  |![rs]
 [2351][2351l]|[第一个出现两次的字母][2351]                              |![rs]
+[2352][2352l]|[相等行列对][2352]                                        |![rs]
 [2357][2357l]|[使数组中所有元素都等于零][2357]                          |![rs]
 [2358][2358l]|[分组的最大数量][2358]                                    |![rs]
 [2363][2363l]|[合并相似的物品][2363]                                    |![rs]
@@ -2312,6 +2313,7 @@
 [2348]:Problemset/2348-Number%20of%20Zero-Filled%20Subarrays/README_CN.md#2348-全-0-子数组的数目
 [2349]:Problemset/2349-Design%20a%20Number%20Container%20System/README_CN.md#2349-设计数字容器系统
 [2351]:Problemset/2351-First%20Letter%20to%20Appear%20Twice/README_CN.md#2351-第一个出现两次的字母
+[2352]:Problemset/2352-Equal%20Row%20and%20Column%20Pairs/README_CN.md#2352-相等行列对
 [2357]:Problemset/2357-Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts/README_CN.md#2357-使数组中所有元素都等于零
 [2358]:Problemset/2358-Maximum%20Number%20of%20Groups%20Entering%20a%20Competition/README_CN.md#2358-分组的最大数量
 [2363]:Problemset/2363-Merge%20Similar%20Items/README_CN.md#2363-合并相似的物品
@@ -3520,6 +3522,7 @@
 [2348l]:https://leetcode.cn/problems/number-of-zero-filled-subarrays/
 [2349l]:https://leetcode.cn/problems/design-a-number-container-system/
 [2351l]:https://leetcode.cn/problems/first-letter-to-appear-twice/
+[2352l]:https://leetcode.cn/problems/equal-row-and-column-pairs/
 [2357l]:https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/
 [2358l]:https://leetcode.cn/problems/maximum-number-of-groups-entering-a-competition/
 [2363l]:https://leetcode.cn/problems/merge-similar-items/
