@@ -523,6 +523,7 @@
 [985][985l]  |[查询后的偶数和][985]                                     |![py]
 [986][986l]  |[区间列表的交集][986]                                     |![rb]&nbsp;&nbsp;![rs]
 [989][989l]  |[数组形式的整数加法][989]                                 |![py]
+[990][990l]  |[等式方程的可满足性][990]                                 |![rs]
 [991][991l]  |[坏了的计算器][991]                                       |![rs]
 [993][993l]  |[二叉树的堂兄弟节点][993]                                 |![py]
 [994][994l]  |[腐烂的橘子][994]                                         |![rs]
@@ -1728,6 +1729,7 @@
 [985]:Problemset/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README_CN.md#985-查询后的偶数和
 [986]:Problemset/0986-Interval%20List%20Intersections/README_CN.md#986-区间列表的交集
 [989]:Problemset/0989-Add%20to%20Array-Form%20of%20Interger/README_CN.md#989-数组形式的整数加法
+[990]:Problemset/0990-Satisfiability%20of%20Equality%20Equations/README_CN.md#990-等式方程的可满足性
 [991]:Problemset/0991-Broken%20Calculator/README_CN.md#991-坏了的计算器
 [993]:Problemset/0993-Cousins%20in%20Binary%20Tree/README_CN.md#993-二叉树的堂兄弟节点
 [994]:Problemset/0994-Rotting%20Oranges/README_CN.md#994-腐烂的橘子
@@ -2937,6 +2939,7 @@
 [985l]:https://leetcode.cn/problems/sum-of-even-numbers-after-queries/
 [986l]:https://leetcode.cn/problems/interval-list-intersections/
 [989l]:https://leetcode.cn/problems/add-to-array-form-of-interger/
+[990l]:https://leetcode.cn/problems/satisfiability-of-equality-equations/
 [991l]:https://leetcode.cn/problems/broken-calculator/
 [993l]:https://leetcode.cn/problems/cousins-in-binary-tree/
 [994l]:https://leetcode.cn/problems/rotting-oranges/

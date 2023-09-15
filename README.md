@@ -523,6 +523,7 @@
 [985][985l]  |[Sum of Even Numbers After Queries][985]                                              |![py]
 [986][986l]  |[Interval List Intersections][986]                                                    |![rb]&nbsp;&nbsp;![rs]
 [989][989l]  |[Add to Array-Form of Interger][989]                                                  |![py]
+[990][990l]  |[Satisfiability of Equality Equations][990]                                           |![rs]
 [991][991l]  |[Broken Calculator][991]                                                              |![rs]
 [993][993l]  |[Cousins in Binary Tree][993]                                                         |![py]
 [994][994l]  |[Rotting Oranges][994]                                                                |![rs]
@@ -1728,6 +1729,7 @@
 [985]:Problemset/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README.md#985-sum-of-even-numbers-after-queries
 [986]:Problemset/0986-Interval%20List%20Intersections/README.md#986-interval-list-intersections
 [989]:Problemset/0989-Add%20to%20Array-Form%20of%20Interger/README.md#989-add-to-array-form-of-interger
+[990]:Problemset/0990-Satisfiability%20of%20Equality%20Equations/README.md#990-satisfiability-of-equality-equations
 [991]:Problemset/0991-Broken%20Calculator/README.md#991-broken-calculator
 [993]:Problemset/0993-Cousins%20in%20Binary%20Tree/README.md#993-cousins-in-binary-tree
 [994]:Problemset/0994-Rotting%20Oranges/README.md#994-rotting-oranges
@@ -2937,6 +2939,7 @@
 [985l]:https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [986l]:https://leetcode.com/problems/interval-list-intersections/
 [989l]:https://leetcode.com/problems/add-to-array-form-of-interger/
+[990l]:https://leetcode.com/problems/satisfiability-of-equality-equations/
 [991l]:https://leetcode.com/problems/broken-calculator/
 [993l]:https://leetcode.com/problems/cousins-in-binary-tree/
 [994l]:https://leetcode.com/problems/rotting-oranges/
