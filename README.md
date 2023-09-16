@@ -530,6 +530,7 @@
 [997][997l]  |[Find the Town Judge][997]                                                            |![rs]
 [998][998l]  |[Maximum Binary Tree II][998]                                                         |![py]&nbsp;&nbsp;![rb]
 [999][999l]  |[Available Captures for Rook][999]                                                    |![rs]
+[1001][1001l]|[Grid Illumination][1001]                                                             |![rs]
 [1002][1002l]|[Find Common Characters][1002]                                                        |![py]
 [1003][1003l]|[Check If Word Is Valid After Substitutions][1003]                                    |![py]
 [1004][1004l]|[Max Consecutive Ones III][1004]                                                      |![rs]
@@ -1737,6 +1738,7 @@
 [997]:Problemset/0997-Find%20the%20Town%20Judge/README.md#997-find-the-town-judge
 [998]:Problemset/0998-Maximum%20Binary%20Tree%20II/README.md#998-maximum-binary-tree-ii
 [999]:Problemset/0999-Available%20Captures%20for%20Rook/README.md#999-available-captures-for-rook
+[1001]:Problemset/1001-Grid%20Illumination/README.md#1001-grid-illumination
 [1002]:Problemset/1002-Find%20Common%20Characters/README.md#1002-find-common-characters
 [1003]:Problemset/1003-Check%20If%20Word%20Is%20Valid%20After%20Substitutions/README.md#1003-check-if-word-is-valid-after-substitutions
 [1004]:Problemset/1004-Max%20Consecutive%20Ones%20III/README.md#1004-max-consecutive-ones-iii
@@ -2948,6 +2950,7 @@
 [997l]:https://leetcode.com/problems/find-the-town-judge/
 [998l]:https://leetcode.com/problems/maximum-binary-tree-ii/
 [999l]:https://leetcode.com/problems/available-captures-for-rook/
+[1001l]:https://leetcode.com/problems/grid-illumination/
 [1002l]:https://leetcode.com/problems/find-common-characters/
 [1003l]:https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/
 [1004l]:https://leetcode.com/problems/max-consecutive-ones-iii/

@@ -530,6 +530,7 @@
 [997][997l]  |[找到小镇的法官][997]                                     |![rs]
 [998][998l]  |[最大二叉树 II][998]                                      |![py]&nbsp;&nbsp;![rb]
 [999][999l]  |[车的可用捕获量][999]                                     |![rs]
+[1001][1001l]|[网格照明][1001]                                          |![rs]
 [1002][1002l]|[查找常用字符][1002]                                      |![py]
 [1003][1003l]|[检查替换后的词是否有效][1003]                            |![py]
 [1004][1004l]|[最大连续1的个数 III][1004]                               |![rs]
@@ -1737,6 +1738,7 @@
 [997]:Problemset/0997-Find%20the%20Town%20Judge/README_CN.md#997-找到小镇的法官
 [998]:Problemset/0998-Maximum%20Binary%20Tree%20II/README_CN.md#998-最大二叉树-ii
 [999]:Problemset/0999-Available%20Captures%20for%20Rook/README_CN.md#999-车的可用捕获量
+[1001]:Problemset/1001-Grid%20Illumination/README_CN.md#1001-网格照明
 [1002]:Problemset/1002-Find%20Common%20Characters/README_CN.md#1002-查找常用字符
 [1003]:Problemset/1003-Check%20If%20Word%20Is%20Valid%20After%20Substitutions/README_CN.md#1003-检查替换后的词是否有效
 [1004]:Problemset/1004-Max%20Consecutive%20Ones%20III/README_CN.md#1004-最大连续1的个数-iii
@@ -2948,6 +2950,7 @@
 [997l]:https://leetcode.cn/problems/find-the-town-judge/
 [998l]:https://leetcode.cn/problems/maximum-binary-tree-ii/
 [999l]:https://leetcode.cn/problems/available-captures-for-rook/
+[1001l]:https://leetcode.cn/problems/grid-illumination/
 [1002l]:https://leetcode.cn/problems/find-common-characters/
 [1003l]:https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions/
 [1004l]:https://leetcode.cn/problems/max-consecutive-ones-iii/
