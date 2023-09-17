@@ -631,6 +631,7 @@
 [1266][1266l]|[Minimum Time Visiting All Points][1266]                                              |![rb]&nbsp;&nbsp;![rs]
 [1267][1267l]|[Count Servers that Communicate][1267]                                                |![rb]&nbsp;&nbsp;![rs]
 [1268][1268l]|[Search Suggestions System][1268]                                                     |![rs]
+[1269][1269l]|[Number of Ways to Stay in the Same Place After Some Steps][1269]                     |![rs]
 [1275][1275l]|[Find Winner on a Tic Tac Toe Game][1275]                                             |![rs]
 [1276][1276l]|[Number of Burgers with No Waste of Ingredients][1276]                                |![py]&nbsp;&nbsp;![rs]
 [1277][1277l]|[Count Square Submatrices with All Ones][1277]                                        |![rs]
@@ -1840,6 +1841,7 @@
 [1266]:Problemset/1266-Minimum%20Time%20Visiting%20All%20Points/README.md#1266-minimum-time-visiting-all-points
 [1267]:Problemset/1267-Count%20Servers%20that%20Communicate/README.md#1267-count-servers-that-communicate
 [1268]:Problemset/1268-Search%20Suggestions%20System/README.md#1268-search-suggestions-system
+[1269]:Problemset/1269-Number%20of%20Ways%20to%20Stay%20in%20the%20Same%20Place%20After%20Some%20Steps/README.md#1269-number-of-ways-to-stay-in-the-same-place-after-some-steps
 [1275]:Problemset/1275-Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/README.md#1275-find-winner-on-a-tic-tac-toe-game
 [1276]:Problemset/1276-Number%20of%20Burgers%20with%20No%20Waste%20of%20Ingredients/README.md#1276-number-of-burgers-with-no-waste-of-ingredients
 [1277]:Problemset/1277-Count%20Square%20Submatrices%20with%20All%20Ones/README.md#1277-count-square-submatrices-with-all-ones
@@ -3053,6 +3055,7 @@
 [1266l]:https://leetcode.com/problems/minimum-time-visiting-all-points/
 [1267l]:https://leetcode.com/problems/count-servers-that-communicate/
 [1268l]:https://leetcode.com/problems/search-suggestions-system/
+[1269l]:https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
 [1275l]:https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
 [1276l]:https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/
 [1277l]:https://leetcode.com/problems/count-square-submatrices-with-all-ones/

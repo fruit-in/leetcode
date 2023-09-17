@@ -631,6 +631,7 @@
 [1266][1266l]|[访问所有点的最小时间][1266]                              |![rb]&nbsp;&nbsp;![rs]
 [1267][1267l]|[统计参与通信的服务器][1267]                              |![rb]&nbsp;&nbsp;![rs]
 [1268][1268l]|[搜索推荐系统][1268]                                      |![rs]
+[1269][1269l]|[停在原地的方案数][1269]                                  |![rs]
 [1275][1275l]|[找出井字棋的获胜者][1275]                                |![rs]
 [1276][1276l]|[不浪费原料的汉堡制作方案][1276]                          |![py]&nbsp;&nbsp;![rs]
 [1277][1277l]|[统计全为 1 的正方形子矩阵][1277]                         |![rs]
@@ -1840,6 +1841,7 @@
 [1266]:Problemset/1266-Minimum%20Time%20Visiting%20All%20Points/README_CN.md#1266-访问所有点的最小时间
 [1267]:Problemset/1267-Count%20Servers%20that%20Communicate/README_CN.md#1267-统计参与通信的服务器
 [1268]:Problemset/1268-Search%20Suggestions%20System/README_CN.md#1268-搜索推荐系统
+[1269]:Problemset/1269-Number%20of%20Ways%20to%20Stay%20in%20the%20Same%20Place%20After%20Some%20Steps/README_CN.md#1269-停在原地的方案数
 [1275]:Problemset/1275-Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/README_CN.md#1275-找出井字棋的获胜者
 [1276]:Problemset/1276-Number%20of%20Burgers%20with%20No%20Waste%20of%20Ingredients/README_CN.md#1276-不浪费原料的汉堡制作方案
 [1277]:Problemset/1277-Count%20Square%20Submatrices%20with%20All%20Ones/README_CN.md#1277-统计全为-1-的正方形子矩阵
@@ -3053,6 +3055,7 @@
 [1266l]:https://leetcode.cn/problems/minimum-time-visiting-all-points/
 [1267l]:https://leetcode.cn/problems/count-servers-that-communicate/
 [1268l]:https://leetcode.cn/problems/search-suggestions-system/
+[1269l]:https://leetcode.cn/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
 [1275l]:https://leetcode.cn/problems/find-winner-on-a-tic-tac-toe-game/
 [1276l]:https://leetcode.cn/problems/number-of-burgers-with-no-waste-of-ingredients/
 [1277l]:https://leetcode.cn/problems/count-square-submatrices-with-all-ones/
