@@ -1193,6 +1193,7 @@
 [2562][2562l]|[找出数组的串联值][2562]                                  |![rs]
 [2566][2566l]|[替换一个数字后的最大差值][2566]                          |![py]
 [2570][2570l]|[合并两个二维数组 - 求和法][2570]                         |![rs]
+[2574][2574l]|[左右元素和的差值][2574]                                  |![rs]
 [2579][2579l]|[统计染色格子数][2579]                                    |![rs]
 [2593][2593l]|[标记所有元素后数组的分数][2593]                          |![rs]
 [2594][2594l]|[修车的最少时间][2594]                                    |![rs]
@@ -2401,6 +2402,7 @@
 [2562]:Problemset/2562-Find%20the%20Array%20Concatenation%20Value/README_CN.md#2562-找出数组的串联值
 [2566]:Problemset/2566-Maximum%20Difference%20by%20Remapping%20a%20Digit/README_CN.md#2566-替换一个数字后的最大差值
 [2570]:Problemset/2570-Merge%20Two%202D%20Arrays%20by%20Summing%20Values/README_CN.md#2570-合并两个二维数组---求和法
+[2574]:Problemset/2574-Left%20and%20Right%20Sum%20Differences/README_CN.md#2574-左右元素和的差值
 [2579]:Problemset/2579-Count%20Total%20Number%20of%20Colored%20Cells/README_CN.md#2579-统计染色格子数
 [2593]:Problemset/2593-Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements/README_CN.md#2593-标记所有元素后数组的分数
 [2594]:Problemset/2594-Minimum%20Time%20to%20Repair%20Cars/README_CN.md#2594-修车的最少时间
@@ -3613,6 +3615,7 @@
 [2562l]:https://leetcode.cn/problems/find-the-array-concatenation-value/
 [2566l]:https://leetcode.cn/problems/maximum-difference-by-remapping-a-digit/
 [2570l]:https://leetcode.cn/problems/merge-two-2d-arrays-by-summing-values/
+[2574l]:https://leetcode.cn/problems/left-and-right-sum-differences/
 [2579l]:https://leetcode.cn/problems/count-total-number-of-colored-cells/
 [2593l]:https://leetcode.cn/problems/find-score-of-an-array-after-marking-all-elements/
 [2594l]:https://leetcode.cn/problems/minimum-time-to-repair-cars/
