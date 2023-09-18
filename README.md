@@ -221,6 +221,7 @@
 [401][401l]  |[Binary Watch][401]                                                                   |![py]
 [404][404l]  |[Sum of Left Leaves][404]                                                             |![py]
 [405][405l]  |[Convert a Number to Hexadecimal][405]                                                |![py]
+[406][406l]  |[Queue Reconstruction by Height][406]                                                 |![rs]
 [409][409l]  |[Longest Palindrome][409]                                                             |![rs]
 [410][410l]  |[Split Array Largest Sum][410]                                                        |![rs]
 [412][412l]  |[Fizz Buzz][412]                                                                      |![py]
@@ -1431,6 +1432,7 @@
 [401]:Problemset/0401-Binary%20Watch/README.md#401-binary-watch
 [404]:Problemset/0404-Sum%20of%20Left%20Leaves/README.md#404-sum-of-left-leaves
 [405]:Problemset/0405-Convert%20a%20Number%20to%20Hexadecimal/README.md#405-convert-a-number-to-hexadecimal
+[406]:Problemset/0406-Queue%20Reconstruction%20by%20Height/README.md#406-queue-reconstruction-by-height
 [409]:Problemset/0409-Longest%20Palindrome/README.md#409-longest-palindrome
 [410]:Problemset/0410-Split%20Array%20Largest%20Sum/README.md#410-split-array-largest-sum
 [412]:Problemset/0412-Fizz%20Buzz/README.md#412-fizz-buzz
@@ -2641,6 +2643,7 @@
 [401l]:https://leetcode.com/problems/binary-watch/
 [404l]:https://leetcode.com/problems/sum-of-left-leaves/
 [405l]:https://leetcode.com/problems/convert-a-number-to-hexadecimal/
+[406l]:https://leetcode.com/problems/queue-reconstruction-by-height/
 [409l]:https://leetcode.com/problems/longest-palindrome/
 [410l]:https://leetcode.com/problems/split-array-largest-sum/
 [412l]:https://leetcode.com/problems/fizz-buzz/

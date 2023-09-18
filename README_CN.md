@@ -221,6 +221,7 @@
 [401][401l]  |[二进制手表][401]                                         |![py]
 [404][404l]  |[左叶子之和][404]                                         |![py]
 [405][405l]  |[数字转换为十六进制数][405]                               |![py]
+[406][406l]  |[根据身高重建队列][406]                                   |![rs]
 [409][409l]  |[最长回文串][409]                                         |![rs]
 [410][410l]  |[分割数组的最大值][410]                                   |![rs]
 [412][412l]  |[Fizz Buzz][412]                                          |![py]
@@ -1431,6 +1432,7 @@
 [401]:Problemset/0401-Binary%20Watch/README_CN.md#401-二进制手表
 [404]:Problemset/0404-Sum%20of%20Left%20Leaves/README_CN.md#404-左叶子之和
 [405]:Problemset/0405-Convert%20a%20Number%20to%20Hexadecimal/README_CN.md#405-数字转换为十六进制数
+[406]:Problemset/0406-Queue%20Reconstruction%20by%20Height/README_CN.md#406-根据身高重建队列
 [409]:Problemset/0409-Longest%20Palindrome/README_CN.md#409-最长回文串
 [410]:Problemset/0410-Split%20Array%20Largest%20Sum/README_CN.md#410-分割数组的最大值
 [412]:Problemset/0412-Fizz%20Buzz/README_CN.md#412-fizz-buzz
@@ -2641,6 +2643,7 @@
 [401l]:https://leetcode.cn/problems/binary-watch/
 [404l]:https://leetcode.cn/problems/sum-of-left-leaves/
 [405l]:https://leetcode.cn/problems/convert-a-number-to-hexadecimal/
+[406l]:https://leetcode.cn/problems/queue-reconstruction-by-height/
 [409l]:https://leetcode.cn/problems/longest-palindrome/
 [410l]:https://leetcode.cn/problems/split-array-largest-sum/
 [412l]:https://leetcode.cn/problems/fizz-buzz/
