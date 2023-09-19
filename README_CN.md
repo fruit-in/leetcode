@@ -900,6 +900,7 @@
 [1837][1837l]|[K 进制表示下的各位数字总和][1837]                        |![rb]&nbsp;&nbsp;![rs]
 [1844][1844l]|[将所有数字用字符替换][1844]                              |![rs]
 [1845][1845l]|[座位预约管理系统][1845]                                  |![py]
+[1846][1846l]|[减小和重新排列数组后的最大元素][1846]                    |![rs]
 [1848][1848l]|[到目标元素的最小距离][1848]                              |![rs]
 [1854][1854l]|[人口最多的年份][1854]                                    |![rs]
 [1855][1855l]|[下标对中的最大距离][1855]                                |![py]
@@ -2111,6 +2112,7 @@
 [1837]:Problemset/1837-Sum%20of%20Digits%20in%20Base%20K/README_CN.md#1837-k-进制表示下的各位数字总和
 [1844]:Problemset/1844-Replace%20All%20Digits%20with%20Characters/README_CN.md#1844-将所有数字用字符替换
 [1845]:Problemset/1845-Seat%20Reservation%20Manager/README_CN.md#1845-座位预约管理系统
+[1846]:Problemset/1846-Maximum%20Element%20After%20Decreasing%20and%20Rearranging/README_CN.md#1846-减小和重新排列数组后的最大元素
 [1848]:Problemset/1848-Minimum%20Distance%20to%20the%20Target%20Element/README_CN.md#1848-到目标元素的最小距离
 [1854]:Problemset/1854-Maximum%20Population%20Year/README_CN.md#1854-人口最多的年份
 [1855]:Problemset/1855-Maximum%20Distance%20Between%20a%20Pair%20of%20Values/README_CN.md#1855-下标对中的最大距离
@@ -3326,6 +3328,7 @@
 [1837l]:https://leetcode.cn/problems/sum-of-digits-in-base-k/
 [1844l]:https://leetcode.cn/problems/replace-all-digits-with-character/
 [1845l]:https://leetcode.cn/problems/seat-reservation-manager/
+[1846l]:https://leetcode.cn/problems/maximum-element-after-decreasing-and-rearranging/
 [1848l]:https://leetcode.cn/problems/minimum-distance-to-the-target-element/
 [1854l]:https://leetcode.cn/problems/maximum-population-year/
 [1855l]:https://leetcode.cn/problems/maximum-distance-between-a-pair-of-values/
