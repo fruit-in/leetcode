@@ -597,6 +597,7 @@
 [1160][1160l]|[拼写单词][1160]                                          |![py]
 [1161][1161l]|[最大层内元素和][1161]                                    |![py]
 [1162][1162l]|[地图分析][1162]                                          |![rs]
+[1169][1169l]|[查询无效交易][1169]                                      |![rs]
 [1170][1170l]|[比较字符串最小字母出现频次][1170]                        |![py]
 [1172][1172l]|[餐盘栈][1172]                                            |![rs]
 [1175][1175l]|[质数排列][1175]                                          |![rs]
@@ -1809,6 +1810,7 @@
 [1160]:Problemset/1160-Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/README_CN.md#1160-拼写单词
 [1161]:Problemset/1161-Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/README_CN.md#1161-最大层内元素和
 [1162]:Problemset/1162-As%20Far%20from%20Land%20as%20Possible/README_CN.md#1162-地图分析
+[1169]:Problemset/1169-Invalid%20Transactions/README_CN.md#1169-查询无效交易
 [1170]:Problemset/1170-Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/README_CN.md#1170-比较字符串最小字母出现频次
 [1172]:Problemset/1172-Dinner%20Plate%20Stacks/README_CN.md#1172-餐盘栈
 [1175]:Problemset/1175-Prime%20Arrangements/README_CN.md#1175-质数排列
@@ -3025,6 +3027,7 @@
 [1160l]:https://leetcode.cn/problems/find-words-that-can-be-formed-by-characters/
 [1161l]:https://leetcode.cn/problems/maximum-level-sum-of-a-binary-tree/
 [1162l]:https://leetcode.cn/problems/as-far-from-land-as-possible/
+[1169l]:https://leetcode.cn/problems/invalid-transactions/
 [1170l]:https://leetcode.cn/problems/compare-strings-by-frequency-of-the-smallest-character/
 [1172l]:https://leetcode.cn/problems/dinner-plate-stacks/
 [1175l]:https://leetcode.cn/problems/prime-arrangements/
