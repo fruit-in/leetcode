@@ -523,6 +523,7 @@
 [984][984l]  |[String Without AAA or BBB][984]                                                      |![rb]
 [985][985l]  |[Sum of Even Numbers After Queries][985]                                              |![py]
 [986][986l]  |[Interval List Intersections][986]                                                    |![rb]&nbsp;&nbsp;![rs]
+[988][988l]  |[Smallest String Starting From Leaf][988]                                             |![py]
 [989][989l]  |[Add to Array-Form of Interger][989]                                                  |![py]
 [990][990l]  |[Satisfiability of Equality Equations][990]                                           |![rs]
 [991][991l]  |[Broken Calculator][991]                                                              |![rs]
@@ -1736,6 +1737,7 @@
 [984]:Problemset/0984-String%20Without%20AAA%20or%20BBB/README.md#984-string-without-aaa-or-bbb
 [985]:Problemset/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README.md#985-sum-of-even-numbers-after-queries
 [986]:Problemset/0986-Interval%20List%20Intersections/README.md#986-interval-list-intersections
+[988]:Problemset/0988-Smallest%20String%20Starting%20From%20Leaf/README.md#988-smallest-string-starting-from-leaf
 [989]:Problemset/0989-Add%20to%20Array-Form%20of%20Interger/README.md#989-add-to-array-form-of-interger
 [990]:Problemset/0990-Satisfiability%20of%20Equality%20Equations/README.md#990-satisfiability-of-equality-equations
 [991]:Problemset/0991-Broken%20Calculator/README.md#991-broken-calculator
@@ -2953,6 +2955,7 @@
 [984l]:https://leetcode.com/problems/string-without-aaa-or-bbb/
 [985l]:https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [986l]:https://leetcode.com/problems/interval-list-intersections/
+[988l]:https://leetcode.com/problems/smallest-string-starting-from-leaf/
 [989l]:https://leetcode.com/problems/add-to-array-form-of-interger/
 [990l]:https://leetcode.com/problems/satisfiability-of-equality-equations/
 [991l]:https://leetcode.com/problems/broken-calculator/
