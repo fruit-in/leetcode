@@ -1041,6 +1041,7 @@
 [2178][2178l]|[Maximum Split of Positive Even Integers][2178]                                       |![rs]
 [2180][2180l]|[Count Integers With Even Digit Sum][2180]                                            |![py]
 [2181][2181l]|[Merge Nodes in Between Zeros][2181]                                                  |![py]
+[2182][2182l]|[Construct String With Repeat Limit][2182]                                            |![rs]
 [2185][2185l]|[Counting Words With a Given Prefix][2185]                                            |![rs]
 [2186][2186l]|[Minimum Number of Steps to Make Two Strings Anagram II][2186]                        |![rs]
 [2187][2187l]|[Minimum Time to Complete Trips][2187]                                                |![rs]
@@ -2255,6 +2256,7 @@
 [2178]:Problemset/2178-Maximum%20Split%20of%20Positive%20Even%20Integers/README.md#2178-maximum-split-of-positive-even-integers
 [2180]:Problemset/2180-Count%20Integers%20With%20Even%20Digit%20Sum/README.md#2180-count-integers-with-even-digit-sum
 [2181]:Problemset/2181-Merge%20Nodes%20in%20Between%20Zeros/README.md#2181-merge-nodes-in-between-zeros
+[2182]:Problemset/2182-Construct%20String%20With%20Repeat%20Limit/README.md#2182-construct-string-with-repeat-limit
 [2185]:Problemset/2185-Counting%20Words%20With%20a%20Given%20Prefix/README.md#2185-counting-words-with-a-given-prefix
 [2186]:Problemset/2186-Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II/README.md#2186-minimum-number-of-steps-to-make-two-strings-anagram-ii
 [2187]:Problemset/2187-Minimum%20Time%20to%20Complete%20Trips/README.md#2187-minimum-time-to-complete-trips
@@ -3473,6 +3475,7 @@
 [2178l]:https://leetcode.com/problems/maximum-split-of-positive-even-integers/
 [2180l]:https://leetcode.com/problems/count-integers-with-even-digit-sum/
 [2181l]:https://leetcode.com/problems/merge-nodes-in-between-zeros/
+[2182l]:https://leetcode.com/problems/construct-string-with-repeat-limit/
 [2185l]:https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2186l]:https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 [2187l]:https://leetcode.com/problems/minimum-time-to-complete-trips/
