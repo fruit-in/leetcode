@@ -1074,6 +1074,7 @@
 [2243][2243l]|[Calculate Digit Sum of a String][2243]                                               |![py]
 [2244][2244l]|[Minimum Rounds to Complete All Tasks][2244]                                          |![py]
 [2248][2248l]|[Intersection of Multiple Arrays][2248]                                               |![py]
+[2251][2251l]|[Number of Flowers in Full Bloom][2251]                                               |![rs]
 [2255][2255l]|[Count Prefixes of a Given String][2255]                                              |![rs]
 [2256][2256l]|[Minimum Average Difference][2256]                                                    |![rs]
 [2259][2259l]|[Remove Digit From Number to Maximize Result][2259]                                   |![py]
@@ -2290,6 +2291,7 @@
 [2243]:Problemset/2243-Calculate%20Digit%20Sum%20of%20a%20String/README.md#2243-calculate-digit-sum-of-a-string
 [2244]:Problemset/2244-Minimum%20Rounds%20to%20Complete%20All%20Tasks/README.md#2244-minimum-rounds-to-complete-all-tasks
 [2248]:Problemset/2248-Intersection%20of%20Multiple%20Arrays/README.md#2248-intersection-of-multiple-arrays
+[2251]:Problemset/2251-Number%20of%20Flowers%20in%20Full%20Bloom/README.md#2251-number-of-flowers-in-full-bloom
 [2255]:Problemset/2255-Count%20Prefixes%20of%20a%20Given%20String/README.md#2255-count-prefixes-of-a-given-string
 [2256]:Problemset/2256-Minimum%20Average%20Difference/README.md#2256-minimum-average-difference
 [2259]:Problemset/2259-Remove%20Digit%20From%20Number%20to%20Maximize%20Result/README.md#2259-remove-digit-from-number-to-maximize-result
@@ -3510,6 +3512,7 @@
 [2243l]:https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 [2244l]:https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
 [2248l]:https://leetcode.com/problems/intersection-of-multiple-arrays/
+[2251l]:https://leetcode.com/problems/number-of-flowers-in-full-bloom/
 [2255l]:https://leetcode.com/problems/count-prefixes-of-a-given-string/
 [2256l]:https://leetcode.com/problems/minimum-average-difference/
 [2259l]:https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
