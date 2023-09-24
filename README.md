@@ -1150,6 +1150,7 @@
 [2420][2420l]|[Find All Good Indices][2420]                                                         |![rs]
 [2423][2423l]|[Remove Letter To Equalize Frequency][2423]                                           |![rs]
 [2425][2425l]|[Bitwise XOR of All Pairings][2425]                                                   |![rs]
+[2426][2426l]|[Number of Pairs Satisfying Inequality][2426]                                         |![rs]
 [2427][2427l]|[Number of Common Factors][2427]                                                      |![rs]
 [2428][2428l]|[Maximum Sum of an Hourglass][2428]                                                   |![rs]
 [2429][2429l]|[Minimize XOR][2429]                                                                  |![rs]
@@ -2367,6 +2368,7 @@
 [2420]:Problemset/2420-Find%20All%20Good%20Indices/README.md#2420-find-all-good-indices
 [2423]:Problemset/2423-Remove%20Letter%20To%20Equalize%20Frequency/README.md#2423-remove-letter-to-equalize-frequency
 [2425]:Problemset/2425-Bitwise%20XOR%20of%20All%20Pairings/README.md#2425-bitwise-xor-of-all-pairings
+[2426]:Problemset/2426-Number%20of%20Pairs%20Satisfying%20Inequality/README.md#2426-number-of-pairs-satisfying-inequality
 [2427]:Problemset/2427-Number%20of%20Common%20Factors/README.md#2427-number-of-common-factors
 [2428]:Problemset/2428-Maximum%20Sum%20of%20an%20Hourglass/README.md#2428-maximum-sum-of-an-hourglass
 [2429]:Problemset/2429-Minimize%20XOR/README.md#2429-minimize-xor
@@ -3588,6 +3590,7 @@
 [2420l]:https://leetcode.com/problems/find-all-good-indices/
 [2423l]:https://leetcode.com/problems/remove-letter-to-equalize-frequency/
 [2425l]:https://leetcode.com/problems/bitwise-xor-of-all-pairings/
+[2426l]:https://leetcode.com/problems/number-of-pairs-satisfying-inequality/
 [2427l]:https://leetcode.com/problems/number-of-common-factors/
 [2428l]:https://leetcode.com/problems/maximum-sum-of-an-hourglass/
 [2429l]:https://leetcode.com/problems/minimize-xor/

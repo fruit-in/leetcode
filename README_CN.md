@@ -1150,6 +1150,7 @@
 [2420][2420l]|[找到所有好下标][2420]                                    |![rs]
 [2423][2423l]|[删除字符使频率相同][2423]                                |![rs]
 [2425][2425l]|[所有数对的异或和][2425]                                  |![rs]
+[2426][2426l]|[满足不等式的数对数目][2426]                              |![rs]
 [2427][2427l]|[公因子的数目][2427]                                      |![rs]
 [2428][2428l]|[沙漏的最大总和][2428]                                    |![rs]
 [2429][2429l]|[最小 XOR][2429]                                          |![rs]
@@ -2367,6 +2368,7 @@
 [2420]:Problemset/2420-Find%20All%20Good%20Indices/README_CN.md#2420-找到所有好下标
 [2423]:Problemset/2423-Remove%20Letter%20To%20Equalize%20Frequency/README_CN.md#2423-删除字符使频率相同
 [2425]:Problemset/2425-Bitwise%20XOR%20of%20All%20Pairings/README_CN.md#2425-所有数对的异或和
+[2426]:Problemset/2426-Number%20of%20Pairs%20Satisfying%20Inequality/README_CN.md#2426-满足不等式的数对数目
 [2427]:Problemset/2427-Number%20of%20Common%20Factors/README_CN.md#2427-公因子的数目
 [2428]:Problemset/2428-Maximum%20Sum%20of%20an%20Hourglass/README_CN.md#2428-沙漏的最大总和
 [2429]:Problemset/2429-Minimize%20XOR/README_CN.md#2429-最小-xor
@@ -3588,6 +3590,7 @@
 [2420l]:https://leetcode.cn/problems/find-all-good-indices/
 [2423l]:https://leetcode.cn/problems/remove-letter-to-equalize-frequency/
 [2425l]:https://leetcode.cn/problems/bitwise-xor-of-all-pairings/
+[2426l]:https://leetcode.cn/problems/number-of-pairs-satisfying-inequality/
 [2427l]:https://leetcode.cn/problems/number-of-common-factors/
 [2428l]:https://leetcode.cn/problems/maximum-sum-of-an-hourglass/
 [2429l]:https://leetcode.cn/problems/minimize-xor/
