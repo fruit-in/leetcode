@@ -691,6 +691,7 @@
 [1367][1367l]|[Linked List in Binary Tree][1367]                                                    |![py]&nbsp;&nbsp;![rb]
 [1370][1370l]|[Increasing Decreasing String][1370]                                                  |![rs]
 [1371][1371l]|[Find the Longest Substring Containing Vowels in Even Counts][1371]                   |![rs]
+[1372][1372l]|[Longest ZigZag Path in a Binary Tree][1372]                                          |![py]
 [1374][1374l]|[Generate a String With Characters That Have Odd Counts][1374]                        |![py]
 [1375][1375l]|[Bulb Switcher III][1375]                                                             |![rs]
 [1376][1376l]|[Time Needed to Inform All Employees][1376]                                           |![rb]&nbsp;&nbsp;![rs]
@@ -1910,6 +1911,7 @@
 [1367]:Problemset/1367-Linked%20List%20in%20Binary%20Tree/README.md#1367-linked-list-in-binary-tree
 [1370]:Problemset/1370-Increasing%20Decreasing%20String/README.md#1370-increasing-decreasing-string
 [1371]:Problemset/1371-Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts/README.md#1371-find-the-longest-substring-containing-vowels-in-even-counts
+[1372]:Problemset/1372-Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree/README.md#1372-longest-zigzag-path-in-a-binary-tree
 [1374]:Problemset/1374-Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts/README.md#1374-generate-a-string-with-characters-that-have-odd-counts
 [1375]:Problemset/1375-Bulb%20Switcher%20III/README.md#1375-bulb-switcher-iii
 [1376]:Problemset/1376-Time%20Needed%20to%20Inform%20All%20Employees/README.md#1376-time-needed-to-inform-all-employees
@@ -3133,6 +3135,7 @@
 [1367l]:https://leetcode.com/problems/linked-list-in-binary-tree/
 [1370l]:https://leetcode.com/problems/increasing-decreasing-string/
 [1371l]:https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
+[1372l]:https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
 [1374l]:https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
 [1375l]:https://leetcode.com/problems/bulb-switcher-iii/
 [1376l]:https://leetcode.com/problems/time-needed-to-inform-all-employees/

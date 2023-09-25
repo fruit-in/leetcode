@@ -691,6 +691,7 @@
 [1367][1367l]|[二叉树中的列表][1367]                                    |![py]&nbsp;&nbsp;![rb]
 [1370][1370l]|[上升下降字符串][1370]                                    |![rs]
 [1371][1371l]|[每个元音包含偶数次的最长子字符串][1371]                  |![rs]
+[1372][1372l]|[二叉树中的最长交错路径][1372]                            |![py]
 [1374][1374l]|[生成每种字符都是奇数个的字符串][1374]                    |![py]
 [1375][1375l]|[灯泡开关 III][1375]                                      |![rs]
 [1376][1376l]|[通知所有员工所需的时间][1376]                            |![rb]&nbsp;&nbsp;![rs]
@@ -1910,6 +1911,7 @@
 [1367]:Problemset/1367-Linked%20List%20in%20Binary%20Tree/README_CN.md#1367-二叉树中的列表
 [1370]:Problemset/1370-Increasing%20Decreasing%20String/README_CN.md#1370-上升下降字符串
 [1371]:Problemset/1371-Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts/README_CN.md#1371-每个元音包含偶数次的最长子字符串
+[1372]:Problemset/1372-Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree/README_CN.md#1372-二叉树中的最长交错路径
 [1374]:Problemset/1374-Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts/README_CN.md#1374-生成每种字符都是奇数个的字符串
 [1375]:Problemset/1375-Bulb%20Switcher%20III/README_CN.md#1375-灯泡开关-iii
 [1376]:Problemset/1376-Time%20Needed%20to%20Inform%20All%20Employees/README_CN.md#1376-通知所有员工所需的时间
@@ -3133,6 +3135,7 @@
 [1367l]:https://leetcode.cn/problems/linked-list-in-binary-tree/
 [1370l]:https://leetcode.cn/problems/increasing-decreasing-string/
 [1371l]:https://leetcode.cn/problems/find-the-longest-substring-containing-vowels-in-even-counts/
+[1372l]:https://leetcode.cn/problems/longest-zigzag-path-in-a-binary-tree/
 [1374l]:https://leetcode.cn/problems/generate-a-string-with-characters-that-have-odd-counts/
 [1375l]:https://leetcode.cn/problems/bulb-switcher-iii/
 [1376l]:https://leetcode.cn/problems/time-needed-to-inform-all-employees/
