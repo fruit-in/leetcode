@@ -764,6 +764,7 @@
 [1497][1497l]|[检查数组对是否可以被 k 整除][1497]                       |![rs]
 [1502][1502l]|[判断能否形成等差数列][1502]                              |![rb]&nbsp;&nbsp;![rs]
 [1503][1503l]|[所有蚂蚁掉下来前的最后一刻][1503]                        |![rb]&nbsp;&nbsp;![rs]
+[1504][1504l]|[统计全 1 子矩形][1504]                                   |![rs]
 [1507][1507l]|[转变日期格式][1507]                                      |![py]
 [1508][1508l]|[子数组和排序后的区间和][1508]                            |![rb]&nbsp;&nbsp;![rs]
 [1509][1509l]|[三次操作后最大值与最小值的最小差][1509]                  |![rb]
@@ -1985,6 +1986,7 @@
 [1497]:Problemset/1497-Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/README_CN.md#1497-检查数组对是否可以被-k-整除
 [1502]:Problemset/1502-Can%20Make%20Arithmetic%20Progression%20From%20Sequence/README_CN.md#1502-判断能否形成等差数列
 [1503]:Problemset/1503-Last%20Moment%20Before%20All%20Ants%20Fall%20Out%20of%20a%20Plank/README_CN.md#1503-所有蚂蚁掉下来前的最后一刻
+[1504]:Problemset/1504-Count%20Submatrices%20With%20All%20Ones/README_CN.md#1504-统计全-1-子矩形
 [1507]:Problemset/1507-Reformat%20Date/README_CN.md#1507-转变日期格式
 [1508]:Problemset/1508-Range%20Sum%20of%20Sorted%20Subarray%20Sums/README_CN.md#1508-子数组和排序后的区间和
 [1509]:Problemset/1509-Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/README_CN.md#1509-三次操作后最大值与最小值的最小差
@@ -3210,6 +3212,7 @@
 [1497l]:https://leetcode.cn/problems/check-if-array-pairs-are-divisible-by-k/
 [1502l]:https://leetcode.cn/problems/can-make-arithmetic-progression-from-sequence/
 [1503l]:https://leetcode.cn/problems/last-moment-before-all-ants-fall-out-of-a-plank/
+[1504l]:https://leetcode.cn/problems/count-submatrices-with-all-ones/
 [1507l]:https://leetcode.cn/problems/reformat-date/
 [1508l]:https://leetcode.cn/problems/range-sum-of-sorted-subarray-sums/
 [1509l]:https://leetcode.cn/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/

@@ -764,6 +764,7 @@
 [1497][1497l]|[Check If Array Pairs Are Divisible by k][1497]                                       |![rs]
 [1502][1502l]|[Can Make Arithmetic Progression From Sequence][1502]                                 |![rb]&nbsp;&nbsp;![rs]
 [1503][1503l]|[Last Moment Before All Ants Fall Out of a Plank][1503]                               |![rb]&nbsp;&nbsp;![rs]
+[1504][1504l]|[Count Submatrices With All Ones][1504]                                               |![rs]
 [1507][1507l]|[Reformat Date][1507]                                                                 |![py]
 [1508][1508l]|[Range Sum of Sorted Subarray Sums][1508]                                             |![rb]&nbsp;&nbsp;![rs]
 [1509][1509l]|[Minimum Difference Between Largest and Smallest Value in Three Moves][1509]          |![rb]
@@ -1985,6 +1986,7 @@
 [1497]:Problemset/1497-Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/README.md#1497-check-if-array-pairs-are-divisible-by-k
 [1502]:Problemset/1502-Can%20Make%20Arithmetic%20Progression%20From%20Sequence/README.md#1502-can-make-arithmetic-progression-from-sequence
 [1503]:Problemset/1503-Last%20Moment%20Before%20All%20Ants%20Fall%20Out%20of%20a%20Plank/README.md#1503-last-moment-before-all-ants-fall-out-of-a-plank
+[1504]:Problemset/1504-Count%20Submatrices%20With%20All%20Ones/README.md#1504-count-submatrices-with-all-ones
 [1507]:Problemset/1507-Reformat%20Date/README.md#1507-reformat-date
 [1508]:Problemset/1508-Range%20Sum%20of%20Sorted%20Subarray%20Sums/README.md#1508-range-sum-of-sorted-subarray-sums
 [1509]:Problemset/1509-Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/README.md#1509-minimum-difference-between-largest-and-smallest-value-in-three-moves
@@ -3210,6 +3212,7 @@
 [1497l]:https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/
 [1502l]:https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 [1503l]:https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/
+[1504l]:https://leetcode.com/problems/count-submatrices-with-all-ones/
 [1507l]:https://leetcode.com/problems/reformat-date/
 [1508l]:https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
 [1509l]:https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
