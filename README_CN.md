@@ -574,6 +574,7 @@
 [1054][1054l]|[距离相等的条形码][1054]                                  |![rs]
 [1071][1071l]|[字符串的最大公因子][1071]                                |![py]
 [1078][1078l]|[Bigram 分词][1078]                                       |![py]
+[1079][1079l]|[活字印刷][1079]                                          |![py]
 [1081][1081l]|[不同字符的最小子序列][1081]                              |![rs]
 [1089][1089l]|[复写零][1089]                                            |![rs]
 [1090][1090l]|[受标签影响的最大值][1090]                                |![rb]
@@ -1796,6 +1797,7 @@
 [1054]:Problemset/1054-Distant%20Barcodes/README_CN.md#1054-距离相等的条形码
 [1071]:Problemset/1071-Greatest%20Common%20Divisor%20of%20Strings/README_CN.md#1071-字符串的最大公因子
 [1078]:Problemset/1078-Occurrences%20After%20Bigram/README_CN.md#1078-bigram-分词
+[1079]:Problemset/1079-Letter%20Tile%20Possibilities/README_CN.md#1079-活字印刷
 [1081]:Problemset/1081-Smallest%20Subsequence%20of%20Distinct%20Characters/README_CN.md#1081-不同字符的最小子序列
 [1089]:Problemset/1089-Duplicate%20Zeros/README_CN.md#1089-复写零
 [1090]:Problemset/1090-Largest%20Values%20From%20Labels/README_CN.md#1090-受标签影响的最大值
@@ -3022,6 +3024,7 @@
 [1054l]:https://leetcode.cn/problems/distant-barcodes/
 [1071l]:https://leetcode.cn/problems/greatest-common-divisor-of-strings/
 [1078l]:https://leetcode.cn/problems/occurrences-after-bigram/
+[1079l]:https://leetcode.cn/problems/letter-tile-possibilities/
 [1081l]:https://leetcode.cn/problems/smallest-subsequence-of-distinct-characters/
 [1089l]:https://leetcode.cn/problems/duplicate-zeros/
 [1090l]:https://leetcode.cn/problems/largest-values-from-labels/

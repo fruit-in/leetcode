@@ -574,6 +574,7 @@
 [1054][1054l]|[Distant Barcodes][1054]                                                              |![rs]
 [1071][1071l]|[Greatest Common Divisor of Strings][1071]                                            |![py]
 [1078][1078l]|[Occurrences After Bigram][1078]                                                      |![py]
+[1079][1079l]|[Letter Tile Possibilities][1079]                                                     |![py]
 [1081][1081l]|[Smallest Subsequence of Distinct Characters][1081]                                   |![rs]
 [1089][1089l]|[Duplicate Zeros][1089]                                                               |![rs]
 [1090][1090l]|[Largest Values From Labels][1090]                                                    |![rb]
@@ -1796,6 +1797,7 @@
 [1054]:Problemset/1054-Distant%20Barcodes/README.md#1054-distant-barcodes
 [1071]:Problemset/1071-Greatest%20Common%20Divisor%20of%20Strings/README.md#1071-greatest-common-divisor-of-strings
 [1078]:Problemset/1078-Occurrences%20After%20Bigram/README.md#1078-occurrences-after-bigram
+[1079]:Problemset/1079-Letter%20Tile%20Possibilities/README.md#1079-letter-tile-possibilities
 [1081]:Problemset/1081-Smallest%20Subsequence%20of%20Distinct%20Characters/README.md#1081-smallest-subsequence-of-distinct-characters
 [1089]:Problemset/1089-Duplicate%20Zeros/README.md#1089-duplicate-zeros
 [1090]:Problemset/1090-Largest%20Values%20From%20Labels/README.md#1090-largest-values-from-labels
@@ -3022,6 +3024,7 @@
 [1054l]:https://leetcode.com/problems/distant-barcodes/
 [1071l]:https://leetcode.com/problems/greatest-common-divisor-of-strings/
 [1078l]:https://leetcode.com/problems/occurrences-after-bigram/
+[1079l]:https://leetcode.com/problems/letter-tile-possibilities/
 [1081l]:https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
 [1089l]:https://leetcode.com/problems/duplicate-zeros/
 [1090l]:https://leetcode.com/problems/largest-values-from-labels/
