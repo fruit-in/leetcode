@@ -857,6 +857,7 @@
 [1725][1725l]|[可以形成最大正方形的矩形数目][1725]                      |![rb]&nbsp;&nbsp;![rs]
 [1726][1726l]|[同积元组][1726]                                          |![rb]&nbsp;&nbsp;![rs]
 [1732][1732l]|[找到最高海拔][1732]                                      |![rb]&nbsp;&nbsp;![rs]
+[1733][1733l]|[需要教语言的最少人数][1733]                              |![rs]
 [1734][1734l]|[解码异或后的排列][1734]                                  |![rs]
 [1736][1736l]|[替换隐藏数字得到的最晚时间][1736]                        |![rs]
 [1737][1737l]|[满足三条件之一需改变的最少字符数][1737]                  |![rs]
@@ -2080,6 +2081,7 @@
 [1725]:Problemset/1725-Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/README_CN.md#1725-可以形成最大正方形的矩形数目
 [1726]:Problemset/1726-Tuple%20with%20Same%20Product/README_CN.md#1726-同积元组
 [1732]:Problemset/1732-Find%20the%20Highest%20Altitude/README_CN.md#1732-找到最高海拔
+[1733]:Problemset/1733-Minimum%20Number%20of%20People%20to%20Teach/README_CN.md#1733-需要教语言的最少人数
 [1734]:Problemset/1734-Decode%20XORed%20Permutation/README_CN.md#1734-解码异或后的排列
 [1736]:Problemset/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README_CN.md#1736-替换隐藏数字得到的最晚时间
 [1737]:Problemset/1737-Change%20Minimum%20Characters%20to%20Satisfy%20One%20of%20Three%20Conditions/README_CN.md#1737-满足三条件之一需改变的最少字符数
@@ -3307,6 +3309,7 @@
 [1725l]:https://leetcode.cn/problems/number-of-rectangles-that-can-form-the-largest-square/
 [1726l]:https://leetcode.cn/problems/tuple-with-same-product/
 [1732l]:https://leetcode.cn/problems/find-the-highest-altitude/
+[1733l]:https://leetcode.cn/problems/minimum-number-of-people-to-teach/
 [1734l]:https://leetcode.cn/problems/decode-xored-permutation/
 [1736l]:https://leetcode.cn/problems/latest-time-by-replacing-hidden-digits/
 [1737l]:https://leetcode.cn/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/
