@@ -1210,6 +1210,7 @@
 [2578][2578l]|[Split With Minimum Sum][2578]                                                        |![py]
 [2579][2579l]|[Count Total Number of Colored Cells][2579]                                           |![rs]
 [2582][2582l]|[Pass the Pillow][2582]                                                               |![rs]
+[2586][2586l]|[Count the Number of Vowel Strings in Range][2586]                                    |![py]
 [2593][2593l]|[Find Score of an Array After Marking All Elements][2593]                             |![rs]
 [2594][2594l]|[Minimum Time to Repair Cars][2594]                                                   |![rs]
 [2596][2596l]|[Check Knight Tour Configuration][2596]                                               |![rs]
@@ -2434,6 +2435,7 @@
 [2578]:Problemset/2578-Split%20With%20Minimum%20Sum/README.md#2578-split-with-minimum-sum
 [2579]:Problemset/2579-Count%20Total%20Number%20of%20Colored%20Cells/README.md#2579-count-total-number-of-colored-cells
 [2582]:Problemset/2582-Pass%20the%20Pillow/README.md#2582-pass-the-pillow
+[2586]:Problemset/2586-Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range/README.md#2586-count-the-number-of-vowel-strings-in-range
 [2593]:Problemset/2593-Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements/README.md#2593-find-score-of-an-array-after-marking-all-elements
 [2594]:Problemset/2594-Minimum%20Time%20to%20Repair%20Cars/README.md#2594-minimum-time-to-repair-cars
 [2596]:Problemset/2596-Check%20Knight%20Tour%20Configuration/README.md#2596-check-knight-tour-configuration
@@ -3662,6 +3664,7 @@
 [2578l]:https://leetcode.com/problems/split-with-minimum-sum/
 [2579l]:https://leetcode.com/problems/count-total-number-of-colored-cells/
 [2582l]:https://leetcode.com/problems/pass-the-pillow/
+[2586l]:https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/
 [2593l]:https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/
 [2594l]:https://leetcode.com/problems/minimum-time-to-repair-cars/
 [2596l]:https://leetcode.com/problems/check-knight-tour-configuration/
