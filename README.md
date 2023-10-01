@@ -3169,7 +3169,7 @@
 [1399l]:https://leetcode.com/problems/count-largest-group/
 [1400l]:https://leetcode.com/problems/construct-k-palindrome-strings/
 [1401l]:https://leetcode.com/problems/circle-and-rectangle-overlapping/
-[1042l]:https://leetcode.com/problems/reducing-dishes/
+[1402l]:https://leetcode.com/problems/reducing-dishes/
 [1403l]:https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
 [1404l]:https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
 [1405l]:https://leetcode.com/problems/longest-happy-string/
