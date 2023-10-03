@@ -946,6 +946,7 @@
 [1952][1952l]|[Three Divisors][1952]                                                                |![rs]
 [1954][1954l]|[Minimum Garden Perimeter to Collect Enough Apples][1954]                             |![rs]
 [1957][1957l]|[Delete Characters to Make Fancy String][1957]                                        |![py]
+[1958][1958l]|[Check if Move is Legal][1958]                                                        |![rs]
 [1961][1961l]|[Check If String Is a Prefix of Array][1961]                                          |![py]
 [1962][1962l]|[Remove Stones to Minimize the Total][1962]                                           |![rs]
 [1963][1963l]|[Minimum Number of Swaps to Make the String Balanced][1963]                           |![rs]
@@ -2173,6 +2174,7 @@
 [1952]:Problemset/1952-Three%20Divisors/README.md#1952-three-divisors
 [1954]:Problemset/1954-Minimum%20Garden%20Perimeter%20to%20Collect%20Enough%20Apples/README.md#1954-minimum-garden-perimeter-to-collect-enough-apples
 [1957]:Problemset/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README.md#1957-delete-characters-to-make-fancy-string
+[1958]:Problemset/1958-Check%20if%20Move%20is%20Legal/README.md#1958-check-if-move-is-legal
 [1961]:Problemset/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README.md#1961-check-if-string-is-a-prefix-of-array
 [1962]:Problemset/1962-Remove%20Stones%20to%20Minimize%20the%20Total/README.md#1962-remove-stones-to-minimize-the-total
 [1963]:Problemset/1963-Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced/README.md#1963-minimum-number-of-swaps-to-make-the-string-balanced
@@ -3403,6 +3405,7 @@
 [1952l]:https://leetcode.com/problems/three-divisors/
 [1954l]:https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/
 [1957l]:https://leetcode.com/problems/delete-characters-to-make-fancy-string/
+[1958l]:https://leetcode.com/problems/check-if-move-is-legal/
 [1961l]:https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 [1962l]:https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 [1963l]:https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/

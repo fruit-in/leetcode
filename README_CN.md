@@ -946,6 +946,7 @@
 [1952][1952l]|[三除数][1952]                                            |![rs]
 [1954][1954l]|[收集足够苹果的最小花园周长][1954]                        |![rs]
 [1957][1957l]|[删除字符使字符串变好][1957]                              |![py]
+[1958][1958l]|[检查操作是否合法][1958]                                  |![rs]
 [1961][1961l]|[检查字符串是否为数组前缀][1961]                          |![py]
 [1962][1962l]|[移除石子使总数最小][1962]                                |![rs]
 [1963][1963l]|[使字符串平衡的最小交换次数][1963]                        |![rs]
@@ -2173,6 +2174,7 @@
 [1952]:Problemset/1952-Three%20Divisors/README_CN.md#1952-三除数
 [1954]:Problemset/1954-Minimum%20Garden%20Perimeter%20to%20Collect%20Enough%20Apples/README_CN.md#1954-收集足够苹果的最小花园周长
 [1957]:Problemset/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README_CN.md#1957-删除字符使字符串变好
+[1958]:Problemset/1958-Check%20if%20Move%20is%20Legal/README_CN.md#1958-检查操作是否合法
 [1961]:Problemset/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README_CN.md#1961-检查字符串是否为数组前缀
 [1962]:Problemset/1962-Remove%20Stones%20to%20Minimize%20the%20Total/README_CN.md#1962-移除石子使总数最小
 [1963]:Problemset/1963-Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced/README_CN.md#1963-使字符串平衡的最小交换次数
@@ -3403,6 +3405,7 @@
 [1952l]:https://leetcode.cn/problems/three-divisors/
 [1954l]:https://leetcode.cn/problems/minimum-garden-perimeter-to-collect-enough-apples/
 [1957l]:https://leetcode.cn/problems/delete-characters-to-make-fancy-string/
+[1958l]:https://leetcode.cn/problems/check-if-move-is-legal/
 [1961l]:https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array/
 [1962l]:https://leetcode.cn/problems/remove-stones-to-minimize-the-total/
 [1963l]:https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-string-balanced/
