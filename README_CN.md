@@ -486,6 +486,7 @@
 [919][919l]  |[完全二叉树插入器][919]                                   |![py]
 [921][921l]  |[使括号有效的最少添加][921]                               |![rs]
 [922][922l]  |[按奇偶排序数组 II][922]                                  |![py]
+[923][923l]  |[三数之和的多种可能][923]                                 |![rs]
 [925][925l]  |[长按键入][925]                                           |![py]
 [926][926l]  |[将字符串翻转到单调递增][926]                             |![rs]
 [929][929l]  |[独特的电子邮件地址][929]                                 |![py]&nbsp;&nbsp;![rb]
@@ -1714,6 +1715,7 @@
 [919]:Problemset/0919-Complete%20Binary%20Tree%20Inserter/README_CN.md#919-完全二叉树插入器
 [921]:Problemset/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid/README_CN.md#921-使括号有效的最少添加
 [922]:Problemset/0922-Sort%20Array%20By%20Parity%20II/README_CN.md#922-按奇偶排序数组-ii
+[923]:Problemset/0923-3Sum%20With%20Multiplicity/README_CN.md#923-三数之和的多种可能
 [925]:Problemset/0925-Long%20Pressed%20Name/README_CN.md#925-长按键入
 [926]:Problemset/0926-Flip%20String%20to%20Monotone%20Increasing/README_CN.md#926-将字符串翻转到单调递增
 [929]:Problemset/0929-Unique%20Email%20Addresses/README_CN.md#929-独特的电子邮件地址
@@ -2945,6 +2947,7 @@
 [919l]:https://leetcode.cn/problems/complete-binary-tree-inserter/
 [921l]:https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/
 [922l]:https://leetcode.cn/problems/sort-array-by-parity-ii/
+[923l]:https://leetcode.cn/problems/3sum-with-multiplicity/
 [925l]:https://leetcode.cn/problems/long-pressed-name/
 [926l]:https://leetcode.cn/problems/flip-string-to-monotone-increasing/
 [929l]:https://leetcode.cn/problems/unique-email-addresses/
