@@ -568,6 +568,7 @@
 [1040][1040l]|[移动石子直到连续 II][1040]                               |![rs]
 [1041][1041l]|[困于环中的机器人][1041]                                  |![rs]
 [1042][1042l]|[不邻接植花][1042]                                        |![rs]
+[1043][1043l]|[分隔数组以得到最大和][1043]                              |![rs]
 [1046][1046l]|[最后一块石头的重量][1046]                                |![py]
 [1047][1047l]|[删除字符串中的所有相邻重复项][1047]                      |![py]
 [1051][1051l]|[高度检查器][1051]                                        |![py]
@@ -1798,6 +1799,7 @@
 [1040]:Problemset/1040-Moving%20Stones%20Until%20Consecutive%20II/README_CN.md#1040-移动石子直到连续-ii
 [1041]:Problemset/1041-Robot%20Bounded%20In%20Circle/README_CN.md#1041-困于环中的机器人
 [1042]:Problemset/1042-Flower%20Planting%20With%20No%20Adjacent/README_CN.md#1042-不邻接植花
+[1043]:Problemset/1043-Partition%20Array%20for%20Maximum%20Sum/README_CN.md#1043-分隔数组以得到最大和
 [1046]:Problemset/1046-Last%20Stone%20Weight/README_CN.md#1046-最后一块石头的重量
 [1047]:Problemset/1047-Remove%20All%20Adjacent%20Duplicates%20In%20String/README_CN.md#1047-删除字符串中的所有相邻重复项
 [1051]:Problemset/1051-Height%20Checker/README_CN.md#1051-高度检查器
@@ -3031,6 +3033,7 @@
 [1040l]:https://leetcode.cn/problems/moving-stones-until-consecutive-ii/
 [1041l]:https://leetcode.cn/problems/robot-bounded-in-circle/
 [1042l]:https://leetcode.cn/problems/flower-planting-with-no-adjacent/
+[1043l]:https://leetcode.cn/problems/partition-array-for-maximum-sum/
 [1046l]:https://leetcode.cn/problems/last-stone-weight/
 [1047l]:https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/
 [1051l]:https://leetcode.cn/problems/height-checker/

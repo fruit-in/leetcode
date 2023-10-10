@@ -568,6 +568,7 @@
 [1040][1040l]|[Moving Stones Until Consecutive II][1040]                                            |![rs]
 [1041][1041l]|[Robot Bounded In Circle][1041]                                                       |![rs]
 [1042][1042l]|[Flower Planting With No Adjacent][1042]                                              |![rs]
+[1043][1043l]|[Partition Array for Maximum Sum][1043]                                               |![rs]
 [1046][1046l]|[Last Stone Weight][1046]                                                             |![py]
 [1047][1047l]|[Remove All Adjacent Duplicates In String][1047]                                      |![py]
 [1051][1051l]|[Height Checker][1051]                                                                |![py]
@@ -1798,6 +1799,7 @@
 [1040]:Problemset/1040-Moving%20Stones%20Until%20Consecutive%20II/README.md#1040-moving-stones-until-consecutive-ii
 [1041]:Problemset/1041-Robot%20Bounded%20In%20Circle/README.md#1041-robot-bounded-in-circle
 [1042]:Problemset/1042-Flower%20Planting%20With%20No%20Adjacent/README.md#1042-flower-planting-with-no-adjacent
+[1043]:Problemset/1043-Partition%20Array%20for%20Maximum%20Sum/README.md#1043-partition-array-for-maximum-sum
 [1046]:Problemset/1046-Last%20Stone%20Weight/README.md#1046-last-stone-weight
 [1047]:Problemset/1047-Remove%20All%20Adjacent%20Duplicates%20In%20String/README.md#1047-remove-all-adjacent-duplicates-in-string
 [1051]:Problemset/1051-Height%20Checker/README.md#1051-height-checker
@@ -3031,6 +3033,7 @@
 [1040l]:https://leetcode.com/problems/moving-stones-until-consecutive-ii/
 [1041l]:https://leetcode.com/problems/robot-bounded-in-circle/
 [1042l]:https://leetcode.com/problems/flower-planting-with-no-adjacent/
+[1043l]:https://leetcode.com/problems/partition-array-for-maximum-sum/
 [1046l]:https://leetcode.com/problems/last-stone-weight/
 [1047l]:https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [1051l]:https://leetcode.com/problems/height-checker/
