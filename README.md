@@ -178,6 +178,7 @@
 [290][290l]  |[Word Pattern][290]                                                                   |![py]
 [292][292l]  |[Nim Game][292]                                                                       |![rb]&nbsp;&nbsp;![rs]
 [299][299l]  |[Bulls and Cows][299]                                                                 |![py]
+[300][300l]  |[Longest Increasing Subsequence][300]                                                 |![rs]
 [303][303l]  |[Range Sum Query - Immutable][303]                                                    |![py]
 [304][304l]  |[Range Sum Query 2D - Immutable][304]                                                 |![rs]
 [306][306l]  |[Additive Number][306]                                                                |![rb]&nbsp;&nbsp;![rs]
@@ -1410,6 +1411,7 @@
 [290]:Problemset/0290-Word%20Pattern/README.md#290-word-pattern
 [292]:Problemset/0292-Nim%20Game/README.md#292-nim-game
 [299]:Problemset/0299-Bulls%20and%20Cows/README.md#299-bulls-and-cows
+[300]:Problemset/0300-Longest%20Increasing%20Subsequence/README.md#300-longest-increasing-subsequence
 [303]:Problemset/0303-Range%20Sum%20Query%20-%20Immutable/README.md#303-range-sum-query---immutable
 [304]:Problemset/0304-Range%20Sum%20Query%202D%20-%20Immutable/README.md#304-range-sum-query-2d---immutable
 [306]:Problemset/0306-Additive%20Number/README.md#306-additive-number
@@ -2640,6 +2642,7 @@
 [292l]:https://leetcode.com/problems/nim-game/
 [297l]:https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 [299l]:https://leetcode.com/problems/bulls-and-cows/
+[300l]:https://leetcode.com/problems/longest-increasing-subsequence/
 [303l]:https://leetcode.com/problems/range-sum-query-immutable/
 [304l]:https://leetcode.com/problems/range-sum-query-2d-immutable/
 [306l]:https://leetcode.com/problems/additive-number/

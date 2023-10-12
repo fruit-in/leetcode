@@ -178,6 +178,7 @@
 [290][290l]  |[单词规律][290]                                           |![py]
 [292][292l]  |[Nim 游戏][292]                                           |![rb]&nbsp;&nbsp;![rs]
 [299][299l]  |[猜数字游戏][299]                                         |![py]
+[300][300l]  |[最长递增子序列][300]                                     |![rs]
 [303][303l]  |[区域和检索 - 数组不可变][303]                            |![py]
 [304][304l]  |[二维区域和检索 - 矩阵不可变][304]                        |![rs]
 [306][306l]  |[累加数][306]                                             |![rb]&nbsp;&nbsp;![rs]
@@ -1410,6 +1411,7 @@
 [290]:Problemset/0290-Word%20Pattern/README_CN.md#290-单词规律
 [292]:Problemset/0292-Nim%20Game/README_CN.md#292-nim-游戏
 [299]:Problemset/0299-Bulls%20and%20Cows/README_CN.md#299-猜数字游戏
+[300]:Problemset/0300-Longest%20Increasing%20Subsequence/README_CN.md#300-最长递增子序列
 [303]:Problemset/0303-Range%20Sum%20Query%20-%20Immutable/README_CN.md#303-区域和检索---数组不可变
 [304]:Problemset/0304-Range%20Sum%20Query%202D%20-%20Immutable/README_CN.md#304-二维区域和检索---矩阵不可变
 [306]:Problemset/0306-Additive%20Number/README_CN.md#306-累加数
@@ -2640,6 +2642,7 @@
 [292l]:https://leetcode.cn/problems/nim-game/
 [297l]:https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/
 [299l]:https://leetcode.cn/problems/bulls-and-cows/
+[300l]:https://leetcode.cn/problems/longest-increasing-subsequence/
 [303l]:https://leetcode.cn/problems/range-sum-query-immutable/
 [304l]:https://leetcode.cn/problems/range-sum-query-2d-immutable/
 [306l]:https://leetcode.cn/problems/additive-number/
