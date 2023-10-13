@@ -193,6 +193,7 @@
 [334][334l]  |[递增的三元子序列][334]                                   |![rb]&nbsp;&nbsp;![rs]
 [337][337l]  |[打家劫舍 III][337]                                       |![py]&nbsp;&nbsp;![rb]
 [338][338l]  |[比特位计数][338]                                         |![rs]
+[341][341l]  |[扁平化嵌套列表迭代器][341]                               |![rs]
 [342][342l]  |[4的幂][342]                                              |![rs]
 [343][343l]  |[整数拆分][343]                                           |![rs]
 [344][344l]  |[反转字符串][344]                                         |![rs]
@@ -1426,6 +1427,7 @@
 [334]:Problemset/0334-Increasing%20Triplet%20Subsequence/README_CN.md#334-递增的三元子序列
 [337]:Problemset/0337-House%20Robber%20III/README_CN.md#337-打家劫舍-iii
 [338]:Problemset/0338-Counting%20Bits/README_CN.md#338-比特位计数
+[341]:Problemset/0341-Flatten%20Nested%20List%20Iterator/README_CN.md#341-扁平化嵌套列表迭代器
 [342]:Problemset/0342-Power%20of%20Four/README_CN.md#342-4的幂
 [343]:Problemset/0343-Integer%20Break/README_CN.md#343-整数拆分
 [344]:Problemset/0344-Reverse%20String/README_CN.md#344-反转字符串
@@ -2658,6 +2660,7 @@
 [336l]:https://leetcode.cn/problems/palindrome-pairs/
 [337l]:https://leetcode.cn/problems/house-robber-iii/
 [338l]:https://leetcode.cn/problems/counting-bits/
+[341l]:https://leetcode.cn/problems/flatten-nested-list-iterator/
 [342l]:https://leetcode.cn/problems/power-of-four/
 [343l]:https://leetcode.cn/problems/integer-break/
 [344l]:https://leetcode.cn/problems/reverse-string/

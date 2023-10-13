@@ -193,6 +193,7 @@
 [334][334l]  |[Increasing Triplet Subsequence][334]                                                 |![rb]&nbsp;&nbsp;![rs]
 [337][337l]  |[House Robber III][337]                                                               |![py]&nbsp;&nbsp;![rb]
 [338][338l]  |[Counting Bits][338]                                                                  |![rs]
+[341][341l]  |[Flatten Nested List Iterator][341]                                                   |![rs]
 [342][342l]  |[Power of Four][342]                                                                  |![rs]
 [343][343l]  |[Integer Break][343]                                                                  |![rs]
 [344][344l]  |[Reverse String][344]                                                                 |![rs]
@@ -1426,6 +1427,7 @@
 [334]:Problemset/0334-Increasing%20Triplet%20Subsequence/README.md#334-increasing-triplet-subsequence
 [337]:Problemset/0337-House%20Robber%20III/README.md#337-house-robber-iii
 [338]:Problemset/0338-Counting%20Bits/README.md#338-counting-bits
+[341]:Problemset/0341-Flatten%20Nested%20List%20Iterator/README.md#341-flatten-nested-list-iterator
 [342]:Problemset/0342-Power%20of%20Four/README.md#342-power-of-four
 [343]:Problemset/0343-Integer%20Break/README.md#343-integer-break
 [344]:Problemset/0344-Reverse%20String/README.md#344-reverse-string
@@ -2658,6 +2660,7 @@
 [336l]:https://leetcode.com/problems/palindrome-pairs/
 [337l]:https://leetcode.com/problems/house-robber-iii/
 [338l]:https://leetcode.com/problems/counting-bits/
+[341l]:https://leetcode.com/problems/flatten-nested-list-iterator/
 [342l]:https://leetcode.com/problems/power-of-four/
 [343l]:https://leetcode.com/problems/integer-break/
 [344l]:https://leetcode.com/problems/reverse-string/
