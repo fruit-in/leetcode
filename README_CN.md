@@ -1113,6 +1113,7 @@
 [2300][2300l]|[咒语和药水的成功对数][2300]                              |![py]
 [2303][2303l]|[计算应缴税款总额][2303]                                  |![rs]
 [2304][2304l]|[网格中的最小路径代价][2304]                              |![rs]
+[2306][2306l]|[公司命名][2306]                                          |![py]
 [2309][2309l]|[兼具大小写的最好英文字母][2309]                          |![rs]
 [2315][2315l]|[统计星号][2315]                                          |![rs]
 [2317][2317l]|[操作后的最大异或和][2317]                                |![rs]
@@ -2348,6 +2349,7 @@
 [2300]:Problemset/2300-Successful%20Pairs%20of%20Spells%20and%20Potions/README_CN.md#2300-咒语和药水的成功对数
 [2303]:Problemset/2303-Calculate%20Amount%20Paid%20in%20Taxes/README_CN.md#2303-计算应缴税款总额
 [2304]:Problemset/2304-Minimum%20Path%20Cost%20in%20a%20Grid/README_CN.md#2304-网格中的最小路径代价
+[2306]:Problemset/2306-Naming%20a%20Company/README_CN.md#2306-公司命名
 [2309]:Problemset/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README_CN.md#2309-兼具大小写的最好英文字母
 [2315]:Problemset/2315-Count%20Asterisks/README_CN.md#2315-统计星号
 [2317]:Problemset/2317-Maximum%20XOR%20After%20Operations/README_CN.md#2317-操作后的最大异或和
@@ -3586,6 +3588,7 @@
 [2300l]:https://leetcode.cn/problems/successful-pairs-of-spells-and-potions/
 [2303l]:https://leetcode.cn/problems/calculate-amount-paid-in-taxes/
 [2304l]:https://leetcode.cn/problems/minimum-path-cost-in-a-grid/
+[2306l]:https://leetcode.cn/problems/naming-a-company/
 [2309l]:https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/
 [2315l]:https://leetcode.cn/problems/count-asterisks/
 [2317l]:https://leetcode.cn/problems/maximum-xor-after-operations/
