@@ -1222,6 +1222,7 @@
 [2591][2591l]|[Distribute Money to Maximum Children][2591]                                          |![rs]
 [2593][2593l]|[Find Score of an Array After Marking All Elements][2593]                             |![rs]
 [2594][2594l]|[Minimum Time to Repair Cars][2594]                                                   |![rs]
+[2595][2595l]|[Number of Even and Odd Bits][2595]                                                   |![rs]
 [2596][2596l]|[Check Knight Tour Configuration][2596]                                               |![rs]
 [2598][2598l]|[Smallest Missing Non-negative Integer After Operations][2598]                        |![rs]
 [2601][2601l]|[Prime Subtraction Operation][2601]                                                   |![rs]
@@ -2456,6 +2457,7 @@
 [2591]:Problemset/2591-Distribute%20Money%20to%20Maximum%20Children/README.md#2591-distribute-money-to-maximum-children
 [2593]:Problemset/2593-Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements/README.md#2593-find-score-of-an-array-after-marking-all-elements
 [2594]:Problemset/2594-Minimum%20Time%20to%20Repair%20Cars/README.md#2594-minimum-time-to-repair-cars
+[2595]:Problemset/2595-Number%20of%20Even%20and%20Odd%20Bits/README.md#2595-number-of-even-and-odd-bits
 [2596]:Problemset/2596-Check%20Knight%20Tour%20Configuration/README.md#2596-check-knight-tour-configuration
 [2598]:Problemset/2598-Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/README.md#2598-smallest-missing-non-negative-integer-after-operations
 [2601]:Problemset/2601-Prime%20Subtraction%20Operation/README.md#2601-prime-subtraction-operation
@@ -3693,6 +3695,7 @@
 [2591l]:https://leetcode.com/problems/distribute-money-to-maximum-children/
 [2593l]:https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/
 [2594l]:https://leetcode.com/problems/minimum-time-to-repair-cars/
+[2595l]:https://leetcode.com/problems/number-of-even-and-odd-bits/
 [2596l]:https://leetcode.com/problems/check-knight-tour-configuration/
 [2598l]:https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/
 [2601l]:https://leetcode.com/problems/prime-subtraction-operation/

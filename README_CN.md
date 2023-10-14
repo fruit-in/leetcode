@@ -1222,6 +1222,7 @@
 [2591][2591l]|[将钱分给最多的儿童][2591]                                |![rs]
 [2593][2593l]|[标记所有元素后数组的分数][2593]                          |![rs]
 [2594][2594l]|[修车的最少时间][2594]                                    |![rs]
+[2595][2595l]|[奇偶位数][2595]                                          |![rs]
 [2596][2596l]|[检查骑士巡视方案][2596]                                  |![rs]
 [2598][2598l]|[执行操作后的最大 MEX][2598]                              |![rs]
 [2601][2601l]|[质数减法运算][2601]                                      |![rs]
@@ -2456,6 +2457,7 @@
 [2591]:Problemset/2591-Distribute%20Money%20to%20Maximum%20Children/README_CN.md#2591-将钱分给最多的儿童
 [2593]:Problemset/2593-Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements/README_CN.md#2593-标记所有元素后数组的分数
 [2594]:Problemset/2594-Minimum%20Time%20to%20Repair%20Cars/README_CN.md#2594-修车的最少时间
+[2595]:Problemset/2595-Number%20of%20Even%20and%20Odd%20Bits/README_CN.md#2595-奇偶位数
 [2596]:Problemset/2596-Check%20Knight%20Tour%20Configuration/README_CN.md#2596-检查骑士巡视方案
 [2598]:Problemset/2598-Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/README_CN.md#2598-执行操作后的最大-mex
 [2601]:Problemset/2601-Prime%20Subtraction%20Operation/README_CN.md#2601-质数减法运算
@@ -3693,6 +3695,7 @@
 [2591l]:https://leetcode.cn/problems/distribute-money-to-maximum-children/
 [2593l]:https://leetcode.cn/problems/find-score-of-an-array-after-marking-all-elements/
 [2594l]:https://leetcode.cn/problems/minimum-time-to-repair-cars/
+[2595l]:https://leetcode.cn/problems/number-of-even-and-odd-bits/
 [2596l]:https://leetcode.cn/problems/check-knight-tour-configuration/
 [2598l]:https://leetcode.cn/problems/smallest-missing-non-negative-integer-after-operations/
 [2601l]:https://leetcode.cn/problems/prime-subtraction-operation/
