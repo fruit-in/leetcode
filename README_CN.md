@@ -314,6 +314,7 @@
 [560][560l]  |[和为K的子数组][560]                                      |![rs]
 [561][561l]  |[数组拆分 I][561]                                         |![rs]
 [563][563l]  |[二叉树的坡度][563]                                       |![py]
+[564][564l]  |[寻找最近的回文数][564]                                   |![py]
 [565][565l]  |[数组嵌套][565]                                           |![rb]&nbsp;&nbsp;![rs]
 [566][566l]  |[重塑矩阵][566]                                           |![rs]
 [567][567l]  |[字符串的排列][567]                                       |![rb]&nbsp;&nbsp;![rs]
@@ -1550,6 +1551,7 @@
 [560]:Problemset/0560-Subarray%20Sum%20Equals%20K/README_CN.md#560-和为k的子数组
 [561]:Problemset/0561-Array%20Partition%20I/README_CN.md#561-数组拆分-i
 [563]:Problemset/0563-Binary%20Tree%20Tilt/README_CN.md#563-二叉树的坡度
+[564]:Problemset/0564-Find%20the%20Closest%20Palindrome/README_CN.md#564-寻找最近的回文数
 [565]:Problemset/0565-Array%20Nesting/README_CN.md#565-数组嵌套
 [566]:Problemset/0566-Reshape%20the%20Matrix/README_CN.md#566-重塑矩阵
 [567]:Problemset/0567-Permutation%20in%20String/README_CN.md#567-字符串的排列
@@ -2786,6 +2788,7 @@
 [560l]:https://leetcode.cn/problems/subarray-sum-equals-k/
 [561l]:https://leetcode.cn/problems/array-partition-i/
 [563l]:https://leetcode.cn/problems/binary-tree-tilt/
+[564l]:https://leetcode.cn/problems/find-the-closest-palindrome/
 [565l]:https://leetcode.cn/problems/array-nesting/
 [566l]:https://leetcode.cn/problems/reshape-the-matrix/
 [567l]:https://leetcode.cn/problems/permutation-in-string/

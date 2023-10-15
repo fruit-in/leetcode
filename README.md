@@ -314,6 +314,7 @@
 [560][560l]  |[Subarray Sum Equals K][560]                                                          |![rs]
 [561][561l]  |[Array Partition I][561]                                                              |![rs]
 [563][563l]  |[Binary Tree Tilt][563]                                                               |![py]
+[564][564l]  |[Find the Closest Palindrome][564]                                                    |![py]
 [565][565l]  |[Array Nesting][565]                                                                  |![rb]&nbsp;&nbsp;![rs]
 [566][566l]  |[Reshape the Matrix][566]                                                             |![rs]
 [567][567l]  |[Permutation in String][567]                                                          |![rb]&nbsp;&nbsp;![rs]
@@ -1550,6 +1551,7 @@
 [560]:Problemset/0560-Subarray%20Sum%20Equals%20K/README.md#560-subarray-sum-equals-k
 [561]:Problemset/0561-Array%20Partition%20I/README.md#561-array-partition-i
 [563]:Problemset/0563-Binary%20Tree%20Tilt/README.md#563-binary-tree-tilt
+[564]:Problemset/0564-Find%20the%20Closest%20Palindrome/README.md#564-find-the-closest-palindrome
 [565]:Problemset/0565-Array%20Nesting/README.md#565-array-nesting
 [566]:Problemset/0566-Reshape%20the%20Matrix/README.md#566-reshape-the-matrix
 [567]:Problemset/0567-Permutation%20in%20String/README.md#567-permutation-in-string
@@ -2786,6 +2788,7 @@
 [560l]:https://leetcode.com/problems/subarray-sum-equals-k/
 [561l]:https://leetcode.com/problems/array-partition-i/
 [563l]:https://leetcode.com/problems/binary-tree-tilt/
+[564l]:https://leetcode.com/problems/find-the-closest-palindrome/
 [565l]:https://leetcode.com/problems/array-nesting/
 [566l]:https://leetcode.com/problems/reshape-the-matrix/
 [567l]:https://leetcode.com/problems/permutation-in-string/
