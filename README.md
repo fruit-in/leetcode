@@ -1227,6 +1227,7 @@
 [2595][2595l]|[Number of Even and Odd Bits][2595]                                                   |![rs]
 [2596][2596l]|[Check Knight Tour Configuration][2596]                                               |![rs]
 [2598][2598l]|[Smallest Missing Non-negative Integer After Operations][2598]                        |![rs]
+[2600][2600l]|[K Items With the Maximum Sum][2600]                                                  |![rs]
 [2601][2601l]|[Prime Subtraction Operation][2601]                                                   |![rs]
 [2602][2602l]|[Minimum Operations to Make All Array Elements Equal][2602]                           |![rs]
 [2606][2606l]|[Find the Substring With Maximum Cost][2606]                                          |![rs]
@@ -2464,6 +2465,7 @@
 [2595]:Problemset/2595-Number%20of%20Even%20and%20Odd%20Bits/README.md#2595-number-of-even-and-odd-bits
 [2596]:Problemset/2596-Check%20Knight%20Tour%20Configuration/README.md#2596-check-knight-tour-configuration
 [2598]:Problemset/2598-Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/README.md#2598-smallest-missing-non-negative-integer-after-operations
+[2600]:Problemset/2600-K%20Items%20With%20the%20Maximum%20Sum/README.md#2600-k-items-with-the-maximum-sum
 [2601]:Problemset/2601-Prime%20Subtraction%20Operation/README.md#2601-prime-subtraction-operation
 [2602]:Problemset/2602-Minimum%20Operations%20to%20Make%20All%20Array%20Elements%20Equal/README.md#2602-minimum-operations-to-make-all-array-elements-equal
 [2606]:Problemset/2606-Find%20the%20Substring%20With%20Maximum%20Cost/README.md#2606-find-the-substring-with-maximum-cost
@@ -3704,6 +3706,7 @@
 [2595l]:https://leetcode.com/problems/number-of-even-and-odd-bits/
 [2596l]:https://leetcode.com/problems/check-knight-tour-configuration/
 [2598l]:https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/
+[2600l]:https://leetcode.com/problems/k-items-with-the-maximum-sum/
 [2601l]:https://leetcode.com/problems/prime-subtraction-operation/
 [2602l]:https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/
 [2606l]:https://leetcode.com/problems/find-the-substring-with-maximum-cost/

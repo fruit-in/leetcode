@@ -1227,6 +1227,7 @@
 [2595][2595l]|[奇偶位数][2595]                                          |![rs]
 [2596][2596l]|[检查骑士巡视方案][2596]                                  |![rs]
 [2598][2598l]|[执行操作后的最大 MEX][2598]                              |![rs]
+[2600][2600l]|[K 件物品的最大和][2600]                                  |![rs]
 [2601][2601l]|[质数减法运算][2601]                                      |![rs]
 [2602][2602l]|[使数组元素全部相等的最少操作次数][2602]                  |![rs]
 [2606][2606l]|[找到最大开销的子字符串][2606]                            |![rs]
@@ -2464,6 +2465,7 @@
 [2595]:Problemset/2595-Number%20of%20Even%20and%20Odd%20Bits/README_CN.md#2595-奇偶位数
 [2596]:Problemset/2596-Check%20Knight%20Tour%20Configuration/README_CN.md#2596-检查骑士巡视方案
 [2598]:Problemset/2598-Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/README_CN.md#2598-执行操作后的最大-mex
+[2600]:Problemset/2600-K%20Items%20With%20the%20Maximum%20Sum/README_CN.md#2600-k-件物品的最大和
 [2601]:Problemset/2601-Prime%20Subtraction%20Operation/README_CN.md#2601-质数减法运算
 [2602]:Problemset/2602-Minimum%20Operations%20to%20Make%20All%20Array%20Elements%20Equal/README_CN.md#2602-使数组元素全部相等的最少操作次数
 [2606]:Problemset/2606-Find%20the%20Substring%20With%20Maximum%20Cost/README_CN.md#2606-找到最大开销的子字符串
@@ -3704,6 +3706,7 @@
 [2595l]:https://leetcode.cn/problems/number-of-even-and-odd-bits/
 [2596l]:https://leetcode.cn/problems/check-knight-tour-configuration/
 [2598l]:https://leetcode.cn/problems/smallest-missing-non-negative-integer-after-operations/
+[2600l]:https://leetcode.cn/problems/k-items-with-the-maximum-sum/
 [2601l]:https://leetcode.cn/problems/prime-subtraction-operation/
 [2602l]:https://leetcode.cn/problems/minimum-operations-to-make-all-array-elements-equal/
 [2606l]:https://leetcode.cn/problems/find-the-substring-with-maximum-cost/
