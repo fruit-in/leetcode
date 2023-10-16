@@ -778,6 +778,7 @@
 [1509][1509l]|[三次操作后最大值与最小值的最小差][1509]                  |![rb]
 [1512][1512l]|[好数对的数目][1512]                                      |![rb]&nbsp;&nbsp;![rs]
 [1513][1513l]|[仅含 1 的子串数][1513]                                   |![rs]
+[1514][1514l]|[概率最大的路径][1514]                                    |![py]
 [1518][1518l]|[换酒问题][1518]                                          |![rb]&nbsp;&nbsp;![rs]
 [1523][1523l]|[在区间范围内统计奇数数目][1523]                          |![rb]
 [1524][1524l]|[和为奇数的子数组数目][1524]                              |![rb]&nbsp;&nbsp;![rs]
@@ -2016,6 +2017,7 @@
 [1509]:Problemset/1509-Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/README_CN.md#1509-三次操作后最大值与最小值的最小差
 [1512]:Problemset/1512-Number%20of%20Good%20Pairs/README_CN.md#1512-好数对的数目
 [1513]:Problemset/1513-Number%20of%20Substrings%20With%20Only%201s/README_CN.md#1513-仅含-1-的子串数
+[1514]:Problemset/1514-Path%20with%20Maximum%20Probability/README_CN.md#1514-概率最大的路径
 [1518]:Problemset/1518-Water%20Bottles/README_CN.md#1518-换酒问题
 [1523]:Problemset/1523-Count%20Odd%20Numbers%20in%20an%20Interval%20Range/README_CN.md#1523-在区间范围内统计奇数数目
 [1524]:Problemset/1524-Number%20of%20Sub-arrays%20With%20Odd%20Sum/README_CN.md#1524-和为奇数的子数组数目
@@ -3257,6 +3259,7 @@
 [1509l]:https://leetcode.cn/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 [1512l]:https://leetcode.cn/problems/number-of-good-pairs/
 [1513l]:https://leetcode.cn/problems/number-of-substrings-with-only-1s/
+[1514l]:https://leetcode.cn/problems/path-with-maximum-probability/
 [1518l]:https://leetcode.cn/problems/water-bottles/
 [1523l]:https://leetcode.cn/problems/count-odd-numbers-in-an-interval-range/
 [1524l]:https://leetcode.cn/problems/number-of-sub-arrays-with-odd-sum/

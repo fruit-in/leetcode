@@ -778,6 +778,7 @@
 [1509][1509l]|[Minimum Difference Between Largest and Smallest Value in Three Moves][1509]          |![rb]
 [1512][1512l]|[Number of Good Pairs][1512]                                                          |![rb]&nbsp;&nbsp;![rs]
 [1513][1513l]|[Number of Substrings With Only 1s][1513]                                             |![rs]
+[1514][1514l]|[Path with Maximum Probability][1514]                                                 |![py]
 [1518][1518l]|[Water Bottles][1518]                                                                 |![rb]&nbsp;&nbsp;![rs]
 [1523][1523l]|[Count Odd Numbers in an Interval Range][1523]                                        |![rb]
 [1524][1524l]|[Number of Sub-arrays With Odd Sum][1524]                                             |![rb]&nbsp;&nbsp;![rs]
@@ -2016,6 +2017,7 @@
 [1509]:Problemset/1509-Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/README.md#1509-minimum-difference-between-largest-and-smallest-value-in-three-moves
 [1512]:Problemset/1512-Number%20of%20Good%20Pairs/README.md#1512-number-of-good-pairs
 [1513]:Problemset/1513-Number%20of%20Substrings%20With%20Only%201s/README.md#1513-number-of-substrings-with-only-1s
+[1514]:Problemset/1514-Path%20with%20Maximum%20Probability/README.md#1514-path-with-maximum-probability
 [1518]:Problemset/1518-Water%20Bottles/README.md#1518-water-bottles
 [1523]:Problemset/1523-Count%20Odd%20Numbers%20in%20an%20Interval%20Range/README.md#1523-count-odd-numbers-in-an-interval-range
 [1524]:Problemset/1524-Number%20of%20Sub-arrays%20With%20Odd%20Sum/README.md#1524-number-of-sub-arrays-with-odd-sum
@@ -3257,6 +3259,7 @@
 [1509l]:https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 [1512l]:https://leetcode.com/problems/number-of-good-pairs/
 [1513l]:https://leetcode.com/problems/number-of-substrings-with-only-1s/
+[1514l]:https://leetcode.com/problems/path-with-maximum-probability/
 [1518l]:https://leetcode.com/problems/water-bottles/
 [1523l]:https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 [1524l]:https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
