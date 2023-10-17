@@ -601,6 +601,7 @@
 [1137][1137l]|[N-th Tribonacci Number][1137]                                                        |![rs]
 [1138][1138l]|[Alphabet Board Path][1138]                                                           |![rb]&nbsp;&nbsp;![rs]
 [1139][1139l]|[Largest 1-Bordered Square][1139]                                                     |![rs]
+[1143][1143l]|[Longest Common Subsequence][1143]                                                    |![rs]
 [1144][1144l]|[Decrease Elements To Make Array Zigzag][1144]                                        |![rs]
 [1146][1146l]|[Snapshot Array][1146]                                                                |![rb]&nbsp;&nbsp;![rs]
 [1154][1154l]|[Day of the Year][1154]                                                               |![rs]
@@ -1841,6 +1842,7 @@
 [1137]:Problemset/1137-N-th%20Tribonacci%20Number/README.md#1137-n-th-tribonacci-number
 [1138]:Problemset/1138-Alphabet%20Board%20Path/README.md#1138-alphabet-board-path
 [1139]:Problemset/1139-Largest%201-Bordered%20Square/README.md#1139-largest-1-bordered-square
+[1143]:Problemset/1143-Longest%20Common%20Subsequence/README.md#1143-longest-common-subsequence
 [1144]:Problemset/1144-Decrease%20Elements%20To%20Make%20Array%20Zigzag/README.md#1144-decrease-elements-to-make-array-zigzag
 [1146]:Problemset/1146-Snapshot%20Array/README.md#1146-snapshot-array
 [1154]:Problemset/1154-Day%20of%20the%20Year/README.md#1154-day-of-the-year
@@ -3084,6 +3086,7 @@
 [1137l]:https://leetcode.com/problems/n-th-tribonacci-number/
 [1138l]:https://leetcode.com/problems/alphabet-board-path/
 [1139l]:https://leetcode.com/problems/largest-1-bordered-square/
+[1143l]:https://leetcode.com/problems/longest-common-subsequence/
 [1144l]:https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
 [1146l]:https://leetcode.com/problems/snapshot-array/
 [1154l]:https://leetcode.com/problems/day-of-the-year/
