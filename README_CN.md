@@ -620,6 +620,7 @@
 [1190][1190l]|[反转每对括号间的子串][1190]                              |![rs]
 [1191][1191l]|[K 次串联后最大子数组之和][1191]                          |![rb]&nbsp;&nbsp;![rs]
 [1200][1200l]|[最小绝对差][1200]                                        |![rs]
+[1202][1202l]|[交换字符串中的元素][1202]                                |![py]
 [1207][1207l]|[独一无二的出现次数][1207]                                |![rs]
 [1208][1208l]|[尽可能使字符串相等][1208]                                |![rb]&nbsp;&nbsp;![rs]
 [1209][1209l]|[删除字符串中的所有相邻重复项 II][1209]                   |![rs]
@@ -1861,6 +1862,7 @@
 [1190]:Problemset/1190-Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/README_CN.md#1190-反转每对括号间的子串
 [1191]:Problemset/1191-K-Concatenation%20Maximum%20Sum/README_CN.md#1191-k-次串联后最大子数组之和
 [1200]:Problemset/1200-Minimum%20Absolute%20Difference/README_CN.md#1200-最小绝对差
+[1202]:Problemset/1202-Smallest%20String%20With%20Swaps/README_CN.md#1202-交换字符串中的元素
 [1207]:Problemset/1207-Unique%20Number%20of%20Occurrences/README_CN.md#1207-独一无二的出现次数
 [1208]:Problemset/1208-Get%20Equal%20Substrings%20Within%20Budget/README_CN.md#1208-尽可能使字符串相等
 [1209]:Problemset/1209-Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/README_CN.md#1209-删除字符串中的所有相邻重复项-ii
@@ -3105,6 +3107,7 @@
 [1190l]:https://leetcode.cn/problems/reverse-substrings-between-each-pair-of-parentheses/
 [1191l]:https://leetcode.cn/problems/k-concatenation-maximum-sum/
 [1200l]:https://leetcode.cn/problems/minimum-absolute-difference/
+[1202l]:https://leetcode.cn/problems/smallest-string-with-swaps/
 [1207l]:https://leetcode.cn/problems/unique-number-of-occurrences/
 [1208l]:https://leetcode.cn/problems/get-equal-substrings-within-budget/
 [1209l]:https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string-ii/

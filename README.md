@@ -620,6 +620,7 @@
 [1190][1190l]|[Reverse Substrings Between Each Pair of Parentheses][1190]                           |![rs]
 [1191][1191l]|[K-Concatenation Maximum Sum][1191]                                                   |![rb]&nbsp;&nbsp;![rs]
 [1200][1200l]|[Minimum Absolute Difference][1200]                                                   |![rs]
+[1202][1202l]|[Smallest String With Swaps][1202]                                                    |![py]
 [1207][1207l]|[Unique Number of Occurrences][1207]                                                  |![rs]
 [1208][1208l]|[Get Equal Substrings Within Budget][1208]                                            |![rb]&nbsp;&nbsp;![rs]
 [1209][1209l]|[Remove All Adjacent Duplicates in String II][1209]                                   |![rs]
@@ -1861,6 +1862,7 @@
 [1190]:Problemset/1190-Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/README.md#1190-reverse-substrings-between-each-pair-of-parentheses
 [1191]:Problemset/1191-K-Concatenation%20Maximum%20Sum/README.md#1191-k-concatenation-maximum-sum
 [1200]:Problemset/1200-Minimum%20Absolute%20Difference/README.md#1200-minimum-absolute-difference
+[1202]:Problemset/1202-Smallest%20String%20With%20Swaps/README.md#1202-smallest-string-with-swaps
 [1207]:Problemset/1207-Unique%20Number%20of%20Occurrences/README.md#1207-unique-number-of-occurrences
 [1208]:Problemset/1208-Get%20Equal%20Substrings%20Within%20Budget/README.md#1208-get-equal-substrings-within-budget
 [1209]:Problemset/1209-Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/README.md#1209-remove-all-adjacent-duplicates-in-string-ii
@@ -3105,6 +3107,7 @@
 [1190l]:https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
 [1191l]:https://leetcode.com/problems/k-concatenation-maximum-sum/
 [1200l]:https://leetcode.com/problems/minimum-absolute-difference/
+[1202l]:https://leetcode.com/problems/smallest-string-with-swaps/
 [1207l]:https://leetcode.com/problems/unique-number-of-occurrences/
 [1208l]:https://leetcode.com/problems/get-equal-substrings-within-budget/
 [1209l]:https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
