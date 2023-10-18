@@ -146,6 +146,7 @@
 [219][219l]  |[Contains Duplicate II][219]                                                          |![rs]
 [220][220l]  |[Contains Duplicate III][220]                                                         |![rs]
 [221][221l]  |[Maximal Square][221]                                                                 |![rs]
+[222][222l]  |[Count Complete Tree Nodes][222]                                                      |![py]
 [223][223l]  |[Rectangle Area][223]                                                                 |![rb]&nbsp;&nbsp;![rs]
 [225][225l]  |[Implement Stack using Queues][225]                                                   |![rs]
 [226][226l]  |[Invert Binary Tree][226]                                                             |![py]
@@ -1388,6 +1389,7 @@
 [219]:Problemset/0219-Contains%20Duplicate%20II/README.md#219-contains-duplicate-ii
 [220]:Problemset/0220-Contains%20Duplicate%20III/README.md#220-contains-duplicate-iii
 [221]:Problemset/0221-Maximal%20Square/README.md#221-maximal-square
+[222]:Problemset/0222-Count%20Complete%20Tree%20Nodes/README.md#222-count-complete-tree-nodes
 [223]:Problemset/0223-Rectangle%20Area/README.md#223-rectangle-area
 [225]:Problemset/0225-Implement%20Stack%20using%20Queues/README.md#225-implement-stack-using-queues
 [226]:Problemset/0226-Invert%20Binary%20Tree/README.md#226-invert-binary-tree
@@ -2627,6 +2629,7 @@
 [219l]:https://leetcode.com/problems/contains-duplicate-ii/
 [220l]:https://leetcode.com/problems/contains-duplicate-iii/
 [221l]:https://leetcode.com/problems/maximal-square/
+[222l]:https://leetcode.com/problems/count-complete-tree-nodes/
 [223l]:https://leetcode.com/problems/rectangle-area/
 [225l]:https://leetcode.com/problems/implement-stack-using-queues/
 [226l]:https://leetcode.com/problems/invert-binary-tree/
