@@ -1206,6 +1206,7 @@
 [2515][2515l]|[Shortest Distance to Target String in a Circular Array][2515]                        |![rs]
 [2520][2520l]|[Count the Digits That Divide a Number][2520]                                         |![rs]
 [2521][2521l]|[Distinct Prime Factors of Product of Array][2521]                                    |![rs]
+[2523][2523l]|[Closest Prime Numbers in Range][2523]                                                |![rs]
 [2525][2525l]|[Categorize Box According to Criteria][2525]                                          |![rs]
 [2526][2526l]|[Find Consecutive Integers from a Data Stream][2526]                                  |![rs]
 [2529][2529l]|[Maximum Count of Positive Integer and Negative Integer][2529]                        |![py]
@@ -2449,6 +2450,7 @@
 [2515]:Problemset/2515-Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/README.md#2515-shortest-distance-to-target-string-in-a-circular-array
 [2520]:Problemset/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README.md#2520-count-the-digits-that-divide-a-number
 [2521]:Problemset/2521-Distinct%20Prime%20Factors%20of%20Product%20of%20Array/README.md#2521-distinct-prime-factors-of-product-of-array
+[2523]:Problemset/2523-Closest%20Prime%20Numbers%20in%20Range/README.md#2523-closest-prime-numbers-in-range
 [2525]:Problemset/2525-Categorize%20Box%20According%20to%20Criteria/README.md#2525-categorize-box-according-to-criteria
 [2526]:Problemset/2526-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream/README.md#2526-find-consecutive-integers-from-a-data-stream
 [2529]:Problemset/2529-Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/README.md#2529-maximum-count-of-positive-integer-and-negative-integer
@@ -3695,6 +3697,7 @@
 [2515l]:https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 [2520l]:https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 [2521l]:https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/
+[2523l]:https://leetcode.com/problems/closest-prime-numbers-in-range/
 [2525l]:https://leetcode.com/problems/categorize-box-according-to-criteria/
 [2526l]:https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/
 [2529l]:https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
