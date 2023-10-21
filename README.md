@@ -440,6 +440,7 @@
 [832][832l]  |[Flipping an Image][832]                                                              |![py]
 [836][836l]  |[Rectangle Overlap][836]                                                              |![rs]
 [838][838l]  |[Push Dominoes][838]                                                                  |![rb]&nbsp;&nbsp;![rs]
+[839][839l]  |[Similar String Groups][839]                                                          |![py]
 [840][840l]  |[Magic Squares In Grid][840]                                                          |![rs]
 [841][841l]  |[Keys and Rooms][841]                                                                 |![rs]
 [844][844l]  |[Backspace String Compare][844]                                                       |![py]
@@ -1685,6 +1686,7 @@
 [832]:Problemset/0832-Flipping%20an%20Image/README.md#832-flipping-an-image
 [836]:Problemset/0836-Rectangle%20Overlap/README.md#836-rectangle-overlap
 [838]:Problemset/0838-Push%20Dominoes/README.md#838-push-dominoes
+[839]:Problemset/0839-Similar%20String%20Groups/README.md#839-similar-string-groups
 [840]:Problemset/0840-Magic%20Squares%20In%20Grid/README.md#840-magic-squares-in-grid
 [841]:Problemset/0841-Keys%20and%20Rooms/README.md#841-keys-and-rooms
 [844]:Problemset/0844-Backspace%20String%20Compare/README.md#844-backspace-string-compare
@@ -2933,6 +2935,7 @@
 [832l]:https://leetcode.com/problems/flipping-an-image/
 [836l]:https://leetcode.com/problems/rectangle-overlap/
 [838l]:https://leetcode.com/problems/push-dominoes/
+[839l]:https://leetcode.com/problems/similar-string-groups/
 [840l]:https://leetcode.com/problems/magic-squares-in-grid/
 [841l]:https://leetcode.com/problems/keys-and-rooms/
 [844l]:https://leetcode.com/problems/backspace-string-compare/

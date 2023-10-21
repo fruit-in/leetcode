@@ -440,6 +440,7 @@
 [832][832l]  |[翻转图像][832]                                           |![py]
 [836][836l]  |[矩形重叠][836]                                           |![rs]
 [838][838l]  |[推多米诺][838]                                           |![rb]&nbsp;&nbsp;![rs]
+[839][839l]  |[相似字符串组][839]                                       |![py]
 [840][840l]  |[矩阵中的幻方][840]                                       |![rs]
 [841][841l]  |[钥匙和房间][841]                                         |![rs]
 [844][844l]  |[比较含退格的字符串][844]                                 |![py]
@@ -1685,6 +1686,7 @@
 [832]:Problemset/0832-Flipping%20an%20Image/README_CN.md#832-翻转图像
 [836]:Problemset/0836-Rectangle%20Overlap/README_CN.md#836-矩形重叠
 [838]:Problemset/0838-Push%20Dominoes/README_CN.md#838-推多米诺
+[839]:Problemset/0839-Similar%20String%20Groups/README_CN.md#839-相似字符串组
 [840]:Problemset/0840-Magic%20Squares%20In%20Grid/README_CN.md#840-矩阵中的幻方
 [841]:Problemset/0841-Keys%20and%20Rooms/README_CN.md#841-钥匙和房间
 [844]:Problemset/0844-Backspace%20String%20Compare/README_CN.md#844-比较含退格的字符串
@@ -2933,6 +2935,7 @@
 [832l]:https://leetcode.cn/problems/flipping-an-image/
 [836l]:https://leetcode.cn/problems/rectangle-overlap/
 [838l]:https://leetcode.cn/problems/push-dominoes/
+[839l]:https://leetcode.cn/problems/similar-string-groups/
 [840l]:https://leetcode.cn/problems/magic-squares-in-grid/
 [841l]:https://leetcode.cn/problems/keys-and-rooms/
 [844l]:https://leetcode.cn/problems/backspace-string-compare/
