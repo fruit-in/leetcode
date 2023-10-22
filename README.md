@@ -704,6 +704,7 @@
 [1365][1365l]|[How Many Numbers Are Smaller Than the Current Number][1365]                          |![js]
 [1366][1366l]|[Rank Teams by Votes][1366]                                                           |![rs]
 [1367][1367l]|[Linked List in Binary Tree][1367]                                                    |![py]&nbsp;&nbsp;![rb]
+[1368][1368l]|[Minimum Cost to Make at Least One Valid Path in a Grid][1368]                        |![rs]
 [1370][1370l]|[Increasing Decreasing String][1370]                                                  |![rs]
 [1371][1371l]|[Find the Longest Substring Containing Vowels in Even Counts][1371]                   |![rs]
 [1372][1372l]|[Longest ZigZag Path in a Binary Tree][1372]                                          |![py]
@@ -1950,6 +1951,7 @@
 [1365]:Problemset/1365-How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/README.md#1365-how-many-numbers-are-smaller-than-the-current-number
 [1366]:Problemset/1366-Rank%20Teams%20by%20Votes/README.md#1366-rank-teams-by-votes
 [1367]:Problemset/1367-Linked%20List%20in%20Binary%20Tree/README.md#1367-linked-list-in-binary-tree
+[1368]:Problemset/1368-Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid/README.md#1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid
 [1370]:Problemset/1370-Increasing%20Decreasing%20String/README.md#1370-increasing-decreasing-string
 [1371]:Problemset/1371-Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts/README.md#1371-find-the-longest-substring-containing-vowels-in-even-counts
 [1372]:Problemset/1372-Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree/README.md#1372-longest-zigzag-path-in-a-binary-tree
@@ -3199,6 +3201,7 @@
 [1365l]:https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1366l]:https://leetcode.com/problems/rank-teams-by-votes/
 [1367l]:https://leetcode.com/problems/linked-list-in-binary-tree/
+[1368l]:https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 [1370l]:https://leetcode.com/problems/increasing-decreasing-string/
 [1371l]:https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 [1372l]:https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/

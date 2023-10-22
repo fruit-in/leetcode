@@ -704,6 +704,7 @@
 [1365][1365l]|[有多少小于当前数字的数字][1365]                          |![js]
 [1366][1366l]|[通过投票对团队排名][1366]                                |![rs]
 [1367][1367l]|[二叉树中的列表][1367]                                    |![py]&nbsp;&nbsp;![rb]
+[1368][1368l]|[使网格图至少有一条有效路径的最小代价][1368]              |![rs]
 [1370][1370l]|[上升下降字符串][1370]                                    |![rs]
 [1371][1371l]|[每个元音包含偶数次的最长子字符串][1371]                  |![rs]
 [1372][1372l]|[二叉树中的最长交错路径][1372]                            |![py]
@@ -1950,6 +1951,7 @@
 [1365]:Problemset/1365-How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/README_CN.md#1365-有多少小于当前数字的数字
 [1366]:Problemset/1366-Rank%20Teams%20by%20Votes/README_CN.md#1366-通过投票对团队排名
 [1367]:Problemset/1367-Linked%20List%20in%20Binary%20Tree/README_CN.md#1367-二叉树中的列表
+[1368]:Problemset/1368-Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid/README_CN.md#1368-使网格图至少有一条有效路径的最小代价
 [1370]:Problemset/1370-Increasing%20Decreasing%20String/README_CN.md#1370-上升下降字符串
 [1371]:Problemset/1371-Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts/README_CN.md#1371-每个元音包含偶数次的最长子字符串
 [1372]:Problemset/1372-Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree/README_CN.md#1372-二叉树中的最长交错路径
@@ -3199,6 +3201,7 @@
 [1365l]:https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1366l]:https://leetcode.cn/problems/rank-teams-by-votes/
 [1367l]:https://leetcode.cn/problems/linked-list-in-binary-tree/
+[1368l]:https://leetcode.cn/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 [1370l]:https://leetcode.cn/problems/increasing-decreasing-string/
 [1371l]:https://leetcode.cn/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 [1372l]:https://leetcode.cn/problems/longest-zigzag-path-in-a-binary-tree/
