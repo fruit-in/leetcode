@@ -356,6 +356,7 @@
 [670][670l]  |[Maximum Swap][670]                                                                   |![rs]
 [671][671l]  |[Second Minimum Node In a Binary Tree][671]                                           |![py]
 [672][672l]  |[Bulb Switcher II][672]                                                               |![rs]
+[673][673l]  |[Number of Longest Increasing Subsequence][673]                                       |![py]
 [674][674l]  |[Longest Continuous Increasing Subsequence][674]                                      |![rs]
 [675][675l]  |[Cut Off Trees for Golf Event][675]                                                   |![rs]
 [680][680l]  |[Valid Palindrome II][680]                                                            |![py]
@@ -1604,6 +1605,7 @@
 [670]:Problemset/0670-Maximum%20Swap/README.md#670-maximum-swap
 [671]:Problemset/0671-Second%20Minimum%20Node%20In%20a%20Binary%20Tree/README.md#671-second-minimum-node-in-a-binary-tree
 [672]:Problemset/0672-Bulb%20Switcher%20II/README.md#672-bulb-switcher-ii
+[673]:Problemset/0673-Number%20of%20Longest%20Increasing%20Subsequence/README.md#673-number-of-longest-increasing-subsequence
 [674]:Problemset/0674-Longest%20Continuous%20Increasing%20Subsequence/README.md#674-longest-continuous-increasing-subsequence
 [675]:Problemset/0675-Cut%20Off%20Trees%20for%20Golf%20Event/README.md#675-cut-off-trees-for-golf-event
 [680]:Problemset/0680-Valid%20Palindrome%20II/README.md#680-valid-palindrome-ii
@@ -2854,6 +2856,7 @@
 [670l]:https://leetcode.com/problems/maximum-swap/
 [671l]:https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
 [672l]:https://leetcode.com/problems/bulb-switcher-ii/
+[673l]:https://leetcode.com/problems/number-of-longest-increasing-subsequence/
 [674l]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 [675l]:https://leetcode.com/problems/cut-off-trees-for-golf-event/
 [677l]:https://leetcode.com/problems/map-sum-pairs/

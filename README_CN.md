@@ -356,6 +356,7 @@
 [670][670l]  |[最大交换][670]                                           |![rs]
 [671][671l]  |[二叉树中第二小的节点][671]                               |![py]
 [672][672l]  |[灯泡开关 Ⅱ][672]                                         |![rs]
+[673][673l]  |[最长递增子序列的个数][673]                               |![py]
 [674][674l]  |[最长连续递增序列][674]                                   |![rs]
 [675][675l]  |[为高尔夫比赛砍树][675]                                   |![rs]
 [680][680l]  |[验证回文字符串 Ⅱ][680]                                   |![py]
@@ -1604,6 +1605,7 @@
 [670]:Problemset/0670-Maximum%20Swap/README_CN.md#670-最大交换
 [671]:Problemset/0671-Second%20Minimum%20Node%20In%20a%20Binary%20Tree/README_CN.md#671-二叉树中第二小的节点
 [672]:Problemset/0672-Bulb%20Switcher%20II/README_CN.md#672-灯泡开关-Ⅱ
+[673]:Problemset/0673-Number%20of%20Longest%20Increasing%20Subsequence/README_CN.md#673-最长递增子序列的个数
 [674]:Problemset/0674-Longest%20Continuous%20Increasing%20Subsequence/README_CN.md#674-最长连续递增序列
 [675]:Problemset/0675-Cut%20Off%20Trees%20for%20Golf%20Event/README_CN.md#675-为高尔夫比赛砍树
 [680]:Problemset/0680-Valid%20Palindrome%20II/README_CN.md#680-验证回文字符串-ii
@@ -2854,6 +2856,7 @@
 [670l]:https://leetcode.cn/problems/maximum-swap/
 [671l]:https://leetcode.cn/problems/second-minimum-node-in-a-binary-tree/
 [672l]:https://leetcode.cn/problems/bulb-switcher-ii/
+[673l]:https://leetcode.cn/problems/number-of-longest-increasing-subsequence/
 [674l]:https://leetcode.cn/problems/longest-continuous-increasing-subsequence/
 [675l]:https://leetcode.cn/problems/cut-off-trees-for-golf-event/
 [677l]:https://leetcode.cn/problems/map-sum-pairs/
