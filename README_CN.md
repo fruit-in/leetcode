@@ -219,6 +219,7 @@
 [390][390l]  |[消除游戏][390]                                           |![rs]
 [392][392l]  |[判断子序列][392]                                         |![rs]
 [393][393l]  |[UTF-8 编码验证][393]                                     |![rs]
+[395][395l]  |[至少有 K 个重复字符的最长子串][395]                      |![rs]
 [396][396l]  |[旋转函数][396]                                           |![rs]
 [397][397l]  |[整数替换][397]                                           |![rs]
 [398][398l]  |[随机数索引][398]                                         |![py]
@@ -1468,6 +1469,7 @@
 [390]:Problemset/0390-Elimination%20Game/README_CN.md#390-消除游戏
 [392]:Problemset/0392-Is%20Subsequence/README_CN.md#392-判断子序列
 [393]:Problemset/0393-UTF-8%20Validation/README_CN.md#393-utf-8-编码验证
+[395]:Problemset/0395-Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/README_CN.md#395-至少有-k-个重复字符的最长子串
 [396]:Problemset/0396-Rotate%20Function/README_CN.md#396-旋转函数
 [397]:Problemset/0397-Integer%20Replacement/README_CN.md#397-整数替换
 [398]:Problemset/0398-Random%20Pick%20Index/README_CN.md#398-随机数索引
@@ -2716,6 +2718,7 @@
 [390l]:https://leetcode.cn/problems/elimination-game/
 [392l]:https://leetcode.cn/problems/is-subsequence/
 [393l]:https://leetcode.cn/problems/utf-8-validation/
+[395l]:https://leetcode.cn/problems/longest-substring-with-at-least-k-repeating-characters/
 [396l]:https://leetcode.cn/problems/rotate-function/
 [397l]:https://leetcode.cn/problems/integer-replacement/
 [398l]:https://leetcode.cn/problems/random-pick-index/
