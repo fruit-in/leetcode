@@ -826,6 +826,7 @@
 [1604][1604l]|[Alert Using Same Key-Card Three or More Times in a One Hour Period][1604]            |![rs]
 [1608][1608l]|[Special Array With X Elements Greater Than or Equal X][1608]                         |![rs]
 [1609][1609l]|[Even Odd Tree][1609]                                                                 |![py]&nbsp;&nbsp;![rb]
+[1610][1610l]|[Maximum Number of Visible Points][1610]                                              |![rs]
 [1614][1614l]|[Maximum Nesting Depth of the Parentheses][1614]                                      |![rb]&nbsp;&nbsp;![rs]
 [1619][1619l]|[Mean of Array After Removing Some Elements][1619]                                    |![rb]&nbsp;&nbsp;![rs]
 [1620][1620l]|[Coordinate With Maximum Network Quality][1620]                                       |![rs]
@@ -2078,6 +2079,7 @@
 [1604]:Problemset/1604-Alert%20Using%20Same%20Key-Card%20Three%20or%20More%20Times%20in%20a%20One%20Hour%20Period/README.md#1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
 [1608]:Problemset/1608-Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/README.md#1608-special-array-with-x-elements-greater-than-or-equal-x
 [1609]:Problemset/1609-Even%20Odd%20Tree/README.md#1609-even-odd-tree
+[1610]:Problemset/1610-Maximum%20Number%20of%20Visible%20Points/README.md#1610-maximum-number-of-visible-points
 [1614]:Problemset/1614-Maximum%20Nesting%20Depth%20of%20the%20Parentheses/README.md#1614-maximum-nesting-depth-of-the-parentheses
 [1619]:Problemset/1619-Mean%20of%20Array%20After%20Removing%20Some%20Elements/README.md#1619-mean-of-array-after-removing-some-elements
 [1620]:Problemset/1620-Coordinate%20With%20Maximum%20Network%20Quality/README.md#1620-coordinate-with-maximum-network-quality
@@ -3333,6 +3335,7 @@
 [1604l]:https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/
 [1608l]:https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 [1609l]:https://leetcode.com/problems/even-odd-tree/
+[1610l]:https://leetcode.com/problems/maximum-number-of-visible-points/
 [1614l]:https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 [1619l]:https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 [1620l]:https://leetcode.com/problems/coordinate-with-maximum-network-quality/

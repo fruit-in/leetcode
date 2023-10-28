@@ -826,6 +826,7 @@
 [1604][1604l]|[警告一小时内使用相同员工卡大于等于三次的人][1604]        |![rs]
 [1608][1608l]|[特殊数组的特征值][1608]                                  |![rs]
 [1609][1609l]|[奇偶树][1609]                                            |![py]&nbsp;&nbsp;![rb]
+[1610][1610l]|[可见点的最大数目][1610]                                  |![rs]
 [1614][1614l]|[括号的最大嵌套深度][1614]                                |![rb]&nbsp;&nbsp;![rs]
 [1619][1619l]|[删除某些元素后的数组均值][1619]                          |![rb]&nbsp;&nbsp;![rs]
 [1620][1620l]|[网络信号最好的坐标][1620]                                |![rs]
@@ -2078,6 +2079,7 @@
 [1604]:Problemset/1604-Alert%20Using%20Same%20Key-Card%20Three%20or%20More%20Times%20in%20a%20One%20Hour%20Period/README_CN.md#1604-警告一小时内使用相同员工卡大于等于三次的人
 [1608]:Problemset/1608-Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/README_CN.md#1608-特殊数组的特征值
 [1609]:Problemset/1609-Even%20Odd%20Tree/README_CN.md#1609-奇偶树
+[1610]:Problemset/1610-Maximum%20Number%20of%20Visible%20Points/README_CN.md#1610-可见点的最大数目
 [1614]:Problemset/1614-Maximum%20Nesting%20Depth%20of%20the%20Parentheses/README_CN.md#1614-括号的最大嵌套深度
 [1619]:Problemset/1619-Mean%20of%20Array%20After%20Removing%20Some%20Elements/README_CN.md#1619-删除某些元素后的数组均值
 [1620]:Problemset/1620-Coordinate%20With%20Maximum%20Network%20Quality/README_CN.md#1620-网络信号最好的坐标
@@ -3333,6 +3335,7 @@
 [1604l]:https://leetcode.cn/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/
 [1608l]:https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x/
 [1609l]:https://leetcode.cn/problems/even-odd-tree/
+[1610l]:https://leetcode.cn/problems/maximum-number-of-visible-points/
 [1614l]:https://leetcode.cn/problems/maximum-nesting-depth-of-the-parentheses/
 [1619l]:https://leetcode.cn/problems/mean-of-array-after-removing-some-elements/
 [1620l]:https://leetcode.cn/problems/coordinate-with-maximum-network-quality/
