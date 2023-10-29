@@ -325,6 +325,7 @@
 [575][575l]  |[分糖果][575]                                             |![rs]
 [576][576l]  |[出界的路径数][576]                                       |![rs]
 [581][581l]  |[最短无序连续子数组][581]                                 |![rs]
+[587][587l]  |[安装栅栏][587]                                           |![rs]
 [589][589l]  |[N叉树的前序遍历][589]                                    |![py]
 [590][590l]  |[N叉树的后序遍历][590]                                    |![py]
 [592][592l]  |[分数加减运算][592]                                       |![rs]
@@ -1578,6 +1579,7 @@
 [575]:Problemset/0575-Distribute%20Candies/README_CN.md#575-分糖果
 [576]:Problemset/0576-Out%20of%20Boundary%20Paths/README_CN.md#576-出界的路径数
 [581]:Problemset/0581-Shortest%20Unsorted%20Continuous%20Subarray/README_CN.md#581-最短无序连续子数组
+[587]:Problemset/0587-Erect%20the%20Fence/README_CN.md#587-安装栅栏
 [589]:Problemset/0589-N-ary%20Tree%20Preorder%20Traversal/README_CN.md#589-n叉树的前序遍历
 [590]:Problemset/0590-N-ary%20Tree%20Postorder%20Traversal/README_CN.md#590-n叉树的后序遍历
 [592]:Problemset/0592-Fraction%20Addition%20and%20Subtraction/README_CN.md#592-分数加减运算
@@ -2831,6 +2833,7 @@
 [575l]:https://leetcode.cn/problems/distribute-candies/
 [576l]:https://leetcode.cn/problems/out-of-boundary-paths/
 [581l]:https://leetcode.cn/problems/shortest-unsorted-continuous-subarray/
+[587l]:https://leetcode.cn/problems/erect-the-fence/
 [589l]:https://leetcode.cn/problems/n-ary-tree-preorder-traversal/
 [590l]:https://leetcode.cn/problems/n-ary-tree-postorder-traversal/
 [592l]:https://leetcode.cn/problems/fraction-addition-and-subtraction/
