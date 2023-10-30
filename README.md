@@ -237,6 +237,7 @@
 [416][416l]  |[Partition Equal Subset Sum][416]                                                     |![rb]&nbsp;&nbsp;![rs]
 [417][417l]  |[Pacific Atlantic Water Flow][417]                                                    |![rs]
 [419][419l]  |[Battleships in a Board][419]                                                         |![rs]
+[421][421l]  |[Maximum XOR of Two Numbers in an Array][421]                                         |![py]
 [423][423l]  |[Reconstruct Original Digits from English][423]                                       |![rs]
 [427][427l]  |[Construct Quad Tree][427]                                                            |![py]
 [429][429l]  |[N-ary Tree Level Order Traversal][429]                                               |![py]&nbsp;&nbsp;![rb]
@@ -1491,6 +1492,7 @@
 [416]:Problemset/0416-Partition%20Equal%20Subset%20Sum/README.md#416-partition-equal-subset-sum
 [417]:Problemset/0417-Pacific%20Atlantic%20Water%20Flow/README.md#417-pacific-atlantic-water-flow
 [419]:Problemset/0419-Battleships%20in%20a%20Board/README.md#419-battleships-in-a-board
+[421]:Problemset/0421-Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/README.md#421-maximum-xor-of-two-numbers-in-an-array
 [423]:Problemset/0423-Reconstruct%20Original%20Digits%20from%20English/README.md#423-reconstruct-original-digits-from-english
 [427]:Problemset/0427-Construct%20Quad%20Tree/README.md#427-construct-quad-tree
 [429]:Problemset/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#429-n-ary-tree-level-order-traversal
@@ -2744,6 +2746,7 @@
 [416l]:https://leetcode.com/problems/partition-equal-subset-sum/
 [417l]:https://leetcode.com/problems/pacific-atlantic-water-flow/
 [419l]:https://leetcode.com/problems/battleships-in-a-board/
+[421l]:https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 [421l]:https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 [423l]:https://leetcode.com/problems/reconstruct-original-digits-from-english/
 [427l]:https://leetcode.com/problems/construct-quad-tree/

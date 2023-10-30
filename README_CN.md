@@ -237,6 +237,7 @@
 [416][416l]  |[分割等和子集][416]                                       |![rb]&nbsp;&nbsp;![rs]
 [417][417l]  |[太平洋大西洋水流问题][417]                               |![rs]
 [419][419l]  |[甲板上的战舰][419]                                       |![rs]
+[421][421l]  |[数组中两个数的最大异或值][421]                           |![py]
 [423][423l]  |[从英文中重建数字][423]                                   |![rs]
 [427][427l]  |[建立四叉树][427]                                         |![py]
 [429][429l]  |[N叉树的层序遍历][429]                                    |![py]&nbsp;&nbsp;![rb]
@@ -1491,6 +1492,7 @@
 [416]:Problemset/0416-Partition%20Equal%20Subset%20Sum/README_CN.md#416-分割等和子集
 [417]:Problemset/0417-Pacific%20Atlantic%20Water%20Flow/README_CN.md#417-太平洋大西洋水流问题
 [419]:Problemset/0419-Battleships%20in%20a%20Board/README_CN.md#419-甲板上的战舰
+[421]:Problemset/0421-Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/README_CN.md#421-数组中两个数的最大异或值
 [423]:Problemset/0423-Reconstruct%20Original%20Digits%20from%20English/README_CN.md#423-从英文中重建数字
 [427]:Problemset/0427-Construct%20Quad%20Tree/README_CN.md#427-建立四叉树
 [429]:Problemset/0429-N-ary%20Tree%20Level%20Order%20Traversal/README_CN.md#429-n叉树的层序遍历
@@ -2744,6 +2746,7 @@
 [416l]:https://leetcode.cn/problems/partition-equal-subset-sum/
 [417l]:https://leetcode.cn/problems/pacific-atlantic-water-flow/
 [419l]:https://leetcode.cn/problems/battleships-in-a-board/
+[421l]:https://leetcode.cn/problems/maximum-xor-of-two-numbers-in-an-array/
 [421l]:https://leetcode.cn/problems/maximum-xor-of-two-numbers-in-an-array/
 [423l]:https://leetcode.cn/problems/reconstruct-original-digits-from-english/
 [427l]:https://leetcode.cn/problems/construct-quad-tree/
