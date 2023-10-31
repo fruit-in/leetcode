@@ -959,6 +959,7 @@
 [1929][1929l]|[数组串联][1929]                                          |![py]&nbsp;&nbsp;![rs]
 [1930][1930l]|[长度为 3 的不同回文子序列][1930]                         |![rs]
 [1935][1935l]|[可以输入的最大单词数][1935]                              |![py]
+[1936][1936l]|[新增的最少台阶数][1936]                                  |![rs]
 [1941][1941l]|[检查是否所有字符出现次数相同][1941]                      |![rs]
 [1942][1942l]|[最小未被占据椅子的编号][1942]                            |![rs]
 [1944][1944l]|[队列中可以看到的人数][1944]                              |![rs]
@@ -2215,6 +2216,7 @@
 [1929]:Problemset/1929-Concatenation%20of%20Array/README_CN.md#1929-数组串联
 [1930]:Problemset/1930-Unique%20Length-3%20Palindromic%20Subsequences/README_CN.md#1930-长度为-3-的不同回文子序列
 [1935]:Problemset/1935-Maximum%20Number%20of%20Words%20You%20Can%20Type/README_CN.md#1935-可以输入的最大单词数
+[1936]:Problemset/1936-Add%20Minimum%20Number%20of%20Rungs/README_CN.md#1936-新增的最少台阶数
 [1941]:Problemset/1941-Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences/README_CN.md#1941-检查是否所有字符出现次数相同
 [1942]:Problemset/1942-The%20Number%20of%20the%20Smallest%20Unoccupied%20Chair/README_CN.md#1942-最小未被占据椅子的编号
 [1944]:Problemset/1944-Number%20of%20Visible%20People%20in%20a%20Queue/README_CN.md#1944-队列中可以看到的人数
@@ -3474,6 +3476,7 @@
 [1929l]:https://leetcode.cn/problems/concatenation-of-array/
 [1930l]:https://leetcode.cn/problems/unique-length-3-palindromic-subsequences/
 [1935l]:https://leetcode.cn/problems/maximum-number-of-words-you-can-type/
+[1936l]:https://leetcode.cn/problems/add-minimum-number-of-rungs/
 [1941l]:https://leetcode.cn/problems/check-if-all-characters-have-equal-number-of-occurrences/
 [1942l]:https://leetcode.cn/problems/the-number-of-the-smallest-unoccupied-chair/
 [1944l]:https://leetcode.cn/problems/number-of-visible-people-in-a-queue/

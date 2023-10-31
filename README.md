@@ -959,6 +959,7 @@
 [1929][1929l]|[Concatenation of Array][1929]                                                        |![py]&nbsp;&nbsp;![rs]
 [1930][1930l]|[Unique Length-3 Palindromic Subsequences][1930]                                      |![rs]
 [1935][1935l]|[Maximum Number of Words You Can Type][1935]                                          |![py]
+[1936][1936l]|[Add Minimum Number of Rungs][1936]                                                   |![rs]
 [1941][1941l]|[Check if All Characters Have Equal Number of Occurrences][1941]                      |![rs]
 [1942][1942l]|[The Number of the Smallest Unoccupied Chair][1942]                                   |![rs]
 [1944][1944l]|[Number of Visible People in a Queue][1944]                                           |![rs]
@@ -2215,6 +2216,7 @@
 [1929]:Problemset/1929-Concatenation%20of%20Array/README.md#1929-concatenation-of-array
 [1930]:Problemset/1930-Unique%20Length-3%20Palindromic%20Subsequences/README.md#1930-unique-length-3-palindromic-subsequences
 [1935]:Problemset/1935-Maximum%20Number%20of%20Words%20You%20Can%20Type/README.md#1935-maximum-number-of-words-you-can-type
+[1936]:Problemset/1936-Add%20Minimum%20Number%20of%20Rungs/README.md#1936-add-minimum-number-of-rungs
 [1941]:Problemset/1941-Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences/README.md#1941-check-if-all-characters-have-equal-number-of-occurrences
 [1942]:Problemset/1942-The%20Number%20of%20the%20Smallest%20Unoccupied%20Chair/README.md#1942-the-number-of-the-smallest-unoccupied-chair
 [1944]:Problemset/1944-Number%20of%20Visible%20People%20in%20a%20Queue/README.md#1944-number-of-visible-people-in-a-queue
@@ -3474,6 +3476,7 @@
 [1929l]:https://leetcode.com/problems/concatenation-of-array/
 [1930l]:https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
 [1935l]:https://leetcode.com/problems/maximum-number-of-words-you-can-type/
+[1936l]:https://leetcode.com/problems/add-minimum-number-of-rungs/
 [1941l]:https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 [1942l]:https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/
 [1944l]:https://leetcode.com/problems/number-of-visible-people-in-a-queue/
