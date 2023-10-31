@@ -955,6 +955,7 @@
 [1920][1920l]|[基于排列构建数组][1920]                                  |![rs]
 [1921][1921l]|[消灭怪物的最大数量][1921]                                |![rs]
 [1925][1925l]|[统计平方和三元组的数目][1925]                            |![py]
+[1926][1926l]|[迷宫中离入口最近的出口][1926]                            |![rs]
 [1929][1929l]|[数组串联][1929]                                          |![py]&nbsp;&nbsp;![rs]
 [1930][1930l]|[长度为 3 的不同回文子序列][1930]                         |![rs]
 [1935][1935l]|[可以输入的最大单词数][1935]                              |![py]
@@ -2210,6 +2211,7 @@
 [1920]:Problemset/1920-Build%20Array%20from%20Permutation/README_CN.md#1920-基于排列构建数组
 [1921]:Problemset/1921-Eliminate%20Maximum%20Number%20of%20Monsters/README_CN.md#1921-消灭怪物的最大数量
 [1925]:Problemset/1925-Count%20Square%20Sum%20Triples/README_CN.md#1925-统计平方和三元组的数目
+[1926]:Problemset/1926-Nearest%20Exit%20from%20Entrance%20in%20Maze/README_CN.md#1926-迷宫中离入口最近的出口
 [1929]:Problemset/1929-Concatenation%20of%20Array/README_CN.md#1929-数组串联
 [1930]:Problemset/1930-Unique%20Length-3%20Palindromic%20Subsequences/README_CN.md#1930-长度为-3-的不同回文子序列
 [1935]:Problemset/1935-Maximum%20Number%20of%20Words%20You%20Can%20Type/README_CN.md#1935-可以输入的最大单词数
@@ -3468,6 +3470,7 @@
 [1920l]:https://leetcode.cn/problems/build-array-from-permutation/
 [1921l]:https://leetcode.cn/problems/eliminate-maximum-number-of-monsters/
 [1925l]:https://leetcode.cn/problems/count-square-sum-triples/
+[1926l]:https://leetcode.cn/problems/nearest-exit-from-entrance-in-maze/
 [1929l]:https://leetcode.cn/problems/concatenation-of-array/
 [1930l]:https://leetcode.cn/problems/unique-length-3-palindromic-subsequences/
 [1935l]:https://leetcode.cn/problems/maximum-number-of-words-you-can-type/
