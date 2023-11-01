@@ -152,6 +152,7 @@
 [225][225l]  |[Implement Stack using Queues][225]                                                   |![rs]
 [226][226l]  |[Invert Binary Tree][226]                                                             |![py]
 [228][228l]  |[Summary Ranges][228]                                                                 |![py]
+[229][229l]  |[Majority Element II][229]                                                            |![rs]
 [230][230l]  |[Kth Smallest Element in a BST][230]                                                  |![rb]
 [231][231l]  |[Power of Two][231]                                                                   |![rs]
 [232][232l]  |[Implement Queue using Stacks][232]                                                   |![rs]
@@ -1410,6 +1411,7 @@
 [225]:Problemset/0225-Implement%20Stack%20using%20Queues/README.md#225-implement-stack-using-queues
 [226]:Problemset/0226-Invert%20Binary%20Tree/README.md#226-invert-binary-tree
 [228]:Problemset/0228-Summary%20Ranges/README.md#228-summary-ranges
+[229]:Problemset/0229-Majority%20Element%20II/README.md#229-majority-element-ii
 [230]:Problemset/0230-Kth%20Smallest%20Element%20in%20a%20BST/README.md#230-kth-smallest-element-in-a-bst
 [231]:Problemset/0231-Power%20of%20Two/README.md#231-power-of-two
 [232]:Problemset/0232-Implement%20Queue%20using%20Stacks/README.md#232-implement-queue-using-stacks
@@ -2665,6 +2667,7 @@
 [225l]:https://leetcode.com/problems/implement-stack-using-queues/
 [226l]:https://leetcode.com/problems/invert-binary-tree/
 [228l]:https://leetcode.com/problems/summary-ranges/
+[229l]:https://leetcode.com/problems/majority-element-ii/
 [230l]:https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 [231l]:https://leetcode.com/problems/power-of-two/
 [232l]:https://leetcode.com/problems/implement-queue-using-stacks/

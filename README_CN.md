@@ -152,6 +152,7 @@
 [225][225l]  |[用队列实现栈][225]                                       |![rs]
 [226][226l]  |[翻转二叉树][226]                                         |![py]
 [228][228l]  |[汇总区间][228]                                           |![py]
+[229][229l]  |[多数元素 II][229]                                        |![rs]
 [230][230l]  |[二叉搜索树中第K小的元素][230]                            |![rb]
 [231][231l]  |[2的幂][231]                                              |![rs]
 [232][232l]  |[用栈实现队列][232]                                       |![rs]
@@ -1410,6 +1411,7 @@
 [225]:Problemset/0225-Implement%20Stack%20using%20Queues/README_CN.md#225-用队列实现栈
 [226]:Problemset/0226-Invert%20Binary%20Tree/README_CN.md#226-翻转二叉树
 [228]:Problemset/0228-Summary%20Ranges/README_CN.md#228-汇总区间
+[229]:Problemset/0229-Majority%20Element%20II/README_CN.md#229-多数元素-ii
 [230]:Problemset/0230-Kth%20Smallest%20Element%20in%20a%20BST/README_CN.md#230-二叉搜索树中第k小的元素
 [231]:Problemset/0231-Power%20of%20Two/README_CN.md#231-2的幂
 [232]:Problemset/0232-Implement%20Queue%20using%20Stacks/README_CN.md#232-用栈实现队列
@@ -2665,6 +2667,7 @@
 [225l]:https://leetcode.cn/problems/implement-stack-using-queues/
 [226l]:https://leetcode.cn/problems/invert-binary-tree/
 [228l]:https://leetcode.cn/problems/summary-ranges/
+[229l]:https://leetcode.cn/problems/majority-element-ii/
 [230l]:https://leetcode.cn/problems/kth-smallest-element-in-a-bst/
 [231l]:https://leetcode.cn/problems/power-of-two/
 [232l]:https://leetcode.cn/problems/implement-queue-using-stacks/
