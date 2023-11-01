@@ -1043,6 +1043,7 @@
 [2119][2119l]|[反转两次的数字][2119]                                    |![rs]
 [2120][2120l]|[执行所有后缀指令][2120]                                  |![rs]
 [2121][2121l]|[相同元素的间隔之和][2121]                                |![py]
+[2122][2122l]|[还原原数组]                                              |![rs]
 [2124][2124l]|[检查是否所有 A 都在 B 之前][2124]                        |![py]
 [2125][2125l]|[银行中的激光束数量][2125]                                |![py]
 [2126][2126l]|[摧毁小行星][2126]                                        |![rs]
@@ -2302,6 +2303,7 @@
 [2119]:Problemset/2119-A%20Number%20After%20a%20Double%20Reversal/README_CN.md#2119-反转两次的数字
 [2120]:Problemset/2120-Execution%20of%20All%20Suffix%20Instructions%20Staying%20in%20a%20Grid/README_CN.md#2120-执行所有后缀指令
 [2121]:Problemset/2121-Intervals%20Between%20Identical%20Elements/README_CN.md#2121-相同元素的间隔之和
+[2122]:Problemset/2122-Recover%20the%20Original%20Array/README_CN.md#2122-还原原数组
 [2124]:Problemset/2124-Check%20if%20All%20A's%20Appears%20Before%20All%20B's/README_CN.md#2124-检查是否所有-a-都在-b-之前
 [2125]:Problemset/2125-Number%20of%20Laser%20Beams%20in%20a%20Bank/README_CN.md#2125-银行中的激光束数量
 [2126]:Problemset/2126-Destroying%20Asteroids/README_CN.md#2126-摧毁小行星
@@ -3564,6 +3566,7 @@
 [2119l]:https://leetcode.cn/problems/a-number-after-a-double-reversal/
 [2120l]:https://leetcode.cn/problems/execution-of-all-suffix-instructions-staying-in-a-grid/
 [2121l]:https://leetcode.cn/problems/intervals-between-identical-elements/
+[2122l]:https://leetcode.cn/problems/recover-the-original-array/
 [2124l]:https://leetcode.cn/problems/check-if-all-as-appears-before-all-bs/
 [2125l]:https://leetcode.cn/problems/number-of-laser-beams-in-a-bank/
 [2126l]:https://leetcode.cn/problems/destroying-asteroids/

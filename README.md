@@ -1043,6 +1043,7 @@
 [2119][2119l]|[A Number After a Double Reversal][2119]                                              |![rs]
 [2120][2120l]|[Execution of All Suffix Instructions Staying in a Grid][2120]                        |![rs]
 [2121][2121l]|[Intervals Between Identical Elements][2121]                                          |![py]
+[2122][2122l]|[Recover the Original Array][2122]                                                    |![rs]
 [2124][2124l]|[Check if All A's Appears Before All B's][2124]                                       |![py]
 [2125][2125l]|[Number of Laser Beams in a Bank][2125]                                               |![py]
 [2126][2126l]|[Destroying Asteroids][2126]                                                          |![rs]
@@ -2302,6 +2303,7 @@
 [2119]:Problemset/2119-A%20Number%20After%20a%20Double%20Reversal/README.md#2119-a-number-after-a-double-reversal
 [2120]:Problemset/2120-Execution%20of%20All%20Suffix%20Instructions%20Staying%20in%20a%20Grid/README.md#2120-execution-of-all-suffix-instructions-staying-in-a-grid
 [2121]:Problemset/2121-Intervals%20Between%20Identical%20Elements/README.md#2121-intervals-between-identical-elements
+[2122]:Problemset/2122-Recover%20the%20Original%20Array/README.md#2122-recover-the-original-array
 [2124]:Problemset/2124-Check%20if%20All%20A's%20Appears%20Before%20All%20B's/README.md#2124-check-if-all-a's-appears-before-all-b's
 [2125]:Problemset/2125-Number%20of%20Laser%20Beams%20in%20a%20Bank/README.md#2125-number-of-laser-beams-in-a-bank
 [2126]:Problemset/2126-Destroying%20Asteroids/README.md#2126-destroying-asteroids
@@ -3564,6 +3566,7 @@
 [2119l]:https://leetcode.com/problems/a-number-after-a-double-reversal/
 [2120l]:https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/
 [2121l]:https://leetcode.com/problems/intervals-between-identical-elements/
+[2122l]:https://leetcode.com/problems/recover-the-original-array/
 [2124l]:https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
 [2125l]:https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 [2126l]:https://leetcode.com/problems/destroying-asteroids/
