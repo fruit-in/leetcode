@@ -987,6 +987,7 @@
 [2000][2000l]|[反转单词前缀][2000]                                      |![py]
 [2001][2001l]|[可互换矩形的组数][2001]                                  |![py]
 [2006][2006l]|[差的绝对值为 K 的数对数目][2006]                         |![rs]
+[2007][2007l]|[从双倍数组中还原原数组][2007]                            |![rs]
 [2008][2008l]|[出租车的最大盈利][2008]                                  |![rs]
 [2011][2011l]|[执行操作后的变量值][2011]                                |![py]&nbsp;&nbsp;![rs]
 [2016][2016l]|[增量元素之间的最大差值][2016]                            |![rs]
@@ -2244,6 +2245,7 @@
 [2000]:Problemset/2000-Reverse%20Prefix%20of%20Word/README_CN.md#2000-反转单词前缀
 [2001]:Problemset/2001-Number%20of%20Pairs%20of%20Interchangeable%20Rectangles/README_CN.md#2001-可互换矩形的组数
 [2006]:Problemset/2006-Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/README_CN.md#2006-差的绝对值为-k-的数对数目
+[2007]:Problemset/2007-Find%20Original%20Array%20From%20Doubled%20Array/README_CN.md#2007-从双倍数组中还原原数组
 [2008]:Problemset/2008-Maximum%20Earnings%20From%20Taxi/README_CN.md#2008-出租车的最大盈利
 [2011]:Problemset/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README_CN.md#2011-执行操作后的变量值
 [2016]:Problemset/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README_CN.md#2016-增量元素之间的最大差值
@@ -3504,6 +3506,7 @@
 [2000l]:https://leetcode.cn/problems/reverse-prefix-of-word/
 [2001l]:https://leetcode.cn/problems/number-of-pairs-of-interchangeable-rectangles/
 [2006l]:https://leetcode.cn/problems/count-number-of-pairs-with-absolute-difference-k/
+[2007l]:https://leetcode.cn/problems/find-original-array-from-doubled-array/
 [2008l]:https://leetcode.cn/problems/maximum-earnings-from-taxi/
 [2011l]:https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/
 [2016l]:https://leetcode.cn/problems/maximum-difference-between-increasing-elements/
