@@ -143,6 +143,7 @@
 [211][211l]  |[Design Add and Search Words Data Structure][211]                                     |![py]
 [213][213l]  |[House Robber II][213]                                                                |![rs]
 [215][215l]  |[Kth Largest Element in an Array][215]                                                |![rb]
+[216][216l]  |[Combination Sum III][216]                                                            |![rs]
 [217][217l]  |[Contains Duplicate][217]                                                             |![rs]
 [219][219l]  |[Contains Duplicate II][219]                                                          |![rs]
 [220][220l]  |[Contains Duplicate III][220]                                                         |![rs]
@@ -1403,6 +1404,7 @@
 [211]:Problemset/0211-Design%20Add%20and%20Search%20Words%20Data%20Structure/README.md#211-design-add-and-search-words-data-structure
 [213]:Problemset/0213-House%20Robber%20II/README.md#213-house-robber-ii
 [215]:Problemset/0215-Kth%20Largest%20Element%20in%20an%20Array/README.md#215-kth-largest-element-in-an-array
+[216]:Problemset/0216-Combination%20Sum%20III/README.md#216-combination-sum-iii
 [217]:Problemset/0217-Contains%20Duplicate/README.md#217-contains-duplicate
 [219]:Problemset/0219-Contains%20Duplicate%20II/README.md#219-contains-duplicate-ii
 [220]:Problemset/0220-Contains%20Duplicate%20III/README.md#220-contains-duplicate-iii
@@ -2659,6 +2661,7 @@
 [212l]:https://leetcode.com/problems/word-search-ii/
 [213l]:https://leetcode.com/problems/house-robber-ii/
 [215l]:https://leetcode.com/problems/kth-largest-element-in-an-array/
+[216l]:https://leetcode.com/problems/combination-sum-iii/
 [217l]:https://leetcode.com/problems/contains-duplicate/
 [218l]:https://leetcode.com/problems/the-skyline-problem/
 [219l]:https://leetcode.com/problems/contains-duplicate-ii/

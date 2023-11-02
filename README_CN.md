@@ -143,6 +143,7 @@
 [211][211l]  |[添加与搜索单词 - 数据结构设计][211]                      |![py]
 [213][213l]  |[打家劫舍 II][213]                                        |![rs]
 [215][215l]  |[数组中的第K个最大元素][215]                              |![rb]
+[216][216l]  |[组合总和 III][216]                                       |![rs]
 [217][217l]  |[存在重复元素][217]                                       |![rs]
 [219][219l]  |[存在重复元素 II][219]                                    |![rs]
 [220][220l]  |[存在重复元素 III][220]                                   |![rs]
@@ -1403,6 +1404,7 @@
 [211]:Problemset/0211-Design%20Add%20and%20Search%20Words%20Data%20Structure/README_CN.md#211-添加与搜索单词---数据结构设计
 [213]:Problemset/0213-House%20Robber%20II/README_CN.md#213-打家劫舍-ii
 [215]:Problemset/0215-Kth%20Largest%20Element%20in%20an%20Array/README_CN.md#215-数组中的第k个最大元素
+[216]:Problemset/0216-Combination%20Sum%20III/README_CN.md#216-组合总和-iii
 [217]:Problemset/0217-Contains%20Duplicate/README_CN.md#217-存在重复元素
 [219]:Problemset/0219-Contains%20Duplicate%20II/README_CN.md#219-存在重复元素-ii
 [220]:Problemset/0220-Contains%20Duplicate%20III/README_CN.md#220-存在重复元素-iii
@@ -2659,6 +2661,7 @@
 [212l]:https://leetcode.cn/problems/word-search-ii/
 [213l]:https://leetcode.cn/problems/house-robber-ii/
 [215l]:https://leetcode.cn/problems/kth-largest-element-in-an-array/
+[216l]:https://leetcode.cn/problems/combination-sum-iii/
 [217l]:https://leetcode.cn/problems/contains-duplicate/
 [218l]:https://leetcode.cn/problems/the-skyline-problem/
 [219l]:https://leetcode.cn/problems/contains-duplicate-ii/
