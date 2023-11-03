@@ -27,6 +27,7 @@
 [26][26l]    |[删除排序数组中的重复项][26]                              |![rs]
 [27][27l]    |[移除元素][27]                                            |![rb]&nbsp;&nbsp;![rs]
 [28][28l]    |[实现 strStr()][28]                                       |![py]
+[31][31l]    |[下一个排列][31]                                          |![rs]
 [33][33l]    |[搜索旋转排序数组][33]                                    |![rs]
 [35][35l]    |[搜索插入位置][35]                                        |![py]
 [36][36l]    |[有效的数独][36]                                          |![rs]
@@ -1288,6 +1289,7 @@
 [26]:Problemset/0026-Remove%20Duplicates%20from%20Sorted%20Array/README_CN.md#26-删除排序数组中的重复项
 [27]:Problemset/0027-Remove%20Element/README_CN.md#27-移除元素
 [28]:Problemset/0028-Implement%20strStr\(\)/README_CN.md#28-实现-strstr
+[31]:Problemset/0031-Next%20Permutation/README_CN.md#31-下一个排列
 [33]:Problemset/0033-Search%20in%20Rotated%20Sorted%20Array/README_CN.md#33-搜索旋转排序数组
 [35]:Problemset/0035-Search%20Insert%20Position/README_CN.md#35-搜索插入位置
 [36]:Problemset/0036-Valid%20Sudoku/README_CN.md#36-有效的数独
@@ -2541,6 +2543,7 @@
 [26l]:https://leetcode.cn/problems/remove-duplicates-from-sorted-array/
 [27l]:https://leetcode.cn/problems/remove-element/
 [28l]:https://leetcode.cn/problems/implement-strstr/
+[31l]:https://leetcode.cn/problems/next-permutation/
 [33l]:https://leetcode.cn/problems/search-in-rotated-sorted-array/
 [35l]:https://leetcode.cn/problems/search-insert-position/
 [36l]:https://leetcode.cn/problems/valid-sudoku/

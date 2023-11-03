@@ -27,6 +27,7 @@
 [26][26l]    |[Remove Duplicates from Sorted Array][26]                                             |![rs]
 [27][27l]    |[Remove Element][27]                                                                  |![rb]&nbsp;&nbsp;![rs]
 [28][28l]    |[Implement strStr()][28]                                                              |![py]
+[31][31l]    |[Next Permutation][31]                                                                |![rs]
 [33][33l]    |[Search in Rotated Sorted Array][33]                                                  |![rs]
 [35][35l]    |[Search Insert Position][35]                                                          |![py]
 [36][36l]    |[Valid Sudoku][36]                                                                    |![rs]
@@ -1288,6 +1289,7 @@
 [26]:Problemset/0026-Remove%20Duplicates%20from%20Sorted%20Array/README.md#26-remove-duplicates-from-sorted-array
 [27]:Problemset/0027-Remove%20Element/README.md#27-remove-element
 [28]:Problemset/0028-Implement%20strStr\(\)/README.md#28-implement-strstr
+[31]:Problemset/0031-Next%20Permutation/README.md#31-next-permutation
 [33]:Problemset/0033-Search%20in%20Rotated%20Sorted%20Array/README.md#33-search-in-rotated-sorted-array
 [35]:Problemset/0035-Search%20Insert%20Position/README.md#35-search-insert-position
 [36]:Problemset/0036-Valid%20Sudoku/README.md#36-valid-sudoku
@@ -2541,6 +2543,7 @@
 [26l]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [27l]:https://leetcode.com/problems/remove-element/
 [28l]:https://leetcode.com/problems/implement-strstr/
+[31l]:https://leetcode.com/problems/next-permutation/
 [33l]:https://leetcode.com/problems/search-in-rotated-sorted-array/
 [35l]:https://leetcode.com/problems/search-insert-position/
 [36l]:https://leetcode.com/problems/valid-sudoku/
