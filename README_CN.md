@@ -48,6 +48,7 @@
 [57][57l]    |[插入区间][57]                                            |![rb]&nbsp;&nbsp;![rs]
 [58][58l]    |[最后一个单词的长度][58]                                  |![rs]
 [59][59l]    |[螺旋矩阵 II][59]                                         |![rs]
+[60][60l]    |[排列序列][60]                                            |![rs]
 [61][61l]    |[旋转链表][61]                                            |![py]
 [62][62l]    |[不同路径][62]                                            |![rs]
 [63][63l]    |[不同路径 II][63]                                         |![rs]
@@ -1310,6 +1311,7 @@
 [57]:Problemset/0057-Insert%20Interval/README_CN.md#57-插入区间
 [58]:Problemset/0058-Length%20of%20Last%20Word/README_CN.md#58-最后一个单词的长度
 [59]:Problemset/0059-Spiral%20Matrix%20II/README_CN.md#59-螺旋矩阵-ii
+[60]:Problemset/0060-Permutation%20Sequence/README_CN.md#60-排列序列
 [61]:Problemset/0061-Rotate%20List/README_CN.md#61-旋转链表
 [62]:Problemset/0062-Unique%20Paths/README_CN.md#62-不同路径
 [63]:Problemset/0063-Unique%20Paths%20II/README_CN.md#63-不同路径-ii
@@ -2565,6 +2567,7 @@
 [57l]:https://leetcode.cn/problems/insert-interval/
 [58l]:https://leetcode.cn/problems/length-of-last-word/
 [59l]:https://leetcode.cn/problems/spiral-matrix-ii/
+[60l]:https://leetcode.cn/problems/permutation-sequence/
 [61l]:https://leetcode.cn/problems/rotate-list/
 [62l]:https://leetcode.cn/problems/unique-paths/
 [63l]:https://leetcode.cn/problems/unique-paths-ii/
