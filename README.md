@@ -352,6 +352,7 @@
 [643][643l]  |[Maximum Average Subarray I][643]                                                     |![rs]
 [645][645l]  |[Set Mismatch][645]                                                                   |![rs]
 [647][647l]  |[Palindromic Substrings][647]                                                         |![rb]
+[648][648l]  |[Replace Words][648]                                                                  |![py]
 [653][653l]  |[Two Sum IV - Input is a BST][653]                                                    |![py]
 [654][654l]  |[Maximum Binary Tree][654]                                                            |![py]&nbsp;&nbsp;![rb]
 [655][655l]  |[Print Binary Tree][655]                                                              |![py]
@@ -1616,6 +1617,7 @@
 [643]:Problemset/0643-Maximum%20Average%20Subarray%20I/README.md#643-maximum-average-subarray-i
 [645]:Problemset/0645-Set%20Mismatch/README.md#645-set-mismatch
 [647]:Problemset/0647-Palindromic%20Substrings/README.md#647-palindromic-substrings
+[648]:Problemset/0648-Replace%20Words/README.md#648-replace-words
 [653]:Problemset/0653-Two%20Sum%20IV%20-%20Input%20is%20a%20BST/README.md#653-two-sum-iv---input-is-a-bst
 [654]:Problemset/0654-Maximum%20Binary%20Tree/README.md#654-maximum-binary-tree
 [655]:Problemset/0655-Print%20Binary%20Tree/README.md#655-print-binary-tree
@@ -2880,6 +2882,7 @@
 [643l]:https://leetcode.com/problems/maximum-average-subarray-i/
 [645l]:https://leetcode.com/problems/set-mismatch/
 [647l]:https://leetcode.com/problems/palindromic-substrings/
+[648l]:https://leetcode.com/problems/replace-words/
 [648l]:https://leetcode.com/problems/replace-words/
 [652l]:https://leetcode.com/problems/find-duplicate-subtrees/
 [653l]:https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
