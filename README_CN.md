@@ -183,6 +183,7 @@
 [289][289l]  |[生命游戏][289]                                           |![rs]
 [290][290l]  |[单词规律][290]                                           |![py]
 [292][292l]  |[Nim 游戏][292]                                           |![rb]&nbsp;&nbsp;![rs]
+[295][295l]  |[数据流的中位数][295]                                     |![py]
 [299][299l]  |[猜数字游戏][299]                                         |![py]
 [300][300l]  |[最长递增子序列][300]                                     |![rs]
 [303][303l]  |[区域和检索 - 数组不可变][303]                            |![py]
@@ -1448,6 +1449,7 @@
 [289]:Problemset/0289-Game%20of%20Life/README_CN.md#289-生命游戏
 [290]:Problemset/0290-Word%20Pattern/README_CN.md#290-单词规律
 [292]:Problemset/0292-Nim%20Game/README_CN.md#292-nim-游戏
+[295]:Problemset/0295-Find%20Median%20from%20Data%20Stream/README_CN.md#295-数据流的中位数
 [299]:Problemset/0299-Bulls%20and%20Cows/README_CN.md#299-猜数字游戏
 [300]:Problemset/0300-Longest%20Increasing%20Subsequence/README_CN.md#300-最长递增子序列
 [303]:Problemset/0303-Range%20Sum%20Query%20-%20Immutable/README_CN.md#303-区域和检索---数组不可变
@@ -2710,6 +2712,7 @@
 [289l]:https://leetcode.cn/problems/game-of-life/
 [290l]:https://leetcode.cn/problems/word-pattern/
 [292l]:https://leetcode.cn/problems/nim-game/
+[295l]:https://leetcode.cn/problems/find-median-from-data-stream/
 [297l]:https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/
 [299l]:https://leetcode.cn/problems/bulls-and-cows/
 [300l]:https://leetcode.cn/problems/longest-increasing-subsequence/
