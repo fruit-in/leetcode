@@ -368,6 +368,7 @@
 [673][673l]  |[Number of Longest Increasing Subsequence][673]                                       |![py]
 [674][674l]  |[Longest Continuous Increasing Subsequence][674]                                      |![rs]
 [675][675l]  |[Cut Off Trees for Golf Event][675]                                                   |![rs]
+[677][677l]  |[Map Sum Pairs][677]                                                                  |![py]
 [680][680l]  |[Valid Palindrome II][680]                                                            |![py]
 [682][682l]  |[Baseball Game][682]                                                                  |![py]
 [686][686l]  |[Repeated String Match][686]                                                          |![py]
@@ -1634,6 +1635,7 @@
 [673]:Problemset/0673-Number%20of%20Longest%20Increasing%20Subsequence/README.md#673-number-of-longest-increasing-subsequence
 [674]:Problemset/0674-Longest%20Continuous%20Increasing%20Subsequence/README.md#674-longest-continuous-increasing-subsequence
 [675]:Problemset/0675-Cut%20Off%20Trees%20for%20Golf%20Event/README.md#675-cut-off-trees-for-golf-event
+[677]:Problemset/0677-Map%20Sum%20Pairs/README.md#677-map-sum-pairs
 [680]:Problemset/0680-Valid%20Palindrome%20II/README.md#680-valid-palindrome-ii
 [682]:Problemset/0682-Baseball%20Game/README.md#682-baseball-game
 [686]:Problemset/0686-Repeated%20String%20Match/README.md#686-repeated-string-match
@@ -2902,6 +2904,7 @@
 [673l]:https://leetcode.com/problems/number-of-longest-increasing-subsequence/
 [674l]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 [675l]:https://leetcode.com/problems/cut-off-trees-for-golf-event/
+[677l]:https://leetcode.com/problems/map-sum-pairs/
 [677l]:https://leetcode.com/problems/map-sum-pairs/
 [680l]:https://leetcode.com/problems/valid-palindrome-ii/
 [682l]:https://leetcode.com/problems/baseball-game/
