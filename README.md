@@ -478,6 +478,7 @@
 [876][876l]  |[Middle of the Linked List][876]                                                      |![py]
 [877][877l]  |[Stone Game][877]                                                                     |![rs]
 [878][878l]  |[Nth Magical Number][878]                                                             |![py]
+[880][880l]  |[Decoded String at Index][880]                                                        |![rs]
 [881][881l]  |[Boats to Save People][881]                                                           |![rb]
 [883][883l]  |[Projection Area of 3D Shapes][883]                                                   |![rs]
 [884][884l]  |[Uncommon Words from Two Sentences][884]                                              |![py]
@@ -1747,6 +1748,7 @@
 [876]:Problemset/0876-Middle%20of%20the%20Linked%20List/README.md#876-middle-of-the-linked-list
 [877]:Problemset/0877-Stone%20Game/README.md#877-stone-game
 [878]:Problemset/0878-Nth%20Magical%20Number/README.md#878-nth-magical-number
+[880]:Problemset/0880-Decoded%20String%20at%20Index/README.md#880-decoded-string-at-index
 [881]:Problemset/0881-Boats%20to%20Save%20People/README.md#881-boats-to-save-people
 [883]:Problemset/0883-Projection%20Area%20of%203D%20Shapes/README.md#883-projection-area-of-3d-shapes
 [884]:Problemset/0884-Uncommon%20Words%20from%20Two%20Sentences/README.md#884-uncommon-words-from-two-sentences
@@ -3019,6 +3021,7 @@
 [876l]:https://leetcode.com/problems/middle-of-the-linked-list/
 [877l]:https://leetcode.com/problems/stone-game/
 [878l]:https://leetcode.com/problems/nth-magical-number/
+[880l]:https://leetcode.com/problems/decoded-string-at-index/
 [881l]:https://leetcode.com/problems/boats-to-save-people/
 [883l]:https://leetcode.com/problems/projection-area-of-3d-shapes/
 [884l]:https://leetcode.com/problems/uncommon-words-from-two-sentences/
