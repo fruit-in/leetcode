@@ -140,6 +140,7 @@
 [204][204l]  |[计数质数][204]                                           |![rs]
 [205][205l]  |[同构字符串][205]                                         |![py]
 [206][206l]  |[反转链表][206]                                           |![py]
+[207][207l]  |[课程表][207]                                             |![rs]
 [208][208l]  |[实现 Trie (前缀树)][208]                                 |![py]
 [209][209l]  |[长度最小的子数组][209]                                   |![rs]
 [211][211l]  |[添加与搜索单词 - 数据结构设计][211]                      |![py]
@@ -1410,6 +1411,7 @@
 [204]:Problemset/0204-Count%20Primes/README_CN.md#204-计数质数
 [205]:Problemset/0205-Isomorphic%20Strings/README_CN.md#205-同构字符串
 [206]:Problemset/0206-Reverse%20Linked%20List/README_CN.md#206-反转链表
+[207]:Problemset/0207-Course%20Schedule/README_CN.md#207-课程表
 [208]:Problemset/0208-Implement%20Trie%20\(Prefix%20Tree\)/README_CN.md#208-实现-trie-前缀树
 [209]:Problemset/0209-Minimum%20Size%20Subarray%20Sum/README_CN.md#209-长度最小的子数组
 [211]:Problemset/0211-Design%20Add%20and%20Search%20Words%20Data%20Structure/README_CN.md#211-添加与搜索单词---数据结构设计
@@ -2675,6 +2677,7 @@
 [204l]:https://leetcode.cn/problems/count-primes/
 [205l]:https://leetcode.cn/problems/isomorphic-strings/
 [206l]:https://leetcode.cn/problems/reverse-linked-list/
+[207l]:https://leetcode.cn/problems/course-schedule/
 [208l]:https://leetcode.cn/problems/implement-trie-prefix-tree/
 [209l]:https://leetcode.cn/problems/minimum-size-subarray-sum/
 [211l]:https://leetcode.cn/problems/add-and-search-word-data-structure-design/

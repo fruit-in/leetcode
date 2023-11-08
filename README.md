@@ -140,6 +140,7 @@
 [204][204l]  |[Count Primes][204]                                                                   |![rs]
 [205][205l]  |[Isomorphic Strings][205]                                                             |![py]
 [206][206l]  |[Reverse Linked List][206]                                                            |![py]
+[207][207l]  |[Course Schedule][207]                                                                |![rs]
 [208][208l]  |[Implement Trie (Prefix Tree)][208]                                                   |![py]
 [209][209l]  |[Minimum Size Subarray Sum][209]                                                      |![rs]
 [211][211l]  |[Design Add and Search Words Data Structure][211]                                     |![py]
@@ -1410,6 +1411,7 @@
 [204]:Problemset/0204-Count%20Primes/README.md#204-count-primes
 [205]:Problemset/0205-Isomorphic%20Strings/README.md#205-isomorphic-strings
 [206]:Problemset/0206-Reverse%20Linked%20List/README.md#206-reverse-linked-list
+[207]:Problemset/0207-Course%20Schedule/README.md#207-course-schedule
 [208]:Problemset/0208-Implement%20Trie%20\(Prefix%20Tree\)/README.md#208-implement-trie-prefix-tree
 [209]:Problemset/0209-Minimum%20Size%20Subarray%20Sum/README.md#209-minimum-size-subarray-sum
 [211]:Problemset/0211-Design%20Add%20and%20Search%20Words%20Data%20Structure/README.md#211-design-add-and-search-words-data-structure
@@ -2675,6 +2677,7 @@
 [204l]:https://leetcode.com/problems/count-primes/
 [205l]:https://leetcode.com/problems/isomorphic-strings/
 [206l]:https://leetcode.com/problems/reverse-linked-list/
+[207l]:https://leetcode.com/problems/course-schedule/
 [208l]:https://leetcode.com/problems/implement-trie-prefix-tree/
 [209l]:https://leetcode.com/problems/minimum-size-subarray-sum/
 [211l]:https://leetcode.com/problems/add-and-search-word-data-structure-design/
