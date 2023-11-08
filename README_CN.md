@@ -143,6 +143,7 @@
 [207][207l]  |[课程表][207]                                             |![rs]
 [208][208l]  |[实现 Trie (前缀树)][208]                                 |![py]
 [209][209l]  |[长度最小的子数组][209]                                   |![rs]
+[210][210l]  |[课程表 II][210]                                          |![rs]
 [211][211l]  |[添加与搜索单词 - 数据结构设计][211]                      |![py]
 [213][213l]  |[打家劫舍 II][213]                                        |![rs]
 [215][215l]  |[数组中的第K个最大元素][215]                              |![rb]
@@ -1414,6 +1415,7 @@
 [207]:Problemset/0207-Course%20Schedule/README_CN.md#207-课程表
 [208]:Problemset/0208-Implement%20Trie%20\(Prefix%20Tree\)/README_CN.md#208-实现-trie-前缀树
 [209]:Problemset/0209-Minimum%20Size%20Subarray%20Sum/README_CN.md#209-长度最小的子数组
+[210]:Problemset/0210-Course%20Schedule%20II/README_CN.md#210-课程表-ii
 [211]:Problemset/0211-Design%20Add%20and%20Search%20Words%20Data%20Structure/README_CN.md#211-添加与搜索单词---数据结构设计
 [213]:Problemset/0213-House%20Robber%20II/README_CN.md#213-打家劫舍-ii
 [215]:Problemset/0215-Kth%20Largest%20Element%20in%20an%20Array/README_CN.md#215-数组中的第k个最大元素
@@ -2680,6 +2682,7 @@
 [207l]:https://leetcode.cn/problems/course-schedule/
 [208l]:https://leetcode.cn/problems/implement-trie-prefix-tree/
 [209l]:https://leetcode.cn/problems/minimum-size-subarray-sum/
+[210l]:https://leetcode.cn/problems/course-schedule-ii/
 [211l]:https://leetcode.cn/problems/add-and-search-word-data-structure-design/
 [212l]:https://leetcode.cn/problems/word-search-ii/
 [213l]:https://leetcode.cn/problems/house-robber-ii/
