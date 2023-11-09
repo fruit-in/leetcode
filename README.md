@@ -1052,6 +1052,7 @@
 [2109][2109l]|[Adding Spaces to a String][2109]                                                     |![rs]
 [2110][2110l]|[Number of Smooth Descent Periods of a Stock][2110]                                   |![rs]
 [2114][2114l]|[Maximum Number of Words Found in Sentences][2114]                                    |![rs]
+[2115][2115l]|[Find All Possible Recipes from Given Supplies][2115]                                 |![py]
 [2119][2119l]|[A Number After a Double Reversal][2119]                                              |![rs]
 [2120][2120l]|[Execution of All Suffix Instructions Staying in a Grid][2120]                        |![rs]
 [2121][2121l]|[Intervals Between Identical Elements][2121]                                          |![py]
@@ -2324,6 +2325,7 @@
 [2109]:Problemset/2109-Adding%20Spaces%20to%20a%20String/README.md#2109-adding-spaces-to-a-string
 [2110]:Problemset/2110-Number%20of%20Smooth%20Descent%20Periods%20of%20a%20Stock/README.md#2110-number-of-smooth-descent-periods-of-a-stock
 [2114]:Problemset/2114-Maximum%20Number%20of%20Words%20Found%20in%20Sentences/README.md#2114-maximum-number-of-words-found-in-sentences
+[2115]:Problemset/2115-Find%20All%20Possible%20Recipes%20from%20Given%20Supplies/README.md#2115-find-all-possible-recipes-from-given-supplies
 [2119]:Problemset/2119-A%20Number%20After%20a%20Double%20Reversal/README.md#2119-a-number-after-a-double-reversal
 [2120]:Problemset/2120-Execution%20of%20All%20Suffix%20Instructions%20Staying%20in%20a%20Grid/README.md#2120-execution-of-all-suffix-instructions-staying-in-a-grid
 [2121]:Problemset/2121-Intervals%20Between%20Identical%20Elements/README.md#2121-intervals-between-identical-elements
@@ -3599,6 +3601,7 @@
 [2109l]:https://leetcode.com/problems/adding-spaces-to-a-string/
 [2110l]:https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 [2114l]:https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
+[2115l]:https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
 [2119l]:https://leetcode.com/problems/a-number-after-a-double-reversal/
 [2120l]:https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/
 [2121l]:https://leetcode.com/problems/intervals-between-identical-elements/
