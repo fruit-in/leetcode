@@ -581,6 +581,7 @@
 [1024][1024l]|[视频拼接][1024]                                          |![rs]
 [1025][1025l]|[除数博弈][1025]                                          |![rs]
 [1026][1026l]|[节点与其祖先之间的最大差值][1026]                        |![py]
+[1027][1027l]|[最长等差数列][1027]                                      |![rs]
 [1028][1028l]|[从先序遍历还原二叉树][1028]                              |![py]
 [1029][1029l]|[两地调度][1029]                                          |![py]
 [1030][1030l]|[距离顺序排列矩阵单元格][1030]                            |![rs]
@@ -1854,6 +1855,7 @@
 [1024]:Problemset/1024-Video%20Stitching/README_CN.md#1024-视频拼接
 [1025]:Problemset/1025-Divisor%20Game/README_CN.md#1025-除数博弈
 [1026]:Problemset/1026-Maximum%20Difference%20Between%20Node%20and%20Ancestor/README_CN.md#1026-节点与其祖先之间的最大差值
+[1027]:Problemset/1027-Longest%20Arithmetic%20Subsequence/README_CN.md#1027-最长等差数列
 [1028]:Problemset/1028-Recover%20a%20Tree%20From%20Preorder%20Traversal/README_CN.md#1028-从先序遍历还原二叉树
 [1029]:Problemset/1029-Two%20City%20Scheduling/README_CN.md#1029-两地调度
 [1030]:Problemset/1030-Matrix%20Cells%20in%20Distance%20Order/README_CN.md#1030-距离顺序排列矩阵单元格
@@ -3130,6 +3132,7 @@
 [1024l]:https://leetcode.cn/problems/video-stitching/
 [1025l]:https://leetcode.cn/problems/divisor-game/
 [1026l]:https://leetcode.cn/problems/maximum-difference-between-node-and-ancestor/
+[1027l]:https://leetcode.cn/problems/longest-arithmetic-subsequence/
 [1028l]:https://leetcode.cn/problems/recover-a-tree-from-preorder-traversal/
 [1029l]:https://leetcode.cn/problems/two-city-scheduling/
 [1030l]:https://leetcode.cn/problems/matrix-cells-in-distance-order/

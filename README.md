@@ -581,6 +581,7 @@
 [1024][1024l]|[Video Stitching][1024]                                                               |![rs]
 [1025][1025l]|[Divisor Game][1025]                                                                  |![rs]
 [1026][1026l]|[Maximum Difference Between Node and Ancestor][1026]                                  |![py]
+[1027][1027l]|[Longest Arithmetic Subsequence][1027]                                                |![rs]
 [1028][1028l]|[Recover a Tree From Preorder Traversal][1028]                                        |![py]
 [1029][1029l]|[Two City Scheduling][1029]                                                           |![py]
 [1030][1030l]|[Matrix Cells in Distance Order][1030]                                                |![rs]
@@ -1854,6 +1855,7 @@
 [1024]:Problemset/1024-Video%20Stitching/README.md#1024-video-stitching
 [1025]:Problemset/1025-Divisor%20Game/README.md#1025-divisor-game
 [1026]:Problemset/1026-Maximum%20Difference%20Between%20Node%20and%20Ancestor/README.md#1026-maximum-difference-between-node-and-ancestor
+[1027]:Problemset/1027-Longest%20Arithmetic%20Subsequence/README.md#1027-longest-arithmetic-subsequence
 [1028]:Problemset/1028-Recover%20a%20Tree%20From%20Preorder%20Traversal/README.md#1028-recover-a-tree-from-preorder-traversal
 [1029]:Problemset/1029-Two%20City%20Scheduling/README.md#1029-two-city-scheduling
 [1030]:Problemset/1030-Matrix%20Cells%20in%20Distance%20Order/README.md#1030-matrix-cells-in-distance-order
@@ -3130,6 +3132,7 @@
 [1024l]:https://leetcode.com/problems/video-stitching/
 [1025l]:https://leetcode.com/problems/divisor-game/
 [1026l]:https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
+[1027l]:https://leetcode.com/problems/longest-arithmetic-subsequence/
 [1028l]:https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
 [1029l]:https://leetcode.com/problems/two-city-scheduling/
 [1030l]:https://leetcode.com/problems/matrix-cells-in-distance-order/
