@@ -856,6 +856,7 @@
 [1640][1640l]|[Check Array Formation Through Concatenation][1640]                                   |![rb]&nbsp;&nbsp;![rs]
 [1641][1641l]|[Count Sorted Vowel Strings][1641]                                                    |![rb]&nbsp;&nbsp;![rs]
 [1642][1642l]|[Furthest Building You Can Reach][1642]                                               |![rs]
+[1643][1643l]|[Kth Smallest Instructions][1643]                                                     |![rs]
 [1646][1646l]|[Get Maximum in Generated Array][1646]                                                |![rs]
 [1647][1647l]|[Minimum Deletions to Make Character Frequencies Unique][1647]                        |![rb]&nbsp;&nbsp;![rs]
 [1648][1648l]|[Sell Diminishing-Valued Colored Balls][1648]                                         |![rs]
@@ -2130,6 +2131,7 @@
 [1640]:Problemset/1640-Check%20Array%20Formation%20Through%20Concatenation/README.md#1640-check-array-formation-through-concatenation
 [1641]:Problemset/1641-Count%20Sorted%20Vowel%20Strings/README.md#1641-count-sorted-vowel-strings
 [1642]:Problemset/1642-Furthest%20Building%20You%20Can%20Reach/README.md#1642-furthest-building-you-can-reach
+[1643]:Problemset/1643-Kth%20Smallest%20Instructions/README.md#1643-kth-smallest-instructions
 [1646]:Problemset/1646-Get%20Maximum%20in%20Generated%20Array/README.md#1646-get-maximum-in-generated-array
 [1647]:Problemset/1647-Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique/README.md#1647-minimum-deletions-to-make-character-frequencies-unique
 [1648]:Problemset/1648-Sell%20Diminishing-Valued%20Colored%20Balls/README.md#1648-sell-diminishing-valued-colored-balls
@@ -3407,6 +3409,7 @@
 [1640l]:https://leetcode.com/problems/check-array-formation-through-concatenation/
 [1641l]:https://leetcode.com/problems/count-sorted-vowel-strings/
 [1642l]:https://leetcode.com/problems/furthest-building-you-can-reach/
+[1643l]:https://leetcode.com/problems/kth-smallest-instructions/
 [1646l]:https://leetcode.com/problems/get-maximum-in-generated-array/
 [1647l]:https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
 [1648l]:https://leetcode.com/problems/sell-diminishing-valued-colored-balls/

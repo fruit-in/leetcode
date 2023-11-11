@@ -856,6 +856,7 @@
 [1640][1640l]|[能否连接形成数组][1640]                                  |![rb]&nbsp;&nbsp;![rs]
 [1641][1641l]|[统计字典序元音字符串的数目][1641]                        |![rb]&nbsp;&nbsp;![rs]
 [1642][1642l]|[可以到达的最远建筑][1642]                                |![rs]
+[1643][1643l]|[第 K 条最小指令][1643]                                   |![rs]
 [1646][1646l]|[获取生成数组中的最大值][1646]                            |![rs]
 [1647][1647l]|[字符频次唯一的最小删除次数][1647]                        |![rb]&nbsp;&nbsp;![rs]
 [1648][1648l]|[销售价值减少的颜色球][1648]                              |![rs]
@@ -2130,6 +2131,7 @@
 [1640]:Problemset/1640-Check%20Array%20Formation%20Through%20Concatenation/README_CN.md#1640-能否连接形成数组
 [1641]:Problemset/1641-Count%20Sorted%20Vowel%20Strings/README_CN.md#1641-统计字典序元音字符串的数目
 [1642]:Problemset/1642-Furthest%20Building%20You%20Can%20Reach/README_CN.md#1642-可以到达的最远建筑
+[1643]:Problemset/1643-Kth%20Smallest%20Instructions/README_CN.md#1643-第-k-条最小指令
 [1646]:Problemset/1646-Get%20Maximum%20in%20Generated%20Array/README_CN.md#1646-获取生成数组中的最大值
 [1647]:Problemset/1647-Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique/README_CN.md#1647-字符频次唯一的最小删除次数
 [1648]:Problemset/1648-Sell%20Diminishing-Valued%20Colored%20Balls/README_CN.md#1648-销售价值减少的颜色球
@@ -3407,6 +3409,7 @@
 [1640l]:https://leetcode.cn/problems/check-array-formation-through-concatenation/
 [1641l]:https://leetcode.cn/problems/count-sorted-vowel-strings/
 [1642l]:https://leetcode.cn/problems/furthest-building-you-can-reach/
+[1643l]:https://leetcode.cn/problems/kth-smallest-instructions/
 [1646l]:https://leetcode.cn/problems/get-maximum-in-generated-array/
 [1647l]:https://leetcode.cn/problems/minimum-deletions-to-make-character-frequencies-unique/
 [1648l]:https://leetcode.cn/problems/sell-diminishing-valued-colored-balls/
