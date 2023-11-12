@@ -1257,6 +1257,7 @@
 [2578][2578l]|[最小和分割][2578]                                        |![py]
 [2579][2579l]|[统计染色格子数][2579]                                    |![rs]
 [2582][2582l]|[递枕头][2582]                                            |![rs]
+[2585][2585l]|[获得分数的方法数][2585]                                  |![rs]
 [2586][2586l]|[统计范围内的元音字符串数][2586]                          |![py]
 [2591][2591l]|[将钱分给最多的儿童][2591]                                |![rs]
 [2593][2593l]|[标记所有元素后数组的分数][2593]                          |![rs]
@@ -2532,6 +2533,7 @@
 [2578]:Problemset/2578-Split%20With%20Minimum%20Sum/README_CN.md#2578-最小和分割
 [2579]:Problemset/2579-Count%20Total%20Number%20of%20Colored%20Cells/README_CN.md#2579-统计染色格子数
 [2582]:Problemset/2582-Pass%20the%20Pillow/README_CN.md#2582-递枕头
+[2585]:Problemset/2585-Number%20of%20Ways%20to%20Earn%20Points/README_CN.md#2585-获得分数的方法数
 [2586]:Problemset/2586-Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range/README_CN.md#2586-统计范围内的元音字符串数
 [2591]:Problemset/2591-Distribute%20Money%20to%20Maximum%20Children/README_CN.md#2591-将钱分给最多的儿童
 [2593]:Problemset/2593-Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements/README_CN.md#2593-标记所有元素后数组的分数
@@ -3810,6 +3812,7 @@
 [2578l]:https://leetcode.cn/problems/split-with-minimum-sum/
 [2579l]:https://leetcode.cn/problems/count-total-number-of-colored-cells/
 [2582l]:https://leetcode.cn/problems/pass-the-pillow/
+[2585l]:https://leetcode.cn/problems/number-of-ways-to-earn-points/
 [2586l]:https://leetcode.cn/problems/count-the-number-of-vowel-strings-in-range/
 [2591l]:https://leetcode.cn/problems/distribute-money-to-maximum-children/
 [2593l]:https://leetcode.cn/problems/find-score-of-an-array-after-marking-all-elements/
