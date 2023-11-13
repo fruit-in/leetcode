@@ -319,6 +319,7 @@
 [551][551l]  |[Student Attendance Record I][551]                                                    |![py]
 [553][553l]  |[Optimal Division][553]                                                               |![py]
 [554][554l]  |[Brick Wall][554]                                                                     |![rs]
+[556][556l]  |[Next Greater Element III][556]                                                       |![rs]
 [557][557l]  |[Reverse Words in a String III][557]                                                  |![py]&nbsp;&nbsp;![rb]
 [558][558l]  |[Quad Tree Intersection][558]                                                         |![py]
 [559][559l]  |[Maximum Depth of N-ary Tree][559]                                                    |![py]
@@ -1595,6 +1596,7 @@
 [551]:Problemset/0551-Student%20Attendance%20Record%20I/README.md#551-student-attendance-record-i
 [553]:Problemset/0553-Optimal%20Division/README.md#553-optimal-division
 [554]:Problemset/0554-Brick%20Wall/README.md#554-brick-wall
+[556]:Problemset/0556-Next%20Greater%20Element%20III/README.md#556-next-greater-element-iii
 [557]:Problemset/0557-Reverse%20Words%20in%20a%20String%20III/README.md#557-reverse-words-in-a-string-iii
 [558]:Problemset/0558-Quad%20Tree%20Intersection/README.md#558-quad-tree-intersection
 [559]:Problemset/0559-Maximum%20Depth%20of%20N-ary%20Tree/README.md#559-maximum-depth-of-n-ary-tree
@@ -2871,6 +2873,7 @@
 [551l]:https://leetcode.com/problems/student-attendance-record-i/
 [553l]:https://leetcode.com/problems/optimal-division/
 [554l]:https://leetcode.com/problems/brick-wall/
+[556l]:https://leetcode.com/problems/next-greater-element-iii/
 [557l]:https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [558l]:https://leetcode.com/problems/quad-tree-intersection/
 [559l]:https://leetcode.com/problems/maximum-depth-of-n-ary-tree/

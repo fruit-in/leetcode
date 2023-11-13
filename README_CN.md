@@ -319,6 +319,7 @@
 [551][551l]  |[学生出勤记录 I][551]                                     |![py]
 [553][553l]  |[最优除法][553]                                           |![py]
 [554][554l]  |[砖墙][554]                                               |![rs]
+[556][556l]  |[下一个更大元素 III][556]                                 |![rs]
 [557][557l]  |[反转字符串中的单词 III][557]                             |![py]&nbsp;&nbsp;![rb]
 [558][558l]  |[四叉树交集][558]                                         |![py]
 [559][559l]  |[N叉树的最大深度][559]                                    |![py]
@@ -1595,6 +1596,7 @@
 [551]:Problemset/0551-Student%20Attendance%20Record%20I/README_CN.md#551-学生出勤记录-i
 [553]:Problemset/0553-Optimal%20Division/README_CN.md#553-最优除法
 [554]:Problemset/0554-Brick%20Wall/README_CN.md#554-砖墙
+[556]:Problemset/0556-Next%20Greater%20Element%20III/README_CN.md#556-下一个更大元素-iii
 [557]:Problemset/0557-Reverse%20Words%20in%20a%20String%20III/README_CN.md#557-反转字符串中的单词-iii
 [558]:Problemset/0558-Quad%20Tree%20Intersection/README_CN.md#558-四叉树交集
 [559]:Problemset/0559-Maximum%20Depth%20of%20N-ary%20Tree/README_CN.md#559-n叉树的最大深度
@@ -2871,6 +2873,7 @@
 [551l]:https://leetcode.cn/problems/student-attendance-record-i/
 [553l]:https://leetcode.cn/problems/optimal-division/
 [554l]:https://leetcode.cn/problems/brick-wall/
+[556l]:https://leetcode.cn/problems/next-greater-element-iii/
 [557l]:https://leetcode.cn/problems/reverse-words-in-a-string-iii/
 [558l]:https://leetcode.cn/problems/quad-tree-intersection/
 [559l]:https://leetcode.cn/problems/maximum-depth-of-n-ary-tree/
