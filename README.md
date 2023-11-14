@@ -691,6 +691,7 @@
 [1306][1306l]|[Jump Game III][1306]                                                                 |![rb]
 [1309][1309l]|[Decrypt String from Alphabet to Integer Mapping][1309]                               |![py]
 [1310][1310l]|[XOR Queries of a Subarray][1310]                                                     |![rs]
+[1311][1311l]|[Get Watched Videos by Your Friends][1311]                                            |![py]
 [1313][1313l]|[Decompress Run-Length Encoded List][1313]                                            |![rb]&nbsp;&nbsp;![rs]
 [1314][1314l]|[Matrix Block Sum][1314]                                                              |![rs]
 [1315][1315l]|[Sum of Nodes with Even-Valued Grandparent][1315]                                     |![py]
@@ -1968,6 +1969,7 @@
 [1306]:Problemset/1306-Jump%20Game%20III/README.md#1306-jump-game-iii
 [1309]:Problemset/1309-Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping/README.md#1309-decrypt-string-from-alphabet-to-integer-mapping
 [1310]:Problemset/1310-XOR%20Queries%20of%20a%20Subarray/README.md#1310-xor-queries-of-a-subarray
+[1311]:Problemset/1311-Get%20Watched%20Videos%20by%20Your%20Friends/README.md#1311-get-watched-videos-by-your-friends
 [1313]:Problemset/1313-Decompress%20Run-Length%20Encoded%20List/README.md#1313-decompress-run-length-encoded-list
 [1314]:Problemset/1314-Matrix%20Block%20Sum/README.md#1314-matrix-block-sum
 [1315]:Problemset/1315-Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent/README.md#1315-sum-of-nodes-with-even-valued-grandparent
@@ -3248,6 +3250,7 @@
 [1306l]:https://leetcode.com/problems/jump-game-iii/
 [1309l]:https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 [1310l]:https://leetcode.com/problems/xor-queries-of-a-subarray/
+[1311l]:https://leetcode.com/problems/get-watched-videos-by-your-friends/
 [1313l]:https://leetcode.com/problems/decompress-run-length-encoded-list/
 [1314l]:https://leetcode.com/problems/matrix-block-sum/
 [1315l]:https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
