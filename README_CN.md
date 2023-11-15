@@ -624,6 +624,7 @@
 [1139][1139l]|[最大的以 1 为边界的正方形][1139]                         |![rs]
 [1143][1143l]|[最长公共子序列][1143]                                    |![rs]
 [1144][1144l]|[递减元素使数组呈锯齿状][1144]                            |![rs]
+[1145][1145l]|[二叉树着色游戏][1145]                                    |![py]
 [1146][1146l]|[快照数组][1146]                                          |![rb]&nbsp;&nbsp;![rs]
 [1154][1154l]|[一年中的第几天][1154]                                    |![rs]
 [1155][1155l]|[掷骰子的N种方法][1155]                                   |![py]&nbsp;&nbsp;![rs]
@@ -1902,6 +1903,7 @@
 [1139]:Problemset/1139-Largest%201-Bordered%20Square/README_CN.md#1139-最大的以-1-为边界的正方形
 [1143]:Problemset/1143-Longest%20Common%20Subsequence/README_CN.md#1143-最长公共子序列
 [1144]:Problemset/1144-Decrease%20Elements%20To%20Make%20Array%20Zigzag/README_CN.md#1144-递减元素使数组呈锯齿状
+[1145]:Problemset/1145-Binary%20Tree%20Coloring%20Game/README_CN.md#1145-二叉树着色游戏
 [1146]:Problemset/1146-Snapshot%20Array/README_CN.md#1146-快照数组
 [1154]:Problemset/1154-Day%20of%20the%20Year/README_CN.md#1154-一年中的第几天
 [1155]:Problemset/1155-Number%20of%20Dice%20Rolls%20With%20Target%20Sum/README_CN.md#1155-掷骰子的n种方法
@@ -3183,6 +3185,7 @@
 [1139l]:https://leetcode.cn/problems/largest-1-bordered-square/
 [1143l]:https://leetcode.cn/problems/longest-common-subsequence/
 [1144l]:https://leetcode.cn/problems/decrease-elements-to-make-array-zigzag/
+[1145l]:https://leetcode.cn/problems/binary-tree-coloring-game/
 [1146l]:https://leetcode.cn/problems/snapshot-array/
 [1154l]:https://leetcode.cn/problems/day-of-the-year/
 [1155l]:https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/
