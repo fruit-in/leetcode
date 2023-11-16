@@ -156,6 +156,7 @@
 [223][223l]  |[矩形面积][223]                                           |![rb]&nbsp;&nbsp;![rs]
 [225][225l]  |[用队列实现栈][225]                                       |![rs]
 [226][226l]  |[翻转二叉树][226]                                         |![py]
+[227][227l]  |[基本计算器 II][227]                                      |![py]
 [228][228l]  |[汇总区间][228]                                           |![py]
 [229][229l]  |[多数元素 II][229]                                        |![rs]
 [230][230l]  |[二叉搜索树中第K小的元素][230]                            |![rb]
@@ -1435,6 +1436,7 @@
 [223]:Problemset/0223-Rectangle%20Area/README_CN.md#223-矩形面积
 [225]:Problemset/0225-Implement%20Stack%20using%20Queues/README_CN.md#225-用队列实现栈
 [226]:Problemset/0226-Invert%20Binary%20Tree/README_CN.md#226-翻转二叉树
+[227]:Problemset/0227-Basic%20Calculator%20II/README_CN.md#227-基本计算器-ii
 [228]:Problemset/0228-Summary%20Ranges/README_CN.md#228-汇总区间
 [229]:Problemset/0229-Majority%20Element%20II/README_CN.md#229-多数元素-ii
 [230]:Problemset/0230-Kth%20Smallest%20Element%20in%20a%20BST/README_CN.md#230-二叉搜索树中第k小的元素
@@ -2711,6 +2713,7 @@
 [223l]:https://leetcode.cn/problems/rectangle-area/
 [225l]:https://leetcode.cn/problems/implement-stack-using-queues/
 [226l]:https://leetcode.cn/problems/invert-binary-tree/
+[227l]:https://leetcode.cn/problems/basic-calculator-ii/
 [228l]:https://leetcode.cn/problems/summary-ranges/
 [229l]:https://leetcode.cn/problems/majority-element-ii/
 [230l]:https://leetcode.cn/problems/kth-smallest-element-in-a-bst/
