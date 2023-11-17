@@ -113,6 +113,7 @@
 [147][147l]  |[对链表进行插入排序][147]                                 |![py]
 [150][150l]  |[逆波兰表达式求值][150]                                   |![rs]
 [151][151l]  |[翻转字符串里的单词][151]                                 |![rs]
+[152][152l]  |[乘积最大子数组][152]                                     |![rs]
 [153][153l]  |[寻找旋转排序数组中的最小值][153]                         |![rb]&nbsp;&nbsp;![rs]
 [155][155l]  |[最小栈][155]                                             |![rs]
 [160][160l]  |[相交链表][160]                                           |![py]
@@ -1393,6 +1394,7 @@
 [147]:Problemset/0147-Insertion%20Sort%20List/README_CN.md#147-对链表进行插入排序
 [150]:Problemset/0150-Evaluate%20Reverse%20Polish%20Notation/README_CN.md#150-逆波兰表达式求值
 [151]:Problemset/0151-Reverse%20Words%20in%20a%20String/README_CN.md#151-翻转字符串里的单词
+[152]:Problemset/0152-Maximum%20Product%20Subarray/README_CN.md#152-乘积最大子数组
 [153]:Problemset/0153-Find%20Minimum%20in%20Rotated%20Sorted%20Array/README_CN.md#153-寻找旋转排序数组中的最小值
 [155]:Problemset/0155-Min%20Stack/README_CN.md#155-最小栈
 [160]:Problemset/0160-Intersection%20of%20Two%20Linked%20Lists/README_CN.md#160-相交链表
@@ -2668,6 +2670,7 @@
 [147l]:https://leetcode.cn/problems/insertion-sort-list/
 [150l]:https://leetcode.cn/problems/evaluate-reverse-polish-notation/
 [151l]:https://leetcode.cn/problems/reverse-words-in-a-string/
+[152l]:https://leetcode.cn/problems/maximum-product-subarray/
 [153l]:https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/
 [155l]:https://leetcode.cn/problems/min-stack/
 [160l]:https://leetcode.cn/problems/intersection-of-two-linked-lists/
