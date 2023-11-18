@@ -950,6 +950,7 @@
 [1844][1844l]|[Replace All Digits with Characters][1844]                                            |![rs]
 [1845][1845l]|[Seat Reservation Manager][1845]                                                      |![py]
 [1846][1846l]|[Maximum Element After Decreasing and Rearranging][1846]                              |![rs]
+[1847][1847l]|[Closest Room][1847]                                                                  |![py]
 [1848][1848l]|[Minimum Distance to the Target Element][1848]                                        |![rs]
 [1854][1854l]|[Maximum Population Year][1854]                                                       |![rs]
 [1855][1855l]|[Maximum Distance Between a Pair of Values][1855]                                     |![py]
@@ -2232,6 +2233,7 @@
 [1844]:Problemset/1844-Replace%20All%20Digits%20with%20Characters/README.md#1844-replace-all-digits-with-characters
 [1845]:Problemset/1845-Seat%20Reservation%20Manager/README.md#1845-seat-reservation-manager
 [1846]:Problemset/1846-Maximum%20Element%20After%20Decreasing%20and%20Rearranging/README.md#1846-maximum-element-after-decreasing-and-rearranging
+[1847]:Problemset/1847-Closest%20Room/README.md#1847-closest-room
 [1848]:Problemset/1848-Minimum%20Distance%20to%20the%20Target%20Element/README.md#1848-minimum-distance-to-the-target-element
 [1854]:Problemset/1854-Maximum%20Population%20Year/README.md#1854-maximum-population-year
 [1855]:Problemset/1855-Maximum%20Distance%20Between%20a%20Pair%20of%20Values/README.md#1855-maximum-distance-between-a-pair-of-values
@@ -3517,6 +3519,7 @@
 [1844l]:https://leetcode.com/problems/replace-all-digits-with-characters/
 [1845l]:https://leetcode.com/problems/seat-reservation-manager/
 [1846l]:https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
+[1847l]:https://leetcode.com/problems/closest-room/
 [1848l]:https://leetcode.com/problems/minimum-distance-to-the-target-element/
 [1854l]:https://leetcode.com/problems/maximum-population-year/
 [1855l]:https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
