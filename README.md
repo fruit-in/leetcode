@@ -1056,6 +1056,7 @@
 [2099][2099l]|[Find Subsequence of Length K With the Largest Sum][2099]                             |![rs]
 [2100][2100l]|[Find Good Days to Rob the Bank][2100]                                                |![rs]
 [2101][2101l]|[Detonate the Maximum Bombs][2101]                                                    |![rs]
+[2102][2102l]|[Sequentially Ordinal Rank Tracker][2102]                                             |![py]
 [2103][2103l]|[Rings and Rods][2103]                                                                |![rs]
 [2105][2105l]|[Watering Plants II][2105]                                                            |![rs]
 [2108][2108l]|[Find First Palindromic String in the Array][2108]                                    |![rs]
@@ -2340,6 +2341,7 @@
 [2099]:Problemset/2099-Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum/README.md#2099-find-subsequence-of-length-k-with-the-largest-sum
 [2100]:Problemset/2100-Find%20Good%20Days%20to%20Rob%20the%20Bank/README.md#2100-find-good-days-to-rob-the-bank
 [2101]:Problemset/2101-Detonate%20the%20Maximum%20Bombs/README.md#2101-detonate-the-maximum-bombs
+[2102]:Problemset/2102-Sequentially%20Ordinal%20Rank%20Tracker/README.md#2102-sequentially-ordinal-rank-tracker
 [2103]:Problemset/2103-Rings%20and%20Rods/README.md#2103-rings-and-rods
 [2105]:Problemset/2105-Watering%20Plants%20II/README.md#2105-watering-plants-ii
 [2108]:Problemset/2108-Find%20First%20Palindromic%20String%20in%20the%20Array/README.md#2108-find-first-palindromic-string-in-the-array
@@ -3627,6 +3629,7 @@
 [2099l]:https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
 [2100l]:https://leetcode.com/problems/find-good-days-to-rob-the-bank/
 [2101l]:https://leetcode.com/problems/detonate-the-maximum-bombs/
+[2102l]:https://leetcode.com/problems/sequentially-ordinal-rank-tracker/
 [2103l]:https://leetcode.com/problems/rings-and-rods/
 [2105l]:https://leetcode.com/problems/watering-plants-ii/
 [2108l]:https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
