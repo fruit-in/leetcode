@@ -1014,6 +1014,7 @@
 [2007][2007l]|[Find Original Array From Doubled Array][2007]                                        |![rs]
 [2008][2008l]|[Maximum Earnings From Taxi][2008]                                                    |![rs]
 [2011][2011l]|[Final Value of Variable After Performing Operations][2011]                           |![py]&nbsp;&nbsp;![rs]
+[2013][2013l]|[Detect Squares][2013]                                                                |![rs]
 [2016][2016l]|[Maximum Difference Between Increasing Elements][2016]                                |![rs]
 [2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
 [2023][2023l]|[Number of Pairs of Strings With Concatenation Equal to Target][2023]                 |![py]
@@ -2300,6 +2301,7 @@
 [2007]:Problemset/2007-Find%20Original%20Array%20From%20Doubled%20Array/README.md#2007-find-original-array-from-doubled-array
 [2008]:Problemset/2008-Maximum%20Earnings%20From%20Taxi/README.md#2008-maximum-earnings-from-taxi
 [2011]:Problemset/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README.md#2011-final-value-of-variable-after-performing-operations
+[2013]:Problemset/2013-Detect%20Squares/README.md#2013-detect-squares
 [2016]:Problemset/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README.md#2016-maximum-difference-between-increasing-elements
 [2022]:Problemset/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
 [2023]:Problemset/2023-Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/README.md#2023-number-of-pairs-of-strings-with-concatenation-equal-to-target
@@ -3589,6 +3591,7 @@
 [2007l]:https://leetcode.com/problems/find-original-array-from-doubled-array/
 [2008l]:https://leetcode.com/problems/maximum-earnings-from-taxi/
 [2011l]:https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+[2013l]:https://leetcode.com/problems/detect-squares/
 [2016l]:https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 [2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
 [2023l]:https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/

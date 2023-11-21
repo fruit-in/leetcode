@@ -1014,6 +1014,7 @@
 [2007][2007l]|[从双倍数组中还原原数组][2007]                            |![rs]
 [2008][2008l]|[出租车的最大盈利][2008]                                  |![rs]
 [2011][2011l]|[执行操作后的变量值][2011]                                |![py]&nbsp;&nbsp;![rs]
+[2013][2013l]|[检测正方形][2013]                                        |![rs]
 [2016][2016l]|[增量元素之间的最大差值][2016]                            |![rs]
 [2022][2022l]|[将一维数组转变成二维数组][2022]                          |![rs]
 [2023][2023l]|[连接后等于目标字符串的字符串对][2023]                    |![py]
@@ -2300,6 +2301,7 @@
 [2007]:Problemset/2007-Find%20Original%20Array%20From%20Doubled%20Array/README_CN.md#2007-从双倍数组中还原原数组
 [2008]:Problemset/2008-Maximum%20Earnings%20From%20Taxi/README_CN.md#2008-出租车的最大盈利
 [2011]:Problemset/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README_CN.md#2011-执行操作后的变量值
+[2013]:Problemset/2013-Detect%20Squares/README_CN.md#2013-检测正方形
 [2016]:Problemset/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README_CN.md#2016-增量元素之间的最大差值
 [2022]:Problemset/2022-Convert%201D%20Array%20Into%202D%20Array/README_CN.md#2022-将一维数组转变成二维数组
 [2023]:Problemset/2023-Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/README_CN.md#2023-连接后等于目标字符串的字符串对
@@ -3589,6 +3591,7 @@
 [2007l]:https://leetcode.cn/problems/find-original-array-from-doubled-array/
 [2008l]:https://leetcode.cn/problems/maximum-earnings-from-taxi/
 [2011l]:https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/
+[2013l]:https://leetcode.cn/problems/detect-squares/
 [2016l]:https://leetcode.cn/problems/maximum-difference-between-increasing-elements/
 [2022l]:https://leetcode.cn/problems/convert-1d-array-into-2d-array/
 [2023l]:https://leetcode.cn/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
