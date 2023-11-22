@@ -338,6 +338,7 @@
 [575][575l]  |[Distribute Candies][575]                                                             |![rs]
 [576][576l]  |[Out of Boundary Paths][576]                                                          |![rs]
 [581][581l]  |[Shortest Unsorted Continuous Subarray][581]                                          |![rs]
+[583][583l]  |[Delete Operation for Two Strings][583]                                               |![rs]
 [587][587l]  |[Erect the Fence][587]                                                                |![rs]
 [589][589l]  |[N-ary Tree Preorder Traversal][589]                                                  |![py]
 [590][590l]  |[N-ary Tree Postorder Traversal][590]                                                 |![py]
@@ -1625,6 +1626,7 @@
 [575]:Problemset/0575-Distribute%20Candies/README.md#575-distribute-candies
 [576]:Problemset/0576-Out%20of%20Boundary%20Paths/README.md#576-out-of-boundary-paths
 [581]:Problemset/0581-Shortest%20Unsorted%20Continuous%20Subarray/README.md#581-shortest-unsorted-continuous-subarray
+[583]:Problemset/0583-Delete%20Operation%20for%20Two%20Strings/README.md#583-delete-operation-for-two-strings
 [587]:Problemset/0587-Erect%20the%20Fence/README.md#587-erect-the-fence
 [589]:Problemset/0589-N-ary%20Tree%20Preorder%20Traversal/README.md#589-n-ary-tree-preorder-traversal
 [590]:Problemset/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#590-n-ary-tree-postorder-traversal
@@ -2912,6 +2914,7 @@
 [575l]:https://leetcode.com/problems/distribute-candies/
 [576l]:https://leetcode.com/problems/out-of-boundary-paths/
 [581l]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+[583l]:https://leetcode.com/problems/delete-operation-for-two-strings/
 [587l]:https://leetcode.com/problems/erect-the-fence/
 [589l]:https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 [590l]:https://leetcode.com/problems/n-ary-tree-postorder-traversal/
