@@ -469,6 +469,7 @@
 [849][849l]  |[到最近的人的最大距离][849]                               |![rs]
 [852][852l]  |[山脉数组的峰顶索引][852]                                 |![rs]
 [853][853l]  |[车队][853]                                               |![rs]
+[856][856l]  |[括号的分数][856]                                         |![rs]
 [858][858l]  |[镜面反射][858]                                           |![rb]&nbsp;&nbsp;![rs]
 [859][859l]  |[亲密字符串][859]                                         |![py]
 [860][860l]  |[柠檬水找零][860]                                         |![rs]
@@ -1757,6 +1758,7 @@
 [849]:Problemset/0849-Maximize%20Distance%20to%20Closest%20Person/README_CN.md#849-到最近的人的最大距离
 [852]:Problemset/0852-Peak%20Index%20in%20a%20Mountain%20Array/README_CN.md#852-山脉数组的峰顶索引
 [853]:Problemset/0853-Car%20Fleet/README_CN.md#853-车队
+[856]:Problemset/0856-Score%20of%20Parentheses/README_CN.md#856-括号的分数
 [858]:Problemset/0858-Mirror%20Reflection/README_CN.md#858-镜面反射
 [859]:Problemset/0859-Buddy%20Strings/README_CN.md#859-亲密字符串
 [860]:Problemset/0860-Lemonade%20Change/README_CN.md#860-柠檬水找零
@@ -3048,6 +3050,7 @@
 [849l]:https://leetcode.cn/problems/maximize-distance-to-closest-person/
 [852l]:https://leetcode.cn/problems/peak-index-in-a-mountain-array/
 [853l]:https://leetcode.cn/problems/car-fleet/
+[856l]:https://leetcode.cn/problems/score-of-parentheses/
 [858l]:https://leetcode.cn/problems/mirror-reflection/
 [859l]:https://leetcode.cn/problems/buddy-strings/
 [860l]:https://leetcode.cn/problems/lemonade-change/
