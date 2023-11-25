@@ -1064,6 +1064,7 @@
 [2102][2102l]|[Sequentially Ordinal Rank Tracker][2102]                                             |![py]
 [2103][2103l]|[Rings and Rods][2103]                                                                |![rs]
 [2105][2105l]|[Watering Plants II][2105]                                                            |![rs]
+[2106][2106l]|[Maximum Fruits Harvested After at Most K Steps][2106]                                |![rs]
 [2108][2108l]|[Find First Palindromic String in the Array][2108]                                    |![rs]
 [2109][2109l]|[Adding Spaces to a String][2109]                                                     |![rs]
 [2110][2110l]|[Number of Smooth Descent Periods of a Stock][2110]                                   |![rs]
@@ -2354,6 +2355,7 @@
 [2102]:Problemset/2102-Sequentially%20Ordinal%20Rank%20Tracker/README.md#2102-sequentially-ordinal-rank-tracker
 [2103]:Problemset/2103-Rings%20and%20Rods/README.md#2103-rings-and-rods
 [2105]:Problemset/2105-Watering%20Plants%20II/README.md#2105-watering-plants-ii
+[2106]:Problemset/2106-Maximum%20Fruits%20Harvested%20After%20at%20Most%20K%20Steps/README.md#2106-maximum-fruits-harvested-after-at-most-k-steps
 [2108]:Problemset/2108-Find%20First%20Palindromic%20String%20in%20the%20Array/README.md#2108-find-first-palindromic-string-in-the-array
 [2109]:Problemset/2109-Adding%20Spaces%20to%20a%20String/README.md#2109-adding-spaces-to-a-string
 [2110]:Problemset/2110-Number%20of%20Smooth%20Descent%20Periods%20of%20a%20Stock/README.md#2110-number-of-smooth-descent-periods-of-a-stock
@@ -3647,6 +3649,7 @@
 [2102l]:https://leetcode.com/problems/sequentially-ordinal-rank-tracker/
 [2103l]:https://leetcode.com/problems/rings-and-rods/
 [2105l]:https://leetcode.com/problems/watering-plants-ii/
+[2106l]:https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/
 [2108l]:https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 [2109l]:https://leetcode.com/problems/adding-spaces-to-a-string/
 [2110l]:https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
