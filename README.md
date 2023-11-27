@@ -408,6 +408,7 @@
 [729][729l]  |[My Calendar I][729]                                                                  |![py]
 [733][733l]  |[Flood Fill][733]                                                                     |![rs]
 [735][735l]  |[Asteroid Collision][735]                                                             |![rb]
+[738][738l]  |[Monotone Increasing Digits][738]                                                     |![rs]
 [739][739l]  |[Daily Temperatures][739]                                                             |![rs]
 [743][743l]  |[Network Delay Time][743]                                                             |![rs]
 [744][744l]  |[Find Smallest Letter Greater Than Target][744]                                       |![rs]
@@ -1700,6 +1701,7 @@
 [729]:Problemset/0729-My%20Calendar%20I/README.md#729-my-calendar-i
 [733]:Problemset/0733-Flood%20Fill/README.md#733-flood-fill
 [735]:Problemset/0735-Asteroid%20Collision/README.md#735-asteroid-collision
+[738]:Problemset/0738-Monotone%20Increasing%20Digits/README.md#738-monotone-increasing-digits
 [739]:Problemset/0739-Daily%20Temperatures/README.md#739-daily-temperatures
 [743]:Problemset/0743-Network%20Delay%20Time/README.md#743-network-delay-time
 [744]:Problemset/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README.md#744-find-smallest-letter-greater-than-target
@@ -2995,6 +2997,7 @@
 [729l]:https://leetcode.com/problems/my-calendar-i/
 [733l]:https://leetcode.com/problems/flood-fill/
 [735l]:https://leetcode.com/problems/asteroid-collision/
+[738l]:https://leetcode.com/problems/monotone-increasing-digits/
 [739l]:https://leetcode.com/problems/daily-temperatures/
 [743l]:https://leetcode.com/problems/network-delay-time/
 [744l]:https://leetcode.com/problems/find-smallest-letter-greater-than-target/

@@ -408,6 +408,7 @@
 [729][729l]  |[我的日程安排表 I][729]                                   |![py]
 [733][733l]  |[图像渲染][733]                                           |![rs]
 [735][735l]  |[行星碰撞][735]                                           |![rb]
+[738][738l]  |[单调递增的数字][738]                                     |![rs]
 [739][739l]  |[每日温度][739]                                           |![rs]
 [743][743l]  |[网络延迟时间][743]                                       |![rs]
 [744][744l]  |[寻找比目标字母大的最小字母][744]                         |![rs]
@@ -1700,6 +1701,7 @@
 [729]:Problemset/0729-My%20Calendar%20I/README_CN.md#729-我的日程安排表-i
 [733]:Problemset/0733-Flood%20Fill/README_CN.md#733-图像渲染
 [735]:Problemset/0735-Asteroid%20Collision/README_CN.md#735-行星碰撞
+[738]:Problemset/0738-Monotone%20Increasing%20Digits/README_CN.md#738-单调递增的数字
 [739]:Problemset/0739-Daily%20Temperatures/README_CN.md#739-每日温度
 [743]:Problemset/0743-Network%20Delay%20Time/README_CN.md#743-网络延迟时间
 [744]:Problemset/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README_CN.md#744-寻找比目标字母大的最小字母
@@ -2995,6 +2997,7 @@
 [729l]:https://leetcode.cn/problems/my-calendar-i/
 [733l]:https://leetcode.cn/problems/flood-fill/
 [735l]:https://leetcode.cn/problems/asteroid-collision/
+[738l]:https://leetcode.cn/problems/monotone-increasing-digits/
 [739l]:https://leetcode.cn/problems/daily-temperatures/
 [743l]:https://leetcode.cn/problems/network-delay-time/
 [744l]:https://leetcode.cn/problems/find-smallest-letter-greater-than-target/
