@@ -1173,6 +1173,7 @@
 [2320][2320l]|[Count Number of Ways to Place Houses][2320]                                          |![rs]
 [2325][2325l]|[Decode the Message][2325]                                                            |![py]
 [2326][2326l]|[Spiral Matrix IV][2326]                                                              |![py]
+[2327][2327l]|[Number of People Aware of a Secret][2327]                                            |![py]
 [2331][2331l]|[Evaluate Boolean Binary Tree][2331]                                                  |![py]
 [2335][2335l]|[Minimum Amount of Time to Fill Cups][2335]                                           |![rs]
 [2336][2336l]|[Smallest Number in Infinite Set][2336]                                               |![rs]
@@ -2466,6 +2467,7 @@
 [2320]:Problemset/2320-Count%20Number%20of%20Ways%20to%20Place%20Houses/README.md#2320-count-number-of-ways-to-place-houses
 [2325]:Problemset/2325-Decode%20the%20Message/README.md#2325-decode-the-message
 [2326]:Problemset/2326-Spiral%20Matrix%20IV/README.md#2326-spiral-matrix-iv
+[2327]:Problemset/2327-Number%20of%20People%20Aware%20of%20a%20Secret/README.md#2327-number-of-people-aware-of-a-secret
 [2331]:Problemset/2331-Evaluate%20Boolean%20Binary%20Tree/README.md#2331-evaluate-boolean-binary-tree
 [2335]:Problemset/2335-Minimum%20Amount%20of%20Time%20to%20Fill%20Cups/README.md#2335-minimum-amount-of-time-to-fill-cups
 [2336]:Problemset/2336-Smallest%20Number%20in%20Infinite%20Set/README.md#2336-smallest-number-in-infinite-set
@@ -3762,6 +3764,7 @@
 [2320l]:https://leetcode.com/problems/count-number-of-ways-to-place-houses/
 [2325l]:https://leetcode.com/problems/decode-the-message/
 [2326l]:https://leetcode.com/problems/spiral-matrix-iv/
+[2327l]:https://leetcode.com/problems/number-of-people-aware-of-a-secret/
 [2331l]:https://leetcode.com/problems/evaluate-boolean-binary-tree/
 [2335l]:https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/
 [2336l]:https://leetcode.com/problems/smallest-number-in-infinite-set/
