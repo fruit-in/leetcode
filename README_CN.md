@@ -966,6 +966,7 @@
 [1863][1863l]|[找出所有子集的异或总和再求和][1863]                      |![py]
 [1866][1866l]|[恰有 K 根木棍可以看到的排列数目][1866]                   |![rs]
 [1869][1869l]|[哪种连续子字符串更长][1869]                              |![rs]
+[1870][1870l]|[准时到达的列车最小时速][1870]                            |![py]
 [1876][1876l]|[长度为三且各字符不同的子字符串][1876]                    |![rs]
 [1877][1877l]|[数组中最大数对和的最小值][1877]                          |![rs]
 [1880][1880l]|[检查某单词是否等于两单词之和][1880]                      |![rs]
@@ -2260,6 +2261,7 @@
 [1863]:Problemset/1863-Sum%20of%20All%20Subset%20XOR%20Totals/README_CN.md#1863-找出所有子集的异或总和再求和
 [1866]:Problemset/1866-Number%20of%20Ways%20to%20Rearrange%20Sticks%20With%20K%20Sticks%20Visible/README_CN.md#1866-恰有-k-根木棍可以看到的排列数目
 [1869]:Problemset/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README_CN.md#1869-哪种连续子字符串更长
+[1870]:Problemset/1870-Minimum%20Speed%20to%20Arrive%20on%20Time/README_CN.md#1870-准时到达的列车最小时速
 [1876]:Problemset/1876-Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/README_CN.md#1876-长度为三且各字符不同的子字符串
 [1877]:Problemset/1877-Minimize%20Maximum%20Pair%20Sum%20in%20Array/README_CN.md#1877-数组中最大数对和的最小值
 [1880]:Problemset/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README_CN.md#1880-检查某单词是否等于两单词之和
@@ -3557,6 +3559,7 @@
 [1863l]:https://leetcode.cn/problems/sum-of-all-subset-xor-totals/
 [1866l]:https://leetcode.cn/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/
 [1869l]:https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/
+[1870l]:https://leetcode.cn/problems/minimum-speed-to-arrive-on-time/
 [1876l]:https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/
 [1877l]:https://leetcode.cn/problems/minimize-maximum-pair-sum-in-array/
 [1880l]:https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/
