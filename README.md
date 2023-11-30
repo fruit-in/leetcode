@@ -636,6 +636,7 @@
 [1146][1146l]|[Snapshot Array][1146]                                                                |![rb]&nbsp;&nbsp;![rs]
 [1154][1154l]|[Day of the Year][1154]                                                               |![rs]
 [1155][1155l]|[Number of Dice Rolls With Target Sum][1155]                                          |![py]&nbsp;&nbsp;![rs]
+[1156][1156l]|[Swap For Longest Repeated Character Substring][1156]                                 |![rs]
 [1160][1160l]|[Find Words That Can Be Formed by Characters][1160]                                   |![py]
 [1161][1161l]|[Maximum Level Sum of a Binary Tree][1161]                                            |![py]
 [1162][1162l]|[As Far from Land as Possible][1162]                                                  |![rs]
@@ -1931,6 +1932,7 @@
 [1146]:Problemset/1146-Snapshot%20Array/README.md#1146-snapshot-array
 [1154]:Problemset/1154-Day%20of%20the%20Year/README.md#1154-day-of-the-year
 [1155]:Problemset/1155-Number%20of%20Dice%20Rolls%20With%20Target%20Sum/README.md#1155-number-of-dice-rolls-with-target-sum
+[1156]:Problemset/1156-Swap%20For%20Longest%20Repeated%20Character%20Substring/README.md#1156-swap-for-longest-repeated-character-substring
 [1160]:Problemset/1160-Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/README.md#1160-find-words-that-can-be-formed-by-characters
 [1161]:Problemset/1161-Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/README.md#1161-maximum-level-sum-of-a-binary-tree
 [1162]:Problemset/1162-As%20Far%20from%20Land%20as%20Possible/README.md#1162-as-far-from-land-as-possible
@@ -3229,6 +3231,7 @@
 [1146l]:https://leetcode.com/problems/snapshot-array/
 [1154l]:https://leetcode.com/problems/day-of-the-year/
 [1155l]:https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
+[1156l]:https://leetcode.com/problems/swap-for-longest-repeated-character-substring/
 [1160l]:https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 [1161l]:https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
 [1162l]:https://leetcode.com/problems/as-far-from-land-as-possible/
