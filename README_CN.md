@@ -874,6 +874,7 @@
 [1647][1647l]|[字符频次唯一的最小删除次数][1647]                        |![rb]&nbsp;&nbsp;![rs]
 [1648][1648l]|[销售价值减少的颜色球][1648]                              |![rs]
 [1652][1652l]|[拆炸弹][1652]                                            |![rb]&nbsp;&nbsp;![rs]
+[1653][1653l]|[使字符串平衡的最少删除次数][1653]                        |![rs]
 [1656][1656l]|[设计有序流][1656]                                        |![py]
 [1658][1658l]|[将 x 减到 0 的最小操作数][1658]                          |![rb]&nbsp;&nbsp;![rs]
 [1662][1662l]|[检查两个字符串数组是否相等][1662]                        |![rb]&nbsp;&nbsp;![rs]
@@ -2170,6 +2171,7 @@
 [1647]:Problemset/1647-Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique/README_CN.md#1647-字符频次唯一的最小删除次数
 [1648]:Problemset/1648-Sell%20Diminishing-Valued%20Colored%20Balls/README_CN.md#1648-销售价值减少的颜色球
 [1652]:Problemset/1652-Defuse%20the%20Bomb/README_CN.md#1652-拆炸弹
+[1653]:Problemset/1653-Minimum%20Deletions%20to%20Make%20String%20Balanced/README_CN.md#1653-使字符串平衡的最少删除次数
 [1656]:Problemset/1656-Design%20an%20Ordered%20Stream/README_CN.md#1656-设计有序流
 [1658]:Problemset/1658-Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/README_CN.md#1658-将-x-减到-0-的最小操作数
 [1662]:Problemset/1662-Check%20If%20Two%20String%20Arrays%20are%20Equivalent/README_CN.md#1662-检查两个字符串数组是否相等
@@ -3469,6 +3471,7 @@
 [1647l]:https://leetcode.cn/problems/minimum-deletions-to-make-character-frequencies-unique/
 [1648l]:https://leetcode.cn/problems/sell-diminishing-valued-colored-balls/
 [1652l]:https://leetcode.cn/problems/defuse-the-bomb/
+[1653l]:https://leetcode.cn/problems/minimum-deletions-to-make-string-balanced/
 [1656l]:https://leetcode.cn/problems/design-an-ordered-stream/
 [1658l]:https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/
 [1662l]:https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/
