@@ -19,6 +19,7 @@
 [15][15l]    |[三数之和][15]                                            |![rs]
 [16][16l]    |[最接近的三数之和][16]                                    |![rs]
 [17][17l]    |[电话号码的字母组合][17]                                  |![py]
+[18][18l]    |[四数之和][18]                                            |![rs]
 [19][19l]    |[删除链表的倒数第N个节点][19]                             |![py]&nbsp;&nbsp;![rb]
 [20][20l]    |[有效的括号][20]                                          |![py]
 [21][21l]    |[合并两个有序链表][21]                                    |![py]
@@ -1318,6 +1319,7 @@
 [15]:Problemset/0015-3Sum/README_CN.md#15-三数之和
 [16]:Problemset/0016-3Sum%20Closest/README_CN.md#16-最接近的三数之和
 [17]:Problemset/0017-Letter%20Combinations%20of%20a%20Phone%20Number/README_CN.md#17-电话号码的字母组合
+[18]:Problemset/0018-4Sum/README_CN.md#18-四数之和
 [19]:Problemset/0019-Remove%20Nth%20Node%20From%20End%20of%20List/README_CN.md#19-删除链表的倒数第N个节点
 [20]:Problemset/0020-Valid%20Parentheses/README_CN.md#20-有效的括号
 [21]:Problemset/0021-Merge%20Two%20Sorted%20Lists/README_CN.md#21-合并两个有序链表
@@ -2609,6 +2611,7 @@
 [15l]:https://leetcode.cn/problems/3sum/
 [16l]:https://leetcode.cn/problems/3sum-closest/
 [17l]:https://leetcode.cn/problems/letter-combinations-of-a-phone-number/
+[18l]:https://leetcode.cn/problems/4sum/
 [19l]:https://leetcode.cn/problems/remove-nth-node-from-end-of-list/
 [20l]:https://leetcode.cn/problems/valid-parentheses/
 [21l]:https://leetcode.cn/problems/merge-two-sorted-lists/
