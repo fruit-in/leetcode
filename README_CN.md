@@ -916,6 +916,7 @@
 [1738][1738l]|[找出第 K 大的异或坐标值][1738]                           |![rb]&nbsp;&nbsp;![rs]
 [1742][1742l]|[盒子中小球的最大数量][1742]                              |![py]
 [1743][1743l]|[从相邻元素对还原数组][1743]                              |![rs]
+[1744][1744l]|[你能在你最喜欢的那天吃到你最喜欢的糖果吗？][1744]        |![rs]
 [1748][1748l]|[唯一元素的和][1748]                                      |![rs]
 [1749][1749l]|[任意子数组和的绝对值的最大值][1749]                      |![rb]&nbsp;&nbsp;![rs]
 [1750][1750l]|[删除字符串两端相同字符后的最短长度][1750]                |![rb]&nbsp;&nbsp;![rs]
@@ -2216,6 +2217,7 @@
 [1738]:Problemset/1738-Find%20Kth%20Largest%20XOR%20Coordinate%20Value/README_CN.md#1738-找出第-k-大的异或坐标值
 [1742]:Problemset/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README_CN.md#1742-盒子中小球的最大数量
 [1743]:Problemset/1743-Restore%20the%20Array%20From%20Adjacent%20Pairs/README_CN.md#1743-从相邻元素对还原数组
+[1744]:Problemset/1744-Can%20You%20Eat%20Your%20Favorite%20Candy%20on%20Your%20Favorite%20Day%3F/README_CN.md#1744-你能在你最喜欢的那天吃到你最喜欢的糖果吗？
 [1748]:Problemset/1748-Sum%20of%20Unique%20Elements/README_CN.md#1748-唯一元素的和
 [1749]:Problemset/1749-Maximum%20Absolute%20Sum%20of%20Any%20Subarray/README_CN.md#1749-任意子数组和的绝对值的最大值
 [1750]:Problemset/1750-Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends/README_CN.md#1750-删除字符串两端相同字符后的最短长度
@@ -3519,6 +3521,7 @@
 [1738l]:https://leetcode.cn/problems/find-kth-largest-xor-coordinate-value/
 [1742l]:https://leetcode.cn/problems/maximum-number-of-balls-in-a-box/
 [1743l]:https://leetcode.cn/problems/restore-the-array-from-adjacent-pairs/
+[1744l]:https://leetcode.cn/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/
 [1748l]:https://leetcode.cn/problems/sum-of-unique-elements/
 [1749l]:https://leetcode.cn/problems/maximum-absolute-sum-of-any-subarray/
 [1750l]:https://leetcode.cn/problems/minimum-length-of-string-after-deleting-similar-ends/
