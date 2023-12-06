@@ -969,6 +969,7 @@
 [1860][1860l]|[Incremental Memory Leak][1860]                                                       |![rs]
 [1861][1861l]|[Rotating the Box][1861]                                                              |![rs]
 [1863][1863l]|[Sum of All Subset XOR Totals][1863]                                                  |![py]
+[1865][1865l]|[Finding Pairs With a Certain Sum][1865]                                              |![rs]
 [1866][1866l]|[Number of Ways to Rearrange Sticks With K Sticks Visible][1866]                      |![rs]
 [1869][1869l]|[Longer Contiguous Segments of Ones than Zeros][1869]                                 |![rs]
 [1870][1870l]|[Minimum Speed to Arrive on Time][1870]                                               |![py]
@@ -2270,6 +2271,7 @@
 [1860]:Problemset/1860-Incremental%20Memory%20Leak/README.md#1860-incremental-memory-leak
 [1861]:Problemset/1861-Rotating%20the%20Box/README.md#1861-rotating-the-box
 [1863]:Problemset/1863-Sum%20of%20All%20Subset%20XOR%20Totals/README.md#1863-sum-of-all-subset-xor-totals
+[1865]:Problemset/1865-Finding%20Pairs%20With%20a%20Certain%20Sum/README.md#1865-finding-pairs-with-a-certain-sum
 [1866]:Problemset/1866-Number%20of%20Ways%20to%20Rearrange%20Sticks%20With%20K%20Sticks%20Visible/README.md#1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible
 [1869]:Problemset/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README.md#1869-longer-contiguous-segments-of-ones-than-zeros
 [1870]:Problemset/1870-Minimum%20Speed%20to%20Arrive%20on%20Time/README.md#1870-minimum-speed-to-arrive-on-time
@@ -3574,6 +3576,7 @@
 [1860l]:https://leetcode.com/problems/incremental-memory-leak/
 [1861l]:https://leetcode.com/problems/rotating-the-box/
 [1863l]:https://leetcode.com/problems/sum-of-all-subset-xor-totals/
+[1865l]:https://leetcode.com/problems/finding-pairs-with-a-certain-sum/
 [1866l]:https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/
 [1869l]:https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1870l]:https://leetcode.com/problems/minimum-speed-to-arrive-on-time/
