@@ -868,6 +868,7 @@
 [1631][1631l]|[Path With Minimum Effort][1631]                                                      |![rs]
 [1636][1636l]|[Sort Array by Increasing Frequency][1636]                                            |![rs]
 [1637][1637l]|[Widest Vertical Area Between Two Points Containing No Points][1637]                  |![rb]&nbsp;&nbsp;![rs]
+[1638][1638l]|[Count Substrings That Differ by One Character][1638]                                 |![rs]
 [1640][1640l]|[Check Array Formation Through Concatenation][1640]                                   |![rb]&nbsp;&nbsp;![rs]
 [1641][1641l]|[Count Sorted Vowel Strings][1641]                                                    |![rb]&nbsp;&nbsp;![rs]
 [1642][1642l]|[Furthest Building You Can Reach][1642]                                               |![rs]
@@ -2170,6 +2171,7 @@
 [1631]:Problemset/1631-Path%20With%20Minimum%20Effort/README.md#1631-path-with-minimum-effort
 [1636]:Problemset/1636-Sort%20Array%20by%20Increasing%20Frequency/README.md#1636-sort-array-by-increasing-frequency
 [1637]:Problemset/1637-Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points/README.md#1637-widest-vertical-area-between-two-points-containing-no-points
+[1638]:Problemset/1638-Count%20Substrings%20That%20Differ%20by%20One%20Character/README.md#1638-count-substrings-that-differ-by-one-character
 [1640]:Problemset/1640-Check%20Array%20Formation%20Through%20Concatenation/README.md#1640-check-array-formation-through-concatenation
 [1641]:Problemset/1641-Count%20Sorted%20Vowel%20Strings/README.md#1641-count-sorted-vowel-strings
 [1642]:Problemset/1642-Furthest%20Building%20You%20Can%20Reach/README.md#1642-furthest-building-you-can-reach
@@ -3475,6 +3477,7 @@
 [1631l]:https://leetcode.com/problems/path-with-minimum-effort/
 [1636l]:https://leetcode.com/problems/sort-array-by-increasing-frequency/
 [1637l]:https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
+[1638l]:https://leetcode.com/problems/count-substrings-that-differ-by-one-character/
 [1640l]:https://leetcode.com/problems/check-array-formation-through-concatenation/
 [1641l]:https://leetcode.com/problems/count-sorted-vowel-strings/
 [1642l]:https://leetcode.com/problems/furthest-building-you-can-reach/
