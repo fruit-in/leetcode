@@ -612,6 +612,7 @@
 [1053][1053l]|[交换一次的先前排列][1053]                                |![rs]
 [1054][1054l]|[距离相等的条形码][1054]                                  |![rs]
 [1071][1071l]|[字符串的最大公因子][1071]                                |![py]
+[1074][1074l]|[元素和为目标值的子矩阵数量][1074]                        |![rs]
 [1078][1078l]|[Bigram 分词][1078]                                       |![py]
 [1079][1079l]|[活字印刷][1079]                                          |![py]
 [1081][1081l]|[不同字符的最小子序列][1081]                              |![rs]
@@ -1916,6 +1917,7 @@
 [1053]:Problemset/1053-Previous%20Permutation%20With%20One%20Swap/README_CN.md#1053-交换一次的先前排列
 [1054]:Problemset/1054-Distant%20Barcodes/README_CN.md#1054-距离相等的条形码
 [1071]:Problemset/1071-Greatest%20Common%20Divisor%20of%20Strings/README_CN.md#1071-字符串的最大公因子
+[1074]:Problemset/1074-Number%20of%20Submatrices%20That%20Sum%20to%20Target/README_CN.md#1074-元素和为目标值的子矩阵数量
 [1078]:Problemset/1078-Occurrences%20After%20Bigram/README_CN.md#1078-bigram-分词
 [1079]:Problemset/1079-Letter%20Tile%20Possibilities/README_CN.md#1079-活字印刷
 [1081]:Problemset/1081-Smallest%20Subsequence%20of%20Distinct%20Characters/README_CN.md#1081-不同字符的最小子序列
@@ -3223,6 +3225,7 @@
 [1053l]:https://leetcode.cn/problems/previous-permutation-with-one-swap/
 [1054l]:https://leetcode.cn/problems/distant-barcodes/
 [1071l]:https://leetcode.cn/problems/greatest-common-divisor-of-strings/
+[1074l]:https://leetcode.cn/problems/number-of-submatrices-that-sum-to-target/
 [1078l]:https://leetcode.cn/problems/occurrences-after-bigram/
 [1079l]:https://leetcode.cn/problems/letter-tile-possibilities/
 [1081l]:https://leetcode.cn/problems/smallest-subsequence-of-distinct-characters/

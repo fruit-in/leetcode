@@ -612,6 +612,7 @@
 [1053][1053l]|[Previous Permutation With One Swap][1053]                                            |![rs]
 [1054][1054l]|[Distant Barcodes][1054]                                                              |![rs]
 [1071][1071l]|[Greatest Common Divisor of Strings][1071]                                            |![py]
+[1074][1074l]|[Number of Submatrices That Sum to Target][1074]                                      |![rs]
 [1078][1078l]|[Occurrences After Bigram][1078]                                                      |![py]
 [1079][1079l]|[Letter Tile Possibilities][1079]                                                     |![py]
 [1081][1081l]|[Smallest Subsequence of Distinct Characters][1081]                                   |![rs]
@@ -1916,6 +1917,7 @@
 [1053]:Problemset/1053-Previous%20Permutation%20With%20One%20Swap/README.md#1053-previous-permutation-with-one-swap
 [1054]:Problemset/1054-Distant%20Barcodes/README.md#1054-distant-barcodes
 [1071]:Problemset/1071-Greatest%20Common%20Divisor%20of%20Strings/README.md#1071-greatest-common-divisor-of-strings
+[1074]:Problemset/1074-Number%20of%20Submatrices%20That%20Sum%20to%20Target/README.md#1074-number-of-submatrices-that-sum-to-target
 [1078]:Problemset/1078-Occurrences%20After%20Bigram/README.md#1078-occurrences-after-bigram
 [1079]:Problemset/1079-Letter%20Tile%20Possibilities/README.md#1079-letter-tile-possibilities
 [1081]:Problemset/1081-Smallest%20Subsequence%20of%20Distinct%20Characters/README.md#1081-smallest-subsequence-of-distinct-characters
@@ -3223,6 +3225,7 @@
 [1053l]:https://leetcode.com/problems/previous-permutation-with-one-swap/
 [1054l]:https://leetcode.com/problems/distant-barcodes/
 [1071l]:https://leetcode.com/problems/greatest-common-divisor-of-strings/
+[1074l]:https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 [1078l]:https://leetcode.com/problems/occurrences-after-bigram/
 [1079l]:https://leetcode.com/problems/letter-tile-possibilities/
 [1081l]:https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
