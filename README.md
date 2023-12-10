@@ -1192,6 +1192,7 @@
 [2341][2341l]|[Maximum Number of Pairs in Array][2341]                                              |![rs]
 [2342][2342l]|[Max Sum of a Pair With Equal Sum of Digits][2342]                                    |![rs]
 [2343][2343l]|[Query Kth Smallest Trimmed Number][2343]                                             |![py]
+[2344][2344l]|[Minimum Deletions to Make Array Divisible][2344]                                     |![py]
 [2347][2347l]|[Best Poker Hand][2347]                                                               |![py]
 [2348][2348l]|[Number of Zero-Filled Subarrays][2348]                                               |![rs]
 [2349][2349l]|[Design a Number Container System][2349]                                              |![rs]
@@ -2497,6 +2498,7 @@
 [2341]:Problemset/2341-Maximum%20Number%20of%20Pairs%20in%20Array/README.md#2341-maximum-number-of-pairs-in-array
 [2342]:Problemset/2342-Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits/README.md#2342-max-sum-of-a-pair-with-equal-sum-of-digits
 [2343]:Problemset/2343-Query%20Kth%20Smallest%20Trimmed%20Number/README.md#2343-query-kth-smallest-trimmed-number
+[2344]:Problemset/2344-Minimum%20Deletions%20to%20Make%20Array%20Divisible/README.md#2344-minimum-deletions-to-make-array-divisible
 [2347]:Problemset/2347-Best%20Poker%20Hand/README.md#2347-best-poker-hand
 [2348]:Problemset/2348-Number%20of%20Zero-Filled%20Subarrays/README.md#2348-number-of-zero-filled-subarrays
 [2349]:Problemset/2349-Design%20a%20Number%20Container%20System/README.md#2349-design-a-number-container-system
@@ -3805,6 +3807,7 @@
 [2341l]:https://leetcode.com/problems/maximum-number-of-pairs-in-array/
 [2342l]:https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 [2343l]:https://leetcode.com/problems/query-kth-smallest-trimmed-number/
+[2344l]:https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/
 [2347l]:https://leetcode.com/problems/best-poker-hand/
 [2348l]:https://leetcode.com/problems/number-of-zero-filled-subarrays/
 [2349l]:https://leetcode.com/problems/design-a-number-container-system/

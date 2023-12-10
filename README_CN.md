@@ -1192,6 +1192,7 @@
 [2341][2341l]|[数组能形成多少数对][2341]                                |![rs]
 [2342][2342l]|[数位和相等数对的最大和][2342]                            |![rs]
 [2343][2343l]|[裁剪数字后查询第 K 小的数字][2343]                       |![py]
+[2344][2344l]|[使数组可以被整除的最少删除次数][2344]                    |![py]
 [2347][2347l]|[最好的扑克手牌][2347]                                    |![py]
 [2348][2348l]|[全 0 子数组的数目][2348]                                 |![rs]
 [2349][2349l]|[设计数字容器系统][2349]                                  |![rs]
@@ -2497,6 +2498,7 @@
 [2341]:Problemset/2341-Maximum%20Number%20of%20Pairs%20in%20Array/README_CN.md#2341-数组能形成多少数对
 [2342]:Problemset/2342-Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits/README_CN.md#2342-数位和相等数对的最大和
 [2343]:Problemset/2343-Query%20Kth%20Smallest%20Trimmed%20Number/README_CN.md#2343-裁剪数字后查询第-k-小的数字
+[2344]:Problemset/2344-Minimum%20Deletions%20to%20Make%20Array%20Divisible/README_CN.md#2344-使数组可以被整除的最少删除次数
 [2347]:Problemset/2347-Best%20Poker%20Hand/README_CN.md#2347-最好的扑克手牌
 [2348]:Problemset/2348-Number%20of%20Zero-Filled%20Subarrays/README_CN.md#2348-全-0-子数组的数目
 [2349]:Problemset/2349-Design%20a%20Number%20Container%20System/README_CN.md#2349-设计数字容器系统
@@ -3805,6 +3807,7 @@
 [2341l]:https://leetcode.cn/problems/maximum-number-of-pairs-in-array/
 [2342l]:https://leetcode.cn/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 [2343l]:https://leetcode.cn/problems/query-kth-smallest-trimmed-number/
+[2344l]:https://leetcode.cn/problems/minimum-deletions-to-make-array-divisible/
 [2347l]:https://leetcode.cn/problems/best-poker-hand/
 [2348l]:https://leetcode.cn/problems/number-of-zero-filled-subarrays/
 [2349l]:https://leetcode.cn/problems/design-a-number-container-system/
