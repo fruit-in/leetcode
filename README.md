@@ -659,6 +659,7 @@
 [1208][1208l]|[Get Equal Substrings Within Budget][1208]                                            |![rb]&nbsp;&nbsp;![rs]
 [1209][1209l]|[Remove All Adjacent Duplicates in String II][1209]                                   |![rs]
 [1217][1217l]|[Play with Chips][1217]                                                               |![rs]
+[1218][1218l]|[Longest Arithmetic Subsequence of Given Difference][1218]                            |![rs]
 [1220][1220l]|[Count Vowels Permutation][1220]                                                      |![rs]
 [1221][1221l]|[Split a String in Balanced Strings][1221]                                            |![rb]&nbsp;&nbsp;![rs]
 [1222][1222l]|[Queens That Can Attack the King][1222]                                               |![rs]
@@ -1965,6 +1966,7 @@
 [1208]:Problemset/1208-Get%20Equal%20Substrings%20Within%20Budget/README.md#1208-get-equal-substrings-within-budget
 [1209]:Problemset/1209-Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/README.md#1209-remove-all-adjacent-duplicates-in-string-ii
 [1217]:Problemset/1217-Play%20with%20Chips/README.md#1217-play-with-chips
+[1218]:Problemset/1218-Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/README.md#1218-longest-arithmetic-subsequence-of-given-difference
 [1220]:Problemset/1220-Count%20Vowels%20Permutation/README.md#1220-count-vowels-permutation
 [1221]:Problemset/1221-Split%20a%20String%20in%20Balanced%20Strings/README.md#1221-split-a-string-in-balanced-strings
 [1222]:Problemset/1222-Queens%20That%20Can%20Attack%20the%20King/README.md#1222-queens-that-can-attack-the-king
@@ -3274,6 +3276,7 @@
 [1208l]:https://leetcode.com/problems/get-equal-substrings-within-budget/
 [1209l]:https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
 [1217l]:https://leetcode.com/problems/play-with-chips/
+[1218l]:https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
 [1220l]:https://leetcode.com/problems/count-vowels-permutation/
 [1221l]:https://leetcode.com/problems/split-a-string-in-balanced-strings/
 [1222l]:https://leetcode.com/problems/queens-that-can-attack-the-king/

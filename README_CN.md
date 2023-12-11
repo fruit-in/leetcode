@@ -659,6 +659,7 @@
 [1208][1208l]|[尽可能使字符串相等][1208]                                |![rb]&nbsp;&nbsp;![rs]
 [1209][1209l]|[删除字符串中的所有相邻重复项 II][1209]                   |![rs]
 [1217][1217l]|[玩筹码][1217]                                            |![rs]
+[1218][1218l]|[最长定差子序列][1218]                                    |![rs]
 [1220][1220l]|[统计元音字母序列的数目][1220]                            |![rs]
 [1221][1221l]|[分割平衡字符串][1221]                                    |![rb]&nbsp;&nbsp;![rs]
 [1222][1222l]|[可以攻击国王的皇后][1222]                                |![rs]
@@ -1965,6 +1966,7 @@
 [1208]:Problemset/1208-Get%20Equal%20Substrings%20Within%20Budget/README_CN.md#1208-尽可能使字符串相等
 [1209]:Problemset/1209-Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/README_CN.md#1209-删除字符串中的所有相邻重复项-ii
 [1217]:Problemset/1217-Play%20with%20Chips/README_CN.md#1217-玩筹码
+[1218]:Problemset/1218-Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/README_CN.md#1218-最长定差子序列
 [1220]:Problemset/1220-Count%20Vowels%20Permutation/README_CN.md#1220-统计元音字母序列的数目
 [1221]:Problemset/1221-Split%20a%20String%20in%20Balanced%20Strings/README_CN.md#1221-分割平衡字符串
 [1222]:Problemset/1222-Queens%20That%20Can%20Attack%20the%20King/README_CN.md#1222-可以攻击国王的皇后
@@ -3274,6 +3276,7 @@
 [1208l]:https://leetcode.cn/problems/get-equal-substrings-within-budget/
 [1209l]:https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string-ii/
 [1217l]:https://leetcode.cn/problems/play-with-chips/
+[1218l]:https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/
 [1220l]:https://leetcode.cn/problems/count-vowels-permutation/
 [1221l]:https://leetcode.cn/problems/split-a-string-in-balanced-strings/
 [1222l]:https://leetcode.cn/problems/queens-that-can-attack-the-king/
