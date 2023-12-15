@@ -412,6 +412,7 @@
 [735][735l]  |[行星碰撞][735]                                           |![rb]
 [738][738l]  |[单调递增的数字][738]                                     |![rs]
 [739][739l]  |[每日温度][739]                                           |![rs]
+[740][740l]  |[删除并获得点数][740]                                     |![rs]
 [743][743l]  |[网络延迟时间][743]                                       |![rs]
 [744][744l]  |[寻找比目标字母大的最小字母][744]                         |![rs]
 [746][746l]  |[使用最小花费爬楼梯][746]                                 |![rs]
@@ -1721,6 +1722,7 @@
 [735]:Problemset/0735-Asteroid%20Collision/README_CN.md#735-行星碰撞
 [738]:Problemset/0738-Monotone%20Increasing%20Digits/README_CN.md#738-单调递增的数字
 [739]:Problemset/0739-Daily%20Temperatures/README_CN.md#739-每日温度
+[740]:Problemset/0740-Delete%20and%20Earn/README_CN.md#740-删除并获得点数
 [743]:Problemset/0743-Network%20Delay%20Time/README_CN.md#743-网络延迟时间
 [744]:Problemset/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README_CN.md#744-寻找比目标字母大的最小字母
 [746]:Problemset/0746-Min%20Cost%20Climbing%20Stairs/README_CN.md#746-使用最小花费爬楼梯
@@ -3033,6 +3035,7 @@
 [735l]:https://leetcode.cn/problems/asteroid-collision/
 [738l]:https://leetcode.cn/problems/monotone-increasing-digits/
 [739l]:https://leetcode.cn/problems/daily-temperatures/
+[740l]:https://leetcode.cn/problems/delete-and-earn/
 [743l]:https://leetcode.cn/problems/network-delay-time/
 [744l]:https://leetcode.cn/problems/find-smallest-letter-greater-than-target/
 [746l]:https://leetcode.cn/problems/min-cost-climbing-stairs/
