@@ -164,6 +164,7 @@
 [230][230l]  |[二叉搜索树中第K小的元素][230]                            |![rb]
 [231][231l]  |[2的幂][231]                                              |![rs]
 [232][232l]  |[用栈实现队列][232]                                       |![rs]
+[233][233l]  |[数字 1 的个数][233]                                      |![rs]
 [234][234l]  |[回文链表][234]                                           |![py]
 [235][235l]  |[二叉搜索树的最近公共祖先][235]                           |![py]
 [236][236l]  |[二叉树的最近公共祖先][236]                               |![rb]
@@ -1474,6 +1475,7 @@
 [230]:Problemset/0230-Kth%20Smallest%20Element%20in%20a%20BST/README_CN.md#230-二叉搜索树中第k小的元素
 [231]:Problemset/0231-Power%20of%20Two/README_CN.md#231-2的幂
 [232]:Problemset/0232-Implement%20Queue%20using%20Stacks/README_CN.md#232-用栈实现队列
+[233]:Problemset/0233-Number%20of%20Digit%20One/README_CN.md#233-数字-1-的个数
 [234]:Problemset/0234-Palindrome%20Linked%20List/README_CN.md#234-回文链表
 [235]:Problemset/0235-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/README_CN.md#235-二叉搜索树的最近公共祖先
 [236]:Problemset/0236-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/README_CN.md#236-二叉树的最近公共祖先
@@ -2781,6 +2783,7 @@
 [230l]:https://leetcode.cn/problems/kth-smallest-element-in-a-bst/
 [231l]:https://leetcode.cn/problems/power-of-two/
 [232l]:https://leetcode.cn/problems/implement-queue-using-stacks/
+[233l]:https://leetcode.cn/problems/number-of-digit-one/
 [234l]:https://leetcode.cn/problems/palindrome-linked-list/
 [235l]:https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [236l]:https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/

@@ -164,6 +164,7 @@
 [230][230l]  |[Kth Smallest Element in a BST][230]                                                  |![rb]
 [231][231l]  |[Power of Two][231]                                                                   |![rs]
 [232][232l]  |[Implement Queue using Stacks][232]                                                   |![rs]
+[233][233l]  |[Number of Digit One][233]                                                            |![rs]
 [234][234l]  |[Palindrome Linked List][234]                                                         |![py]
 [235][235l]  |[Lowest Common Ancestor of a Binary Search Tree][235]                                 |![py]
 [236][236l]  |[Lowest Common Ancestor of a Binary Tree][236]                                        |![rb]
@@ -1474,6 +1475,7 @@
 [230]:Problemset/0230-Kth%20Smallest%20Element%20in%20a%20BST/README.md#230-kth-smallest-element-in-a-bst
 [231]:Problemset/0231-Power%20of%20Two/README.md#231-power-of-two
 [232]:Problemset/0232-Implement%20Queue%20using%20Stacks/README.md#232-implement-queue-using-stacks
+[233]:Problemset/0233-Number%20of%20Digit%20One/README.md#233-number-of-digit-one
 [234]:Problemset/0234-Palindrome%20Linked%20List/README.md#234-palindrome-linked-list
 [235]:Problemset/0235-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/README.md#235-lowest-common-ancestor-of-a-binary-search-tree
 [236]:Problemset/0236-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/README.md#236-lowest-common-ancestor-of-a-binary-tree
@@ -2781,6 +2783,7 @@
 [230l]:https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 [231l]:https://leetcode.com/problems/power-of-two/
 [232l]:https://leetcode.com/problems/implement-queue-using-stacks/
+[233l]:https://leetcode.com/problems/number-of-digit-one/
 [234l]:https://leetcode.com/problems/palindrome-linked-list/
 [235l]:https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [236l]:https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
