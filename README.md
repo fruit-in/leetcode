@@ -737,6 +737,7 @@
 [1352][1352l]|[Product of the Last K Numbers][1352]                                                 |![rs]
 [1356][1356l]|[Sort Integers by The Number of 1 Bits][1356]                                         |![rs]
 [1357][1357l]|[Apply Discount Every n Orders][1357]                                                 |![rs]
+[1358][1358l]|[Number of Substrings Containing All Three Characters][1358]                          |![rs]
 [1359][1359l]|[Count All Valid Pickup and Delivery Options][1359]                                   |![rs]
 [1360][1360l]|[Number of Days Between Two Dates][1360]                                              |![rs]
 [1362][1362l]|[Closest Divisors][1362]                                                              |![rb]&nbsp;&nbsp;![rs]
@@ -2049,6 +2050,7 @@
 [1352]:Problemset/1352-Product%20of%20the%20Last%20K%20Numbers/README.md#1352-product-of-the-last-k-numbers
 [1356]:Problemset/1356-Sort%20Integers%20by%20The%20Number%20of%201%20Bits/README.md#1356-sort-integers-by-the-number-of-1-bits
 [1357]:Problemset/1357-Apply%20Discount%20Every%20n%20Orders/README.md#1357-apply-discount-every-n-orders
+[1358]:Problemset/1358-Number%20of%20Substrings%20Containing%20All%20Three%20Characters/README.md#1358-number-of-substrings-containing-all-three-characters
 [1359]:Problemset/1359-Count%20All%20Valid%20Pickup%20and%20Delivery%20Options/README.md#1359-count-all-valid-pickup-and-delivery-options
 [1360]:Problemset/1360-Number%20of%20Days%20Between%20Two%20Dates/README.md#1360-number-of-days-between-two-dates
 [1362]:Problemset/1362-Closest%20Divisors/README.md#1362-closest-divisors
@@ -3364,6 +3366,7 @@
 [1352l]:https://leetcode.com/problems/product-of-the-last-k-numbers/
 [1356l]:https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 [1357l]:https://leetcode.com/problems/apply-discount-every-n-orders/
+[1358l]:https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 [1359l]:https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/
 [1360l]:https://leetcode.com/problems/number-of-days-between-two-dates/
 [1362l]:https://leetcode.com/problems/closest-divisors/
