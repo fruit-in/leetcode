@@ -294,6 +294,7 @@
 [494][494l]  |[目标和][494]                                             |![rb]&nbsp;&nbsp;![rs]
 [495][495l]  |[提莫攻击][495]                                           |![rs]
 [496][496l]  |[下一个更大元素 I][496]                                   |![rs]
+[497][497l]  |[非重叠矩形中的随机点][497]                               |![py]
 [498][498l]  |[对角线遍历][498]                                         |![rs]
 [500][500l]  |[键盘行][500]                                             |![py]
 [501][501l]  |[二叉搜索树中的众数][501]                                 |![py]
@@ -1607,6 +1608,7 @@
 [494]:Problemset/0494-Target%20Sum/README_CN.md#494-目标和
 [495]:Problemset/0495-Teemo%20Attacking/README_CN.md#495-提莫攻击
 [496]:Problemset/0496-Next%20Greater%20Element%20I/README_CN.md#496-下一个更大元素-i
+[497]:Problemset/0497-Random%20Point%20in%20Non-overlapping%20Rectangles/README_CN.md#497-非重叠矩形中的随机点
 [498]:Problemset/0498-Diagonal%20Traverse/README_CN.md#498-对角线遍历
 [500]:Problemset/0500-Keyboard%20Row/README_CN.md#500-键盘行
 [501]:Problemset/0501-Find%20Mode%20in%20Binary%20Search%20Tree/README_CN.md#501-二叉搜索树中的众数
@@ -2920,6 +2922,7 @@
 [494l]:https://leetcode.cn/problems/target-sum/
 [495l]:https://leetcode.cn/problems/teemo-attacking/
 [496l]:https://leetcode.cn/problems/next-greater-element-i/
+[497l]:https://leetcode.cn/problems/random-point-in-non-overlapping-rectangles/
 [498l]:https://leetcode.cn/problems/diagonal-traverse/
 [500l]:https://leetcode.cn/problems/keyboard-row/
 [501l]:https://leetcode.cn/problems/find-mode-in-binary-search-tree/

@@ -294,6 +294,7 @@
 [494][494l]  |[Target Sum][494]                                                                     |![rb]&nbsp;&nbsp;![rs]
 [495][495l]  |[Teemo Attacking][495]                                                                |![rs]
 [496][496l]  |[Next Greater Element I][496]                                                         |![rs]
+[497][497l]  |[Random Point in Non-overlapping Rectangles][497]                                     |![py]
 [498][498l]  |[Diagonal Traverse][498]                                                              |![rs]
 [500][500l]  |[Keyboard Row][500]                                                                   |![py]
 [501][501l]  |[Find Mode in Binary Search Tree][501]                                                |![py]
@@ -1607,6 +1608,7 @@
 [494]:Problemset/0494-Target%20Sum/README.md#494-target-sum
 [495]:Problemset/0495-Teemo%20Attacking/README.md#495-teemo-attacking
 [496]:Problemset/0496-Next%20Greater%20Element%20I/README.md#496-next-greater-element-i
+[497]:Problemset/0497-Random%20Point%20in%20Non-overlapping%20Rectangles/README.md#497-random-point-in-non-overlapping-rectangles
 [498]:Problemset/0498-Diagonal%20Traverse/README.md#498-diagonal-traverse
 [500]:Problemset/0500-Keyboard%20Row/README.md#500-keyboard-row
 [501]:Problemset/0501-Find%20Mode%20in%20Binary%20Search%20Tree/README.md#501-find-mode-in-binary-search-tree
@@ -2920,6 +2922,7 @@
 [494l]:https://leetcode.com/problems/target-sum/
 [495l]:https://leetcode.com/problems/teemo-attacking/
 [496l]:https://leetcode.com/problems/next-greater-element-i/
+[497l]:https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
 [498l]:https://leetcode.com/problems/diagonal-traverse/
 [500l]:https://leetcode.com/problems/keyboard-row/
 [501l]:https://leetcode.com/problems/find-mode-in-binary-search-tree/
