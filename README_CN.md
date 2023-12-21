@@ -616,6 +616,7 @@
 [1052][1052l]|[爱生气的书店老板][1052]                                  |![rb]&nbsp;&nbsp;![rs]
 [1053][1053l]|[交换一次的先前排列][1053]                                |![rs]
 [1054][1054l]|[距离相等的条形码][1054]                                  |![rs]
+[1061][1061l]|[按字典序排列最小的等效字符串][1061]                      |![py]
 [1071][1071l]|[字符串的最大公因子][1071]                                |![py]
 [1074][1074l]|[元素和为目标值的子矩阵数量][1074]                        |![rs]
 [1078][1078l]|[Bigram 分词][1078]                                       |![py]
@@ -1930,6 +1931,7 @@
 [1052]:Problemset/1052-Grumpy%20Bookstore%20Owner/README_CN.md#1052-爱生气的书店老板
 [1053]:Problemset/1053-Previous%20Permutation%20With%20One%20Swap/README_CN.md#1053-交换一次的先前排列
 [1054]:Problemset/1054-Distant%20Barcodes/README_CN.md#1054-距离相等的条形码
+[1061]:Problemset/1061-Lexicographically%20Smallest%20Equivalent%20String/README_CN.md#1061-按字典序排列最小的等效字符串
 [1071]:Problemset/1071-Greatest%20Common%20Divisor%20of%20Strings/README_CN.md#1071-字符串的最大公因子
 [1074]:Problemset/1074-Number%20of%20Submatrices%20That%20Sum%20to%20Target/README_CN.md#1074-元素和为目标值的子矩阵数量
 [1078]:Problemset/1078-Occurrences%20After%20Bigram/README_CN.md#1078-bigram-分词
@@ -3247,6 +3249,7 @@
 [1052l]:https://leetcode.cn/problems/grumpy-bookstore-owner/
 [1053l]:https://leetcode.cn/problems/previous-permutation-with-one-swap/
 [1054l]:https://leetcode.cn/problems/distant-barcodes/
+[1061l]:https://leetcode.cn/problems/lexicographically-smallest-equivalent-string/
 [1071l]:https://leetcode.cn/problems/greatest-common-divisor-of-strings/
 [1074l]:https://leetcode.cn/problems/number-of-submatrices-that-sum-to-target/
 [1078l]:https://leetcode.cn/problems/occurrences-after-bigram/

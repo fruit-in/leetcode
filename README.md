@@ -616,6 +616,7 @@
 [1052][1052l]|[Grumpy Bookstore Owner][1052]                                                        |![rb]&nbsp;&nbsp;![rs]
 [1053][1053l]|[Previous Permutation With One Swap][1053]                                            |![rs]
 [1054][1054l]|[Distant Barcodes][1054]                                                              |![rs]
+[1061][1061l]|[Lexicographically Smallest Equivalent String][1061]                                  |![py]
 [1071][1071l]|[Greatest Common Divisor of Strings][1071]                                            |![py]
 [1074][1074l]|[Number of Submatrices That Sum to Target][1074]                                      |![rs]
 [1078][1078l]|[Occurrences After Bigram][1078]                                                      |![py]
@@ -1930,6 +1931,7 @@
 [1052]:Problemset/1052-Grumpy%20Bookstore%20Owner/README.md#1052-grumpy-bookstore-owner
 [1053]:Problemset/1053-Previous%20Permutation%20With%20One%20Swap/README.md#1053-previous-permutation-with-one-swap
 [1054]:Problemset/1054-Distant%20Barcodes/README.md#1054-distant-barcodes
+[1061]:Problemset/1061-Lexicographically%20Smallest%20Equivalent%20String/README.md#1061-lexicographically-smallest-equivalent-string
 [1071]:Problemset/1071-Greatest%20Common%20Divisor%20of%20Strings/README.md#1071-greatest-common-divisor-of-strings
 [1074]:Problemset/1074-Number%20of%20Submatrices%20That%20Sum%20to%20Target/README.md#1074-number-of-submatrices-that-sum-to-target
 [1078]:Problemset/1078-Occurrences%20After%20Bigram/README.md#1078-occurrences-after-bigram
@@ -3247,6 +3249,7 @@
 [1052l]:https://leetcode.com/problems/grumpy-bookstore-owner/
 [1053l]:https://leetcode.com/problems/previous-permutation-with-one-swap/
 [1054l]:https://leetcode.com/problems/distant-barcodes/
+[1061l]:https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
 [1071l]:https://leetcode.com/problems/greatest-common-divisor-of-strings/
 [1074l]:https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 [1078l]:https://leetcode.com/problems/occurrences-after-bigram/
