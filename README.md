@@ -1237,6 +1237,7 @@
 [2414][2414l]|[Length of the Longest Alphabetical Continuous Substring][2414]                       |![rs]
 [2415][2415l]|[Reverse Odd Levels of Binary Tree][2415]                                             |![py]
 [2418][2418l]|[Sort the People][2418]                                                               |![rs]
+[2419][2419l]|[Longest Subarray With Maximum Bitwise AND][2419]                                     |![rs]
 [2420][2420l]|[Find All Good Indices][2420]                                                         |![rs]
 [2423][2423l]|[Remove Letter To Equalize Frequency][2423]                                           |![rs]
 [2425][2425l]|[Bitwise XOR of All Pairings][2425]                                                   |![rs]
@@ -2552,6 +2553,7 @@
 [2414]:Problemset/2414-Length%20of%20the%20Longest%20Alphabetical%20Continuous%20Substring/README.md#2414-length-of-the-longest-alphabetical-continuous-substring
 [2415]:Problemset/2415-Reverse%20Odd%20Levels%20of%20Binary%20Tree/README.md#2415-reverse-odd-levels-of-binary-tree
 [2418]:Problemset/2418-Sort%20the%20People/README.md#2418-sort-the-people
+[2419]:Problemset/2419-Longest%20Subarray%20With%20Maximum%20Bitwise%20AND/README.md#2419-longest-subarray-with-maximum-bitwise-and
 [2420]:Problemset/2420-Find%20All%20Good%20Indices/README.md#2420-find-all-good-indices
 [2423]:Problemset/2423-Remove%20Letter%20To%20Equalize%20Frequency/README.md#2423-remove-letter-to-equalize-frequency
 [2425]:Problemset/2425-Bitwise%20XOR%20of%20All%20Pairings/README.md#2425-bitwise-xor-of-all-pairings
@@ -3870,6 +3872,7 @@
 [2414l]:https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 [2415l]:https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/
 [2418l]:https://leetcode.com/problems/sort-the-people/
+[2419l]:https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/
 [2420l]:https://leetcode.com/problems/find-all-good-indices/
 [2423l]:https://leetcode.com/problems/remove-letter-to-equalize-frequency/
 [2425l]:https://leetcode.com/problems/bitwise-xor-of-all-pairings/

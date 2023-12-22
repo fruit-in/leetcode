@@ -1237,6 +1237,7 @@
 [2414][2414l]|[最长的字母序连续子字符串的长度][2414]                    |![rs]
 [2415][2415l]|[反转二叉树的奇数层][2415]                                |![py]
 [2418][2418l]|[按身高排序][2418]                                        |![rs]
+[2419][2419l]|[按位与最大的最长子数组][2419]                            |![rs]
 [2420][2420l]|[找到所有好下标][2420]                                    |![rs]
 [2423][2423l]|[删除字符使频率相同][2423]                                |![rs]
 [2425][2425l]|[所有数对的异或和][2425]                                  |![rs]
@@ -2552,6 +2553,7 @@
 [2414]:Problemset/2414-Length%20of%20the%20Longest%20Alphabetical%20Continuous%20Substring/README_CN.md#2414-最长的字母序连续子字符串的长度
 [2415]:Problemset/2415-Reverse%20Odd%20Levels%20of%20Binary%20Tree/README_CN.md#2415-反转二叉树的奇数层
 [2418]:Problemset/2418-Sort%20the%20People/README_CN.md#2418-按身高排序
+[2419]:Problemset/2419-Longest%20Subarray%20With%20Maximum%20Bitwise%20AND/README_CN.md#2419-按位与最大的最长子数组
 [2420]:Problemset/2420-Find%20All%20Good%20Indices/README_CN.md#2420-找到所有好下标
 [2423]:Problemset/2423-Remove%20Letter%20To%20Equalize%20Frequency/README_CN.md#2423-删除字符使频率相同
 [2425]:Problemset/2425-Bitwise%20XOR%20of%20All%20Pairings/README_CN.md#2425-所有数对的异或和
@@ -3870,6 +3872,7 @@
 [2414l]:https://leetcode.cn/problems/length-of-the-longest-alphabetical-continuous-substring/
 [2415l]:https://leetcode.cn/problems/reverse-odd-levels-of-binary-tree/
 [2418l]:https://leetcode.cn/problems/sort-the-people/
+[2419l]:https://leetcode.cn/problems/longest-subarray-with-maximum-bitwise-and/
 [2420l]:https://leetcode.cn/problems/find-all-good-indices/
 [2423l]:https://leetcode.cn/problems/remove-letter-to-equalize-frequency/
 [2425l]:https://leetcode.cn/problems/bitwise-xor-of-all-pairings/
