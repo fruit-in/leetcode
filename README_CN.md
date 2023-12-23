@@ -887,6 +887,7 @@
 [1646][1646l]|[获取生成数组中的最大值][1646]                            |![rs]
 [1647][1647l]|[字符频次唯一的最小删除次数][1647]                        |![rb]&nbsp;&nbsp;![rs]
 [1648][1648l]|[销售价值减少的颜色球][1648]                              |![rs]
+[1649][1649l]|[通过指令创建有序数组][1649]                              |![py]
 [1652][1652l]|[拆炸弹][1652]                                            |![rb]&nbsp;&nbsp;![rs]
 [1653][1653l]|[使字符串平衡的最少删除次数][1653]                        |![rs]
 [1656][1656l]|[设计有序流][1656]                                        |![py]
@@ -2203,6 +2204,7 @@
 [1646]:Problemset/1646-Get%20Maximum%20in%20Generated%20Array/README_CN.md#1646-获取生成数组中的最大值
 [1647]:Problemset/1647-Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique/README_CN.md#1647-字符频次唯一的最小删除次数
 [1648]:Problemset/1648-Sell%20Diminishing-Valued%20Colored%20Balls/README_CN.md#1648-销售价值减少的颜色球
+[1649]:Problemset/1649-Create%20Sorted%20Array%20through%20Instructions/README_CN.md#1649-通过指令创建有序数组
 [1652]:Problemset/1652-Defuse%20the%20Bomb/README_CN.md#1652-拆炸弹
 [1653]:Problemset/1653-Minimum%20Deletions%20to%20Make%20String%20Balanced/README_CN.md#1653-使字符串平衡的最少删除次数
 [1656]:Problemset/1656-Design%20an%20Ordered%20Stream/README_CN.md#1656-设计有序流
@@ -3522,6 +3524,7 @@
 [1646l]:https://leetcode.cn/problems/get-maximum-in-generated-array/
 [1647l]:https://leetcode.cn/problems/minimum-deletions-to-make-character-frequencies-unique/
 [1648l]:https://leetcode.cn/problems/sell-diminishing-valued-colored-balls/
+[1649l]:https://leetcode.cn/problems/create-sorted-array-through-instructions/
 [1652l]:https://leetcode.cn/problems/defuse-the-bomb/
 [1653l]:https://leetcode.cn/problems/minimum-deletions-to-make-string-balanced/
 [1656l]:https://leetcode.cn/problems/design-an-ordered-stream/

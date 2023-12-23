@@ -887,6 +887,7 @@
 [1646][1646l]|[Get Maximum in Generated Array][1646]                                                |![rs]
 [1647][1647l]|[Minimum Deletions to Make Character Frequencies Unique][1647]                        |![rb]&nbsp;&nbsp;![rs]
 [1648][1648l]|[Sell Diminishing-Valued Colored Balls][1648]                                         |![rs]
+[1649][1649l]|[Create Sorted Array through Instructions][1649]                                      |![py]
 [1652][1652l]|[Defuse the Bomb][1652]                                                               |![rb]&nbsp;&nbsp;![rs]
 [1653][1653l]|[Minimum Deletions to Make String Balanced][1653]                                     |![rs]
 [1656][1656l]|[Design an Ordered Stream][1656]                                                      |![py]
@@ -2203,6 +2204,7 @@
 [1646]:Problemset/1646-Get%20Maximum%20in%20Generated%20Array/README.md#1646-get-maximum-in-generated-array
 [1647]:Problemset/1647-Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique/README.md#1647-minimum-deletions-to-make-character-frequencies-unique
 [1648]:Problemset/1648-Sell%20Diminishing-Valued%20Colored%20Balls/README.md#1648-sell-diminishing-valued-colored-balls
+[1649]:Problemset/1649-Create%20Sorted%20Array%20through%20Instructions/README.md#1649-create-sorted-array-through-instructions
 [1652]:Problemset/1652-Defuse%20the%20Bomb/README.md#1652-defuse-the-bomb
 [1653]:Problemset/1653-Minimum%20Deletions%20to%20Make%20String%20Balanced/README.md#1653-minimum-deletions-to-make-string-balanced
 [1656]:Problemset/1656-Design%20an%20Ordered%20Stream/README.md#1656-design-an-ordered-stream
@@ -3522,6 +3524,7 @@
 [1646l]:https://leetcode.com/problems/get-maximum-in-generated-array/
 [1647l]:https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
 [1648l]:https://leetcode.com/problems/sell-diminishing-valued-colored-balls/
+[1649l]:https://leetcode.com/problems/create-sorted-array-through-instructions/
 [1652l]:https://leetcode.com/problems/defuse-the-bomb/
 [1653l]:https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
 [1656l]:https://leetcode.com/problems/design-an-ordered-stream/
