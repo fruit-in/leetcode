@@ -679,6 +679,7 @@
 [1247][1247l]|[Minimum Swaps to Make Strings Equal][1247]                                           |![py]
 [1248][1248l]|[Count Number of Nice Subarrays][1248]                                                |![rb]&nbsp;&nbsp;![rs]
 [1249][1249l]|[Minimum Remove to Make Valid Parentheses][1249]                                      |![rs]
+[1250][1250l]|[Check If It Is a Good Array][1250]                                                   |![py]
 [1252][1252l]|[Cells with Odd Values in a Matrix][1252]                                             |![rs]
 [1253][1253l]|[Reconstruct a 2-Row Binary Matrix][1253]                                             |![rb]&nbsp;&nbsp;![rs]
 [1255][1255l]|[Maximum Score Words Formed by Letters][1255]                                         |![rs]
@@ -1996,6 +1997,7 @@
 [1247]:Problemset/1247-Minimum%20Swaps%20to%20Make%20Strings%20Equal/README.md#1247-minimum-swaps-to-make-strings-equal
 [1248]:Problemset/1248-Count%20Number%20of%20Nice%20Subarrays/README.md#1248-count-number-of-nice-subarrays
 [1249]:Problemset/1249-Minimum%20Remove%20to%20Make%20Valid%20Parentheses/README.md#1249-minimum-remove-to-make-valid-parentheses
+[1250]:Problemset/1250-Check%20If%20It%20Is%20a%20Good%20Array/README.md#1250-check-if-it-is-a-good-array
 [1252]:Problemset/1252-Cells%20with%20Odd%20Values%20in%20a%20Matrix/README.md#1252-cells-with-odd-values-in-a-matrix
 [1253]:Problemset/1253-Reconstruct%20a%202-Row%20Binary%20Matrix/README.md#1253-reconstruct-a-2-row-binary-matrix
 [1255]:Problemset/1255-Maximum%20Score%20Words%20Formed%20by%20Letters/README.md#1255-maximum-score-words-formed-by-letters
@@ -3316,6 +3318,7 @@
 [1247l]:https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
 [1248l]:https://leetcode.com/problems/count-number-of-nice-subarrays/
 [1249l]:https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+[1250l]:https://leetcode.com/problems/check-if-it-is-a-good-array/
 [1252l]:https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
 [1253l]:https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/
 [1255l]:https://leetcode.com/problems/maximum-score-words-formed-by-letters/
