@@ -1106,6 +1106,7 @@
 [2134][2134l]|[Minimum Swaps to Group All 1's Together II][2134]                                    |![rs]
 [2138][2138l]|[Divide a String Into Groups of Size k][2138]                                         |![py]
 [2139][2139l]|[Minimum Moves to Reach Target Score][2139]                                           |![rs]
+[2140][2140l]|[Solving Questions With Brainpower][2140]                                             |![rs]
 [2144][2144l]|[Minimum Cost of Buying Candies With Discount][2144]                                  |![rs]
 [2145][2145l]|[Count the Hidden Sequences][2145]                                                    |![rs]
 [2147][2147l]|[Number of Ways to Divide a Long Corridor][2147]                                      |![rs]
@@ -2424,6 +2425,7 @@
 [2134]:Problemset/2134-Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II/README.md#2134-minimum-swaps-to-group-all-1s-together-ii
 [2138]:Problemset/2138-Divide%20a%20String%20Into%20Groups%20of%20Size%20k/README.md#2138-divide-a-string-into-groups-of-size-k
 [2139]:Problemset/2139-Minimum%20Moves%20to%20Reach%20Target%20Score/README.md#2139-minimum-moves-to-reach-target-score
+[2140]:Problemset/2140-Solving%20Questions%20With%20Brainpower/README.md#2140-solving-questions-with-brainpower
 [2144]:Problemset/2144-Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/README.md#2144-minimum-cost-of-buying-candies-with-discount
 [2145]:Problemset/2145-Count%20the%20Hidden%20Sequences/README.md#2145-count-the-hidden-sequences
 [2147]:Problemset/2147-Number%20of%20Ways%20to%20Divide%20a%20Long%20Corridor/README.md#2147-number-of-ways-to-divide-a-long-corridor
@@ -3745,6 +3747,7 @@
 [2134l]:https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 [2138l]:https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
 [2139l]:https://leetcode.com/problems/minimum-moves-to-reach-target-score/
+[2140l]:https://leetcode.com/problems/solving-questions-with-brainpower/
 [2144l]:https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 [2145l]:https://leetcode.com/problems/count-the-hidden-sequences/
 [2147l]:https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/

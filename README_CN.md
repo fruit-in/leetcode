@@ -1106,6 +1106,7 @@
 [2134][2134l]|[最少交换次数来组合所有的 1 II][2134]                     |![rs]
 [2138][2138l]|[将字符串拆分为若干长度为 k 的组][2138]                   |![py]
 [2139][2139l]|[得到目标值的最少行动次数][2139]                          |![rs]
+[2140][2140l]|[解决智力问题][2140]                                      |![rs]
 [2144][2144l]|[打折购买糖果的最小开销][2144]                            |![rs]
 [2145][2145l]|[统计隐藏数组数目][2145]                                  |![rs]
 [2147][2147l]|[分隔长廊的方案数][2147]                                  |![rs]
@@ -2424,6 +2425,7 @@
 [2134]:Problemset/2134-Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II/README_CN.md#2134-最少交换次数来组合所有的-1-ii
 [2138]:Problemset/2138-Divide%20a%20String%20Into%20Groups%20of%20Size%20k/README_CN.md#2138-将字符串拆分为若干长度为-k-的组
 [2139]:Problemset/2139-Minimum%20Moves%20to%20Reach%20Target%20Score/README_CN.md#2139-得到目标值的最少行动次数
+[2140]:Problemset/2140-Solving%20Questions%20With%20Brainpower/README_CN.md#2140-解决智力问题
 [2144]:Problemset/2144-Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/README_CN.md#2144-打折购买糖果的最小开销
 [2145]:Problemset/2145-Count%20the%20Hidden%20Sequences/README_CN.md#2145-统计隐藏数组数目
 [2147]:Problemset/2147-Number%20of%20Ways%20to%20Divide%20a%20Long%20Corridor/README_CN.md#2147-分隔长廊的方案数
@@ -3745,6 +3747,7 @@
 [2134l]:https://leetcode.cn/problems/minimum-swaps-to-group-all-1s-together-ii/
 [2138l]:https://leetcode.cn/problems/divide-a-string-into-groups-of-size-k/
 [2139l]:https://leetcode.cn/problems/minimum-moves-to-reach-target-score/
+[2140l]:https://leetcode.cn/problems/solving-questions-with-brainpower/
 [2144l]:https://leetcode.cn/problems/minimum-cost-of-buying-candies-with-discount/
 [2145l]:https://leetcode.cn/problems/count-the-hidden-sequences/
 [2147l]:https://leetcode.cn/problems/number-of-ways-to-divide-a-long-corridor/
