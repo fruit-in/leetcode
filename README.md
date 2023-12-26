@@ -546,6 +546,7 @@
 [953][953l]  |[Verifying an Alien Dictionary][953]                                                  |![py]
 [954][954l]  |[Array of Doubled Pairs][954]                                                         |![py]
 [957][957l]  |[Prison Cells After N Days][957]                                                      |![rs]
+[958][958l]  |[Check Completeness of a Binary Tree][958]                                            |![py]
 [961][961l]  |[N-Repeated Element in Size 2N Array][961]                                            |![rs]
 [962][962l]  |[Maximum Width Ramp][962]                                                             |![rs]
 [965][965l]  |[Univalued Binary Tree][965]                                                          |![py]
@@ -1865,6 +1866,7 @@
 [953]:Problemset/0953-Verifying%20an%20Alien%20Dictionary/README.md#953-verifying-an-alien-dictionary
 [954]:Problemset/0954-Array%20of%20Doubled%20Pairs/README.md#954-array-of-doubled-pairs
 [957]:Problemset/0957-Prison%20Cells%20After%20N%20Days/README.md#957-prison-cells-after-n-days
+[958]:Problemset/0958-Check%20Completeness%20of%20a%20Binary%20Tree/README.md#958-check-completeness-of-a-binary-tree
 [961]:Problemset/0961-N-Repeated%20Element%20in%20Size%202N%20Array/README.md#961-n-repeated-element-in-size-2n-array
 [962]:Problemset/0962-Maximum%20Width%20Ramp/README.md#962-maximum-width-ramp
 [965]:Problemset/0965-Univalued%20Binary%20Tree/README.md#965-univalued-binary-tree
@@ -3187,6 +3189,7 @@
 [953l]:https://leetcode.com/problems/verifying-an-alien-dictionary/
 [954l]:https://leetcode.com/problems/array-of-doubled-pairs/
 [957l]:https://leetcode.com/problems/prison-cells-after-n-days/
+[958l]:https://leetcode.com/problems/check-completeness-of-a-binary-tree/
 [961l]:https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 [962l]:https://leetcode.com/problems/maximum-width-ramp/
 [965l]:https://leetcode.com/problems/univalued-binary-tree/

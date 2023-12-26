@@ -546,6 +546,7 @@
 [953][953l]  |[验证外星语词典][953]                                     |![py]
 [954][954l]  |[二倍数对数组][954]                                       |![py]
 [957][957l]  |[N 天后的牢房][957]                                       |![rs]
+[958][958l]  |[二叉树的完全性检验][958]                                 |![py]
 [961][961l]  |[重复 N 次的元素][961]                                    |![rs]
 [962][962l]  |[最大宽度坡][962]                                         |![rs]
 [965][965l]  |[单值二叉树][965]                                         |![py]
@@ -1865,6 +1866,7 @@
 [953]:Problemset/0953-Verifying%20an%20Alien%20Dictionary/README_CN.md#953-验证外星语词典
 [954]:Problemset/0954-Array%20of%20Doubled%20Pairs/README_CN.md#954-二倍数对数组
 [957]:Problemset/0957-Prison%20Cells%20After%20N%20Days/README_CN.md#957-n-天后的牢房
+[958]:Problemset/0958-Check%20Completeness%20of%20a%20Binary%20Tree/README_CN.md#958-二叉树的完全性检验
 [961]:Problemset/0961-N-Repeated%20Element%20in%20Size%202N%20Array/README_CN.md#961-重复-n-次的元素
 [962]:Problemset/0962-Maximum%20Width%20Ramp/README_CN.md#962-最大宽度坡
 [965]:Problemset/0965-Univalued%20Binary%20Tree/README_CN.md#965-单值二叉树
@@ -3187,6 +3189,7 @@
 [953l]:https://leetcode.cn/problems/verifying-an-alien-dictionary/
 [954l]:https://leetcode.cn/problems/array-of-doubled-pairs/
 [957l]:https://leetcode.cn/problems/prison-cells-after-n-days/
+[958l]:https://leetcode.cn/problems/check-completeness-of-a-binary-tree/
 [961l]:https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/
 [962l]:https://leetcode.cn/problems/maximum-width-ramp/
 [965l]:https://leetcode.cn/problems/univalued-binary-tree/
