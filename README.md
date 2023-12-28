@@ -1000,6 +1000,7 @@
 [1899][1899l]|[Merge Triplets to Form Target Triplet][1899]                                         |![rs]
 [1901][1901l]|[Find a Peak Element II][1901]                                                        |![rs]
 [1903][1903l]|[Largest Odd Number in String][1903]                                                  |![rs]
+[1904][1904l]|[The Number of Full Rounds You Have Played][1904]                                     |![py]
 [1909][1909l]|[Remove One Element to Make the Array Strictly Increasing][1909]                      |![rs]
 [1913][1913l]|[Maximum Product Difference Between Two Pairs][1913]                                  |![rs]
 [1920][1920l]|[Build Array from Permutation][1920]                                                  |![rs]
@@ -2321,6 +2322,7 @@
 [1899]:Problemset/1899-Merge%20Triplets%20to%20Form%20Target%20Triplet/README.md#1899-merge-triplets-to-form-target-triplet
 [1901]:Problemset/1901-Find%20a%20Peak%20Element%20II/README.md#1901-find-a-peak-element-ii
 [1903]:Problemset/1903-Largest%20Odd%20Number%20in%20String/README.md#1903-largest-odd-number-in-string
+[1904]:Problemset/1904-The%20Number%20of%20Full%20Rounds%20You%20Have%20Played/README.md#1904-the-number-of-full-rounds-you-have-played
 [1909]:Problemset/1909-Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing/README.md#1909-remove-one-element-to-make-the-array-strictly-increasing
 [1913]:Problemset/1913-Maximum%20Product%20Difference%20Between%20Two%20Pairs/README.md#1913-maximum-product-difference-between-two-pairs
 [1920]:Problemset/1920-Build%20Array%20from%20Permutation/README.md#1920-build-array-from-permutation
@@ -3645,6 +3647,7 @@
 [1899l]:https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
 [1901l]:https://leetcode.com/problems/find-a-peak-element-ii/
 [1903l]:https://leetcode.com/problems/largest-odd-number-in-string/
+[1904l]:https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/
 [1909l]:https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
 [1913l]:https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 [1920l]:https://leetcode.com/problems/build-array-from-permutation/
