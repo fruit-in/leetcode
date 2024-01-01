@@ -896,6 +896,7 @@
 [1652][1652l]|[Defuse the Bomb][1652]                                                               |![rb]&nbsp;&nbsp;![rs]
 [1653][1653l]|[Minimum Deletions to Make String Balanced][1653]                                     |![rs]
 [1656][1656l]|[Design an Ordered Stream][1656]                                                      |![py]
+[1657][1657l]|[Determine if Two Strings Are Close][1657]                                            |![py]
 [1658][1658l]|[Minimum Operations to Reduce X to Zero][1658]                                        |![rb]&nbsp;&nbsp;![rs]
 [1662][1662l]|[Check If Two String Arrays are Equivalent][1662]                                     |![rb]&nbsp;&nbsp;![rs]
 [1663][1663l]|[Smallest String With A Given Numeric Value][1663]                                    |![rb]&nbsp;&nbsp;![rs]
@@ -2221,6 +2222,7 @@
 [1652]:Problemset/1652-Defuse%20the%20Bomb/README.md#1652-defuse-the-bomb
 [1653]:Problemset/1653-Minimum%20Deletions%20to%20Make%20String%20Balanced/README.md#1653-minimum-deletions-to-make-string-balanced
 [1656]:Problemset/1656-Design%20an%20Ordered%20Stream/README.md#1656-design-an-ordered-stream
+[1657]:Problemset/1657-Determine%20if%20Two%20Strings%20Are%20Close/README.md#1657-determine-if-two-strings-are-close
 [1658]:Problemset/1658-Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/README.md#1658-minimum-operations-to-reduce-x-to-zero
 [1662]:Problemset/1662-Check%20If%20Two%20String%20Arrays%20are%20Equivalent/README.md#1662-check-if-two-string-arrays-are-equivalent
 [1663]:Problemset/1663-Smallest%20String%20With%20A%20Given%20Numeric%20Value/README.md#1663-smallest-string-with-a-given-numeric-value
@@ -3549,6 +3551,7 @@
 [1652l]:https://leetcode.com/problems/defuse-the-bomb/
 [1653l]:https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
 [1656l]:https://leetcode.com/problems/design-an-ordered-stream/
+[1657l]:https://leetcode.com/problems/determine-if-two-strings-are-close/
 [1658l]:https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 [1662l]:https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 [1663l]:https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/

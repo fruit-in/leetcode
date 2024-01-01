@@ -896,6 +896,7 @@
 [1652][1652l]|[拆炸弹][1652]                                            |![rb]&nbsp;&nbsp;![rs]
 [1653][1653l]|[使字符串平衡的最少删除次数][1653]                        |![rs]
 [1656][1656l]|[设计有序流][1656]                                        |![py]
+[1657][1657l]|[确定两个字符串是否接近][1657]                            |![py]
 [1658][1658l]|[将 x 减到 0 的最小操作数][1658]                          |![rb]&nbsp;&nbsp;![rs]
 [1662][1662l]|[检查两个字符串数组是否相等][1662]                        |![rb]&nbsp;&nbsp;![rs]
 [1663][1663l]|[具有给定数值的最小字符串][1663]                          |![rb]&nbsp;&nbsp;![rs]
@@ -2221,6 +2222,7 @@
 [1652]:Problemset/1652-Defuse%20the%20Bomb/README_CN.md#1652-拆炸弹
 [1653]:Problemset/1653-Minimum%20Deletions%20to%20Make%20String%20Balanced/README_CN.md#1653-使字符串平衡的最少删除次数
 [1656]:Problemset/1656-Design%20an%20Ordered%20Stream/README_CN.md#1656-设计有序流
+[1657]:Problemset/1657-Determine%20if%20Two%20Strings%20Are%20Close/README_CN.md#1657-确定两个字符串是否接近
 [1658]:Problemset/1658-Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/README_CN.md#1658-将-x-减到-0-的最小操作数
 [1662]:Problemset/1662-Check%20If%20Two%20String%20Arrays%20are%20Equivalent/README_CN.md#1662-检查两个字符串数组是否相等
 [1663]:Problemset/1663-Smallest%20String%20With%20A%20Given%20Numeric%20Value/README_CN.md#1663-具有给定数值的最小字符串
@@ -3549,6 +3551,7 @@
 [1652l]:https://leetcode.cn/problems/defuse-the-bomb/
 [1653l]:https://leetcode.cn/problems/minimum-deletions-to-make-string-balanced/
 [1656l]:https://leetcode.cn/problems/design-an-ordered-stream/
+[1657l]:https://leetcode.cn/problems/determine-if-two-strings-are-close/
 [1658l]:https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/
 [1662l]:https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/
 [1663l]:https://leetcode.cn/problems/smallest-string-with-a-given-numeric-value/
