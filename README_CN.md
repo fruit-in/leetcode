@@ -291,6 +291,7 @@
 [483][483l]  |[最小好进制][483]                                         |![py]
 [485][485l]  |[最大连续1的个数][485]                                    |![rs]
 [492][492l]  |[构造矩形][492]                                           |![rs]
+[493][493l]  |[翻转对][493]                                             |![py]
 [494][494l]  |[目标和][494]                                             |![rb]&nbsp;&nbsp;![rs]
 [495][495l]  |[提莫攻击][495]                                           |![rs]
 [496][496l]  |[下一个更大元素 I][496]                                   |![rs]
@@ -1615,6 +1616,7 @@
 [483]:Problemset/0483-Smallest%20Good%20Base/README_CN.md#483-最小好进制
 [485]:Problemset/0485-Max%20Consecutive%20Ones/README_CN.md#485-最大连续1的个数
 [492]:Problemset/0492-Construct%20the%20Rectangle/README_CN.md#492-构造矩形
+[493]:Problemset/0493-Reverse%20Pairs/README_CN.md#493-翻转对
 [494]:Problemset/0494-Target%20Sum/README_CN.md#494-目标和
 [495]:Problemset/0495-Teemo%20Attacking/README_CN.md#495-提莫攻击
 [496]:Problemset/0496-Next%20Greater%20Element%20I/README_CN.md#496-下一个更大元素-i
@@ -2939,6 +2941,7 @@
 [483l]:https://leetcode.cn/problems/smallest-good-base/
 [485l]:https://leetcode.cn/problems/max-consecutive-ones/
 [492l]:https://leetcode.cn/problems/construct-the-rectangle/
+[493l]:https://leetcode.cn/problems/reverse-pairs/
 [494l]:https://leetcode.cn/problems/target-sum/
 [495l]:https://leetcode.cn/problems/teemo-attacking/
 [496l]:https://leetcode.cn/problems/next-greater-element-i/

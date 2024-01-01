@@ -291,6 +291,7 @@
 [483][483l]  |[Smallest Good Base][483]                                                             |![py]
 [485][485l]  |[Max Consecutive Ones][485]                                                           |![rs]
 [492][492l]  |[Construct the Rectangle][492]                                                        |![rs]
+[493][493l]  |[Reverse Pairs][493]                                                                  |![py]
 [494][494l]  |[Target Sum][494]                                                                     |![rb]&nbsp;&nbsp;![rs]
 [495][495l]  |[Teemo Attacking][495]                                                                |![rs]
 [496][496l]  |[Next Greater Element I][496]                                                         |![rs]
@@ -1615,6 +1616,7 @@
 [483]:Problemset/0483-Smallest%20Good%20Base/README.md#483-smallest-good-base
 [485]:Problemset/0485-Max%20Consecutive%20Ones/README.md#485-max-consecutive-ones
 [492]:Problemset/0492-Construct%20the%20Rectangle/README.md#492-construct-the-rectangle
+[493]:Problemset/0493-Reverse%20Pairs/README.md#493-reverse-pairs
 [494]:Problemset/0494-Target%20Sum/README.md#494-target-sum
 [495]:Problemset/0495-Teemo%20Attacking/README.md#495-teemo-attacking
 [496]:Problemset/0496-Next%20Greater%20Element%20I/README.md#496-next-greater-element-i
@@ -2939,6 +2941,7 @@
 [483l]:https://leetcode.com/problems/smallest-good-base/
 [485l]:https://leetcode.com/problems/max-consecutive-ones/
 [492l]:https://leetcode.com/problems/construct-the-rectangle/
+[493l]:https://leetcode.com/problems/reverse-pairs/
 [494l]:https://leetcode.com/problems/target-sum/
 [495l]:https://leetcode.com/problems/teemo-attacking/
 [496l]:https://leetcode.com/problems/next-greater-element-i/
