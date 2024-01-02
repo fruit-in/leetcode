@@ -357,6 +357,7 @@
 [609][609l]  |[Find Duplicate File in System][609]                                                  |![rb]
 [611][611l]  |[Valid Triangle Number][611]                                                          |![rs]
 [617][617l]  |[Merge Two Binary Trees][617]                                                         |![py]
+[621][621l]  |[Task Scheduler][621]                                                                 |![rs]
 [622][622l]  |[Design Circular Queue][622]                                                          |![rs]
 [623][623l]  |[Add One Row to Tree][623]                                                            |![py]
 [628][628l]  |[Maximum Product of Three Numbers][628]                                               |![py]
@@ -1683,6 +1684,7 @@
 [609]:Problemset/0609-Find%20Duplicate%20File%20in%20System/README.md#609-find-duplicate-file-in-system
 [611]:Problemset/0611-Valid%20Triangle%20Number/README.md#611-valid-triangle-number
 [617]:Problemset/0617-Merge%20Two%20Binary%20Trees/README.md#617-merge-two-binary-trees
+[621]:Problemset/0621-Task%20Scheduler/README.md#621-task-scheduler
 [622]:Problemset/0622-Design%20Circular%20Queue/README.md#622-design-circular-queue
 [623]:Problemset/0623-Add%20One%20Row%20to%20Tree/README.md#623-add-one-row-to-tree
 [628]:Problemset/0628-Maximum%20Product%20of%20Three%20Numbers/README.md#628-maximum-product-of-three-numbers
@@ -3009,6 +3011,7 @@
 [609l]:https://leetcode.com/problems/find-duplicate-file-in-system/
 [611l]:https://leetcode.com/problems/valid-triangle-number/
 [617l]:https://leetcode.com/problems/merge-two-binary-trees/
+[621l]:https://leetcode.com/problems/task-scheduler/
 [622l]:https://leetcode.com/problems/design-circular-queue/
 [623l]:https://leetcode.com/problems/add-one-row-to-tree/
 [628l]:https://leetcode.com/problems/maximum-product-of-three-numbers/

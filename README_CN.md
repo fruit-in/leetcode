@@ -357,6 +357,7 @@
 [609][609l]  |[在系统中查找重复文件][609]                               |![rb]
 [611][611l]  |[有效三角形的个数][611]                                   |![rs]
 [617][617l]  |[合并二叉树][617]                                         |![py]
+[621][621l]  |[任务调度器][621]                                         |![rs]
 [622][622l]  |[设计循环队列][622]                                       |![rs]
 [623][623l]  |[在二叉树中增加一行][623]                                 |![py]
 [628][628l]  |[三个数的最大乘积][628]                                   |![py]
@@ -1683,6 +1684,7 @@
 [609]:Problemset/0609-Find%20Duplicate%20File%20in%20System/README_CN.md#609-在系统中查找重复文件
 [611]:Problemset/0611-Valid%20Triangle%20Number/README_CN.md#611-有效三角形的个数
 [617]:Problemset/0617-Merge%20Two%20Binary%20Trees/README_CN.md#617-合并二叉树
+[621]:Problemset/0621-Task%20Scheduler/README_CN.md#621-任务调度器
 [622]:Problemset/0622-Design%20Circular%20Queue/README_CN.md#622-设计循环队列
 [623]:Problemset/0623-Add%20One%20Row%20to%20Tree/README_CN.md#623-在二叉树中增加一行
 [628]:Problemset/0628-Maximum%20Product%20of%20Three%20Numbers/README_CN.md#628-三个数的最大乘积
@@ -3009,6 +3011,7 @@
 [609l]:https://leetcode.cn/problems/find-duplicate-file-in-system/
 [611l]:https://leetcode.cn/problems/valid-triangle-number/
 [617l]:https://leetcode.cn/problems/merge-two-binary-trees/
+[621l]:https://leetcode.cn/problems/task-scheduler/
 [622l]:https://leetcode.cn/problems/design-circular-queue/
 [623l]:https://leetcode.cn/problems/add-one-row-to-tree/
 [628l]:https://leetcode.cn/problems/maximum-product-of-three-numbers/
