@@ -864,6 +864,7 @@
 [1578][1578l]|[Minimum Time to Make Rope Colorful][1578]                                            |![rs]
 [1582][1582l]|[Special Positions in a Binary Matrix][1582]                                          |![rs]
 [1588][1588l]|[Sum of All Odd Length Subarrays][1588]                                               |![rs]
+[1589][1589l]|[Maximum Sum Obtained of Any Permutation][1589]                                       |![rs]
 [1590][1590l]|[Make Sum Divisible by P][1590]                                                       |![rs]
 [1592][1592l]|[Rearrange Spaces Between Words][1592]                                                |![py]
 [1594][1594l]|[Maximum Non Negative Product in a Matrix][1594]                                      |![rs]
@@ -2191,6 +2192,7 @@
 [1578]:Problemset/1578-Minimum%20Time%20to%20Make%20Rope%20Colorful/README.md#1578-minimum-time-to-make-rope-colorful
 [1582]:Problemset/1582-Special%20Positions%20in%20a%20Binary%20Matrix/README.md#1582-special-positions-in-a-binary-matrix
 [1588]:Problemset/1588-Sum%20of%20All%20Odd%20Length%20Subarrays/README.md#1588-sum-of-all-odd-length-subarrays
+[1589]:Problemset/1589-Maximum%20Sum%20Obtained%20of%20Any%20Permutation/README.md#1589-maximum-sum-obtained-of-any-permutation
 [1590]:Problemset/1590-Make%20Sum%20Divisible%20by%20P/README.md#1590-make-sum-divisible-by-p
 [1592]:Problemset/1592-Rearrange%20Spaces%20Between%20Words/README.md#1592-rearrange-spaces-between-words
 [1594]:Problemset/1594-Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/README.md#1594-maximum-non-negative-product-in-a-matrix
@@ -3521,6 +3523,7 @@
 [1578l]:https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
 [1582l]:https://leetcode.com/problems/special-positions-in-a-binary-matrix/
 [1588l]:https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
+[1589l]:https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/
 [1590l]:https://leetcode.com/problems/make-sum-divisible-by-p/
 [1592l]:https://leetcode.com/problems/rearrange-spaces-between-words/
 [1594l]:https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/

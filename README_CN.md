@@ -864,6 +864,7 @@
 [1578][1578l]|[使绳子变成彩色的最短时间][1578]                          |![rs]
 [1582][1582l]|[二进制矩阵中的特殊位置][1582]                            |![rs]
 [1588][1588l]|[所有奇数长度子数组的和][1588]                            |![rs]
+[1589][1589l]|[所有排列中的最大和][1589]                                |![rs]
 [1590][1590l]|[使数组和能被 P 整除][1590]                               |![rs]
 [1592][1592l]|[重新排列单词间的空格][1592]                              |![py]
 [1594][1594l]|[矩阵的最大非负积][1594]                                  |![rs]
@@ -2191,6 +2192,7 @@
 [1578]:Problemset/1578-Minimum%20Time%20to%20Make%20Rope%20Colorful/README_CN.md#1578-使绳子变成彩色的最短时间
 [1582]:Problemset/1582-Special%20Positions%20in%20a%20Binary%20Matrix/README_CN.md#1582-二进制矩阵中的特殊位置
 [1588]:Problemset/1588-Sum%20of%20All%20Odd%20Length%20Subarrays/README_CN.md#1588-所有奇数长度子数组的和
+[1589]:Problemset/1589-Maximum%20Sum%20Obtained%20of%20Any%20Permutation/README_CN.md#1589-所有排列中的最大和
 [1590]:Problemset/1590-Make%20Sum%20Divisible%20by%20P/README_CN.md#1590-使数组和能被-p-整除
 [1592]:Problemset/1592-Rearrange%20Spaces%20Between%20Words/README_CN.md#1592-重新排列单词间的空格
 [1594]:Problemset/1594-Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/README_CN.md#1594-矩阵的最大非负积
@@ -3521,6 +3523,7 @@
 [1578l]:https://leetcode.cn/problems/minimum-time-to-make-rope-colorful/
 [1582l]:https://leetcode.cn/problems/special-positions-in-a-binary-matrix/
 [1588l]:https://leetcode.cn/problems/sum-of-all-odd-length-subarrays/
+[1589l]:https://leetcode.cn/problems/maximum-sum-obtained-of-any-permutation/
 [1590l]:https://leetcode.cn/problems/make-sum-divisible-by-p/
 [1592l]:https://leetcode.cn/problems/rearrange-spaces-between-words/
 [1594l]:https://leetcode.cn/problems/maximum-non-negative-product-in-a-matrix/
