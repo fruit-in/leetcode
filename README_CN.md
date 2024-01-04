@@ -959,6 +959,7 @@
 [1791][1791l]|[找出星型图的中心节点][1791]                              |![rb]&nbsp;&nbsp;![rs]
 [1792][1792l]|[最大平均通过率][1792]                                    |![py]
 [1796][1796l]|[字符串中第二大的数字][1796]                              |![rs]
+[1797][1797l]|[设计一个验证系统][1797]                                  |![py]
 [1800][1800l]|[最大升序子数组和][1800]                                  |![rb]&nbsp;&nbsp;![rs]
 [1801][1801l]|[积压订单中的订单总数][1801]                              |![rs]
 [1805][1805l]|[字符串中不同整数的数目][1805]                            |![rs]
@@ -2287,6 +2288,7 @@
 [1791]:Problemset/1791-Find%20Center%20of%20Star%20Graph/README_CN.md#1791-找出星型图的中心节点
 [1792]:Problemset/1792-Maximum%20Average%20Pass%20Ratio/README_CN.md#1792-最大平均通过率
 [1796]:Problemset/1796-Second%20Largest%20Digit%20in%20a%20String/README_CN.md#1796-字符串中第二大的数字
+[1797]:Problemset/1797-Design%20Authentication%20Manager/README_CN.md#1797-设计一个验证系统
 [1800]:Problemset/1800-Maximum%20Ascending%20Subarray%20Sum/README_CN.md#1800-最大升序子数组和
 [1801]:Problemset/1801-Number%20of%20Orders%20in%20the%20Backlog/README_CN.md#1801-积压订单中的订单总数
 [1805]:Problemset/1805-Number%20of%20Different%20Integers%20in%20a%20String/README_CN.md#1805-字符串中不同整数的数目
@@ -3618,6 +3620,7 @@
 [1791l]:https://leetcode.cn/problems/find-center-of-star-graph/
 [1792l]:https://leetcode.cn/problems/maximum-average-pass-ratio/
 [1796l]:https://leetcode.cn/problems/second-largest-digit-in-a-string/
+[1797l]:https://leetcode.cn/problems/design-authentication-manager/description/
 [1800l]:https://leetcode.cn/problems/maximum-ascending-subarray-sum/
 [1801l]:https://leetcode.cn/problems/number-of-orders-in-the-backlog/
 [1805l]:https://leetcode.cn/problems/number-of-different-integers-in-a-string/

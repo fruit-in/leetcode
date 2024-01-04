@@ -959,6 +959,7 @@
 [1791][1791l]|[Find Center of Star Graph][1791]                                                     |![rb]&nbsp;&nbsp;![rs]
 [1792][1792l]|[Maximum Average Pass Ratio][1792]                                                    |![py]
 [1796][1796l]|[Second Largest Digit in a String][1796]                                              |![rs]
+[1797][1797l]|[Design Authentication Manager][1797]                                                 |![py]
 [1800][1800l]|[Maximum Ascending Subarray Sum][1800]                                                |![rb]&nbsp;&nbsp;![rs]
 [1801][1801l]|[Number of Orders in the Backlog][1801]                                               |![rs]
 [1805][1805l]|[Number of Different Integers in a String][1805]                                      |![rs]
@@ -2287,6 +2288,7 @@
 [1791]:Problemset/1791-Find%20Center%20of%20Star%20Graph/README.md#1791-find-center-of-star-graph
 [1792]:Problemset/1792-Maximum%20Average%20Pass%20Ratio/README.md#1792-maximum-average-pass-ratio
 [1796]:Problemset/1796-Second%20Largest%20Digit%20in%20a%20String/README.md#1796-second-largest-digit-in-a-string
+[1797]:Problemset/1797-Design%20Authentication%20Manager/README.md#1797-design-authentication-manager
 [1800]:Problemset/1800-Maximum%20Ascending%20Subarray%20Sum/README.md#1800-maximum-ascending-subarray-sum
 [1801]:Problemset/1801-Number%20of%20Orders%20in%20the%20Backlog/README.md#1801-number-of-orders-in-the-backlog
 [1805]:Problemset/1805-Number%20of%20Different%20Integers%20in%20a%20String/README.md#1805-number-of-different-integers-in-a-string
@@ -3618,6 +3620,7 @@
 [1791l]:https://leetcode.com/problems/find-center-of-star-graph/
 [1792l]:https://leetcode.com/problems/maximum-average-pass-ratio/
 [1796l]:https://leetcode.com/problems/second-largest-digit-in-a-string/
+[1797l]:https://leetcode.com/problems/design-authentication-manager/
 [1800l]:https://leetcode.com/problems/maximum-ascending-subarray-sum/
 [1801l]:https://leetcode.com/problems/number-of-orders-in-the-backlog/
 [1805l]:https://leetcode.com/problems/number-of-different-integers-in-a-string/
