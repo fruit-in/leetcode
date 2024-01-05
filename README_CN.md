@@ -429,6 +429,7 @@
 [763][763l]  |[划分字母区间][763]                                       |![rs]
 [764][764l]  |[最大加号标志][764]                                       |![rs]
 [766][766l]  |[托普利茨矩阵][766]                                       |![rs]
+[767][767l]  |[重构字符串][767]                                         |![rs]
 [769][769l]  |[最多能完成排序的块][769]                                 |![rb]&nbsp;&nbsp;![rs]
 [771][771l]  |[宝石与石头][771]                                         |![rs]
 [773][773l]  |[滑动谜题][773]                                           |![rs]
@@ -1758,6 +1759,7 @@
 [763]:Problemset/0763-Partition%20Labels/README_CN.md#763-划分字母区间
 [764]:Problemset/0764-Largest%20Plus%20Sign/README_CN.md#764-最大加号标志
 [766]:Problemset/0766-Toeplitz%20Matrix/README_CN.md#766-托普利茨矩阵
+[767]:Problemset/0767-Reorganize%20String/README_CN.md#767-重构字符串
 [769]:Problemset/0769-Max%20Chunks%20To%20Make%20Sorted/README_CN.md#769-最多能完成排序的块
 [771]:Problemset/0771-Jewels%20and%20Stones/README_CN.md#771-宝石与石头
 [773]:Problemset/0773-Sliding%20Puzzle/README_CN.md#773-滑动谜题
@@ -3090,6 +3092,7 @@
 [763l]:https://leetcode.cn/problems/partition-labels/
 [764l]:https://leetcode.cn/problems/largest-plus-sign/
 [766l]:https://leetcode.cn/problems/toeplitz-matrix/
+[767l]:https://leetcode.cn/problems/reorganize-string/
 [769l]:https://leetcode.cn/problems/max-chunks-to-make-sorted/
 [771l]:https://leetcode.cn/problems/jewels-and-stones/
 [773l]:https://leetcode.cn/problems/sliding-puzzle/
