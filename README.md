@@ -68,6 +68,7 @@
 [81][81l]    |[Search in Rotated Sorted Array II][81]                                               |![rs]
 [82][82l]    |[Remove Duplicates from Sorted List II][82]                                           |![rb]
 [83][83l]    |[Remove Duplicates from Sorted List][83]                                              |![py]
+[85][85l]    |[Maximal Rectangle][85]                                                               |![rs]
 [86][86l]    |[Partition List][86]                                                                  |![py]
 [88][88l]    |[Merge Sorted Array][88]                                                              |![py]&nbsp;&nbsp;![rb]
 [89][89l]    |[Gray Code][89]                                                                       |![rs]
@@ -1399,6 +1400,7 @@
 [81]:Problemset/0081-Search%20in%20Rotated%20Sorted%20Array%20II/README.md#81-search-in-rotated-sorted-array-ii
 [82]:Problemset/0082-Remove%20Duplicates%20from%20Sorted%20List%20II/README.md#82-remove-duplicates-from-sorted-list-ii
 [83]:Problemset/0083-Remove%20Duplicates%20from%20Sorted%20List/README.md#83-remove-duplicates-from-sorted-list
+[85]:Problemset/0085-Maximal%20Rectangle/README.md#85-maximal-rectangle
 [86]:Problemset/0086-Partition%20List/README.md#86-partition-list
 [88]:Problemset/0088-Merge%20Sorted%20Array/README.md#88-merge-sorted-array
 [89]:Problemset/0089-Gray%20Code/README.md#89-gray-code
@@ -2723,6 +2725,7 @@
 [81l]:https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 [82l]:https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 [83l]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+[85l]:https://leetcode.com/problems/maximal-rectangle/
 [84l]:https://leetcode.com/problems/largest-rectangle-in-histogram/
 [86l]:https://leetcode.com/problems/partition-list/
 [88l]:https://leetcode.com/problems/merge-sorted-array/
