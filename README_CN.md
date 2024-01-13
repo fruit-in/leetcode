@@ -570,6 +570,7 @@
 [984][984l]  |[不含 AAA 或 BBB 的字符串][984]                           |![rb]
 [985][985l]  |[查询后的偶数和][985]                                     |![py]
 [986][986l]  |[区间列表的交集][986]                                     |![rb]&nbsp;&nbsp;![rs]
+[987][987l]  |[二叉树的垂序遍历][987]                                   |![py]
 [988][988l]  |[从叶结点开始的最小字符串][988]                           |![py]
 [989][989l]  |[数组形式的整数加法][989]                                 |![py]
 [990][990l]  |[等式方程的可满足性][990]                                 |![rs]
@@ -1908,6 +1909,7 @@
 [984]:Problemset/0984-String%20Without%20AAA%20or%20BBB/README_CN.md#984-不含-aaa-或-bbb-的字符串
 [985]:Problemset/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README_CN.md#985-查询后的偶数和
 [986]:Problemset/0986-Interval%20List%20Intersections/README_CN.md#986-区间列表的交集
+[987]:Problemset/0987-Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree/README_CN.md#987-二叉树的垂序遍历
 [988]:Problemset/0988-Smallest%20String%20Starting%20From%20Leaf/README_CN.md#988-从叶结点开始的最小字符串
 [989]:Problemset/0989-Add%20to%20Array-Form%20of%20Interger/README_CN.md#989-数组形式的整数加法
 [990]:Problemset/0990-Satisfiability%20of%20Equality%20Equations/README_CN.md#990-等式方程的可满足性
@@ -3249,6 +3251,7 @@
 [984l]:https://leetcode.cn/problems/string-without-aaa-or-bbb/
 [985l]:https://leetcode.cn/problems/sum-of-even-numbers-after-queries/
 [986l]:https://leetcode.cn/problems/interval-list-intersections/
+[987l]:https://leetcode.cn/problems/vertical-order-traversal-of-a-binary-tree/
 [988l]:https://leetcode.cn/problems/smallest-string-starting-from-leaf/
 [989l]:https://leetcode.cn/problems/add-to-array-form-of-interger/
 [990l]:https://leetcode.cn/problems/satisfiability-of-equality-equations/
