@@ -1168,6 +1168,7 @@
 [2224][2224l]|[转化时间需要的最少操作数][2224]                          |![py]
 [2225][2225l]|[找出输掉零场或一场比赛的玩家][2225]                      |![py]
 [2226][2226l]|[每个小孩最多能分到多少糖果][2226]                        |![rs]
+[2227][2227l]|[加密解密字符串][2227]                                    |![py]
 [2231][2231l]|[按奇偶性交换后的最大数字][2231]                          |![rs]
 [2232][2232l]|[向表达式添加括号后的最小结果][2232]                      |![py]
 [2233][2233l]|[K 次增加后的最大乘积][2233]                              |![rs]
@@ -2505,6 +2506,7 @@
 [2224]:Problemset/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README_CN.md#2224-转化时间需要的最少操作数
 [2225]:Problemset/2225-Find%20Players%20With%20Zero%20or%20One%20Losses/README_CN.md#2225-找出输掉零场或一场比赛的玩家
 [2226]:Problemset/2226-Maximum%20Candies%20Allocated%20to%20K%20Children/README_CN.md#2226-每个小孩最多能分到多少糖果
+[2227]:Problemset/2227-Encrypt%20and%20Decrypt%20Strings/README_CN.md#2227-加密解密字符串
 [2231]:Problemset/2231-Largest%20Number%20After%20Digit%20Swaps%20by%20Parity/README_CN.md#2231-按奇偶性交换后的最大数字
 [2232]:Problemset/2232-Minimize%20Result%20by%20Adding%20Parentheses%20to%20Expression/README_CN.md#2232-向表达式添加括号后的最小结果
 [2233]:Problemset/2233-Maximum%20Product%20After%20K%20Increments/README_CN.md#2233-k-次增加后的最大乘积
@@ -3845,6 +3847,7 @@
 [2224l]:https://leetcode.cn/problems/minimum-number-of-operations-to-convert-time/
 [2225l]:https://leetcode.cn/problems/find-players-with-zero-or-one-losses/
 [2226l]:https://leetcode.cn/problems/maximum-candies-allocated-to-k-children/
+[2227l]:https://leetcode.cn/problems/encrypt-and-decrypt-strings/
 [2231l]:https://leetcode.cn/problems/largest-number-after-digit-swaps-by-parity/
 [2232l]:https://leetcode.cn/problems/minimize-result-by-adding-parentheses-to-expression/
 [2233l]:https://leetcode.cn/problems/maximum-product-after-k-increments/
