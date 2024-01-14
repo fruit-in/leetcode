@@ -240,6 +240,7 @@
 [398][398l]  |[Random Pick Index][398]                                                              |![py]
 [400][400l]  |[Nth Digit][400]                                                                      |![rs]
 [401][401l]  |[Binary Watch][401]                                                                   |![py]
+[403][403l]  |[Frog Jump][403]                                                                      |![rs]
 [404][404l]  |[Sum of Left Leaves][404]                                                             |![py]
 [405][405l]  |[Convert a Number to Hexadecimal][405]                                                |![py]
 [406][406l]  |[Queue Reconstruction by Height][406]                                                 |![rs]
@@ -1579,6 +1580,7 @@
 [398]:Problemset/0398-Random%20Pick%20Index/README.md#398-random-pick-index
 [400]:Problemset/0400-Nth%20Digit/README.md#400-nth-digit
 [401]:Problemset/0401-Binary%20Watch/README.md#401-binary-watch
+[403]:Problemset/0403-Frog%20Jump/README.md#403-frog-jump
 [404]:Problemset/0404-Sum%20of%20Left%20Leaves/README.md#404-sum-of-left-leaves
 [405]:Problemset/0405-Convert%20a%20Number%20to%20Hexadecimal/README.md#405-convert-a-number-to-hexadecimal
 [406]:Problemset/0406-Queue%20Reconstruction%20by%20Height/README.md#406-queue-reconstruction-by-height
@@ -2917,6 +2919,7 @@
 [398l]:https://leetcode.com/problems/random-pick-index/
 [400l]:https://leetcode.com/problems/nth-digit/
 [401l]:https://leetcode.com/problems/binary-watch/
+[403l]:https://leetcode.com/problems/frog-jump/
 [404l]:https://leetcode.com/problems/sum-of-left-leaves/
 [405l]:https://leetcode.com/problems/convert-a-number-to-hexadecimal/
 [406l]:https://leetcode.com/problems/queue-reconstruction-by-height/
