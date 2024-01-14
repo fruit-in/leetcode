@@ -501,6 +501,7 @@
 [876][876l]  |[链表的中间结点][876]                                     |![py]
 [877][877l]  |[石子游戏][877]                                           |![rs]
 [878][878l]  |[第 N 个神奇数字][878]                                    |![py]
+[879][879l]  |[盈利计划][879]                                           |![rs]
 [880][880l]  |[索引处的解码字符串][880]                                 |![rs]
 [881][881l]  |[救生艇][881]                                             |![rb]
 [883][883l]  |[三维形体投影面积][883]                                   |![rs]
@@ -1841,6 +1842,7 @@
 [876]:Problemset/0876-Middle%20of%20the%20Linked%20List/README_CN.md#876-链表的中间结点
 [877]:Problemset/0877-Stone%20Game/README_CN.md#877-石子游戏
 [878]:Problemset/0878-Nth%20Magical%20Number/README_CN.md#878-第-n-个神奇数字
+[879]:Problemset/0879-Profitable%20Schemes/README_CN.md#879-盈利计划
 [880]:Problemset/0880-Decoded%20String%20at%20Index/README_CN.md#880-索引处的解码字符串
 [881]:Problemset/0881-Boats%20to%20Save%20People/README_CN.md#881-救生艇
 [883]:Problemset/0883-Projection%20Area%20of%203D%20Shapes/README_CN.md#883-三维形体投影面积
@@ -3184,6 +3186,7 @@
 [876l]:https://leetcode.cn/problems/middle-of-the-linked-list/
 [877l]:https://leetcode.cn/problems/stone-game/
 [878l]:https://leetcode.cn/problems/nth-magical-number/
+[879l]:https://leetcode.cn/problems/profitable-schemes/
 [880l]:https://leetcode.cn/problems/decoded-string-at-index/
 [881l]:https://leetcode.cn/problems/boats-to-save-people/
 [883l]:https://leetcode.cn/problems/projection-area-of-3d-shapes/
