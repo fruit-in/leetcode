@@ -198,6 +198,7 @@
 [304][304l]  |[Range Sum Query 2D - Immutable][304]                                                 |![rs]
 [306][306l]  |[Additive Number][306]                                                                |![rb]&nbsp;&nbsp;![rs]
 [313][313l]  |[Super Ugly Number][313]                                                              |![rs]
+[315][315l]  |[Count of Smaller Numbers After Self][315]                                            |![py]
 [316][316l]  |[Remove Duplicate Letters][316]                                                       |![rs]
 [318][318l]  |[Maximum Product of Word Lengths][318]                                                |![py]
 [319][319l]  |[Bulb Switcher][319]                                                                  |![rs]
@@ -1539,6 +1540,7 @@
 [304]:Problemset/0304-Range%20Sum%20Query%202D%20-%20Immutable/README.md#304-range-sum-query-2d---immutable
 [306]:Problemset/0306-Additive%20Number/README.md#306-additive-number
 [313]:Problemset/0313-Super%20Ugly%20Number/README.md#313-super-ugly-number
+[315]:Problemset/0315-Count%20of%20Smaller%20Numbers%20After%20Self/README.md#315-count-of-smaller-numbers-after-self
 [316]:Problemset/0316-Remove%20Duplicate%20Letters/README.md#316-remove-duplicate-letters
 [318]:Problemset/0318-Maximum%20Product%20of%20Word%20Lengths/README.md#318-maximum-product-of-word-lengths
 [319]:Problemset/0319-Bulb%20Switcher/README.md#319-bulb-switcher
@@ -2878,6 +2880,7 @@
 [304l]:https://leetcode.com/problems/range-sum-query-2d-immutable/
 [306l]:https://leetcode.com/problems/additive-number/
 [313l]:https://leetcode.com/problems/super-ugly-number/
+[315l]:https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 [316l]:https://leetcode.com/problems/remove-duplicate-letters/
 [318l]:https://leetcode.com/problems/maximum-product-of-word-lengths/
 [319l]:https://leetcode.com/problems/bulb-switcher/

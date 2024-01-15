@@ -198,6 +198,7 @@
 [304][304l]  |[二维区域和检索 - 矩阵不可变][304]                        |![rs]
 [306][306l]  |[累加数][306]                                             |![rb]&nbsp;&nbsp;![rs]
 [313][313l]  |[超级丑数][313]                                           |![rs]
+[315][315l]  |[计算右侧小于当前元素的个数][315]                         |![py]
 [316][316l]  |[去除重复字母][316]                                       |![rs]
 [318][318l]  |[最大单词长度乘积][318]                                   |![py]
 [319][319l]  |[灯泡开关][319]                                           |![rs]
@@ -1539,6 +1540,7 @@
 [304]:Problemset/0304-Range%20Sum%20Query%202D%20-%20Immutable/README_CN.md#304-二维区域和检索---矩阵不可变
 [306]:Problemset/0306-Additive%20Number/README_CN.md#306-累加数
 [313]:Problemset/0313-Super%20Ugly%20Number/README_CN.md#313-超级丑数
+[315]:Problemset/0315-Count%20of%20Smaller%20Numbers%20After%20Self/README_CN.md#315-计算右侧小于当前元素的个数
 [316]:Problemset/0316-Remove%20Duplicate%20Letters/README_CN.md#316-去除重复字母
 [318]:Problemset/0318-Maximum%20Product%20of%20Word%20Lengths/README_CN.md#318-最大单词长度乘积
 [319]:Problemset/0319-Bulb%20Switcher/README_CN.md#319-灯泡开关
@@ -2878,6 +2880,7 @@
 [304l]:https://leetcode.cn/problems/range-sum-query-2d-immutable/
 [306l]:https://leetcode.cn/problems/additive-number/
 [313l]:https://leetcode.cn/problems/super-ugly-number/
+[315l]:https://leetcode.cn/problems/count-of-smaller-numbers-after-self/
 [316l]:https://leetcode.cn/problems/remove-duplicate-letters/
 [318l]:https://leetcode.cn/problems/maximum-product-of-word-lengths/
 [319l]:https://leetcode.cn/problems/bulb-switcher/
