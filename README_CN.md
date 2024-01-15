@@ -290,6 +290,7 @@
 [476][476l]  |[数字的补数][476]                                         |![rs]
 [477][477l]  |[汉明距离总和][477]                                       |![rb]&nbsp;&nbsp;![rs]
 [478][478l]  |[在圆内随机生成点][478]                                   |![rs]
+[480][480l]  |[滑动窗口中位数][480]                                     |![py]
 [481][481l]  |[神奇字符串][481]                                         |![rs]
 [482][482l]  |[密钥格式化][482]                                         |![py]
 [483][483l]  |[最小好进制][483]                                         |![py]
@@ -1632,6 +1633,7 @@
 [476]:Problemset/0476-Number%20Complement/README_CN.md#476-数字的补数
 [477]:Problemset/0477-Total%20Hamming%20Distance/README_CN.md#477-汉明距离总和
 [478]:Problemset/0478-Generate%20Random%20Point%20in%20a%20Circle/README_CN.md#478-在圆内随机生成点
+[480]:Problemset/0480-Sliding%20Window%20Median/README_CN.md#480-滑动窗口中位数
 [481]:Problemset/0481-Magical%20String/README_CN.md#481-神奇字符串
 [482]:Problemset/0482-License%20Key%20Formatting/README_CN.md#482-密钥格式化
 [483]:Problemset/0483-Smallest%20Good%20Base/README_CN.md#483-最小好进制
@@ -2974,6 +2976,7 @@
 [476l]:https://leetcode.cn/problems/number-complement/
 [477l]:https://leetcode.cn/problems/total-hamming-distance/
 [478l]:https://leetcode.cn/problems/generate-random-point-in-a-circle/
+[480l]:https://leetcode.cn/problems/sliding-window-median/
 [481l]:https://leetcode.cn/problems/magical-string/
 [482l]:https://leetcode.cn/problems/license-key-formatting/
 [483l]:https://leetcode.cn/problems/smallest-good-base/
