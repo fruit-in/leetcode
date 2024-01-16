@@ -30,6 +30,7 @@
 [28][28l]    |[Implement strStr()][28]                                                              |![py]
 [31][31l]    |[Next Permutation][31]                                                                |![rs]
 [33][33l]    |[Search in Rotated Sorted Array][33]                                                  |![rs]
+[34][34l]    |[Find First and Last Position of Element in Sorted Array][34]                         |![rs]
 [35][35l]    |[Search Insert Position][35]                                                          |![py]
 [36][36l]    |[Valid Sudoku][36]                                                                    |![rs]
 [38][38l]    |[Count and Say][38]                                                                   |![py]&nbsp;&nbsp;![rb]
@@ -1373,6 +1374,7 @@
 [28]:Problemset/0028-Implement%20strStr\(\)/README.md#28-implement-strstr
 [31]:Problemset/0031-Next%20Permutation/README.md#31-next-permutation
 [33]:Problemset/0033-Search%20in%20Rotated%20Sorted%20Array/README.md#33-search-in-rotated-sorted-array
+[34]:Problemset/0034-Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/README.md#34-find-first-and-last-position-of-element-in-sorted-array
 [35]:Problemset/0035-Search%20Insert%20Position/README.md#35-search-insert-position
 [36]:Problemset/0036-Valid%20Sudoku/README.md#36-valid-sudoku
 [38]:Problemset/0038-Count%20and%20Say/README.md#38-count-and-say
@@ -2708,6 +2710,7 @@
 [28l]:https://leetcode.com/problems/implement-strstr/
 [31l]:https://leetcode.com/problems/next-permutation/
 [33l]:https://leetcode.com/problems/search-in-rotated-sorted-array/
+[34l]:https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [35l]:https://leetcode.com/problems/search-insert-position/
 [36l]:https://leetcode.com/problems/valid-sudoku/
 [37l]:https://leetcode.com/problems/sudoku-solver/
