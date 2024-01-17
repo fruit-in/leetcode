@@ -280,6 +280,7 @@
 [453][453l]  |[最小移动次数使数组元素相等][453]                         |![rs]
 [454][454l]  |[四数相加 II][454]                                        |![rs]
 [455][455l]  |[分发饼干][455]                                           |![rb]&nbsp;&nbsp;![rs]
+[456][456l]  |[132 模式][456]                                           |![rs]
 [459][459l]  |[重复的子字符串][459]                                     |![py]
 [461][461l]  |[汉明距离][461]                                           |![rs]
 [462][462l]  |[最少移动次数使数组元素相等 II][462]                      |![rs]
@@ -1625,6 +1626,7 @@
 [453]:Problemset/0453-Minimum%20Moves%20to%20Equal%20Array%20Elements/README_CN.md#453-最小移动次数使数组元素相等
 [454]:Problemset/0454-4Sum%20II/README_CN.md#454-四数相加-ii
 [455]:Problemset/0455-Assign%20Cookies/README_CN.md#455-分发饼干
+[456]:Problemset/0456-132%20Pattern/README_CN.md#456-132-模式
 [459]:Problemset/0459-Repeated%20Substring%20Pattern/README_CN.md#459-重复的子字符串
 [461]:Problemset/0461-Hamming%20Distance/README_CN.md#461-汉明距离
 [462]:Problemset/0462-Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/README_CN.md#462-最少移动次数使数组元素相等-ii
@@ -2970,6 +2972,7 @@
 [453l]:https://leetcode.cn/problems/minimum-moves-to-equal-array-elements/
 [454l]:https://leetcode.cn/problems/4sum-ii/
 [455l]:https://leetcode.cn/problems/assign-cookies/
+[456l]:https://leetcode.cn/problems/132-pattern/
 [459l]:https://leetcode.cn/problems/repeated-substring-pattern/
 [461l]:https://leetcode.cn/problems/hamming-distance/
 [462l]:https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/

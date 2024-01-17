@@ -280,6 +280,7 @@
 [453][453l]  |[Minimum Moves to Equal Array Elements][453]                                          |![rs]
 [454][454l]  |[4Sum II][454]                                                                        |![rs]
 [455][455l]  |[Assign Cookies][455]                                                                 |![rb]&nbsp;&nbsp;![rs]
+[456][456l]  |[132 Pattern][456]                                                                    |![rs]
 [459][459l]  |[Repeated Substring Pattern][459]                                                     |![py]
 [461][461l]  |[Hamming Distance][461]                                                               |![rs]
 [462][462l]  |[Minimum Moves to Equal Array Elements II][462]                                       |![rs]
@@ -1625,6 +1626,7 @@
 [453]:Problemset/0453-Minimum%20Moves%20to%20Equal%20Array%20Elements/README.md#453-minimum-moves-to-equal-array-elements
 [454]:Problemset/0454-4Sum%20II/README.md#454-4sum-ii
 [455]:Problemset/0455-Assign%20Cookies/README.md#455-assign-cookies
+[456]:Problemset/0456-132%20Pattern/README.md#456-132-pattern
 [459]:Problemset/0459-Repeated%20Substring%20Pattern/README.md#459-repeated-substring-pattern
 [461]:Problemset/0461-Hamming%20Distance/README.md#461-hamming-distance
 [462]:Problemset/0462-Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/README.md#462-minimum-moves-to-equal-array-elements-ii
@@ -2970,6 +2972,7 @@
 [453l]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 [454l]:https://leetcode.com/problems/4sum-ii/
 [455l]:https://leetcode.com/problems/assign-cookies/
+[456l]:https://leetcode.com/problems/132-pattern/
 [459l]:https://leetcode.com/problems/repeated-substring-pattern/
 [461l]:https://leetcode.com/problems/hamming-distance/
 [462l]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
