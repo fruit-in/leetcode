@@ -321,6 +321,7 @@
 [521][521l]  |[最长特殊序列 Ⅰ][521]                                     |![rb]&nbsp;&nbsp;![rs]
 [524][524l]  |[通过删除字母匹配到字典里最长单词][524]                   |![py]
 [525][525l]  |[连续数组][525]                                           |![rb]&nbsp;&nbsp;![rs]
+[526][526l]  |[优美的排列][526]                                         |![rs]
 [528][528l]  |[按权重随机选择][528]                                     |![rs]
 [529][529l]  |[扫雷游戏][529]                                           |![rs]
 [530][530l]  |[二叉搜索树的最小绝对差][530]                             |![py]
@@ -1667,6 +1668,7 @@
 [521]:Problemset/0521-Longest%20Uncommon%20Subsequence%20I/README_CN.md#521-最长特殊序列-i
 [524]:Problemset/0524-Longest%20Word%20in%20Dictionary%20through%20Deleting/README_CN.md#524-通过删除字母匹配到字典里最长单词
 [525]:Problemset/0525-Contiguous%20Array/README_CN.md#525-连续数组
+[526]:Problemset/0526-Beautiful%20Arrangement/README_CN.md#526-优美的排列
 [528]:Problemset/0528-Random%20Pick%20with%20Weight/README_CN.md#528-按权重随机选择
 [529]:Problemset/0529-Minesweeper/README_CN.md#529-扫雷游戏
 [530]:Problemset/0530-Minimum%20Absolute%20Difference%20in%20BST/README_CN.md#530-二叉搜索树的最小绝对差
@@ -3013,6 +3015,7 @@
 [521l]:https://leetcode.cn/problems/longest-uncommon-subsequence-i/
 [524l]:https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting/
 [525l]:https://leetcode.cn/problems/contiguous-array/
+[526l]:https://leetcode.cn/problems/beautiful-arrangement/
 [528l]:https://leetcode.cn/problems/random-pick-with-weight/
 [529l]:https://leetcode.cn/problems/minesweeper/
 [530l]:https://leetcode.cn/problems/minimum-absolute-difference-in-bst/

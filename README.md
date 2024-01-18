@@ -321,6 +321,7 @@
 [521][521l]  |[Longest Uncommon Subsequence I][521]                                                 |![rb]&nbsp;&nbsp;![rs]
 [524][524l]  |[Longest Word in Dictionary through Deleting][524]                                    |![py]
 [525][525l]  |[Contiguous Array][525]                                                               |![rb]&nbsp;&nbsp;![rs]
+[526][526l]  |[Beautiful Arrangement][526]                                                          |![rs]
 [528][528l]  |[Random Pick with Weight][528]                                                        |![rs]
 [529][529l]  |[Minesweeper][529]                                                                    |![rs]
 [530][530l]  |[Minimum Absolute Difference in BST][530]                                             |![py]
@@ -1667,6 +1668,7 @@
 [521]:Problemset/0521-Longest%20Uncommon%20Subsequence%20I/README.md#521-longest-uncommon-subsequence-i
 [524]:Problemset/0524-Longest%20Word%20in%20Dictionary%20through%20Deleting/README.md#524-longest-word-in-dictionary-through-deleting
 [525]:Problemset/0525-Contiguous%20Array/README.md#525-contiguous-array
+[526]:Problemset/0526-Beautiful%20Arrangement/README.md#526-beautiful-arrangement
 [528]:Problemset/0528-Random%20Pick%20with%20Weight/README.md#528-random-pick-with-weight
 [529]:Problemset/0529-Minesweeper/README.md#529-minesweeper
 [530]:Problemset/0530-Minimum%20Absolute%20Difference%20in%20BST/README.md#530-minimum-absolute-difference-in-bst
@@ -3013,6 +3015,7 @@
 [521l]:https://leetcode.com/problems/longest-uncommon-subsequence-i/
 [524l]:https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 [525l]:https://leetcode.com/problems/contiguous-array/
+[526l]:https://leetcode.com/problems/beautiful-arrangement/
 [528l]:https://leetcode.com/problems/random-pick-with-weight/
 [529l]:https://leetcode.com/problems/minesweeper/
 [530l]:https://leetcode.com/problems/minimum-absolute-difference-in-bst/
