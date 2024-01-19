@@ -756,6 +756,7 @@
 [1347][1347l]|[Minimum Number of Steps to Make Two Strings Anagram][1347]                           |![rs]
 [1351][1351l]|[Count Negative Numbers in a Sorted Matrix][1351]                                     |![rs]
 [1352][1352l]|[Product of the Last K Numbers][1352]                                                 |![rs]
+[1353][1353l]|[Maximum Number of Events That Can Be Attended][1353]                                 |![rs]
 [1356][1356l]|[Sort Integers by The Number of 1 Bits][1356]                                         |![rs]
 [1357][1357l]|[Apply Discount Every n Orders][1357]                                                 |![rs]
 [1358][1358l]|[Number of Substrings Containing All Three Characters][1358]                          |![rs]
@@ -2103,6 +2104,7 @@
 [1347]:Problemset/1347-Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram/README.md#1347-minimum-number-of-steps-to-make-two-strings-anagram
 [1351]:Problemset/1351-Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/README.md#1351-count-negative-numbers-in-a-sorted-matrix
 [1352]:Problemset/1352-Product%20of%20the%20Last%20K%20Numbers/README.md#1352-product-of-the-last-k-numbers
+[1353]:Problemset/1353-Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended/README.md#1353-maximum-number-of-events-that-can-be-attended
 [1356]:Problemset/1356-Sort%20Integers%20by%20The%20Number%20of%201%20Bits/README.md#1356-sort-integers-by-the-number-of-1-bits
 [1357]:Problemset/1357-Apply%20Discount%20Every%20n%20Orders/README.md#1357-apply-discount-every-n-orders
 [1358]:Problemset/1358-Number%20of%20Substrings%20Containing%20All%20Three%20Characters/README.md#1358-number-of-substrings-containing-all-three-characters
@@ -3453,6 +3455,7 @@
 [1347l]:https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 [1351l]:https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1352l]:https://leetcode.com/problems/product-of-the-last-k-numbers/
+[1353l]:https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 [1356l]:https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 [1357l]:https://leetcode.com/problems/apply-discount-every-n-orders/
 [1358l]:https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/

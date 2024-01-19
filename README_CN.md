@@ -756,6 +756,7 @@
 [1347][1347l]|[制造字母异位词的最小步骤数][1347]                        |![rs]
 [1351][1351l]|[统计有序矩阵中的负数][1351]                              |![rs]
 [1352][1352l]|[最后 K 个数的乘积][1352]                                 |![rs]
+[1353][1353l]|[最多可以参加的会议数目][1353]                            |![rs]
 [1356][1356l]|[根据数字二进制下 1 的数目排序][1356]                     |![rs]
 [1357][1357l]|[每隔 n 个顾客打折][1357]                                 |![rs]
 [1358][1358l]|[包含所有三种字符的子字符串数目][1358]                    |![rs]
@@ -2103,6 +2104,7 @@
 [1347]:Problemset/1347-Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram/README_CN.md#1347-制造字母异位词的最小步骤数
 [1351]:Problemset/1351-Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/README_CN.md#1351-统计有序矩阵中的负数
 [1352]:Problemset/1352-Product%20of%20the%20Last%20K%20Numbers/README_CN.md#1352-最后-K-个数的乘积
+[1353]:Problemset/1353-Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended/README_CN.md#1353-最多可以参加的会议数目
 [1356]:Problemset/1356-Sort%20Integers%20by%20The%20Number%20of%201%20Bits/README_CN.md#1356-根据数字二进制下-1-的数目排序
 [1357]:Problemset/1357-Apply%20Discount%20Every%20n%20Orders/README_CN.md#1357-每隔-n-个顾客打折
 [1358]:Problemset/1358-Number%20of%20Substrings%20Containing%20All%20Three%20Characters/README_CN.md#1358-包含所有三种字符的子字符串数目
@@ -3453,6 +3455,7 @@
 [1347l]:https://leetcode.cn/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 [1351l]:https://leetcode.cn/problems/count-negative-numbers-in-a-sorted-matrix/
 [1352l]:https://leetcode.cn/problems/product-of-the-last-k-numbers/
+[1353l]:https://leetcode.cn/problems/maximum-number-of-events-that-can-be-attended/
 [1356l]:https://leetcode.cn/problems/sort-integers-by-the-number-of-1-bits/
 [1357l]:https://leetcode.cn/problems/apply-discount-every-n-orders/
 [1358l]:https://leetcode.cn/problems/number-of-substrings-containing-all-three-characters/
