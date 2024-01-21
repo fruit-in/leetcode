@@ -1140,6 +1140,7 @@
 [2148][2148l]|[Count Elements With Strictly Smaller and Greater Elements][2148]                     |![rs]
 [2149][2149l]|[Rearrange Array Elements by Sign][2149]                                              |![rs]
 [2150][2150l]|[Find All Lonely Numbers in the Array][2150]                                          |![rs]
+[2151][2151l]|[Maximum Good People Based on Statements][2151]                                       |![rs]
 [2154][2154l]|[Keep Multiplying Found Values by Two][2154]                                          |![rs]
 [2155][2155l]|[All Divisions With the Highest Score of a Binary Array][2155]                        |![rs]
 [2160][2160l]|[Minimum Sum of Four Digit Number After Splitting Digits][2160]                       |![rs]
@@ -2489,6 +2490,7 @@
 [2148]:Problemset/2148-Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements/README.md#2148-count-elements-with-strictly-smaller-and-greater-elements
 [2149]:Problemset/2149-Rearrange%20Array%20Elements%20by%20Sign/README.md#2149-rearrange-array-elements-by-sign
 [2150]:Problemset/2150-Find%20All%20Lonely%20Numbers%20in%20the%20Array/README.md#2150-find-all-lonely-numbers-in-the-array
+[2151]:Problemset/2151-Maximum%20Good%20People%20Based%20on%20Statements/README.md#2151-maximum-good-people-based-on-statements
 [2154]:Problemset/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README.md#2154-keep-multiplying-found-values-by-two
 [2155]:Problemset/2155-All%20Divisions%20With%20the%20Highest%20Score%20of%20a%20Binary%20Array/README.md#2155-all-divisions-with-the-highest-score-of-a-binary-array
 [2160]:Problemset/2160-Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/README.md#2160-minimum-sum-of-four-digit-number-after-splitting-digits
@@ -3841,6 +3843,7 @@
 [2148l]:https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/
 [2149l]:https://leetcode.com/problems/rearrange-array-elements-by-sign/
 [2150l]:https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
+[2151l]:https://leetcode.com/problems/maximum-good-people-based-on-statements/
 [2154l]:https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 [2155l]:https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/
 [2160l]:https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/

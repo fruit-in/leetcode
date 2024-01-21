@@ -1140,6 +1140,7 @@
 [2148][2148l]|[元素计数][2148]                                          |![rs]
 [2149][2149l]|[按符号重排数组][2149]                                    |![rs]
 [2150][2150l]|[找出数组中的所有孤独数字][2150]                          |![rs]
+[2151][2151l]|[基于陈述统计最多好人数][2151]                            |![rs]
 [2154][2154l]|[将找到的值乘以 2][2154]                                  |![rs]
 [2155][2155l]|[分组得分最高的所有下标][2155]                            |![rs]
 [2160][2160l]|[拆分数位后四位数字的最小和][2160]                        |![rs]
@@ -2489,6 +2490,7 @@
 [2148]:Problemset/2148-Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements/README_CN.md#2148-元素计数
 [2149]:Problemset/2149-Rearrange%20Array%20Elements%20by%20Sign/README_CN.md#2149-按符号重排数组
 [2150]:Problemset/2150-Find%20All%20Lonely%20Numbers%20in%20the%20Array/README_CN.md#2150-找出数组中的所有孤独数字
+[2151]:Problemset/2151-Maximum%20Good%20People%20Based%20on%20Statements/README_CN.md#2151-基于陈述统计最多好人数
 [2154]:Problemset/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README_CN.md#2154-将找到的值乘以-2
 [2155]:Problemset/2155-All%20Divisions%20With%20the%20Highest%20Score%20of%20a%20Binary%20Array/README_CN.md#2155-分组得分最高的所有下标
 [2160]:Problemset/2160-Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/README_CN.md#2160-拆分数位后四位数字的最小和
@@ -3841,6 +3843,7 @@
 [2148l]:https://leetcode.cn/problems/count-elements-with-strictly-smaller-and-greater-elements/
 [2149l]:https://leetcode.cn/problems/rearrange-array-elements-by-sign/
 [2150l]:https://leetcode.cn/problems/find-all-lonely-numbers-in-the-array/
+[2151l]:https://leetcode.cn/problems/maximum-good-people-based-on-statements/
 [2154l]:https://leetcode.cn/problems/keep-multiplying-found-values-by-two/
 [2155l]:https://leetcode.cn/problems/all-divisions-with-the-highest-score-of-a-binary-array/
 [2160l]:https://leetcode.cn/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
