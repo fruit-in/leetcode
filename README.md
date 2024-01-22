@@ -812,6 +812,7 @@
 [1433][1433l]|[Check If a String Can Break Another String][1433]                                    |![rs]
 [1436][1436l]|[Destination City][1436]                                                              |![rs]
 [1437][1437l]|[Check If All 1's Are at Least Length K Places Away][1437]                            |![rs]
+[1438][1438l]|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit][1438]    |![rs]
 [1441][1441l]|[Build an Array With Stack Operations][1441]                                          |![rs]
 [1446][1446l]|[Consecutive Characters][1446]                                                        |![rs]
 [1447][1447l]|[Simplified Fractions][1447]                                                          |![py]&nbsp;&nbsp;![rb]
@@ -2162,6 +2163,7 @@
 [1433]:Problemset/1433-Check%20If%20a%20String%20Can%20Break%20Another%20String/README.md#1433-check-if-a-string-can-break-another-string
 [1436]:Problemset/1436-Destination%20City/README.md#1436-destination-city
 [1437]:Problemset/1437-Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away/README.md#1437-check-if-all-1s-are-at-least-length-k-places-away
+[1438]:Problemset/1438-Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/README.md#1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
 [1441]:Problemset/1441-Build%20an%20Array%20With%20Stack%20Operations/README.md#1441-build-an-array-with-stack-operations
 [1446]:Problemset/1446-Consecutive%20Characters/README.md#1446-consecutive-characters
 [1447]:Problemset/1447-Simplified%20Fractions/README.md#1447-simplified-fractions
@@ -3515,6 +3517,7 @@
 [1433l]:https://leetcode.com/problems/check-if-a-string-can-break-another-string/
 [1436l]:https://leetcode.com/problems/destination-city/
 [1437l]:https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
+[1438l]:https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 [1441l]:https://leetcode.com/problems/build-an-array-with-stack-operations/
 [1446l]:https://leetcode.com/problems/consecutive-characters/
 [1447l]:https://leetcode.com/problems/simplified-fractions/
