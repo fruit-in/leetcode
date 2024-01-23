@@ -1204,6 +1204,7 @@
 [2266][2266l]|[Count Number of Texts][2266]                                                         |![py]
 [2269][2269l]|[Find the K-Beauty of a Number][2269]                                                 |![py]
 [2270][2270l]|[Number of Ways to Split Array][2270]                                                 |![rs]
+[2271][2271l]|[Maximum White Tiles Covered by a Carpet][2271]                                       |![rs]
 [2273][2273l]|[Find Resultant Array After Removing Anagrams][2273]                                  |![py]
 [2274][2274l]|[Maximum Consecutive Floors Without Special Floors][2274]                             |![rs]
 [2275][2275l]|[Largest Combination With Bitwise AND Greater Than Zero][2275]                        |![rs]
@@ -2555,6 +2556,7 @@
 [2266]:Problemset/2266-Count%20Number%20of%20Texts/README.md#2266-count-number-of-texts
 [2269]:Problemset/2269-Find%20the%20K-Beauty%20of%20a%20Number/README.md#2269-find-the-k-beauty-of-a-number
 [2270]:Problemset/2270-Number%20of%20Ways%20to%20Split%20Array/README.md#2270-number-of-ways-to-split-array
+[2271]:Problemset/2271-Maximum%20White%20Tiles%20Covered%20by%20a%20Carpet/README.md#2271-maximum-white-tiles-covered-by-a-carpet
 [2273]:Problemset/2273-Find%20Resultant%20Array%20After%20Removing%20Anagrams/README.md#2273-find-resultant-array-after-removing-anagrams
 [2274]:Problemset/2274-Maximum%20Consecutive%20Floors%20Without%20Special%20Floors/README.md#2274-maximum-consecutive-floors-without-special-floors
 [2275]:Problemset/2275-Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero/README.md#2275-largest-combination-with-bitwise-and-greater-than-zero
@@ -3909,6 +3911,7 @@
 [2266l]:https://leetcode.com/problems/count-number-of-texts/
 [2269l]:https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 [2270l]:https://leetcode.com/problems/number-of-ways-to-split-array/
+[2271l]:https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/
 [2273l]:https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 [2274l]:https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/
 [2275l]:https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
