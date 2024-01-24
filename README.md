@@ -652,6 +652,7 @@
 [1122][1122l]|[Relative Sort Array][1122]                                                           |![rs]
 [1123][1123l]|[Lowest Common Ancestor of Deepest Leaves][1123]                                      |![py]
 [1128][1128l]|[Number of Equivalent Domino Pairs][1128]                                             |![rs]
+[1129][1129l]|[Shortest Path with Alternating Colors][1129]                                         |![rs]
 [1131][1131l]|[Maximum of Absolute Value Expression][1131]                                          |![rs]
 [1137][1137l]|[N-th Tribonacci Number][1137]                                                        |![rs]
 [1138][1138l]|[Alphabet Board Path][1138]                                                           |![rb]&nbsp;&nbsp;![rs]
@@ -2004,6 +2005,7 @@
 [1122]:Problemset/1122-Relative%20Sort%20Array/README.md#1122-relative-sort-array
 [1123]:Problemset/1123-Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/README.md#1123-lowest-common-ancestor-of-deepest-leaves
 [1128]:Problemset/1128-Number%20of%20Equivalent%20Domino%20Pairs/README.md#1128-number-of-equivalent-domino-pairs
+[1129]:Problemset/1129-Shortest%20Path%20with%20Alternating%20Colors/README.md#1129-shortest-path-with-alternating-colors
 [1131]:Problemset/1131-Maximum%20of%20Absolute%20Value%20Expression/README.md#1131-maximum-of-absolute-value-expression
 [1137]:Problemset/1137-N-th%20Tribonacci%20Number/README.md#1137-n-th-tribonacci-number
 [1138]:Problemset/1138-Alphabet%20Board%20Path/README.md#1138-alphabet-board-path
@@ -3359,6 +3361,7 @@
 [1122l]:https://leetcode.com/problems/relative-sort-array/
 [1123l]:https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
 [1128l]:https://leetcode.com/problems/number-of-equivalent-domino-pairs/
+[1129l]:https://leetcode.com/problems/shortest-path-with-alternating-colors/
 [1131l]:https://leetcode.com/problems/maximum-of-absolute-value-expression/
 [1137l]:https://leetcode.com/problems/n-th-tribonacci-number/
 [1138l]:https://leetcode.com/problems/alphabet-board-path/
