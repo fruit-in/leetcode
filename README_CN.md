@@ -374,6 +374,7 @@
 [633][633l]  |[平方数之和][633]                                         |![rs]
 [636][636l]  |[函数的独占时间][636]                                     |![rs]
 [637][637l]  |[二叉树的层平均值][637]                                   |![py]
+[640][640l]  |[求解方程][640]                                           |![rs]
 [643][643l]  |[子数组最大平均数 I][643]                                 |![rs]
 [645][645l]  |[错误的集合][645]                                         |![rs]
 [647][647l]  |[回文子串][647]                                           |![rb]
@@ -1727,6 +1728,7 @@
 [633]:Problemset/0633-Sum%20of%20Square%20Numbers/README_CN.md#633-平方数之和
 [636]:Problemset/0636-Exclusive%20Time%20of%20Functions/README_CN.md#636-函数的独占时间
 [637]:Problemset/0637-Average%20of%20Levels%20in%20Binary%20Tree/README_CN.md#637-二叉树的层平均值
+[640]:Problemset/0640-Solve%20the%20Equation/README_CN.md#640-求解方程
 [643]:Problemset/0643-Maximum%20Average%20Subarray%20I/README_CN.md#643-子数组最大平均数-i
 [645]:Problemset/0645-Set%20Mismatch/README_CN.md#645-错误的集合
 [647]:Problemset/0647-Palindromic%20Substrings/README_CN.md#647-回文子串
@@ -3080,6 +3082,7 @@
 [633l]:https://leetcode.cn/problems/sum-of-square-numbers/
 [636l]:https://leetcode.cn/problems/exclusive-time-of-functions/
 [637l]:https://leetcode.cn/problems/average-of-levels-in-binary-tree/
+[640l]:https://leetcode.cn/problems/solve-the-equation/
 [643l]:https://leetcode.cn/problems/maximum-average-subarray-i/
 [645l]:https://leetcode.cn/problems/set-mismatch/
 [647l]:https://leetcode.cn/problems/palindromic-substrings/
