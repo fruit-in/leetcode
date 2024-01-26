@@ -690,6 +690,7 @@
 [1222][1222l]|[可以攻击国王的皇后][1222]                                |![rs]
 [1223][1223l]|[掷骰子模拟][1223]                                        |![rs]
 [1224][1224l]|[最大相等频率][1224]                                      |![rs]
+[1227][1227l]|[飞机座位分配概率][1227]                                  |![rs]
 [1232][1232l]|[缀点成线][1232]                                          |![rs]
 [1233][1233l]|[删除子文件夹][1233]                                      |![rs]
 [1234][1234l]|[替换子串得到平衡字符串][1234]                            |![rb]&nbsp;&nbsp;![rs]
@@ -2044,6 +2045,7 @@
 [1222]:Problemset/1222-Queens%20That%20Can%20Attack%20the%20King/README_CN.md#1222-可以攻击国王的皇后
 [1223]:Problemset/1223-Dice%20Roll%20Simulation/README_CN.md#1223-掷骰子模拟
 [1224]:Problemset/1224-Maximum%20Equal%20Frequency/README_CN.md#1224-最大相等频率
+[1227]:Problemset/1227-Airplane%20Seat%20Assignment%20Probability/README_CN.md#1227-飞机座位分配概率
 [1232]:Problemset/1232-Check%20If%20It%20Is%20a%20Straight%20Line/README_CN.md#1232-缀点成线
 [1233]:Problemset/1233-Remove%20Sub-Folders%20from%20the%20Filesystem/README_CN.md#1233-删除子文件夹
 [1234]:Problemset/1234-Replace%20the%20Substring%20for%20Balanced%20String/README_CN.md#1234-替换子串得到平衡字符串
@@ -3401,6 +3403,7 @@
 [1222l]:https://leetcode.cn/problems/queens-that-can-attack-the-king/
 [1223l]:https://leetcode.cn/problems/dice-roll-simulation/
 [1224l]:https://leetcode.cn/problems/maximum-equal-frequency/
+[1227l]:https://leetcode.cn/problems/airplane-seat-assignment-probability/
 [1232l]:https://leetcode.cn/problems/check-if-it-is-a-straight-line/
 [1233l]:https://leetcode.cn/problems/remove-sub-folders-from-the-filesystem/
 [1234l]:https://leetcode.cn/problems/replace-the-substring-for-balanced-string/
