@@ -501,6 +501,7 @@
 [868][868l]  |[二进制间距][868]                                         |![rs]
 [869][869l]  |[重新排序得到 2 的幂][869]                                |![rs]
 [870][870l]  |[优势洗牌][870]                                           |![rb]&nbsp;&nbsp;![rs]
+[871][871l]  |[最低加油次数][871]                                       |![rs]
 [872][872l]  |[叶子相似的树][872]                                       |![py]
 [873][873l]  |[最长的斐波那契子序列的长度][873]                         |![rs]
 [874][874l]  |[模拟行走机器人][874]                                     |![rs]
@@ -1856,6 +1857,7 @@
 [868]:Problemset/0868-Binary%20Gap/README_CN.md#868-二进制间距
 [869]:Problemset/0869-Reordered%20Power%20of%202/README_CN.md#869-重新排序得到-2-的幂
 [870]:Problemset/0870-Advantage%20Shuffle/README_CN.md#870-优势洗牌
+[871]:Problemset/0871-Minimum%20Number%20of%20Refueling%20Stops/README_CN.md#871-最低加油次数
 [872]:Problemset/0872-Leaf-Similar%20Trees/README_CN.md#872-叶子相似的树
 [873]:Problemset/0873-Length%20of%20Longest%20Fibonacci%20Subsequence/README_CN.md#873-最长的斐波那契子序列的长度
 [874]:Problemset/0874-Walking%20Robot%20Simulation/README_CN.md#874-模拟行走机器人
@@ -3214,6 +3216,7 @@
 [868l]:https://leetcode.cn/problems/binary-gap/
 [869l]:https://leetcode.cn/problems/reordered-power-of-2/
 [870l]:https://leetcode.cn/problems/advantage-shuffle/
+[871l]:https://leetcode.cn/problems/minimum-number-of-refueling-stops/
 [872l]:https://leetcode.cn/problems/leaf-similar-trees/
 [873l]:https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/
 [874l]:https://leetcode.cn/problems/walking-robot-simulation/

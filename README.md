@@ -501,6 +501,7 @@
 [868][868l]  |[Binary Gap][868]                                                                     |![rs]
 [869][869l]  |[Reordered Power of 2][869]                                                           |![rs]
 [870][870l]  |[Advantage Shuffle][870]                                                              |![rb]&nbsp;&nbsp;![rs]
+[871][871l]  |[Minimum Number of Refueling Stops][871]                                              |![rs]
 [872][872l]  |[Leaf-Similar Trees][872]                                                             |![py]
 [873][873l]  |[Length of Longest Fibonacci Subsequence][873]                                        |![rs]
 [874][874l]  |[Walking Robot Simulation][874]                                                       |![rs]
@@ -1856,6 +1857,7 @@
 [868]:Problemset/0868-Binary%20Gap/README.md#868-binary-gap
 [869]:Problemset/0869-Reordered%20Power%20of%202/README.md#869-reordered-power-of-2
 [870]:Problemset/0870-Advantage%20Shuffle/README.md#870-advantage-shuffle
+[871]:Problemset/0871-Minimum%20Number%20of%20Refueling%20Stops/README.md#871-minimum-number-of-refueling-stops
 [872]:Problemset/0872-Leaf-Similar%20Trees/README.md#872-leaf-similar-trees
 [873]:Problemset/0873-Length%20of%20Longest%20Fibonacci%20Subsequence/README.md#873-length-of-longest-fibonacci-subsequence
 [874]:Problemset/0874-Walking%20Robot%20Simulation/README.md#874-walking-robot-simulation
@@ -3214,6 +3216,7 @@
 [868l]:https://leetcode.com/problems/binary-gap/
 [869l]:https://leetcode.com/problems/reordered-power-of-2/
 [870l]:https://leetcode.com/problems/advantage-shuffle/
+[871l]:https://leetcode.com/problems/minimum-number-of-refueling-stops/
 [872l]:https://leetcode.com/problems/leaf-similar-trees/
 [873l]:https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
 [874l]:https://leetcode.com/problems/walking-robot-simulation/
