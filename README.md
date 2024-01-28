@@ -1312,6 +1312,7 @@
 [2501][2501l]|[Longest Square Streak in an Array][2501]                                             |![rs]
 [2502][2502l]|[Design Memory Allocator][2502]                                                       |![rs]
 [2506][2506l]|[Count Pairs Of Similar Strings][2506]                                                |![rs]
+[2509][2509l]|[Cycle Length Queries in a Tree][2509]                                                |![rs]
 [2511][2511l]|[Maximum Enemy Forts That Can Be Captured][2511]                                      |![rs]
 [2512][2512l]|[Reward Top K Students][2512]                                                         |![py]
 [2515][2515l]|[Shortest Distance to Target String in a Circular Array][2515]                        |![rs]
@@ -2668,6 +2669,7 @@
 [2501]:Problemset/2501-Longest%20Square%20Streak%20in%20an%20Array/README.md#2501-longest-square-streak-in-an-array
 [2502]:Problemset/2502-Design%20Memory%20Allocator/README.md#2502-design-memory-allocator
 [2506]:Problemset/2506-Count%20Pairs%20Of%20Similar%20Strings/README.md#2506-count-pairs-of-similar-strings
+[2509]:Problemset/2509-Cycle%20Length%20Queries%20in%20a%20Tree/README.md#2509-cycle-length-queries-in-a-tree
 [2511]:Problemset/2511-Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured/README.md#2511-maximum-enemy-forts-that-can-be-captured
 [2512]:Problemset/2512-Reward%20Top%20K%20Students/README.md#2512-reward-top-k-students
 [2515]:Problemset/2515-Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/README.md#2515-shortest-distance-to-target-string-in-a-circular-array
@@ -4027,6 +4029,7 @@
 [2501l]:https://leetcode.com/problems/longest-square-streak-in-an-array/
 [2502l]:https://leetcode.com/problems/design-memory-allocator/
 [2506l]:https://leetcode.com/problems/count-pairs-of-similar-strings/
+[2509l]:https://leetcode.com/problems/cycle-length-queries-in-a-tree/
 [2511l]:https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/
 [2512l]:https://leetcode.com/problems/reward-top-k-students/
 [2515l]:https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
