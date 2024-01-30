@@ -929,6 +929,7 @@
 [1669][1669l]|[合并两个链表][1669]                                      |![rb]
 [1670][1670l]|[设计前中后队列][1670]                                    |![rs]
 [1672][1672l]|[最富有客户的资产总量][1672]                              |![rb]&nbsp;&nbsp;![rs]
+[1673][1673l]|[找出最具竞争力的子序列][1673]                            |![rs]
 [1678][1678l]|[设计 Goal 解析器][1678]                                  |![rs]
 [1679][1679l]|[K 和数对的最大数目][1679]                                |![rs]
 [1684][1684l]|[统计一致字符串的数目][1684]                              |![rs]
@@ -2287,6 +2288,7 @@
 [1669]:Problemset/1669-Merge%20In%20Between%20Linked%20Lists/README_CN.md#1669-合并两个链表
 [1670]:Problemset/1670-Design%20Front%20Middle%20Back%20Queue/README_CN.md#1670-设计前中后队列
 [1672]:Problemset/1672-Richest%20Customer%20Wealth/README_CN.md#1672-最富有客户的资产总量
+[1673]:Problemset/1673-Find%20the%20Most%20Competitive%20Subsequence/README_CN.md#1673-找出最具竞争力的子序列
 [1678]:Problemset/1678-Goal%20Parser%20Interpretation/README_CN.md#1678-设计-goal-解析器
 [1679]:Problemset/1679-Max%20Number%20of%20K-Sum%20Pairs/README_CN.md#1679-k-和数对的最大数目
 [1684]:Problemset/1684-Count%20the%20Number%20of%20Consistent%20Strings/README_CN.md#1684-统计一致字符串的数目
@@ -3648,6 +3650,7 @@
 [1669l]:https://leetcode.cn/problems/merge-in-between-linked-lists/
 [1670l]:https://leetcode.cn/problems/design-front-middle-back-queue/
 [1672l]:https://leetcode.cn/problems/richest-customer-wealth/
+[1673l]:https://leetcode.cn/problems/find-the-most-competitive-subsequence/
 [1678l]:https://leetcode.cn/problems/goal-parser-interpretation/
 [1679l]:https://leetcode.cn/problems/max-number-of-k-sum-pairs/
 [1684l]:https://leetcode.cn/problems/count-the-number-of-consistent-strings/
