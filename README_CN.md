@@ -1180,6 +1180,7 @@
 [2211][2211l]|[统计道路上的碰撞次数][2211]                              |![rs]
 [2212][2212l]|[射箭比赛中的最大得分][2212]                              |![rs]
 [2215][2215l]|[找出两数组的不同][2215]                                  |![rs]
+[2216][2216l]|[美化数组的最少删除数][2216]                              |![rs]
 [2217][2217l]|[找到指定长度的回文数][2217]                              |![rs]
 [2220][2220l]|[转换数字的最少位翻转次数][2220]                          |![rs]
 [2221][2221l]|[数组的三角和][2221]                                      |![rs]
@@ -2539,6 +2540,7 @@
 [2211]:Problemset/2211-Count%20Collisions%20on%20a%20Road/README_CN.md#2211-统计道路上的碰撞次数
 [2212]:Problemset/2212-Maximum%20Points%20in%20an%20Archery%20Competition/README_CN.md#2212-射箭比赛中的最大得分
 [2215]:Problemset/2215-Find%20the%20Difference%20of%20Two%20Arrays/README_CN.md#2215-找出两数组的不同
+[2216]:Problemset/2216-Minimum%20Deletions%20to%20Make%20Array%20Beautiful/README_CN.md#2216-美化数组的最少删除数
 [2217]:Problemset/2217-Find%20Palindrome%20With%20Fixed%20Length/README_CN.md#2217-找到指定长度的回文数
 [2220]:Problemset/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README_CN.md#2220-转换数字的最少位翻转次数
 [2221]:Problemset/2221-Find%20Triangular%20Sum%20of%20an%20Array/README_CN.md#2221-数组的三角和
@@ -3901,6 +3903,7 @@
 [2211l]:https://leetcode.cn/problems/count-collisions-on-a-road/
 [2212l]:https://leetcode.cn/problems/maximum-points-in-an-archery-competition/
 [2215l]:https://leetcode.cn/problems/find-the-difference-of-two-arrays/
+[2216l]:https://leetcode.cn/problems/minimum-deletions-to-make-array-beautiful/
 [2217l]:https://leetcode.cn/problems/find-palindrome-with-fixed-length/
 [2220l]:https://leetcode.cn/problems/minimum-bit-flips-to-convert-number/
 [2221l]:https://leetcode.cn/problems/find-triangular-sum-of-an-array/
