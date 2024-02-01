@@ -1020,6 +1020,7 @@
 [1870][1870l]|[Minimum Speed to Arrive on Time][1870]                                               |![py]
 [1876][1876l]|[Substrings of Size Three with Distinct Characters][1876]                             |![rs]
 [1877][1877l]|[Minimize Maximum Pair Sum in Array][1877]                                            |![rs]
+[1878][1878l]|[Get Biggest Three Rhombus Sums in a Grid][1878]                                      |![rs]
 [1880][1880l]|[Check if Word Equals Summation of Two Words][1880]                                   |![rs]
 [1886][1886l]|[Determine Whether Matrix Can Be Obtained By Rotation][1886]                          |![rs]
 [1887][1887l]|[Reduction Operations to Make the Array Elements Equal][1887]                         |![rs]
@@ -2380,6 +2381,7 @@
 [1870]:Problemset/1870-Minimum%20Speed%20to%20Arrive%20on%20Time/README.md#1870-minimum-speed-to-arrive-on-time
 [1876]:Problemset/1876-Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/README.md#1876-substrings-of-size-three-with-distinct-characters
 [1877]:Problemset/1877-Minimize%20Maximum%20Pair%20Sum%20in%20Array/README.md#1877-minimize-maximum-pair-sum-in-array
+[1878]:Problemset/1878-Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/README.md#1878-get-biggest-three-rhombus-sums-in-a-grid
 [1880]:Problemset/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README.md#1880-check-if-word-equals-summation-of-two-words
 [1886]:Problemset/1886-Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/README.md#1886-determine-whether-matrix-can-be-obtained-by-rotation
 [1887]:Problemset/1887-Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal/README.md#1887-reduction-operations-to-make-the-array-elements-equal
@@ -3743,6 +3745,7 @@
 [1870l]:https://leetcode.com/problems/minimum-speed-to-arrive-on-time/
 [1876l]:https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
 [1877l]:https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
+[1878l]:https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/
 [1880l]:https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 [1886l]:https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 [1887l]:https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/

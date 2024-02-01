@@ -1020,6 +1020,7 @@
 [1870][1870l]|[准时到达的列车最小时速][1870]                            |![py]
 [1876][1876l]|[长度为三且各字符不同的子字符串][1876]                    |![rs]
 [1877][1877l]|[数组中最大数对和的最小值][1877]                          |![rs]
+[1878][1878l]|[矩阵中最大的三个菱形和][1878]                            |![rs]
 [1880][1880l]|[检查某单词是否等于两单词之和][1880]                      |![rs]
 [1886][1886l]|[判断矩阵经轮转后是否一致][1886]                          |![rs]
 [1887][1887l]|[使数组元素相等的减少操作次数][1887]                      |![rs]
@@ -2380,6 +2381,7 @@
 [1870]:Problemset/1870-Minimum%20Speed%20to%20Arrive%20on%20Time/README_CN.md#1870-准时到达的列车最小时速
 [1876]:Problemset/1876-Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/README_CN.md#1876-长度为三且各字符不同的子字符串
 [1877]:Problemset/1877-Minimize%20Maximum%20Pair%20Sum%20in%20Array/README_CN.md#1877-数组中最大数对和的最小值
+[1878]:Problemset/1878-Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/README_CN.md#1878-矩阵中最大的三个菱形和
 [1880]:Problemset/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README_CN.md#1880-检查某单词是否等于两单词之和
 [1886]:Problemset/1886-Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/README_CN.md#1886-判断矩阵经轮转后是否一致
 [1887]:Problemset/1887-Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal/README_CN.md#1887-使数组元素相等的减少操作次数
@@ -3743,6 +3745,7 @@
 [1870l]:https://leetcode.cn/problems/minimum-speed-to-arrive-on-time/
 [1876l]:https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/
 [1877l]:https://leetcode.cn/problems/minimize-maximum-pair-sum-in-array/
+[1878l]:https://leetcode.cn/problems/get-biggest-three-rhombus-sums-in-a-grid/
 [1880l]:https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/
 [1886l]:https://leetcode.cn/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 [1887l]:https://leetcode.cn/problems/reduction-operations-to-make-the-array-elements-equal/
