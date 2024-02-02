@@ -35,6 +35,7 @@
 [36][36l]    |[Valid Sudoku][36]                                                                    |![rs]
 [38][38l]    |[Count and Say][38]                                                                   |![py]&nbsp;&nbsp;![rb]
 [39][39l]    |[Combination Sum][39]                                                                 |![rb]
+[41][41l]    |[First Missing Positive][41]                                                          |![rs]
 [42][42l]    |[Trapping Rain Water][42]                                                             |![rs]
 [46][46l]    |[Permutations][46]                                                                    |![rs]
 [47][47l]    |[Permutations II][47]                                                                 |![rs]
@@ -1396,6 +1397,7 @@
 [36]:Problemset/0036-Valid%20Sudoku/README.md#36-valid-sudoku
 [38]:Problemset/0038-Count%20and%20Say/README.md#38-count-and-say
 [39]:Problemset/0039-Combination%20Sum/README.md#39-combination-sum
+[41]:Problemset/0041-First%20Missing%20Positive/README.md#41-first-missing-positive
 [42]:Problemset/0042-Trapping%20Rain%20Water/README.md#42-trapping-rain-water
 [46]:Problemset/0046-Permutations/README.md#46-permutations
 [47]:Problemset/0047-Permutations%20II/README.md#47-permutations-ii
@@ -2750,6 +2752,7 @@
 [37l]:https://leetcode.com/problems/sudoku-solver/
 [38l]:https://leetcode.com/problems/count-and-say/
 [39l]:https://leetcode.com/problems/combination-sum/
+[41l]:https://leetcode.com/problems/first-missing-positive/
 [42l]:https://leetcode.com/problems/trapping-rain-water/
 [46l]:https://leetcode.com/problems/permutations/
 [47l]:https://leetcode.com/problems/permutations-ii/

@@ -35,6 +35,7 @@
 [36][36l]    |[有效的数独][36]                                          |![rs]
 [38][38l]    |[外观数列][38]                                            |![py]&nbsp;&nbsp;![rb]
 [39][39l]    |[组合总和][39]                                            |![rb]
+[41][41l]    |[缺失的第一个正数][41]                                    |![rs]
 [42][42l]    |[接雨水][42]                                              |![rs]
 [46][46l]    |[全排列][46]                                              |![rs]
 [47][47l]    |[全排列 II][47]                                           |![rs]
@@ -1396,6 +1397,7 @@
 [36]:Problemset/0036-Valid%20Sudoku/README_CN.md#36-有效的数独
 [38]:Problemset/0038-Count%20and%20Say/README_CN.md#38-外观数列
 [39]:Problemset/0039-Combination%20Sum/README_CN.md#39-组合总和
+[41]:Problemset/0041-First%20Missing%20Positive/README_CN.md#41-缺失的第一个正数
 [42]:Problemset/0042-Trapping%20Rain%20Water/README_CN.md#42-接雨水
 [46]:Problemset/0046-Permutations/README_CN.md#46-全排列
 [47]:Problemset/0047-Permutations%20II/README_CN.md#47-全排列-ii
@@ -2750,6 +2752,7 @@
 [37l]:https://leetcode.cn/problems/sudoku-solver/
 [38l]:https://leetcode.cn/problems/count-and-say/
 [39l]:https://leetcode.cn/problems/combination-sum/
+[41l]:https://leetcode.cn/problems/first-missing-positive/
 [42l]:https://leetcode.cn/problems/trapping-rain-water/
 [46l]:https://leetcode.cn/problems/permutations/
 [47l]:https://leetcode.cn/problems/permutations-ii/
