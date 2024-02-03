@@ -442,6 +442,7 @@
 [764][764l]  |[Largest Plus Sign][764]                                                              |![rs]
 [766][766l]  |[Toeplitz Matrix][766]                                                                |![rs]
 [767][767l]  |[Reorganize String][767]                                                              |![rs]
+[768][768l]  |[Max Chunks To Make Sorted II][768]                                                   |![rs]
 [769][769l]  |[Max Chunks To Make Sorted][769]                                                      |![rb]&nbsp;&nbsp;![rs]
 [771][771l]  |[Jewels and Stones][771]                                                              |![rs]
 [773][773l]  |[Sliding Puzzle][773]                                                                 |![rs]
@@ -1804,6 +1805,7 @@
 [764]:Problemset/0764-Largest%20Plus%20Sign/README.md#764-largest-plus-sign
 [766]:Problemset/0766-Toeplitz%20Matrix/README.md#766-toeplitz-matrix
 [767]:Problemset/0767-Reorganize%20String/README.md#767-reorganize-string
+[768]:Problemset/0768-Max%20Chunks%20To%20Make%20Sorted%20II/README.md#768-max-chunks-to-make-sorted-ii
 [769]:Problemset/0769-Max%20Chunks%20To%20Make%20Sorted/README.md#769-max-chunks-to-make-sorted
 [771]:Problemset/0771-Jewels%20and%20Stones/README.md#771-jewels-and-stones
 [773]:Problemset/0773-Sliding%20Puzzle/README.md#773-sliding-puzzle
@@ -3169,6 +3171,7 @@
 [764l]:https://leetcode.com/problems/largest-plus-sign/
 [766l]:https://leetcode.com/problems/toeplitz-matrix/
 [767l]:https://leetcode.com/problems/reorganize-string/
+[768l]:https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
 [769l]:https://leetcode.com/problems/max-chunks-to-make-sorted/
 [771l]:https://leetcode.com/problems/jewels-and-stones/
 [773l]:https://leetcode.com/problems/sliding-puzzle/
