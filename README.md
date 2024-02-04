@@ -579,6 +579,7 @@
 [978][978l]  |[Longest Turbulent Subarray][978]                                                     |![rs]
 [979][979l]  |[Distribute Coins in Binary Tree][979]                                                |![py]
 [981][981l]  |[Time Based Key-Value Store][981]                                                     |![py]
+[982][982l]  |[Triples with Bitwise AND Equal To Zero][982]                                         |![rs]
 [984][984l]  |[String Without AAA or BBB][984]                                                      |![rb]
 [985][985l]  |[Sum of Even Numbers After Queries][985]                                              |![py]
 [986][986l]  |[Interval List Intersections][986]                                                    |![rb]&nbsp;&nbsp;![rs]
@@ -1942,6 +1943,7 @@
 [978]:Problemset/0978-Longest%20Turbulent%20Subarray/README.md#978-longest-turbulent-subarray
 [979]:Problemset/0979-Distribute%20Coins%20in%20Binary%20Tree/README.md#979-distribute-coins-in-binary-tree
 [981]:Problemset/0981-Time%20Based%20Key-Value%20Store/README.md#981-time-based-key-value-store
+[982]:Problemset/0982-Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/README.md#982-triples-with-bitwise-and-equal-to-zero
 [984]:Problemset/0984-String%20Without%20AAA%20or%20BBB/README.md#984-string-without-aaa-or-bbb
 [985]:Problemset/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README.md#985-sum-of-even-numbers-after-queries
 [986]:Problemset/0986-Interval%20List%20Intersections/README.md#986-interval-list-intersections
@@ -3308,6 +3310,7 @@
 [978l]:https://leetcode.com/problems/longest-turbulent-subarray/
 [979l]:https://leetcode.com/problems/distribute-coins-in-binary-tree/
 [981l]:https://leetcode.com/problems/time-based-key-value-store/
+[982l]:https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
 [984l]:https://leetcode.com/problems/string-without-aaa-or-bbb/
 [985l]:https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [986l]:https://leetcode.com/problems/interval-list-intersections/
