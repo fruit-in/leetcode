@@ -1356,6 +1356,7 @@
 [2600][2600l]|[K 件物品的最大和][2600]                                  |![rs]
 [2601][2601l]|[质数减法运算][2601]                                      |![rs]
 [2602][2602l]|[使数组元素全部相等的最少操作次数][2602]                  |![rs]
+[2605][2605l]|[从两个数字数组里生成最小数字][2605]                      |![rs]
 [2606][2606l]|[找到最大开销的子字符串][2606]                            |![rs]
 [2611][2611l]|[老鼠和奶酪][2611]                                        |![rs]
 
@@ -2720,6 +2721,7 @@
 [2600]:Problemset/2600-K%20Items%20With%20the%20Maximum%20Sum/README_CN.md#2600-k-件物品的最大和
 [2601]:Problemset/2601-Prime%20Subtraction%20Operation/README_CN.md#2601-质数减法运算
 [2602]:Problemset/2602-Minimum%20Operations%20to%20Make%20All%20Array%20Elements%20Equal/README_CN.md#2602-使数组元素全部相等的最少操作次数
+[2605]:Problemset/2605-Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays/README_CN.md#2605-从两个数字数组里生成最小数字
 [2606]:Problemset/2606-Find%20the%20Substring%20With%20Maximum%20Cost/README_CN.md#2606-找到最大开销的子字符串
 [2611]:Problemset/2611-Mice%20and%20Cheese/README_CN.md#2611-老鼠和奶酪
 
@@ -4087,5 +4089,6 @@
 [2600l]:https://leetcode.cn/problems/k-items-with-the-maximum-sum/
 [2601l]:https://leetcode.cn/problems/prime-subtraction-operation/
 [2602l]:https://leetcode.cn/problems/minimum-operations-to-make-all-array-elements-equal/
+[2605l]:https://leetcode.cn/problems/form-smallest-number-from-two-digit-arrays/
 [2606l]:https://leetcode.cn/problems/find-the-substring-with-maximum-cost/
 [2611l]:https://leetcode.cn/problems/mice-and-cheese/
