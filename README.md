@@ -988,6 +988,7 @@
 [1797][1797l]|[Design Authentication Manager][1797]                                                 |![py]
 [1800][1800l]|[Maximum Ascending Subarray Sum][1800]                                                |![rb]&nbsp;&nbsp;![rs]
 [1801][1801l]|[Number of Orders in the Backlog][1801]                                               |![rs]
+[1802][1802l]|[Maximum Value at a Given Index in a Bounded Array][1802]                             |![rs]
 [1805][1805l]|[Number of Different Integers in a String][1805]                                      |![rs]
 [1807][1807l]|[Evaluate the Bracket Pairs of a String][1807]                                        |![py]
 [1812][1812l]|[Determine Color of a Chessboard Square][1812]                                        |![py]&nbsp;&nbsp;![rb]
@@ -2353,6 +2354,7 @@
 [1797]:Problemset/1797-Design%20Authentication%20Manager/README.md#1797-design-authentication-manager
 [1800]:Problemset/1800-Maximum%20Ascending%20Subarray%20Sum/README.md#1800-maximum-ascending-subarray-sum
 [1801]:Problemset/1801-Number%20of%20Orders%20in%20the%20Backlog/README.md#1801-number-of-orders-in-the-backlog
+[1802]:Problemset/1802-Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array/README.md#1802-maximum-value-at-a-given-index-in-a-bounded-array
 [1805]:Problemset/1805-Number%20of%20Different%20Integers%20in%20a%20String/README.md#1805-number-of-different-integers-in-a-string
 [1807]:Problemset/1807-Evaluate%20the%20Bracket%20Pairs%20of%20a%20String/README.md#1807-evaluate-the-bracket-pairs-of-a-string
 [1812]:Problemset/1812-Determine%20Color%20of%20a%20Chessboard%20Square/README.md#1812-determine-color-of-a-chessboard-square
@@ -3721,6 +3723,7 @@
 [1797l]:https://leetcode.com/problems/design-authentication-manager/
 [1800l]:https://leetcode.com/problems/maximum-ascending-subarray-sum/
 [1801l]:https://leetcode.com/problems/number-of-orders-in-the-backlog/
+[1802l]:https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
 [1805l]:https://leetcode.com/problems/number-of-different-integers-in-a-string/
 [1807l]:https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
 [1812l]:https://leetcode.com/problems/determine-color-of-a-chessboard-square/
