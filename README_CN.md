@@ -782,6 +782,7 @@
 [1374][1374l]|[生成每种字符都是奇数个的字符串][1374]                    |![py]
 [1375][1375l]|[灯泡开关 III][1375]                                      |![rs]
 [1376][1376l]|[通知所有员工所需的时间][1376]                            |![rb]&nbsp;&nbsp;![rs]
+[1377][1377l]|[T 秒后青蛙的位置][1377]                                  |![rs]
 [1379][1379l]|[找出克隆二叉树中的相同节点][1379]                        |![py]
 [1380][1380l]|[矩阵中的幸运数][1380]                                    |![rs]
 [1381][1381l]|[设计一个支持增量操作的栈][1381]                          |![rs]
@@ -2148,6 +2149,7 @@
 [1374]:Problemset/1374-Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts/README_CN.md#1374-生成每种字符都是奇数个的字符串
 [1375]:Problemset/1375-Bulb%20Switcher%20III/README_CN.md#1375-灯泡开关-iii
 [1376]:Problemset/1376-Time%20Needed%20to%20Inform%20All%20Employees/README_CN.md#1376-通知所有员工所需的时间
+[1377]:Problemset/1377-Frog%20Position%20After%20T%20Seconds/README_CN.md#1377-t-秒后青蛙的位置
 [1379]:Problemset/1379-Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree/README_CN.md#1379-找出克隆二叉树中的相同节点
 [1380]:Problemset/1380-Lucky%20Numbers%20in%20a%20Matrix/README_CN.md#1380-矩阵中的幸运数
 [1381]:Problemset/1381-Design%20a%20Stack%20With%20Increment%20Operation/README_CN.md#1381-设计一个支持增量操作的栈
@@ -3517,6 +3519,7 @@
 [1374l]:https://leetcode.cn/problems/generate-a-string-with-characters-that-have-odd-counts/
 [1375l]:https://leetcode.cn/problems/bulb-switcher-iii/
 [1376l]:https://leetcode.cn/problems/time-needed-to-inform-all-employees/
+[1377l]:https://leetcode.cn/problems/frog-position-after-t-seconds/
 [1379l]:https://leetcode.cn/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
 [1380l]:https://leetcode.cn/problems/lucky-numbers-in-a-matrix/
 [1381l]:https://leetcode.cn/problems/design-a-stack-with-increment-operation/
