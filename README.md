@@ -373,6 +373,7 @@
 [622][622l]  |[Design Circular Queue][622]                                                          |![rs]
 [623][623l]  |[Add One Row to Tree][623]                                                            |![py]
 [628][628l]  |[Maximum Product of Three Numbers][628]                                               |![py]
+[629][629l]  |[K Inverse Pairs Array][629]                                                          |![rs]
 [633][633l]  |[Sum of Square Numbers][633]                                                          |![rs]
 [636][636l]  |[Exclusive Time of Functions][636]                                                    |![rs]
 [637][637l]  |[Average of Levels in Binary Tree][637]                                               |![py]
@@ -1742,6 +1743,7 @@
 [622]:Problemset/0622-Design%20Circular%20Queue/README.md#622-design-circular-queue
 [623]:Problemset/0623-Add%20One%20Row%20to%20Tree/README.md#623-add-one-row-to-tree
 [628]:Problemset/0628-Maximum%20Product%20of%20Three%20Numbers/README.md#628-maximum-product-of-three-numbers
+[629]:Problemset/0629-K%20Inverse%20Pairs%20Array/README.md#629-k-inverse-pairs-array
 [633]:Problemset/0633-Sum%20of%20Square%20Numbers/README.md#633-sum-of-square-numbers
 [636]:Problemset/0636-Exclusive%20Time%20of%20Functions/README.md#636-exclusive-time-of-functions
 [637]:Problemset/0637-Average%20of%20Levels%20in%20Binary%20Tree/README.md#637-average-of-levels-in-binary-tree
@@ -3111,6 +3113,7 @@
 [622l]:https://leetcode.com/problems/design-circular-queue/
 [623l]:https://leetcode.com/problems/add-one-row-to-tree/
 [628l]:https://leetcode.com/problems/maximum-product-of-three-numbers/
+[629l]:https://leetcode.com/problems/k-inverse-pairs-array/
 [633l]:https://leetcode.com/problems/sum-of-square-numbers/
 [636l]:https://leetcode.com/problems/exclusive-time-of-functions/
 [637l]:https://leetcode.com/problems/average-of-levels-in-binary-tree/
