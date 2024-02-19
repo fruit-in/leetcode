@@ -1231,6 +1231,7 @@
 [2283][2283l]|[Check if Number Has Equal Digit Count and Digit Value][2283]                         |![rs]
 [2284][2284l]|[Sender With Largest Word Count][2284]                                                |![py]
 [2287][2287l]|[Rearrange Characters to Make Target String][2287]                                    |![rs]
+[2289][2289l]|[Steps to Make Array Non-decreasing][2289]                                            |![rs]
 [2293][2293l]|[Min Max Game][2293]                                                                  |![rs]
 [2294][2294l]|[Partition Array Such That Maximum Difference Is K][2294]                             |![rs]
 [2295][2295l]|[Replace Elements in an Array][2295]                                                  |![rs]
@@ -2603,6 +2604,7 @@
 [2283]:Problemset/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README.md#2283-check-if-number-has-equal-digit-count-and-digit-value
 [2284]:Problemset/2284-Sender%20With%20Largest%20Word%20Count/README.md#2284-sender-with-largest-word-count
 [2287]:Problemset/2287-Rearrange%20Characters%20to%20Make%20Target%20String/README.md#2287-rearrange-characters-to-make-target-string
+[2289]:Problemset/2289-Steps%20to%20Make%20Array%20Non-decreasing/README.md#2289-steps-to-make-array-non-decreasing
 [2293]:Problemset/2293-Min%20Max%20Game/README.md#2293-min-max-game
 [2294]:Problemset/2294-Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K/README.md#2294-partition-array-such-that-maximum-difference-is-k
 [2295]:Problemset/2295-Replace%20Elements%20in%20an%20Array/README.md#2295-replace-elements-in-an-array
@@ -3978,6 +3980,7 @@
 [2283l]:https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2284l]:https://leetcode.com/problems/sender-with-largest-word-count/
 [2287l]:https://leetcode.com/problems/rearrange-characters-to-make-target-string/
+[2289l]:https://leetcode.com/problems/steps-to-make-array-non-decreasing/
 [2293l]:https://leetcode.com/problems/min-max-game/
 [2294l]:https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/
 [2295l]:https://leetcode.com/problems/replace-elements-in-an-array/
