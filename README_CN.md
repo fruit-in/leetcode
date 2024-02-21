@@ -383,6 +383,7 @@
 [645][645l]  |[错误的集合][645]                                         |![rs]
 [647][647l]  |[回文子串][647]                                           |![rb]
 [648][648l]  |[单词替换][648]                                           |![py]
+[652][652l]  |[寻找重复的子树][652]                                     |![py]
 [653][653l]  |[两数之和 IV - 输入 BST][653]                             |![py]
 [654][654l]  |[最大二叉树][654]                                         |![py]&nbsp;&nbsp;![rb]
 [655][655l]  |[输出二叉树][655]                                         |![py]
@@ -1757,6 +1758,7 @@
 [645]:Problemset/0645-Set%20Mismatch/README_CN.md#645-错误的集合
 [647]:Problemset/0647-Palindromic%20Substrings/README_CN.md#647-回文子串
 [648]:Problemset/0648-Replace%20Words/README_CN.md#648-单词替换
+[652]:Problemset/0652-Find%20Duplicate%20Subtrees/README_CN.md#652-寻找重复的子树
 [653]:Problemset/0653-Two%20Sum%20IV%20-%20Input%20is%20a%20BST/README_CN.md#653-两数之和-iv---输入-bst
 [654]:Problemset/0654-Maximum%20Binary%20Tree/README_CN.md#654-最大二叉树
 [655]:Problemset/0655-Print%20Binary%20Tree/README_CN.md#655-输出二叉树
@@ -3129,7 +3131,6 @@
 [643l]:https://leetcode.cn/problems/maximum-average-subarray-i/
 [645l]:https://leetcode.cn/problems/set-mismatch/
 [647l]:https://leetcode.cn/problems/palindromic-substrings/
-[648l]:https://leetcode.cn/problems/replace-words/
 [648l]:https://leetcode.cn/problems/replace-words/
 [652l]:https://leetcode.cn/problems/find-duplicate-subtrees/
 [653l]:https://leetcode.cn/problems/two-sum-iv-input-is-a-bst/
