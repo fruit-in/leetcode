@@ -813,6 +813,7 @@
 [1413][1413l]|[逐步求和得到正数的最小值][1413]                          |![rs]
 [1414][1414l]|[和为 K 的最少斐波那契数字数目][1414]                     |![rb]&nbsp;&nbsp;![rs]
 [1415][1415l]|[长度为 n 的开心字符串中字典序第 k 小的字符串][1415]      |![py]&nbsp;&nbsp;![rb]
+[1416][1416l]|[恢复数组][1416]                                          |![py]
 [1417][1417l]|[重新格式化字符串][1417]                                  |![rs]
 [1419][1419l]|[数青蛙][1419]                                            |![rb]&nbsp;&nbsp;![rs]
 [1420][1420l]|[生成数组][1420]                                          |![rs]
@@ -2188,6 +2189,7 @@
 [1413]:Problemset/1413-Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/README_CN.md#1413-逐步求和得到正数的最小值
 [1414]:Problemset/1414-Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K/README_CN.md#1414-和为-k-的最少斐波那契数字数目
 [1415]:Problemset/1415-The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/README_CN.md#1415-长度为-n-的开心字符串中字典序第-k-小的字符串
+[1416]:Problemset/1416-Restore%20The%20Array/README_CN.md#1416-恢复数组
 [1417]:Problemset/1417-Reformat%20The%20String/README_CN.md#1417-重新格式化字符串
 [1419]:Problemset/1419-Minimum%20Number%20of%20Frogs%20Croaking/README_CN.md#1419-数青蛙
 [1420]:Problemset/1420-Build%20Array%20Where%20You%20Can%20Find%20The%20Maximum%20Exactly%20K%20Comparisons/README_CN.md#1420-生成数组
@@ -3563,6 +3565,7 @@
 [1413l]:https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/
 [1414l]:https://leetcode.cn/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 [1415l]:https://leetcode.cn/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
+[1416l]:https://leetcode.cn/problems/restore-the-array/
 [1417l]:https://leetcode.cn/problems/reformat-the-string/
 [1419l]:https://leetcode.cn/problems/minimum-number-of-frogs-croaking/
 [1420l]:https://leetcode.cn/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/

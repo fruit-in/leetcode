@@ -813,6 +813,7 @@
 [1413][1413l]|[Minimum Value to Get Positive Step by Step Sum][1413]                                |![rs]
 [1414][1414l]|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K][1414]                   |![rb]&nbsp;&nbsp;![rs]
 [1415][1415l]|[The k-th Lexicographical String of All Happy Strings of Length n][1415]              |![py]&nbsp;&nbsp;![rb]
+[1416][1416l]|[Restore The Array][1416]                                                             |![py]
 [1417][1417l]|[Reformat The String][1417]                                                           |![rs]
 [1419][1419l]|[Minimum Number of Frogs Croaking][1419]                                              |![rb]&nbsp;&nbsp;![rs]
 [1420][1420l]|[Build Array Where You Can Find The Maximum Exactly K Comparisons][1420]              |![rs]
@@ -2188,6 +2189,7 @@
 [1413]:Problemset/1413-Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/README.md#1413-minimum-value-to-get-positive-step-by-step-sum
 [1414]:Problemset/1414-Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K/README.md#1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k
 [1415]:Problemset/1415-The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/README.md#1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n
+[1416]:Problemset/1416-Restore%20The%20Array/README.md#1416-restore-the-array
 [1417]:Problemset/1417-Reformat%20The%20String/README.md#1417-reformat-the-string
 [1419]:Problemset/1419-Minimum%20Number%20of%20Frogs%20Croaking/README.md#1419-minimum-number-of-frogs-croaking
 [1420]:Problemset/1420-Build%20Array%20Where%20You%20Can%20Find%20The%20Maximum%20Exactly%20K%20Comparisons/README.md#1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons
@@ -3563,6 +3565,7 @@
 [1413l]:https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
 [1414l]:https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 [1415l]:https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
+[1416l]:https://leetcode.com/problems/restore-the-array/
 [1417l]:https://leetcode.com/problems/reformat-the-string/
 [1419l]:https://leetcode.com/problems/minimum-number-of-frogs-croaking/
 [1420l]:https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/
