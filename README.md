@@ -274,6 +274,7 @@
 [442][442l]  |[Find All Duplicates in an Array][442]                                                |![rs]
 [443][443l]  |[String Compression][443]                                                             |![py]
 [445][445l]  |[Add Two Numbers II][445]                                                             |![py]
+[446][446l]  |[Arithmetic Slices II - Subsequence][446]                                             |![py]
 [447][447l]  |[Number of Boomerangs][447]                                                           |![rs]
 [448][448l]  |[Find All Numbers Disappeared in an Array][448]                                       |![rs]
 [449][449l]  |[Serialize and Deserialize BST][449]                                                  |![py]
@@ -1650,6 +1651,7 @@
 [442]:Problemset/0442-Find%20All%20Duplicates%20in%20an%20Array/README.md#442-find-all-duplicates-in-an-array
 [443]:Problemset/0443-String%20Compression/README.md#443-string-compression
 [445]:Problemset/0445-Add%20Two%20Numbers%20II/README.md#445-add-two-numbers-ii
+[446]:Problemset/0446-Arithmetic%20Slices%20II%20-%20Subsequence/README.md#446-arithmetic-slices-ii-subsequence
 [447]:Problemset/0447-Number%20of%20Boomerangs/README.md#447-number-of-boomerangs
 [448]:Problemset/0448-Find%20All%20Numbers%20Disappeared%20in%20an%20Array/README.md#448-find-all-numbers-disappeared-in-an-array
 [449]:Problemset/0449-Serialize%20and%20Deserialize%20BST/README.md#449-serialize-and-deserialize-bst
@@ -3025,6 +3027,7 @@
 [442l]:https://leetcode.com/problems/find-all-duplicates-in-an-array/
 [443l]:https://leetcode.com/problems/string-compression/
 [445l]:https://leetcode.com/problems/add-two-numbers-ii/
+[446l]:https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
 [447l]:https://leetcode.com/problems/number-of-boomerangs/
 [448l]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [449l]:https://leetcode.com/problems/serialize-and-deserialize-bst/

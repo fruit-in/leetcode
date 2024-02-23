@@ -274,6 +274,7 @@
 [442][442l]  |[数组中重复的数据][442]                                   |![rs]
 [443][443l]  |[压缩字符串][443]                                         |![py]
 [445][445l]  |[两数相加 II][445]                                        |![py]
+[446][446l]  |[等差数列划分 II - 子序列][446]                           |![py]
 [447][447l]  |[回旋镖的数量][447]                                       |![rs]
 [448][448l]  |[找到所有数组中消失的数字][448]                           |![rs]
 [449][449l]  |[序列化和反序列化二叉搜索树][449]                         |![py]
@@ -1650,6 +1651,7 @@
 [442]:Problemset/0442-Find%20All%20Duplicates%20in%20an%20Array/README_CN.md#442-数组中重复的数据
 [443]:Problemset/0443-String%20Compression/README_CN.md#443-压缩字符串
 [445]:Problemset/0445-Add%20Two%20Numbers%20II/README_CN.md#445-两数相加-ii
+[446]:Problemset/0446-Arithmetic%20Slices%20II%20-%20Subsequence/README_CN.md#446-等差数列划分-ii---子序列
 [447]:Problemset/0447-Number%20of%20Boomerangs/README_CN.md#447-回旋镖的数量
 [448]:Problemset/0448-Find%20All%20Numbers%20Disappeared%20in%20an%20Array/README_CN.md#448-找到所有数组中消失的数字
 [449]:Problemset/0449-Serialize%20and%20Deserialize%20BST/README_CN.md#449-序列化和反序列化二叉搜索树
@@ -3025,6 +3027,7 @@
 [442l]:https://leetcode.cn/problems/find-all-duplicates-in-an-array/
 [443l]:https://leetcode.cn/problems/string-compression/
 [445l]:https://leetcode.cn/problems/add-two-numbers-ii/
+[446l]:https://leetcode.cn/problems/arithmetic-slices-ii-subsequence/
 [447l]:https://leetcode.cn/problems/number-of-boomerangs/
 [448l]:https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/
 [449l]:https://leetcode.cn/problems/serialize-and-deserialize-bst/
