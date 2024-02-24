@@ -319,6 +319,7 @@
 [508][508l]  |[出现次数最多的子树元素和][508]                           |![py]
 [509][509l]  |[斐波那契数][509]                                         |![rs]
 [513][513l]  |[找树左下角的值][513]                                     |![py]
+[514][514l]  |[自由之路][514]                                           |![rs]
 [515][515l]  |[在每个树行中找最大值][515]                               |![py]
 [518][518l]  |[零钱兑换 II][518]                                        |![rs]
 [520][520l]  |[检测大写字母][520]                                       |![rs]
@@ -1696,6 +1697,7 @@
 [508]:Problemset/0508-Most%20Frequent%20Subtree%20Sum/README_CN.md#508-出现次数最多的子树元素和
 [509]:Problemset/0509-Fibonacci%20Number/README_CN.md#509-斐波那契数
 [513]:Problemset/0513-Find%20Bottom%20Left%20Tree%20Value/README_CN.md#513-找树左下角的值
+[514]:Problemset/0514-Freedom%20Trail/README_CN.md#514-自由之路
 [515]:Problemset/0515-Find%20Largest%20Value%20in%20Each%20Tree%20Row/README_CN.md#515-在每个树行中找最大值
 [518]:Problemset/0518-Coin%20Change%202/README_CN.md#518-零钱兑换-ii
 [520]:Problemset/0520-Detect%20Capital/README_CN.md#520-检测大写字母
@@ -3072,6 +3074,7 @@
 [508l]:https://leetcode.cn/problems/most-frequent-subtree-sum/
 [509l]:https://leetcode.cn/problems/fibonacci-number/
 [513l]:https://leetcode.cn/problems/find-bottom-left-tree-value/
+[514l]:https://leetcode.cn/problems/freedom-trail/
 [515l]:https://leetcode.cn/problems/find-largest-value-in-each-tree-row/
 [518l]:https://leetcode.cn/problems/coin-change-2/
 [520l]:https://leetcode.cn/problems/detect-capital/

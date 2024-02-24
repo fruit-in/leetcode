@@ -319,6 +319,7 @@
 [508][508l]  |[Most Frequent Subtree Sum][508]                                                      |![py]
 [509][509l]  |[Fibonacci Number][509]                                                               |![rs]
 [513][513l]  |[Find Bottom Left Tree Value][513]                                                    |![py]
+[514][514l]  |[Freedom Trail][514]                                                                  |![rs]
 [515][515l]  |[Find Largest Value in Each Tree Row][515]                                            |![py]
 [518][518l]  |[Coin Change 2][518]                                                                  |![rs]
 [520][520l]  |[Detect Capital][520]                                                                 |![rs]
@@ -1696,6 +1697,7 @@
 [508]:Problemset/0508-Most%20Frequent%20Subtree%20Sum/README.md#508-most-frequent-subtree-sum
 [509]:Problemset/0509-Fibonacci%20Number/README.md#509-fibonacci-number
 [513]:Problemset/0513-Find%20Bottom%20Left%20Tree%20Value/README.md#513-find-bottom-left-tree-value
+[514]:Problemset/0514-Freedom%20Trail/README.md#514-freedom-trail
 [515]:Problemset/0515-Find%20Largest%20Value%20in%20Each%20Tree%20Row/README.md#515-find-largest-value-in-each-tree-row
 [518]:Problemset/0518-Coin%20Change%202/README.md#518-coin-change-2
 [520]:Problemset/0520-Detect%20Capital/README.md#520-detect-capital
@@ -3072,6 +3074,7 @@
 [508l]:https://leetcode.com/problems/most-frequent-subtree-sum/
 [509l]:https://leetcode.com/problems/fibonacci-number/
 [513l]:https://leetcode.com/problems/find-bottom-left-tree-value/
+[514l]:https://leetcode.com/problems/freedom-trail/
 [515l]:https://leetcode.com/problems/find-largest-value-in-each-tree-row/
 [518l]:https://leetcode.com/problems/coin-change-2/
 [520l]:https://leetcode.com/problems/detect-capital/
