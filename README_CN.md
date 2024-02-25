@@ -550,6 +550,7 @@
 [923][923l]  |[三数之和的多种可能][923]                                 |![rs]
 [925][925l]  |[长按键入][925]                                           |![py]
 [926][926l]  |[将字符串翻转到单调递增][926]                             |![rs]
+[927][927l]  |[三等分][927]                                             |![rs]
 [929][929l]  |[独特的电子邮件地址][929]                                 |![py]&nbsp;&nbsp;![rb]
 [930][930l]  |[和相同的二元子数组][930]                                 |![rs]
 [931][931l]  |[下降路径最小和][931]                                     |![rs]
@@ -1928,6 +1929,7 @@
 [923]:Problemset/0923-3Sum%20With%20Multiplicity/README_CN.md#923-三数之和的多种可能
 [925]:Problemset/0925-Long%20Pressed%20Name/README_CN.md#925-长按键入
 [926]:Problemset/0926-Flip%20String%20to%20Monotone%20Increasing/README_CN.md#926-将字符串翻转到单调递增
+[927]:Problemset/0927-Three%20Equal%20Parts/README_CN.md#927-三等分
 [929]:Problemset/0929-Unique%20Email%20Addresses/README_CN.md#929-独特的电子邮件地址
 [930]:Problemset/0930-Binary%20Subarrays%20With%20Sum/README_CN.md#930-和相同的二元子数组
 [931]:Problemset/0931-Minimum%20Falling%20Path%20Sum/README_CN.md#931-下降路径最小和
@@ -3306,6 +3308,7 @@
 [923l]:https://leetcode.cn/problems/3sum-with-multiplicity/
 [925l]:https://leetcode.cn/problems/long-pressed-name/
 [926l]:https://leetcode.cn/problems/flip-string-to-monotone-increasing/
+[927l]:https://leetcode.cn/problems/three-equal-parts/
 [929l]:https://leetcode.cn/problems/unique-email-addresses/
 [930l]:https://leetcode.cn/problems/binary-subarrays-with-sum/
 [931l]:https://leetcode.cn/problems/minimum-falling-path-sum/
