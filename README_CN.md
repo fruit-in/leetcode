@@ -705,6 +705,7 @@
 [1232][1232l]|[缀点成线][1232]                                          |![rs]
 [1233][1233l]|[删除子文件夹][1233]                                      |![rs]
 [1234][1234l]|[替换子串得到平衡字符串][1234]                            |![rb]&nbsp;&nbsp;![rs]
+[1235][1235l]|[规划兼职工作][1235]                                      |![rs]
 [1237][1237l]|[找出给定方程的正整数解][1237]                            |![py]
 [1238][1238l]|[循环码排列][1238]                                        |![rs]
 [1247][1247l]|[交换字符使得字符串相同][1247]                            |![py]
@@ -2084,6 +2085,7 @@
 [1232]:Problemset/1232-Check%20If%20It%20Is%20a%20Straight%20Line/README_CN.md#1232-缀点成线
 [1233]:Problemset/1233-Remove%20Sub-Folders%20from%20the%20Filesystem/README_CN.md#1233-删除子文件夹
 [1234]:Problemset/1234-Replace%20the%20Substring%20for%20Balanced%20String/README_CN.md#1234-替换子串得到平衡字符串
+[1235]:Problemset/1235-Maximum%20Profit%20in%20Job%20Scheduling/README_CN.md#1235-规划兼职工作
 [1237]:Problemset/1237-Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/README_CN.md#1237-找出给定方程的正整数解
 [1238]:Problemset/1238-Circular%20Permutation%20in%20Binary%20Representation/README_CN.md#1238-循环码排列
 [1247]:Problemset/1247-Minimum%20Swaps%20to%20Make%20Strings%20Equal/README_CN.md#1247-交换字符使得字符串相同
@@ -3463,6 +3465,7 @@
 [1232l]:https://leetcode.cn/problems/check-if-it-is-a-straight-line/
 [1233l]:https://leetcode.cn/problems/remove-sub-folders-from-the-filesystem/
 [1234l]:https://leetcode.cn/problems/replace-the-substring-for-balanced-string/
+[1235l]:https://leetcode.cn/problems/maximum-profit-in-job-scheduling/
 [1237l]:https://leetcode.cn/problems/find-positive-integer-solution-for-a-given-equation/
 [1238l]:https://leetcode.cn/problems/circular-permutation-in-binary-representation/
 [1247l]:https://leetcode.cn/problems/minimum-swaps-to-make-strings-equal/

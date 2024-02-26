@@ -705,6 +705,7 @@
 [1232][1232l]|[Check If It Is a Straight Line][1232]                                                |![rs]
 [1233][1233l]|[Remove Sub-Folders from the Filesystem][1233]                                        |![rs]
 [1234][1234l]|[Replace the Substring for Balanced String][1234]                                     |![rb]&nbsp;&nbsp;![rs]
+[1235][1235l]|[Maximum Profit in Job Scheduling][1235]                                              |![rs]
 [1237][1237l]|[Find Positive Integer Solution for a Given Equation][1237]                           |![py]
 [1238][1238l]|[Circular Permutation in Binary Representation][1238]                                 |![rs]
 [1247][1247l]|[Minimum Swaps to Make Strings Equal][1247]                                           |![py]
@@ -2084,6 +2085,7 @@
 [1232]:Problemset/1232-Check%20If%20It%20Is%20a%20Straight%20Line/README.md#1232-check-if-it-is-a-straight-line
 [1233]:Problemset/1233-Remove%20Sub-Folders%20from%20the%20Filesystem/README.md#1233-remove-sub-folders-from-the-filesystem
 [1234]:Problemset/1234-Replace%20the%20Substring%20for%20Balanced%20String/README.md#1234-replace-the-substring-for-balanced-string
+[1235]:Problemset/1235-Maximum%20Profit%20in%20Job%20Scheduling/README.md#1235-maximum-profit-in-job-scheduling
 [1237]:Problemset/1237-Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/README.md#1237-find-positive-integer-solution-for-a-given-equation
 [1238]:Problemset/1238-Circular%20Permutation%20in%20Binary%20Representation/README.md#1238-circular-permutation-in-binary-representation
 [1247]:Problemset/1247-Minimum%20Swaps%20to%20Make%20Strings%20Equal/README.md#1247-minimum-swaps-to-make-strings-equal
@@ -3463,6 +3465,7 @@
 [1232l]:https://leetcode.com/problems/check-if-it-is-a-straight-line/
 [1233l]:https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
 [1234l]:https://leetcode.com/problems/replace-the-substring-for-balanced-string/
+[1235l]:https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 [1237l]:https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 [1238l]:https://leetcode.com/problems/circular-permutation-in-binary-representation/
 [1247l]:https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
