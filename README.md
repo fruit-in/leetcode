@@ -732,6 +732,7 @@
 [1286][1286l]|[Iterator for Combination][1286]                                                      |![rs]
 [1287][1287l]|[Element Appearing More Than 25% In Sorted Array][1287]                               |![rs]
 [1288][1288l]|[Remove Covered Intervals][1288]                                                      |![rs]
+[1289][1289l]|[Minimum Falling Path Sum II][1289]                                                   |![rs]
 [1290][1290l]|[Convert Binary Number in a Linked List to Integer][1290]                             |![py]
 [1291][1291l]|[Sequential Digits][1291]                                                             |![rb]&nbsp;&nbsp;![rs]
 [1292][1292l]|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold][1292]      |![py]
@@ -2113,6 +2114,7 @@
 [1286]:Problemset/1286-Iterator%20for%20Combination/README.md#1286-iterator-for-combination
 [1287]:Problemset/1287-Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array/README.md#1287-element-appearing-more-than-25-in-sorted-array
 [1288]:Problemset/1288-Remove%20Covered%20Intervals/README.md#1288-remove-covered-intervals
+[1289]:Problemset/1289-Minimum%20Falling%20Path%20Sum%20II/README.md#1289-minimum-falling-path-sum-ii
 [1290]:Problemset/1290-Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/README.md#1290-convert-binary-number-in-a-linked-list-to-integer
 [1291]:Problemset/1291-Sequential%20Digits/README.md#1291-sequential-digits
 [1292]:Problemset/1292-Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/README.md#1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold
@@ -3494,6 +3496,7 @@
 [1286l]:https://leetcode.com/problems/iterator-for-combination/
 [1287l]:https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 [1288l]:https://leetcode.com/problems/remove-covered-intervals/
+[1289l]:https://leetcode.com/problems/minimum-falling-path-sum-ii/
 [1290l]:https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 [1291l]:https://leetcode.com/problems/sequential-digits/
 [1292l]:https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
