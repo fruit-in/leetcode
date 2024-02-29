@@ -826,6 +826,7 @@
 [1422][1422l]|[Maximum Score After Splitting a String][1422]                                        |![rs]
 [1423][1423l]|[Maximum Points You Can Obtain from Cards][1423]                                      |![rs]
 [1424][1424l]|[Diagonal Traverse II][1424]                                                          |![rb]
+[1425][1425l]|[Constrained Subsequence Sum][1425]                                                   |![rs]
 [1431][1431l]|[Kids With the Greatest Number of Candies][1431]                                      |![rs]
 [1432][1432l]|[Max Difference You Can Get From Changing an Integer][1432]                           |![rs]
 [1433][1433l]|[Check If a String Can Break Another String][1433]                                    |![rs]
@@ -2208,6 +2209,7 @@
 [1422]:Problemset/1422-Maximum%20Score%20After%20Splitting%20a%20String/README.md#1422-maximum-score-after-splitting-a-string
 [1423]:Problemset/1423-Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/README.md#1423-maximum-points-you-can-obtain-from-cards
 [1424]:Problemset/1424-Diagonal%20Traverse%20II/README.md#1424-diagonal-traverse-ii
+[1425]:Problemset/1425-Constrained%20Subsequence%20Sum/README.md#1425-constrained-subsequence-sum
 [1431]:Problemset/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies/README.md#1431-kids-with-the-greatest-number-of-candies
 [1432]:Problemset/1432-Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer/README.md#1432-max-difference-you-can-get-from-changing-an-integer
 [1433]:Problemset/1433-Check%20If%20a%20String%20Can%20Break%20Another%20String/README.md#1433-check-if-a-string-can-break-another-string
@@ -3590,6 +3592,7 @@
 [1422l]:https://leetcode.com/problems/maximum-score-after-splitting-a-string/
 [1423l]:https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 [1424l]:https://leetcode.com/problems/diagonal-traverse-ii/
+[1425l]:https://leetcode.com/problems/constrained-subsequence-sum/
 [1431l]:https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1432l]:https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/
 [1433l]:https://leetcode.com/problems/check-if-a-string-can-break-another-string/

@@ -826,6 +826,7 @@
 [1422][1422l]|[分割字符串的最大得分][1422]                              |![rs]
 [1423][1423l]|[可获得的最大点数][1423]                                  |![rs]
 [1424][1424l]|[对角线遍历 II][1424]                                     |![rb]
+[1425][1425l]|[带限制的子序列和][1425]                                  |![rs]
 [1431][1431l]|[拥有最多糖果的孩子][1431]                                |![rs]
 [1432][1432l]|[改变一个整数能得到的最大差值][1432]                      |![rs]
 [1433][1433l]|[检查一个字符串是否可以打破另一个字符串][1433]            |![rs]
@@ -2208,6 +2209,7 @@
 [1422]:Problemset/1422-Maximum%20Score%20After%20Splitting%20a%20String/README_CN.md#1422-分割字符串的最大得分
 [1423]:Problemset/1423-Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/README_CN.md#1423-可获得的最大点数
 [1424]:Problemset/1424-Diagonal%20Traverse%20II/README_CN.md#1424-对角线遍历-ii
+[1425]:Problemset/1425-Constrained%20Subsequence%20Sum/README_CN.md#1425-带限制的子序列和
 [1431]:Problemset/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies/README_CN.md#1431-拥有最多糖果的孩子
 [1432]:Problemset/1432-Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer/README_CN.md#1432-改变一个整数能得到的最大差值
 [1433]:Problemset/1433-Check%20If%20a%20String%20Can%20Break%20Another%20String/README_CN.md#1433-检查一个字符串是否可以打破另一个字符串
@@ -3590,6 +3592,7 @@
 [1422l]:https://leetcode.cn/problems/maximum-score-after-splitting-a-string/
 [1423l]:https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/
 [1424l]:https://leetcode.cn/problems/diagonal-traverse-ii/
+[1425l]:https://leetcode.cn/problems/constrained-subsequence-sum/
 [1431l]:https://leetcode.cn/problems/kids-with-the-greatest-number-of-candies/
 [1432l]:https://leetcode.cn/problems/max-difference-you-can-get-from-changing-an-integer/
 [1433l]:https://leetcode.cn/problems/check-if-a-string-can-break-another-string/
