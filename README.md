@@ -239,6 +239,7 @@
 [387][387l]  |[First Unique Character in a String][387]                                             |![rb]&nbsp;&nbsp;![rs]
 [389][389l]  |[Find the Difference][389]                                                            |![rs]
 [390][390l]  |[Elimination Game][390]                                                               |![rs]
+[391][391l]  |[Perfect Rectangle][391]                                                              |![rs]
 [392][392l]  |[Is Subsequence][392]                                                                 |![rs]
 [393][393l]  |[UTF-8 Validation][393]                                                               |![rs]
 [395][395l]  |[Longest Substring with At Least K Repeating Characters][395]                         |![rs]
@@ -1625,6 +1626,7 @@
 [387]:Problemset/0387-First%20Unique%20Character%20in%20a%20String/README.md#387-first-unique-character-in-a-string
 [389]:Problemset/0389-Find%20the%20Difference/README.md#389-find-the-difference
 [390]:Problemset/0390-Elimination%20Game/README.md#390-elimination-game
+[391]:Problemset/0391-Perfect%20Rectangle/README.md#391-perfect-rectangle
 [392]:Problemset/0392-Is%20Subsequence/README.md#392-is-subsequence
 [393]:Problemset/0393-UTF-8%20Validation/README.md#393-utf-8-validation
 [395]:Problemset/0395-Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/README.md#395-longest-substring-with-at-least-k-repeating-characters
@@ -3009,6 +3011,7 @@
 [387l]:https://leetcode.com/problems/first-unique-character-in-a-string/
 [389l]:https://leetcode.com/problems/find-the-difference/
 [390l]:https://leetcode.com/problems/elimination-game/
+[391l]:https://leetcode.com/problems/perfect-rectangle/
 [392l]:https://leetcode.com/problems/is-subsequence/
 [393l]:https://leetcode.com/problems/utf-8-validation/
 [395l]:https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/

@@ -239,6 +239,7 @@
 [387][387l]  |[字符串中的第一个唯一字符][387]                           |![rb]&nbsp;&nbsp;![rs]
 [389][389l]  |[找不同][389]                                             |![rs]
 [390][390l]  |[消除游戏][390]                                           |![rs]
+[391][391l]  |[完美矩形][391]                                           |![rs]
 [392][392l]  |[判断子序列][392]                                         |![rs]
 [393][393l]  |[UTF-8 编码验证][393]                                     |![rs]
 [395][395l]  |[至少有 K 个重复字符的最长子串][395]                      |![rs]
@@ -1625,6 +1626,7 @@
 [387]:Problemset/0387-First%20Unique%20Character%20in%20a%20String/README_CN.md#387-字符串中的第一个唯一字符
 [389]:Problemset/0389-Find%20the%20Difference/README_CN.md#389-找不同
 [390]:Problemset/0390-Elimination%20Game/README_CN.md#390-消除游戏
+[391]:Problemset/0391-Perfect%20Rectangle/README_CN.md#391-完美矩形
 [392]:Problemset/0392-Is%20Subsequence/README_CN.md#392-判断子序列
 [393]:Problemset/0393-UTF-8%20Validation/README_CN.md#393-utf-8-编码验证
 [395]:Problemset/0395-Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/README_CN.md#395-至少有-k-个重复字符的最长子串
@@ -3009,6 +3011,7 @@
 [387l]:https://leetcode.cn/problems/first-unique-character-in-a-string/
 [389l]:https://leetcode.cn/problems/find-the-difference/
 [390l]:https://leetcode.cn/problems/elimination-game/
+[391l]:https://leetcode.cn/problems/perfect-rectangle/
 [392l]:https://leetcode.cn/problems/is-subsequence/
 [393l]:https://leetcode.cn/problems/utf-8-validation/
 [395l]:https://leetcode.cn/problems/longest-substring-with-at-least-k-repeating-characters/
