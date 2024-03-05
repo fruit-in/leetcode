@@ -449,6 +449,7 @@
 [762][762l]  |[二进制表示中质数个计算置位][762]                         |![py]
 [763][763l]  |[划分字母区间][763]                                       |![rs]
 [764][764l]  |[最大加号标志][764]                                       |![rs]
+[765][765l]  |[情侣牵手][765]                                           |![py]
 [766][766l]  |[托普利茨矩阵][766]                                       |![rs]
 [767][767l]  |[重构字符串][767]                                         |![rs]
 [768][768l]  |[最多能完成排序的块 II][768]                              |![rs]
@@ -1836,6 +1837,7 @@
 [762]:Problemset/0762-Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/README_CN.md#762-二进制表示中质数个计算置位
 [763]:Problemset/0763-Partition%20Labels/README_CN.md#763-划分字母区间
 [764]:Problemset/0764-Largest%20Plus%20Sign/README_CN.md#764-最大加号标志
+[765]:Problemset/0765-Couples%20Holding%20Hands/README_CN.md#765-情侣牵手
 [766]:Problemset/0766-Toeplitz%20Matrix/README_CN.md#766-托普利茨矩阵
 [767]:Problemset/0767-Reorganize%20String/README_CN.md#767-重构字符串
 [768]:Problemset/0768-Max%20Chunks%20To%20Make%20Sorted%20II/README_CN.md#768-最多能完成排序的块-ii
@@ -3223,6 +3225,7 @@
 [762l]:https://leetcode.cn/problems/prime-number-of-set-bits-in-binary-representation/
 [763l]:https://leetcode.cn/problems/partition-labels/
 [764l]:https://leetcode.cn/problems/largest-plus-sign/
+[765l]:https://leetcode.cn/problems/couples-holding-hands/
 [766l]:https://leetcode.cn/problems/toeplitz-matrix/
 [767l]:https://leetcode.cn/problems/reorganize-string/
 [768l]:https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/
