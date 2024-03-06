@@ -343,6 +343,7 @@
 [543][543l]  |[Diameter of Binary Tree][543]                                                        |![py]
 [547][547l]  |[Number of Provinces][547]                                                            |![rb]&nbsp;&nbsp;![rs]
 [551][551l]  |[Student Attendance Record I][551]                                                    |![py]
+[552][552l]  |[Student Attendance Record II][552]                                                   |![rs]
 [553][553l]  |[Optimal Division][553]                                                               |![py]
 [554][554l]  |[Brick Wall][554]                                                                     |![rs]
 [556][556l]  |[Next Greater Element III][556]                                                       |![rs]
@@ -1731,6 +1732,7 @@
 [543]:Problemset/0543-Diameter%20of%20Binary%20Tree/README.md#543-diameter-of-binary-tree
 [547]:Problemset/0547-Number%20of%20Provinces/README.md#547-number-of-provinces
 [551]:Problemset/0551-Student%20Attendance%20Record%20I/README.md#551-student-attendance-record-i
+[552]:Problemset/0552-Student%20Attendance%20Record%20II/README.md#552-student-attendance-record-ii
 [553]:Problemset/0553-Optimal%20Division/README.md#553-optimal-division
 [554]:Problemset/0554-Brick%20Wall/README.md#554-brick-wall
 [556]:Problemset/0556-Next%20Greater%20Element%20III/README.md#556-next-greater-element-iii
@@ -3118,6 +3120,7 @@
 [543l]:https://leetcode.com/problems/diameter-of-binary-tree/
 [547l]:https://leetcode.com/problems/number-of-provinces/
 [551l]:https://leetcode.com/problems/student-attendance-record-i/
+[552l]:https://leetcode.com/problems/student-attendance-record-ii/
 [553l]:https://leetcode.com/problems/optimal-division/
 [554l]:https://leetcode.com/problems/brick-wall/
 [556l]:https://leetcode.com/problems/next-greater-element-iii/
