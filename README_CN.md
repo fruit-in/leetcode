@@ -70,6 +70,7 @@
 [81][81l]    |[搜索旋转排序数组 II][81]                                 |![rs]
 [82][82l]    |[删除排序链表中的重复元素 II][82]                         |![rb]
 [83][83l]    |[删除排序链表中的重复元素][83]                            |![py]
+[84][84l]    |[柱状图中最大的矩形][84]                                  |![rs]
 [85][85l]    |[最大矩形][85]                                            |![rs]
 [86][86l]    |[分隔链表][86]                                            |![py]
 [88][88l]    |[合并两个有序数组][88]                                    |![py]&nbsp;&nbsp;![rb]
@@ -1460,6 +1461,7 @@
 [81]:Problemset/0081-Search%20in%20Rotated%20Sorted%20Array%20II/README_CN.md#81-搜索旋转排序数组-ii
 [82]:Problemset/0082-Remove%20Duplicates%20from%20Sorted%20List%20II/README_CN.md#82-删除排序链表中的重复元素-ii
 [83]:Problemset/0083-Remove%20Duplicates%20from%20Sorted%20List/README_CN.md#83-删除排序链表中的重复元素
+[84]:Problemset/0084-Largest%20Rectangle%20in%20Histogram/README_CN.md#84-柱状图中最大的矩形
 [85]:Problemset/0085-Maximal%20Rectangle/README_CN.md#85-最大矩形
 [86]:Problemset/0086-Partition%20List/README_CN.md#86-分隔链表
 [88]:Problemset/0088-Merge%20Sorted%20Array/README_CN.md#88-合并两个有序数组
@@ -2843,6 +2845,7 @@
 [81l]:https://leetcode.cn/problems/search-in-rotated-sorted-array-ii/
 [82l]:https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/
 [83l]:https://leetcode.cn/problems/remove-duplicates-from-sorted-list/
+[84l]:https://leetcode.cn/problems/largest-rectangle-in-histogram/
 [85l]:https://leetcode.cn/problems/maximal-rectangle/
 [84l]:https://leetcode.cn/problems/largest-rectangle-in-histogram/
 [86l]:https://leetcode.cn/problems/partition-list/
