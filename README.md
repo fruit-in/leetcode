@@ -550,6 +550,7 @@
 [916][916l]  |[Word Subsets][916]                                                                   |![rb]&nbsp;&nbsp;![rs]
 [917][917l]  |[Reverse Only Letters][917]                                                           |![py]
 [919][919l]  |[Complete Binary Tree Inserter][919]                                                  |![py]
+[920][920l]  |[Number of Music Playlists][920]                                                      |![rs]
 [921][921l]  |[Minimum Add to Make Parentheses Valid][921]                                          |![rs]
 [922][922l]  |[Sort Array By Parity II][922]                                                        |![py]
 [923][923l]  |[3Sum With Multiplicity][923]                                                         |![rs]
@@ -1939,6 +1940,7 @@
 [916]:Problemset/0916-Word%20Subsets/README.md#916-word-subsets
 [917]:Problemset/0917-Reverse%20Only%20Letters/README.md#917-reverse-only-letters
 [919]:Problemset/0919-Complete%20Binary%20Tree%20Inserter/README.md#919-complete-binary-tree-inserter
+[920]:Problemset/0920-Number%20of%20Music%20Playlists/README.md#920-number-of-music-playlists
 [921]:Problemset/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid/README.md#921-minimum-add-to-make-parentheses-valid
 [922]:Problemset/0922-Sort%20Array%20By%20Parity%20II/README.md#922-sort-array-by-parity-ii
 [923]:Problemset/0923-3Sum%20With%20Multiplicity/README.md#923-3sum-with-multiplicity
@@ -3328,6 +3330,7 @@
 [916l]:https://leetcode.com/problems/word-subsets/
 [917l]:https://leetcode.com/problems/reverse-only-letters/
 [919l]:https://leetcode.com/problems/complete-binary-tree-inserter/
+[920l]:https://leetcode.com/problems/number-of-music-playlists/
 [921l]:https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 [922l]:https://leetcode.com/problems/sort-array-by-parity-ii/
 [923l]:https://leetcode.com/problems/3sum-with-multiplicity/
