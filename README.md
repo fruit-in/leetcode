@@ -198,6 +198,7 @@
 [290][290l]  |[Word Pattern][290]                                                                   |![py]
 [292][292l]  |[Nim Game][292]                                                                       |![rb]&nbsp;&nbsp;![rs]
 [295][295l]  |[Find Median from Data Stream][295]                                                   |![py]
+[297][297l]  |[Serialize and Deserialize Binary Tree][297]                                          |![py]
 [299][299l]  |[Bulls and Cows][299]                                                                 |![py]
 [300][300l]  |[Longest Increasing Subsequence][300]                                                 |![rs]
 [303][303l]  |[Range Sum Query - Immutable][303]                                                    |![py]
@@ -1589,6 +1590,7 @@
 [290]:Problemset/0290-Word%20Pattern/README.md#290-word-pattern
 [292]:Problemset/0292-Nim%20Game/README.md#292-nim-game
 [295]:Problemset/0295-Find%20Median%20from%20Data%20Stream/README.md#295-find-median-from-data-stream
+[297]:Problemset/0297-Serialize%20and%20Deserialize%20Binary%20Tree/README.md#297-serialize-and-deserialize-binary-tree
 [299]:Problemset/0299-Bulls%20and%20Cows/README.md#299-bulls-and-cows
 [300]:Problemset/0300-Longest%20Increasing%20Subsequence/README.md#300-longest-increasing-subsequence
 [303]:Problemset/0303-Range%20Sum%20Query%20-%20Immutable/README.md#303-range-sum-query---immutable

@@ -198,6 +198,7 @@
 [290][290l]  |[单词规律][290]                                           |![py]
 [292][292l]  |[Nim 游戏][292]                                           |![rb]&nbsp;&nbsp;![rs]
 [295][295l]  |[数据流的中位数][295]                                     |![py]
+[297][297l]  |[二叉树的序列化与反序列化][297]                           |![py]
 [299][299l]  |[猜数字游戏][299]                                         |![py]
 [300][300l]  |[最长递增子序列][300]                                     |![rs]
 [303][303l]  |[区域和检索 - 数组不可变][303]                            |![py]
@@ -1589,6 +1590,7 @@
 [290]:Problemset/0290-Word%20Pattern/README_CN.md#290-单词规律
 [292]:Problemset/0292-Nim%20Game/README_CN.md#292-nim-游戏
 [295]:Problemset/0295-Find%20Median%20from%20Data%20Stream/README_CN.md#295-数据流的中位数
+[297]:Problemset/0297-Serialize%20and%20Deserialize%20Binary%20Tree/README_CN.md#297-二叉树的序列化与反序列化
 [299]:Problemset/0299-Bulls%20and%20Cows/README_CN.md#299-猜数字游戏
 [300]:Problemset/0300-Longest%20Increasing%20Subsequence/README_CN.md#300-最长递增子序列
 [303]:Problemset/0303-Range%20Sum%20Query%20-%20Immutable/README_CN.md#303-区域和检索---数组不可变
