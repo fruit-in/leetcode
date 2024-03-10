@@ -749,6 +749,7 @@
 [1295][1295l]|[统计位数为偶数的数字][1295]                              |![py]
 [1296][1296l]|[划分数组为连续数字的集合][1296]                          |![rs]
 [1297][1297l]|[子串的最大出现次数][1297]                                |![rs]
+[1298][1298l]|[你能从盒子里获得的最大糖果数][1298]                      |![rs]
 [1299][1299l]|[将每个元素替换为右侧最大元素][1299]                      |![rs]
 [1300][1300l]|[转变数组后最接近目标值的数组和][1300]                    |![rs]
 [1302][1302l]|[层数最深叶子节点的和][1302]                              |![py]
@@ -2143,6 +2144,7 @@
 [1295]:Problemset/1295-Find%20Numbers%20with%20Even%20Number%20of%20Digits/README_CN.md#1295-统计位数为偶数的数字
 [1296]:Problemset/1296-Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers/README_CN.md#1296-划分数组为连续数字的集合
 [1297]:Problemset/1297-Maximum%20Number%20of%20Occurrences%20of%20a%20Substring/README_CN.md#1297-子串的最大出现次数
+[1298]:Problemset/1298-Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/README_CN.md#1298-你能从盒子里获得的最大糖果数
 [1299]:Problemset/1299-Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/README_CN.md#1299-将每个元素替换为右侧最大元素
 [1300]:Problemset/1300-Sum%20of%20Mutated%20Array%20Closest%20to%20Target/README_CN.md#1300-转变数组后最接近目标值的数组和
 [1302]:Problemset/1302-Deepest%20Leaves%20Sum/README_CN.md#1302-层数最深叶子节点的和
@@ -3536,6 +3538,7 @@
 [1295l]:https://leetcode.cn/problems/find-numbers-with-even-number-of-digits/
 [1296l]:https://leetcode.cn/problems/divide-array-in-sets-of-k-consecutive-numbers/
 [1297l]:https://leetcode.cn/problems/maximum-number-of-occurrences-of-a-substring/
+[1298l]:https://leetcode.cn/problems/maximum-candies-you-can-get-from-boxes/
 [1299l]:https://leetcode.cn/problems/replace-elements-with-greatest-element-on-right-side/
 [1300l]:https://leetcode.cn/problems/sum-of-mutated-array-closest-to-target/
 [1302l]:https://leetcode.cn/problems/deepest-leaves-sum/

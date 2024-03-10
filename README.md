@@ -749,6 +749,7 @@
 [1295][1295l]|[Find Numbers with Even Number of Digits][1295]                                       |![py]
 [1296][1296l]|[Divide Array in Sets of K Consecutive Numbers][1296]                                 |![rs]
 [1297][1297l]|[Maximum Number of Occurrences of a Substring][1297]                                  |![rs]
+[1298][1298l]|[Maximum Candies You Can Get from Boxes][1298]                                        |![rs]
 [1299][1299l]|[Replace Elements with Greatest Element on Right Side][1299]                          |![rs]
 [1300][1300l]|[Sum of Mutated Array Closest to Target][1300]                                        |![rs]
 [1302][1302l]|[Deepest Leaves Sum][1302]                                                            |![py]
@@ -2143,6 +2144,7 @@
 [1295]:Problemset/1295-Find%20Numbers%20with%20Even%20Number%20of%20Digits/README.md#1295-find-numbers-with-even-number-of-digits
 [1296]:Problemset/1296-Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers/README.md#1296-divide-array-in-sets-of-k-consecutive-numbers
 [1297]:Problemset/1297-Maximum%20Number%20of%20Occurrences%20of%20a%20Substring/README.md#1297-maximum-number-of-occurrences-of-a-substring
+[1298]:Problemset/1298-Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/README.md#1298-maximum-candies-you-can-get-from-boxes
 [1299]:Problemset/1299-Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/README.md#1299-replace-elements-with-greatest-element-on-right-side
 [1300]:Problemset/1300-Sum%20of%20Mutated%20Array%20Closest%20to%20Target/README.md#1300-sum-of-mutated-array-closest-to-target
 [1302]:Problemset/1302-Deepest%20Leaves%20Sum/README.md#1302-deepest-leaves-sum
@@ -3536,6 +3538,7 @@
 [1295l]:https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 [1296l]:https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
 [1297l]:https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
+[1298l]:https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 [1299l]:https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 [1300l]:https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
 [1302l]:https://leetcode.com/problems/deepest-leaves-sum/
