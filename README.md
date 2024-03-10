@@ -37,6 +37,7 @@
 [39][39l]    |[Combination Sum][39]                                                                 |![rb]
 [41][41l]    |[First Missing Positive][41]                                                          |![rs]
 [42][42l]    |[Trapping Rain Water][42]                                                             |![rs]
+[45][45l]    |[Jump Game II][45]                                                                    |![rs]
 [46][46l]    |[Permutations][46]                                                                    |![rs]
 [47][47l]    |[Permutations II][47]                                                                 |![rs]
 [48][48l]    |[Rotate Image][48]                                                                    |![rs]
@@ -1430,6 +1431,7 @@
 [39]:Problemset/0039-Combination%20Sum/README.md#39-combination-sum
 [41]:Problemset/0041-First%20Missing%20Positive/README.md#41-first-missing-positive
 [42]:Problemset/0042-Trapping%20Rain%20Water/README.md#42-trapping-rain-water
+[45]:Problemset/0045-Jump%20Game%20II/README.md#45-jump-game-ii
 [46]:Problemset/0046-Permutations/README.md#46-permutations
 [47]:Problemset/0047-Permutations%20II/README.md#47-permutations-ii
 [48]:Problemset/0048-Rotate%20Image/README.md#48-rotate-image
@@ -2816,6 +2818,7 @@
 [39l]:https://leetcode.com/problems/combination-sum/
 [41l]:https://leetcode.com/problems/first-missing-positive/
 [42l]:https://leetcode.com/problems/trapping-rain-water/
+[45l]:https://leetcode.com/problems/jump-game-ii/
 [46l]:https://leetcode.com/problems/permutations/
 [47l]:https://leetcode.com/problems/permutations-ii/
 [48l]:https://leetcode.com/problems/rotate-image/
