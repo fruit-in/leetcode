@@ -770,6 +770,7 @@
 [1325][1325l]|[Delete Leaves With a Given Value][1325]                                              |![py]
 [1328][1328l]|[Break a Palindrome][1328]                                                            |![rb]&nbsp;&nbsp;![rs]
 [1329][1329l]|[Sort the Matrix Diagonally][1329]                                                    |![rb]&nbsp;&nbsp;![rs]
+[1330][1330l]|[Reverse Subarray To Maximize Array Value][1330]                                      |![rs]
 [1331][1331l]|[Rank Transform of an Array][1331]                                                    |![py]
 [1332][1332l]|[Remove Palindromic Subsequences][1332]                                               |![py]
 [1333][1333l]|[Filter Restaurants by Vegan-Friendly, Price and Distance][1333]                      |![rb]&nbsp;&nbsp;![rs]
@@ -2165,6 +2166,7 @@
 [1325]:Problemset/1325-Delete%20Leaves%20With%20a%20Given%20Value/README.md#1325-delete-leaves-with-a-given-value
 [1328]:Problemset/1328-Break%20a%20Palindrome/README.md#1328-break-a-palindrome
 [1329]:Problemset/1329-Sort%20the%20Matrix%20Diagonally/README.md#1329-sort-the-matrix-diagonally
+[1330]:Problemset/1330-Reverse%20Subarray%20To%20Maximize%20Array%20Value/README.md#1330-reverse-subarray-to-maximize-array-value
 [1331]:Problemset/1331-Rank%20Transform%20of%20an%20Array/README.md#1331-rank-transform-of-an-array
 [1332]:Problemset/1332-Remove%20Palindromic%20Subsequences/README.md#1332-remove-palindromic-subsequences
 [1333]:Problemset/1333-Filter%20Restaurants%20by%20Vegan-Friendly,%20Price%20and%20Distance/README.md#1333-filter-restaurants-by-vegan-friendly-price-and-distance
@@ -3559,6 +3561,7 @@
 [1325l]:https://leetcode.com/problems/delete-leaves-with-a-given-value/
 [1328l]:https://leetcode.com/problems/break-a-palindrome/
 [1329l]:https://leetcode.com/problems/sort-the-matrix-diagonally/
+[1330l]:https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/
 [1331l]:https://leetcode.com/problems/rank-transform-of-an-array/
 [1332l]:https://leetcode.com/problems/remove-palindromic-subsequences/
 [1333l]:https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/

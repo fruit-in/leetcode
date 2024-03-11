@@ -770,6 +770,7 @@
 [1325][1325l]|[删除给定值的叶子节点][1325]                              |![py]
 [1328][1328l]|[破坏回文串][1328]                                        |![rb]&nbsp;&nbsp;![rs]
 [1329][1329l]|[将矩阵按对角线排序][1329]                                |![rb]&nbsp;&nbsp;![rs]
+[1330][1330l]|[翻转子数组得到最大的数组值][1330]                        |![rs]
 [1331][1331l]|[数组序号转换][1331]                                      |![py]
 [1332][1332l]|[删除回文子序列][1332]                                    |![py]
 [1333][1333l]|[餐厅过滤器][1333]                                        |![rb]&nbsp;&nbsp;![rs]
@@ -2165,6 +2166,7 @@
 [1325]:Problemset/1325-Delete%20Leaves%20With%20a%20Given%20Value/README_CN.md#1325-删除给定值的叶子节点
 [1328]:Problemset/1328-Break%20a%20Palindrome/README_CN.md#1328-破坏回文串
 [1329]:Problemset/1329-Sort%20the%20Matrix%20Diagonally/README_CN.md#1329-将矩阵按对角线排序
+[1330]:Problemset/1330-Reverse%20Subarray%20To%20Maximize%20Array%20Value/README_CN.md#1330-翻转子数组得到最大的数组值
 [1331]:Problemset/1331-Rank%20Transform%20of%20an%20Array/README_CN.md#1331-数组序号转换
 [1332]:Problemset/1332-Remove%20Palindromic%20Subsequences/README_CN.md#1332-删除回文子序列
 [1333]:Problemset/1333-Filter%20Restaurants%20by%20Vegan-Friendly,%20Price%20and%20Distance/README_CN.md#1333-餐厅过滤器
@@ -3559,6 +3561,7 @@
 [1325l]:https://leetcode.cn/problems/delete-leaves-with-a-given-value/
 [1328l]:https://leetcode.cn/problems/break-a-palindrome/
 [1329l]:https://leetcode.cn/problems/sort-the-matrix-diagonally/
+[1330l]:https://leetcode.cn/problems/reverse-subarray-to-maximize-array-value/
 [1331l]:https://leetcode.cn/problems/rank-transform-of-an-array/
 [1332l]:https://leetcode.cn/problems/remove-palindromic-subsequences/
 [1333l]:https://leetcode.cn/problems/filter-restaurants-by-vegan-friendly-price-and-distance/
