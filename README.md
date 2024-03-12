@@ -475,6 +475,7 @@
 [796][796l]  |[Rotate String][796]                                                                  |![rs]
 [799][799l]  |[Champagne Tower][799]                                                                |![rs]
 [804][804l]  |[Unique Morse Code Words][804]                                                        |![py]
+[805][805l]  |[Split Array With Same Average][805]                                                  |![py]
 [806][806l]  |[Number of Lines To Write String][806]                                                |![py]
 [807][807l]  |[Max Increase to Keep City Skyline][807]                                              |![rs]
 [808][808l]  |[Soup Servings][808]                                                                  |![rs]
@@ -1871,6 +1872,7 @@
 [796]:Problemset/0796-Rotate%20String/README.md#796-rotate-string
 [799]:Problemset/0799-Champagne%20Tower/README.md#799-champagne-tower
 [804]:Problemset/0804-Unique%20Morse%20Code%20Words/README.md#804-unique-morse-code-words
+[805]:Problemset/0805-Split%20Array%20With%20Same%20Average/README.md#805-split-array-with-same-average
 [806]:Problemset/0806-Number%20of%20Lines%20To%20Write%20String/README.md#806-number-of-lines-to-write-string
 [807]:Problemset/0807-Max%20Increase%20to%20Keep%20City%20Skyline/README.md#807-max-increase-to-keep-city-skyline
 [808]:Problemset/0808-Soup%20Servings/README.md#808-soup-servings
@@ -3266,6 +3268,7 @@
 [796l]:https://leetcode.com/problems/rotate-string/
 [799l]:https://leetcode.com/problems/champagne-tower/
 [804l]:https://leetcode.com/problems/unique-morse-code-words/
+[805l]:https://leetcode.com/problems/split-array-with-same-average/
 [806l]:https://leetcode.com/problems/number-of-lines-to-write-string/
 [807l]:https://leetcode.com/problems/max-increase-to-keep-city-skyline/
 [808l]:https://leetcode.com/problems/soup-servings/
