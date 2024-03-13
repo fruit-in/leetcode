@@ -876,6 +876,7 @@
 [1493][1493l]|[Longest Subarray of 1's After Deleting One Element][1493]                            |![rb]&nbsp;&nbsp;![rs]
 [1496][1496l]|[Path Crossing][1496]                                                                 |![rs]
 [1497][1497l]|[Check If Array Pairs Are Divisible by k][1497]                                       |![rs]
+[1499][1499l]|[Max Value of Equation][1499]                                                         |![rs]
 [1502][1502l]|[Can Make Arithmetic Progression From Sequence][1502]                                 |![rb]&nbsp;&nbsp;![rs]
 [1503][1503l]|[Last Moment Before All Ants Fall Out of a Plank][1503]                               |![rb]&nbsp;&nbsp;![rs]
 [1504][1504l]|[Count Submatrices With All Ones][1504]                                               |![rs]
@@ -2273,6 +2274,7 @@
 [1493]:Problemset/1493-Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/README.md#1493-longest-subarray-of-1s-after-deleting-one-element
 [1496]:Problemset/1496-Path%20Crossing/README.md#1496-path-crossing
 [1497]:Problemset/1497-Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/README.md#1497-check-if-array-pairs-are-divisible-by-k
+[1499]:Problemset/1499-Max%20Value%20of%20Equation/README.md#1499-max-value-of-equation
 [1502]:Problemset/1502-Can%20Make%20Arithmetic%20Progression%20From%20Sequence/README.md#1502-can-make-arithmetic-progression-from-sequence
 [1503]:Problemset/1503-Last%20Moment%20Before%20All%20Ants%20Fall%20Out%20of%20a%20Plank/README.md#1503-last-moment-before-all-ants-fall-out-of-a-plank
 [1504]:Problemset/1504-Count%20Submatrices%20With%20All%20Ones/README.md#1504-count-submatrices-with-all-ones
@@ -3669,6 +3671,7 @@
 [1493l]:https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
 [1496l]:https://leetcode.com/problems/path-crossing/
 [1497l]:https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/
+[1499l]:https://leetcode.com/problems/max-value-of-equation/
 [1502l]:https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 [1503l]:https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/
 [1504l]:https://leetcode.com/problems/count-submatrices-with-all-ones/
