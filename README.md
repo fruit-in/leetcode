@@ -670,6 +670,7 @@
 [1094][1094l]|[Car Pooling][1094]                                                                   |![rs]
 [1103][1103l]|[Distribute Candies to People][1103]                                                  |![py]
 [1104][1104l]|[Path In Zigzag Labelled Binary Tree][1104]                                           |![rs]
+[1106][1106l]|[Parsing A Boolean Expression][1106]                                                  |![rs]
 [1108][1108l]|[Defanging an IP Address][1108]                                                       |![rs]
 [1109][1109l]|[Corporate Flight Bookings][1109]                                                     |![rs]
 [1110][1110l]|[Delete Nodes And Return Forest][1110]                                                |![py]&nbsp;&nbsp;![rb]
@@ -2069,6 +2070,7 @@
 [1094]:Problemset/1094-Car%20Pooling/README.md#1094-car-pooling
 [1103]:Problemset/1103-Distribute%20Candies%20to%20People/README.md#1103-distribute-candies-to-people
 [1104]:Problemset/1104-Path%20In%20Zigzag%20Labelled%20Binary%20Tree/README.md#1104-path-in-zigzag-labelled-binary-tree
+[1106]:Problemset/1106-Parsing%20A%20Boolean%20Expression/README.md#1106-parsing-a-boolean-expression
 [1108]:Problemset/1108-Defanging%20an%20IP%20Address/README.md#1108-defanging-an-ip-address
 [1109]:Problemset/1109-Corporate%20Flight%20Bookings/README.md#1109-corporate-flight-bookings
 [1110]:Problemset/1110-Delete%20Nodes%20And%20Return%20Forest/README.md#1110-delete-nodes-and-return-forest
@@ -3467,6 +3469,7 @@
 [1094l]:https://leetcode.com/problems/car-pooling/
 [1103l]:https://leetcode.com/problems/distribute-candies-to-people/
 [1104l]:https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/
+[1106l]:https://leetcode.com/problems/parsing-a-boolean-expression/
 [1108l]:https://leetcode.com/problems/defanging-an-ip-address/
 [1109l]:https://leetcode.com/problems/corporate-flight-bookings/
 [1110l]:https://leetcode.com/problems/delete-nodes-and-return-forest/
