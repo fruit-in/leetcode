@@ -391,6 +391,7 @@
 [641][641l]  |[设计循环双端队列][641]                                   |![rs]
 [643][643l]  |[子数组最大平均数 I][643]                                 |![rs]
 [645][645l]  |[错误的集合][645]                                         |![rs]
+[646][646l]  |[最长数对链][646]                                         |![rs]
 [647][647l]  |[回文子串][647]                                           |![rb]
 [648][648l]  |[单词替换][648]                                           |![py]
 [652][652l]  |[寻找重复的子树][652]                                     |![py]
@@ -1791,6 +1792,7 @@
 [641]:Problemset/0641-Design%20Circular%20Deque/README_CN.md#641-设计循环双端队列
 [643]:Problemset/0643-Maximum%20Average%20Subarray%20I/README_CN.md#643-子数组最大平均数-i
 [645]:Problemset/0645-Set%20Mismatch/README_CN.md#645-错误的集合
+[646]:Problemset/0646-Maximum%20Length%20of%20Pair%20Chain/README_CN.md#646-最长数对链
 [647]:Problemset/0647-Palindromic%20Substrings/README_CN.md#647-回文子串
 [648]:Problemset/0648-Replace%20Words/README_CN.md#648-单词替换
 [652]:Problemset/0652-Find%20Duplicate%20Subtrees/README_CN.md#652-寻找重复的子树
@@ -3189,6 +3191,7 @@
 [641l]:https://leetcode.cn/problems/design-circular-deque/
 [643l]:https://leetcode.cn/problems/maximum-average-subarray-i/
 [645l]:https://leetcode.cn/problems/set-mismatch/
+[646l]:https://leetcode.cn/problems/maximum-length-of-pair-chain/
 [647l]:https://leetcode.cn/problems/palindromic-substrings/
 [648l]:https://leetcode.cn/problems/replace-words/
 [652l]:https://leetcode.cn/problems/find-duplicate-subtrees/

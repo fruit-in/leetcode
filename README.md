@@ -391,6 +391,7 @@
 [641][641l]  |[Design Circular Deque][641]                                                          |![rs]
 [643][643l]  |[Maximum Average Subarray I][643]                                                     |![rs]
 [645][645l]  |[Set Mismatch][645]                                                                   |![rs]
+[646][646l]  |[Maximum Length of Pair Chain][646]                                                   |![rs]
 [647][647l]  |[Palindromic Substrings][647]                                                         |![rb]
 [648][648l]  |[Replace Words][648]                                                                  |![py]
 [652][652l]  |[Find Duplicate Subtrees][652]                                                        |![py]
@@ -1791,6 +1792,7 @@
 [641]:Problemset/0641-Design%20Circular%20Deque/README.md#641-design-circular-deque
 [643]:Problemset/0643-Maximum%20Average%20Subarray%20I/README.md#643-maximum-average-subarray-i
 [645]:Problemset/0645-Set%20Mismatch/README.md#645-set-mismatch
+[646]:Problemset/0646-Maximum%20Length%20of%20Pair%20Chain/README.md#646-maximum-length-of-pair-chain
 [647]:Problemset/0647-Palindromic%20Substrings/README.md#647-palindromic-substrings
 [648]:Problemset/0648-Replace%20Words/README.md#648-replace-words
 [652]:Problemset/0652-Find%20Duplicate%20Subtrees/README.md#652-find-duplicate-subtrees
@@ -3189,6 +3191,7 @@
 [641l]:https://leetcode.com/problems/design-circular-deque/
 [643l]:https://leetcode.com/problems/maximum-average-subarray-i/
 [645l]:https://leetcode.com/problems/set-mismatch/
+[646l]:https://leetcode.com/problems/maximum-length-of-pair-chain/
 [647l]:https://leetcode.com/problems/palindromic-substrings/
 [648l]:https://leetcode.com/problems/replace-words/
 [652l]:https://leetcode.com/problems/find-duplicate-subtrees/
