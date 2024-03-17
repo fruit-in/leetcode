@@ -401,6 +401,7 @@
 [657][657l]  |[Robot Return to Origin][657]                                                         |![py]&nbsp;&nbsp;![rs]
 [658][658l]  |[Find K Closest Elements][658]                                                        |![rs]
 [661][661l]  |[Image Smoother][661]                                                                 |![rs]
+[662][662l]  |[Maximum Width of Binary Tree][662]                                                   |![py]
 [665][665l]  |[Non-decreasing Array][665]                                                           |![py]
 [669][669l]  |[Trim a Binary Search Tree][669]                                                      |![py]
 [670][670l]  |[Maximum Swap][670]                                                                   |![rs]
@@ -1802,6 +1803,7 @@
 [657]:Problemset/0657-Robot%20Return%20to%20Origin/README.md#657-robot-return-to-origin
 [658]:Problemset/0658-Find%20K%20Closest%20Elements/README.md#658-find-k-closest-elements
 [661]:Problemset/0661-Image%20Smoother/README.md#661-image-smoother
+[662]:Problemset/0662-Maximum%20Width%20of%20Binary%20Tree/README.md#662-maximum-width-of-binary-tree
 [665]:Problemset/0665-Non-decreasing%20Array/README.md#665-non-decreasing-array
 [669]:Problemset/0669-Trim%20a%20Binary%20Search%20Tree/README.md#669-trim-a-binary-search-tree
 [670]:Problemset/0670-Maximum%20Swap/README.md#670-maximum-swap
@@ -3201,6 +3203,7 @@
 [657l]:https://leetcode.com/problems/robot-return-to-origin/
 [658l]:https://leetcode.com/problems/find-k-closest-elements/
 [661l]:https://leetcode.com/problems/image-smoother/
+[662l]:https://leetcode.com/problems/maximum-width-of-binary-tree/
 [665l]:https://leetcode.com/problems/non-decreasing-array/
 [669l]:https://leetcode.com/problems/trim-a-binary-search-tree/
 [670l]:https://leetcode.com/problems/maximum-swap/
