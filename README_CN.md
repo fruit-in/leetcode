@@ -584,6 +584,7 @@
 [951][951l]  |[翻转等价二叉树][951]                                     |![rb]
 [953][953l]  |[验证外星语词典][953]                                     |![py]
 [954][954l]  |[二倍数对数组][954]                                       |![py]
+[956][956l]  |[最高的广告牌][956]                                       |![rs]
 [957][957l]  |[N 天后的牢房][957]                                       |![rs]
 [958][958l]  |[二叉树的完全性检验][958]                                 |![py]
 [961][961l]  |[重复 N 次的元素][961]                                    |![rs]
@@ -1986,6 +1987,7 @@
 [951]:Problemset/0951-Flip%20Equivalent%20Binary%20Trees/README_CN.md#951-翻转等价二叉树
 [953]:Problemset/0953-Verifying%20an%20Alien%20Dictionary/README_CN.md#953-验证外星语词典
 [954]:Problemset/0954-Array%20of%20Doubled%20Pairs/README_CN.md#954-二倍数对数组
+[956]:Problemset/0956-Tallest%20Billboard/README_CN.md#956-最高的广告牌
 [957]:Problemset/0957-Prison%20Cells%20After%20N%20Days/README_CN.md#957-n-天后的牢房
 [958]:Problemset/0958-Check%20Completeness%20of%20a%20Binary%20Tree/README_CN.md#958-二叉树的完全性检验
 [961]:Problemset/0961-N-Repeated%20Element%20in%20Size%202N%20Array/README_CN.md#961-重复-n-次的元素
@@ -3387,6 +3389,7 @@
 [951l]:https://leetcode.cn/problems/flip-equivalent-binary-trees/
 [953l]:https://leetcode.cn/problems/verifying-an-alien-dictionary/
 [954l]:https://leetcode.cn/problems/array-of-doubled-pairs/
+[956l]:https://leetcode.cn/problems/tallest-billboard/
 [957l]:https://leetcode.cn/problems/prison-cells-after-n-days/
 [958l]:https://leetcode.cn/problems/check-completeness-of-a-binary-tree/
 [961l]:https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/
