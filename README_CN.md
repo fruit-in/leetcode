@@ -1262,6 +1262,7 @@
 [2284][2284l]|[最多单词数的发件人][2284]                                |![py]
 [2287][2287l]|[重排字符形成目标字符串][2287]                            |![rs]
 [2289][2289l]|[使数组按非递减顺序排列][2289]                            |![rs]
+[2290][2290l]|[到达角落需要移除障碍物的最小数目][2290]                  |![rs]
 [2293][2293l]|[极大极小游戏][2293]                                      |![rs]
 [2294][2294l]|[划分数组使最大差为 K][2294]                              |![rs]
 [2295][2295l]|[替换数组中的元素][2295]                                  |![rs]
@@ -2665,6 +2666,7 @@
 [2284]:Problemset/2284-Sender%20With%20Largest%20Word%20Count/README_CN.md#2284-最多单词数的发件人
 [2287]:Problemset/2287-Rearrange%20Characters%20to%20Make%20Target%20String/README_CN.md#2287-重排字符形成目标字符串
 [2289]:Problemset/2289-Steps%20to%20Make%20Array%20Non-decreasing/README_CN.md#2289-使数组按非递减顺序排列
+[2290]:Problemset/2290-Minimum%20Obstacle%20Removal%20to%20Reach%20Corner/README_CN.md#2290-到达角落需要移除障碍物的最小数目
 [2293]:Problemset/2293-Min%20Max%20Game/README_CN.md#2293-极大极小游戏
 [2294]:Problemset/2294-Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K/README_CN.md#2294-划分数组使最大差为-k
 [2295]:Problemset/2295-Replace%20Elements%20in%20an%20Array/README_CN.md#2295-替换数组中的元素
@@ -4067,6 +4069,7 @@
 [2284l]:https://leetcode.cn/problems/sender-with-largest-word-count/
 [2287l]:https://leetcode.cn/problems/rearrange-characters-to-make-target-string/
 [2289l]:https://leetcode.cn/problems/steps-to-make-array-non-decreasing/
+[2290l]:https://leetcode.cn/problems/minimum-obstacle-removal-to-reach-corner/
 [2293l]:https://leetcode.cn/problems/min-max-game/
 [2294l]:https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/
 [2295l]:https://leetcode.cn/problems/replace-elements-in-an-array/
