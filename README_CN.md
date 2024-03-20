@@ -1042,6 +1042,7 @@
 [1833][1833l]|[雪糕的最大数量][1833]                                    |![rs]
 [1834][1834l]|[单线程 CPU][1834]                                        |![rs]
 [1837][1837l]|[K 进制表示下的各位数字总和][1837]                        |![rb]&nbsp;&nbsp;![rs]
+[1840][1840l]|[最高建筑高度][1840]                                      |![rs]
 [1844][1844l]|[将所有数字用字符替换][1844]                              |![rs]
 [1845][1845l]|[座位预约管理系统][1845]                                  |![py]
 [1846][1846l]|[减小和重新排列数组后的最大元素][1846]                    |![rs]
@@ -2446,6 +2447,7 @@
 [1833]:Problemset/1833-Maximum%20Ice%20Cream%20Bars/README_CN.md#1833-雪糕的最大数量
 [1834]:Problemset/1834-Single-Threaded%20CPU/README_CN.md#1834-单线程-cpu
 [1837]:Problemset/1837-Sum%20of%20Digits%20in%20Base%20K/README_CN.md#1837-k-进制表示下的各位数字总和
+[1840]:Problemset/1840-Maximum%20Building%20Height/README_CN.md#1840-最高建筑高度
 [1844]:Problemset/1844-Replace%20All%20Digits%20with%20Characters/README_CN.md#1844-将所有数字用字符替换
 [1845]:Problemset/1845-Seat%20Reservation%20Manager/README_CN.md#1845-座位预约管理系统
 [1846]:Problemset/1846-Maximum%20Element%20After%20Decreasing%20and%20Rearranging/README_CN.md#1846-减小和重新排列数组后的最大元素
@@ -3849,6 +3851,7 @@
 [1833l]:https://leetcode.cn/problems/maximum-ice-cream-bars/
 [1834l]:https://leetcode.cn/problems/single-threaded-cpu/
 [1837l]:https://leetcode.cn/problems/sum-of-digits-in-base-k/
+[1840l]:https://leetcode.cn/problems/maximum-building-height/
 [1844l]:https://leetcode.cn/problems/replace-all-digits-with-character/
 [1845l]:https://leetcode.cn/problems/seat-reservation-manager/
 [1846l]:https://leetcode.cn/problems/maximum-element-after-decreasing-and-rearranging/
