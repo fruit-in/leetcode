@@ -869,6 +869,7 @@
 [1470][1470l]|[重新排列数组][1470]                                      |![rs]
 [1471][1471l]|[数组中的 k 个最强值][1471]                               |![rb]&nbsp;&nbsp;![rs]
 [1472][1472l]|[设计浏览器历史记录][1472]                                |![rs]
+[1473][1473l]|[粉刷房子 III][1473]                                      |![rs]
 [1475][1475l]|[商品折扣后的最终价格][1475]                              |![rs]
 [1476][1476l]|[子矩形查询][1476]                                        |![rs]
 [1480][1480l]|[一维数组的动态和][1480]                                  |![rb]&nbsp;&nbsp;![rs]
@@ -2274,6 +2275,7 @@
 [1470]:Problemset/1470-Shuffle%20the%20Array/README_CN.md#1470-重新排列数组
 [1471]:Problemset/1471-The%20k%20Strongest%20Values%20in%20an%20Array/README_CN.md#1471-数组中的-k-个最强值
 [1472]:Problemset/1472-Design%20Browser%20History/README_CN.md#1472-设计浏览器历史记录
+[1473]:Problemset/1473-Paint%20House%20III/README_CN.md#1473-粉刷房子-iii
 [1475]:Problemset/1475-Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/README_CN.md#1475-商品折扣后的最终价格
 [1476]:Problemset/1476-Subrectangle%20Queries/README_CN.md#1476-子矩形查询
 [1480]:Problemset/1480-Running%20Sum%20of%201d%20Array/README_CN.md#1480-一维数组的动态和
@@ -3678,6 +3680,7 @@
 [1470l]:https://leetcode.cn/problems/shuffle-the-array/
 [1471l]:https://leetcode.cn/problems/the-k-strongest-values-in-an-array/
 [1472l]:https://leetcode.cn/problems/design-browser-history/
+[1473l]:https://leetcode.cn/problems/paint-house-iii/
 [1475l]:https://leetcode.cn/problems/final-prices-with-a-special-discount-in-a-shop/
 [1476l]:https://leetcode.cn/problems/subrectangle-queries/
 [1480l]:https://leetcode.cn/problems/running-sum-of-1d-array/

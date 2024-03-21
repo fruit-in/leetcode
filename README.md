@@ -869,6 +869,7 @@
 [1470][1470l]|[Shuffle the Array][1470]                                                             |![rs]
 [1471][1471l]|[The k Strongest Values in an Array][1471]                                            |![rb]&nbsp;&nbsp;![rs]
 [1472][1472l]|[Design Browser History][1472]                                                        |![rs]
+[1473][1473l]|[Paint House III][1473]                                                               |![rs]
 [1475][1475l]|[Final Prices With a Special Discount in a Shop][1475]                                |![rs]
 [1476][1476l]|[Subrectangle Queries][1476]                                                          |![rs]
 [1480][1480l]|[Running Sum of 1d Array][1480]                                                       |![rb]&nbsp;&nbsp;![rs]
@@ -2274,6 +2275,7 @@
 [1470]:Problemset/1470-Shuffle%20the%20Array/README.md#1470-shuffle-the-array
 [1471]:Problemset/1471-The%20k%20Strongest%20Values%20in%20an%20Array/README.md#1471-the-k-strongest-values-in-an-array
 [1472]:Problemset/1472-Design%20Browser%20History/README.md#1472-design-browser-history
+[1473]:Problemset/1473-Paint%20House%20III/README.md#1473-paint-house-iii
 [1475]:Problemset/1475-Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/README.md#1475-final-prices-with-a-special-discount-in-a-shop
 [1476]:Problemset/1476-Subrectangle%20Queries/README.md#1476-subrectangle-queries
 [1480]:Problemset/1480-Running%20Sum%20of%201d%20Array/README.md#1480-running-sum-of-1d-array
@@ -3678,6 +3680,7 @@
 [1470l]:https://leetcode.com/problems/shuffle-the-array/
 [1471l]:https://leetcode.com/problems/the-k-strongest-values-in-an-array/
 [1472l]:https://leetcode.com/problems/design-browser-history/
+[1473l]:https://leetcode.com/problems/paint-house-iii/
 [1475l]:https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1476l]:https://leetcode.com/problems/subrectangle-queries/
 [1480l]:https://leetcode.com/problems/running-sum-of-1d-array/
