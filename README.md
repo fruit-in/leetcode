@@ -903,6 +903,7 @@
 [1535][1535l]|[Find the Winner of an Array Game][1535]                                              |![rb]&nbsp;&nbsp;![rs]
 [1539][1539l]|[Kth Missing Positive Number][1539]                                                   |![rs]
 [1540][1540l]|[Can Convert String in K Moves][1540]                                                 |![rs]
+[1542][1542l]|[Find Longest Awesome Substring][1542]                                                |![rs]
 [1544][1544l]|[Make The String Great][1544]                                                         |![rb]
 [1545][1545l]|[Find Kth Bit in Nth Binary String][1545]                                             |![rs]
 [1550][1550l]|[Three Consecutive Odds][1550]                                                        |![py]
@@ -2309,6 +2310,7 @@
 [1535]:Problemset/1535-Find%20the%20Winner%20of%20an%20Array%20Game/README.md#1535-find-the-winner-of-an-array-game
 [1539]:Problemset/1539-Kth%20Missing%20Positive%20Number/README.md#1539-kth-missing-positive-number
 [1540]:Problemset/1540-Can%20Convert%20String%20in%20K%20Moves/README.md#1540-can-convert-string-in-k-moves
+[1542]:Problemset/1542-Find%20Longest%20Awesome%20Substring/README.md#1542-find-longest-awesome-substring
 [1544]:Problemset/1544-Make%20The%20String%20Great/README.md#1544-make-the-string-great
 [1545]:Problemset/1545-Find%20Kth%20Bit%20in%20Nth%20Binary%20String/README.md#1545-find-kth-bit-in-nth-binary-string
 [1550]:Problemset/1550-Three%20Consecutive%20Odds/README.md#1550-three-consecutive-odds
@@ -3714,6 +3716,7 @@
 [1535l]:https://leetcode.com/problems/find-the-winner-of-an-array-game/
 [1539l]:https://leetcode.com/problems/kth-missing-positive-number/
 [1540l]:https://leetcode.com/problems/can-convert-string-in-k-moves/
+[1542l]:https://leetcode.com/problems/find-longest-awesome-substring/
 [1544l]:https://leetcode.com/problems/make-the-string-great/
 [1545l]:https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/
 [1550l]:https://leetcode.com/problems/three-consecutive-odds/
