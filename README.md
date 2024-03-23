@@ -118,6 +118,7 @@
 [142][142l]  |[Linked List Cycle II][142]                                                           |![py]
 [144][144l]  |[Binary Tree Preorder Traversal][144]                                                 |![py]
 [145][145l]  |[Binary Tree Postorder Traversal][145]                                                |![py]
+[146][146l]  |[LRU Cache][146]                                                                      |![py]
 [147][147l]  |[Insertion Sort List][147]                                                            |![py]
 [149][149l]  |[Max Points on a Line][149]                                                           |![py]
 [150][150l]  |[Evaluate Reverse Polish Notation][150]                                               |![rs]
@@ -1525,6 +1526,7 @@
 [142]:Problemset/0142-Linked%20List%20Cycle%20II/README.md#142-linked-list-cycle-ii
 [144]:Problemset/0144-Binary%20Tree%20Preorder%20Traversal/README.md#144-binary-tree-preorder-traversal
 [145]:Problemset/0145-Binary%20Tree%20Postorder%20Traversal/README.md#145-binary-tree-postorder-traversal
+[146]:Problemset/0146-LRU%20Cache/README.md#146-lru-cache
 [147]:Problemset/0147-Insertion%20Sort%20List/README.md#147-insertion-sort-list
 [149]:Problemset/0149-Max%20Points%20on%20a%20Line/README.md#149-max-points-on-a-line
 [150]:Problemset/0150-Evaluate%20Reverse%20Polish%20Notation/README.md#150-evaluate-reverse-polish-notation
@@ -2926,6 +2928,7 @@
 [142l]:https://leetcode.com/problems/linked-list-cycle-ii/
 [144l]:https://leetcode.com/problems/binary-tree-preorder-traversal/
 [145l]:https://leetcode.com/problems/binary-tree-postorder-traversal/
+[146l]:https://leetcode.com/problems/lru-cache/
 [147l]:https://leetcode.com/problems/insertion-sort-list/
 [149l]:https://leetcode.com/problems/max-points-on-a-line/
 [150l]:https://leetcode.com/problems/evaluate-reverse-polish-notation/

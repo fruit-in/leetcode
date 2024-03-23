@@ -118,6 +118,7 @@
 [142][142l]  |[环形链表 II][142]                                        |![py]
 [144][144l]  |[二叉树的前序遍历][144]                                   |![py]
 [145][145l]  |[二叉树的后序遍历][145]                                   |![py]
+[146][146l]  |[LRU 缓存][146]                                           |![py]
 [147][147l]  |[对链表进行插入排序][147]                                 |![py]
 [149][149l]  |[直线上最多的点数][149]                                   |![py]
 [150][150l]  |[逆波兰表达式求值][150]                                   |![rs]
@@ -1525,6 +1526,7 @@
 [142]:Problemset/0142-Linked%20List%20Cycle%20II/README_CN.md#142-环形链表-ii
 [144]:Problemset/0144-Binary%20Tree%20Preorder%20Traversal/README_CN.md#144-二叉树的前序遍历
 [145]:Problemset/0145-Binary%20Tree%20Postorder%20Traversal/README_CN.md#145-二叉树的后序遍历
+[146]:Problemset/0146-LRU%20Cache/README_CN.md#146-lru-缓存
 [147]:Problemset/0147-Insertion%20Sort%20List/README_CN.md#147-对链表进行插入排序
 [149]:Problemset/0149-Max%20Points%20on%20a%20Line/README_CN.md#149-直线上最多的点数
 [150]:Problemset/0150-Evaluate%20Reverse%20Polish%20Notation/README_CN.md#150-逆波兰表达式求值
@@ -2926,6 +2928,7 @@
 [142l]:https://leetcode.cn/problems/linked-list-cycle-ii/
 [144l]:https://leetcode.cn/problems/binary-tree-preorder-traversal/
 [145l]:https://leetcode.cn/problems/binary-tree-postorder-traversal/
+[146l]:https://leetcode.cn/problems/lru-cache/
 [147l]:https://leetcode.cn/problems/insertion-sort-list/
 [149l]:https://leetcode.cn/problems/max-points-on-a-line/
 [150l]:https://leetcode.cn/problems/evaluate-reverse-polish-notation/
