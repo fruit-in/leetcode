@@ -1045,6 +1045,7 @@
 [1833][1833l]|[Maximum Ice Cream Bars][1833]                                                        |![rs]
 [1834][1834l]|[Single-Threaded CPU][1834]                                                           |![rs]
 [1837][1837l]|[Sum of Digits in Base K][1837]                                                       |![rb]&nbsp;&nbsp;![rs]
+[1838][1838l]|[Frequency of the Most Frequent Element][1838]                                        |![rs]
 [1840][1840l]|[Maximum Building Height][1840]                                                       |![rs]
 [1844][1844l]|[Replace All Digits with Characters][1844]                                            |![rs]
 [1845][1845l]|[Seat Reservation Manager][1845]                                                      |![py]
@@ -2453,6 +2454,7 @@
 [1833]:Problemset/1833-Maximum%20Ice%20Cream%20Bars/README.md#1833-maximum-ice-cream-bars
 [1834]:Problemset/1834-Single-Threaded%20CPU/README.md#1834-single-threaded-cpu
 [1837]:Problemset/1837-Sum%20of%20Digits%20in%20Base%20K/README.md#1837-sum-of-digits-in-base-k
+[1838]:Problemset/1838-Frequency%20of%20the%20Most%20Frequent%20Element/README.md#1838-frequency-of-the-most-frequent-element
 [1840]:Problemset/1840-Maximum%20Building%20Height/README.md#1840-maximum-building-height
 [1844]:Problemset/1844-Replace%20All%20Digits%20with%20Characters/README.md#1844-replace-all-digits-with-characters
 [1845]:Problemset/1845-Seat%20Reservation%20Manager/README.md#1845-seat-reservation-manager
@@ -3860,6 +3862,7 @@
 [1833l]:https://leetcode.com/problems/maximum-ice-cream-bars/
 [1834l]:https://leetcode.com/problems/single-threaded-cpu/
 [1837l]:https://leetcode.com/problems/sum-of-digits-in-base-k/
+[1838l]:https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 [1840l]:https://leetcode.com/problems/maximum-building-height/
 [1844l]:https://leetcode.com/problems/replace-all-digits-with-characters/
 [1845l]:https://leetcode.com/problems/seat-reservation-manager/
