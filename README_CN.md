@@ -252,6 +252,7 @@
 [398][398l]  |[随机数索引][398]                                         |![py]
 [400][400l]  |[第N个数字][400]                                          |![rs]
 [401][401l]  |[二进制手表][401]                                         |![py]
+[402][402l]  |[移掉 K 位数字][402]                                      |![rs]
 [403][403l]  |[青蛙过河][403]                                           |![rs]
 [404][404l]  |[左叶子之和][404]                                         |![py]
 [405][405l]  |[数字转换为十六进制数][405]                               |![py]
@@ -1662,6 +1663,7 @@
 [398]:Problemset/0398-Random%20Pick%20Index/README_CN.md#398-随机数索引
 [400]:Problemset/0400-Nth%20Digit/README_CN.md#400-第N个数字
 [401]:Problemset/0401-Binary%20Watch/README_CN.md#401-二进制手表
+[402]:Problemset/0402-Remove%20K%20Digits/README_CN.md#402-移掉-k-位数字
 [403]:Problemset/0403-Frog%20Jump/README_CN.md#403-青蛙过河
 [404]:Problemset/0404-Sum%20of%20Left%20Leaves/README_CN.md#404-左叶子之和
 [405]:Problemset/0405-Convert%20a%20Number%20to%20Hexadecimal/README_CN.md#405-数字转换为十六进制数
@@ -3069,6 +3071,7 @@
 [398l]:https://leetcode.cn/problems/random-pick-index/
 [400l]:https://leetcode.cn/problems/nth-digit/
 [401l]:https://leetcode.cn/problems/binary-watch/
+[402l]:https://leetcode.cn/problems/remove-k-digits/
 [403l]:https://leetcode.cn/problems/frog-jump/
 [404l]:https://leetcode.cn/problems/sum-of-left-leaves/
 [405l]:https://leetcode.cn/problems/convert-a-number-to-hexadecimal/

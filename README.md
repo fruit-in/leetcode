@@ -252,6 +252,7 @@
 [398][398l]  |[Random Pick Index][398]                                                              |![py]
 [400][400l]  |[Nth Digit][400]                                                                      |![rs]
 [401][401l]  |[Binary Watch][401]                                                                   |![py]
+[402][402l]  |[Remove K Digits][402]                                                                |![rs]
 [403][403l]  |[Frog Jump][403]                                                                      |![rs]
 [404][404l]  |[Sum of Left Leaves][404]                                                             |![py]
 [405][405l]  |[Convert a Number to Hexadecimal][405]                                                |![py]
@@ -1662,6 +1663,7 @@
 [398]:Problemset/0398-Random%20Pick%20Index/README.md#398-random-pick-index
 [400]:Problemset/0400-Nth%20Digit/README.md#400-nth-digit
 [401]:Problemset/0401-Binary%20Watch/README.md#401-binary-watch
+[402]:Problemset/0402-Remove%20K%20Digits/README.md#402-remove-k-digits
 [403]:Problemset/0403-Frog%20Jump/README.md#403-frog-jump
 [404]:Problemset/0404-Sum%20of%20Left%20Leaves/README.md#404-sum-of-left-leaves
 [405]:Problemset/0405-Convert%20a%20Number%20to%20Hexadecimal/README.md#405-convert-a-number-to-hexadecimal
@@ -3069,6 +3071,7 @@
 [398l]:https://leetcode.com/problems/random-pick-index/
 [400l]:https://leetcode.com/problems/nth-digit/
 [401l]:https://leetcode.com/problems/binary-watch/
+[402l]:https://leetcode.com/problems/remove-k-digits/
 [403l]:https://leetcode.com/problems/frog-jump/
 [404l]:https://leetcode.com/problems/sum-of-left-leaves/
 [405l]:https://leetcode.com/problems/convert-a-number-to-hexadecimal/
