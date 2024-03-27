@@ -1125,6 +1125,7 @@
 [2024][2024l]|[Maximize the Confusion of an Exam][2024]                                             |![rs]
 [2027][2027l]|[Minimum Moves to Convert String][2027]                                               |![rs]
 [2028][2028l]|[Find Missing Observations][2028]                                                     |![rs]
+[2030][2030l]|[Smallest K-Length Subsequence With Occurrences of a Letter][2030]                    |![rs]
 [2032][2032l]|[Two Out of Three][2032]                                                              |![py]
 [2034][2034l]|[Stock Price Fluctuation ][2034]                                                      |![rs]
 [2037][2037l]|[Minimum Number of Moves to Seat Everyone][2037]                                      |![rs]
@@ -2536,6 +2537,7 @@
 [2024]:Problemset/2024-Maximize%20the%20Confusion%20of%20an%20Exam/README.md#2024-maximize-the-confusion-of-an-exam
 [2027]:Problemset/2027-Minimum%20Moves%20to%20Convert%20String/README.md#2027-minimum-moves-to-convert-string
 [2028]:Problemset/2028-Find%20Missing%20Observations/README.md#2028-find-missing-observations
+[2030]:Problemset/2030-Smallest%20K-Length%20Subsequence%20With%20Occurrences%20of%20a%20Letter/README.md#2030-smallest-k-length-subsequence-with-occurrences-of-a-letter
 [2032]:Problemset/2032-Two%20Out%20of%20Three/README.md#2032-two-out-of-three
 [2034]:Problemset/2034-Stock%20Price%20Fluctuation/README.md#2034-stock-price-fluctuation
 [2037]:Problemset/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README.md#2037-minimum-number-of-moves-to-seat-everyone
@@ -3946,6 +3948,7 @@
 [2024l]:https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
 [2027l]:https://leetcode.com/problems/minimum-moves-to-convert-string/
 [2028l]:https://leetcode.com/problems/find-missing-observations/
+[2030l]:https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/
 [2032l]:https://leetcode.com/problems/two-out-of-three/
 [2034l]:https://leetcode.com/problems/stock-price-fluctuation/
 [2037l]:https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
