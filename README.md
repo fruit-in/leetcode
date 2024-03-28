@@ -770,6 +770,7 @@
 [1313][1313l]|[Decompress Run-Length Encoded List][1313]                                            |![rb]&nbsp;&nbsp;![rs]
 [1314][1314l]|[Matrix Block Sum][1314]                                                              |![rs]
 [1315][1315l]|[Sum of Nodes with Even-Valued Grandparent][1315]                                     |![py]
+[1316][1316l]|[Distinct Echo Substrings][1316]                                                      |![rs]
 [1317][1317l]|[Convert Integer to the Sum of Two No-Zero Integers][1317]                            |![rs]
 [1318][1318l]|[Minimum Flips to Make a OR b Equal to c][1318]                                       |![rs]
 [1320][1320l]|[Minimum Distance to Type a Word Using Two Fingers][1320]                             |![rs]
@@ -2182,6 +2183,7 @@
 [1313]:Problemset/1313-Decompress%20Run-Length%20Encoded%20List/README.md#1313-decompress-run-length-encoded-list
 [1314]:Problemset/1314-Matrix%20Block%20Sum/README.md#1314-matrix-block-sum
 [1315]:Problemset/1315-Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent/README.md#1315-sum-of-nodes-with-even-valued-grandparent
+[1316]:Problemset/1316-Distinct%20Echo%20Substrings/README.md#1316-distinct-echo-substrings
 [1317]:Problemset/1317-Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers/README.md#1317-convert-integer-to-the-sum-of-two-no-zero-integers
 [1318]:Problemset/1318-Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c/README.md#1318-minimum-flips-to-make-a-or-b-equal-to-c
 [1320]:Problemset/1320-Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/README.md#1320-minimum-distance-to-type-a-word-using-two-fingers
@@ -3593,6 +3595,7 @@
 [1313l]:https://leetcode.com/problems/decompress-run-length-encoded-list/
 [1314l]:https://leetcode.com/problems/matrix-block-sum/
 [1315l]:https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
+[1316l]:https://leetcode.com/problems/distinct-echo-substrings/
 [1317l]:https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
 [1318l]:https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
 [1320l]:https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/

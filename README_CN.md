@@ -770,6 +770,7 @@
 [1313][1313l]|[解压缩编码列表][1313]                                    |![rb]&nbsp;&nbsp;![rs]
 [1314][1314l]|[矩阵区域和][1314]                                        |![rs]
 [1315][1315l]|[祖父节点值为偶数的节点和][1315]                          |![py]
+[1316][1316l]|[不同的循环子字符串][1316]                                |![rs]
 [1317][1317l]|[将整数转换为两个无零整数的和][1317]                      |![rs]
 [1318][1318l]|[或运算的最小翻转次数][1318]                              |![rs]
 [1320][1320l]|[二指输入的的最小距离][1320]                              |![rs]
@@ -2182,6 +2183,7 @@
 [1313]:Problemset/1313-Decompress%20Run-Length%20Encoded%20List/README_CN.md#1313-解压缩编码列表
 [1314]:Problemset/1314-Matrix%20Block%20Sum/README_CN.md#1314-矩阵区域和
 [1315]:Problemset/1315-Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent/README_CN.md#1315-祖父节点值为偶数的节点和
+[1316]:Problemset/1316-Distinct%20Echo%20Substrings/README_CN.md#1316-不同的循环子字符串
 [1317]:Problemset/1317-Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers/README_CN.md#1317-将整数转换为两个无零整数的和
 [1318]:Problemset/1318-Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c/README_CN.md#1318-或运算的最小翻转次数
 [1320]:Problemset/1320-Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/README_CN.md#1320-二指输入的的最小距离
@@ -3593,6 +3595,7 @@
 [1313l]:https://leetcode.cn/problems/decompress-run-length-encoded-list/
 [1314l]:https://leetcode.cn/problems/matrix-block-sum/
 [1315l]:https://leetcode.cn/problems/sum-of-nodes-with-even-valued-grandparent/
+[1316l]:https://leetcode.cn/problems/distinct-echo-substrings/
 [1317l]:https://leetcode.cn/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
 [1318l]:https://leetcode.cn/problems/minimum-flips-to-make-a-or-b-equal-to-c/
 [1320l]:https://leetcode.cn/problems/minimum-distance-to-type-a-word-using-two-fingers/
