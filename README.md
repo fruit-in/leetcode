@@ -511,6 +511,7 @@
 [846][846l]  |[Hand of Straights][846]                                                              |![rs]
 [848][848l]  |[Shifting Letters][848]                                                               |![rs]
 [849][849l]  |[Maximize Distance to Closest Person][849]                                            |![rs]
+[851][851l]  |[Loud and Rich][851]                                                                  |![rs]
 [852][852l]  |[Peak Index in a Mountain Array][852]                                                 |![rs]
 [853][853l]  |[Car Fleet][853]                                                                      |![rs]
 [856][856l]  |[Score of Parentheses][856]                                                           |![rs]
@@ -1924,6 +1925,7 @@
 [846]:Problemset/0846-Hand%20of%20Straights/README.md#846-hand-of-straights
 [848]:Problemset/0848-Shifting%20Letters/README.md#848-shifting-letters
 [849]:Problemset/0849-Maximize%20Distance%20to%20Closest%20Person/README.md#849-maximize-distance-to-closest-person
+[851]:Problemset/0851-Loud%20and%20Rich/README.md#851-loud-and-rich
 [852]:Problemset/0852-Peak%20Index%20in%20a%20Mountain%20Array/README.md#852-peak-index-in-a-mountain-array
 [853]:Problemset/0853-Car%20Fleet/README.md#853-car-fleet
 [856]:Problemset/0856-Score%20of%20Parentheses/README.md#856-score-of-parentheses
@@ -3336,6 +3338,7 @@
 [846l]:https://leetcode.com/problems/hand-of-straights/
 [848l]:https://leetcode.com/problems/shifting-letters/
 [849l]:https://leetcode.com/problems/maximize-distance-to-closest-person/
+[851l]:https://leetcode.com/problems/loud-and-rich/
 [852l]:https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [853l]:https://leetcode.com/problems/car-fleet/
 [856l]:https://leetcode.com/problems/score-of-parentheses/

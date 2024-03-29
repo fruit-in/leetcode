@@ -511,6 +511,7 @@
 [846][846l]  |[一手顺子][846]                                           |![rs]
 [848][848l]  |[字母移位][848]                                           |![rs]
 [849][849l]  |[到最近的人的最大距离][849]                               |![rs]
+[851][851l]  |[喧闹和富有][851]                                         |![rs]
 [852][852l]  |[山脉数组的峰顶索引][852]                                 |![rs]
 [853][853l]  |[车队][853]                                               |![rs]
 [856][856l]  |[括号的分数][856]                                         |![rs]
@@ -1924,6 +1925,7 @@
 [846]:Problemset/0846-Hand%20of%20Straights/README_CN.md#846-一手顺子
 [848]:Problemset/0848-Shifting%20Letters/README_CN.md#848-字母移位
 [849]:Problemset/0849-Maximize%20Distance%20to%20Closest%20Person/README_CN.md#849-到最近的人的最大距离
+[851]:Problemset/0851-Loud%20and%20Rich/README_CN.md#851-喧闹和富有
 [852]:Problemset/0852-Peak%20Index%20in%20a%20Mountain%20Array/README_CN.md#852-山脉数组的峰顶索引
 [853]:Problemset/0853-Car%20Fleet/README_CN.md#853-车队
 [856]:Problemset/0856-Score%20of%20Parentheses/README_CN.md#856-括号的分数
@@ -3336,6 +3338,7 @@
 [846l]:https://leetcode.cn/problems/hand-of-straights/
 [848l]:https://leetcode.cn/problems/shifting-letters/
 [849l]:https://leetcode.cn/problems/maximize-distance-to-closest-person/
+[851l]:https://leetcode.cn/problems/loud-and-rich/
 [852l]:https://leetcode.cn/problems/peak-index-in-a-mountain-array/
 [853l]:https://leetcode.cn/problems/car-fleet/
 [856l]:https://leetcode.cn/problems/score-of-parentheses/
