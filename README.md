@@ -268,6 +268,7 @@
 [419][419l]  |[Battleships in a Board][419]                                                         |![rs]
 [421][421l]  |[Maximum XOR of Two Numbers in an Array][421]                                         |![py]
 [423][423l]  |[Reconstruct Original Digits from English][423]                                       |![rs]
+[424][424l]  |[Longest Repeating Character Replacement][424]                                        |![rs]
 [427][427l]  |[Construct Quad Tree][427]                                                            |![py]
 [429][429l]  |[N-ary Tree Level Order Traversal][429]                                               |![py]&nbsp;&nbsp;![rb]
 [430][430l]  |[Flatten a Multilevel Doubly Linked List][430]                                        |![rb]
@@ -1683,6 +1684,7 @@
 [419]:Problemset/0419-Battleships%20in%20a%20Board/README.md#419-battleships-in-a-board
 [421]:Problemset/0421-Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/README.md#421-maximum-xor-of-two-numbers-in-an-array
 [423]:Problemset/0423-Reconstruct%20Original%20Digits%20from%20English/README.md#423-reconstruct-original-digits-from-english
+[424]:Problemset/0424-Longest%20Repeating%20Character%20Replacement/README.md#424-longest-repeating-character-replacement
 [427]:Problemset/0427-Construct%20Quad%20Tree/README.md#427-construct-quad-tree
 [429]:Problemset/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#429-n-ary-tree-level-order-traversal
 [430]:Problemset/0430-Flatten%20a%20Multilevel%20Doubly%20Linked%20List/README.md#430-flatten-a-multilevel-doubly-linked-list
@@ -3096,6 +3098,7 @@
 [421l]:https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 [421l]:https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 [423l]:https://leetcode.com/problems/reconstruct-original-digits-from-english/
+[424l]:https://leetcode.com/problems/longest-repeating-character-replacement/
 [427l]:https://leetcode.com/problems/construct-quad-tree/
 [429l]:https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 [430l]:https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
