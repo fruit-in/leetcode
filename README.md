@@ -550,6 +550,7 @@
 [895][895l]  |[Maximum Frequency Stack][895]                                                        |![rs]
 [896][896l]  |[Monotonic Array][896]                                                                |![rs]
 [897][897l]  |[Increasing Order Search Tree][897]                                                   |![py]
+[899][899l]  |[Orderly Queue][899]                                                                  |![rs]
 [900][900l]  |[RLE Iterator][900]                                                                   |![rs]
 [901][901l]  |[Online Stock Span][901]                                                              |![rs]
 [902][902l]  |[Numbers At Most N Given Digit Set][902]                                              |![rs]
@@ -1967,6 +1968,7 @@
 [895]:Problemset/0895-Maximum%20Frequency%20Stack/README.md#895-maximum-frequency-stack
 [896]:Problemset/0896-Monotonic%20Array/README.md#896-monotonic-array
 [897]:Problemset/0897-Increasing%20Order%20Search%20Tree/README.md#897-increasing-order-search-tree
+[899]:Problemset/0899-Orderly%20Queue/README.md#899-orderly-queue
 [900]:Problemset/0900-RLE%20Iterator/README.md#900-rle-iterator
 [901]:Problemset/0901-Online%20Stock%20Span/README.md#901-online-stock-span
 [902]:Problemset/0902-Numbers%20At%20Most%20N%20Given%20Digit%20Set/README.md#902-numbers-at-most-n-given-digit-set
@@ -3383,6 +3385,7 @@
 [895l]:https://leetcode.com/problems/maximum-frequency-stack/
 [896l]:https://leetcode.com/problems/monotonic-array/
 [897l]:https://leetcode.com/problems/increasing-order-search-tree/
+[899l]:https://leetcode.com/problems/orderly-queue/
 [900l]:https://leetcode.com/problems/rle-iterator/
 [901l]:https://leetcode.com/problems/online-stock-span/
 [902l]:https://leetcode.com/problems/numbers-at-most-n-given-digit-set/

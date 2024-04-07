@@ -550,6 +550,7 @@
 [895][895l]  |[最大频率栈][895]                                         |![rs]
 [896][896l]  |[单调数列][896]                                           |![rs]
 [897][897l]  |[递增顺序查找树][897]                                     |![py]
+[899][899l]  |[有序队列][899]                                           |![rs]
 [900][900l]  |[RLE 迭代器][900]                                         |![rs]
 [901][901l]  |[股票价格跨度][901]                                       |![rs]
 [902][902l]  |[最大为 N 的数字组合][902]                                |![rs]
@@ -1967,6 +1968,7 @@
 [895]:Problemset/0895-Maximum%20Frequency%20Stack/README_CN.md#895-最大频率栈
 [896]:Problemset/0896-Monotonic%20Array/README_CN.md#896-单调数列
 [897]:Problemset/0897-Increasing%20Order%20Search%20Tree/README_CN.md#897-递增顺序查找树
+[899]:Problemset/0899-Orderly%20Queue/README_CN.md#899-有序队列
 [900]:Problemset/0900-RLE%20Iterator/README_CN.md#900-rle-迭代器
 [901]:Problemset/0901-Online%20Stock%20Span/README_CN.md#901-股票价格跨度
 [902]:Problemset/0902-Numbers%20At%20Most%20N%20Given%20Digit%20Set/README_CN.md#902-最大为-n-的数字组合
@@ -3383,6 +3385,7 @@
 [895l]:https://leetcode.cn/problems/maximum-frequency-stack/
 [896l]:https://leetcode.cn/problems/monotonic-array/
 [897l]:https://leetcode.cn/problems/increasing-order-search-tree/
+[899l]:https://leetcode.cn/problems/orderly-queue/
 [900l]:https://leetcode.cn/problems/rle-iterator/
 [901l]:https://leetcode.cn/problems/online-stock-span/
 [902l]:https://leetcode.cn/problems/numbers-at-most-n-given-digit-set/
