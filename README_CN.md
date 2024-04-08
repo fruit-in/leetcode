@@ -1032,6 +1032,7 @@
 [1792][1792l]|[最大平均通过率][1792]                                    |![py]
 [1796][1796l]|[字符串中第二大的数字][1796]                              |![rs]
 [1797][1797l]|[设计一个验证系统][1797]                                  |![py]
+[1798][1798l]|[你能构造出连续值的最大数目][1798]                        |![rs]
 [1800][1800l]|[最大升序子数组和][1800]                                  |![rb]&nbsp;&nbsp;![rs]
 [1801][1801l]|[积压订单中的订单总数][1801]                              |![rs]
 [1802][1802l]|[有界数组中指定下标处的最大值][1802]                      |![rs]
@@ -2450,6 +2451,7 @@
 [1792]:Problemset/1792-Maximum%20Average%20Pass%20Ratio/README_CN.md#1792-最大平均通过率
 [1796]:Problemset/1796-Second%20Largest%20Digit%20in%20a%20String/README_CN.md#1796-字符串中第二大的数字
 [1797]:Problemset/1797-Design%20Authentication%20Manager/README_CN.md#1797-设计一个验证系统
+[1798]:Problemset/1798-Maximum%20Number%20of%20Consecutive%20Values%20You%20Can%20Make/README_CN.md#1798-你能构造出连续值的最大数目
 [1800]:Problemset/1800-Maximum%20Ascending%20Subarray%20Sum/README_CN.md#1800-最大升序子数组和
 [1801]:Problemset/1801-Number%20of%20Orders%20in%20the%20Backlog/README_CN.md#1801-积压订单中的订单总数
 [1802]:Problemset/1802-Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array/README_CN.md#1802-有界数组中指定下标处的最大值
@@ -3867,6 +3869,7 @@
 [1792l]:https://leetcode.cn/problems/maximum-average-pass-ratio/
 [1796l]:https://leetcode.cn/problems/second-largest-digit-in-a-string/
 [1797l]:https://leetcode.cn/problems/design-authentication-manager/description/
+[1798l]:https://leetcode.cn/problems/maximum-number-of-consecutive-values-you-can-make/
 [1800l]:https://leetcode.cn/problems/maximum-ascending-subarray-sum/
 [1801l]:https://leetcode.cn/problems/number-of-orders-in-the-backlog/
 [1802l]:https://leetcode.cn/problems/maximum-value-at-a-given-index-in-a-bounded-array/
