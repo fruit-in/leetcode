@@ -544,6 +544,7 @@
 [888][888l]  |[Fair Candy Swap][888]                                                                |![rs]
 [889][889l]  |[Construct Binary Tree from Preorder and Postorder Traversal][889]                    |![py]
 [890][890l]  |[Find and Replace Pattern][890]                                                       |![py]
+[891][891l]  |[Sum of Subsequence Widths][891]                                                      |![rs]
 [892][892l]  |[Surface Area of 3D Shapes][892]                                                      |![rb]&nbsp;&nbsp;![rs]
 [893][893l]  |[Groups of Special-Equivalent Strings][893]                                           |![rs]
 [894][894l]  |[All Possible Full Binary Trees][894]                                                 |![rb]
@@ -1963,6 +1964,7 @@
 [888]:Problemset/0888-Fair%20Candy%20Swap/README.md#888-fair-candy-swap
 [889]:Problemset/0889-Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal/README.md#889-construct-binary-tree-from-preorder-and-postorder-traversal
 [890]:Problemset/0890-Find%20and%20Replace%20Pattern/README.md#890-find-and-replace-pattern
+[891]:Problemset/0891-Sum%20of%20Subsequence%20Widths/README.md#891-sum-of-subsequence-widths
 [892]:Problemset/0892-Surface%20Area%20of%203D%20Shapes/README.md#892-surface-area-of-3d-shapes
 [893]:Problemset/0893-Groups%20of%20Special-Equivalent%20Strings/README.md#893-groups-of-special-equivalent-strings
 [894]:Problemset/0894-All%20Possible%20Full%20Binary%20Trees/README.md#894-all-possible-full-binary-trees
@@ -3381,6 +3383,7 @@
 [888l]:https://leetcode.com/problems/fair-candy-swap/
 [889l]:https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 [890l]:https://leetcode.com/problems/find-and-replace-pattern/
+[891l]:https://leetcode.com/problems/sum-of-subsequence-widths/
 [892l]:https://leetcode.com/problems/surface-area-of-3d-shapes/
 [893l]:https://leetcode.com/problems/groups-of-special-equivalent-strings/
 [894l]:https://leetcode.com/problems/all-possible-full-binary-trees/
