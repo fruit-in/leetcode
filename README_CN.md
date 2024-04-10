@@ -892,6 +892,7 @@
 [1493][1493l]|[删掉一个元素以后全为 1 的最长子数组][1493]               |![rb]&nbsp;&nbsp;![rs]
 [1496][1496l]|[判断路径是否相交][1496]                                  |![rs]
 [1497][1497l]|[检查数组对是否可以被 k 整除][1497]                       |![rs]
+[1498][1498l]|[满足条件的子序列数目][1498]                              |![rs]
 [1499][1499l]|[满足不等式的最大值][1499]                                |![rs]
 [1502][1502l]|[判断能否形成等差数列][1502]                              |![rb]&nbsp;&nbsp;![rs]
 [1503][1503l]|[所有蚂蚁掉下来前的最后一刻][1503]                        |![rb]&nbsp;&nbsp;![rs]
@@ -2312,6 +2313,7 @@
 [1493]:Problemset/1493-Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/README_CN.md#1493-删掉一个元素以后全为-1-的最长子数组
 [1496]:Problemset/1496-Path%20Crossing/README_CN.md#1496-判断路径是否相交
 [1497]:Problemset/1497-Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/README_CN.md#1497-检查数组对是否可以被-k-整除
+[1498]:Problemset/1498-Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition/README_CN.md#1498-满足条件的子序列数目
 [1499]:Problemset/1499-Max%20Value%20of%20Equation/README_CN.md#1499-满足不等式的最大值
 [1502]:Problemset/1502-Can%20Make%20Arithmetic%20Progression%20From%20Sequence/README_CN.md#1502-判断能否形成等差数列
 [1503]:Problemset/1503-Last%20Moment%20Before%20All%20Ants%20Fall%20Out%20of%20a%20Plank/README_CN.md#1503-所有蚂蚁掉下来前的最后一刻
@@ -3731,6 +3733,7 @@
 [1493l]:https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/
 [1496l]:https://leetcode.cn/problems/path-crossing/
 [1497l]:https://leetcode.cn/problems/check-if-array-pairs-are-divisible-by-k/
+[1498l]:https://leetcode.cn/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 [1499l]:https://leetcode.cn/problems/max-value-of-equation/
 [1502l]:https://leetcode.cn/problems/can-make-arithmetic-progression-from-sequence/
 [1503l]:https://leetcode.cn/problems/last-moment-before-all-ants-fall-out-of-a-plank/
