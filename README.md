@@ -1164,6 +1164,7 @@
 [2085][2085l]|[Count Common Words With One Occurrence][2085]                                        |![py]
 [2086][2086l]|[Minimum Number of Food Buckets to Feed the Hamsters][2086]                           |![rs]
 [2087][2087l]|[Minimum Cost Homecoming of a Robot in a Grid][2087]                                  |![py]
+[2088][2088l]|[Count Fertile Pyramids in a Land][2088]                                              |![rs]
 [2089][2089l]|[Find Target Indices After Sorting Array][2089]                                       |![py]
 [2090][2090l]|[K Radius Subarray Averages][2090]                                                    |![rs]
 [2091][2091l]|[Removing Minimum and Maximum From Array][2091]                                       |![rs]
@@ -2585,6 +2586,7 @@
 [2085]:Problemset/2085-Count%20Common%20Words%20With%20One%20Occurrence/README.md#2085-count-common-words-with-one-occurrence
 [2086]:Problemset/2086-Minimum%20Number%20of%20Food%20Buckets%20to%20Feed%20the%20Hamsters/README.md#2086-minimum-number-of-food-buckets-to-feed-the-hamsters
 [2087]:Problemset/2087-Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid/README.md#2087-minimum-cost-homecoming-of-a-robot-in-a-grid
+[2088]:Problemset/2088-Count%20Fertile%20Pyramids%20in%20a%20Land/README.md#2088-count-fertile-pyramids-in-a-land
 [2089]:Problemset/2089-Find%20Target%20Indices%20After%20Sorting%20Array/README.md#2089-find-target-indices-after-sorting-array
 [2090]:Problemset/2090-K%20Radius%20Subarray%20Averages/README.md#2090-k-radius-subarray-averages
 [2091]:Problemset/2091-Removing%20Minimum%20and%20Maximum%20From%20Array/README.md#2091-removing-minimum-and-maximum-from-array
@@ -4005,6 +4007,7 @@
 [2085l]:https://leetcode.com/problems/count-common-words-with-one-occurrence/
 [2086l]:https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/
 [2087l]:https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/
+[2088l]:https://leetcode.com/problems/count-fertile-pyramids-in-a-land/
 [2089l]:https://leetcode.com/problems/find-target-indices-after-sorting-array/
 [2090l]:https://leetcode.com/problems/k-radius-subarray-averages/
 [2091l]:https://leetcode.com/problems/removing-minimum-and-maximum-from-array/

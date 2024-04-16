@@ -1164,6 +1164,7 @@
 [2085][2085l]|[统计出现过一次的公共字符串][2085]                        |![py]
 [2086][2086l]|[从房屋收集雨水需要的最少水桶数][2086]                    |![rs]
 [2087][2087l]|[网格图中机器人回家的最小代价][2087]                      |![py]
+[2088][2088l]|[统计农场中肥沃金字塔的数目][2088]                        |![rs]
 [2089][2089l]|[找出数组排序后的目标下标][2089]                          |![py]
 [2090][2090l]|[半径为 k 的子数组平均值][2090]                           |![rs]
 [2091][2091l]|[从数组中移除最大值和最小值][2091]                        |![rs]
@@ -2585,6 +2586,7 @@
 [2085]:Problemset/2085-Count%20Common%20Words%20With%20One%20Occurrence/README_CN.md#2085-统计出现过一次的公共字符串
 [2086]:Problemset/2086-Minimum%20Number%20of%20Food%20Buckets%20to%20Feed%20the%20Hamsters/README_CN.md#2086-从房屋收集雨水需要的最少水桶数
 [2087]:Problemset/2087-Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid/README_CN.md#2087-网格图中机器人回家的最小代价
+[2088]:Problemset/2088-Count%20Fertile%20Pyramids%20in%20a%20Land/README_CN.md#2088-统计农场中肥沃金字塔的数目
 [2089]:Problemset/2089-Find%20Target%20Indices%20After%20Sorting%20Array/README_CN.md#2089-找出数组排序后的目标下标
 [2090]:Problemset/2090-K%20Radius%20Subarray%20Averages/README_CN.md#2090-半径为-k-的子数组平均值
 [2091]:Problemset/2091-Removing%20Minimum%20and%20Maximum%20From%20Array/README_CN.md#2091-从数组中移除最大值和最小值
@@ -4005,6 +4007,7 @@
 [2085l]:https://leetcode.cn/problems/count-common-words-with-one-occurrence/
 [2086l]:https://leetcode.cn/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/
 [2087l]:https://leetcode.cn/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/
+[2088l]:https://leetcode.cn/problems/count-fertile-pyramids-in-a-land/
 [2089l]:https://leetcode.cn/problems/find-target-indices-after-sorting-array/
 [2090l]:https://leetcode.cn/problems/k-radius-subarray-averages/
 [2091l]:https://leetcode.cn/problems/removing-minimum-and-maximum-from-array/
