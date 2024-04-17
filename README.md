@@ -564,6 +564,7 @@
 [915][915l]  |[Partition Array into Disjoint Intervals][915]                                        |![rb]&nbsp;&nbsp;![rs]
 [916][916l]  |[Word Subsets][916]                                                                   |![rb]&nbsp;&nbsp;![rs]
 [917][917l]  |[Reverse Only Letters][917]                                                           |![py]
+[918][918l]  |[Maximum Sum Circular Subarray][918]                                                  |![rs]
 [919][919l]  |[Complete Binary Tree Inserter][919]                                                  |![py]
 [920][920l]  |[Number of Music Playlists][920]                                                      |![rs]
 [921][921l]  |[Minimum Add to Make Parentheses Valid][921]                                          |![rs]
@@ -1986,6 +1987,7 @@
 [915]:Problemset/0915-Partition%20Array%20into%20Disjoint%20Intervals/README.md#915-partition-array-into-disjoint-intervals
 [916]:Problemset/0916-Word%20Subsets/README.md#916-word-subsets
 [917]:Problemset/0917-Reverse%20Only%20Letters/README.md#917-reverse-only-letters
+[918]:Problemset/0918-Maximum%20Sum%20Circular%20Subarray/README.md#918-maximum-sum-circular-subarray
 [919]:Problemset/0919-Complete%20Binary%20Tree%20Inserter/README.md#919-complete-binary-tree-inserter
 [920]:Problemset/0920-Number%20of%20Music%20Playlists/README.md#920-number-of-music-playlists
 [921]:Problemset/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid/README.md#921-minimum-add-to-make-parentheses-valid
@@ -3407,6 +3409,7 @@
 [915l]:https://leetcode.com/problems/partition-array-into-disjoint-intervals/
 [916l]:https://leetcode.com/problems/word-subsets/
 [917l]:https://leetcode.com/problems/reverse-only-letters/
+[918l]:https://leetcode.com/problems/maximum-sum-circular-subarray/
 [919l]:https://leetcode.com/problems/complete-binary-tree-inserter/
 [920l]:https://leetcode.com/problems/number-of-music-playlists/
 [921l]:https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/

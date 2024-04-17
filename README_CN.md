@@ -564,6 +564,7 @@
 [915][915l]  |[分割数组][915]                                           |![rb]&nbsp;&nbsp;![rs]
 [916][916l]  |[单词子集][916]                                           |![rb]&nbsp;&nbsp;![rs]
 [917][917l]  |[仅仅反转字母][917]                                       |![py]
+[918][918l]  |[环形子数组的最大和][918]                                 |![rs]
 [919][919l]  |[完全二叉树插入器][919]                                   |![py]
 [920][920l]  |[播放列表的数量][920]                                     |![rs]
 [921][921l]  |[使括号有效的最少添加][921]                               |![rs]
@@ -1986,6 +1987,7 @@
 [915]:Problemset/0915-Partition%20Array%20into%20Disjoint%20Intervals/README_CN.md#915-分割数组
 [916]:Problemset/0916-Word%20Subsets/README_CN.md#916-单词子集
 [917]:Problemset/0917-Reverse%20Only%20Letters/README_CN.md#917-仅仅反转字母
+[918]:Problemset/0918-Maximum%20Sum%20Circular%20Subarray/README_CN.md#918-环形子数组的最大和
 [919]:Problemset/0919-Complete%20Binary%20Tree%20Inserter/README_CN.md#919-完全二叉树插入器
 [920]:Problemset/0920-Number%20of%20Music%20Playlists/README_CN.md#920-播放列表的数量
 [921]:Problemset/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid/README_CN.md#921-使括号有效的最少添加
@@ -3407,6 +3409,7 @@
 [915l]:https://leetcode.cn/problems/partition-array-into-disjoint-intervals/
 [916l]:https://leetcode.cn/problems/word-subsets/
 [917l]:https://leetcode.cn/problems/reverse-only-letters/
+[918l]:https://leetcode.cn/problems/maximum-sum-circular-subarray/
 [919l]:https://leetcode.cn/problems/complete-binary-tree-inserter/
 [920l]:https://leetcode.cn/problems/number-of-music-playlists/
 [921l]:https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/
