@@ -234,6 +234,7 @@
 [368][368l]  |[Largest Divisible Subset][368]                                                       |![rs]
 [371][371l]  |[Sum of Two Integers][371]                                                            |![rs]
 [372][372l]  |[Super Pow][372]                                                                      |![rs]
+[373][373l]  |[Find K Pairs with Smallest Sums][373]                                                |![rs]
 [374][374l]  |[Guess Number Higher or Lower][374]                                                   |![py]
 [380][380l]  |[Insert Delete GetRandom O(1)][380]                                                   |![rs]
 [382][382l]  |[Linked List Random Node][382]                                                        |![py]
@@ -1657,6 +1658,7 @@
 [368]:Problemset/0368-Largest%20Divisible%20Subset/README.md#368-largest-divisible-subset
 [371]:Problemset/0371-Sum%20of%20Two%20Integers/README.md#371-sum-of-two-integers
 [372]:Problemset/0372-Super%20Pow/README.md#372-super-pow
+[373]:Problemset/0373-Find%20K%20Pairs%20with%20Smallest%20Sums/README.md#373-find-k-pairs-with-smallest-sums
 [374]:Problemset/0374-Guess%20Number%20Higher%20or%20Lower/README.md#374-guess-number-higher-or-lower
 [380]:Problemset/0380-Insert%20Delete%20GetRandom%20O\(1\)/README.md#380-insert-delete-getrandom-o1
 [382]:Problemset/0382-Linked%20List%20Random%20Node/README.md#382-linked-list-random-node
@@ -3077,6 +3079,7 @@
 [368l]:https://leetcode.com/problems/largest-divisible-subset/
 [371l]:https://leetcode.com/problems/sum-of-two-integers/
 [372l]:https://leetcode.com/problems/super-pow/
+[373l]:https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
 [374l]:https://leetcode.com/problems/guess-number-higher-or-lower/
 [380l]:https://leetcode.com/problems/insert-delete-getrandom-o1/
 [382l]:https://leetcode.com/problems/linked-list-random-node/
