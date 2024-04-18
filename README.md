@@ -1,4 +1,4 @@
-[中文](./readme_cn.md)
+[中文](./README_CN.md)
 
 ## Problems
 |#           |Title                                                                                 |Languages
