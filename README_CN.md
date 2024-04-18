@@ -273,6 +273,7 @@
 [427][427l]  |[建立四叉树][427]                                         |![py]
 [429][429l]  |[N叉树的层序遍历][429]                                    |![py]&nbsp;&nbsp;![rb]
 [430][430l]  |[扁平化多级双向链表][430]                                 |![rb]
+[432][432l]  |[全 O(1) 的数据结构]                                      |![py]
 [433][433l]  |[最小基因变化][433]                                       |![py]&nbsp;&nbsp;![rb]
 [434][434l]  |[字符串中的单词数][434]                                   |![py]
 [435][435l]  |[无重叠区间][435]                                         |![rs]
@@ -1697,6 +1698,7 @@
 [427]:Problemset/0427-Construct%20Quad%20Tree/README_CN.md#427-建立四叉树
 [429]:Problemset/0429-N-ary%20Tree%20Level%20Order%20Traversal/README_CN.md#429-n叉树的层序遍历
 [430]:Problemset/0430-Flatten%20a%20Multilevel%20Doubly%20Linked%20List/README_CN.md#430-扁平化多级双向链表
+[432]:Problemset/0432-All%20O`one%20Data%20Structure/README_CN.md#432-全-O1-的数据结构
 [433]:Problemset/0433-Minimum%20Genetic%20Mutation/README_CN.md#433-最小基因变化
 [434]:Problemset/0434-Number%20of%20Segments%20in%20a%20String/README_CN.md#434-字符串中的单词数
 [435]:Problemset/0435-Non-overlapping%20Intervals/README_CN.md#435-无重叠区间
@@ -3119,6 +3121,7 @@
 [427l]:https://leetcode.cn/problems/construct-quad-tree/
 [429l]:https://leetcode.cn/problems/n-ary-tree-level-order-traversal/
 [430l]:https://leetcode.cn/problems/flatten-a-multilevel-doubly-linked-list/
+[432l]:https://leetcode.cn/problems/all-oone-data-structure/
 [433l]:https://leetcode.cn/problems/minimum-genetic-mutation/
 [434l]:https://leetcode.cn/problems/number-of-segments-in-a-string/
 [435l]:https://leetcode.cn/problems/non-overlapping-intervals/

@@ -273,6 +273,7 @@
 [427][427l]  |[Construct Quad Tree][427]                                                            |![py]
 [429][429l]  |[N-ary Tree Level Order Traversal][429]                                               |![py]&nbsp;&nbsp;![rb]
 [430][430l]  |[Flatten a Multilevel Doubly Linked List][430]                                        |![rb]
+[432][432l]  |[All O`one Data Structure][432]                                                       |![py]
 [433][433l]  |[Minimum Genetic Mutation][433]                                                       |![py]&nbsp;&nbsp;![rb]
 [434][434l]  |[Number of Segments in a String][434]                                                 |![py]
 [435][435l]  |[Non-overlapping Intervals][435]                                                      |![rs]
@@ -1697,6 +1698,7 @@
 [427]:Problemset/0427-Construct%20Quad%20Tree/README.md#427-construct-quad-tree
 [429]:Problemset/0429-N-ary%20Tree%20Level%20Order%20Traversal/README.md#429-n-ary-tree-level-order-traversal
 [430]:Problemset/0430-Flatten%20a%20Multilevel%20Doubly%20Linked%20List/README.md#430-flatten-a-multilevel-doubly-linked-list
+[432]:Problemset/0432-All%20O`one%20Data%20Structure/README.md#432-all-oone-data-structure
 [433]:Problemset/0433-Minimum%20Genetic%20Mutation/README.md#433-minimum-genetic-mutation
 [434]:Problemset/0434-Number%20of%20Segments%20in%20a%20String/README.md#434-number-of-segments-in-a-string
 [435]:Problemset/0435-Non-overlapping%20Intervals/README.md#435-non-overlapping-intervals
@@ -3119,6 +3121,7 @@
 [427l]:https://leetcode.com/problems/construct-quad-tree/
 [429l]:https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 [430l]:https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+[432l]:https://leetcode.com/problems/all-oone-data-structure/
 [433l]:https://leetcode.com/problems/minimum-genetic-mutation/
 [434l]:https://leetcode.com/problems/number-of-segments-in-a-string/
 [435l]:https://leetcode.com/problems/non-overlapping-intervals/
