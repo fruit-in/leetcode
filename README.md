@@ -1340,6 +1340,7 @@
 [2405][2405l]|[Optimal Partition of String][2405]                                                   |![rs]
 [2409][2409l]|[Count Days Spent Together][2409]                                                     |![py]
 [2410][2410l]|[Maximum Matching of Players With Trainers][2410]                                     |![rs]
+[2412][2412l]|[Minimum Money Required Before Transactions][2412]                                    |![rs]
 [2413][2413l]|[Smallest Even Multiple][2413]                                                        |![rs]
 [2414][2414l]|[Length of the Longest Alphabetical Continuous Substring][2414]                       |![rs]
 [2415][2415l]|[Reverse Odd Levels of Binary Tree][2415]                                             |![py]
@@ -2766,6 +2767,7 @@
 [2405]:Problemset/2405-Optimal%20Partition%20of%20String/README.md#2405-optimal-partition-of-string
 [2409]:Problemset/2409-Count%20Days%20Spent%20Together/README.md#2409-count-days-spent-together
 [2410]:Problemset/2410-Maximum%20Matching%20of%20Players%20With%20Trainers/README.md#2410-maximum-matching-of-players-with-trainers
+[2412]:Problemset/2412-Minimum%20Money%20Required%20Before%20Transactions/README.md#2412-minimum-money-required-before-transactions
 [2413]:Problemset/2413-Smallest%20Even%20Multiple/README.md#2413-smallest-even-multiple
 [2414]:Problemset/2414-Length%20of%20the%20Longest%20Alphabetical%20Continuous%20Substring/README.md#2414-length-of-the-longest-alphabetical-continuous-substring
 [2415]:Problemset/2415-Reverse%20Odd%20Levels%20of%20Binary%20Tree/README.md#2415-reverse-odd-levels-of-binary-tree
@@ -4191,6 +4193,7 @@
 [2405l]:https://leetcode.com/problems/optimal-partition-of-string/
 [2409l]:https://leetcode.com/problems/count-days-spent-together/
 [2410l]:https://leetcode.com/problems/maximum-matching-of-players-with-trainers/
+[2412l]:https://leetcode.com/problems/minimum-money-required-before-transactions/
 [2413l]:https://leetcode.com/problems/smallest-even-multiple/
 [2414l]:https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 [2415l]:https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/
