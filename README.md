@@ -846,6 +846,7 @@
 [1408][1408l]|[String Matching in an Array][1408]                                                   |![rs]
 [1409][1409l]|[Queries on a Permutation With Key][1409]                                             |![rb]&nbsp;&nbsp;![rs]&nbsp;&nbsp;![kt]
 [1410][1410l]|[HTML Entity Parser][1410]                                                            |![rs]
+[1411][1411l]|[Number of Ways to Paint N × 3 Grid][1411]                                            |![rs]
 [1413][1413l]|[Minimum Value to Get Positive Step by Step Sum][1413]                                |![rs]
 [1414][1414l]|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K][1414]                   |![rb]&nbsp;&nbsp;![rs]
 [1415][1415l]|[The k-th Lexicographical String of All Happy Strings of Length n][1415]              |![py]&nbsp;&nbsp;![rb]
@@ -2273,6 +2274,7 @@
 [1408]:Problemset/1408-String%20Matching%20in%20an%20Array/README.md#1408-string-matching-in-an-array
 [1409]:Problemset/1409-Queries%20on%20a%20Permutation%20With%20Key/README.md#1409-queries-on-a-permutation-with-key
 [1410]:Problemset/1410-HTML%20Entity%20Parser/README.md#1410-html-entity-parser
+[1411]:Problemset/1411-Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/README.md#1411-number-of-ways-to-paint-n-3-grid
 [1413]:Problemset/1413-Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/README.md#1413-minimum-value-to-get-positive-step-by-step-sum
 [1414]:Problemset/1414-Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K/README.md#1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k
 [1415]:Problemset/1415-The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/README.md#1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n
@@ -3699,6 +3701,7 @@
 [1408l]:https://leetcode.com/problems/string-matching-in-an-array/
 [1409l]:https://leetcode.com/problems/queries-on-a-permutation-with-key/
 [1410l]:https://leetcode.com/problems/html-entity-parser/
+[1411l]:https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/
 [1413l]:https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
 [1414l]:https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 [1415l]:https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/

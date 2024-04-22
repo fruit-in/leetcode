@@ -846,6 +846,7 @@
 [1408][1408l]|[数组中的字符串匹配][1408]                                |![rs]
 [1409][1409l]|[查询带键的排列][1409]                                    |![rb]&nbsp;&nbsp;![rs]&nbsp;&nbsp;![kt]
 [1410][1410l]|[HTML 实体解析器][1410]                                   |![rs]
+[1411][1411l]|[给 N x 3 网格图涂色的方案数][1411]                       |![rs]
 [1413][1413l]|[逐步求和得到正数的最小值][1413]                          |![rs]
 [1414][1414l]|[和为 K 的最少斐波那契数字数目][1414]                     |![rb]&nbsp;&nbsp;![rs]
 [1415][1415l]|[长度为 n 的开心字符串中字典序第 k 小的字符串][1415]      |![py]&nbsp;&nbsp;![rb]
@@ -2273,6 +2274,7 @@
 [1408]:Problemset/1408-String%20Matching%20in%20an%20Array/README_CN.md#1408-数组中的字符串匹配
 [1409]:Problemset/1409-Queries%20on%20a%20Permutation%20With%20Key/README_CN.md#1409-查询带键的排列
 [1410]:Problemset/1410-HTML%20Entity%20Parser/README_CN.md#1410-html-实体解析器
+[1411]:Problemset/1411-Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/README_CN.md#1411-给-n-x-3-网格图涂色的方案数
 [1413]:Problemset/1413-Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/README_CN.md#1413-逐步求和得到正数的最小值
 [1414]:Problemset/1414-Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K/README_CN.md#1414-和为-k-的最少斐波那契数字数目
 [1415]:Problemset/1415-The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/README_CN.md#1415-长度为-n-的开心字符串中字典序第-k-小的字符串
@@ -3699,6 +3701,7 @@
 [1408l]:https://leetcode.cn/problems/string-matching-in-an-array/
 [1409l]:https://leetcode.cn/problems/queries-on-a-permutation-with-key/
 [1410l]:https://leetcode.cn/problems/html-entity-parser/
+[1411l]:https://leetcode.cn/problems/number-of-ways-to-paint-n-3-grid/
 [1413l]:https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/
 [1414l]:https://leetcode.cn/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 [1415l]:https://leetcode.cn/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
