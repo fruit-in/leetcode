@@ -108,6 +108,7 @@
 [122][122l]  |[买卖股票的最佳时机 II][122]                              |![rs]
 [125][125l]  |[验证回文串][125]                                         |![py]
 [129][129l]  |[求根到叶子节点数字之和][129]                             |![py]
+[131][131l]  |[分割回文串][131]                                         |![py]
 [133][133l]  |[克隆图][133]                                             |![py]
 [134][134l]  |[加油站][134]                                             |![rb]&nbsp;&nbsp;![rs]
 [136][136l]  |[只出现一次的数字][136]                                   |![rs]
@@ -1536,6 +1537,7 @@
 [122]:Problemset/0122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README_CN.md#122-买卖股票的最佳时机-ii
 [125]:Problemset/0125-Valid%20Palindrome/README_CN.md#125-验证回文串
 [129]:Problemset/0129-Sum%20Root%20to%20Leaf%20Numbers/README_CN.md#129-求根到叶子节点数字之和
+[131]:Problemset/0131-Palindrome%20Partitioning/README_CN.md#131-分割回文串
 [133]:Problemset/0133-Clone%20Graph/README_CN.md#133-克隆图
 [134]:Problemset/0134-Gas%20Station/README_CN.md#134-加油站
 [136]:Problemset/0136-Single%20Number/README_CN.md#136-只出现一次的数字
@@ -2958,6 +2960,7 @@
 [122l]:https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/
 [125l]:https://leetcode.cn/problems/valid-palindrome/
 [129l]:https://leetcode.cn/problems/sum-root-to-leaf-numbers/
+[131l]:https://leetcode.cn/problems/palindrome-partitioning/
 [133l]:https://leetcode.cn/problems/clone-graph/
 [134l]:https://leetcode.cn/problems/gas-station/
 [136l]:https://leetcode.cn/problems/single-number/
