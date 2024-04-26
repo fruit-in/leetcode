@@ -490,6 +490,7 @@
 [807][807l]  |[保持城市天际线][807]                                     |![rs]
 [808][808l]  |[分汤][808]                                               |![rs]
 [809][809l]  |[情感丰富的文字][809]                                     |![rs]
+[810][810l]  |[黑板异或游戏][810]                                       |![rs]
 [811][811l]  |[子域名访问计数][811]                                     |![rs]
 [812][812l]  |[最大三角形面积][812]                                     |![rs]
 [813][813l]  |[最大平均值和的分组][813]                                 |![py]
@@ -1919,6 +1920,7 @@
 [807]:Problemset/0807-Max%20Increase%20to%20Keep%20City%20Skyline/README_CN.md#807-保持城市天际线
 [808]:Problemset/0808-Soup%20Servings/README_CN.md#808-分汤
 [809]:Problemset/0809-Expressive%20Words/README_CN.md#809-情感丰富的文字
+[810]:Problemset/0810-Chalkboard%20XOR%20Game/README_CN.md#810-黑板异或游戏
 [811]:Problemset/0811-Subdomain%20Visit%20Count/README_CN.md#811-子域名访问计数
 [812]:Problemset/0812-Largest%20Triangle%20Area/README_CN.md#812-最大三角形面积
 [813]:Problemset/0813-Largest%20Sum%20of%20Averages/README_CN.md#813-最大平均值和的分组
@@ -3347,6 +3349,7 @@
 [807l]:https://leetcode.cn/problems/max-increase-to-keep-city-skyline/
 [808l]:https://leetcode.cn/problems/soup-servings/
 [809l]:https://leetcode.cn/problems/expressive-words/
+[810l]:https://leetcode.cn/problems/chalkboard-xor-game/
 [811l]:https://leetcode.cn/problems/subdomain-visit-count/
 [812l]:https://leetcode.cn/problems/largest-triangle-area/
 [813l]:https://leetcode.cn/problems/largest-sum-of-averages/

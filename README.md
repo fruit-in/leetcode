@@ -490,6 +490,7 @@
 [807][807l]  |[Max Increase to Keep City Skyline][807]                                              |![rs]
 [808][808l]  |[Soup Servings][808]                                                                  |![rs]
 [809][809l]  |[Expressive Words][809]                                                               |![rs]
+[810][810l]  |[Chalkboard XOR Game][810]                                                            |![rs]
 [811][811l]  |[Subdomain Visit Count][811]                                                          |![rs]
 [812][812l]  |[Largest Triangle Area][812]                                                          |![rs]
 [813][813l]  |[Largest Sum of Averages][813]                                                        |![py]
@@ -1919,6 +1920,7 @@
 [807]:Problemset/0807-Max%20Increase%20to%20Keep%20City%20Skyline/README.md#807-max-increase-to-keep-city-skyline
 [808]:Problemset/0808-Soup%20Servings/README.md#808-soup-servings
 [809]:Problemset/0809-Expressive%20Words/README.md#809-expressive-words
+[810]:Problemset/0810-Chalkboard%20XOR%20Game/README.md#810-chalkboard-xor-game
 [811]:Problemset/0811-Subdomain%20Visit%20Count/README.md#811-subdomain-visit-count
 [812]:Problemset/0812-Largest%20Triangle%20Area/README.md#812-largest-triangle-area
 [813]:Problemset/0813-Largest%20Sum%20of%20Averages/README.md#813-largest-sum-of-averages
@@ -3347,6 +3349,7 @@
 [807l]:https://leetcode.com/problems/max-increase-to-keep-city-skyline/
 [808l]:https://leetcode.com/problems/soup-servings/
 [809l]:https://leetcode.com/problems/expressive-words/
+[810l]:https://leetcode.com/problems/chalkboard-xor-game/
 [811l]:https://leetcode.com/problems/subdomain-visit-count/
 [812l]:https://leetcode.com/problems/largest-triangle-area/
 [813l]:https://leetcode.com/problems/largest-sum-of-averages/
