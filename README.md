@@ -471,6 +471,7 @@
 [771][771l]  |[Jewels and Stones][771]                                                              |![rs]
 [773][773l]  |[Sliding Puzzle][773]                                                                 |![rs]
 [775][775l]  |[Global and Local Inversions][775]                                                    |![rb]&nbsp;&nbsp;![rs]
+[778][778l]  |[Swim in Rising Water][778]                                                           |![rs]
 [779][779l]  |[K-th Symbol in Grammar][779]                                                         |![rs]
 [781][781l]  |[Rabbits in Forest][781]                                                              |![rb]&nbsp;&nbsp;![rs]
 [783][783l]  |[Minimum Distance Between BST Nodes][783]                                             |![py]
@@ -1901,6 +1902,7 @@
 [771]:Problemset/0771-Jewels%20and%20Stones/README.md#771-jewels-and-stones
 [773]:Problemset/0773-Sliding%20Puzzle/README.md#773-sliding-puzzle
 [775]:Problemset/0775-Global%20and%20Local%20Inversions/README.md#775-global-and-local-inversions
+[778]:Problemset/0778-Swim%20in%20Rising%20Water/README.md#778-swim-in-rising-water
 [779]:Problemset/0779-K-th%20Symbol%20in%20Grammar/README.md#779-k-th-symbol-in-grammar
 [781]:Problemset/0781-Rabbits%20in%20Forest/README.md#781-rabbits-in-forest
 [783]:Problemset/0783-Minimum%20Distance%20Between%20BST%20Nodes/README.md#783-minimum-distance-between-bst-nodes
@@ -3330,6 +3332,7 @@
 [771l]:https://leetcode.com/problems/jewels-and-stones/
 [773l]:https://leetcode.com/problems/sliding-puzzle/
 [775l]:https://leetcode.com/problems/global-and-local-inversions/
+[778l]:https://leetcode.com/problems/swim-in-rising-water/
 [779l]:https://leetcode.com/problems/k-th-symbol-in-grammar/
 [781l]:https://leetcode.com/problems/rabbits-in-forest/
 [783l]:https://leetcode.com/problems/minimum-distance-between-bst-nodes/
