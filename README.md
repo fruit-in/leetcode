@@ -1084,6 +1084,7 @@
 [1877][1877l]|[Minimize Maximum Pair Sum in Array][1877]                                            |![rs]
 [1878][1878l]|[Get Biggest Three Rhombus Sums in a Grid][1878]                                      |![rs]
 [1880][1880l]|[Check if Word Equals Summation of Two Words][1880]                                   |![rs]
+[1884][1884l]|[Egg Drop With 2 Eggs and N Floors][1884]                                             |![rs]
 [1886][1886l]|[Determine Whether Matrix Can Be Obtained By Rotation][1886]                          |![rs]
 [1887][1887l]|[Reduction Operations to Make the Array Elements Equal][1887]                         |![rs]
 [1888][1888l]|[Minimum Number of Flips to Make the Binary String Alternating][1888]                 |![rs]
@@ -2515,6 +2516,7 @@
 [1877]:Problemset/1877-Minimize%20Maximum%20Pair%20Sum%20in%20Array/README.md#1877-minimize-maximum-pair-sum-in-array
 [1878]:Problemset/1878-Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/README.md#1878-get-biggest-three-rhombus-sums-in-a-grid
 [1880]:Problemset/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README.md#1880-check-if-word-equals-summation-of-two-words
+[1884]:Problemset/1884-Egg%20Drop%20With%202%20Eggs%20and%20N%20Floors/README.md#1884-egg-drop-with-2-eggs-and-n-floors
 [1886]:Problemset/1886-Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/README.md#1886-determine-whether-matrix-can-be-obtained-by-rotation
 [1887]:Problemset/1887-Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal/README.md#1887-reduction-operations-to-make-the-array-elements-equal
 [1888]:Problemset/1888-Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/README.md#1888-minimum-number-of-flips-to-make-the-binary-string-alternating
@@ -3945,6 +3947,7 @@
 [1877l]:https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 [1878l]:https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/
 [1880l]:https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
+[1884l]:https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/
 [1886l]:https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 [1887l]:https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
 [1888l]:https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/
