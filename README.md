@@ -514,6 +514,7 @@
 [839][839l]  |[Similar String Groups][839]                                                          |![py]
 [840][840l]  |[Magic Squares In Grid][840]                                                          |![rs]
 [841][841l]  |[Keys and Rooms][841]                                                                 |![rs]
+[842][842l]  |[Split Array into Fibonacci Sequence][842]                                            |![py]
 [844][844l]  |[Backspace String Compare][844]                                                       |![py]
 [846][846l]  |[Hand of Straights][846]                                                              |![rs]
 [848][848l]  |[Shifting Letters][848]                                                               |![rs]
@@ -1946,6 +1947,7 @@
 [839]:Problemset/0839-Similar%20String%20Groups/README.md#839-similar-string-groups
 [840]:Problemset/0840-Magic%20Squares%20In%20Grid/README.md#840-magic-squares-in-grid
 [841]:Problemset/0841-Keys%20and%20Rooms/README.md#841-keys-and-rooms
+[842]:Problemset/0842-Split%20Array%20into%20Fibonacci%20Sequence/README.md#842-split-array-into-fibonacci-sequence
 [844]:Problemset/0844-Backspace%20String%20Compare/README.md#844-backspace-string-compare
 [846]:Problemset/0846-Hand%20of%20Straights/README.md#846-hand-of-straights
 [848]:Problemset/0848-Shifting%20Letters/README.md#848-shifting-letters
@@ -3377,6 +3379,7 @@
 [839l]:https://leetcode.com/problems/similar-string-groups/
 [840l]:https://leetcode.com/problems/magic-squares-in-grid/
 [841l]:https://leetcode.com/problems/keys-and-rooms/
+[842l]:https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 [844l]:https://leetcode.com/problems/backspace-string-compare/
 [846l]:https://leetcode.com/problems/hand-of-straights/
 [848l]:https://leetcode.com/problems/shifting-letters/

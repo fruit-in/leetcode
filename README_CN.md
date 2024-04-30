@@ -514,6 +514,7 @@
 [839][839l]  |[相似字符串组][839]                                       |![py]
 [840][840l]  |[矩阵中的幻方][840]                                       |![rs]
 [841][841l]  |[钥匙和房间][841]                                         |![rs]
+[842][842l]  |[将数组拆分成斐波那契序列][842]                           |![py]
 [844][844l]  |[比较含退格的字符串][844]                                 |![py]
 [846][846l]  |[一手顺子][846]                                           |![rs]
 [848][848l]  |[字母移位][848]                                           |![rs]
@@ -1946,6 +1947,7 @@
 [839]:Problemset/0839-Similar%20String%20Groups/README_CN.md#839-相似字符串组
 [840]:Problemset/0840-Magic%20Squares%20In%20Grid/README_CN.md#840-矩阵中的幻方
 [841]:Problemset/0841-Keys%20and%20Rooms/README_CN.md#841-钥匙和房间
+[842]:Problemset/0842-Split%20Array%20into%20Fibonacci%20Sequence/README_CN.md#842-将数组拆分成斐波那契序列
 [844]:Problemset/0844-Backspace%20String%20Compare/README_CN.md#844-比较含退格的字符串
 [846]:Problemset/0846-Hand%20of%20Straights/README_CN.md#846-一手顺子
 [848]:Problemset/0848-Shifting%20Letters/README_CN.md#848-字母移位
@@ -3377,6 +3379,7 @@
 [839l]:https://leetcode.cn/problems/similar-string-groups/
 [840l]:https://leetcode.cn/problems/magic-squares-in-grid/
 [841l]:https://leetcode.cn/problems/keys-and-rooms/
+[842l]:https://leetcode.cn/problems/split-array-into-fibonacci-sequence/
 [844l]:https://leetcode.cn/problems/backspace-string-compare/
 [846l]:https://leetcode.cn/problems/hand-of-straights/
 [848l]:https://leetcode.cn/problems/shifting-letters/
