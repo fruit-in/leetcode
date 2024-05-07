@@ -670,6 +670,7 @@
 [1043][1043l]|[分隔数组以得到最大和][1043]                              |![rs]
 [1046][1046l]|[最后一块石头的重量][1046]                                |![py]
 [1047][1047l]|[删除字符串中的所有相邻重复项][1047]                      |![py]
+[1048][1048l]|[最长字符串链][1048]                                      |![py]
 [1051][1051l]|[高度检查器][1051]                                        |![py]
 [1052][1052l]|[爱生气的书店老板][1052]                                  |![rb]&nbsp;&nbsp;![rs]
 [1053][1053l]|[交换一次的先前排列][1053]                                |![rs]
@@ -2104,6 +2105,7 @@
 [1043]:Problemset/1043-Partition%20Array%20for%20Maximum%20Sum/README_CN.md#1043-分隔数组以得到最大和
 [1046]:Problemset/1046-Last%20Stone%20Weight/README_CN.md#1046-最后一块石头的重量
 [1047]:Problemset/1047-Remove%20All%20Adjacent%20Duplicates%20In%20String/README_CN.md#1047-删除字符串中的所有相邻重复项
+[1048]:Problemset/1048-Longest%20String%20Chain/README_CN.md#1048-最长字符串链
 [1051]:Problemset/1051-Height%20Checker/README_CN.md#1051-高度检查器
 [1052]:Problemset/1052-Grumpy%20Bookstore%20Owner/README_CN.md#1052-爱生气的书店老板
 [1053]:Problemset/1053-Previous%20Permutation%20With%20One%20Swap/README_CN.md#1053-交换一次的先前排列
@@ -3537,6 +3539,7 @@
 [1043l]:https://leetcode.cn/problems/partition-array-for-maximum-sum/
 [1046l]:https://leetcode.cn/problems/last-stone-weight/
 [1047l]:https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/
+[1048l]:https://leetcode.cn/problems/longest-string-chain/
 [1051l]:https://leetcode.cn/problems/height-checker/
 [1052l]:https://leetcode.cn/problems/grumpy-bookstore-owner/
 [1053l]:https://leetcode.cn/problems/previous-permutation-with-one-swap/
