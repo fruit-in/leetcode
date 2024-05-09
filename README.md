@@ -716,6 +716,7 @@
 [1172][1172l]|[Dinner Plate Stacks][1172]                                                           |![rs]
 [1175][1175l]|[Prime Arrangements][1175]                                                            |![rs]
 [1177][1177l]|[Can Make Palindrome from Substring][1177]                                            |![rs]
+[1178][1178l]|[Number of Valid Words for Each Puzzle][1178]                                         |![rs]
 [1184][1184l]|[Distance Between Bus Stops][1184]                                                    |![rs]
 [1185][1185l]|[Day of the Week][1185]                                                               |![rs]
 [1189][1189l]|[Maximum Number of Balloons][1189]                                                    |![rs]
@@ -2151,6 +2152,7 @@
 [1172]:Problemset/1172-Dinner%20Plate%20Stacks/README.md#1172-dinner-plate-stacks
 [1175]:Problemset/1175-Prime%20Arrangements/README.md#1175-prime-arrangements
 [1177]:Problemset/1177-Can%20Make%20Palindrome%20from%20Substring/README.md#1177-can-make-palindrome-from-substring
+[1178]:Problemset/1178-Number%20of%20Valid%20Words%20for%20Each%20Puzzle/README.md#1178-number-of-valid-words-for-each-puzzle
 [1184]:Problemset/1184-Distance%20Between%20Bus%20Stops/README.md#1184-distance-between-bus-stops
 [1185]:Problemset/1185-Day%20of%20the%20Week/README.md#1185-day-of-the-week
 [1189]:Problemset/1189-Maximum%20Number%20of%20Balloons/README.md#1189-maximum-number-of-balloons
@@ -3585,6 +3587,7 @@
 [1172l]:https://leetcode.com/problems/dinner-plate-stacks/
 [1175l]:https://leetcode.com/problems/prime-arrangements/
 [1177l]:https://leetcode.com/problems/can-make-palindrome-from-substring/
+[1178l]:https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 [1184l]:https://leetcode.com/problems/distance-between-bus-stops/
 [1185l]:https://leetcode.com/problems/day-of-the-week/
 [1189l]:https://leetcode.com/problems/maximum-number-of-balloons/

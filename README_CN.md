@@ -716,6 +716,7 @@
 [1172][1172l]|[餐盘栈][1172]                                            |![rs]
 [1175][1175l]|[质数排列][1175]                                          |![rs]
 [1177][1177l]|[构建回文串检测][1177]                                    |![rs]
+[1178][1178l]|[猜字谜][1178]                                            |![rs]
 [1184][1184l]|[公交站间的距离][1184]                                    |![rs]
 [1185][1185l]|[一周中的第几天][1185]                                    |![rs]
 [1189][1189l]|[“气球” 的最大数量][1189]                                 |![rs]
@@ -2151,6 +2152,7 @@
 [1172]:Problemset/1172-Dinner%20Plate%20Stacks/README_CN.md#1172-餐盘栈
 [1175]:Problemset/1175-Prime%20Arrangements/README_CN.md#1175-质数排列
 [1177]:Problemset/1177-Can%20Make%20Palindrome%20from%20Substring/README_CN.md#1177-构建回文串检测
+[1178]:Problemset/1178-Number%20of%20Valid%20Words%20for%20Each%20Puzzle/README_CN.md#1178-猜字谜
 [1184]:Problemset/1184-Distance%20Between%20Bus%20Stops/README_CN.md#1184-公交站间的距离
 [1185]:Problemset/1185-Day%20of%20the%20Week/README_CN.md#1185-一周中的第几天
 [1189]:Problemset/1189-Maximum%20Number%20of%20Balloons/README_CN.md#1189-气球-的最大数量
@@ -3585,6 +3587,7 @@
 [1172l]:https://leetcode.cn/problems/dinner-plate-stacks/
 [1175l]:https://leetcode.cn/problems/prime-arrangements/
 [1177l]:https://leetcode.cn/problems/can-make-palindrome-from-substring/
+[1178l]:https://leetcode.cn/problems/number-of-valid-words-for-each-puzzle/
 [1184l]:https://leetcode.cn/problems/distance-between-bus-stops/
 [1185l]:https://leetcode.cn/problems/day-of-the-week/
 [1189l]:https://leetcode.cn/problems/maximum-number-of-balloons/
