@@ -564,6 +564,7 @@
 [904][904l]  |[水果成篮][904]                                           |![rs]
 [905][905l]  |[按奇偶排序数组][905]                                     |![rs]
 [908][908l]  |[最小差值 I][908]                                         |![rs]
+[909][909l]  |[蛇梯棋][909]                                             |![rs]
 [911][911l]  |[在线选举][911]                                           |![rs]
 [912][912l]  |[排序数组][912]                                           |![rs]
 [914][914l]  |[卡牌分组][914]                                           |![rs]
@@ -2000,6 +2001,7 @@
 [904]:Problemset/0904-Fruit%20Into%20Baskets/README_CN.md#904-水果成篮
 [905]:Problemset/0905-Sort%20Array%20By%20Parity/README_CN.md#905-按奇偶排序数组
 [908]:Problemset/0908-Smallest%20Range%20I/README_CN.md#908-最小差值-i
+[909]:Problemset/0909-Snakes%20and%20Ladders/README_CN.md#909-蛇梯棋
 [911]:Problemset/0911-Online%20Election/README_CN.md#911-在线选举
 [912]:Problemset/0912-Sort%20an%20Array/README_CN.md#912-排序数组
 [914]:Problemset/0914-X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/README_CN.md#914-卡牌分组
@@ -3435,6 +3437,7 @@
 [904l]:https://leetcode.cn/problems/fruit-into-baskets/
 [905l]:https://leetcode.cn/problems/sort-array-by-parity/
 [908l]:https://leetcode.cn/problems/smallest-range-i/
+[909l]:https://leetcode.cn/problems/snakes-and-ladders/
 [911l]:https://leetcode.cn/problems/online-election/
 [912l]:https://leetcode.cn/problems/sort-an-array/
 [914l]:https://leetcode.cn/problems/x-of-a-kind-in-a-deck-of-cards/
