@@ -681,6 +681,7 @@
 [1074][1074l]|[元素和为目标值的子矩阵数量][1074]                        |![rs]
 [1078][1078l]|[Bigram 分词][1078]                                       |![py]
 [1079][1079l]|[活字印刷][1079]                                          |![py]
+[1080][1080l]|[根到叶路径上的不足节点][1080]                            |![py]
 [1081][1081l]|[不同字符的最小子序列][1081]                              |![rs]
 [1089][1089l]|[复写零][1089]                                            |![rs]
 [1090][1090l]|[受标签影响的最大值][1090]                                |![rb]
@@ -2118,6 +2119,7 @@
 [1074]:Problemset/1074-Number%20of%20Submatrices%20That%20Sum%20to%20Target/README_CN.md#1074-元素和为目标值的子矩阵数量
 [1078]:Problemset/1078-Occurrences%20After%20Bigram/README_CN.md#1078-bigram-分词
 [1079]:Problemset/1079-Letter%20Tile%20Possibilities/README_CN.md#1079-活字印刷
+[1080]:Problemset/1080-Insufficient%20Nodes%20in%20Root%20to%20Leaf%20Paths/README_CN.md#1080-根到叶路径上的不足节点
 [1081]:Problemset/1081-Smallest%20Subsequence%20of%20Distinct%20Characters/README_CN.md#1081-不同字符的最小子序列
 [1089]:Problemset/1089-Duplicate%20Zeros/README_CN.md#1089-复写零
 [1090]:Problemset/1090-Largest%20Values%20From%20Labels/README_CN.md#1090-受标签影响的最大值
@@ -3554,6 +3556,7 @@
 [1074l]:https://leetcode.cn/problems/number-of-submatrices-that-sum-to-target/
 [1078l]:https://leetcode.cn/problems/occurrences-after-bigram/
 [1079l]:https://leetcode.cn/problems/letter-tile-possibilities/
+[1080l]:https://leetcode.cn/problems/insufficient-nodes-in-root-to-leaf-paths/
 [1081l]:https://leetcode.cn/problems/smallest-subsequence-of-distinct-characters/
 [1089l]:https://leetcode.cn/problems/duplicate-zeros/
 [1090l]:https://leetcode.cn/problems/largest-values-from-labels/

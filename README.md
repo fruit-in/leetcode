@@ -681,6 +681,7 @@
 [1074][1074l]|[Number of Submatrices That Sum to Target][1074]                                      |![rs]
 [1078][1078l]|[Occurrences After Bigram][1078]                                                      |![py]
 [1079][1079l]|[Letter Tile Possibilities][1079]                                                     |![py]
+[1080][1080l]|[Insufficient Nodes in Root to Leaf Paths][1080]                                      |![py]
 [1081][1081l]|[Smallest Subsequence of Distinct Characters][1081]                                   |![rs]
 [1089][1089l]|[Duplicate Zeros][1089]                                                               |![rs]
 [1090][1090l]|[Largest Values From Labels][1090]                                                    |![rb]
@@ -2118,6 +2119,7 @@
 [1074]:Problemset/1074-Number%20of%20Submatrices%20That%20Sum%20to%20Target/README.md#1074-number-of-submatrices-that-sum-to-target
 [1078]:Problemset/1078-Occurrences%20After%20Bigram/README.md#1078-occurrences-after-bigram
 [1079]:Problemset/1079-Letter%20Tile%20Possibilities/README.md#1079-letter-tile-possibilities
+[1080]:Problemset/1080-Insufficient%20Nodes%20in%20Root%20to%20Leaf%20Paths/README.md#1080-insufficient-nodes-in-root-to-leaf-paths
 [1081]:Problemset/1081-Smallest%20Subsequence%20of%20Distinct%20Characters/README.md#1081-smallest-subsequence-of-distinct-characters
 [1089]:Problemset/1089-Duplicate%20Zeros/README.md#1089-duplicate-zeros
 [1090]:Problemset/1090-Largest%20Values%20From%20Labels/README.md#1090-largest-values-from-labels
@@ -3554,6 +3556,7 @@
 [1074l]:https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 [1078l]:https://leetcode.com/problems/occurrences-after-bigram/
 [1079l]:https://leetcode.com/problems/letter-tile-possibilities/
+[1080l]:https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/
 [1081l]:https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
 [1089l]:https://leetcode.com/problems/duplicate-zeros/
 [1090l]:https://leetcode.com/problems/largest-values-from-labels/
