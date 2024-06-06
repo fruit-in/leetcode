@@ -563,6 +563,7 @@
 [902][902l]  |[Numbers At Most N Given Digit Set][902]                                              |![rs]
 [904][904l]  |[Fruit Into Baskets][904]                                                             |![rs]
 [905][905l]  |[Sort Array By Parity][905]                                                           |![rs]
+[907][907l]  |[Sum of Subarray Minimums][907]                                                       |![rs]
 [908][908l]  |[Smallest Range I][908]                                                               |![rs]
 [909][909l]  |[Snakes and Ladders][909]                                                             |![rs]
 [911][911l]  |[Online Election][911]                                                                |![rs]
@@ -2001,6 +2002,7 @@
 [902]:Problemset/0902-Numbers%20At%20Most%20N%20Given%20Digit%20Set/README.md#902-numbers-at-most-n-given-digit-set
 [904]:Problemset/0904-Fruit%20Into%20Baskets/README.md#904-fruit-into-baskets
 [905]:Problemset/0905-Sort%20Array%20By%20Parity/README.md#905-sort-array-by-parity
+[907]:Problemset/0907-Sum%20of%20Subarray%20Minimums/README.md#907-sum-of-subarray-minimums
 [908]:Problemset/0908-Smallest%20Range%20I/README.md#908-smallest-range-i
 [909]:Problemset/0909-Snakes%20and%20Ladders/README.md#909-snakes-and-ladders
 [911]:Problemset/0911-Online%20Election/README.md#911-online-election
@@ -3438,6 +3440,7 @@
 [902l]:https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
 [904l]:https://leetcode.com/problems/fruit-into-baskets/
 [905l]:https://leetcode.com/problems/sort-array-by-parity/
+[907l]:https://leetcode.com/problems/sum-of-subarray-minimums/
 [908l]:https://leetcode.com/problems/smallest-range-i/
 [909l]:https://leetcode.com/problems/snakes-and-ladders/
 [911l]:https://leetcode.com/problems/online-election/
