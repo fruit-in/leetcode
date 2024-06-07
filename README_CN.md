@@ -679,6 +679,7 @@
 [1054][1054l]|[距离相等的条形码][1054]                                  |![rs]
 [1061][1061l]|[按字典序排列最小的等效字符串][1061]                      |![py]
 [1071][1071l]|[字符串的最大公因子][1071]                                |![py]
+[1073][1073l]|[负二进制数相加][1073]                                    |![rs]
 [1074][1074l]|[元素和为目标值的子矩阵数量][1074]                        |![rs]
 [1078][1078l]|[Bigram 分词][1078]                                       |![py]
 [1079][1079l]|[活字印刷][1079]                                          |![py]
@@ -2118,6 +2119,7 @@
 [1054]:Problemset/1054-Distant%20Barcodes/README_CN.md#1054-距离相等的条形码
 [1061]:Problemset/1061-Lexicographically%20Smallest%20Equivalent%20String/README_CN.md#1061-按字典序排列最小的等效字符串
 [1071]:Problemset/1071-Greatest%20Common%20Divisor%20of%20Strings/README_CN.md#1071-字符串的最大公因子
+[1073]:Problemset/1073-Adding%20Two%20Negabinary%20Numbers/README_CN.md#1073-负二进制数相加
 [1074]:Problemset/1074-Number%20of%20Submatrices%20That%20Sum%20to%20Target/README_CN.md#1074-元素和为目标值的子矩阵数量
 [1078]:Problemset/1078-Occurrences%20After%20Bigram/README_CN.md#1078-bigram-分词
 [1079]:Problemset/1079-Letter%20Tile%20Possibilities/README_CN.md#1079-活字印刷
@@ -3556,6 +3558,7 @@
 [1054l]:https://leetcode.cn/problems/distant-barcodes/
 [1061l]:https://leetcode.cn/problems/lexicographically-smallest-equivalent-string/
 [1071l]:https://leetcode.cn/problems/greatest-common-divisor-of-strings/
+[1073l]:https://leetcode.cn/problems/adding-two-negabinary-numbers/
 [1074l]:https://leetcode.cn/problems/number-of-submatrices-that-sum-to-target/
 [1078l]:https://leetcode.cn/problems/occurrences-after-bigram/
 [1079l]:https://leetcode.cn/problems/letter-tile-possibilities/
