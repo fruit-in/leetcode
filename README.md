@@ -962,6 +962,7 @@
 [1609][1609l]|[Even Odd Tree][1609]                                                                 |![py]&nbsp;&nbsp;![rb]
 [1610][1610l]|[Maximum Number of Visible Points][1610]                                              |![rs]
 [1614][1614l]|[Maximum Nesting Depth of the Parentheses][1614]                                      |![rb]&nbsp;&nbsp;![rs]
+[1615][1615l]|[Maximal Network Rank][1615]                                                          |![rs]
 [1619][1619l]|[Mean of Array After Removing Some Elements][1619]                                    |![rb]&nbsp;&nbsp;![rs]
 [1620][1620l]|[Coordinate With Maximum Network Quality][1620]                                       |![rs]
 [1621][1621l]|[Number of Sets of K Non-Overlapping Line Segments][1621]                             |![py]
@@ -2402,6 +2403,7 @@
 [1609]:Problemset/1609-Even%20Odd%20Tree/README.md#1609-even-odd-tree
 [1610]:Problemset/1610-Maximum%20Number%20of%20Visible%20Points/README.md#1610-maximum-number-of-visible-points
 [1614]:Problemset/1614-Maximum%20Nesting%20Depth%20of%20the%20Parentheses/README.md#1614-maximum-nesting-depth-of-the-parentheses
+[1615]:Problemset/1615-Maximal%20Network%20Rank/README.md#1615-maximal-network-rank
 [1619]:Problemset/1619-Mean%20of%20Array%20After%20Removing%20Some%20Elements/README.md#1619-mean-of-array-after-removing-some-elements
 [1620]:Problemset/1620-Coordinate%20With%20Maximum%20Network%20Quality/README.md#1620-coordinate-with-maximum-network-quality
 [1621]:Problemset/1621-Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments/README.md#1621-number-of-sets-of-k-non-overlapping-line-segments
@@ -3841,6 +3843,7 @@
 [1609l]:https://leetcode.com/problems/even-odd-tree/
 [1610l]:https://leetcode.com/problems/maximum-number-of-visible-points/
 [1614l]:https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+[1615l]:https://leetcode.com/problems/maximal-network-rank/
 [1619l]:https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 [1620l]:https://leetcode.com/problems/coordinate-with-maximum-network-quality/
 [1621l]:https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/
