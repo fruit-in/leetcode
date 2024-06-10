@@ -837,6 +837,7 @@
 [1380][1380l]|[矩阵中的幸运数][1380]                                    |![rs]
 [1381][1381l]|[设计一个支持增量操作的栈][1381]                          |![rs]
 [1382][1382l]|[将二叉搜索树变平衡][1382]                                |![py]
+[1383][1383l]|[最大的团队表现值][1383]                                  |![rs]
 [1385][1385l]|[两个数组间的距离值][1385]                                |![rs]
 [1386][1386l]|[安排电影院座位][1386]                                    |![rs]
 [1387][1387l]|[将整数按权重排序][1387]                                  |![rs]
@@ -2279,6 +2280,7 @@
 [1380]:Problemset/1380-Lucky%20Numbers%20in%20a%20Matrix/README_CN.md#1380-矩阵中的幸运数
 [1381]:Problemset/1381-Design%20a%20Stack%20With%20Increment%20Operation/README_CN.md#1381-设计一个支持增量操作的栈
 [1382]:Problemset/1382-Balance%20a%20Binary%20Search%20Tree/README_CN.md#1382-将二叉搜索树变平衡
+[1383]:Problemset/1383-Maximum%20Performance%20of%20a%20Team/README_CN.md#1383-最大的团队表现值
 [1385]:Problemset/1385-Find%20the%20Distance%20Value%20Between%20Two%20Arrays/README_CN.md#1385-两个数组间的距离值
 [1386]:Problemset/1386-Cinema%20Seat%20Allocation/README_CN.md#1386-安排电影院座位
 [1387]:Problemset/1387-Sort%20Integers%20by%20The%20Power%20Value/README_CN.md#1387-将整数按权重排序
@@ -3720,6 +3722,7 @@
 [1380l]:https://leetcode.cn/problems/lucky-numbers-in-a-matrix/
 [1381l]:https://leetcode.cn/problems/design-a-stack-with-increment-operation/
 [1382l]:https://leetcode.cn/problems/balance-a-binary-search-tree/
+[1383l]:https://leetcode.cn/problems/maximum-performance-of-a-team/
 [1385l]:https://leetcode.cn/problems/find-the-distance-value-between-two-arrays/
 [1386l]:https://leetcode.cn/problems/cinema-seat-allocation/
 [1387l]:https://leetcode.cn/problems/sort-integers-by-the-power-value/
