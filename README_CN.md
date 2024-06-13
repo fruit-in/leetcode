@@ -1276,6 +1276,7 @@
 [2241][2241l]|[设计一个 ATM 机器][2241]                                 |![rs]
 [2243][2243l]|[计算字符串的数字和][2243]                                |![py]
 [2244][2244l]|[完成所有任务需要的最少轮数][2244]                        |![py]
+[2245][2245l]|[转角路径的乘积中最多能有几个尾随零][2245]                |![rs]
 [2248][2248l]|[多个数组求交集][2248]                                    |![py]
 [2249][2249l]|[统计圆内格点数目][2249]                                  |![rs]
 [2251][2251l]|[花期内花的数目][2251]                                    |![rs]
@@ -2719,6 +2720,7 @@
 [2241]:Problemset/2241-Design%20an%20ATM%20Machine/README_CN.md#2241-设计一个-atm-机器
 [2243]:Problemset/2243-Calculate%20Digit%20Sum%20of%20a%20String/README_CN.md#2243-计算字符串的数字和
 [2244]:Problemset/2244-Minimum%20Rounds%20to%20Complete%20All%20Tasks/README_CN.md#2244-完成所有任务需要的最少轮数
+[2245]:Problemset/2245-Maximum%20Trailing%20Zeros%20in%20a%20Cornered%20Path/README_CN.md#2245-转角路径的乘积中最多能有几个尾随零
 [2248]:Problemset/2248-Intersection%20of%20Multiple%20Arrays/README_CN.md#2248-多个数组求交集
 [2249]:Problemset/2249-Count%20Lattice%20Points%20Inside%20a%20Circle/README_CN.md#2249-统计圆内格点数目
 [2251]:Problemset/2251-Number%20of%20Flowers%20in%20Full%20Bloom/README_CN.md#2251-花期内花的数目
@@ -4161,6 +4163,7 @@
 [2241l]:https://leetcode.cn/problems/design-an-atm-machine/
 [2243l]:https://leetcode.cn/problems/calculate-digit-sum-of-a-string/
 [2244l]:https://leetcode.cn/problems/minimum-rounds-to-complete-all-tasks/
+[2245l]:https://leetcode.cn/problems/maximum-trailing-zeros-in-a-cornered-path/
 [2248l]:https://leetcode.cn/problems/intersection-of-multiple-arrays/
 [2249l]:https://leetcode.cn/problems/count-lattice-points-inside-a-circle/
 [2251l]:https://leetcode.cn/problems/number-of-flowers-in-full-bloom/
