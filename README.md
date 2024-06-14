@@ -1140,6 +1140,7 @@
 [1991][1991l]|[Find the Middle Index in Array][1991]                                                |![py]
 [1993][1993l]|[Operations on Tree][1993]                                                            |![rs]
 [1995][1995l]|[Count Special Quadruplets][1995]                                                     |![py]
+[1996][1996l]|[The Number of Weak Characters in the Game][1996]                                     |![rs]
 [2000][2000l]|[Reverse Prefix of Word][2000]                                                        |![py]
 [2001][2001l]|[Number of Pairs of Interchangeable Rectangles][2001]                                 |![py]
 [2006][2006l]|[Count Number of Pairs With Absolute Difference K][2006]                              |![rs]
@@ -2584,6 +2585,7 @@
 [1991]:Problemset/1991-Find%20the%20Middle%20Index%20in%20Array/README.md#1991-find-the-middle-index-in-array
 [1993]:Problemset/1993-Operations%20on%20Tree/README.md#1993-operations-on-tree
 [1995]:Problemset/1995-Count%20Special%20Quadruplets/README.md#1995-count-special-quadruplets
+[1996]:Problemset/1996-The%20Number%20of%20Weak%20Characters%20in%20the%20Game/README.md#1996-the-number-of-weak-characters-in-the-game
 [2000]:Problemset/2000-Reverse%20Prefix%20of%20Word/README.md#2000-reverse-prefix-of-word
 [2001]:Problemset/2001-Number%20of%20Pairs%20of%20Interchangeable%20Rectangles/README.md#2001-number-of-pairs-of-interchangeable-rectangles
 [2006]:Problemset/2006-Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/README.md#2006-count-number-of-pairs-with-absolute-difference-k
@@ -4027,6 +4029,7 @@
 [1991l]:https://leetcode.com/problems/find-the-middle-index-in-array/
 [1993l]:https://leetcode.com/problems/operations-on-tree/
 [1995l]:https://leetcode.com/problems/count-special-quadruplets/
+[1996l]:https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
 [2000l]:https://leetcode.com/problems/reverse-prefix-of-word/
 [2001l]:https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/
 [2006l]:https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/

@@ -1140,6 +1140,7 @@
 [1991][1991l]|[找到数组的中间位置][1991]                                |![py]
 [1993][1993l]|[树上的操作][1993]                                        |![rs]
 [1995][1995l]|[统计特殊四元组][1995]                                    |![py]
+[1996][1996l]|[游戏中弱角色的数量][1996]                                |![rs]
 [2000][2000l]|[反转单词前缀][2000]                                      |![py]
 [2001][2001l]|[可互换矩形的组数][2001]                                  |![py]
 [2006][2006l]|[差的绝对值为 K 的数对数目][2006]                         |![rs]
@@ -2584,6 +2585,7 @@
 [1991]:Problemset/1991-Find%20the%20Middle%20Index%20in%20Array/README_CN.md#1991-找到数组的中间位置
 [1993]:Problemset/1993-Operations%20on%20Tree/README_CN.md#1993-树上的操作
 [1995]:Problemset/1995-Count%20Special%20Quadruplets/README_CN.md#1995-统计特殊四元组
+[1996]:Problemset/1996-The%20Number%20of%20Weak%20Characters%20in%20the%20Game/README_CN.md#1996-游戏中弱角色的数量
 [2000]:Problemset/2000-Reverse%20Prefix%20of%20Word/README_CN.md#2000-反转单词前缀
 [2001]:Problemset/2001-Number%20of%20Pairs%20of%20Interchangeable%20Rectangles/README_CN.md#2001-可互换矩形的组数
 [2006]:Problemset/2006-Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/README_CN.md#2006-差的绝对值为-k-的数对数目
@@ -4027,6 +4029,7 @@
 [1991l]:https://leetcode.cn/problems/find-the-middle-index-in-array/
 [1993l]:https://leetcode.cn/problems/operations-on-tree/
 [1995l]:https://leetcode.cn/problems/count-special-quadruplets/
+[1996l]:https://leetcode.cn/problems/the-number-of-weak-characters-in-the-game/
 [2000l]:https://leetcode.cn/problems/reverse-prefix-of-word/
 [2001l]:https://leetcode.cn/problems/number-of-pairs-of-interchangeable-rectangles/
 [2006l]:https://leetcode.cn/problems/count-number-of-pairs-with-absolute-difference-k/
