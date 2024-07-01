@@ -607,6 +607,7 @@
 [961][961l]  |[重复 N 次的元素][961]                                    |![rs]
 [962][962l]  |[最大宽度坡][962]                                         |![rs]
 [965][965l]  |[单值二叉树][965]                                         |![py]
+[966][966l]  |[元音拼写检查器][966]                                     |![py]
 [967][967l]  |[连续差相同的数字][967]                                   |![rb]&nbsp;&nbsp;![rs]
 [969][969l]  |[煎饼排序][969]                                           |![py]
 [970][970l]  |[强整数][970]                                             |![rs]
@@ -2053,6 +2054,7 @@
 [961]:Problemset/0961-N-Repeated%20Element%20in%20Size%202N%20Array/README_CN.md#961-重复-n-次的元素
 [962]:Problemset/0962-Maximum%20Width%20Ramp/README_CN.md#962-最大宽度坡
 [965]:Problemset/0965-Univalued%20Binary%20Tree/README_CN.md#965-单值二叉树
+[966]:Problemset/0966-Vowel%20Spellchecker/README_CN.md#966-元音拼写检查器
 [967]:Problemset/0967-Numbers%20With%20Same%20Consecutive%20Differences/README_CN.md#967-连续差相同的数字
 [969]:Problemset/0969-Pancake%20Sorting/README_CN.md#969-煎饼排序
 [970]:Problemset/0970-Powerful%20Integers/README_CN.md#970-强整数
@@ -3498,6 +3500,7 @@
 [961l]:https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/
 [962l]:https://leetcode.cn/problems/maximum-width-ramp/
 [965l]:https://leetcode.cn/problems/univalued-binary-tree/
+[966l]:https://leetcode.cn/problems/vowel-spellchecker/
 [967l]:https://leetcode.cn/problems/numbers-with-same-consecutive-differences/
 [969l]:https://leetcode.cn/problems/pancake-sorting/
 [970l]:https://leetcode.cn/problems/powerful-integers/
