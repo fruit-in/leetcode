@@ -959,6 +959,7 @@
 [1594][1594l]|[矩阵的最大非负积][1594]                                  |![rs]
 [1598][1598l]|[文件夹操作日志搜集器][1598]                              |![rb]
 [1599][1599l]|[经营摩天轮的最大利润][1599]                              |![rs]
+[1600][1600l]|[王位继承顺序][1600]                                      |![rs]
 [1601][1601l]|[最多可达成的换楼请求数目][1601]                          |![rs]
 [1603][1603l]|[设计停车系统][1603]                                      |![rs]
 [1604][1604l]|[警告一小时内使用相同员工卡大于等于三次的人][1604]        |![rs]
@@ -2407,6 +2408,7 @@
 [1594]:Problemset/1594-Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/README_CN.md#1594-矩阵的最大非负积
 [1598]:Problemset/1598-Crawler%20Log%20Folder/README_CN.md#1598-文件夹操作日志搜集器
 [1599]:Problemset/1599-Maximum%20Profit%20of%20Operating%20a%20Centennial%20Wheel/README_CN.md#1599-经营摩天轮的最大利润
+[1600]:Problemset/1600-Throne%20Inheritance/README_CN.md#1600-王位继承顺序
 [1601]:Problemset/1601-Maximum%20Number%20of%20Achievable%20Transfer%20Requests/README_CN.md#1601-最多可达成的换楼请求数目
 [1603]:Problemset/1603-Design%20Parking%20System/README_CN.md#1603-设计停车系统
 [1604]:Problemset/1604-Alert%20Using%20Same%20Key-Card%20Three%20or%20More%20Times%20in%20a%20One%20Hour%20Period/README_CN.md#1604-警告一小时内使用相同员工卡大于等于三次的人
@@ -3854,6 +3856,7 @@
 [1594l]:https://leetcode.cn/problems/maximum-non-negative-product-in-a-matrix/
 [1598l]:https://leetcode.cn/problems/crawler-log-folder/
 [1599l]:https://leetcode.cn/problems/maximum-profit-of-operating-a-centennial-wheel/
+[1600l]:https://leetcode.cn/problems/throne-inheritance/
 [1601l]:https://leetcode.cn/problems/maximum-number-of-achievable-transfer-requests/
 [1603l]:https://leetcode.cn/problems/design-parking-system/
 [1604l]:https://leetcode.cn/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/
