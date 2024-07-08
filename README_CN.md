@@ -1048,6 +1048,7 @@
 [1773][1773l]|[统计匹配检索规则的物品数量][1773]                        |![rs]
 [1779][1779l]|[找到最近的有相同 X 或 Y 坐标的点][1779]                  |![rs]
 [1780][1780l]|[判断一个数字是否可以表示成三的幂的和][1780]              |![rb]&nbsp;&nbsp;![rs]
+[1781][1781l]|[所有子字符串美丽值之和][1781]                            |![rs]
 [1784][1784l]|[检查二进制字符串字段][1784]                              |![rb]&nbsp;&nbsp;![rs]
 [1785][1785l]|[构成特定和需要添加的最少元素][1785]                      |![rb]&nbsp;&nbsp;![rs]
 [1790][1790l]|[仅执行一次字符串交换能否使两个字符串相等][1790]          |![rs]
@@ -2497,6 +2498,7 @@
 [1773]:Problemset/1773-Count%20Items%20Matching%20a%20Rule/README_CN.md#1773-统计匹配检索规则的物品数量
 [1779]:Problemset/1779-Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate/README_CN.md#1779-找到最近的有相同-x-或-y-坐标的点
 [1780]:Problemset/1780-Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three/README_CN.md#1780-判断一个数字是否可以表示成三的幂的和
+[1781]:Problemset/1781-Sum%20of%20Beauty%20of%20All%20Substrings/README_CN.md#1781-所有子字符串美丽值之和
 [1784]:Problemset/1784-Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/README_CN.md#1784-检查二进制字符串字段
 [1785]:Problemset/1785-Minimum%20Elements%20to%20Add%20to%20Form%20a%20Given%20Sum/README_CN.md#1785-构成特定和需要添加的最少元素
 [1790]:Problemset/1790-Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/README_CN.md#1790-仅执行一次字符串交换能否使两个字符串相等
@@ -3945,6 +3947,7 @@
 [1773l]:https://leetcode.cn/problems/count-items-matching-a-rule/
 [1779l]:https://leetcode.cn/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 [1780l]:https://leetcode.cn/problems/check-if-number-is-a-sum-of-powers-of-three/
+[1781l]:https://leetcode.cn/problems/sum-of-beauty-of-all-substrings/
 [1784l]:https://leetcode.cn/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 [1785l]:https://leetcode.cn/problems/minimum-elements-to-add-to-form-a-given-sum/
 [1790l]:https://leetcode.cn/problems/check-if-one-string-swap-can-make-strings-equal/
