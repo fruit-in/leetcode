@@ -1061,6 +1061,7 @@
 [1801][1801l]|[积压订单中的订单总数][1801]                              |![rs]
 [1802][1802l]|[有界数组中指定下标处的最大值][1802]                      |![rs]
 [1805][1805l]|[字符串中不同整数的数目][1805]                            |![rs]
+[1806][1806l]|[还原排列的最少操作步数][1806]                            |![rs]
 [1807][1807l]|[替换字符串中的括号内容][1807]                            |![py]
 [1812][1812l]|[判断国际象棋棋盘中一个格子的颜色][1812]                  |![py]&nbsp;&nbsp;![rb]
 [1813][1813l]|[句子相似性 III][1813]                                    |![rs]
@@ -2511,6 +2512,7 @@
 [1801]:Problemset/1801-Number%20of%20Orders%20in%20the%20Backlog/README_CN.md#1801-积压订单中的订单总数
 [1802]:Problemset/1802-Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array/README_CN.md#1802-有界数组中指定下标处的最大值
 [1805]:Problemset/1805-Number%20of%20Different%20Integers%20in%20a%20String/README_CN.md#1805-字符串中不同整数的数目
+[1806]:Problemset/1806-Minimum%20Number%20of%20Operations%20to%20Reinitialize%20a%20Permutation/README_CN.md#1806-还原排列的最少操作步数
 [1807]:Problemset/1807-Evaluate%20the%20Bracket%20Pairs%20of%20a%20String/README_CN.md#1807-替换字符串中的括号内容
 [1812]:Problemset/1812-Determine%20Color%20of%20a%20Chessboard%20Square/README_CN.md#1812-判断国际象棋棋盘中一个格子的颜色
 [1813]:Problemset/1813-Sentence%20Similarity%20III/README_CN.md#1813-句子相似性-iii
@@ -3960,6 +3962,7 @@
 [1801l]:https://leetcode.cn/problems/number-of-orders-in-the-backlog/
 [1802l]:https://leetcode.cn/problems/maximum-value-at-a-given-index-in-a-bounded-array/
 [1805l]:https://leetcode.cn/problems/number-of-different-integers-in-a-string/
+[1806l]:https://leetcode.cn/problems/minimum-number-of-operations-to-reinitialize-a-permutation/
 [1807l]:https://leetcode.cn/problems/evaluate-the-bracket-pairs-of-a-string/
 [1812l]:https://leetcode.cn/problems/determine-color-of-a-chessboard-square/
 [1813l]:https://leetcode.cn/problems/sentence-similarity-iii/

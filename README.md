@@ -1061,6 +1061,7 @@
 [1801][1801l]|[Number of Orders in the Backlog][1801]                                               |![rs]
 [1802][1802l]|[Maximum Value at a Given Index in a Bounded Array][1802]                             |![rs]
 [1805][1805l]|[Number of Different Integers in a String][1805]                                      |![rs]
+[1806][1806l]|[Minimum Number of Operations to Reinitialize a Permutation][1806]                    |![rs]
 [1807][1807l]|[Evaluate the Bracket Pairs of a String][1807]                                        |![py]
 [1812][1812l]|[Determine Color of a Chessboard Square][1812]                                        |![py]&nbsp;&nbsp;![rb]
 [1813][1813l]|[Sentence Similarity III][1813]                                                       |![rs]
@@ -2511,6 +2512,7 @@
 [1801]:Problemset/1801-Number%20of%20Orders%20in%20the%20Backlog/README.md#1801-number-of-orders-in-the-backlog
 [1802]:Problemset/1802-Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array/README.md#1802-maximum-value-at-a-given-index-in-a-bounded-array
 [1805]:Problemset/1805-Number%20of%20Different%20Integers%20in%20a%20String/README.md#1805-number-of-different-integers-in-a-string
+[1806]:Problemset/1806-Minimum%20Number%20of%20Operations%20to%20Reinitialize%20a%20Permutation/README.md#1806-minimum-number-of-operations-to-reinitialize-a-permutation
 [1807]:Problemset/1807-Evaluate%20the%20Bracket%20Pairs%20of%20a%20String/README.md#1807-evaluate-the-bracket-pairs-of-a-string
 [1812]:Problemset/1812-Determine%20Color%20of%20a%20Chessboard%20Square/README.md#1812-determine-color-of-a-chessboard-square
 [1813]:Problemset/1813-Sentence%20Similarity%20III/README.md#1813-sentence-similarity-iii
@@ -3960,6 +3962,7 @@
 [1801l]:https://leetcode.com/problems/number-of-orders-in-the-backlog/
 [1802l]:https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
 [1805l]:https://leetcode.com/problems/number-of-different-integers-in-a-string/
+[1806l]:https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/
 [1807l]:https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
 [1812l]:https://leetcode.com/problems/determine-color-of-a-chessboard-square/
 [1813l]:https://leetcode.com/problems/sentence-similarity-iii/
