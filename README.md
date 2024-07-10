@@ -1089,6 +1089,7 @@
 [1848][1848l]|[Minimum Distance to the Target Element][1848]                                        |![rs]
 [1854][1854l]|[Maximum Population Year][1854]                                                       |![rs]
 [1855][1855l]|[Maximum Distance Between a Pair of Values][1855]                                     |![py]
+[1856][1856l]|[Maximum Subarray Min-Product][1856]                                                  |![rs]
 [1859][1859l]|[Sorting the Sentence][1859]                                                          |![py]
 [1860][1860l]|[Incremental Memory Leak][1860]                                                       |![rs]
 [1861][1861l]|[Rotating the Box][1861]                                                              |![rs]
@@ -2540,6 +2541,7 @@
 [1848]:Problemset/1848-Minimum%20Distance%20to%20the%20Target%20Element/README.md#1848-minimum-distance-to-the-target-element
 [1854]:Problemset/1854-Maximum%20Population%20Year/README.md#1854-maximum-population-year
 [1855]:Problemset/1855-Maximum%20Distance%20Between%20a%20Pair%20of%20Values/README.md#1855-maximum-distance-between-a-pair-of-values
+[1856]:Problemset/1856-Maximum%20Subarray%20Min-Product/README.md#1856-maximum-subarray-min-product
 [1859]:Problemset/1859-Sorting%20the%20Sentence/README.md#1859-sorting-the-sentence
 [1860]:Problemset/1860-Incremental%20Memory%20Leak/README.md#1860-incremental-memory-leak
 [1861]:Problemset/1861-Rotating%20the%20Box/README.md#1861-rotating-the-box
@@ -3990,6 +3992,7 @@
 [1848l]:https://leetcode.com/problems/minimum-distance-to-the-target-element/
 [1854l]:https://leetcode.com/problems/maximum-population-year/
 [1855l]:https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
+[1856l]:https://leetcode.com/problems/maximum-subarray-min-product/
 [1859l]:https://leetcode.com/problems/sorting-the-sentence/
 [1860l]:https://leetcode.com/problems/incremental-memory-leak/
 [1861l]:https://leetcode.com/problems/rotating-the-box/
