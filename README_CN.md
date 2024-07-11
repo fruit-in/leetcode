@@ -866,6 +866,7 @@
 [1415][1415l]|[长度为 n 的开心字符串中字典序第 k 小的字符串][1415]      |![py]&nbsp;&nbsp;![rb]
 [1416][1416l]|[恢复数组][1416]                                          |![py]
 [1417][1417l]|[重新格式化字符串][1417]                                  |![rs]
+[1418][1418l]|[点菜展示表][1418]                                        |![py]
 [1419][1419l]|[数青蛙][1419]                                            |![rb]&nbsp;&nbsp;![rs]
 [1420][1420l]|[生成数组][1420]                                          |![rs]
 [1422][1422l]|[分割字符串的最大得分][1422]                              |![rs]
@@ -2318,6 +2319,7 @@
 [1415]:Problemset/1415-The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/README_CN.md#1415-长度为-n-的开心字符串中字典序第-k-小的字符串
 [1416]:Problemset/1416-Restore%20The%20Array/README_CN.md#1416-恢复数组
 [1417]:Problemset/1417-Reformat%20The%20String/README_CN.md#1417-重新格式化字符串
+[1418]:Problemset/1418-Display%20Table%20of%20Food%20Orders%20in%20a%20Restaurant/README_CN.md#1418-点菜展示表
 [1419]:Problemset/1419-Minimum%20Number%20of%20Frogs%20Croaking/README_CN.md#1419-数青蛙
 [1420]:Problemset/1420-Build%20Array%20Where%20You%20Can%20Find%20The%20Maximum%20Exactly%20K%20Comparisons/README_CN.md#1420-生成数组
 [1422]:Problemset/1422-Maximum%20Score%20After%20Splitting%20a%20String/README_CN.md#1422-分割字符串的最大得分
@@ -3769,6 +3771,7 @@
 [1415l]:https://leetcode.cn/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 [1416l]:https://leetcode.cn/problems/restore-the-array/
 [1417l]:https://leetcode.cn/problems/reformat-the-string/
+[1418l]:https://leetcode.cn/problems/display-table-of-food-orders-in-a-restaurant/
 [1419l]:https://leetcode.cn/problems/minimum-number-of-frogs-croaking/
 [1420l]:https://leetcode.cn/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/
 [1422l]:https://leetcode.cn/problems/maximum-score-after-splitting-a-string/

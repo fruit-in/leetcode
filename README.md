@@ -866,6 +866,7 @@
 [1415][1415l]|[The k-th Lexicographical String of All Happy Strings of Length n][1415]              |![py]&nbsp;&nbsp;![rb]
 [1416][1416l]|[Restore The Array][1416]                                                             |![py]
 [1417][1417l]|[Reformat The String][1417]                                                           |![rs]
+[1418][1418l]|[Display Table of Food Orders in a Restaurant][1418]                                  |![py]
 [1419][1419l]|[Minimum Number of Frogs Croaking][1419]                                              |![rb]&nbsp;&nbsp;![rs]
 [1420][1420l]|[Build Array Where You Can Find The Maximum Exactly K Comparisons][1420]              |![rs]
 [1422][1422l]|[Maximum Score After Splitting a String][1422]                                        |![rs]
@@ -2318,6 +2319,7 @@
 [1415]:Problemset/1415-The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/README.md#1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n
 [1416]:Problemset/1416-Restore%20The%20Array/README.md#1416-restore-the-array
 [1417]:Problemset/1417-Reformat%20The%20String/README.md#1417-reformat-the-string
+[1418]:Problemset/1418-Display%20Table%20of%20Food%20Orders%20in%20a%20Restaurant/README.md#1418-display-table-of-food-orders-in-a-restaurant
 [1419]:Problemset/1419-Minimum%20Number%20of%20Frogs%20Croaking/README.md#1419-minimum-number-of-frogs-croaking
 [1420]:Problemset/1420-Build%20Array%20Where%20You%20Can%20Find%20The%20Maximum%20Exactly%20K%20Comparisons/README.md#1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons
 [1422]:Problemset/1422-Maximum%20Score%20After%20Splitting%20a%20String/README.md#1422-maximum-score-after-splitting-a-string
@@ -3769,6 +3771,7 @@
 [1415l]:https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 [1416l]:https://leetcode.com/problems/restore-the-array/
 [1417l]:https://leetcode.com/problems/reformat-the-string/
+[1418l]:https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/
 [1419l]:https://leetcode.com/problems/minimum-number-of-frogs-croaking/
 [1420l]:https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/
 [1422l]:https://leetcode.com/problems/maximum-score-after-splitting-a-string/
