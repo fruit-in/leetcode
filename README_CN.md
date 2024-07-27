@@ -1308,6 +1308,7 @@
 [2283][2283l]|[判断一个数的数字计数是否等于数位的值][2283]              |![rs]
 [2284][2284l]|[最多单词数的发件人][2284]                                |![py]
 [2287][2287l]|[重排字符形成目标字符串][2287]                            |![rs]
+[2288][2288l]|[价格减免][2288]                                          |![py]
 [2289][2289l]|[使数组按非递减顺序排列][2289]                            |![rs]
 [2290][2290l]|[到达角落需要移除障碍物的最小数目][2290]                  |![rs]
 [2293][2293l]|[极大极小游戏][2293]                                      |![rs]
@@ -2761,6 +2762,7 @@
 [2283]:Problemset/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README_CN.md#2283-判断一个数的数字计数是否等于数位的值
 [2284]:Problemset/2284-Sender%20With%20Largest%20Word%20Count/README_CN.md#2284-最多单词数的发件人
 [2287]:Problemset/2287-Rearrange%20Characters%20to%20Make%20Target%20String/README_CN.md#2287-重排字符形成目标字符串
+[2288]:Problemset/2288-Apply%20Discount%20to%20Prices/README_CN.md#2288-价格减免
 [2289]:Problemset/2289-Steps%20to%20Make%20Array%20Non-decreasing/README_CN.md#2289-使数组按非递减顺序排列
 [2290]:Problemset/2290-Minimum%20Obstacle%20Removal%20to%20Reach%20Corner/README_CN.md#2290-到达角落需要移除障碍物的最小数目
 [2293]:Problemset/2293-Min%20Max%20Game/README_CN.md#2293-极大极小游戏
@@ -4213,6 +4215,7 @@
 [2283l]:https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2284l]:https://leetcode.cn/problems/sender-with-largest-word-count/
 [2287l]:https://leetcode.cn/problems/rearrange-characters-to-make-target-string/
+[2288l]:https://leetcode.cn/problems/apply-discount-to-prices/
 [2289l]:https://leetcode.cn/problems/steps-to-make-array-non-decreasing/
 [2290l]:https://leetcode.cn/problems/minimum-obstacle-removal-to-reach-corner/
 [2293l]:https://leetcode.cn/problems/min-max-game/
