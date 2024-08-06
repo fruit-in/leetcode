@@ -695,6 +695,7 @@
 [1094][1094l]|[拼车][1094]                                              |![rs]
 [1103][1103l]|[分糖果 II][1103]                                         |![py]
 [1104][1104l]|[二叉树寻路][1104]                                        |![rs]
+[1105][1105l]|[填充书架][1105]                                          |![rs]
 [1106][1106l]|[解析布尔表达式][1106]                                    |![rs]
 [1108][1108l]|[IP 地址无效化][1108]                                     |![rs]
 [1109][1109l]|[航班预订统计][1109]                                      |![rs]
@@ -2150,6 +2151,7 @@
 [1094]:Problemset/1094-Car%20Pooling/README_CN.md#1094-拼车
 [1103]:Problemset/1103-Distribute%20Candies%20to%20People/README_CN.md#1103-分糖果-ii
 [1104]:Problemset/1104-Path%20In%20Zigzag%20Labelled%20Binary%20Tree/README_CN.md#1104-二叉树寻路
+[1105]:Problemset/1105-Filling%20Bookcase%20Shelves/README_CN.md#1105-填充书架
 [1106]:Problemset/1106-Parsing%20A%20Boolean%20Expression/README_CN.md#1106-解析布尔表达式
 [1108]:Problemset/1108-Defanging%20an%20IP%20Address/README_CN.md#1108-ip-地址无效化
 [1109]:Problemset/1109-Corporate%20Flight%20Bookings/README_CN.md#1109-航班预订统计
@@ -3604,6 +3606,7 @@
 [1094l]:https://leetcode.cn/problems/car-pooling/
 [1103l]:https://leetcode.cn/problems/distribute-candies-to-people/
 [1104l]:https://leetcode.cn/problems/path-in-zigzag-labelled-binary-tree/
+[1105l]:https://leetcode.cn/problems/filling-bookcase-shelves/
 [1106l]:https://leetcode.cn/problems/parsing-a-boolean-expression/
 [1108l]:https://leetcode.cn/problems/defanging-an-ip-address/
 [1109l]:https://leetcode.cn/problems/corporate-flight-bookings/
