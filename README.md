@@ -1345,6 +1345,7 @@
 [2352][2352l]|[Equal Row and Column Pairs][2352]                                                    |![rs]
 [2357][2357l]|[Make Array Zero by Subtracting Equal Amounts][2357]                                  |![rs]
 [2358][2358l]|[Maximum Number of Groups Entering a Competition][2358]                               |![rs]
+[2359][2359l]|[Find Closest Node to Given Two Nodes][2359]                                          |![rs]
 [2360][2360l]|[Longest Cycle in a Graph][2360]                                                      |![rs]
 [2363][2363l]|[Merge Similar Items][2363]                                                           |![rs]
 [2364][2364l]|[Count Number of Bad Pairs][2364]                                                     |![rs]
@@ -2802,6 +2803,7 @@
 [2352]:Problemset/2352-Equal%20Row%20and%20Column%20Pairs/README.md#2352-equal-row-and-column-pairs
 [2357]:Problemset/2357-Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts/README.md#2357-make-array-zero-by-subtracting-equal-amounts
 [2358]:Problemset/2358-Maximum%20Number%20of%20Groups%20Entering%20a%20Competition/README.md#2358-maximum-number-of-groups-entering-a-competition
+[2359]:Problemset/2359-Find%20Closest%20Node%20to%20Given%20Two%20Nodes/README.md#2359-find-closest-node-to-given-two-nodes
 [2360]:Problemset/2360-Longest%20Cycle%20in%20a%20Graph/README.md#2360-longest-cycle-in-a-graph
 [2363]:Problemset/2363-Merge%20Similar%20Items/README.md#2363-merge-similar-items
 [2364]:Problemset/2364-Count%20Number%20of%20Bad%20Pairs/README.md#2364-count-number-of-bad-pairs
@@ -4258,6 +4260,7 @@
 [2352l]:https://leetcode.com/problems/equal-row-and-column-pairs/
 [2357l]:https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
 [2358l]:https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/
+[2359l]:https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
 [2360l]:https://leetcode.com/problems/longest-cycle-in-a-graph/
 [2363l]:https://leetcode.com/problems/merge-similar-items/
 [2364l]:https://leetcode.com/problems/count-number-of-bad-pairs/
