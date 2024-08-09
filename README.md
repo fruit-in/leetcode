@@ -1056,6 +1056,7 @@
 [1790][1790l]|[Check if One String Swap Can Make Strings Equal][1790]                               |![rs]
 [1791][1791l]|[Find Center of Star Graph][1791]                                                     |![rb]&nbsp;&nbsp;![rs]
 [1792][1792l]|[Maximum Average Pass Ratio][1792]                                                    |![py]
+[1793][1793l]|[Maximum Score of a Good Subarray][1793]                                              |![rs]
 [1796][1796l]|[Second Largest Digit in a String][1796]                                              |![rs]
 [1797][1797l]|[Design Authentication Manager][1797]                                                 |![py]
 [1798][1798l]|[Maximum Number of Consecutive Values You Can Make][1798]                             |![rs]
@@ -2514,6 +2515,7 @@
 [1790]:Problemset/1790-Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/README.md#1790-check-if-one-string-swap-can-make-strings-equal
 [1791]:Problemset/1791-Find%20Center%20of%20Star%20Graph/README.md#1791-find-center-of-star-graph
 [1792]:Problemset/1792-Maximum%20Average%20Pass%20Ratio/README.md#1792-maximum-average-pass-ratio
+[1793]:Problemset/1793-Maximum%20Score%20of%20a%20Good%20Subarray/README.md#1793-maximum-score-of-a-good-subarray
 [1796]:Problemset/1796-Second%20Largest%20Digit%20in%20a%20String/README.md#1796-second-largest-digit-in-a-string
 [1797]:Problemset/1797-Design%20Authentication%20Manager/README.md#1797-design-authentication-manager
 [1798]:Problemset/1798-Maximum%20Number%20of%20Consecutive%20Values%20You%20Can%20Make/README.md#1798-maximum-number-of-consecutive-values-you-can-make
@@ -3971,6 +3973,7 @@
 [1790l]:https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 [1791l]:https://leetcode.com/problems/find-center-of-star-graph/
 [1792l]:https://leetcode.com/problems/maximum-average-pass-ratio/
+[1793l]:https://leetcode.com/problems/maximum-score-of-a-good-subarray/
 [1796l]:https://leetcode.com/problems/second-largest-digit-in-a-string/
 [1797l]:https://leetcode.com/problems/design-authentication-manager/
 [1798l]:https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/

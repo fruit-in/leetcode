@@ -1056,6 +1056,7 @@
 [1790][1790l]|[仅执行一次字符串交换能否使两个字符串相等][1790]          |![rs]
 [1791][1791l]|[找出星型图的中心节点][1791]                              |![rb]&nbsp;&nbsp;![rs]
 [1792][1792l]|[最大平均通过率][1792]                                    |![py]
+[1793][1793l]|[好子数组的最大分数][1793]                                |![rs]
 [1796][1796l]|[字符串中第二大的数字][1796]                              |![rs]
 [1797][1797l]|[设计一个验证系统][1797]                                  |![py]
 [1798][1798l]|[你能构造出连续值的最大数目][1798]                        |![rs]
@@ -2514,6 +2515,7 @@
 [1790]:Problemset/1790-Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/README_CN.md#1790-仅执行一次字符串交换能否使两个字符串相等
 [1791]:Problemset/1791-Find%20Center%20of%20Star%20Graph/README_CN.md#1791-找出星型图的中心节点
 [1792]:Problemset/1792-Maximum%20Average%20Pass%20Ratio/README_CN.md#1792-最大平均通过率
+[1793]:Problemset/1793-Maximum%20Score%20of%20a%20Good%20Subarray/README_CN.md#1793-好子数组的最大分数
 [1796]:Problemset/1796-Second%20Largest%20Digit%20in%20a%20String/README_CN.md#1796-字符串中第二大的数字
 [1797]:Problemset/1797-Design%20Authentication%20Manager/README_CN.md#1797-设计一个验证系统
 [1798]:Problemset/1798-Maximum%20Number%20of%20Consecutive%20Values%20You%20Can%20Make/README_CN.md#1798-你能构造出连续值的最大数目
@@ -3971,6 +3973,7 @@
 [1790l]:https://leetcode.cn/problems/check-if-one-string-swap-can-make-strings-equal/
 [1791l]:https://leetcode.cn/problems/find-center-of-star-graph/
 [1792l]:https://leetcode.cn/problems/maximum-average-pass-ratio/
+[1793l]:https://leetcode.cn/problems/maximum-score-of-a-good-subarray/
 [1796l]:https://leetcode.cn/problems/second-largest-digit-in-a-string/
 [1797l]:https://leetcode.cn/problems/design-authentication-manager/description/
 [1798l]:https://leetcode.cn/problems/maximum-number-of-consecutive-values-you-can-make/
