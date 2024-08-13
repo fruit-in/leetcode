@@ -965,6 +965,7 @@
 [1601][1601l]|[Maximum Number of Achievable Transfer Requests][1601]                                |![rs]
 [1603][1603l]|[Design Parking System][1603]                                                         |![rs]
 [1604][1604l]|[Alert Using Same Key-Card Three or More Times in a One Hour Period][1604]            |![rs]
+[1606][1606l]|[Find Servers That Handled Most Number of Requests][1606]                             |![rs]
 [1608][1608l]|[Special Array With X Elements Greater Than or Equal X][1608]                         |![rs]
 [1609][1609l]|[Even Odd Tree][1609]                                                                 |![py]&nbsp;&nbsp;![rb]
 [1610][1610l]|[Maximum Number of Visible Points][1610]                                              |![rs]
@@ -2425,6 +2426,7 @@
 [1601]:Problemset/1601-Maximum%20Number%20of%20Achievable%20Transfer%20Requests/README.md#1601-maximum-number-of-achievable-transfer-requests
 [1603]:Problemset/1603-Design%20Parking%20System/README.md#1603-design-parking-system
 [1604]:Problemset/1604-Alert%20Using%20Same%20Key-Card%20Three%20or%20More%20Times%20in%20a%20One%20Hour%20Period/README.md#1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
+[1606]:Problemset/1606-Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests/README_CN.md#1606-find-servers-that-handled-most-number-of-requests
 [1608]:Problemset/1608-Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/README.md#1608-special-array-with-x-elements-greater-than-or-equal-x
 [1609]:Problemset/1609-Even%20Odd%20Tree/README.md#1609-even-odd-tree
 [1610]:Problemset/1610-Maximum%20Number%20of%20Visible%20Points/README.md#1610-maximum-number-of-visible-points
@@ -3884,6 +3886,7 @@
 [1601l]:https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/
 [1603l]:https://leetcode.com/problems/design-parking-system/
 [1604l]:https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/
+[1606l]:https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/
 [1608l]:https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 [1609l]:https://leetcode.com/problems/even-odd-tree/
 [1610l]:https://leetcode.com/problems/maximum-number-of-visible-points/
