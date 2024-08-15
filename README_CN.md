@@ -587,6 +587,7 @@
 [930][930l]  |[和相同的二元子数组][930]                                 |![rs]
 [931][931l]  |[下降路径最小和][931]                                     |![rs]
 [933][933l]  |[最近的请求次数][933]                                     |![rs]
+[934][934l]  |[最短的桥][934]                                           |![rs]
 [935][935l]  |[骑士拨号器][935]                                         |![rb]&nbsp;&nbsp;![rs]
 [937][937l]  |[重新排列日志文件][937]                                   |![py]
 [938][938l]  |[二叉搜索树的范围和][938]                                 |![py]
@@ -2048,6 +2049,7 @@
 [930]:Problemset/0930-Binary%20Subarrays%20With%20Sum/README_CN.md#930-和相同的二元子数组
 [931]:Problemset/0931-Minimum%20Falling%20Path%20Sum/README_CN.md#931-下降路径最小和
 [933]:Problemset/0933-Number%20of%20Recent%20Calls/README_CN.md#933-最近的请求次数
+[934]:Problemset/0934-Shortest%20Bridge/README_CN.md#934-最短的桥
 [935]:Problemset/0935-Knight%20Dialer/README_CN.md#935-骑士拨号器
 [937]:Problemset/0937-Reorder%20Data%20in%20Log%20Files/README_CN.md#937-重新排列日志文件
 [938]:Problemset/0938-Range%20Sum%20of%20BST/README_CN.md#938-二叉搜索树的范围和
@@ -3508,6 +3510,7 @@
 [930l]:https://leetcode.cn/problems/binary-subarrays-with-sum/
 [931l]:https://leetcode.cn/problems/minimum-falling-path-sum/
 [933l]:https://leetcode.cn/problems/number-of-recent-calls/
+[934l]:https://leetcode.cn/problems/shortest-bridge/
 [935l]:https://leetcode.cn/problems/knight-dialer/
 [937l]:https://leetcode.cn/problems/reorder-data-in-log-files/
 [938l]:https://leetcode.cn/problems/range-sum-of-bst/

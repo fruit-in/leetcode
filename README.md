@@ -587,6 +587,7 @@
 [930][930l]  |[Binary Subarrays With Sum][930]                                                      |![rs]
 [931][931l]  |[Minimum Falling Path Sum][931]                                                       |![rs]
 [933][933l]  |[Number of Recent Calls][933]                                                         |![rs]
+[934][934l]  |[Shortest Bridge][934]                                                                |![rs]
 [935][935l]  |[Knight Dialer][935]                                                                  |![rb]&nbsp;&nbsp;![rs]
 [937][937l]  |[Reorder Data in Log Files][937]                                                      |![py]
 [938][938l]  |[Range Sum of BST][938]                                                               |![py]
@@ -2048,6 +2049,7 @@
 [930]:Problemset/0930-Binary%20Subarrays%20With%20Sum/README.md#930-binary-subarrays-with-sum
 [931]:Problemset/0931-Minimum%20Falling%20Path%20Sum/README.md#931-minimum-falling-path-sum
 [933]:Problemset/0933-Number%20of%20Recent%20Calls/README.md#933-number-of-recent-calls
+[934]:Problemset/0934-Shortest%20Bridge/README.md#934-shortest-bridge
 [935]:Problemset/0935-Knight%20Dialer/README.md#935-knight-dialer
 [937]:Problemset/0937-Reorder%20Data%20in%20Log%20Files/README.md#937-reorder-data-in-log-files
 [938]:Problemset/0938-Range%20Sum%20of%20BST/README.md#938-range-sum-of-bst
@@ -3508,6 +3510,7 @@
 [930l]:https://leetcode.com/problems/binary-subarrays-with-sum/
 [931l]:https://leetcode.com/problems/minimum-falling-path-sum/
 [933l]:https://leetcode.com/problems/number-of-recent-calls/
+[934l]:https://leetcode.com/problems/shortest-bridge/
 [935l]:https://leetcode.com/problems/knight-dialer/
 [937l]:https://leetcode.com/problems/reorder-data-in-log-files/
 [938l]:https://leetcode.com/problems/range-sum-of-bst/
