@@ -750,6 +750,7 @@
 [1235][1235l]|[规划兼职工作][1235]                                      |![rs]
 [1237][1237l]|[找出给定方程的正整数解][1237]                            |![py]
 [1238][1238l]|[循环码排列][1238]                                        |![rs]
+[1239][1239l]|[串联字符串的最大长度][1239]                              |![rs]
 [1247][1247l]|[交换字符使得字符串相同][1247]                            |![py]
 [1248][1248l]|[统计「优美子数组」][1248]                                |![rb]&nbsp;&nbsp;![rs]
 [1249][1249l]|[移除无效的括号][1249]                                    |![rs]
@@ -2212,6 +2213,7 @@
 [1235]:Problemset/1235-Maximum%20Profit%20in%20Job%20Scheduling/README_CN.md#1235-规划兼职工作
 [1237]:Problemset/1237-Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/README_CN.md#1237-找出给定方程的正整数解
 [1238]:Problemset/1238-Circular%20Permutation%20in%20Binary%20Representation/README_CN.md#1238-循环码排列
+[1239]:Problemset/1239-Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/README_CN.md#1239-串联字符串的最大长度
 [1247]:Problemset/1247-Minimum%20Swaps%20to%20Make%20Strings%20Equal/README_CN.md#1247-交换字符使得字符串相同
 [1248]:Problemset/1248-Count%20Number%20of%20Nice%20Subarrays/README_CN.md#1248-统计优美子数组
 [1249]:Problemset/1249-Minimum%20Remove%20to%20Make%20Valid%20Parentheses/README_CN.md#1249-移除无效的括号
@@ -3673,6 +3675,7 @@
 [1235l]:https://leetcode.cn/problems/maximum-profit-in-job-scheduling/
 [1237l]:https://leetcode.cn/problems/find-positive-integer-solution-for-a-given-equation/
 [1238l]:https://leetcode.cn/problems/circular-permutation-in-binary-representation/
+[1239l]:https://leetcode.cn/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
 [1247l]:https://leetcode.cn/problems/minimum-swaps-to-make-strings-equal/
 [1248l]:https://leetcode.cn/problems/count-number-of-nice-subarrays/
 [1249l]:https://leetcode.cn/problems/minimum-remove-to-make-valid-parentheses/

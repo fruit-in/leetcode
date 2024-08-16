@@ -750,6 +750,7 @@
 [1235][1235l]|[Maximum Profit in Job Scheduling][1235]                                              |![rs]
 [1237][1237l]|[Find Positive Integer Solution for a Given Equation][1237]                           |![py]
 [1238][1238l]|[Circular Permutation in Binary Representation][1238]                                 |![rs]
+[1239][1239l]|[Maximum Length of a Concatenated String with Unique Characters][1239]                |![rs]
 [1247][1247l]|[Minimum Swaps to Make Strings Equal][1247]                                           |![py]
 [1248][1248l]|[Count Number of Nice Subarrays][1248]                                                |![rb]&nbsp;&nbsp;![rs]
 [1249][1249l]|[Minimum Remove to Make Valid Parentheses][1249]                                      |![rs]
@@ -2212,6 +2213,7 @@
 [1235]:Problemset/1235-Maximum%20Profit%20in%20Job%20Scheduling/README.md#1235-maximum-profit-in-job-scheduling
 [1237]:Problemset/1237-Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/README.md#1237-find-positive-integer-solution-for-a-given-equation
 [1238]:Problemset/1238-Circular%20Permutation%20in%20Binary%20Representation/README.md#1238-circular-permutation-in-binary-representation
+[1239]:Problemset/1239-Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/README.md#1239-maximum-length-of-a-concatenated-string-with-unique-characters
 [1247]:Problemset/1247-Minimum%20Swaps%20to%20Make%20Strings%20Equal/README.md#1247-minimum-swaps-to-make-strings-equal
 [1248]:Problemset/1248-Count%20Number%20of%20Nice%20Subarrays/README.md#1248-count-number-of-nice-subarrays
 [1249]:Problemset/1249-Minimum%20Remove%20to%20Make%20Valid%20Parentheses/README.md#1249-minimum-remove-to-make-valid-parentheses
@@ -3673,6 +3675,7 @@
 [1235l]:https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 [1237l]:https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 [1238l]:https://leetcode.com/problems/circular-permutation-in-binary-representation/
+[1239l]:https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
 [1247l]:https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
 [1248l]:https://leetcode.com/problems/count-number-of-nice-subarrays/
 [1249l]:https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
