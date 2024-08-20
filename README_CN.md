@@ -1108,6 +1108,7 @@
 [1877][1877l]|[数组中最大数对和的最小值][1877]                          |![rs]
 [1878][1878l]|[矩阵中最大的三个菱形和][1878]                            |![rs]
 [1880][1880l]|[检查某单词是否等于两单词之和][1880]                      |![rs]
+[1881][1881l]|[插入后的最大值][1881]                                    |![rs]
 [1882][1882l]|[使用服务器处理任务][1882]                                |![rs]
 [1884][1884l]|[鸡蛋掉落-两枚鸡蛋][1884]                                 |![rs]
 [1886][1886l]|[判断矩阵经轮转后是否一致][1886]                          |![rs]
@@ -2571,6 +2572,7 @@
 [1877]:Problemset/1877-Minimize%20Maximum%20Pair%20Sum%20in%20Array/README_CN.md#1877-数组中最大数对和的最小值
 [1878]:Problemset/1878-Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/README_CN.md#1878-矩阵中最大的三个菱形和
 [1880]:Problemset/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README_CN.md#1880-检查某单词是否等于两单词之和
+[1881]:Problemset/1881-Maximum%20Value%20after%20Insertion/README_CN.md#1881-插入后的最大值
 [1882]:Problemset/1882-Process%20Tasks%20Using%20Servers/README_CN.md#1882-使用服务器处理任务
 [1884]:Problemset/1884-Egg%20Drop%20With%202%20Eggs%20and%20N%20Floors/README_CN.md#1884-鸡蛋掉落-两枚鸡蛋
 [1886]:Problemset/1886-Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/README_CN.md#1886-判断矩阵经轮转后是否一致
@@ -4033,6 +4035,7 @@
 [1877l]:https://leetcode.cn/problems/minimize-maximum-pair-sum-in-array/
 [1878l]:https://leetcode.cn/problems/get-biggest-three-rhombus-sums-in-a-grid/
 [1880l]:https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/
+[1881l]:https://leetcode.cn/problems/maximum-value-after-insertion/
 [1882l]:https://leetcode.cn/problems/process-tasks-using-servers/
 [1884l]:https://leetcode.cn/problems/egg-drop-with-2-eggs-and-n-floors/
 [1886l]:https://leetcode.cn/problems/determine-whether-matrix-can-be-obtained-by-rotation/
