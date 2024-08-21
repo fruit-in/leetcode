@@ -407,8 +407,9 @@
 [655][655l]  |[输出二叉树][655]                                         |![py]
 [657][657l]  |[机器人能否返回原点][657]                                 |![py]&nbsp;&nbsp;![rs]
 [658][658l]  |[找到 K 个最接近的元素][658]                              |![rs]
+[659][659l]  |[分割数组为连续子序列][659]                               |![rs]
 [661][661l]  |[图片平滑器][661]                                         |![rs]
-[662][662l]  |[二叉树最大宽度]                                          |![py]
+[662][662l]  |[二叉树最大宽度][662]                                     |![py]
 [665][665l]  |[非递减数列][665]                                         |![py]
 [669][669l]  |[修剪二叉搜索树][669]                                     |![py]
 [670][670l]  |[最大交换][670]                                           |![rs]
@@ -1871,6 +1872,7 @@
 [655]:Problemset/0655-Print%20Binary%20Tree/README_CN.md#655-输出二叉树
 [657]:Problemset/0657-Robot%20Return%20to%20Origin/README_CN.md#657-机器人能否返回原点
 [658]:Problemset/0658-Find%20K%20Closest%20Elements/README_CN.md#658-找到-k-个最接近的元素
+[659]:Problemset/0659-Split%20Array%20into%20Consecutive%20Subsequences/README_CN.md#659-分割数组为连续子序列
 [661]:Problemset/0661-Image%20Smoother/README_CN.md#661-图片平滑器
 [662]:Problemset/0662-Maximum%20Width%20of%20Binary%20Tree/README_CN.md#662-二叉树最大宽度
 [665]:Problemset/0665-Non-decreasing%20Array/README_CN.md#665-非递减数列
@@ -3333,6 +3335,7 @@
 [655l]:https://leetcode.cn/problems/print-binary-tree/
 [657l]:https://leetcode.cn/problems/robot-return-to-origin/
 [658l]:https://leetcode.cn/problems/find-k-closest-elements/
+[659l]:https://leetcode.cn/problems/split-array-into-consecutive-subsequences/
 [661l]:https://leetcode.cn/problems/image-smoother/
 [662l]:https://leetcode.cn/problems/maximum-width-of-binary-tree/
 [665l]:https://leetcode.cn/problems/non-decreasing-array/
