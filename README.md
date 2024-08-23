@@ -907,6 +907,7 @@
 [1473][1473l]|[Paint House III][1473]                                                               |![rs]
 [1475][1475l]|[Final Prices With a Special Discount in a Shop][1475]                                |![rs]
 [1476][1476l]|[Subrectangle Queries][1476]                                                          |![rs]
+[1477][1477l]|[Find Two Non-overlapping Sub-arrays Each With Target Sum][1477]                      |![rs]
 [1480][1480l]|[Running Sum of 1d Array][1480]                                                       |![rb]&nbsp;&nbsp;![rs]
 [1481][1481l]|[Least Number of Unique Integers after K Removals][1481]                              |![rb]&nbsp;&nbsp;![rs]
 [1486][1486l]|[XOR Operation in an Array][1486]                                                     |![rb]&nbsp;&nbsp;![rs]
@@ -2373,6 +2374,7 @@
 [1473]:Problemset/1473-Paint%20House%20III/README.md#1473-paint-house-iii
 [1475]:Problemset/1475-Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/README.md#1475-final-prices-with-a-special-discount-in-a-shop
 [1476]:Problemset/1476-Subrectangle%20Queries/README.md#1476-subrectangle-queries
+[1477]:Problemset/1477-Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/README.md#1477-find-two-non-overlapping-sub-arrays-each-with-target-sum
 [1480]:Problemset/1480-Running%20Sum%20of%201d%20Array/README.md#1480-running-sum-of-1d-array
 [1481]:Problemset/1481-Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals/README.md#1481-least-number-of-unique-integers-after-k-removals
 [1486]:Problemset/1486-XOR%20Operation%20in%20an%20Array/README.md#1486-xor-operation-in-an-array
@@ -3838,6 +3840,7 @@
 [1473l]:https://leetcode.com/problems/paint-house-iii/
 [1475l]:https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1476l]:https://leetcode.com/problems/subrectangle-queries/
+[1477l]:https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 [1480l]:https://leetcode.com/problems/running-sum-of-1d-array/
 [1481l]:https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
 [1486l]:https://leetcode.com/problems/xor-operation-in-an-array/
