@@ -1241,6 +1241,7 @@
 [2140][2140l]|[解决智力问题][2140]                                      |![rs]
 [2144][2144l]|[打折购买糖果的最小开销][2144]                            |![rs]
 [2145][2145l]|[统计隐藏数组数目][2145]                                  |![rs]
+[2146][2146l]|[价格范围内最高排名的 K 样物品][2146]                     |![rs]
 [2147][2147l]|[分隔长廊的方案数][2147]                                  |![rs]
 [2148][2148l]|[元素计数][2148]                                          |![rs]
 [2149][2149l]|[按符号重排数组][2149]                                    |![rs]
@@ -2710,6 +2711,7 @@
 [2140]:Problemset/2140-Solving%20Questions%20With%20Brainpower/README_CN.md#2140-解决智力问题
 [2144]:Problemset/2144-Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/README_CN.md#2144-打折购买糖果的最小开销
 [2145]:Problemset/2145-Count%20the%20Hidden%20Sequences/README_CN.md#2145-统计隐藏数组数目
+[2146]:Problemset/2146-K%20Highest%20Ranked%20Items%20Within%20a%20Price%20Range/README_CN.md#2146-价格范围内最高排名的-k-样物品
 [2147]:Problemset/2147-Number%20of%20Ways%20to%20Divide%20a%20Long%20Corridor/README_CN.md#2147-分隔长廊的方案数
 [2148]:Problemset/2148-Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements/README_CN.md#2148-元素计数
 [2149]:Problemset/2149-Rearrange%20Array%20Elements%20by%20Sign/README_CN.md#2149-按符号重排数组
@@ -4178,6 +4180,7 @@
 [2140l]:https://leetcode.cn/problems/solving-questions-with-brainpower/
 [2144l]:https://leetcode.cn/problems/minimum-cost-of-buying-candies-with-discount/
 [2145l]:https://leetcode.cn/problems/count-the-hidden-sequences/
+[2146l]:https://leetcode.cn/problems/k-highest-ranked-items-within-a-price-range/
 [2147l]:https://leetcode.cn/problems/number-of-ways-to-divide-a-long-corridor/
 [2148l]:https://leetcode.cn/problems/count-elements-with-strictly-smaller-and-greater-elements/
 [2149l]:https://leetcode.cn/problems/rearrange-array-elements-by-sign/

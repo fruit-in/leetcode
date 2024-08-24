@@ -1241,6 +1241,7 @@
 [2140][2140l]|[Solving Questions With Brainpower][2140]                                             |![rs]
 [2144][2144l]|[Minimum Cost of Buying Candies With Discount][2144]                                  |![rs]
 [2145][2145l]|[Count the Hidden Sequences][2145]                                                    |![rs]
+[2146][2146l]|[K Highest Ranked Items Within a Price Range][2146]                                   |![rs]
 [2147][2147l]|[Number of Ways to Divide a Long Corridor][2147]                                      |![rs]
 [2148][2148l]|[Count Elements With Strictly Smaller and Greater Elements][2148]                     |![rs]
 [2149][2149l]|[Rearrange Array Elements by Sign][2149]                                              |![rs]
@@ -2710,6 +2711,7 @@
 [2140]:Problemset/2140-Solving%20Questions%20With%20Brainpower/README.md#2140-solving-questions-with-brainpower
 [2144]:Problemset/2144-Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/README.md#2144-minimum-cost-of-buying-candies-with-discount
 [2145]:Problemset/2145-Count%20the%20Hidden%20Sequences/README.md#2145-count-the-hidden-sequences
+[2146]:Problemset/2146-K%20Highest%20Ranked%20Items%20Within%20a%20Price%20Range/README.md#2146-k-highest-ranked-items-within-a-price-range
 [2147]:Problemset/2147-Number%20of%20Ways%20to%20Divide%20a%20Long%20Corridor/README.md#2147-number-of-ways-to-divide-a-long-corridor
 [2148]:Problemset/2148-Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements/README.md#2148-count-elements-with-strictly-smaller-and-greater-elements
 [2149]:Problemset/2149-Rearrange%20Array%20Elements%20by%20Sign/README.md#2149-rearrange-array-elements-by-sign
@@ -4178,6 +4180,7 @@
 [2140l]:https://leetcode.com/problems/solving-questions-with-brainpower/
 [2144l]:https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 [2145l]:https://leetcode.com/problems/count-the-hidden-sequences/
+[2146l]:https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/
 [2147l]:https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/
 [2148l]:https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/
 [2149l]:https://leetcode.com/problems/rearrange-array-elements-by-sign/
