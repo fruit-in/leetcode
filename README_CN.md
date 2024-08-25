@@ -1281,6 +1281,7 @@
 [2215][2215l]|[找出两数组的不同][2215]                                  |![rs]
 [2216][2216l]|[美化数组的最少删除数][2216]                              |![rs]
 [2217][2217l]|[找到指定长度的回文数][2217]                              |![rs]
+[2218][2218l]|[从栈中取出 K 个硬币的最大面值和][2218]                   |![rs]
 [2220][2220l]|[转换数字的最少位翻转次数][2220]                          |![rs]
 [2221][2221l]|[数组的三角和][2221]                                      |![rs]
 [2222][2222l]|[选择建筑的方案数][2222]                                  |![rs]
@@ -2751,6 +2752,7 @@
 [2215]:Problemset/2215-Find%20the%20Difference%20of%20Two%20Arrays/README_CN.md#2215-找出两数组的不同
 [2216]:Problemset/2216-Minimum%20Deletions%20to%20Make%20Array%20Beautiful/README_CN.md#2216-美化数组的最少删除数
 [2217]:Problemset/2217-Find%20Palindrome%20With%20Fixed%20Length/README_CN.md#2217-找到指定长度的回文数
+[2218]:Problemset/2218-Maximum%20Value%20of%20K%20Coins%20From%20Piles/README_CN.md#2218-从栈中取出-k-个硬币的最大面值和
 [2220]:Problemset/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README_CN.md#2220-转换数字的最少位翻转次数
 [2221]:Problemset/2221-Find%20Triangular%20Sum%20of%20an%20Array/README_CN.md#2221-数组的三角和
 [2222]:Problemset/2222-Number%20of%20Ways%20to%20Select%20Buildings/README_CN.md#2222-选择建筑的方案数
@@ -4220,6 +4222,7 @@
 [2215l]:https://leetcode.cn/problems/find-the-difference-of-two-arrays/
 [2216l]:https://leetcode.cn/problems/minimum-deletions-to-make-array-beautiful/
 [2217l]:https://leetcode.cn/problems/find-palindrome-with-fixed-length/
+[2218l]:https://leetcode.cn/problems/maximum-value-of-k-coins-from-piles/
 [2220l]:https://leetcode.cn/problems/minimum-bit-flips-to-convert-number/
 [2221l]:https://leetcode.cn/problems/find-triangular-sum-of-an-array/
 [2222l]:https://leetcode.cn/problems/number-of-ways-to-select-buildings/

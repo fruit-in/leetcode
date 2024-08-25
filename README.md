@@ -1281,6 +1281,7 @@
 [2215][2215l]|[Find the Difference of Two Arrays][2215]                                             |![rs]
 [2216][2216l]|[Minimum Deletions to Make Array Beautiful][2216]                                     |![rs]
 [2217][2217l]|[Find Palindrome With Fixed Length][2217]                                             |![rs]
+[2218][2218l]|[Maximum Value of K Coins From Piles][2218]                                           |![rs]
 [2220][2220l]|[Minimum Bit Flips to Convert Number][2220]                                           |![rs]
 [2221][2221l]|[Find Triangular Sum of an Array][2221]                                               |![rs]
 [2222][2222l]|[Number of Ways to Select Buildings][2222]                                            |![rs]
@@ -2751,6 +2752,7 @@
 [2215]:Problemset/2215-Find%20the%20Difference%20of%20Two%20Arrays/README.md#2215-find-the-difference-of-two-arrays
 [2216]:Problemset/2216-Minimum%20Deletions%20to%20Make%20Array%20Beautiful/README.md#2216-minimum-deletions-to-make-array-beautiful
 [2217]:Problemset/2217-Find%20Palindrome%20With%20Fixed%20Length/README.md#2217-find-palindrome-with-fixed-length
+[2218]:Problemset/2218-Maximum%20Value%20of%20K%20Coins%20From%20Piles/README.md#2218-maximum-value-of-k-coins-from-piles
 [2220]:Problemset/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README.md#2220-minimum-bit-flips-to-convert-number
 [2221]:Problemset/2221-Find%20Triangular%20Sum%20of%20an%20Array/README.md#2221-find-triangular-sum-of-an-array
 [2222]:Problemset/2222-Number%20of%20Ways%20to%20Select%20Buildings/README.md#2222-number-of-ways-to-select-buildings
@@ -4220,6 +4222,7 @@
 [2215l]:https://leetcode.com/problems/find-the-difference-of-two-arrays/
 [2216l]:https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/
 [2217l]:https://leetcode.com/problems/find-palindrome-with-fixed-length/
+[2218l]:https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/
 [2220l]:https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 [2221l]:https://leetcode.com/problems/find-triangular-sum-of-an-array/
 [2222l]:https://leetcode.com/problems/number-of-ways-to-select-buildings/
