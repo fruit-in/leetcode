@@ -624,6 +624,7 @@
 [979][979l]  |[在二叉树中分配硬币][979]                                 |![py]
 [981][981l]  |[基于时间的键值存储][981]                                 |![py]
 [982][982l]  |[按位与为零的三元组][982]                                 |![rs]
+[983][983l]  |[最低票价][983]                                           |![rs]
 [984][984l]  |[不含 AAA 或 BBB 的字符串][984]                           |![rb]
 [985][985l]  |[查询后的偶数和][985]                                     |![py]
 [986][986l]  |[区间列表的交集][986]                                     |![rb]&nbsp;&nbsp;![rs]
@@ -2095,6 +2096,7 @@
 [979]:Problemset/0979-Distribute%20Coins%20in%20Binary%20Tree/README_CN.md#979-在二叉树中分配硬币
 [981]:Problemset/0981-Time%20Based%20Key-Value%20Store/README_CN.md#981-基于时间的键值存储
 [982]:Problemset/0982-Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/README_CN.md#982-按位与为零的三元组
+[983]:Problemset/0983-Minimum%20Cost%20For%20Tickets/README_CN.md#983-最低票价
 [984]:Problemset/0984-String%20Without%20AAA%20or%20BBB/README_CN.md#984-不含-aaa-或-bbb-的字符串
 [985]:Problemset/0985-Sum%20of%20Even%20Numbers%20After%20Queries/README_CN.md#985-查询后的偶数和
 [986]:Problemset/0986-Interval%20List%20Intersections/README_CN.md#986-区间列表的交集
@@ -3565,6 +3567,7 @@
 [979l]:https://leetcode.cn/problems/distribute-coins-in-binary-tree/
 [981l]:https://leetcode.cn/problems/time-based-key-value-store/
 [982l]:https://leetcode.cn/problems/triples-with-bitwise-and-equal-to-zero/
+[983l]:https://leetcode.cn/problems/minimum-cost-for-tickets/
 [984l]:https://leetcode.cn/problems/string-without-aaa-or-bbb/
 [985l]:https://leetcode.cn/problems/sum-of-even-numbers-after-queries/
 [986l]:https://leetcode.cn/problems/interval-list-intersections/
