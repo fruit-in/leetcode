@@ -215,6 +215,7 @@
 [319][319l]  |[Bulb Switcher][319]                                                                  |![rs]
 [322][322l]  |[Coin Change][322]                                                                    |![rs]
 [326][326l]  |[Power of Three][326]                                                                 |![py]
+[327][327l]  |[Count of Range Sum][327]                                                             |![py]
 [328][328l]  |[Odd Even Linked List][328]                                                           |![py]
 [329][329l]  |[Longest Increasing Path in a Matrix][329]                                            |![rs]
 [331][331l]  |[Verify Preorder Serialization of a Binary Tree][331]                                 |![rs]
@@ -1688,6 +1689,7 @@
 [319]:Problemset/0319-Bulb%20Switcher/README.md#319-bulb-switcher
 [322]:Problemset/0322-Coin%20Change/README.md#322-coin-change
 [326]:Problemset/0326-Power%20of%20Three/README.md#326-power-of-three
+[327]:Problemset/0327-Count%20of%20Range%20Sum/README.md#327-count-of-range-sum
 [328]:Problemset/0328-Odd%20Even%20Linked%20List/README.md#328-odd-even-linked-list
 [329]:Problemset/0329-Longest%20Increasing%20Path%20in%20a%20Matrix/README.md#329-longest-increasing-path-in-a-matrix
 [331]:Problemset/0331-Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/README.md#331-verify-preorder-serialization-of-a-binary-tree
@@ -3157,6 +3159,7 @@
 [319l]:https://leetcode.com/problems/bulb-switcher/
 [322l]:https://leetcode.com/problems/coin-change/
 [326l]:https://leetcode.com/problems/power-of-three/
+[327l]:https://leetcode.com/problems/count-of-range-sum/
 [328l]:https://leetcode.com/problems/odd-even-linked-list/
 [329l]:https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 [331l]:https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/

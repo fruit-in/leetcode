@@ -215,6 +215,7 @@
 [319][319l]  |[灯泡开关][319]                                           |![rs]
 [322][322l]  |[零钱兑换][322]                                           |![rs]
 [326][326l]  |[3的幂][326]                                              |![py]
+[327][327l]  |[区间和的个数][327]                                       |![py]
 [328][328l]  |[奇偶链表][328]                                           |![py]
 [329][329l]  |[矩阵中的最长递增路径][329]                               |![rs]
 [331][331l]  |[验证二叉树的前序序列化][331]                             |![rs]
@@ -1688,6 +1689,7 @@
 [319]:Problemset/0319-Bulb%20Switcher/README_CN.md#319-灯泡开关
 [322]:Problemset/0322-Coin%20Change/README_CN.md#322-零钱兑换
 [326]:Problemset/0326-Power%20of%20Three/README_CN.md#326-3的幂
+[327]:Problemset/0327-Count%20of%20Range%20Sum/README_CN.md#327-区间和的个数
 [328]:Problemset/0328-Odd%20Even%20Linked%20List/README_CN.md#328-奇偶链表
 [329]:Problemset/0329-Longest%20Increasing%20Path%20in%20a%20Matrix/README_CN.md#329-矩阵中的最长递增路径
 [331]:Problemset/0331-Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/README_CN.md#331-验证二叉树的前序序列化
@@ -3157,6 +3159,7 @@
 [319l]:https://leetcode.cn/problems/bulb-switcher/
 [322l]:https://leetcode.cn/problems/coin-change/
 [326l]:https://leetcode.cn/problems/power-of-three/
+[327l]:https://leetcode.cn/problems/count-of-range-sum/
 [328l]:https://leetcode.cn/problems/odd-even-linked-list/
 [329l]:https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/
 [331l]:https://leetcode.cn/problems/verify-preorder-serialization-of-a-binary-tree/
