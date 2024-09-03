@@ -1052,6 +1052,7 @@
 [1754][1754l]|[Largest Merge Of Two Strings][1754]                                                  |![py]
 [1758][1758l]|[Minimum Changes To Make Alternating Binary String][1758]                             |![rb]&nbsp;&nbsp;![rs]
 [1759][1759l]|[Count Number of Homogenous Substrings][1759]                                         |![rs]
+[1760][1760l]|[Minimum Limit of Balls in a Bag][1760]                                               |![rs]
 [1763][1763l]|[Longest Nice Substring][1763]                                                        |![rb]&nbsp;&nbsp;![rs]
 [1764][1764l]|[Form Array by Concatenating Subarrays of Another Array][1764]                        |![rs]
 [1768][1768l]|[Merge Strings Alternately][1768]                                                     |![rs]
@@ -2526,6 +2527,7 @@
 [1754]:Problemset/1754-Largest%20Merge%20Of%20Two%20Strings/README.md#1754-largest-merge-of-two-strings
 [1758]:Problemset/1758-Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/README.md#1758-minimum-changes-to-make-alternating-binary-string
 [1759]:Problemset/1759-Count%20Number%20of%20Homogenous%20Substrings/README.md#1759-count-number-of-homogenous-substrings
+[1760]:Problemset/1760-Minimum%20Limit%20of%20Balls%20in%20a%20Bag/README.md#1760-minimum-limit-of-balls-in-a-bag
 [1763]:Problemset/1763-Longest%20Nice%20Substring/README.md#1763-longest-nice-substring
 [1764]:Problemset/1764-Form%20Array%20by%20Concatenating%20Subarrays%20of%20Another%20Array/README.md#1764-form-array-by-concatenating-subarrays-of-another-array
 [1768]:Problemset/1768-Merge%20Strings%20Alternately/README.md#1768-merge-strings-alternately
@@ -3999,6 +4001,7 @@
 [1754l]:https://leetcode.com/problems/largest-merge-of-two-strings/
 [1758l]:https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
 [1759l]:https://leetcode.com/problems/count-number-of-homogenous-substrings/
+[1760l]:https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
 [1763l]:https://leetcode.com/problems/longest-nice-substring/
 [1764l]:https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/
 [1768l]:https://leetcode.com/problems/merge-strings-alternately/
