@@ -912,6 +912,7 @@
 [1477][1477l]|[找两个和为目标值且不重叠的子数组][1477]                  |![rs]
 [1480][1480l]|[一维数组的动态和][1480]                                  |![rb]&nbsp;&nbsp;![rs]
 [1481][1481l]|[不同整数的最少数目][1481]                                |![rb]&nbsp;&nbsp;![rs]
+[1482][1482l]|[制作 m 束花所需的最少天数][1482]                         |![rs]
 [1486][1486l]|[数组异或操作][1486]                                      |![rb]&nbsp;&nbsp;![rs]
 [1487][1487l]|[保证文件名唯一][1487]                                    |![rb]
 [1488][1488l]|[避免洪水泛滥][1488]                                      |![rs]
@@ -2387,6 +2388,7 @@
 [1477]:Problemset/1477-Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/README_CN.md#1477-找两个和为目标值且不重叠的子数组
 [1480]:Problemset/1480-Running%20Sum%20of%201d%20Array/README_CN.md#1480-一维数组的动态和
 [1481]:Problemset/1481-Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals/README_CN.md#1481-不同整数的最少数目
+[1482]:Problemset/1482-Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/README_CN.md#1482-制作-m-束花所需的最少天数
 [1486]:Problemset/1486-XOR%20Operation%20in%20an%20Array/README_CN.md#1486-数组异或操作
 [1487]:Problemset/1487-Making%20File%20Names%20Unique/README_CN.md#1487-保证文件名唯一
 [1488]:Problemset/1488-Avoid%20Flood%20in%20The%20City/README_CN.md#1488-避免洪水泛滥
@@ -3861,6 +3863,7 @@
 [1477l]:https://leetcode.cn/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 [1480l]:https://leetcode.cn/problems/running-sum-of-1d-array/
 [1481l]:https://leetcode.cn/problems/least-number-of-unique-integers-after-k-removals/
+[1482l]:https://leetcode.cn/problems/minimum-number-of-days-to-make-m-bouquets/
 [1486l]:https://leetcode.cn/problems/xor-operation-in-an-array/
 [1487l]:https://leetcode.cn/problems/making-file-names-unique/
 [1488l]:https://leetcode.cn/problems/avoid-flood-in-the-city/

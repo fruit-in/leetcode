@@ -912,6 +912,7 @@
 [1477][1477l]|[Find Two Non-overlapping Sub-arrays Each With Target Sum][1477]                      |![rs]
 [1480][1480l]|[Running Sum of 1d Array][1480]                                                       |![rb]&nbsp;&nbsp;![rs]
 [1481][1481l]|[Least Number of Unique Integers after K Removals][1481]                              |![rb]&nbsp;&nbsp;![rs]
+[1482][1482l]|[Minimum Number of Days to Make m Bouquets][1482]                                     |![rs]
 [1486][1486l]|[XOR Operation in an Array][1486]                                                     |![rb]&nbsp;&nbsp;![rs]
 [1487][1487l]|[Making File Names Unique][1487]                                                      |![rb]
 [1488][1488l]|[Avoid Flood in The City][1488]                                                       |![rs]
@@ -2387,6 +2388,7 @@
 [1477]:Problemset/1477-Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/README.md#1477-find-two-non-overlapping-sub-arrays-each-with-target-sum
 [1480]:Problemset/1480-Running%20Sum%20of%201d%20Array/README.md#1480-running-sum-of-1d-array
 [1481]:Problemset/1481-Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals/README.md#1481-least-number-of-unique-integers-after-k-removals
+[1482]:Problemset/1482-Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/README.md#1482-minimum-number-of-days-to-make-m-bouquets
 [1486]:Problemset/1486-XOR%20Operation%20in%20an%20Array/README.md#1486-xor-operation-in-an-array
 [1487]:Problemset/1487-Making%20File%20Names%20Unique/README.md#1487-making-file-names-unique
 [1488]:Problemset/1488-Avoid%20Flood%20in%20The%20City/README.md#1488-avoid-flood-in-the-city
@@ -3861,6 +3863,7 @@
 [1477l]:https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 [1480l]:https://leetcode.com/problems/running-sum-of-1d-array/
 [1481l]:https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
+[1482l]:https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 [1486l]:https://leetcode.com/problems/xor-operation-in-an-array/
 [1487l]:https://leetcode.com/problems/making-file-names-unique/
 [1488l]:https://leetcode.com/problems/avoid-flood-in-the-city/
