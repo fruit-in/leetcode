@@ -1119,6 +1119,7 @@
 [1880][1880l]|[Check if Word Equals Summation of Two Words][1880]                                   |![rs]
 [1881][1881l]|[Maximum Value after Insertion][1881]                                                 |![rs]
 [1882][1882l]|[Process Tasks Using Servers][1882]                                                   |![rs]
+[1883][1883l]|[Minimum Skips to Arrive at Meeting On Time][1883]                                    |![rs]
 [1884][1884l]|[Egg Drop With 2 Eggs and N Floors][1884]                                             |![rs]
 [1886][1886l]|[Determine Whether Matrix Can Be Obtained By Rotation][1886]                          |![rs]
 [1887][1887l]|[Reduction Operations to Make the Array Elements Equal][1887]                         |![rs]
@@ -2595,6 +2596,7 @@
 [1880]:Problemset/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README.md#1880-check-if-word-equals-summation-of-two-words
 [1881]:Problemset/1881-Maximum%20Value%20after%20Insertion/README.md#1881-maximum-value-after-insertion
 [1882]:Problemset/1882-Process%20Tasks%20Using%20Servers/README.md#1882-process-tasks-using-servers
+[1883]:Problemset/1883-Minimum%20Skips%20to%20Arrive%20at%20Meeting%20On%20Time/README.md#1883-minimum-skips-to-arrive-at-meeting-on-time
 [1884]:Problemset/1884-Egg%20Drop%20With%202%20Eggs%20and%20N%20Floors/README.md#1884-egg-drop-with-2-eggs-and-n-floors
 [1886]:Problemset/1886-Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/README.md#1886-determine-whether-matrix-can-be-obtained-by-rotation
 [1887]:Problemset/1887-Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal/README.md#1887-reduction-operations-to-make-the-array-elements-equal
@@ -4070,6 +4072,7 @@
 [1880l]:https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 [1881l]:https://leetcode.com/problems/maximum-value-after-insertion/
 [1882l]:https://leetcode.com/problems/process-tasks-using-servers/
+[1883l]:https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/
 [1884l]:https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/
 [1886l]:https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 [1887l]:https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/

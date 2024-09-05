@@ -1119,6 +1119,7 @@
 [1880][1880l]|[检查某单词是否等于两单词之和][1880]                      |![rs]
 [1881][1881l]|[插入后的最大值][1881]                                    |![rs]
 [1882][1882l]|[使用服务器处理任务][1882]                                |![rs]
+[1883][1883l]|[准时抵达会议现场的最小跳过休息次数][1883]                |![rs]
 [1884][1884l]|[鸡蛋掉落-两枚鸡蛋][1884]                                 |![rs]
 [1886][1886l]|[判断矩阵经轮转后是否一致][1886]                          |![rs]
 [1887][1887l]|[使数组元素相等的减少操作次数][1887]                      |![rs]
@@ -2595,6 +2596,7 @@
 [1880]:Problemset/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README_CN.md#1880-检查某单词是否等于两单词之和
 [1881]:Problemset/1881-Maximum%20Value%20after%20Insertion/README_CN.md#1881-插入后的最大值
 [1882]:Problemset/1882-Process%20Tasks%20Using%20Servers/README_CN.md#1882-使用服务器处理任务
+[1883]:Problemset/1883-Minimum%20Skips%20to%20Arrive%20at%20Meeting%20On%20Time/README_CN.md#1883-准时抵达会议现场的最小跳过休息次数
 [1884]:Problemset/1884-Egg%20Drop%20With%202%20Eggs%20and%20N%20Floors/README_CN.md#1884-鸡蛋掉落-两枚鸡蛋
 [1886]:Problemset/1886-Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/README_CN.md#1886-判断矩阵经轮转后是否一致
 [1887]:Problemset/1887-Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal/README_CN.md#1887-使数组元素相等的减少操作次数
@@ -4070,6 +4072,7 @@
 [1880l]:https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/
 [1881l]:https://leetcode.cn/problems/maximum-value-after-insertion/
 [1882l]:https://leetcode.cn/problems/process-tasks-using-servers/
+[1883l]:https://leetcode.cn/problems/minimum-skips-to-arrive-at-meeting-on-time/
 [1884l]:https://leetcode.cn/problems/egg-drop-with-2-eggs-and-n-floors/
 [1886l]:https://leetcode.cn/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 [1887l]:https://leetcode.cn/problems/reduction-operations-to-make-the-array-elements-equal/
