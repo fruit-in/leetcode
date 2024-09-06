@@ -1272,6 +1272,7 @@
 [2185][2185l]|[Counting Words With a Given Prefix][2185]                                            |![rs]
 [2186][2186l]|[Minimum Number of Steps to Make Two Strings Anagram II][2186]                        |![rs]
 [2187][2187l]|[Minimum Time to Complete Trips][2187]                                                |![rs]
+[2188][2188l]|[Minimum Time to Finish the Race][2188]                                               |![rs]
 [2190][2190l]|[Most Frequent Number Following Key In an Array][2190]                                |![rs]
 [2191][2191l]|[Sort the Jumbled Numbers][2191]                                                      |![rs]
 [2194][2194l]|[Cells in a Range on an Excel Sheet][2194]                                            |![rs]
@@ -2749,6 +2750,7 @@
 [2185]:Problemset/2185-Counting%20Words%20With%20a%20Given%20Prefix/README.md#2185-counting-words-with-a-given-prefix
 [2186]:Problemset/2186-Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II/README.md#2186-minimum-number-of-steps-to-make-two-strings-anagram-ii
 [2187]:Problemset/2187-Minimum%20Time%20to%20Complete%20Trips/README.md#2187-minimum-time-to-complete-trips
+[2188]:Problemset/2188-Minimum%20Time%20to%20Finish%20the%20Race/README.md#2188-minimum-time-to-finish-the-race
 [2190]:Problemset/2190-Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array/README.md#2190-most-frequent-number-following-key-in-an-array
 [2191]:Problemset/2191-Sort%20the%20Jumbled%20Numbers/README.md#2191-sort-the-jumbled-numbers
 [2194]:Problemset/2194-Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet/README.md#2194-cells-in-a-range-on-an-excel-sheet
@@ -4225,6 +4227,7 @@
 [2185l]:https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2186l]:https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 [2187l]:https://leetcode.com/problems/minimum-time-to-complete-trips/
+[2188l]:https://leetcode.com/problems/minimum-time-to-finish-the-race/
 [2190l]:https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
 [2191l]:https://leetcode.com/problems/sort-the-jumbled-numbers/
 [2194l]:https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
