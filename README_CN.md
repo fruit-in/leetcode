@@ -1448,6 +1448,7 @@
 [2550][2550l]|[猴子碰撞的方法数][2550]                                  |![rs]
 [2553][2553l]|[分割数组中数字的数位][2553]                              |![rs]
 [2554][2554l]|[从一个范围内选择最多整数 I][2554]                        |![rs]
+[2555][2555l]|[两个线段获得的最多奖品][2555]                            |![py]
 [2558][2558l]|[从数量最多的堆取走礼物][2558]                            |![rs]
 [2559][2559l]|[统计范围内的元音字符串数][2559]                          |![rs]
 [2562][2562l]|[找出数组的串联值][2562]                                  |![rs]
@@ -2926,6 +2927,7 @@
 [2550]:Problemset/2550-Count%20Collisions%20of%20Monkeys%20on%20a%20Polygon/README_CN.md#2550-猴子碰撞的方法数
 [2553]:Problemset/2553-Separate%20the%20Digits%20in%20an%20Array/README_CN.md#2553-分割数组中数字的数位
 [2554]:Problemset/2554-Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I/README_CN.md#2554-从一个范围内选择最多整数-i
+[2555]:Problemset/2555-Maximize%20Win%20From%20Two%20Segments/README_CN.md#2555-两个线段获得的最多奖品
 [2558]:Problemset/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README_CN.md#2558-take-gifts-from-the-richest-pile
 [2559]:Problemset/2559-Count%20Vowel%20Strings%20in%20Ranges/README_CN.md#2559-统计范围内的元音字符串数
 [2562]:Problemset/2562-Find%20the%20Array%20Concatenation%20Value/README_CN.md#2562-找出数组的串联值
@@ -4403,6 +4405,7 @@
 [2550l]:https://leetcode.cn/problems/count-collisions-of-monkeys-on-a-polygon/
 [2553l]:https://leetcode.cn/problems/separate-the-digits-in-an-array/
 [2554l]:https://leetcode.cn/problems/maximum-number-of-integers-to-choose-from-a-range-i/
+[2555l]:https://leetcode.cn/problems/maximize-win-from-two-segments/
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2559l]:https://leetcode.cn/problems/count-vowel-strings-in-ranges/
 [2562l]:https://leetcode.cn/problems/find-the-array-concatenation-value/
