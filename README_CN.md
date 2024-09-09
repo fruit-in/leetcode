@@ -481,6 +481,7 @@
 [783][783l]  |[二叉搜索树结点最小距离][783]                             |![py]
 [784][784l]  |[字母大小写全排列][784]                                   |![py]
 [785][785l]  |[判断二分图][785]                                         |![rs]
+[787][787l]  |[K 站中转内最便宜的航班][787]                             |![rs]
 [788][788l]  |[旋转数字][788]                                           |![rs]
 [789][789l]  |[逃脱阻碍者][789]                                         |![rb]&nbsp;&nbsp;![rs]
 [790][790l]  |[多米诺和托米诺平铺][790]                                 |![rs]
@@ -1960,6 +1961,7 @@
 [783]:Problemset/0783-Minimum%20Distance%20Between%20BST%20Nodes/README_CN.md#783-二叉搜索树结点最小距离
 [784]:Problemset/0784-Letter%20Case%20Permutation/README_CN.md#784-字母大小写全排列
 [785]:Problemset/0785-Is%20Graph%20Bipartite%3F/README_CN.md#785-判断二分图
+[787]:Problemset/0787-Cheapest%20Flights%20Within%20K%20Stops/README_CN.md#787-k-站中转内最便宜的航班
 [788]:Problemset/0788-Rotated%20Digits/README_CN.md#788-旋转数字
 [789]:Problemset/0789-Escape%20The%20Ghosts/README_CN.md#789-逃脱阻碍者
 [790]:Problemset/0790-Domino%20and%20Tromino%20Tiling/README_CN.md#790-多米诺和托米诺平铺
@@ -3438,6 +3440,7 @@
 [783l]:https://leetcode.cn/problems/minimum-distance-between-bst-nodes/
 [784l]:https://leetcode.cn/problems/letter-case-permutation/
 [785l]:https://leetcode.cn/problems/is-graph-bipartite/
+[787l]:https://leetcode.cn/problems/cheapest-flights-within-k-stops/
 [788l]:https://leetcode.cn/problems/rotated-digits/
 [789l]:https://leetcode.cn/problems/escape-the-ghosts/
 [790l]:https://leetcode.cn/problems/domino-and-tromino-tiling/
