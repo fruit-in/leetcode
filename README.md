@@ -654,6 +654,7 @@
 [1012][1012l]|[Numbers With Repeated Digits][1012]                                                  |![rs]
 [1013][1013l]|[Partition Array Into Three Parts With Equal Sum][1013]                               |![rs]
 [1014][1014l]|[Best Sightseeing Pair][1014]                                                         |![rs]
+[1015][1015l]|[Smallest Integer Divisible by K][1015]                                               |![rs]
 [1016][1016l]|[Binary String With Substrings Representing 1 To N][1016]                             |![rs]
 [1017][1017l]|[Convert to Base -2][1017]                                                            |![rs]
 [1018][1018l]|[Binary Prefix Divisible By 5][1018]                                                  |![py]
@@ -2134,6 +2135,7 @@
 [1012]:Problemset/1012-Numbers%20With%20Repeated%20Digits/README.md#1012-numbers-with-repeated-digits
 [1013]:Problemset/1013-Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/README.md#1013-partition-array-into-three-parts-with-equal-sum
 [1014]:Problemset/1014-Best%20Sightseeing%20Pair/README.md#1014-best-sightseeing-pair
+[1015]:Problemset/1015-Smallest%20Integer%20Divisible%20by%20K/README.md#1015-smallest-integer-divisible-by-k
 [1016]:Problemset/1016-Binary%20String%20With%20Substrings%20Representing%201%20To%20N/README.md#1016-binary-string-with-substrings-representing-1-to-n
 [1017]:Problemset/1017-Convert%20to%20Base%20-2/README.md#1017-convert-to-base--2
 [1018]:Problemset/1018-Binary%20Prefix%20Divisible%20By%205/README.md#1018-binary-prefix-divisible-by-5
@@ -3613,6 +3615,7 @@
 [1012l]:https://leetcode.com/problems/numbers-with-repeated-digits/
 [1013l]:https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
 [1014l]:https://leetcode.com/problems/best-sightseeing-pair/
+[1015l]:https://leetcode.com/problems/smallest-integer-divisible-by-k/
 [1016l]:https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/
 [1017l]:https://leetcode.com/problems/convert-to-base-2/
 [1018l]:https://leetcode.com/problems/binary-prefix-divisible-by-5/

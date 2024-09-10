@@ -654,6 +654,7 @@
 [1012][1012l]|[至少有 1 位重复的数字][1012]                             |![rs]
 [1013][1013l]|[将数组分成和相等的三个部分][1013]                        |![rs]
 [1014][1014l]|[最佳观光组合][1014]                                      |![rs]
+[1015][1015l]|[可被 K 整除的最小整数][1015]                             |![rs]
 [1016][1016l]|[子串能表示从 1 到 N 数字的二进制串][1016]                |![rs]
 [1017][1017l]|[负二进制转换][1017]                                      |![rs]
 [1018][1018l]|[可被 5 整除的二进制前缀][1018]                           |![py]
@@ -2134,6 +2135,7 @@
 [1012]:Problemset/1012-Numbers%20With%20Repeated%20Digits/README_CN.md#1012-至少有-1-位重复的数字
 [1013]:Problemset/1013-Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/README_CN.md#1013-将数组分成和相等的三个部分
 [1014]:Problemset/1014-Best%20Sightseeing%20Pair/README_CN.md#1014-最佳观光组合
+[1015]:Problemset/1015-Smallest%20Integer%20Divisible%20by%20K/README_CN.md#1015-可被-k-整除的最小整数
 [1016]:Problemset/1016-Binary%20String%20With%20Substrings%20Representing%201%20To%20N/README_CN.md#1016-子串能表示从-1-到-n-数字的二进制串
 [1017]:Problemset/1017-Convert%20to%20Base%20-2/README_CN.md#1017-负二进制转换
 [1018]:Problemset/1018-Binary%20Prefix%20Divisible%20By%205/README_CN.md#1018-可被-5-整除的二进制前缀
@@ -3613,6 +3615,7 @@
 [1012l]:https://leetcode.cn/problems/numbers-with-repeated-digits/
 [1013l]:https://leetcode.cn/problems/partition-array-into-three-parts-with-equal-sum/
 [1014l]:https://leetcode.cn/problems/best-sightseeing-pair/
+[1015l]:https://leetcode.cn/problems/smallest-integer-divisible-by-k/
 [1016l]:https://leetcode.cn/problems/binary-string-with-substrings-representing-1-to-n/
 [1017l]:https://leetcode.cn/problems/convert-to-base-2/
 [1018l]:https://leetcode.cn/problems/binary-prefix-divisible-by-5/
