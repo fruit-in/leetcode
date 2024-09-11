@@ -486,6 +486,7 @@
 [789][789l]  |[逃脱阻碍者][789]                                         |![rb]&nbsp;&nbsp;![rs]
 [790][790l]  |[多米诺和托米诺平铺][790]                                 |![rs]
 [791][791l]  |[自定义字符串排序][791]                                   |![rs]
+[792][792l]  |[匹配子序列的单词数][792]                                 |![rs]
 [794][794l]  |[有效的井字游戏][794]                                     |![rs]
 [796][796l]  |[旋转字符串][796]                                         |![rs]
 [798][798l]  |[得分最高的最小轮调][798]                                 |![rs]
@@ -1967,6 +1968,7 @@
 [789]:Problemset/0789-Escape%20The%20Ghosts/README_CN.md#789-逃脱阻碍者
 [790]:Problemset/0790-Domino%20and%20Tromino%20Tiling/README_CN.md#790-多米诺和托米诺平铺
 [791]:Problemset/0791-Custom%20Sort%20String/README_CN.md#791-自定义字符串排序
+[792]:Problemset/0792-Number%20of%20Matching%20Subsequences/README_CN.md#792-匹配子序列的单词数
 [794]:Problemset/0794-Valid%20Tic-Tac-Toe%20State/README_CN.md#794-有效的井字游戏
 [796]:Problemset/0796-Rotate%20String/README_CN.md#796-旋转字符串
 [798]:Problemset/0798-Smallest%20Rotation%20with%20Highest%20Score/README_CN.md#798-得分最高的最小轮调
@@ -3447,6 +3449,7 @@
 [789l]:https://leetcode.cn/problems/escape-the-ghosts/
 [790l]:https://leetcode.cn/problems/domino-and-tromino-tiling/
 [791l]:https://leetcode.cn/problems/custom-sort-string/
+[792l]:https://leetcode.cn/problems/number-of-matching-subsequences/
 [794l]:https://leetcode.cn/problems/valid-tic-tac-toe-state/
 [796l]:https://leetcode.cn/problems/rotate-string/
 [798l]:https://leetcode.cn/problems/smallest-rotation-with-highest-score/
