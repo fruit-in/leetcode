@@ -1152,6 +1152,7 @@
 [1945][1945l]|[字符串转化后的各位数字之和][1945]                        |![py]
 [1946][1946l]|[子字符串突变后可能得到的最大整数][1946]                  |![rs]
 [1952][1952l]|[三除数][1952]                                            |![rs]
+[1953][1953l]|[你可以工作的最大周数][1953]                              |![rs]
 [1954][1954l]|[收集足够苹果的最小花园周长][1954]                        |![rs]
 [1957][1957l]|[删除字符使字符串变好][1957]                              |![py]
 [1958][1958l]|[检查操作是否合法][1958]                                  |![rs]
@@ -2636,6 +2637,7 @@
 [1945]:Problemset/1945-Sum%20of%20Digits%20of%20String%20After%20Convert/README_CN.md#1945-字符串转化后的各位数字之和
 [1946]:Problemset/1946-Largest%20Number%20After%20Mutating%20Substring/README_CN.md#1946-子字符串突变后可能得到的最大整数
 [1952]:Problemset/1952-Three%20Divisors/README_CN.md#1952-三除数
+[1953]:Problemset/1953-Maximum%20Number%20of%20Weeks%20for%20Which%20You%20Can%20Work/README_CN.md#1953-你可以工作的最大周数
 [1954]:Problemset/1954-Minimum%20Garden%20Perimeter%20to%20Collect%20Enough%20Apples/README_CN.md#1954-收集足够苹果的最小花园周长
 [1957]:Problemset/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README_CN.md#1957-删除字符使字符串变好
 [1958]:Problemset/1958-Check%20if%20Move%20is%20Legal/README_CN.md#1958-检查操作是否合法
@@ -4119,6 +4121,7 @@
 [1945l]:https://leetcode.cn/problems/sum-of-digits-of-string-after-convert/
 [1946l]:https://leetcode.cn/problems/largest-number-after-mutating-substring/
 [1952l]:https://leetcode.cn/problems/three-divisors/
+[1953l]:https://leetcode.cn/problems/maximum-number-of-weeks-for-which-you-can-work/
 [1954l]:https://leetcode.cn/problems/minimum-garden-perimeter-to-collect-enough-apples/
 [1957l]:https://leetcode.cn/problems/delete-characters-to-make-fancy-string/
 [1958l]:https://leetcode.cn/problems/check-if-move-is-legal/
