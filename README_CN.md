@@ -219,6 +219,7 @@
 [328][328l]  |[奇偶链表][328]                                           |![py]
 [329][329l]  |[矩阵中的最长递增路径][329]                               |![rs]
 [331][331l]  |[验证二叉树的前序序列化][331]                             |![rs]
+[332][332l]  |[重新安排行程][332]                                       |![py]
 [334][334l]  |[递增的三元子序列][334]                                   |![rb]&nbsp;&nbsp;![rs]
 [337][337l]  |[打家劫舍 III][337]                                       |![py]&nbsp;&nbsp;![rb]
 [338][338l]  |[比特位计数][338]                                         |![rs]
@@ -1705,6 +1706,7 @@
 [328]:Problemset/0328-Odd%20Even%20Linked%20List/README_CN.md#328-奇偶链表
 [329]:Problemset/0329-Longest%20Increasing%20Path%20in%20a%20Matrix/README_CN.md#329-矩阵中的最长递增路径
 [331]:Problemset/0331-Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/README_CN.md#331-验证二叉树的前序序列化
+[332]:Problemset/0332-Reconstruct%20Itinerary/README_CN.md#332-重新安排行程
 [334]:Problemset/0334-Increasing%20Triplet%20Subsequence/README_CN.md#334-递增的三元子序列
 [337]:Problemset/0337-House%20Robber%20III/README_CN.md#337-打家劫舍-iii
 [338]:Problemset/0338-Counting%20Bits/README_CN.md#338-比特位计数
@@ -3187,6 +3189,7 @@
 [328l]:https://leetcode.cn/problems/odd-even-linked-list/
 [329l]:https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/
 [331l]:https://leetcode.cn/problems/verify-preorder-serialization-of-a-binary-tree/
+[332l]:https://leetcode.cn/problems/reconstruct-itinerary/
 [334l]:https://leetcode.cn/problems/increasing-triplet-subsequence/
 [336l]:https://leetcode.cn/problems/palindrome-pairs/
 [337l]:https://leetcode.cn/problems/house-robber-iii/
