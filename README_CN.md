@@ -59,6 +59,7 @@
 [64][64l]    |[最小路径和][64]                                          |![rb]&nbsp;&nbsp;![rs]
 [66][66l]    |[加一][66]                                                |![rs]
 [67][67l]    |[二进制求和][67]                                          |![py]
+[68][68l]    |[文本左右对齐][68]                                        |![rs]
 [69][69l]    |[x 的平方根][69]                                          |![rs]
 [70][70l]    |[爬楼梯][70]                                              |![rs]
 [71][71l]    |[简化路径][71]                                            |![py]
@@ -1547,6 +1548,7 @@
 [64]:Problemset/0064-Minimum%20Path%20Sum/README_CN.md#64-最小路径和
 [66]:Problemset/0066-Plus%20One/README_CN.md#66-加一
 [67]:Problemset/0067-Add%20Binary/README_CN.md#67-二进制求和
+[68]:Problemset/0068-Text%20Justification/README_CN.md#68-文本左右对齐
 [69]:Problemset/0069-Sqrt\(x\)/README_CN.md#69-x-的平方根
 [70]:Problemset/0070-Climbing%20Stairs/README_CN.md#70-爬楼梯
 [71]:Problemset/0071-Simplify%20Path/README_CN.md#71-简化路径
@@ -3028,6 +3030,7 @@
 [64l]:https://leetcode.cn/problems/minimum-path-sum/
 [66l]:https://leetcode.cn/problems/plus-one/
 [67l]:https://leetcode.cn/problems/add-binary/
+[68l]:https://leetcode.cn/problems/text-justification/
 [69l]:https://leetcode.cn/problems/sqrtx/
 [70l]:https://leetcode.cn/problems/climbing-stairs/
 [71l]:https://leetcode.cn/problems/simplify-path/

@@ -59,6 +59,7 @@
 [64][64l]    |[Minimum Path Sum][64]                                                                |![rb]&nbsp;&nbsp;![rs]
 [66][66l]    |[Plus One][66]                                                                        |![rs]
 [67][67l]    |[Add Binary][67]                                                                      |![py]
+[68][68l]    |[Text Justification][68]                                                              |![rs]
 [69][69l]    |[Sqrt(x)][69]                                                                         |![rs]
 [70][70l]    |[Climbing Stairs][70]                                                                 |![rs]
 [71][71l]    |[Simplify Path][71]                                                                   |![py]
@@ -1547,6 +1548,7 @@
 [64]:Problemset/0064-Minimum%20Path%20Sum/README.md#64-minimum-path-sum
 [66]:Problemset/0066-Plus%20One/README.md#66-plus-one
 [67]:Problemset/0067-Add%20Binary/README.md#67-add-binary
+[68]:Problemset/0068-Text%20Justification/README.md#68-text-justification
 [69]:Problemset/0069-Sqrt\(x\)/README.md#69-sqrtx
 [70]:Problemset/0070-Climbing%20Stairs/README.md#70-climbing-stairs
 [71]:Problemset/0071-Simplify%20Path/README.md#71-simplify-path
@@ -3028,6 +3030,7 @@
 [64l]:https://leetcode.com/problems/minimum-path-sum/
 [66l]:https://leetcode.com/problems/plus-one/
 [67l]:https://leetcode.com/problems/add-binary/
+[68l]:https://leetcode.com/problems/text-justification/
 [69l]:https://leetcode.com/problems/sqrtx/
 [70l]:https://leetcode.com/problems/climbing-stairs/
 [71l]:https://leetcode.com/problems/simplify-path/
