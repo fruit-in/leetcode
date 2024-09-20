@@ -75,6 +75,7 @@
 [84][84l]    |[柱状图中最大的矩形][84]                                  |![rs]
 [85][85l]    |[最大矩形][85]                                            |![rs]
 [86][86l]    |[分隔链表][86]                                            |![py]
+[87][87l]    |[扰乱字符串][87]                                          |![py]
 [88][88l]    |[合并两个有序数组][88]                                    |![py]&nbsp;&nbsp;![rb]
 [89][89l]    |[格雷编码][89]                                            |![rs]
 [90][90l]    |[子集 II][90]                                             |![rs]
@@ -1564,6 +1565,7 @@
 [84]:Problemset/0084-Largest%20Rectangle%20in%20Histogram/README_CN.md#84-柱状图中最大的矩形
 [85]:Problemset/0085-Maximal%20Rectangle/README_CN.md#85-最大矩形
 [86]:Problemset/0086-Partition%20List/README_CN.md#86-分隔链表
+[87]:Problemset/0087-Scramble%20String/README_CN.md#87-扰乱字符串
 [88]:Problemset/0088-Merge%20Sorted%20Array/README_CN.md#88-合并两个有序数组
 [89]:Problemset/0089-Gray%20Code/README_CN.md#89-格雷编码
 [90]:Problemset/0090-Subsets%20II/README_CN.md#90-子集-ii
@@ -3047,6 +3049,7 @@
 [85l]:https://leetcode.cn/problems/maximal-rectangle/
 [84l]:https://leetcode.cn/problems/largest-rectangle-in-histogram/
 [86l]:https://leetcode.cn/problems/partition-list/
+[87l]:https://leetcode.cn/problems/scramble-string/
 [88l]:https://leetcode.cn/problems/merge-sorted-array/
 [89l]:https://leetcode.cn/problems/gray-code/
 [90l]:https://leetcode.cn/problems/subsets-ii/

@@ -75,6 +75,7 @@
 [84][84l]    |[Largest Rectangle in Histogram][84]                                                  |![rs]
 [85][85l]    |[Maximal Rectangle][85]                                                               |![rs]
 [86][86l]    |[Partition List][86]                                                                  |![py]
+[87][87l]    |[Scramble String][87]                                                                 |![py]
 [88][88l]    |[Merge Sorted Array][88]                                                              |![py]&nbsp;&nbsp;![rb]
 [89][89l]    |[Gray Code][89]                                                                       |![rs]
 [90][90l]    |[Subsets II][90]                                                                      |![rs]
@@ -1564,6 +1565,7 @@
 [84]:Problemset/0084-Largest%20Rectangle%20in%20Histogram/README.md#84-largest-rectangle-in-histogram
 [85]:Problemset/0085-Maximal%20Rectangle/README.md#85-maximal-rectangle
 [86]:Problemset/0086-Partition%20List/README.md#86-partition-list
+[87]:Problemset/0087-Scramble%20String/README.md#87-scramble-string
 [88]:Problemset/0088-Merge%20Sorted%20Array/README.md#88-merge-sorted-array
 [89]:Problemset/0089-Gray%20Code/README.md#89-gray-code
 [90]:Problemset/0090-Subsets%20II/README.md#90-subsets-ii
@@ -3047,6 +3049,7 @@
 [85l]:https://leetcode.com/problems/maximal-rectangle/
 [84l]:https://leetcode.com/problems/largest-rectangle-in-histogram/
 [86l]:https://leetcode.com/problems/partition-list/
+[87l]:https://leetcode.com/problems/scramble-string/
 [88l]:https://leetcode.com/problems/merge-sorted-array/
 [89l]:https://leetcode.com/problems/gray-code/
 [90l]:https://leetcode.com/problems/subsets-ii/
