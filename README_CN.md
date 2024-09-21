@@ -66,6 +66,7 @@
 [73][73l]    |[矩阵置零][73]                                            |![rs]
 [74][74l]    |[搜索二维矩阵][74]                                        |![rs]
 [75][75l]    |[颜色分类][75]                                            |![rs]
+[76][76l]    |[最小覆盖子串][76]                                        |![rs]
 [77][77l]    |[组合][77]                                                |![py]
 [78][78l]    |[子集][78]                                                |![rs]
 [80][80l]    |[删除排序数组中的重复项 II][80]                           |![rs]
@@ -1556,6 +1557,7 @@
 [73]:Problemset/0073-Set%20Matrix%20Zeroes/README_CN.md#73-矩阵置零
 [74]:Problemset/0074-Search%20a%202D%20Matrix/README_CN.md#74-搜索二维矩阵
 [75]:Problemset/0075-Sort%20Colors/README_CN.md#75-颜色分类
+[76]:Problemset/0076-Minimum%20Window%20Substring/README_CN.md#76-最小覆盖子串
 [77]:Problemset/0077-Combinations/README_CN.md#77-组合
 [78]:Problemset/0078-Subsets/README_CN.md#78-子集
 [80]:Problemset/0080-Remove%20Duplicates%20from%20Sorted%20Array%20II/README_CN.md#80-删除排序数组中的重复项-ii
@@ -3039,6 +3041,7 @@
 [73l]:https://leetcode.cn/problems/set-matrix-zeroes/
 [74l]:https://leetcode.cn/problems/search-a-2d-matrix/
 [75l]:https://leetcode.cn/problems/sort-colors/
+[76l]:https://leetcode.cn/problems/minimum-window-substring/
 [77l]:https://leetcode.cn/problems/combinations/
 [78l]:https://leetcode.cn/problems/subsets/
 [80l]:https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/

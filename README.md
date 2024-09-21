@@ -66,6 +66,7 @@
 [73][73l]    |[Set Matrix Zeroes][73]                                                               |![rs]
 [74][74l]    |[Search a 2D Matrix][74]                                                              |![rs]
 [75][75l]    |[Sort Colors][75]                                                                     |![rs]
+[76][76l]    |[Minimum Window Substring][76]                                                        |![rs]
 [77][77l]    |[Combinations][77]                                                                    |![py]
 [78][78l]    |[Subsets][78]                                                                         |![rs]
 [80][80l]    |[Remove Duplicates from Sorted Array II][80]                                          |![rs]
@@ -1556,6 +1557,7 @@
 [73]:Problemset/0073-Set%20Matrix%20Zeroes/README.md#73-set-matrix-zeroes
 [74]:Problemset/0074-Search%20a%202D%20Matrix/README.md#74-search-a-2d-matrix
 [75]:Problemset/0075-Sort%20Colors/README.md#75-sort-colors
+[76]:Problemset/0076-Minimum%20Window%20Substring/README.md#76-minimum-window-substring
 [77]:Problemset/0077-Combinations/README.md#77-combinations
 [78]:Problemset/0078-Subsets/README.md#78-subsets
 [80]:Problemset/0080-Remove%20Duplicates%20from%20Sorted%20Array%20II/README.md#80-remove-duplicates-from-sorted-array-ii
@@ -3039,6 +3041,7 @@
 [73l]:https://leetcode.com/problems/set-matrix-zeroes/
 [74l]:https://leetcode.com/problems/search-a-2d-matrix/
 [75l]:https://leetcode.com/problems/sort-colors/
+[76l]:https://leetcode.com/problems/minimum-window-substring/
 [77l]:https://leetcode.com/problems/combinations/
 [78l]:https://leetcode.com/problems/subsets/
 [80l]:https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
