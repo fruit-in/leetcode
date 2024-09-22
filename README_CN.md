@@ -1141,6 +1141,7 @@
 [1901][1901l]|[寻找峰值 II][1901]                                       |![rs]
 [1903][1903l]|[字符串中的最大奇数][1903]                                |![rs]
 [1904][1904l]|[你完成的完整对局数][1904]                                |![py]
+[1905][1905l]|[统计子岛屿][1905]                                        |![rs]
 [1909][1909l]|[删除一个元素使数组严格递增][1909]                        |![rs]
 [1913][1913l]|[两个数对之间的最大乘积差][1913]                          |![rs]
 [1920][1920l]|[基于排列构建数组][1920]                                  |![rs]
@@ -2632,6 +2633,7 @@
 [1901]:Problemset/1901-Find%20a%20Peak%20Element%20II/README_CN.md#1901-寻找峰值-ii
 [1903]:Problemset/1903-Largest%20Odd%20Number%20in%20String/README_CN.md#1903-字符串中的最大奇数
 [1904]:Problemset/1904-The%20Number%20of%20Full%20Rounds%20You%20Have%20Played/README_CN.md#1904-你完成的完整对局数
+[1905]:Problemset/1905-Count%20Sub%20Islands/README_CN.md#1905-统计子岛屿
 [1909]:Problemset/1909-Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing/README_CN.md#1909-删除一个元素使数组严格递增
 [1913]:Problemset/1913-Maximum%20Product%20Difference%20Between%20Two%20Pairs/README_CN.md#1913-两个数对之间的最大乘积差
 [1920]:Problemset/1920-Build%20Array%20from%20Permutation/README_CN.md#1920-基于排列构建数组
@@ -4122,6 +4124,7 @@
 [1901l]:https://leetcode.cn/problems/find-a-peak-element-ii/
 [1903l]:https://leetcode.cn/problems/largest-odd-number-in-string/
 [1904l]:https://leetcode.cn/problems/the-number-of-full-rounds-you-have-played/
+[1905l]:https://leetcode.cn/problems/count-sub-islands/
 [1909l]:https://leetcode.cn/problems/remove-one-element-to-make-the-array-strictly-increasing/
 [1913l]:https://leetcode.cn/problems/maximum-product-difference-between-two-pairs/
 [1920l]:https://leetcode.cn/problems/build-array-from-permutation/
