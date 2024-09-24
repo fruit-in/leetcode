@@ -1212,6 +1212,7 @@
 [2059][2059l]|[转化数字的最小运算数][2059]                              |![rs]
 [2062][2062l]|[统计字符串中的元音子字符串][2062]                        |![py]
 [2063][2063l]|[所有子字符串中的元音][2063]                              |![rs]
+[2064][2064l]|[分配给商店的最多商品的最小值][2064]                      |![rs]
 [2068][2068l]|[检查两个字符串是否几乎相等][2068]                        |![rs]
 [2069][2069l]|[模拟行走机器人 II][2069]                                 |![py]
 [2070][2070l]|[每一个查询的最大美丽值][2070]                            |![rs]
@@ -2705,6 +2706,7 @@
 [2059]:Problemset/2059-Minimum%20Operations%20to%20Convert%20Number/README_CN.md#2059-转化数字的最小运算数
 [2062]:Problemset/2062-Count%20Vowel%20Substrings%20of%20a%20String/README_CN.md#2062-统计字符串中的元音子字符串
 [2063]:Problemset/2063-Vowels%20of%20All%20Substrings/README_CN.md#2063-所有子字符串中的元音
+[2064]:Problemset/2064-Minimized%20Maximum%20of%20Products%20Distributed%20to%20Any%20Store/README_CN.md#2064-分配给商店的最多商品的最小值
 [2068]:Problemset/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README_CN.md#2068-检查两个字符串是否几乎相等
 [2069]:Problemset/2069-Walking%20Robot%20Simulation%20II/README_CN.md#2069-模拟行走机器人-ii
 [2070]:Problemset/2070-Most%20Beautiful%20Item%20for%20Each%20Query/README_CN.md#2070-每一个查询的最大美丽值
@@ -4197,6 +4199,7 @@
 [2059l]:https://leetcode.cn/problems/minimum-operations-to-convert-number/
 [2062l]:https://leetcode.cn/problems/count-vowel-substrings-of-a-string/
 [2063l]:https://leetcode.cn/problems/vowels-of-all-substrings/
+[2064l]:https://leetcode.cn/problems/minimized-maximum-of-products-distributed-to-any-store/
 [2068l]:https://leetcode.cn/problems/check-whether-two-strings-are-almost-equivalent/
 [2069l]:https://leetcode.cn/problems/walking-robot-simulation-ii/
 [2070l]:https://leetcode.cn/problems/most-beautiful-item-for-each-query/

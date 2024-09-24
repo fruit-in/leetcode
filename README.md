@@ -1212,6 +1212,7 @@
 [2059][2059l]|[Minimum Operations to Convert Number][2059]                                          |![rs]
 [2062][2062l]|[Count Vowel Substrings of a String][2062]                                            |![py]
 [2063][2063l]|[Vowels of All Substrings][2063]                                                      |![rs]
+[2064][2064l]|[Minimized Maximum of Products Distributed to Any Store][2064]                        |![rs]
 [2068][2068l]|[Check Whether Two Strings are Almost Equivalent][2068]                               |![rs]
 [2069][2069l]|[Walking Robot Simulation II][2069]                                                   |![py]
 [2070][2070l]|[Most Beautiful Item for Each Query][2070]                                            |![rs]
@@ -2705,6 +2706,7 @@
 [2059]:Problemset/2059-Minimum%20Operations%20to%20Convert%20Number/README.md#2059-minimum-operations-to-convert-number
 [2062]:Problemset/2062-Count%20Vowel%20Substrings%20of%20a%20String/README.md#2062-count-vowel-substrings-of-a-string
 [2063]:Problemset/2063-Vowels%20of%20All%20Substrings/README.md#2063-vowels-of-all-substrings
+[2064]:Problemset/2064-Minimized%20Maximum%20of%20Products%20Distributed%20to%20Any%20Store/README.md#2064-minimized-maximum-of-products-distributed-to-any-store
 [2068]:Problemset/2068-Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/README.md#2068-check-whether-two-strings-are-almost-equivalent
 [2069]:Problemset/2069-Walking%20Robot%20Simulation%20II/README.md#2069-walking-robot-simulation-ii
 [2070]:Problemset/2070-Most%20Beautiful%20Item%20for%20Each%20Query/README.md#2070-most-beautiful-item-for-each-query
@@ -4197,6 +4199,7 @@
 [2059l]:https://leetcode.com/problems/minimum-operations-to-convert-number/
 [2062l]:https://leetcode.com/problems/count-vowel-substrings-of-a-string/
 [2063l]:https://leetcode.com/problems/vowels-of-all-substrings/
+[2064l]:https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/
 [2068l]:https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
 [2069l]:https://leetcode.com/problems/walking-robot-simulation-ii/
 [2070l]:https://leetcode.com/problems/most-beautiful-item-for-each-query/
