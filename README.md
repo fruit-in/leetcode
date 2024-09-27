@@ -1206,6 +1206,7 @@
 [2044][2044l]|[Count Number of Maximum Bitwise-OR Subsets][2044]                                    |![rs]
 [2047][2047l]|[Number of Valid Words in a Sentence][2047]                                           |![py]
 [2048][2048l]|[Next Greater Numerically Balanced Number][2048]                                      |![rs]
+[2049][2049l]|[Count Nodes With the Highest Score][2049]                                            |![rs]
 [2053][2053l]|[Kth Distinct String in an Array][2053]                                               |![py]
 [2054][2054l]|[Two Best Non-Overlapping Events][2054]                                               |![rs]
 [2055][2055l]|[Plates Between Candles][2055]                                                        |![rs]
@@ -2702,6 +2703,7 @@
 [2044]:Problemset/2044-Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/README.md#2044-count-number-of-maximum-bitwise-or-subsets
 [2047]:Problemset/2047-Number%20of%20Valid%20Words%20in%20a%20Sentence/README.md#2047-number-of-valid-words-in-a-sentence
 [2048]:Problemset/2048-Next%20Greater%20Numerically%20Balanced%20Number/README.md#2048-next-greater-numerically-balanced-number
+[2049]:Problemset/2049-Count%20Nodes%20With%20the%20Highest%20Score/README.md#2049-count-nodes-with-the-highest-score
 [2053]:Problemset/2053-Kth%20Distinct%20String%20in%20an%20Array/README.md#2053-kth-distinct-string-in-an-array
 [2054]:Problemset/2054-Two%20Best%20Non-Overlapping%20Events/README.md#2054-two-best-non-overlapping-events
 [2055]:Problemset/2055-Plates%20Between%20Candles/README.md#2055-plates-between-candles
@@ -4197,6 +4199,7 @@
 [2044l]:https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/
 [2047l]:https://leetcode.com/problems/number-of-valid-words-in-a-sentence/
 [2048l]:https://leetcode.com/problems/next-greater-numerically-balanced-number/
+[2049l]:https://leetcode.com/problems/count-nodes-with-the-highest-score/
 [2053l]:https://leetcode.com/problems/kth-distinct-string-in-an-array/
 [2054l]:https://leetcode.com/problems/two-best-non-overlapping-events/
 [2055l]:https://leetcode.com/problems/plates-between-candles/

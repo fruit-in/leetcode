@@ -1206,6 +1206,7 @@
 [2044][2044l]|[统计按位或能得到最大值的子集数目][2044]                  |![rs]
 [2047][2047l]|[句子中的有效单词数][2047]                                |![py]
 [2048][2048l]|[下一个更大的数值平衡数][2048]                            |![rs]
+[2049][2049l]|[统计最高分的节点数目][2049]                              |![rs]
 [2053][2053l]|[数组中第 K 个独一无二的字符串][2053]                     |![py]
 [2054][2054l]|[两个最好的不重叠活动][2054]                              |![rs]
 [2055][2055l]|[蜡烛之间的盘子][2055]                                    |![rs]
@@ -2702,6 +2703,7 @@
 [2044]:Problemset/2044-Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/README_CN.md#2044-统计按位或能得到最大值的子集数目
 [2047]:Problemset/2047-Number%20of%20Valid%20Words%20in%20a%20Sentence/README_CN.md#2047-句子中的有效单词数
 [2048]:Problemset/2048-Next%20Greater%20Numerically%20Balanced%20Number/README_CN.md#2048-下一个更大的数值平衡数
+[2049]:Problemset/2049-Count%20Nodes%20With%20the%20Highest%20Score/README_CN.md#2049-统计最高分的节点数目
 [2053]:Problemset/2053-Kth%20Distinct%20String%20in%20an%20Array/README_CN.md#2053-数组中第-k-个独一无二的字符串
 [2054]:Problemset/2054-Two%20Best%20Non-Overlapping%20Events/README_CN.md#2054-两个最好的不重叠活动
 [2055]:Problemset/2055-Plates%20Between%20Candles/README_CN.md#2055-蜡烛之间的盘子
@@ -4197,6 +4199,7 @@
 [2044l]:https://leetcode.cn/problems/count-number-of-maximum-bitwise-or-subsets/
 [2047l]:https://leetcode.cn/problems/number-of-valid-words-in-a-sentence/
 [2048l]:https://leetcode.cn/problems/next-greater-numerically-balanced-number/
+[2049l]:https://leetcode.cn/problems/count-nodes-with-the-highest-score/
 [2053l]:https://leetcode.cn/problems/kth-distinct-string-in-an-array/
 [2054l]:https://leetcode.cn/problems/two-best-non-overlapping-events/
 [2055l]:https://leetcode.cn/problems/plates-between-candles/
