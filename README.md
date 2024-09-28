@@ -619,6 +619,7 @@
 [958][958l]  |[Check Completeness of a Binary Tree][958]                                            |![py]
 [961][961l]  |[N-Repeated Element in Size 2N Array][961]                                            |![rs]
 [962][962l]  |[Maximum Width Ramp][962]                                                             |![rs]
+[963][963l]  |[Minimum Area Rectangle II][963]                                                      |![rs]
 [965][965l]  |[Univalued Binary Tree][965]                                                          |![py]
 [966][966l]  |[Vowel Spellchecker][966]                                                             |![py]
 [967][967l]  |[Numbers With Same Consecutive Differences][967]                                      |![rb]&nbsp;&nbsp;![rs]
@@ -2116,6 +2117,7 @@
 [958]:Problemset/0958-Check%20Completeness%20of%20a%20Binary%20Tree/README.md#958-check-completeness-of-a-binary-tree
 [961]:Problemset/0961-N-Repeated%20Element%20in%20Size%202N%20Array/README.md#961-n-repeated-element-in-size-2n-array
 [962]:Problemset/0962-Maximum%20Width%20Ramp/README.md#962-maximum-width-ramp
+[963]:Problemset/0963-Minimum%20Area%20Rectangle%20II/README.md#963-minimum-area-rectangle-ii
 [965]:Problemset/0965-Univalued%20Binary%20Tree/README.md#965-univalued-binary-tree
 [966]:Problemset/0966-Vowel%20Spellchecker/README.md#966-vowel-spellchecker
 [967]:Problemset/0967-Numbers%20With%20Same%20Consecutive%20Differences/README.md#967-numbers-with-same-consecutive-differences
@@ -3612,6 +3614,7 @@
 [958l]:https://leetcode.com/problems/check-completeness-of-a-binary-tree/
 [961l]:https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 [962l]:https://leetcode.com/problems/maximum-width-ramp/
+[963l]:https://leetcode.com/problems/minimum-area-rectangle-ii/
 [965l]:https://leetcode.com/problems/univalued-binary-tree/
 [966l]:https://leetcode.com/problems/vowel-spellchecker/
 [967l]:https://leetcode.com/problems/numbers-with-same-consecutive-differences/

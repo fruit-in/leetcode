@@ -619,6 +619,7 @@
 [958][958l]  |[二叉树的完全性检验][958]                                 |![py]
 [961][961l]  |[重复 N 次的元素][961]                                    |![rs]
 [962][962l]  |[最大宽度坡][962]                                         |![rs]
+[963][963l]  |[最小面积矩形 II][963]                                    |![rs]
 [965][965l]  |[单值二叉树][965]                                         |![py]
 [966][966l]  |[元音拼写检查器][966]                                     |![py]
 [967][967l]  |[连续差相同的数字][967]                                   |![rb]&nbsp;&nbsp;![rs]
@@ -2116,6 +2117,7 @@
 [958]:Problemset/0958-Check%20Completeness%20of%20a%20Binary%20Tree/README_CN.md#958-二叉树的完全性检验
 [961]:Problemset/0961-N-Repeated%20Element%20in%20Size%202N%20Array/README_CN.md#961-重复-n-次的元素
 [962]:Problemset/0962-Maximum%20Width%20Ramp/README_CN.md#962-最大宽度坡
+[963]:Problemset/0963-Minimum%20Area%20Rectangle%20II/README_CN.md#963-最小面积矩形-ii
 [965]:Problemset/0965-Univalued%20Binary%20Tree/README_CN.md#965-单值二叉树
 [966]:Problemset/0966-Vowel%20Spellchecker/README_CN.md#966-元音拼写检查器
 [967]:Problemset/0967-Numbers%20With%20Same%20Consecutive%20Differences/README_CN.md#967-连续差相同的数字
@@ -3612,6 +3614,7 @@
 [958l]:https://leetcode.cn/problems/check-completeness-of-a-binary-tree/
 [961l]:https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/
 [962l]:https://leetcode.cn/problems/maximum-width-ramp/
+[963l]:https://leetcode.cn/problems/minimum-area-rectangle-ii/
 [965l]:https://leetcode.cn/problems/univalued-binary-tree/
 [966l]:https://leetcode.cn/problems/vowel-spellchecker/
 [967l]:https://leetcode.cn/problems/numbers-with-same-consecutive-differences/
