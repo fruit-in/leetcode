@@ -1067,6 +1067,7 @@
 [1758][1758l]|[生成交替二进制字符串的最少操作数][1758]                  |![rb]&nbsp;&nbsp;![rs]
 [1759][1759l]|[统计同质子字符串的数目][1759]                            |![rs]
 [1760][1760l]|[袋子里最少数目的球][1760]                                |![rs]
+[1761][1761l]|[一个图中连通三元组的最小度数][1761]                      |![rs]
 [1763][1763l]|[最长的美好子字符串][1763]                                |![rb]&nbsp;&nbsp;![rs]
 [1764][1764l]|[通过连接另一个数组的子数组得到一个数组][1764]            |![rs]
 [1765][1765l]|[地图中的最高点][1765]                                    |![rs]
@@ -2566,6 +2567,7 @@
 [1758]:Problemset/1758-Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/README_CN.md#1758-生成交替二进制字符串的最少操作数
 [1759]:Problemset/1759-Count%20Number%20of%20Homogenous%20Substrings/README_CN.md#1759-统计同质子字符串的数目
 [1760]:Problemset/1760-Minimum%20Limit%20of%20Balls%20in%20a%20Bag/README_CN.md#1760-袋子里最少数目的球
+[1761]:Problemset/1761-Minimum%20Degree%20of%20a%20Connected%20Trio%20in%20a%20Graph/README_CN.md#1761-一个图中连通三元组的最小度数
 [1763]:Problemset/1763-Longest%20Nice%20Substring/README_CN.md#1763-最长的美好子字符串
 [1764]:Problemset/1764-Form%20Array%20by%20Concatenating%20Subarrays%20of%20Another%20Array/README_CN.md#1764-通过连接另一个数组的子数组得到一个数组
 [1765]:Problemset/1765-Map%20of%20Highest%20Peak/README_CN.md#1765-地图中的最高点
@@ -4064,6 +4066,7 @@
 [1758l]:https://leetcode.cn/problems/minimum-changes-to-make-alternating-binary-string/
 [1759l]:https://leetcode.cn/problems/count-number-of-homogenous-substrings/
 [1760l]:https://leetcode.cn/problems/minimum-limit-of-balls-in-a-bag/
+[1761l]:https://leetcode.cn/problems/minimum-degree-of-a-connected-trio-in-a-graph/
 [1763l]:https://leetcode.cn/problems/longest-nice-substring/
 [1764l]:https://leetcode.cn/problems/form-array-by-concatenating-subarrays-of-another-array/
 [1765l]:https://leetcode.cn/problems/map-of-highest-peak/

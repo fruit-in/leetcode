@@ -1067,6 +1067,7 @@
 [1758][1758l]|[Minimum Changes To Make Alternating Binary String][1758]                             |![rb]&nbsp;&nbsp;![rs]
 [1759][1759l]|[Count Number of Homogenous Substrings][1759]                                         |![rs]
 [1760][1760l]|[Minimum Limit of Balls in a Bag][1760]                                               |![rs]
+[1761][1761l]|[Minimum Degree of a Connected Trio in a Graph][1761]                                 |![rs]
 [1763][1763l]|[Longest Nice Substring][1763]                                                        |![rb]&nbsp;&nbsp;![rs]
 [1764][1764l]|[Form Array by Concatenating Subarrays of Another Array][1764]                        |![rs]
 [1765][1765l]|[Map of Highest Peak][1765]                                                           |![rs]
@@ -2566,6 +2567,7 @@
 [1758]:Problemset/1758-Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/README.md#1758-minimum-changes-to-make-alternating-binary-string
 [1759]:Problemset/1759-Count%20Number%20of%20Homogenous%20Substrings/README.md#1759-count-number-of-homogenous-substrings
 [1760]:Problemset/1760-Minimum%20Limit%20of%20Balls%20in%20a%20Bag/README.md#1760-minimum-limit-of-balls-in-a-bag
+[1761]:Problemset/1761-Minimum%20Degree%20of%20a%20Connected%20Trio%20in%20a%20Graph/README.md#1761-minimum-degree-of-a-connected-trio-in-a-graph
 [1763]:Problemset/1763-Longest%20Nice%20Substring/README.md#1763-longest-nice-substring
 [1764]:Problemset/1764-Form%20Array%20by%20Concatenating%20Subarrays%20of%20Another%20Array/README.md#1764-form-array-by-concatenating-subarrays-of-another-array
 [1765]:Problemset/1765-Map%20of%20Highest%20Peak/README.md#1765-map-of-highest-peak
@@ -4064,6 +4066,7 @@
 [1758l]:https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
 [1759l]:https://leetcode.com/problems/count-number-of-homogenous-substrings/
 [1760l]:https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
+[1761l]:https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/
 [1763l]:https://leetcode.com/problems/longest-nice-substring/
 [1764l]:https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/
 [1765l]:https://leetcode.com/problems/map-of-highest-peak/
