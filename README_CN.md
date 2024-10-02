@@ -495,6 +495,7 @@
 [792][792l]  |[匹配子序列的单词数][792]                                 |![rs]
 [794][794l]  |[有效的井字游戏][794]                                     |![rs]
 [796][796l]  |[旋转字符串][796]                                         |![rs]
+[797][797l]  |[所有可能的路径][797]                                     |![py]
 [798][798l]  |[得分最高的最小轮调][798]                                 |![rs]
 [799][799l]  |[香槟塔][799]                                             |![rs]
 [804][804l]  |[唯一摩尔斯密码词][804]                                   |![py]
@@ -1995,6 +1996,7 @@
 [792]:Problemset/0792-Number%20of%20Matching%20Subsequences/README_CN.md#792-匹配子序列的单词数
 [794]:Problemset/0794-Valid%20Tic-Tac-Toe%20State/README_CN.md#794-有效的井字游戏
 [796]:Problemset/0796-Rotate%20String/README_CN.md#796-旋转字符串
+[797]:Problemset/0797-All%20Paths%20From%20Source%20to%20Target/README_CN.md#797-所有可能的路径
 [798]:Problemset/0798-Smallest%20Rotation%20with%20Highest%20Score/README_CN.md#798-得分最高的最小轮调
 [799]:Problemset/0799-Champagne%20Tower/README_CN.md#799-香槟塔
 [804]:Problemset/0804-Unique%20Morse%20Code%20Words/README_CN.md#804-唯一摩尔斯密码词
@@ -3494,6 +3496,7 @@
 [792l]:https://leetcode.cn/problems/number-of-matching-subsequences/
 [794l]:https://leetcode.cn/problems/valid-tic-tac-toe-state/
 [796l]:https://leetcode.cn/problems/rotate-string/
+[797l]:https://leetcode.cn/problems/all-paths-from-source-to-target/
 [798l]:https://leetcode.cn/problems/smallest-rotation-with-highest-score/
 [799l]:https://leetcode.cn/problems/champagne-tower/
 [804l]:https://leetcode.cn/problems/unique-morse-code-words/

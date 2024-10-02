@@ -495,6 +495,7 @@
 [792][792l]  |[Number of Matching Subsequences][792]                                                |![rs]
 [794][794l]  |[Valid Tic-Tac-Toe State][794]                                                        |![rs]
 [796][796l]  |[Rotate String][796]                                                                  |![rs]
+[797][797l]  |[All Paths From Source to Target][797]                                                |![py]
 [798][798l]  |[Smallest Rotation with Highest Score][798]                                           |![rs]
 [799][799l]  |[Champagne Tower][799]                                                                |![rs]
 [804][804l]  |[Unique Morse Code Words][804]                                                        |![py]
@@ -1995,6 +1996,7 @@
 [792]:Problemset/0792-Number%20of%20Matching%20Subsequences/README.md#792-number-of-matching-subsequences
 [794]:Problemset/0794-Valid%20Tic-Tac-Toe%20State/README.md#794-valid-tic-tac-toe-state
 [796]:Problemset/0796-Rotate%20String/README.md#796-rotate-string
+[797]:Problemset/0797-All%20Paths%20From%20Source%20to%20Target/README.md#797-all-paths-from-source-to-target
 [798]:Problemset/0798-Smallest%20Rotation%20with%20Highest%20Score/README.md#798-smallest-rotation-with-highest-score
 [799]:Problemset/0799-Champagne%20Tower/README.md#799-champagne-tower
 [804]:Problemset/0804-Unique%20Morse%20Code%20Words/README.md#804-unique-morse-code-words
@@ -3494,6 +3496,7 @@
 [792l]:https://leetcode.com/problems/number-of-matching-subsequences/
 [794l]:https://leetcode.com/problems/valid-tic-tac-toe-state/
 [796l]:https://leetcode.com/problems/rotate-string/
+[797l]:https://leetcode.com/problems/all-paths-from-source-to-target/
 [798l]:https://leetcode.com/problems/smallest-rotation-with-highest-score/
 [799l]:https://leetcode.com/problems/champagne-tower/
 [804l]:https://leetcode.com/problems/unique-morse-code-words/
