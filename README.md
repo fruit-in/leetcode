@@ -1,4 +1,4 @@
-[中文](./README_CN.md)
+[中文](./readme_cn.md)
 
 ## Problems
 |#           |Title                                                                                 |Languages
@@ -211,6 +211,7 @@
 [304][304l]  |[Range Sum Query 2D - Immutable][304]                                                 |![rs]
 [306][306l]  |[Additive Number][306]                                                                |![rb]&nbsp;&nbsp;![rs]
 [309][309l]  |[Best Time to Buy and Sell Stock with Cooldown][309]                                  |![rs]
+[312][312l]  |[Burst Balloons][312]                                                                 |![py]
 [313][313l]  |[Super Ugly Number][313]                                                              |![rs]
 [315][315l]  |[Count of Smaller Numbers After Self][315]                                            |![py]
 [316][316l]  |[Remove Duplicate Letters][316]                                                       |![rs]
@@ -1712,6 +1713,7 @@
 [304]:Problemset/0304-Range%20Sum%20Query%202D%20-%20Immutable/README.md#304-range-sum-query-2d---immutable
 [306]:Problemset/0306-Additive%20Number/README.md#306-additive-number
 [309]:Problemset/0309-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown/README.md#309-best-time-to-buy-and-sell-stock-with-cooldown
+[312]:Problemset/0312-Burst%20Balloons/README.md#312-burst-balloons
 [313]:Problemset/0313-Super%20Ugly%20Number/README.md#313-super-ugly-number
 [315]:Problemset/0315-Count%20of%20Smaller%20Numbers%20After%20Self/README.md#315-count-of-smaller-numbers-after-self
 [316]:Problemset/0316-Remove%20Duplicate%20Letters/README.md#316-remove-duplicate-letters
@@ -3209,6 +3211,7 @@
 [304l]:https://leetcode.com/problems/range-sum-query-2d-immutable/
 [306l]:https://leetcode.com/problems/additive-number/
 [309l]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+[312l]:https://leetcode.com/problems/burst-balloons/
 [313l]:https://leetcode.com/problems/super-ugly-number/
 [315l]:https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 [316l]:https://leetcode.com/problems/remove-duplicate-letters/
