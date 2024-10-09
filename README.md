@@ -1197,6 +1197,7 @@
 [2011][2011l]|[Final Value of Variable After Performing Operations][2011]                           |![py]&nbsp;&nbsp;![rs]
 [2013][2013l]|[Detect Squares][2013]                                                                |![rs]
 [2016][2016l]|[Maximum Difference Between Increasing Elements][2016]                                |![rs]
+[2017][2017l]|[Grid Game][2017]                                                                     |![rs]
 [2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
 [2023][2023l]|[Number of Pairs of Strings With Concatenation Equal to Target][2023]                 |![py]
 [2024][2024l]|[Maximize the Confusion of an Exam][2024]                                             |![rs]
@@ -2700,6 +2701,7 @@
 [2011]:Problemset/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README.md#2011-final-value-of-variable-after-performing-operations
 [2013]:Problemset/2013-Detect%20Squares/README.md#2013-detect-squares
 [2016]:Problemset/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README.md#2016-maximum-difference-between-increasing-elements
+[2017]:Problemset/2017-Grid%20Game/README.md#2017-grid-game
 [2022]:Problemset/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
 [2023]:Problemset/2023-Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/README.md#2023-number-of-pairs-of-strings-with-concatenation-equal-to-target
 [2024]:Problemset/2024-Maximize%20the%20Confusion%20of%20an%20Exam/README.md#2024-maximize-the-confusion-of-an-exam
@@ -4202,6 +4204,7 @@
 [2011l]:https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2013l]:https://leetcode.com/problems/detect-squares/
 [2016l]:https://leetcode.com/problems/maximum-difference-between-increasing-elements/
+[2017l]:https://leetcode.com/problems/grid-game/
 [2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
 [2023l]:https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 [2024l]:https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
