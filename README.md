@@ -1434,6 +1434,7 @@
 [2433][2433l]|[Find The Original Array of Prefix Xor][2433]                                         |![rs]
 [2434][2434l]|[Using a Robot to Print the Lexicographically Smallest String][2434]                  |![rs]
 [2437][2437l]|[Number of Valid Clock Times][2437]                                                   |![py]
+[2439][2439l]|[Minimize Maximum of Array][2439]                                                     |![rs]
 [2441][2441l]|[Largest Positive Integer That Exists With Its Negative][2441]                        |![rs]
 [2442][2442l]|[Count Number of Distinct Integers After Reverse Operations][2442]                    |![py]
 [2443][2443l]|[Sum of Number and Its Reverse][2443]                                                 |![py]
@@ -2939,6 +2940,7 @@
 [2433]:Problemset/2433-Find%20The%20Original%20Array%20of%20Prefix%20Xor/README.md#2433-find-the-original-array-of-prefix-xor
 [2434]:Problemset/2434-Using%20a%20Robot%20to%20Print%20the%20Lexicographically%20Smallest%20String/README.md#2434-using-a-robot-to-print-the-lexicographically-smallest-string
 [2437]:Problemset/2437-Number%20of%20Valid%20Clock%20Times/README.md#2437-number-of-valid-clock-times
+[2439]:Problemset/2439-Minimize%20Maximum%20of%20Array/README.md#2439-minimize-maximum-of-array
 [2441]:Problemset/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README.md#2441-largest-positive-integer-that-exists-with-its-negative
 [2442]:Problemset/2442-Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations/README.md#2442-count-number-of-distinct-integers-after-reverse-operations
 [2443]:Problemset/2443-Sum%20of%20Number%20and%20Its%20Reverse/README.md#2443-sum-of-number-and-its-reverse
@@ -4443,6 +4445,7 @@
 [2433l]:https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
 [2434l]:https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/
 [2437l]:https://leetcode.com/problems/number-of-valid-clock-times/
+[2439l]:https://leetcode.com/problems/minimize-maximum-of-array/
 [2441l]:https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
 [2442l]:https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/
 [2443l]:https://leetcode.com/problems/sum-of-number-and-its-reverse/
