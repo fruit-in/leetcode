@@ -1440,6 +1440,7 @@
 [2443][2443l]|[反转之后的数字和][2443]                                  |![py]
 [2446][2446l]|[判断两个事件是否存在冲突][2446]                          |![py]
 [2451][2451l]|[差值数组不同的字符串][2451]                              |![py]
+[2452][2452l]|[距离字典两次编辑以内的单词][2452]                        |![rs]
 [2453][2453l]|[摧毁一系列目标][2453]                                    |![rs]
 [2455][2455l]|[可被三整除的偶数的平均值][2455]                          |![rs]
 [2457][2457l]|[美丽整数的最小增量][2457]                                |![py]
@@ -2946,6 +2947,7 @@
 [2443]:Problemset/2443-Sum%20of%20Number%20and%20Its%20Reverse/README_CN.md#2443-反转之后的数字和
 [2446]:Problemset/2446-Determine%20if%20Two%20Events%20Have%20Conflict/README_CN.md#2446-判断两个事件是否存在冲突
 [2451]:Problemset/2451-Odd%20String%20Difference/README_CN.md#2451-差值数组不同的字符串
+[2452]:Problemset/2452-Words%20Within%20Two%20Edits%20of%20Dictionary/README_CN.md#2452-距离字典两次编辑以内的单词
 [2453]:Problemset/2453-Destroy%20Sequential%20Targets/README_CN.md#2453-摧毁一系列目标
 [2455]:Problemset/2455-Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three/README_CN.md#2455-可被三整除的偶数的平均值
 [2457]:Problemset/2457-Minimum%20Addition%20to%20Make%20Integer%20Beautiful/README_CN.md#2457-美丽整数的最小增量
@@ -4451,6 +4453,7 @@
 [2443l]:https://leetcode.cn/problems/sum-of-number-and-its-reverse/
 [2446l]:https://leetcode.cn/problems/determine-if-two-events-have-conflict/
 [2451l]:https://leetcode.cn/problems/odd-string-difference/
+[2452l]:https://leetcode.cn/problems/words-within-two-edits-of-dictionary/
 [2453l]:https://leetcode.cn/problems/destroy-sequential-targets/
 [2455l]:https://leetcode.cn/problems/average-value-of-even-numbers-that-are-divisible-by-three/
 [2457l]:https://leetcode.cn/problems/minimum-addition-to-make-integer-beautiful/

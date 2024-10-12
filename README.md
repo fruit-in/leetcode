@@ -1440,6 +1440,7 @@
 [2443][2443l]|[Sum of Number and Its Reverse][2443]                                                 |![py]
 [2446][2446l]|[Determine if Two Events Have Conflict][2446]                                         |![py]
 [2451][2451l]|[Odd String Difference][2451]                                                         |![py]
+[2452][2452l]|[Words Within Two Edits of Dictionary][2452]                                          |![rs]
 [2453][2453l]|[Destroy Sequential Targets][2453]                                                    |![rs]
 [2455][2455l]|[Average Value of Even Numbers That Are Divisible by Three][2455]                     |![rs]
 [2457][2457l]|[Minimum Addition to Make Integer Beautiful][2457]                                    |![py]
@@ -2946,6 +2947,7 @@
 [2443]:Problemset/2443-Sum%20of%20Number%20and%20Its%20Reverse/README.md#2443-sum-of-number-and-its-reverse
 [2446]:Problemset/2446-Determine%20if%20Two%20Events%20Have%20Conflict/README.md#2446-determine-if-two-events-have-conflict
 [2451]:Problemset/2451-Odd%20String%20Difference/README.md#2451-odd-string-difference
+[2452]:Problemset/2452-Words%20Within%20Two%20Edits%20of%20Dictionary/README.md#2452-words-within-two-edits-of-dictionary
 [2453]:Problemset/2453-Destroy%20Sequential%20Targets/README.md#2453-destroy-sequential-targets
 [2455]:Problemset/2455-Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three/README.md#2455-average-value-of-even-numbers-that-are-divisible-by-three
 [2457]:Problemset/2457-Minimum%20Addition%20to%20Make%20Integer%20Beautiful/README.md#2457-minimum-addition-to-make-integer-beautiful
@@ -4451,6 +4453,7 @@
 [2443l]:https://leetcode.com/problems/sum-of-number-and-its-reverse/
 [2446l]:https://leetcode.com/problems/determine-if-two-events-have-conflict/
 [2451l]:https://leetcode.com/problems/odd-string-difference/
+[2452l]:https://leetcode.com/problems/words-within-two-edits-of-dictionary/
 [2453l]:https://leetcode.com/problems/destroy-sequential-targets/
 [2455l]:https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/
 [2457l]:https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/
