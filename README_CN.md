@@ -1452,6 +1452,7 @@
 [2482][2482l]|[行和列中一和零的差值][2482]                              |![rs]
 [2483][2483l]|[商店的最少代价][2483]                                    |![rs]
 [2485][2485l]|[找出中枢整数][2485]                                      |![rs]
+[2488][2488l]|[统计中位数为 K 的子数组][2488]                           |![rs]
 [2490][2490l]|[回环句][2490]                                            |![py]
 [2491][2491l]|[划分技能点相等的团队][2491]                              |![rs]
 [2496][2496l]|[数组中字符串的最大值][2496]                              |![rs]
@@ -2959,6 +2960,7 @@
 [2482]:Problemset/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README_CN.md#2482-行和列中一和零的差值
 [2483]:Problemset/2483-Minimum%20Penalty%20for%20a%20Shop/README_CN.md#2483-商店的最少代价
 [2485]:Problemset/2485-Find%20the%20Pivot%20Integer/README_CN.md#2485-找出中枢整数
+[2488]:Problemset/2488-Count%20Subarrays%20With%20Median%20K/README_CN.md#2488-统计中位数为-k-的子数组
 [2490]:Problemset/2490-Circular%20Sentence/README_CN.md#2490-回环句
 [2491]:Problemset/2491-Divide%20Players%20Into%20Teams%20of%20Equal%20Skill/README_CN.md#2491-划分技能点相等的团队
 [2496]:Problemset/2496-Maximum%20Value%20of%20a%20String%20in%20an%20Array/README_CN.md#2496-数组中字符串的最大值
@@ -4465,6 +4467,7 @@
 [2482l]:https://leetcode.cn/problems/difference-between-ones-and-zeros-in-row-and-column/
 [2483l]:https://leetcode.cn/problems/minimum-penalty-for-a-shop/
 [2485l]:https://leetcode.cn/problems/find-the-pivot-integer/
+[2488l]:https://leetcode.cn/problems/count-subarrays-with-median-k/
 [2490l]:https://leetcode.cn/problems/circular-sentence/
 [2491l]:https://leetcode.cn/problems/divide-players-into-teams-of-equal-skill/
 [2496l]:https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/
