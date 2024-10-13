@@ -1228,6 +1228,7 @@
 [2069][2069l]|[模拟行走机器人 II][2069]                                 |![py]
 [2070][2070l]|[每一个查询的最大美丽值][2070]                            |![rs]
 [2073][2073l]|[买票需要的时间][2073]                                    |![py]
+[2074][2074l]|[反转偶数长度组的节点][2074]                              |![py]
 [2075][2075l]|[解码斜向换位密码][2075]                                  |![rs]
 [2078][2078l]|[两栋颜色不同且距离最远的房子][2078]                      |![rs]
 [2079][2079l]|[给植物浇水][2079]                                        |![rs]
@@ -2737,6 +2738,7 @@
 [2069]:Problemset/2069-Walking%20Robot%20Simulation%20II/README_CN.md#2069-模拟行走机器人-ii
 [2070]:Problemset/2070-Most%20Beautiful%20Item%20for%20Each%20Query/README_CN.md#2070-每一个查询的最大美丽值
 [2073]:Problemset/2073-Time%20Needed%20to%20Buy%20Tickets/README_CN.md#2073-买票需要的时间
+[2074]:Problemset/2074-Reverse%20Nodes%20in%20Even%20Length%20Groups/README_CN.md#2074-反转偶数长度组的节点
 [2075]:Problemset/2075-Decode%20the%20Slanted%20Ciphertext/README_CN.md#2075-解码斜向换位密码
 [2078]:Problemset/2078-Two%20Furthest%20Houses%20With%20Different%20Colors/README_CN.md#2078-两栋颜色不同且距离最远的房子
 [2079]:Problemset/2079-Watering%20Plants/README_CN.md#2079-给植物浇水
@@ -4245,6 +4247,7 @@
 [2069l]:https://leetcode.cn/problems/walking-robot-simulation-ii/
 [2070l]:https://leetcode.cn/problems/most-beautiful-item-for-each-query/
 [2073l]:https://leetcode.cn/problems/time-needed-to-buy-tickets/
+[2074l]:https://leetcode.cn/problems/reverse-nodes-in-even-length-groups/
 [2075l]:https://leetcode.cn/problems/decode-the-slanted-ciphertext/
 [2078l]:https://leetcode.cn/problems/two-furthest-houses-with-different-colors/
 [2079l]:https://leetcode.cn/problems/watering-plants/
