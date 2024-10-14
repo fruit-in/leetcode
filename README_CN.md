@@ -1369,6 +1369,7 @@
 [2306][2306l]|[公司命名][2306]                                          |![py]
 [2309][2309l]|[兼具大小写的最好英文字母][2309]                          |![rs]
 [2310][2310l]|[个位数字为 K 的整数之和][2310]                           |![rs]
+[2312][2312l]|[卖木头块][2312]                                          |![py]
 [2315][2315l]|[统计星号][2315]                                          |![rs]
 [2317][2317l]|[操作后的最大异或和][2317]                                |![rs]
 [2319][2319l]|[判断矩阵是否是一个 X 矩阵][2319]                         |![py]
@@ -2880,6 +2881,7 @@
 [2306]:Problemset/2306-Naming%20a%20Company/README_CN.md#2306-公司命名
 [2309]:Problemset/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README_CN.md#2309-兼具大小写的最好英文字母
 [2310]:Problemset/2310-Sum%20of%20Numbers%20With%20Units%20Digit%20K/README_CN.md#2310-个位数字为-k-的整数之和
+[2312]:Problemset/2312-Selling%20Pieces%20of%20Wood/README_CN.md#2312-卖木头块
 [2315]:Problemset/2315-Count%20Asterisks/README_CN.md#2315-统计星号
 [2317]:Problemset/2317-Maximum%20XOR%20After%20Operations/README_CN.md#2317-操作后的最大异或和
 [2319]:Problemset/2319-Check%20if%20Matrix%20Is%20X-Matrix/README_CN.md#2319-判断矩阵是否是一个-x-矩阵
@@ -4390,6 +4392,7 @@
 [2306l]:https://leetcode.cn/problems/naming-a-company/
 [2309l]:https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/
 [2310l]:https://leetcode.cn/problems/sum-of-numbers-with-units-digit-k/
+[2312l]:https://leetcode.cn/problems/selling-pieces-of-wood/
 [2315l]:https://leetcode.cn/problems/count-asterisks/
 [2317l]:https://leetcode.cn/problems/maximum-xor-after-operations/
 [2319l]:https://leetcode.cn/problems/check-if-matrix-is-x-matrix/
