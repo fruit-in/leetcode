@@ -1104,6 +1104,7 @@
 [1822][1822l]|[Sign of the Product of an Array][1822]                                               |![rb]&nbsp;&nbsp;![rs]
 [1823][1823l]|[Find the Winner of the Circular Game][1823]                                          |![rs]
 [1824][1824l]|[Minimum Sideway Jumps][1824]                                                         |![rs]
+[1825][1825l]|[Finding MK Average][1825]                                                            |![py]
 [1827][1827l]|[Minimum Operations to Make the Array Increasing][1827]                               |![rb]&nbsp;&nbsp;![rs]
 [1828][1828l]|[Queries on Number of Points Inside a Circle][1828]                                   |![py]
 [1829][1829l]|[Maximum XOR for Each Query][1829]                                                    |![rs]
@@ -2616,6 +2617,7 @@
 [1822]:Problemset/1822-Sign%20of%20the%20Product%20of%20an%20Array/README.md#1822-sign-of-the-product-of-an-array
 [1823]:Problemset/1823-Find%20the%20Winner%20of%20the%20Circular%20Game/README.md#1823-find-the-winner-of-the-circular-game
 [1824]:Problemset/1824-Minimum%20Sideway%20Jumps/README.md#1824-minimum-sideway-jumps
+[1825]:Problemset/1825-Finding%20MK%20Average/README.md#1825-finding-mk-average
 [1827]:Problemset/1827-Minimum%20Operations%20to%20Make%20the%20Array%20Increasing/README.md#1827-minimum-operations-to-make-the-array-increasing
 [1828]:Problemset/1828-Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle/README.md#1828-queries-on-number-of-points-inside-a-circle
 [1829]:Problemset/1829-Maximum%20XOR%20for%20Each%20Query/README.md#1829-maximum-xor-for-each-query
@@ -4127,6 +4129,7 @@
 [1822l]:https://leetcode.com/problems/sign-of-the-product-of-an-array/
 [1823l]:https://leetcode.com/problems/find-the-winner-of-the-circular-game/
 [1824l]:https://leetcode.com/problems/minimum-sideway-jumps/
+[1825l]:https://leetcode.com/problems/finding-mk-average/
 [1827l]:https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 [1828l]:https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/
 [1829l]:https://leetcode.com/problems/maximum-xor-for-each-query/

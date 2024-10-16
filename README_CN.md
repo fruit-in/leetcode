@@ -1104,6 +1104,7 @@
 [1822][1822l]|[数组元素积的符号][1822]                                  |![rb]&nbsp;&nbsp;![rs]
 [1823][1823l]|[找出游戏的获胜者][1823]                                  |![rs]
 [1824][1824l]|[最少侧跳次数][1824]                                      |![rs]
+[1825][1825l]|[求出 MK 平均值][1825]                                    |![py]
 [1827][1827l]|[最少操作使数组递增][1827]                                |![rb]&nbsp;&nbsp;![rs]
 [1828][1828l]|[统计一个圆中点的数目][1828]                              |![py]
 [1829][1829l]|[每个查询的最大异或值][1829]                              |![rs]
@@ -2616,6 +2617,7 @@
 [1822]:Problemset/1822-Sign%20of%20the%20Product%20of%20an%20Array/README_CN.md#1822-数组元素积的符号
 [1823]:Problemset/1823-Find%20the%20Winner%20of%20the%20Circular%20Game/README_CN.md#1823-找出游戏的获胜者
 [1824]:Problemset/1824-Minimum%20Sideway%20Jumps/README_CN.md#1824-最少侧跳次数
+[1825]:Problemset/1825-Finding%20MK%20Average/README_CN.md#1825-求出-mk-平均值
 [1827]:Problemset/1827-Minimum%20Operations%20to%20Make%20the%20Array%20Increasing/README_CN.md#1827-最少操作使数组递增
 [1828]:Problemset/1828-Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle/README_CN.md#1828-统计一个圆中点的数目
 [1829]:Problemset/1829-Maximum%20XOR%20for%20Each%20Query/README_CN.md#1829-每个查询的最大异或值
@@ -4127,6 +4129,7 @@
 [1822l]:https://leetcode.cn/problems/sign-of-the-product-of-an-array/
 [1823l]:https://leetcode.cn/problems/find-the-winner-of-the-circular-game/
 [1824l]:https://leetcode.cn/problems/minimum-sideway-jumps/
+[1825l]:https://leetcode.cn/problems/finding-mk-average/
 [1827l]:https://leetcode.cn/problems/minimum-operations-to-make-the-array-increasing/
 [1828l]:https://leetcode.cn/problems/queries-on-number-of-points-inside-a-circle/
 [1829l]:https://leetcode.cn/problems/maximum-xor-for-each-query/
