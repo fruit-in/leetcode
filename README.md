@@ -1152,6 +1152,7 @@
 [1904][1904l]|[The Number of Full Rounds You Have Played][1904]                                     |![py]
 [1905][1905l]|[Count Sub Islands][1905]                                                             |![rs]
 [1909][1909l]|[Remove One Element to Make the Array Strictly Increasing][1909]                      |![rs]
+[1911][1911l]|[Maximum Alternating Subsequence Sum][1911]                                           |![rs]
 [1912][1912l]|[Design Movie Rental System][1912]                                                    |![rs]
 [1913][1913l]|[Maximum Product Difference Between Two Pairs][1913]                                  |![rs]
 [1920][1920l]|[Build Array from Permutation][1920]                                                  |![rs]
@@ -2665,6 +2666,7 @@
 [1904]:Problemset/1904-The%20Number%20of%20Full%20Rounds%20You%20Have%20Played/README.md#1904-the-number-of-full-rounds-you-have-played
 [1905]:Problemset/1905-Count%20Sub%20Islands/README.md#1905-count-sub-islands
 [1909]:Problemset/1909-Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing/README.md#1909-remove-one-element-to-make-the-array-strictly-increasing
+[1911]:Problemset/1911-Maximum%20Alternating%20Subsequence%20Sum/README.md#1911-maximum-alternating-subsequence-sum
 [1912]:Problemset/1912-Design%20Movie%20Rental%20System/README.md#1912-design-movie-rental-system
 [1913]:Problemset/1913-Maximum%20Product%20Difference%20Between%20Two%20Pairs/README.md#1913-maximum-product-difference-between-two-pairs
 [1920]:Problemset/1920-Build%20Array%20from%20Permutation/README.md#1920-build-array-from-permutation
@@ -4177,6 +4179,7 @@
 [1904l]:https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/
 [1905l]:https://leetcode.com/problems/count-sub-islands/
 [1909l]:https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
+[1911l]:https://leetcode.com/problems/maximum-alternating-subsequence-sum/
 [1912l]:https://leetcode.com/problems/design-movie-rental-system/
 [1913l]:https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 [1920l]:https://leetcode.com/problems/build-array-from-permutation/

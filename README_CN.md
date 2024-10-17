@@ -1152,6 +1152,7 @@
 [1904][1904l]|[你完成的完整对局数][1904]                                |![py]
 [1905][1905l]|[统计子岛屿][1905]                                        |![rs]
 [1909][1909l]|[删除一个元素使数组严格递增][1909]                        |![rs]
+[1911][1911l]|[最大子序列交替和][1911]                                  |![rs]
 [1912][1912l]|[设计电影租借系统][1912]                                  |![rs]
 [1913][1913l]|[两个数对之间的最大乘积差][1913]                          |![rs]
 [1920][1920l]|[基于排列构建数组][1920]                                  |![rs]
@@ -2665,6 +2666,7 @@
 [1904]:Problemset/1904-The%20Number%20of%20Full%20Rounds%20You%20Have%20Played/README_CN.md#1904-你完成的完整对局数
 [1905]:Problemset/1905-Count%20Sub%20Islands/README_CN.md#1905-统计子岛屿
 [1909]:Problemset/1909-Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing/README_CN.md#1909-删除一个元素使数组严格递增
+[1911]:Problemset/1911-Maximum%20Alternating%20Subsequence%20Sum/README_CN.md#1911-最大子序列交替和
 [1912]:Problemset/1912-Design%20Movie%20Rental%20System/README_CN.md#1912-设计电影租借系统
 [1913]:Problemset/1913-Maximum%20Product%20Difference%20Between%20Two%20Pairs/README_CN.md#1913-两个数对之间的最大乘积差
 [1920]:Problemset/1920-Build%20Array%20from%20Permutation/README_CN.md#1920-基于排列构建数组
@@ -4177,6 +4179,7 @@
 [1904l]:https://leetcode.cn/problems/the-number-of-full-rounds-you-have-played/
 [1905l]:https://leetcode.cn/problems/count-sub-islands/
 [1909l]:https://leetcode.cn/problems/remove-one-element-to-make-the-array-strictly-increasing/
+[1911l]:https://leetcode.cn/problems/maximum-alternating-subsequence-sum/
 [1912l]:https://leetcode.cn/problems/design-movie-rental-system/
 [1913l]:https://leetcode.cn/problems/maximum-product-difference-between-two-pairs/
 [1920l]:https://leetcode.cn/problems/build-array-from-permutation/
