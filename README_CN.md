@@ -955,6 +955,7 @@
 [1530][1530l]|[好叶子节点对的数量][1530]                                |![rb]
 [1534][1534l]|[统计好三元组][1534]                                      |![rb]
 [1535][1535l]|[找出数组游戏的赢家][1535]                                |![rb]&nbsp;&nbsp;![rs]
+[1537][1537l]|[最大得分][1537]                                          |![rs]
 [1539][1539l]|[第 k 个缺失的正整数][1539]                               |![rs]
 [1540][1540l]|[K 次操作转变字符串][1540]                                |![rs]
 [1542][1542l]|[找出最长的超赞子字符串][1542]                            |![rs]
@@ -2469,6 +2470,7 @@
 [1530]:Problemset/1530-Number%20of%20Good%20Leaf%20Nodes%20Pairs/README_CN.md#1530-好叶子节点对的数量
 [1534]:Problemset/1534-Count%20Good%20Triplets/README_CN.md#1534-统计好三元组
 [1535]:Problemset/1535-Find%20the%20Winner%20of%20an%20Array%20Game/README_CN.md#1535-找出数组游戏的赢家
+[1537]:Problemset/1537-Get%20the%20Maximum%20Score/README_CN.md#1537-最大得分
 [1539]:Problemset/1539-Kth%20Missing%20Positive%20Number/README_CN.md#1539-第-k-个缺失的正整数
 [1540]:Problemset/1540-Can%20Convert%20String%20in%20K%20Moves/README_CN.md#1540-k-次操作转变字符串
 [1542]:Problemset/1542-Find%20Longest%20Awesome%20Substring/README_CN.md#1542-找出最长的超赞子字符串
@@ -3982,6 +3984,7 @@
 [1530l]:https://leetcode.cn/problems/number-of-good-leaf-nodes-pairs/
 [1534l]:https://leetcode.cn/problems/count-good-triplets/
 [1535l]:https://leetcode.cn/problems/find-the-winner-of-an-array-game/
+[1537l]:https://leetcode.cn/problems/get-the-maximum-score/
 [1539l]:https://leetcode.cn/problems/kth-missing-positive-number/
 [1540l]:https://leetcode.cn/problems/can-convert-string-in-k-moves/
 [1542l]:https://leetcode.cn/problems/find-longest-awesome-substring/
