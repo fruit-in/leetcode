@@ -1272,6 +1272,7 @@
 [2133][2133l]|[检查是否每一行每一列都包含全部整数][2133]                |![rs]
 [2134][2134l]|[最少交换次数来组合所有的 1 II][2134]                     |![rs]
 [2135][2135l]|[统计追加字母可以获得的单词数][2135]                      |![rs]
+[2136][2136l]|[全部开花的最早一天][2136]                                |![rs]
 [2138][2138l]|[将字符串拆分为若干长度为 k 的组][2138]                   |![py]
 [2139][2139l]|[得到目标值的最少行动次数][2139]                          |![rs]
 [2140][2140l]|[解决智力问题][2140]                                      |![rs]
@@ -2787,6 +2788,7 @@
 [2133]:Problemset/2133-Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers/README_CN.md#2133-检查是否每一行每一列都包含全部整数
 [2134]:Problemset/2134-Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II/README_CN.md#2134-最少交换次数来组合所有的-1-ii
 [2135]:Problemset/2135-Count%20Words%20Obtained%20After%20Adding%20a%20Letter/README_CN.md#2135-统计追加字母可以获得的单词数
+[2136]:Problemset/2136-Earliest%20Possible%20Day%20of%20Full%20Bloom/README_CN.md#2136-全部开花的最早一天
 [2138]:Problemset/2138-Divide%20a%20String%20Into%20Groups%20of%20Size%20k/README_CN.md#2138-将字符串拆分为若干长度为-k-的组
 [2139]:Problemset/2139-Minimum%20Moves%20to%20Reach%20Target%20Score/README_CN.md#2139-得到目标值的最少行动次数
 [2140]:Problemset/2140-Solving%20Questions%20With%20Brainpower/README_CN.md#2140-解决智力问题
@@ -4301,6 +4303,7 @@
 [2133l]:https://leetcode.cn/problems/check-if-every-row-and-column-contains-all-numbers/
 [2134l]:https://leetcode.cn/problems/minimum-swaps-to-group-all-1s-together-ii/
 [2135l]:https://leetcode.cn/problems/count-words-obtained-after-adding-a-letter/
+[2136l]:https://leetcode.cn/problems/earliest-possible-day-of-full-bloom/
 [2138l]:https://leetcode.cn/problems/divide-a-string-into-groups-of-size-k/
 [2139l]:https://leetcode.cn/problems/minimum-moves-to-reach-target-score/
 [2140l]:https://leetcode.cn/problems/solving-questions-with-brainpower/

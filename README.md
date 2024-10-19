@@ -1272,6 +1272,7 @@
 [2133][2133l]|[Check if Every Row and Column Contains All Numbers][2133]                            |![rs]
 [2134][2134l]|[Minimum Swaps to Group All 1's Together II][2134]                                    |![rs]
 [2135][2135l]|[Count Words Obtained After Adding a Letter][2135]                                    |![rs]
+[2136][2136l]|[Earliest Possible Day of Full Bloom][2136]                                           |![rs]
 [2138][2138l]|[Divide a String Into Groups of Size k][2138]                                         |![py]
 [2139][2139l]|[Minimum Moves to Reach Target Score][2139]                                           |![rs]
 [2140][2140l]|[Solving Questions With Brainpower][2140]                                             |![rs]
@@ -2787,6 +2788,7 @@
 [2133]:Problemset/2133-Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers/README.md#2133-check-if-every-row-and-column-contains-all-numbers
 [2134]:Problemset/2134-Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II/README.md#2134-minimum-swaps-to-group-all-1s-together-ii
 [2135]:Problemset/2135-Count%20Words%20Obtained%20After%20Adding%20a%20Letter/README.md#2135-count-words-obtained-after-adding-a-letter
+[2136]:Problemset/2136-Earliest%20Possible%20Day%20of%20Full%20Bloom/README.md#2136-earliest-possible-day-of-full-bloom
 [2138]:Problemset/2138-Divide%20a%20String%20Into%20Groups%20of%20Size%20k/README.md#2138-divide-a-string-into-groups-of-size-k
 [2139]:Problemset/2139-Minimum%20Moves%20to%20Reach%20Target%20Score/README.md#2139-minimum-moves-to-reach-target-score
 [2140]:Problemset/2140-Solving%20Questions%20With%20Brainpower/README.md#2140-solving-questions-with-brainpower
@@ -4301,6 +4303,7 @@
 [2133l]:https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/
 [2134l]:https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 [2135l]:https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/
+[2136l]:https://leetcode.com/problems/earliest-possible-day-of-full-bloom/
 [2138l]:https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
 [2139l]:https://leetcode.com/problems/minimum-moves-to-reach-target-score/
 [2140l]:https://leetcode.com/problems/solving-questions-with-brainpower/
