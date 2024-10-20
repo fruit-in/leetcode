@@ -1345,6 +1345,7 @@
 [2256][2256l]|[最小平均差][2256]                                        |![rs]
 [2259][2259l]|[移除指定数字得到的最大结果][2259]                        |![py]
 [2260][2260l]|[必须拿起的最小连续卡牌数][2260]                          |![rs]
+[2262][2262l]|[字符串的总引力][2262]                                    |![rs]
 [2264][2264l]|[字符串中最大的 3 位相同数字][2264]                       |![rs]
 [2265][2265l]|[统计值等于子树平均值的节点数][2265]                      |![py]
 [2266][2266l]|[统计打字方案数][2266]                                    |![py]
@@ -2861,6 +2862,7 @@
 [2256]:Problemset/2256-Minimum%20Average%20Difference/README_CN.md#2256-最小平均差
 [2259]:Problemset/2259-Remove%20Digit%20From%20Number%20to%20Maximize%20Result/README_CN.md#2259-移除指定数字得到的最大结果
 [2260]:Problemset/2260-Minimum%20Consecutive%20Cards%20to%20Pick%20Up/README_CN.md#2260-必须拿起的最小连续卡牌数
+[2262]:Problemset/2262-Total%20Appeal%20of%20A%20String/README_CN.md#2262-字符串的总引力
 [2264]:Problemset/2264-Largest%203-Same-Digit%20Number%20in%20String/README_CN.md#2264-字符串中最大的-3-位相同数字
 [2265]:Problemset/2265-Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/README_CN.md#2265-统计值等于子树平均值的节点数
 [2266]:Problemset/2266-Count%20Number%20of%20Texts/README_CN.md#2266-统计打字方案数
@@ -4376,6 +4378,7 @@
 [2256l]:https://leetcode.cn/problems/minimum-average-difference/
 [2259l]:https://leetcode.cn/problems/remove-digit-from-number-to-maximize-result/
 [2260l]:https://leetcode.cn/problems/minimum-consecutive-cards-to-pick-up/
+[2262l]:https://leetcode.cn/problems/total-appeal-of-a-string/
 [2264l]:https://leetcode.cn/problems/largest-3-same-digit-number-in-string/
 [2265l]:https://leetcode.cn/problems/count-nodes-equal-to-average-of-subtree/
 [2266l]:https://leetcode.cn/problems/count-number-of-texts/

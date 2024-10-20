@@ -1345,6 +1345,7 @@
 [2256][2256l]|[Minimum Average Difference][2256]                                                    |![rs]
 [2259][2259l]|[Remove Digit From Number to Maximize Result][2259]                                   |![py]
 [2260][2260l]|[Minimum Consecutive Cards to Pick Up][2260]                                          |![rs]
+[2262][2262l]|[Total Appeal of A String][2262]                                                      |![rs]
 [2264][2264l]|[Largest 3-Same-Digit Number in String][2264]                                         |![rs]
 [2265][2265l]|[Count Nodes Equal to Average of Subtree][2265]                                       |![py]
 [2266][2266l]|[Count Number of Texts][2266]                                                         |![py]
@@ -2861,6 +2862,7 @@
 [2256]:Problemset/2256-Minimum%20Average%20Difference/README.md#2256-minimum-average-difference
 [2259]:Problemset/2259-Remove%20Digit%20From%20Number%20to%20Maximize%20Result/README.md#2259-remove-digit-from-number-to-maximize-result
 [2260]:Problemset/2260-Minimum%20Consecutive%20Cards%20to%20Pick%20Up/README.md#2260-minimum-consecutive-cards-to-pick-up
+[2262]:Problemset/2262-Total%20Appeal%20of%20A%20String/README.md#2262-total-appeal-of-a-string
 [2264]:Problemset/2264-Largest%203-Same-Digit%20Number%20in%20String/README.md#2264-largest-3-same-digit-number-in-string
 [2265]:Problemset/2265-Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/README.md#2265-count-nodes-equal-to-average-of-subtree
 [2266]:Problemset/2266-Count%20Number%20of%20Texts/README.md#2266-count-number-of-texts
@@ -4376,6 +4378,7 @@
 [2256l]:https://leetcode.com/problems/minimum-average-difference/
 [2259l]:https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 [2260l]:https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/
+[2262l]:https://leetcode.com/problems/total-appeal-of-a-string/
 [2264l]:https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 [2265l]:https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
 [2266l]:https://leetcode.com/problems/count-number-of-texts/
