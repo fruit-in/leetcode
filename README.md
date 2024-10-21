@@ -1292,6 +1292,7 @@
 [2164][2164l]|[Sort Even and Odd Indices Independently][2164]                                       |![py]
 [2165][2165l]|[Smallest Value of the Rearranged Number][2165]                                       |![rs]
 [2166][2166l]|[Design Bitset][2166]                                                                 |![py]
+[2167][2167l]|[Minimum Time to Remove All Cars Containing Illegal Goods][2167]                      |![rs]
 [2169][2169l]|[Count Operations to Obtain Zero][2169]                                               |![py]
 [2171][2171l]|[Removing Minimum Number of Magic Beans][2171]                                        |![rs]
 [2176][2176l]|[Count Equal and Divisible Pairs in an Array][2176]                                   |![rs]
@@ -2809,6 +2810,7 @@
 [2164]:Problemset/2164-Sort%20Even%20and%20Odd%20Indices%20Independently/README.md#2164-sort-even-and-odd-indices-independently
 [2165]:Problemset/2165-Smallest%20Value%20of%20the%20Rearranged%20Number/README.md#2165-smallest-value-of-the-rearranged-number
 [2166]:Problemset/2166-Design%20Bitset/README.md#2166-design-bitset
+[2167]:Problemset/2167-Minimum%20Time%20to%20Remove%20All%20Cars%20Containing%20Illegal%20Goods/README.md#2167-minimum-time-to-remove-all-cars-containing-illegal-goods
 [2169]:Problemset/2169-Count%20Operations%20to%20Obtain%20Zero/README.md#2169-count-operations-to-obtain-zero
 [2171]:Problemset/2171-Removing%20Minimum%20Number%20of%20Magic%20Beans/README.md#2171-removing-minimum-number-of-magic-beans
 [2176]:Problemset/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README.md#2176-count-equal-and-divisible-pairs-in-an-array
@@ -4325,6 +4327,7 @@
 [2164l]:https://leetcode.com/problems/sort-even-and-odd-indices-independently/
 [2165l]:https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 [2166l]:https://leetcode.com/problems/design-bitset/
+[2167l]:https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/
 [2169l]:https://leetcode.com/problems/count-operations-to-obtain-zero/
 [2171l]:https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
 [2176l]:https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
