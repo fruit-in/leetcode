@@ -1078,6 +1078,7 @@
 [1769][1769l]|[移动所有球到每个盒子所需的最小操作数][1769]              |![rs]
 [1773][1773l]|[统计匹配检索规则的物品数量][1773]                        |![rs]
 [1774][1774l]|[最接近目标价格的甜点成本][1774]                          |![rs]
+[1775][1775l]|[通过最少操作次数使数组的和相等][1775]                    |![rs]
 [1779][1779l]|[找到最近的有相同 X 或 Y 坐标的点][1779]                  |![rs]
 [1780][1780l]|[判断一个数字是否可以表示成三的幂的和][1780]              |![rb]&nbsp;&nbsp;![rs]
 [1781][1781l]|[所有子字符串美丽值之和][1781]                            |![rs]
@@ -2597,6 +2598,7 @@
 [1769]:Problemset/1769-Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box/README_CN.md#1769-移动所有球到每个盒子所需的最小操作数
 [1773]:Problemset/1773-Count%20Items%20Matching%20a%20Rule/README_CN.md#1773-统计匹配检索规则的物品数量
 [1774]:Problemset/1774-Closest%20Dessert%20Cost/README_CN.md#1774-最接近目标价格的甜点成本
+[1775]:Problemset/1775-Equal%20Sum%20Arrays%20With%20Minimum%20Number%20of%20Operations/README_CN.md#1775-通过最少操作次数使数组的和相等
 [1779]:Problemset/1779-Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate/README_CN.md#1779-找到最近的有相同-x-或-y-坐标的点
 [1780]:Problemset/1780-Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three/README_CN.md#1780-判断一个数字是否可以表示成三的幂的和
 [1781]:Problemset/1781-Sum%20of%20Beauty%20of%20All%20Substrings/README_CN.md#1781-所有子字符串美丽值之和
@@ -4115,6 +4117,7 @@
 [1769l]:https://leetcode.cn/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
 [1773l]:https://leetcode.cn/problems/count-items-matching-a-rule/
 [1774l]:https://leetcode.cn/problems/closest-dessert-cost/
+[1775l]:https://leetcode.cn/problems/equal-sum-arrays-with-minimum-number-of-operations/
 [1779l]:https://leetcode.cn/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 [1780l]:https://leetcode.cn/problems/check-if-number-is-a-sum-of-powers-of-three/
 [1781l]:https://leetcode.cn/problems/sum-of-beauty-of-all-substrings/
