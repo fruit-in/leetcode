@@ -1314,6 +1314,7 @@
 [2196][2196l]|[根据描述创建二叉树][2196]                                |![py]
 [2200][2200l]|[找出数组中的所有 K 近邻下标][2200]                       |![rs]
 [2201][2201l]|[统计可以提取的工件][2201]                                |![rs]
+[2202][2202l]|[K 次操作后最大化顶端元素][2202]                          |![rs]
 [2206][2206l]|[将数组划分成相等数对][2206]                              |![rs]
 [2208][2208l]|[将数组和减半的最少操作次数][2208]                        |![py]
 [2210][2210l]|[统计数组中峰和谷的数量][2210]                            |![py]
@@ -2834,6 +2835,7 @@
 [2196]:Problemset/2196-Create%20Binary%20Tree%20From%20Descriptions/README_CN.md#2196-根据描述创建二叉树
 [2200]:Problemset/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README_CN.md#2200-找出数组中的所有-k-近邻下标
 [2201]:Problemset/2201-Count%20Artifacts%20That%20Can%20Be%20Extracted/README_CN.md#2201-统计可以提取的工件
+[2202]:Problemset/2202-Maximize%20the%20Topmost%20Element%20After%20K%20Moves/README_CN.md#2202-k-次操作后最大化顶端元素
 [2206]:Problemset/2206-Divide%20Array%20Into%20Equal%20Pairs/README_CN.md#2206-将数组划分成相等数对
 [2208]:Problemset/2208-Minimum%20Operations%20to%20Halve%20Array%20Sum/README_CN.md#2208-将数组和减半的最少操作次数
 [2210]:Problemset/2210-Count%20Hills%20and%20Valleys%20in%20an%20Array/README_CN.md#2210-统计数组中峰和谷的数量
@@ -4353,6 +4355,7 @@
 [2196l]:https://leetcode.cn/problems/create-binary-tree-from-descriptions/
 [2200l]:https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/
 [2201l]:https://leetcode.cn/problems/count-artifacts-that-can-be-extracted/
+[2202l]:https://leetcode.cn/problems/maximize-the-topmost-element-after-k-moves/
 [2206l]:https://leetcode.cn/problems/divide-array-into-equal-pairs/
 [2208l]:https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/
 [2210l]:https://leetcode.cn/problems/count-hills-and-valleys-in-an-array/

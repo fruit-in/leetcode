@@ -1314,6 +1314,7 @@
 [2196][2196l]|[Create Binary Tree From Descriptions][2196]                                          |![py]
 [2200][2200l]|[Find All K-Distant Indices in an Array][2200]                                        |![rs]
 [2201][2201l]|[Count Artifacts That Can Be Extracted][2201]                                         |![rs]
+[2202][2202l]|[Maximize the Topmost Element After K Moves][2202]                                    |![rs]
 [2206][2206l]|[Divide Array Into Equal Pairs][2206]                                                 |![rs]
 [2208][2208l]|[Minimum Operations to Halve Array Sum][2208]                                         |![py]
 [2210][2210l]|[Count Hills and Valleys in an Array][2210]                                           |![py]
@@ -2834,6 +2835,7 @@
 [2196]:Problemset/2196-Create%20Binary%20Tree%20From%20Descriptions/README.md#2196-create-binary-tree-from-descriptions
 [2200]:Problemset/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README.md#2200-find-all-k-distant-indices-in-an-array
 [2201]:Problemset/2201-Count%20Artifacts%20That%20Can%20Be%20Extracted/README.md#2201-count-artifacts-that-can-be-extracted
+[2202]:Problemset/2202-Maximize%20the%20Topmost%20Element%20After%20K%20Moves/README.md#2202-maximize-the-topmost-element-after-k-moves
 [2206]:Problemset/2206-Divide%20Array%20Into%20Equal%20Pairs/README.md#2206-divide-array-into-equal-pairs
 [2208]:Problemset/2208-Minimum%20Operations%20to%20Halve%20Array%20Sum/README.md#2208-minimum-operations-to-halve-array-sum
 [2210]:Problemset/2210-Count%20Hills%20and%20Valleys%20in%20an%20Array/README.md#2210-count-hills-and-valleys-in-an-array
@@ -4353,6 +4355,7 @@
 [2196l]:https://leetcode.com/problems/create-binary-tree-from-descriptions/
 [2200l]:https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 [2201l]:https://leetcode.com/problems/count-artifacts-that-can-be-extracted/
+[2202l]:https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
 [2206l]:https://leetcode.com/problems/divide-array-into-equal-pairs/
 [2208l]:https://leetcode.com/problems/minimum-operations-to-halve-array-sum/
 [2210l]:https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
