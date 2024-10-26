@@ -1380,6 +1380,7 @@
 [2310][2310l]|[Sum of Numbers With Units Digit K][2310]                                             |![rs]
 [2312][2312l]|[Selling Pieces of Wood][2312]                                                        |![py]
 [2315][2315l]|[Count Asterisks][2315]                                                               |![rs]
+[2316][2316l]|[Count Unreachable Pairs of Nodes in an Undirected Graph][2316]                       |![py]
 [2317][2317l]|[Maximum XOR After Operations][2317]                                                  |![rs]
 [2319][2319l]|[Check if Matrix Is X-Matrix][2319]                                                   |![py]
 [2320][2320l]|[Count Number of Ways to Place Houses][2320]                                          |![rs]
@@ -2901,6 +2902,7 @@
 [2310]:Problemset/2310-Sum%20of%20Numbers%20With%20Units%20Digit%20K/README.md#2310-sum-of-numbers-with-units-digit-k
 [2312]:Problemset/2312-Selling%20Pieces%20of%20Wood/README.md#2312-selling-pieces-of-wood
 [2315]:Problemset/2315-Count%20Asterisks/README.md#2315-count-asterisks
+[2316]:Problemset/2316-Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph/README.md#2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph
 [2317]:Problemset/2317-Maximum%20XOR%20After%20Operations/README.md#2317-maximum-xor-after-operations
 [2319]:Problemset/2319-Check%20if%20Matrix%20Is%20X-Matrix/README.md#2319-check-if-matrix-is-x-matrix
 [2320]:Problemset/2320-Count%20Number%20of%20Ways%20to%20Place%20Houses/README.md#2320-count-number-of-ways-to-place-houses
@@ -4421,6 +4423,7 @@
 [2310l]:https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/
 [2312l]:https://leetcode.com/problems/selling-pieces-of-wood/
 [2315l]:https://leetcode.com/problems/count-asterisks/
+[2316l]:https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
 [2317l]:https://leetcode.com/problems/maximum-xor-after-operations/
 [2319l]:https://leetcode.com/problems/check-if-matrix-is-x-matrix/
 [2320l]:https://leetcode.com/problems/count-number-of-ways-to-place-houses/
