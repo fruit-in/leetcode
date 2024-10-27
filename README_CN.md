@@ -1415,6 +1415,7 @@
 [2381][2381l]|[字母移位 II][2381]                                       |![rs]
 [2383][2383l]|[赢得比赛需要的最少训练时长][2383]                        |![rs]
 [2384][2384l]|[最大回文数字][2384]                                      |![rs]
+[2385][2385l]|[感染二叉树需要的总时间][2385]                            |![py]
 [2389][2389l]|[和有限的最长子序列][2389]                                |![rs]
 [2390][2390l]|[从字符串中移除星号][2390]                                |![rs]
 [2391][2391l]|[收集垃圾的最少总时间][2391]                              |![rs]
@@ -2937,6 +2938,7 @@
 [2381]:Problemset/2381-Shifting%20Letters%20II/README_CN.md#2381-字母移位-ii
 [2383]:Problemset/2383-Minimum%20Hours%20of%20Training%20to%20Win%20a%20Competition/README_CN.md#2383-赢得比赛需要的最少训练时长
 [2384]:Problemset/2384-Largest%20Palindromic%20Number/README_CN.md#2384-最大回文数字
+[2385]:Problemset/2385-Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected/README_CN.md#2385-感染二叉树需要的总时间
 [2389]:Problemset/2389-Longest%20Subsequence%20With%20Limited%20Sum/README_CN.md#2389-和有限的最长子序列
 [2390]:Problemset/2390-Removing%20Stars%20From%20a%20String/README_CN.md#2390-从字符串中移除星号
 [2391]:Problemset/2391-Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage/README_CN.md#2391-收集垃圾的最少总时间
@@ -4458,6 +4460,7 @@
 [2381l]:https://leetcode.cn/problems/shifting-letters-ii/
 [2383l]:https://leetcode.cn/problems/minimum-hours-of-training-to-win-a-competition/
 [2384l]:https://leetcode.cn/problems/largest-palindromic-number/
+[2385l]:https://leetcode.cn/problems/amount-of-time-for-binary-tree-to-be-infected/
 [2389l]:https://leetcode.cn/problems/longest-subsequence-with-limited-sum/
 [2390l]:https://leetcode.cn/problems/removing-stars-from-a-string/
 [2391l]:https://leetcode.cn/problems/minimum-amount-of-time-to-collect-garbage/
