@@ -419,6 +419,7 @@
 [661][661l]  |[图片平滑器][661]                                         |![rs]
 [662][662l]  |[二叉树最大宽度][662]                                     |![py]
 [665][665l]  |[非递减数列][665]                                         |![py]
+[668][668l]  |[乘法表中第k小的数][668]                                  |![rs]
 [669][669l]  |[修剪二叉搜索树][669]                                     |![py]
 [670][670l]  |[最大交换][670]                                           |![rs]
 [671][671l]  |[二叉树中第二小的节点][671]                               |![py]
@@ -1942,6 +1943,7 @@
 [661]:Problemset/0661-Image%20Smoother/README_CN.md#661-图片平滑器
 [662]:Problemset/0662-Maximum%20Width%20of%20Binary%20Tree/README_CN.md#662-二叉树最大宽度
 [665]:Problemset/0665-Non-decreasing%20Array/README_CN.md#665-非递减数列
+[668]:Problemset/0668-Kth%20Smallest%20Number%20in%20Multiplication%20Table/README_CN.md#668-乘法表中第k小的数
 [669]:Problemset/0669-Trim%20a%20Binary%20Search%20Tree/README_CN.md#669-修剪二叉搜索树
 [670]:Problemset/0670-Maximum%20Swap/README_CN.md#670-最大交换
 [671]:Problemset/0671-Second%20Minimum%20Node%20In%20a%20Binary%20Tree/README_CN.md#671-二叉树中第二小的节点
@@ -3463,6 +3465,7 @@
 [661l]:https://leetcode.cn/problems/image-smoother/
 [662l]:https://leetcode.cn/problems/maximum-width-of-binary-tree/
 [665l]:https://leetcode.cn/problems/non-decreasing-array/
+[668l]:https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table/
 [669l]:https://leetcode.cn/problems/trim-a-binary-search-tree/
 [670l]:https://leetcode.cn/problems/maximum-swap/
 [671l]:https://leetcode.cn/problems/second-minimum-node-in-a-binary-tree/

@@ -419,6 +419,7 @@
 [661][661l]  |[Image Smoother][661]                                                                 |![rs]
 [662][662l]  |[Maximum Width of Binary Tree][662]                                                   |![py]
 [665][665l]  |[Non-decreasing Array][665]                                                           |![py]
+[668][668l]  |[Kth Smallest Number in Multiplication Table][668]                                    |![rs]
 [669][669l]  |[Trim a Binary Search Tree][669]                                                      |![py]
 [670][670l]  |[Maximum Swap][670]                                                                   |![rs]
 [671][671l]  |[Second Minimum Node In a Binary Tree][671]                                           |![py]
@@ -1942,6 +1943,7 @@
 [661]:Problemset/0661-Image%20Smoother/README.md#661-image-smoother
 [662]:Problemset/0662-Maximum%20Width%20of%20Binary%20Tree/README.md#662-maximum-width-of-binary-tree
 [665]:Problemset/0665-Non-decreasing%20Array/README.md#665-non-decreasing-array
+[668]:Problemset/0668-Kth%20Smallest%20Number%20in%20Multiplication%20Table/README.md#668-kth-smallest-number-in-multiplication-table
 [669]:Problemset/0669-Trim%20a%20Binary%20Search%20Tree/README.md#669-trim-a-binary-search-tree
 [670]:Problemset/0670-Maximum%20Swap/README.md#670-maximum-swap
 [671]:Problemset/0671-Second%20Minimum%20Node%20In%20a%20Binary%20Tree/README.md#671-second-minimum-node-in-a-binary-tree
@@ -3463,6 +3465,7 @@
 [661l]:https://leetcode.com/problems/image-smoother/
 [662l]:https://leetcode.com/problems/maximum-width-of-binary-tree/
 [665l]:https://leetcode.com/problems/non-decreasing-array/
+[668l]:https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
 [669l]:https://leetcode.com/problems/trim-a-binary-search-tree/
 [670l]:https://leetcode.com/problems/maximum-swap/
 [671l]:https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
