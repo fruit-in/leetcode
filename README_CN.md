@@ -1208,6 +1208,7 @@
 [2022][2022l]|[将一维数组转变成二维数组][2022]                          |![rs]
 [2023][2023l]|[连接后等于目标字符串的字符串对][2023]                    |![py]
 [2024][2024l]|[考试的最大困扰度][2024]                                  |![rs]
+[2025][2025l]|[分割数组的最多方案数][2025]                              |![rs]
 [2027][2027l]|[转换字符串的最少操作次数][2027]                          |![rs]
 [2028][2028l]|[找出缺失的观测数据][2028]                                |![rs]
 [2030][2030l]|[含特定字母的最小子序列][2030]                            |![rs]
@@ -2732,6 +2733,7 @@
 [2022]:Problemset/2022-Convert%201D%20Array%20Into%202D%20Array/README_CN.md#2022-将一维数组转变成二维数组
 [2023]:Problemset/2023-Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/README_CN.md#2023-连接后等于目标字符串的字符串对
 [2024]:Problemset/2024-Maximize%20the%20Confusion%20of%20an%20Exam/README_CN.md#2024-考试的最大困扰度
+[2025]:Problemset/2025-Maximum%20Number%20of%20Ways%20to%20Partition%20an%20Array/README_CN.md#2025-分割数组的最多方案数
 [2027]:Problemset/2027-Minimum%20Moves%20to%20Convert%20String/README_CN.md#2027-转换字符串的最少操作次数
 [2028]:Problemset/2028-Find%20Missing%20Observations/README_CN.md#2028-找出缺失的观测数据
 [2030]:Problemset/2030-Smallest%20K-Length%20Subsequence%20With%20Occurrences%20of%20a%20Letter/README_CN.md#2030-含特定字母的最小子序列
@@ -4255,6 +4257,7 @@
 [2022l]:https://leetcode.cn/problems/convert-1d-array-into-2d-array/
 [2023l]:https://leetcode.cn/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 [2024l]:https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/
+[2025l]:https://leetcode.cn/problems/maximum-number-of-ways-to-partition-an-array/
 [2027l]:https://leetcode.cn/problems/minimum-moves-to-convert-string/
 [2028l]:https://leetcode.cn/problems/find-missing-observations/
 [2030l]:https://leetcode.cn/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/

@@ -1208,6 +1208,7 @@
 [2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
 [2023][2023l]|[Number of Pairs of Strings With Concatenation Equal to Target][2023]                 |![py]
 [2024][2024l]|[Maximize the Confusion of an Exam][2024]                                             |![rs]
+[2025][2025l]|[Maximum Number of Ways to Partition an Array][2025]                                  |![rs]
 [2027][2027l]|[Minimum Moves to Convert String][2027]                                               |![rs]
 [2028][2028l]|[Find Missing Observations][2028]                                                     |![rs]
 [2030][2030l]|[Smallest K-Length Subsequence With Occurrences of a Letter][2030]                    |![rs]
@@ -2732,6 +2733,7 @@
 [2022]:Problemset/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
 [2023]:Problemset/2023-Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/README.md#2023-number-of-pairs-of-strings-with-concatenation-equal-to-target
 [2024]:Problemset/2024-Maximize%20the%20Confusion%20of%20an%20Exam/README.md#2024-maximize-the-confusion-of-an-exam
+[2025]:Problemset/2025-Maximum%20Number%20of%20Ways%20to%20Partition%20an%20Array/README.md#2025-maximum-number-of-ways-to-partition-an-array
 [2027]:Problemset/2027-Minimum%20Moves%20to%20Convert%20String/README.md#2027-minimum-moves-to-convert-string
 [2028]:Problemset/2028-Find%20Missing%20Observations/README.md#2028-find-missing-observations
 [2030]:Problemset/2030-Smallest%20K-Length%20Subsequence%20With%20Occurrences%20of%20a%20Letter/README.md#2030-smallest-k-length-subsequence-with-occurrences-of-a-letter
@@ -4255,6 +4257,7 @@
 [2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
 [2023l]:https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 [2024l]:https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
+[2025l]:https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/
 [2027l]:https://leetcode.com/problems/minimum-moves-to-convert-string/
 [2028l]:https://leetcode.com/problems/find-missing-observations/
 [2030l]:https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/
