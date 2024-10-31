@@ -1376,6 +1376,7 @@
 [2295][2295l]|[Replace Elements in an Array][2295]                                                  |![rs]
 [2299][2299l]|[Strong Password Checker II][2299]                                                    |![rs]
 [2300][2300l]|[Successful Pairs of Spells and Potions][2300]                                        |![py]
+[2301][2301l]|[Match Substring After Replacement][2301]                                             |![rs]
 [2303][2303l]|[Calculate Amount Paid in Taxes][2303]                                                |![rs]
 [2304][2304l]|[Minimum Path Cost in a Grid][2304]                                                   |![rs]
 [2306][2306l]|[Naming a Company][2306]                                                              |![py]
@@ -2902,6 +2903,7 @@
 [2295]:Problemset/2295-Replace%20Elements%20in%20an%20Array/README.md#2295-replace-elements-in-an-array
 [2299]:Problemset/2299-Strong%20Password%20Checker%20II/README.md#2299-strong-password-checker-ii
 [2300]:Problemset/2300-Successful%20Pairs%20of%20Spells%20and%20Potions/README.md#2300-successful-pairs-of-spells-and-potions
+[2301]:Problemset/2301-Match%20Substring%20After%20Replacement/README.md#2301-match-substring-after-replacement
 [2303]:Problemset/2303-Calculate%20Amount%20Paid%20in%20Taxes/README.md#2303-calculate-amount-paid-in-taxes
 [2304]:Problemset/2304-Minimum%20Path%20Cost%20in%20a%20Grid/README.md#2304-minimum-path-cost-in-a-grid
 [2306]:Problemset/2306-Naming%20a%20Company/README.md#2306-naming-a-company
@@ -4427,6 +4429,7 @@
 [2295l]:https://leetcode.com/problems/replace-elements-in-an-array/
 [2299l]:https://leetcode.com/problems/strong-password-checker-ii/
 [2300l]:https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+[2301l]:https://leetcode.com/problems/match-substring-after-replacement/
 [2303l]:https://leetcode.com/problems/calculate-amount-paid-in-taxes/
 [2304l]:https://leetcode.com/problems/minimum-path-cost-in-a-grid/
 [2306l]:https://leetcode.com/problems/naming-a-company/
