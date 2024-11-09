@@ -1451,6 +1451,7 @@
 [2433][2433l]|[找出前缀异或的原始数组][2433]                            |![rs]
 [2434][2434l]|[使用机器人打印字典序最小的字符串][2434]                  |![rs]
 [2437][2437l]|[有效时间的数目][2437]                                    |![py]
+[2438][2438l]|[二的幂数组中查询范围内的乘积][2438]                      |![rs]
 [2439][2439l]|[最小化数组中的最大值][2439]                              |![rs]
 [2441][2441l]|[与对应负数同时存在的最大正整数][2441]                    |![rs]
 [2442][2442l]|[反转之后不同整数的数目][2442]                            |![py]
@@ -2978,6 +2979,7 @@
 [2433]:Problemset/2433-Find%20The%20Original%20Array%20of%20Prefix%20Xor/README_CN.md#2433-找出前缀异或的原始数组
 [2434]:Problemset/2434-Using%20a%20Robot%20to%20Print%20the%20Lexicographically%20Smallest%20String/README_CN.md#2434-使用机器人打印字典序最小的字符串
 [2437]:Problemset/2437-Number%20of%20Valid%20Clock%20Times/README_CN.md#2437-有效时间的数目
+[2438]:Problemset/2438-Range%20Product%20Queries%20of%20Powers/README_CN.md#2438-二的幂数组中查询范围内的乘积
 [2439]:Problemset/2439-Minimize%20Maximum%20of%20Array/README_CN.md#2439-最小化数组中的最大值
 [2441]:Problemset/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README_CN.md#2441-与对应负数同时存在的最大正整数
 [2442]:Problemset/2442-Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations/README_CN.md#2442-反转之后不同整数的数目
@@ -4504,6 +4506,7 @@
 [2433l]:https://leetcode.cn/problems/find-the-original-array-of-prefix-xor/
 [2434l]:https://leetcode.cn/problems/using-a-robot-to-print-the-lexicographically-smallest-string/
 [2437l]:https://leetcode.cn/problems/number-of-valid-clock-times/
+[2438l]:https://leetcode.cn/problems/range-product-queries-of-powers/
 [2439l]:https://leetcode.cn/problems/minimize-maximum-of-array/
 [2441l]:https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative/
 [2442l]:https://leetcode.cn/problems/count-number-of-distinct-integers-after-reverse-operations/
