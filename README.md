@@ -1460,6 +1460,7 @@
 [2451][2451l]|[Odd String Difference][2451]                                                         |![py]
 [2452][2452l]|[Words Within Two Edits of Dictionary][2452]                                          |![rs]
 [2453][2453l]|[Destroy Sequential Targets][2453]                                                    |![rs]
+[2454][2454l]|[Next Greater Element IV][2454]                                                       |![rs]
 [2455][2455l]|[Average Value of Even Numbers That Are Divisible by Three][2455]                     |![rs]
 [2456][2456l]|[Most Popular Video Creator][2456]                                                    |![py]
 [2457][2457l]|[Minimum Addition to Make Integer Beautiful][2457]                                    |![py]
@@ -2988,6 +2989,7 @@
 [2451]:Problemset/2451-Odd%20String%20Difference/README.md#2451-odd-string-difference
 [2452]:Problemset/2452-Words%20Within%20Two%20Edits%20of%20Dictionary/README.md#2452-words-within-two-edits-of-dictionary
 [2453]:Problemset/2453-Destroy%20Sequential%20Targets/README.md#2453-destroy-sequential-targets
+[2454]:Problemset/2454-Next%20Greater%20Element%20IV/README.md#2454-next-greater-element-iv
 [2455]:Problemset/2455-Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three/README.md#2455-average-value-of-even-numbers-that-are-divisible-by-three
 [2456]:Problemset/2456-Most%20Popular%20Video%20Creator/README.md#2456-most-popular-video-creator
 [2457]:Problemset/2457-Minimum%20Addition%20to%20Make%20Integer%20Beautiful/README.md#2457-minimum-addition-to-make-integer-beautiful
@@ -4515,6 +4517,7 @@
 [2451l]:https://leetcode.com/problems/odd-string-difference/
 [2452l]:https://leetcode.com/problems/words-within-two-edits-of-dictionary/
 [2453l]:https://leetcode.com/problems/destroy-sequential-targets/
+[2454l]:https://leetcode.com/problems/next-greater-element-iv/
 [2455l]:https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/
 [2456l]:https://leetcode.com/problems/most-popular-video-creator/
 [2457l]:https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/
