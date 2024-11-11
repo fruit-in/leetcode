@@ -1345,6 +1345,7 @@
 [2243][2243l]|[Calculate Digit Sum of a String][2243]                                               |![py]
 [2244][2244l]|[Minimum Rounds to Complete All Tasks][2244]                                          |![py]
 [2245][2245l]|[Maximum Trailing Zeros in a Cornered Path][2245]                                     |![rs]
+[2246][2246l]|[Longest Path With Different Adjacent Characters][2246]                               |![rs]
 [2248][2248l]|[Intersection of Multiple Arrays][2248]                                               |![py]
 [2249][2249l]|[Count Lattice Points Inside a Circle][2249]                                          |![rs]
 [2251][2251l]|[Number of Flowers in Full Bloom][2251]                                               |![rs]
@@ -2874,6 +2875,7 @@
 [2243]:Problemset/2243-Calculate%20Digit%20Sum%20of%20a%20String/README.md#2243-calculate-digit-sum-of-a-string
 [2244]:Problemset/2244-Minimum%20Rounds%20to%20Complete%20All%20Tasks/README.md#2244-minimum-rounds-to-complete-all-tasks
 [2245]:Problemset/2245-Maximum%20Trailing%20Zeros%20in%20a%20Cornered%20Path/README.md#2245-maximum-trailing-zeros-in-a-cornered-path
+[2246]:Problemset/2246-Longest%20Path%20With%20Different%20Adjacent%20Characters/README.md#2246-longest-path-with-different-adjacent-characters
 [2248]:Problemset/2248-Intersection%20of%20Multiple%20Arrays/README.md#2248-intersection-of-multiple-arrays
 [2249]:Problemset/2249-Count%20Lattice%20Points%20Inside%20a%20Circle/README.md#2249-count-lattice-points-inside-a-circle
 [2251]:Problemset/2251-Number%20of%20Flowers%20in%20Full%20Bloom/README.md#2251-number-of-flowers-in-full-bloom
@@ -4402,6 +4404,7 @@
 [2243l]:https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 [2244l]:https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
 [2245l]:https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/
+[2246l]:https://leetcode.com/problems/longest-path-with-different-adjacent-characters/
 [2248l]:https://leetcode.com/problems/intersection-of-multiple-arrays/
 [2249l]:https://leetcode.com/problems/count-lattice-points-inside-a-circle/
 [2251l]:https://leetcode.com/problems/number-of-flowers-in-full-bloom/
