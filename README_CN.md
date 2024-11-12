@@ -1451,6 +1451,7 @@
 [2432][2432l]|[处理用时最长的那个任务的员工][2432]                      |![rs]
 [2433][2433l]|[找出前缀异或的原始数组][2433]                            |![rs]
 [2434][2434l]|[使用机器人打印字典序最小的字符串][2434]                  |![rs]
+[2435][2435l]|[矩阵中和能被 K 整除的路径][2435]                         |![rs]
 [2437][2437l]|[有效时间的数目][2437]                                    |![py]
 [2438][2438l]|[二的幂数组中查询范围内的乘积][2438]                      |![rs]
 [2439][2439l]|[最小化数组中的最大值][2439]                              |![rs]
@@ -2981,6 +2982,7 @@
 [2432]:Problemset/2432-The%20Employee%20That%20Worked%20on%20the%20Longest%20Task/README_CN.md#2432-处理用时最长的那个任务的员工
 [2433]:Problemset/2433-Find%20The%20Original%20Array%20of%20Prefix%20Xor/README_CN.md#2433-找出前缀异或的原始数组
 [2434]:Problemset/2434-Using%20a%20Robot%20to%20Print%20the%20Lexicographically%20Smallest%20String/README_CN.md#2434-使用机器人打印字典序最小的字符串
+[2435]:Problemset/2435-Paths%20in%20Matrix%20Whose%20Sum%20Is%20Divisible%20by%20K/README_CN.md#2435-矩阵中和能被-k-整除的路径
 [2437]:Problemset/2437-Number%20of%20Valid%20Clock%20Times/README_CN.md#2437-有效时间的数目
 [2438]:Problemset/2438-Range%20Product%20Queries%20of%20Powers/README_CN.md#2438-二的幂数组中查询范围内的乘积
 [2439]:Problemset/2439-Minimize%20Maximum%20of%20Array/README_CN.md#2439-最小化数组中的最大值
@@ -4510,6 +4512,7 @@
 [2432l]:https://leetcode.cn/problems/the-employee-that-worked-on-the-longest-task/
 [2433l]:https://leetcode.cn/problems/find-the-original-array-of-prefix-xor/
 [2434l]:https://leetcode.cn/problems/using-a-robot-to-print-the-lexicographically-smallest-string/
+[2435l]:https://leetcode.cn/problems/paths-in-matrix-whose-sum-is-divisible-by-k/
 [2437l]:https://leetcode.cn/problems/number-of-valid-clock-times/
 [2438l]:https://leetcode.cn/problems/range-product-queries-of-powers/
 [2439l]:https://leetcode.cn/problems/minimize-maximum-of-array/

@@ -1451,6 +1451,7 @@
 [2432][2432l]|[The Employee That Worked on the Longest Task][2432]                                  |![rs]
 [2433][2433l]|[Find The Original Array of Prefix Xor][2433]                                         |![rs]
 [2434][2434l]|[Using a Robot to Print the Lexicographically Smallest String][2434]                  |![rs]
+[2435][2435l]|[Paths in Matrix Whose Sum Is Divisible by K][2435]                                   |![rs]
 [2437][2437l]|[Number of Valid Clock Times][2437]                                                   |![py]
 [2438][2438l]|[Range Product Queries of Powers][2438]                                               |![rs]
 [2439][2439l]|[Minimize Maximum of Array][2439]                                                     |![rs]
@@ -2981,6 +2982,7 @@
 [2432]:Problemset/2432-The%20Employee%20That%20Worked%20on%20the%20Longest%20Task/README.md#2432-the-employee-that-worked-on-the-longest-task
 [2433]:Problemset/2433-Find%20The%20Original%20Array%20of%20Prefix%20Xor/README.md#2433-find-the-original-array-of-prefix-xor
 [2434]:Problemset/2434-Using%20a%20Robot%20to%20Print%20the%20Lexicographically%20Smallest%20String/README.md#2434-using-a-robot-to-print-the-lexicographically-smallest-string
+[2435]:Problemset/2435-Paths%20in%20Matrix%20Whose%20Sum%20Is%20Divisible%20by%20K/README.md#2435-paths-in-matrix-whose-sum-is-divisible-by-k
 [2437]:Problemset/2437-Number%20of%20Valid%20Clock%20Times/README.md#2437-number-of-valid-clock-times
 [2438]:Problemset/2438-Range%20Product%20Queries%20of%20Powers/README.md#2438-range-product-queries-of-powers
 [2439]:Problemset/2439-Minimize%20Maximum%20of%20Array/README.md#2439-minimize-maximum-of-array
@@ -4510,6 +4512,7 @@
 [2432l]:https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/
 [2433l]:https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
 [2434l]:https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/
+[2435l]:https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/
 [2437l]:https://leetcode.com/problems/number-of-valid-clock-times/
 [2438l]:https://leetcode.com/problems/range-product-queries-of-powers/
 [2439l]:https://leetcode.com/problems/minimize-maximum-of-array/
