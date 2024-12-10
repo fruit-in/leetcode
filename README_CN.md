@@ -120,6 +120,7 @@
 [139][139l]  |[单词拆分][139]                                           |![py]&nbsp;&nbsp;![rb]
 [141][141l]  |[环形链表][141]                                           |![py]
 [142][142l]  |[环形链表 II][142]                                        |![py]
+[143][143l]  |[重排链表][143]                                           |![py]
 [144][144l]  |[二叉树的前序遍历][144]                                   |![py]
 [145][145l]  |[二叉树的后序遍历][145]                                   |![py]
 [146][146l]  |[LRU 缓存][146]                                           |![py]
@@ -1651,6 +1652,7 @@
 [139]:Problemset/0139-Word%20Break/README_CN.md#139-单词拆分
 [141]:Problemset/0141-Linked%20List%20Cycle/README_CN.md#141-环形链表
 [142]:Problemset/0142-Linked%20List%20Cycle%20II/README_CN.md#142-环形链表-ii
+[143]:Problemset/0143-Reorder%20List/README_CN.md#143-重排链表
 [144]:Problemset/0144-Binary%20Tree%20Preorder%20Traversal/README_CN.md#144-二叉树的前序遍历
 [145]:Problemset/0145-Binary%20Tree%20Postorder%20Traversal/README_CN.md#145-二叉树的后序遍历
 [146]:Problemset/0146-LRU%20Cache/README_CN.md#146-lru-缓存
@@ -3176,6 +3178,7 @@
 [139l]:https://leetcode.cn/problems/word-break/
 [141l]:https://leetcode.cn/problems/linked-list-cycle/
 [142l]:https://leetcode.cn/problems/linked-list-cycle-ii/
+[143l]:https://leetcode.cn/problems/reorder-list/
 [144l]:https://leetcode.cn/problems/binary-tree-preorder-traversal/
 [145l]:https://leetcode.cn/problems/binary-tree-postorder-traversal/
 [146l]:https://leetcode.cn/problems/lru-cache/
