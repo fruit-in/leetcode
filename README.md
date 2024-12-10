@@ -1125,6 +1125,7 @@
 [1846][1846l]|[Maximum Element After Decreasing and Rearranging][1846]                              |![rs]
 [1847][1847l]|[Closest Room][1847]                                                                  |![py]
 [1848][1848l]|[Minimum Distance to the Target Element][1848]                                        |![rs]
+[1849][1849l]|[Splitting a String Into Descending Consecutive Values][1849]                         |![py]
 [1854][1854l]|[Maximum Population Year][1854]                                                       |![rs]
 [1855][1855l]|[Maximum Distance Between a Pair of Values][1855]                                     |![py]
 [1856][1856l]|[Maximum Subarray Min-Product][1856]                                                  |![rs]
@@ -2658,6 +2659,7 @@
 [1846]:Problemset/1846-Maximum%20Element%20After%20Decreasing%20and%20Rearranging/README.md#1846-maximum-element-after-decreasing-and-rearranging
 [1847]:Problemset/1847-Closest%20Room/README.md#1847-closest-room
 [1848]:Problemset/1848-Minimum%20Distance%20to%20the%20Target%20Element/README.md#1848-minimum-distance-to-the-target-element
+[1849]:Problemset/1849-Splitting%20a%20String%20Into%20Descending%20Consecutive%20Values/README.md#1849-splitting-a-string-into-descending-consecutive-values
 [1854]:Problemset/1854-Maximum%20Population%20Year/README.md#1854-maximum-population-year
 [1855]:Problemset/1855-Maximum%20Distance%20Between%20a%20Pair%20of%20Values/README.md#1855-maximum-distance-between-a-pair-of-values
 [1856]:Problemset/1856-Maximum%20Subarray%20Min-Product/README.md#1856-maximum-subarray-min-product
@@ -4190,6 +4192,7 @@
 [1846l]:https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 [1847l]:https://leetcode.com/problems/closest-room/
 [1848l]:https://leetcode.com/problems/minimum-distance-to-the-target-element/
+[1849l]:https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/
 [1854l]:https://leetcode.com/problems/maximum-population-year/
 [1855l]:https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
 [1856l]:https://leetcode.com/problems/maximum-subarray-min-product/

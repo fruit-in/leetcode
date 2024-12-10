@@ -1125,6 +1125,7 @@
 [1846][1846l]|[减小和重新排列数组后的最大元素][1846]                    |![rs]
 [1847][1847l]|[最近的房间][1847]                                        |![py]
 [1848][1848l]|[到目标元素的最小距离][1848]                              |![rs]
+[1849][1849l]|[将字符串拆分为递减的连续值][1849]                        |![py]
 [1854][1854l]|[人口最多的年份][1854]                                    |![rs]
 [1855][1855l]|[下标对中的最大距离][1855]                                |![py]
 [1856][1856l]|[子数组最小乘积的最大值][1856]                            |![rs]
@@ -2658,6 +2659,7 @@
 [1846]:Problemset/1846-Maximum%20Element%20After%20Decreasing%20and%20Rearranging/README_CN.md#1846-减小和重新排列数组后的最大元素
 [1847]:Problemset/1847-Closest%20Room/README_CN.md#1847-最近的房间
 [1848]:Problemset/1848-Minimum%20Distance%20to%20the%20Target%20Element/README_CN.md#1848-到目标元素的最小距离
+[1849]:Problemset/1849-Splitting%20a%20String%20Into%20Descending%20Consecutive%20Value/README_CN.md#1849-将字符串拆分为递减的连续值
 [1854]:Problemset/1854-Maximum%20Population%20Year/README_CN.md#1854-人口最多的年份
 [1855]:Problemset/1855-Maximum%20Distance%20Between%20a%20Pair%20of%20Values/README_CN.md#1855-下标对中的最大距离
 [1856]:Problemset/1856-Maximum%20Subarray%20Min-Product/README_CN.md#1856-子数组最小乘积的最大值
@@ -4190,6 +4192,7 @@
 [1846l]:https://leetcode.cn/problems/maximum-element-after-decreasing-and-rearranging/
 [1847l]:https://leetcode.cn/problems/closest-room/
 [1848l]:https://leetcode.cn/problems/minimum-distance-to-the-target-element/
+[1849l]:https://leetcode.cn/problems/splitting-a-string-into-descending-consecutive-values/
 [1854l]:https://leetcode.cn/problems/maximum-population-year/
 [1855l]:https://leetcode.cn/problems/maximum-distance-between-a-pair-of-values/
 [1856l]:https://leetcode.cn/problems/maximum-subarray-min-product/
