@@ -1315,6 +1315,7 @@
 [2188][2188l]|[完成比赛的最少时间][2188]                                |![rs]
 [2190][2190l]|[数组中紧跟 key 之后出现最频繁的数字][2190]               |![rs]
 [2191][2191l]|[将杂乱无章的数字排序][2191]                              |![rs]
+[2192][2192l]|[有向无环图中一个节点的所有祖先][2192]                    |![py]
 [2194][2194l]|[Excel 表中某个范围内的单元格][2194]                      |![rs]
 [2195][2195l]|[向数组中追加 K 个整数][2195]                             |![rs]
 [2196][2196l]|[根据描述创建二叉树][2196]                                |![py]
@@ -2849,6 +2850,7 @@
 [2188]:Problemset/2188-Minimum%20Time%20to%20Finish%20the%20Race/README_CN.md#2188-完成比赛的最少时间
 [2190]:Problemset/2190-Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array/README_CN.md#2190-数组中紧跟-key-之后出现最频繁的数字
 [2191]:Problemset/2191-Sort%20the%20Jumbled%20Numbers/README_CN.md#2191-将杂乱无章的数字排序
+[2192]:Problemset/2192-All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph/README_CN.md#2192-有向无环图中一个节点的所有祖先
 [2194]:Problemset/2194-Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet/README_CN.md#2194-excel-表中某个范围内的单元格
 [2195]:Problemset/2195-Append%20K%20Integers%20With%20Minimal%20Sum/README_CN.md#2195-向数组中追加-k-个整数
 [2196]:Problemset/2196-Create%20Binary%20Tree%20From%20Descriptions/README_CN.md#2196-根据描述创建二叉树
@@ -4382,6 +4384,7 @@
 [2188l]:https://leetcode.cn/problems/minimum-time-to-finish-the-race/
 [2190l]:https://leetcode.cn/problems/most-frequent-number-following-key-in-an-array/
 [2191l]:https://leetcode.cn/problems/sort-the-jumbled-numbers/
+[2192l]:https://leetcode.cn/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/
 [2194l]:https://leetcode.cn/problems/cells-in-a-range-on-an-excel-sheet/
 [2195l]:https://leetcode.cn/problems/append-k-integers-with-minimal-sum/
 [2196l]:https://leetcode.cn/problems/create-binary-tree-from-descriptions/
