@@ -25,6 +25,7 @@
 [21][21l]    |[Merge Two Sorted Lists][21]                                                          |![py]
 [22][22l]    |[Generate Parentheses][22]                                                            |![rs]
 [24][24l]    |[Swap Nodes in Pairs][24]                                                             |![py]
+[25][25l]    |[Reverse Nodes in k-Group][25]                                                        |![py]
 [26][26l]    |[Remove Duplicates from Sorted Array][26]                                             |![rs]
 [27][27l]    |[Remove Element][27]                                                                  |![rb]&nbsp;&nbsp;![rs]
 [28][28l]    |[Implement strStr()][28]                                                              |![py]
@@ -1561,6 +1562,7 @@
 [21]:Problemset/0021-Merge%20Two%20Sorted%20Lists/README.md#21-merge-two-sorted-lists
 [22]:Problemset/0022-Generate%20Parentheses/README.md#22-generate-parentheses
 [24]:Problemset/0024-Swap%20Nodes%20in%20Pairs/README.md#24-swap-nodes-in-pairs
+[25]:Problemset/0025-Reverse%20Nodes%20in%20k-Group/README.md#25-reverse-nodes-in-k-group
 [26]:Problemset/0026-Remove%20Duplicates%20from%20Sorted%20Array/README.md#26-remove-duplicates-from-sorted-array
 [27]:Problemset/0027-Remove%20Element/README.md#27-remove-element
 [28]:Problemset/0028-Implement%20strStr\(\)/README.md#28-implement-strstr
@@ -3089,6 +3091,7 @@
 [21l]:https://leetcode.com/problems/merge-two-sorted-lists/
 [22l]:https://leetcode.com/problems/generate-parentheses/
 [24l]:https://leetcode.com/problems/swap-nodes-in-pairs/
+[25l]:https://leetcode.com/problems/reverse-nodes-in-k-group/
 [26l]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [27l]:https://leetcode.com/problems/remove-element/
 [28l]:https://leetcode.com/problems/implement-strstr/

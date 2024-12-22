@@ -25,6 +25,7 @@
 [21][21l]    |[合并两个有序链表][21]                                    |![py]
 [22][22l]    |[括号生成][22]                                            |![rs]
 [24][24l]    |[两两交换链表中的节点][24]                                |![py]
+[25][25l]    |[K 个一组翻转链表][25]                                    |![py]
 [26][26l]    |[删除排序数组中的重复项][26]                              |![rs]
 [27][27l]    |[移除元素][27]                                            |![rb]&nbsp;&nbsp;![rs]
 [28][28l]    |[实现 strStr()][28]                                       |![py]
@@ -1561,6 +1562,7 @@
 [21]:Problemset/0021-Merge%20Two%20Sorted%20Lists/README_CN.md#21-合并两个有序链表
 [22]:Problemset/0022-Generate%20Parentheses/README_CN.md#22-括号生成
 [24]:Problemset/0024-Swap%20Nodes%20in%20Pairs/README_CN.md#24-两两交换链表中的节点
+[25]:Problemset/0025-Reverse%20Nodes%20in%20k-Group/README_CN.md#25-k-个一组翻转链表
 [26]:Problemset/0026-Remove%20Duplicates%20from%20Sorted%20Array/README_CN.md#26-删除排序数组中的重复项
 [27]:Problemset/0027-Remove%20Element/README_CN.md#27-移除元素
 [28]:Problemset/0028-Implement%20strStr\(\)/README_CN.md#28-实现-strstr
@@ -3089,6 +3091,7 @@
 [21l]:https://leetcode.cn/problems/merge-two-sorted-lists/
 [22l]:https://leetcode.cn/problems/generate-parentheses/
 [24l]:https://leetcode.cn/problems/swap-nodes-in-pairs/
+[25l]:https://leetcode.cn/problems/reverse-nodes-in-k-group/
 [26l]:https://leetcode.cn/problems/remove-duplicates-from-sorted-array/
 [27l]:https://leetcode.cn/problems/remove-element/
 [28l]:https://leetcode.cn/problems/implement-strstr/
