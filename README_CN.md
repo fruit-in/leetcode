@@ -1183,6 +1183,7 @@
 [1961][1961l]|[检查字符串是否为数组前缀][1961]                          |![py]
 [1962][1962l]|[移除石子使总数最小][1962]                                |![rs]
 [1963][1963l]|[使字符串平衡的最小交换次数][1963]                        |![rs]
+[1964][1964l]|[找出到每个位置为止最长的有效障碍赛跑路线][1964]          |![py]
 [1967][1967l]|[作为子字符串出现在单词中的字符串数目][1967]              |![py]
 [1968][1968l]|[构造元素不等于两相邻元素平均值的数组][1968]              |![rs]
 [1969][1969l]|[数组元素的最小非零乘积][1969]                            |![rs]
@@ -2718,6 +2719,7 @@
 [1961]:Problemset/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README_CN.md#1961-检查字符串是否为数组前缀
 [1962]:Problemset/1962-Remove%20Stones%20to%20Minimize%20the%20Total/README_CN.md#1962-移除石子使总数最小
 [1963]:Problemset/1963-Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced/README_CN.md#1963-使字符串平衡的最小交换次数
+[1964]:Problemset/1964-Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position/README_CN.md#1964-找出到每个位置为止最长的有效障碍赛跑路线
 [1967]:Problemset/1967-Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/README_CN.md#1967-作为子字符串出现在单词中的字符串数目
 [1968]:Problemset/1968-Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors/README_CN.md#1968-构造元素不等于两相邻元素平均值的数组
 [1969]:Problemset/1969-Minimum%20Non-Zero%20Product%20of%20the%20Array%20Elements/README_CN.md#1969-数组元素的最小非零乘积
@@ -4252,6 +4254,7 @@
 [1961l]:https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array/
 [1962l]:https://leetcode.cn/problems/remove-stones-to-minimize-the-total/
 [1963l]:https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-string-balanced/
+[1964l]:https://leetcode.cn/problems/find-the-longest-valid-obstacle-course-at-each-position/
 [1967l]:https://leetcode.cn/problems/number-of-strings-that-appear-as-substrings-in-word/
 [1968l]:https://leetcode.cn/problems/array-with-elements-not-equal-to-average-of-neighbors/
 [1969l]:https://leetcode.cn/problems/minimum-non-zero-product-of-the-array-elements/

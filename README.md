@@ -1183,6 +1183,7 @@
 [1961][1961l]|[Check If String Is a Prefix of Array][1961]                                          |![py]
 [1962][1962l]|[Remove Stones to Minimize the Total][1962]                                           |![rs]
 [1963][1963l]|[Minimum Number of Swaps to Make the String Balanced][1963]                           |![rs]
+[1964][1964l]|[Find the Longest Valid Obstacle Course at Each Position][1964]                       |![py]
 [1967][1967l]|[Number of Strings That Appear as Substrings in Word][1967]                           |![py]
 [1968][1968l]|[Array With Elements Not Equal to Average of Neighbors][1968]                         |![rs]
 [1969][1969l]|[Minimum Non-Zero Product of the Array Elements][1969]                                |![rs]
@@ -2718,6 +2719,7 @@
 [1961]:Problemset/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README.md#1961-check-if-string-is-a-prefix-of-array
 [1962]:Problemset/1962-Remove%20Stones%20to%20Minimize%20the%20Total/README.md#1962-remove-stones-to-minimize-the-total
 [1963]:Problemset/1963-Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced/README.md#1963-minimum-number-of-swaps-to-make-the-string-balanced
+[1964]:Problemset/1964-Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position/README.md#1964-find-the-longest-valid-obstacle-course-at-each-position
 [1967]:Problemset/1967-Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/README.md#1967-number-of-strings-that-appear-as-substrings-in-word
 [1968]:Problemset/1968-Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors/README.md#1968-array-with-elements-not-equal-to-average-of-neighbors
 [1969]:Problemset/1969-Minimum%20Non-Zero%20Product%20of%20the%20Array%20Elements/README.md#1969-minimum-non-zero-product-of-the-array-elements
@@ -4252,6 +4254,7 @@
 [1961l]:https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 [1962l]:https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 [1963l]:https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
+[1964l]:https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/
 [1967l]:https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 [1968l]:https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 [1969l]:https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/
