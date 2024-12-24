@@ -629,6 +629,7 @@
 [965][965l]  |[单值二叉树][965]                                         |![py]
 [966][966l]  |[元音拼写检查器][966]                                     |![py]
 [967][967l]  |[连续差相同的数字][967]                                   |![rb]&nbsp;&nbsp;![rs]
+[968][968l]  |[监控二叉树][968]                                         |![py]
 [969][969l]  |[煎饼排序][969]                                           |![py]
 [970][970l]  |[强整数][970]                                             |![rs]
 [973][973l]  |[最接近原点的 K 个点][973]                                |![rs]
@@ -2167,6 +2168,7 @@
 [965]:Problemset/0965-Univalued%20Binary%20Tree/README_CN.md#965-单值二叉树
 [966]:Problemset/0966-Vowel%20Spellchecker/README_CN.md#966-元音拼写检查器
 [967]:Problemset/0967-Numbers%20With%20Same%20Consecutive%20Differences/README_CN.md#967-连续差相同的数字
+[968]:Problemset/0968-Binary%20Tree%20Cameras/README_CN.md#968-监控二叉树
 [969]:Problemset/0969-Pancake%20Sorting/README_CN.md#969-煎饼排序
 [970]:Problemset/0970-Powerful%20Integers/README_CN.md#970-强整数
 [973]:Problemset/0973-K%20Closest%20Points%20to%20Origin/README_CN.md#973-最接近原点的-K-个点
@@ -3704,6 +3706,7 @@
 [965l]:https://leetcode.cn/problems/univalued-binary-tree/
 [966l]:https://leetcode.cn/problems/vowel-spellchecker/
 [967l]:https://leetcode.cn/problems/numbers-with-same-consecutive-differences/
+[968l]:https://leetcode.cn/problems/binary-tree-cameras/
 [969l]:https://leetcode.cn/problems/pancake-sorting/
 [970l]:https://leetcode.cn/problems/powerful-integers/
 [973l]:https://leetcode.cn/problems/k-closest-points-to-origin/

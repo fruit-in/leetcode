@@ -629,6 +629,7 @@
 [965][965l]  |[Univalued Binary Tree][965]                                                          |![py]
 [966][966l]  |[Vowel Spellchecker][966]                                                             |![py]
 [967][967l]  |[Numbers With Same Consecutive Differences][967]                                      |![rb]&nbsp;&nbsp;![rs]
+[968][968l]  |[Binary Tree Cameras][968]                                                            |![py]
 [969][969l]  |[Pancake Sorting][969]                                                                |![py]
 [970][970l]  |[Powerful Integers][970]                                                              |![rs]
 [973][973l]  |[K Closest Points to Origin][973]                                                     |![rs]
@@ -2167,6 +2168,7 @@
 [965]:Problemset/0965-Univalued%20Binary%20Tree/README.md#965-univalued-binary-tree
 [966]:Problemset/0966-Vowel%20Spellchecker/README.md#966-vowel-spellchecker
 [967]:Problemset/0967-Numbers%20With%20Same%20Consecutive%20Differences/README.md#967-numbers-with-same-consecutive-differences
+[968]:Problemset/0968-Binary%20Tree%20Cameras/README.md#968-binary-tree-cameras
 [969]:Problemset/0969-Pancake%20Sorting/README.md#969-pancake-sorting
 [970]:Problemset/0970-Powerful%20Integers/README.md#970-powerful-integers
 [973]:Problemset/0973-K%20Closest%20Points%20to%20Origin/README.md#973-k-closest-points-to-origin
@@ -3704,6 +3706,7 @@
 [965l]:https://leetcode.com/problems/univalued-binary-tree/
 [966l]:https://leetcode.com/problems/vowel-spellchecker/
 [967l]:https://leetcode.com/problems/numbers-with-same-consecutive-differences/
+[968l]:https://leetcode.com/problems/binary-tree-cameras/
 [969l]:https://leetcode.com/problems/pancake-sorting/
 [970l]:https://leetcode.com/problems/powerful-integers/
 [973l]:https://leetcode.com/problems/k-closest-points-to-origin/
