@@ -1476,6 +1476,7 @@
 [2457][2457l]|[美丽整数的最小增量][2457]                                |![py]
 [2460][2460l]|[对数组执行操作][2460]                                    |![rs]
 [2465][2465l]|[不同的平均值数目][2465]                                  |![rs]
+[2466][2466l]|[统计构造好字符串的方案数][2466]                          |![rs]
 [2469][2469l]|[温度转换][2469]                                          |![rs]
 [2475][2475l]|[数组中不等三元组的数目][2475]                            |![rs]
 [2476][2476l]|[二叉搜索树最近节点查询][2476]                            |![py]
@@ -3015,6 +3016,7 @@
 [2457]:Problemset/2457-Minimum%20Addition%20to%20Make%20Integer%20Beautiful/README_CN.md#2457-美丽整数的最小增量
 [2460]:Problemset/2460-Apply%20Operations%20to%20an%20Array/README_CN.md#2460-对数组执行操作
 [2465]:Problemset/2465-Number%20of%20Distinct%20Averages/README_CN.md#2465-不同的平均值数目
+[2466]:Problemset/2466-Count%20Ways%20To%20Build%20Good%20Strings/README_CN.md#2466-统计构造好字符串的方案数
 [2469]:Problemset/2469-Convert%20the%20Temperature/README_CN.md#2469-温度转换
 [2475]:Problemset/2475-Number%20of%20Unequal%20Triplets%20in%20Array/README_CN.md#2475-数组中不等三元组的数目
 [2476]:Problemset/2476-Closest%20Nodes%20Queries%20in%20a%20Binary%20Search%20Tree/README_CN.md#2476-二叉搜索树最近节点查询
@@ -4553,6 +4555,7 @@
 [2457l]:https://leetcode.cn/problems/minimum-addition-to-make-integer-beautiful/
 [2460l]:https://leetcode.cn/problems/apply-operations-to-an-array/
 [2465l]:https://leetcode.cn/problems/number-of-distinct-averages/
+[2466l]:https://leetcode.cn/problems/count-ways-to-build-good-strings/
 [2469l]:https://leetcode.cn/problems/convert-the-temperature/
 [2475l]:https://leetcode.cn/problems/number-of-unequal-triplets-in-array/
 [2476l]:https://leetcode.cn/problems/closest-nodes-queries-in-a-binary-search-tree/
