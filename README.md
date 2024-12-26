@@ -1168,6 +1168,7 @@
 [1915][1915l]|[Number of Wonderful Substrings][1915]                                                |![rs]
 [1920][1920l]|[Build Array from Permutation][1920]                                                  |![rs]
 [1921][1921l]|[Eliminate Maximum Number of Monsters][1921]                                          |![rs]
+[1922][1922l]|[Count Good Numbers][1922]                                                            |![rs]
 [1925][1925l]|[Count Square Sum Triples][1925]                                                      |![py]
 [1926][1926l]|[Nearest Exit from Entrance in Maze][1926]                                            |![rs]
 [1929][1929l]|[Concatenation of Array][1929]                                                        |![py]&nbsp;&nbsp;![rs]
@@ -2709,6 +2710,7 @@
 [1915]:Problemset/1915-Number%20of%20Wonderful%20Substrings/README.md#1915-number-of-wonderful-substrings
 [1920]:Problemset/1920-Build%20Array%20from%20Permutation/README.md#1920-build-array-from-permutation
 [1921]:Problemset/1921-Eliminate%20Maximum%20Number%20of%20Monsters/README.md#1921-eliminate-maximum-number-of-monsters
+[1922]:Problemset/1922-Count%20Good%20Numbers/README.md#1922-count-good-numbers
 [1925]:Problemset/1925-Count%20Square%20Sum%20Triples/README.md#1925-count-square-sum-triples
 [1926]:Problemset/1926-Nearest%20Exit%20from%20Entrance%20in%20Maze/README.md#1926-nearest-exit-from-entrance-in-maze
 [1929]:Problemset/1929-Concatenation%20of%20Array/README.md#1929-concatenation-of-array
@@ -4249,6 +4251,7 @@
 [1915l]:https://leetcode.com/problems/number-of-wonderful-substrings/
 [1920l]:https://leetcode.com/problems/build-array-from-permutation/
 [1921l]:https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
+[1922l]:https://leetcode.com/problems/count-good-numbers/
 [1925l]:https://leetcode.com/problems/count-square-sum-triples/
 [1926l]:https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 [1929l]:https://leetcode.com/problems/concatenation-of-array/
