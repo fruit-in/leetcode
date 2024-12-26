@@ -1361,6 +1361,7 @@
 [2251][2251l]|[Number of Flowers in Full Bloom][2251]                                               |![rs]
 [2255][2255l]|[Count Prefixes of a Given String][2255]                                              |![rs]
 [2256][2256l]|[Minimum Average Difference][2256]                                                    |![rs]
+[2257][2257l]|[Count Unguarded Cells in the Grid][2257]                                             |![rs]
 [2259][2259l]|[Remove Digit From Number to Maximize Result][2259]                                   |![py]
 [2260][2260l]|[Minimum Consecutive Cards to Pick Up][2260]                                          |![rs]
 [2262][2262l]|[Total Appeal of A String][2262]                                                      |![rs]
@@ -2903,6 +2904,7 @@
 [2251]:Problemset/2251-Number%20of%20Flowers%20in%20Full%20Bloom/README.md#2251-number-of-flowers-in-full-bloom
 [2255]:Problemset/2255-Count%20Prefixes%20of%20a%20Given%20String/README.md#2255-count-prefixes-of-a-given-string
 [2256]:Problemset/2256-Minimum%20Average%20Difference/README.md#2256-minimum-average-difference
+[2257]:Problemset/2257-Count%20Unguarded%20Cells%20in%20the%20Grid/README.md#2257-count-unguarded-cells-in-the-grid
 [2259]:Problemset/2259-Remove%20Digit%20From%20Number%20to%20Maximize%20Result/README.md#2259-remove-digit-from-number-to-maximize-result
 [2260]:Problemset/2260-Minimum%20Consecutive%20Cards%20to%20Pick%20Up/README.md#2260-minimum-consecutive-cards-to-pick-up
 [2262]:Problemset/2262-Total%20Appeal%20of%20A%20String/README.md#2262-total-appeal-of-a-string
@@ -4444,6 +4446,7 @@
 [2251l]:https://leetcode.com/problems/number-of-flowers-in-full-bloom/
 [2255l]:https://leetcode.com/problems/count-prefixes-of-a-given-string/
 [2256l]:https://leetcode.com/problems/minimum-average-difference/
+[2257l]:https://leetcode.com/problems/count-unguarded-cells-in-the-grid/
 [2259l]:https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 [2260l]:https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/
 [2262l]:https://leetcode.com/problems/total-appeal-of-a-string/
