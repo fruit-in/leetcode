@@ -1499,6 +1499,7 @@
 [2511][2511l]|[最多可以摧毁的敌人城堡数目][2511]                        |![rs]
 [2512][2512l]|[奖励最顶尖的 K 名学生][2512]                             |![py]
 [2515][2515l]|[到目标字符串的最短距离][2515]                            |![rs]
+[2516][2516l]|[每种字符至少取 K 个][2516]                               |![rs]
 [2520][2520l]|[统计能整除数字的位数][2520]                              |![rs]
 [2521][2521l]|[数组乘积中的不同质因数数目][2521]                        |![rs]
 [2523][2523l]|[范围内最接近的两个质数][2523]                            |![rs]
@@ -3042,6 +3043,7 @@
 [2511]:Problemset/2511-Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured/README_CN.md#2511-最多可以摧毁的敌人城堡数目
 [2512]:Problemset/2512-Reward%20Top%20K%20Students/README_CN.md#2512-奖励最顶尖的-k-名学生
 [2515]:Problemset/2515-Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/README_CN.md#2515-到目标字符串的最短距离
+[2516]:Problemset/2516-Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right/README_CN.md#2516-每种字符至少取-k-个
 [2520]:Problemset/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README_CN.md#2520-统计能整除数字的位数
 [2521]:Problemset/2521-Distinct%20Prime%20Factors%20of%20Product%20of%20Array/README_CN.md#2521-数组乘积中的不同质因数数目
 [2523]:Problemset/2523-Closest%20Prime%20Numbers%20in%20Range/README_CN.md#2523-范围内最接近的两个质数
@@ -4584,6 +4586,7 @@
 [2511l]:https://leetcode.cn/problems/maximum-enemy-forts-that-can-be-captured/
 [2512l]:https://leetcode.cn/problems/reward-top-k-students/
 [2515l]:https://leetcode.cn/problems/shortest-distance-to-target-string-in-a-circular-array/
+[2516l]:https://leetcode.cn/problems/take-k-of-each-character-from-left-and-right/
 [2520l]:https://leetcode.cn/problems/count-the-digits-that-divide-a-number/
 [2521l]:https://leetcode.cn/problems/distinct-prime-factors-of-product-of-array/
 [2523l]:https://leetcode.cn/problems/closest-prime-numbers-in-range/
