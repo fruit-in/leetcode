@@ -1499,6 +1499,7 @@
 [2509][2509l]|[Cycle Length Queries in a Tree][2509]                                                |![rs]
 [2511][2511l]|[Maximum Enemy Forts That Can Be Captured][2511]                                      |![rs]
 [2512][2512l]|[Reward Top K Students][2512]                                                         |![py]
+[2514][2514l]|[Count Anagrams][2514]                                                                |![rs]
 [2515][2515l]|[Shortest Distance to Target String in a Circular Array][2515]                        |![rs]
 [2516][2516l]|[Take K of Each Character From Left and Right][2516]                                  |![rs]
 [2520][2520l]|[Count the Digits That Divide a Number][2520]                                         |![rs]
@@ -3044,6 +3045,7 @@
 [2509]:Problemset/2509-Cycle%20Length%20Queries%20in%20a%20Tree/README.md#2509-cycle-length-queries-in-a-tree
 [2511]:Problemset/2511-Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured/README.md#2511-maximum-enemy-forts-that-can-be-captured
 [2512]:Problemset/2512-Reward%20Top%20K%20Students/README.md#2512-reward-top-k-students
+[2514]:Problemset/2514-Count%20Anagrams/README.md#2514-count-anagrams
 [2515]:Problemset/2515-Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/README.md#2515-shortest-distance-to-target-string-in-a-circular-array
 [2516]:Problemset/2516-Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right/README.md#2516-take-k-of-each-character-from-left-and-right
 [2520]:Problemset/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README.md#2520-count-the-digits-that-divide-a-number
@@ -4588,6 +4590,7 @@
 [2509l]:https://leetcode.com/problems/cycle-length-queries-in-a-tree/
 [2511l]:https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/
 [2512l]:https://leetcode.com/problems/reward-top-k-students/
+[2514l]:https://leetcode.com/problems/count-anagrams/
 [2515l]:https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 [2516l]:https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/
 [2520l]:https://leetcode.com/problems/count-the-digits-that-divide-a-number/
