@@ -111,6 +111,7 @@
 [121][121l]  |[买卖股票的最佳时机][121]                                 |![rs]
 [122][122l]  |[买卖股票的最佳时机 II][122]                              |![rs]
 [125][125l]  |[验证回文串][125]                                         |![py]
+[128][128l]  |[最长连续序列][128]                                       |![rs]
 [129][129l]  |[求根到叶子节点数字之和][129]                             |![py]
 [131][131l]  |[分割回文串][131]                                         |![py]
 [133][133l]  |[克隆图][133]                                             |![py]
@@ -1657,6 +1658,7 @@
 [121]:Problemset/0121-Best%20Time%20to%20Buy%20and%20Sell%20Stock/README_CN.md#121-买卖股票的最佳时机
 [122]:Problemset/0122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README_CN.md#122-买卖股票的最佳时机-ii
 [125]:Problemset/0125-Valid%20Palindrome/README_CN.md#125-验证回文串
+[128]:Problemset/0128-Longest%20Consecutive%20Sequence/README_CN.md#128-最长连续序列
 [129]:Problemset/0129-Sum%20Root%20to%20Leaf%20Numbers/README_CN.md#129-求根到叶子节点数字之和
 [131]:Problemset/0131-Palindrome%20Partitioning/README_CN.md#131-分割回文串
 [133]:Problemset/0133-Clone%20Graph/README_CN.md#133-克隆图
@@ -3197,6 +3199,7 @@
 [121l]:https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/
 [122l]:https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/
 [125l]:https://leetcode.cn/problems/valid-palindrome/
+[128l]:https://leetcode.cn/problems/longest-consecutive-sequence/
 [129l]:https://leetcode.cn/problems/sum-root-to-leaf-numbers/
 [131l]:https://leetcode.cn/problems/palindrome-partitioning/
 [133l]:https://leetcode.cn/problems/clone-graph/
