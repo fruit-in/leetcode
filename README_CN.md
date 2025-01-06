@@ -1511,6 +1511,7 @@
 [2529][2529l]|[正整数和负整数的最大计数][2529]                          |![py]
 [2535][2535l]|[数组元素和与数字和的绝对差][2535]                        |![rs]
 [2540][2540l]|[最小公共值][2540]                                        |![rs]
+[2541][2541l]|[使数组中所有元素相等的最小操作数 II][2541]               |![rs]
 [2544][2544l]|[交替数字和][2544]                                        |![rs]
 [2549][2549l]|[统计桌面上的不同数字][2549]                              |![rs]
 [2550][2550l]|[猴子碰撞的方法数][2550]                                  |![rs]
@@ -3058,6 +3059,7 @@
 [2529]:Problemset/2529-Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/README_CN.md#2529-正整数和负整数的最大计数
 [2535]:Problemset/2535-Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/README_CN.md#2535-数组元素和与数字和的绝对差
 [2540]:Problemset/2540-Minimum%20Common%20Value/README_CN.md#2540-最小公共值
+[2541]:Problemset/2541-Minimum%20Operations%20to%20Make%20Array%20Equal%20II/README_CN.md#2541-使数组中所有元素相等的最小操作数-ii
 [2544]:Problemset/2544-Alternating%20Digit%20Sum/README_CN.md#2544-交替数字和
 [2549]:Problemset/2549-Count%20Distinct%20Numbers%20on%20Board/README_CN.md#2549-统计桌面上的不同数字
 [2550]:Problemset/2550-Count%20Collisions%20of%20Monkeys%20on%20a%20Polygon/README_CN.md#2550-猴子碰撞的方法数
@@ -4604,6 +4606,7 @@
 [2529l]:https://leetcode.cn/problems/maximum-count-of-positive-integer-and-negative-integer/
 [2535l]:https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 [2540l]:https://leetcode.cn/problems/minimum-common-value/
+[2541l]:https://leetcode.cn/problems/minimum-operations-to-make-array-equal-ii/
 [2544l]:https://leetcode.cn/problems/alternating-digit-sum/
 [2549l]:https://leetcode.cn/problems/count-distinct-numbers-on-board/
 [2550l]:https://leetcode.cn/problems/count-collisions-of-monkeys-on-a-polygon/
