@@ -103,6 +103,7 @@
 [112][112l]  |[路径总和][112]                                           |![py]
 [113][113l]  |[路径总和 II][113]                                        |![py]
 [114][114l]  |[二叉树展开为链表][114]                                   |![py]&nbsp;&nbsp;![rb]
+[115][115l]  |[不同的子序列][115]                                       |![rs]
 [116][116l]  |[填充每个节点的下一个右侧节点指针][116]                   |![rb]
 [117][117l]  |[填充每个节点的下一个右侧节点指针 II][117]                |![py]
 [118][118l]  |[杨辉三角][118]                                           |![py]
@@ -1651,6 +1652,7 @@
 [112]:Problemset/0112-Path%20Sum/README_CN.md#112-路径总和
 [113]:Problemset/0113-Path%20Sum%20II/README_CN.md#113-路径总和-ii
 [114]:Problemset/0114-Flatten%20Binary%20Tree%20to%20Linked%20List/README_CN.md#114-二叉树展开为链表
+[115]:Problemset/0115-Distinct%20Subsequences/README_CN.md#115-不同的子序列
 [116]:Problemset/0116-Populating%20Next%20Right%20Pointers%20in%20Each%20Node/README_CN.md#116-填充每个节点的下一个右侧节点指针
 [117]:Problemset/0117-Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II/README_CN.md#117-填充每个节点的下一个右侧节点指针-ii
 [118]:Problemset/0118-Pascal's%20Triangle/README_CN.md#118-杨辉三角
@@ -3193,6 +3195,7 @@
 [112l]:https://leetcode.cn/problems/path-sum/
 [113l]:https://leetcode.cn/problems/path-sum-ii/
 [114l]:https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/
+[115l]:https://leetcode.cn/problems/distinct-subsequences/
 [116l]:https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/
 [117l]:https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/
 [118l]:https://leetcode.cn/problems/pascals-triangle/
