@@ -745,6 +745,7 @@
 [1162][1162l]|[地图分析][1162]                                          |![rs]
 [1169][1169l]|[查询无效交易][1169]                                      |![rs]
 [1170][1170l]|[比较字符串最小字母出现频次][1170]                        |![py]
+[1171][1171l]|[从链表中删去总和值为零的连续节点][1171]                  |![py]
 [1172][1172l]|[餐盘栈][1172]                                            |![rs]
 [1175][1175l]|[质数排列][1175]                                          |![rs]
 [1177][1177l]|[构建回文串检测][1177]                                    |![rs]
@@ -2296,6 +2297,7 @@
 [1162]:Problemset/1162-As%20Far%20from%20Land%20as%20Possible/README_CN.md#1162-地图分析
 [1169]:Problemset/1169-Invalid%20Transactions/README_CN.md#1169-查询无效交易
 [1170]:Problemset/1170-Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/README_CN.md#1170-比较字符串最小字母出现频次
+[1171]:Problemset/1171-Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List/README_CN.md#1171-从链表中删去总和值为零的连续节点
 [1172]:Problemset/1172-Dinner%20Plate%20Stacks/README_CN.md#1172-餐盘栈
 [1175]:Problemset/1175-Prime%20Arrangements/README_CN.md#1175-质数排列
 [1177]:Problemset/1177-Can%20Make%20Palindrome%20from%20Substring/README_CN.md#1177-构建回文串检测
@@ -3846,6 +3848,7 @@
 [1162l]:https://leetcode.cn/problems/as-far-from-land-as-possible/
 [1169l]:https://leetcode.cn/problems/invalid-transactions/
 [1170l]:https://leetcode.cn/problems/compare-strings-by-frequency-of-the-smallest-character/
+[1171l]:https://leetcode.cn/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
 [1172l]:https://leetcode.cn/problems/dinner-plate-stacks/
 [1175l]:https://leetcode.cn/problems/prime-arrangements/
 [1177l]:https://leetcode.cn/problems/can-make-palindrome-from-substring/

@@ -745,6 +745,7 @@
 [1162][1162l]|[As Far from Land as Possible][1162]                                                  |![rs]
 [1169][1169l]|[invalid-transactions][1169]                                                          |![rs]
 [1170][1170l]|[Compare Strings by Frequency of the Smallest Character][1170]                        |![py]
+[1171][1171l]|[Remove Zero Sum Consecutive Nodes from Linked List][1171]                            |![py]
 [1172][1172l]|[Dinner Plate Stacks][1172]                                                           |![rs]
 [1175][1175l]|[Prime Arrangements][1175]                                                            |![rs]
 [1177][1177l]|[Can Make Palindrome from Substring][1177]                                            |![rs]
@@ -2296,6 +2297,7 @@
 [1162]:Problemset/1162-As%20Far%20from%20Land%20as%20Possible/README.md#1162-as-far-from-land-as-possible
 [1169]:Problemset/1169-Invalid%20Transactions/README.md#1169-invalid-transactions
 [1170]:Problemset/1170-Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/README.md#1170-compare-strings-by-frequency-of-the-smallest-character
+[1171]:Problemset/1171-Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List/README.md#1171-remove-zero-sum-consecutive-nodes-from-linked-list
 [1172]:Problemset/1172-Dinner%20Plate%20Stacks/README.md#1172-dinner-plate-stacks
 [1175]:Problemset/1175-Prime%20Arrangements/README.md#1175-prime-arrangements
 [1177]:Problemset/1177-Can%20Make%20Palindrome%20from%20Substring/README.md#1177-can-make-palindrome-from-substring
@@ -3846,6 +3848,7 @@
 [1162l]:https://leetcode.com/problems/as-far-from-land-as-possible/
 [1169l]:https://leetcode.com/problems/invalid-transactions/
 [1170l]:https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
+[1171l]:https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
 [1172l]:https://leetcode.com/problems/dinner-plate-stacks/
 [1175l]:https://leetcode.com/problems/prime-arrangements/
 [1177l]:https://leetcode.com/problems/can-make-palindrome-from-substring/
