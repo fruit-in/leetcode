@@ -843,6 +843,7 @@
 [1344][1344l]|[时钟指针的夹角][1344]                                    |![rs]
 [1346][1346l]|[检查整数及其两倍数是否存在][1346]                        |![rs]
 [1347][1347l]|[制造字母异位词的最小步骤数][1347]                        |![rs]
+[1348][1348l]|[推文计数][1348]                                          |![py]
 [1351][1351l]|[统计有序矩阵中的负数][1351]                              |![rs]
 [1352][1352l]|[最后 K 个数的乘积][1352]                                 |![rs]
 [1353][1353l]|[最多可以参加的会议数目][1353]                            |![rs]
@@ -2395,6 +2396,7 @@
 [1344]:Problemset/1344-Angle%20Between%20Hands%20of%20a%20Clock/README_CN.md#1344-时钟指针的夹角
 [1346]:Problemset/1346-Check%20If%20N%20and%20Its%20Double%20Exist/README_CN.md#1346-检查整数及其两倍数是否存在
 [1347]:Problemset/1347-Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram/README_CN.md#1347-制造字母异位词的最小步骤数
+[1348]:Problemset/1348-Tweet%20Counts%20Per%20Frequency/README_CN.md#1348-推文计数
 [1351]:Problemset/1351-Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/README_CN.md#1351-统计有序矩阵中的负数
 [1352]:Problemset/1352-Product%20of%20the%20Last%20K%20Numbers/README_CN.md#1352-最后-K-个数的乘积
 [1353]:Problemset/1353-Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended/README_CN.md#1353-最多可以参加的会议数目
@@ -3946,6 +3948,7 @@
 [1344l]:https://leetcode.cn/problems/angle-between-hands-of-a-clock/
 [1346l]:https://leetcode.cn/problems/check-if-n-and-its-double-exist/
 [1347l]:https://leetcode.cn/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+[1348l]:https://leetcode.cn/problems/tweet-counts-per-frequency/
 [1351l]:https://leetcode.cn/problems/count-negative-numbers-in-a-sorted-matrix/
 [1352l]:https://leetcode.cn/problems/product-of-the-last-k-numbers/
 [1353l]:https://leetcode.cn/problems/maximum-number-of-events-that-can-be-attended/
