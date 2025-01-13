@@ -922,6 +922,7 @@
 [1455][1455l]|[Check If a Word Occurs As a Prefix of Any Word in a Sentence][1455]                  |![rs]
 [1456][1456l]|[Maximum Number of Vowels in a Substring of Given Length][1456]                       |![py]&nbsp;&nbsp;![rb]
 [1457][1457l]|[Pseudo-Palindromic Paths in a Binary Tree][1457]                                     |![py]
+[1458][1458l]|[Max Dot Product of Two Subsequences][1458]                                           |![rs]
 [1460][1460l]|[Make Two Arrays Equal by Reversing Sub-arrays][1460]                                 |![rs]
 [1461][1461l]|[Check If a String Contains All Binary Codes of Size K][1461]                         |![rs]
 [1463][1463l]|[Cherry Pickup II][1463]                                                              |![rs]
@@ -2475,6 +2476,7 @@
 [1455]:Problemset/1455-Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence/README.md#1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
 [1456]:Problemset/1456-Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/README.md#1456-maximum-number-of-vowels-in-a-substring-of-given-length
 [1457]:Problemset/1457-Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/README.md#1457-pseudo-palindromic-paths-in-a-binary-tree
+[1458]:Problemset/1458-Max%20Dot%20Product%20of%20Two%20Subsequences/README.md#1458-max-dot-product-of-two-subsequences
 [1460]:Problemset/1460-Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays/README.md#1460-make-two-arrays-equal-by-reversing-sub-arrays
 [1461]:Problemset/1461-Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/README.md#1461-check-if-a-string-contains-all-binary-codes-of-size-k
 [1463]:Problemset/1463-Cherry%20Pickup%20II/README.md#1463-cherry-pickup-ii
@@ -4027,6 +4029,7 @@
 [1455l]:https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
 [1456l]:https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 [1457l]:https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
+[1458l]:https://leetcode.com/problems/max-dot-product-of-two-subsequences/
 [1460l]:https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 [1461l]:https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 [1463l]:https://leetcode.com/problems/cherry-pickup-ii/
