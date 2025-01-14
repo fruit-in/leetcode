@@ -727,6 +727,7 @@
 [1111][1111l]|[Maximum Nesting Depth of Two Valid Parentheses Strings][1111]                        |![rs]
 [1122][1122l]|[Relative Sort Array][1122]                                                           |![rs]
 [1123][1123l]|[Lowest Common Ancestor of Deepest Leaves][1123]                                      |![py]
+[1124][1124l]|[Longest Well-Performing Interval][1124]                                              |![rs]
 [1128][1128l]|[Number of Equivalent Domino Pairs][1128]                                             |![rs]
 [1129][1129l]|[Shortest Path with Alternating Colors][1129]                                         |![rs]
 [1131][1131l]|[Maximum of Absolute Value Expression][1131]                                          |![rs]
@@ -2281,6 +2282,7 @@
 [1111]:Problemset/1111-Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/README.md#1111-maximum-nesting-depth-of-two-valid-parentheses-strings
 [1122]:Problemset/1122-Relative%20Sort%20Array/README.md#1122-relative-sort-array
 [1123]:Problemset/1123-Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/README.md#1123-lowest-common-ancestor-of-deepest-leaves
+[1124]:Problemset/1124-Longest%20Well-Performing%20Interval/README.md#1124-longest-well-performing-interval
 [1128]:Problemset/1128-Number%20of%20Equivalent%20Domino%20Pairs/README.md#1128-number-of-equivalent-domino-pairs
 [1129]:Problemset/1129-Shortest%20Path%20with%20Alternating%20Colors/README.md#1129-shortest-path-with-alternating-colors
 [1131]:Problemset/1131-Maximum%20of%20Absolute%20Value%20Expression/README.md#1131-maximum-of-absolute-value-expression
@@ -3834,6 +3836,7 @@
 [1111l]:https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/
 [1122l]:https://leetcode.com/problems/relative-sort-array/
 [1123l]:https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
+[1124l]:https://leetcode.com/problems/longest-well-performing-interval/
 [1128l]:https://leetcode.com/problems/number-of-equivalent-domino-pairs/
 [1129l]:https://leetcode.com/problems/shortest-path-with-alternating-colors/
 [1131l]:https://leetcode.com/problems/maximum-of-absolute-value-expression/

@@ -727,6 +727,7 @@
 [1111][1111l]|[有效括号的嵌套深度][1111]                                |![rs]
 [1122][1122l]|[数组的相对排序][1122]                                    |![rs]
 [1123][1123l]|[最深叶节点的最近公共祖先][1123]                          |![py]
+[1124][1124l]|[表现良好的最长时间段][1124]                              |![rs]
 [1128][1128l]|[等价多米诺骨牌对的数量][1128]                            |![rs]
 [1129][1129l]|[颜色交替的最短路径][1129]                                |![rs]
 [1131][1131l]|[绝对值表达式的最大值][1131]                              |![rs]
@@ -2281,6 +2282,7 @@
 [1111]:Problemset/1111-Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/README_CN.md#1111-有效括号的嵌套深度
 [1122]:Problemset/1122-Relative%20Sort%20Array/README_CN.md#1122-数组的相对排序
 [1123]:Problemset/1123-Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/README_CN.md#1123-最深叶节点的最近公共祖先
+[1124]:Problemset/1124-Longest%20Well-Performing%20Interval/README_CN.md#1124-表现良好的最长时间段
 [1128]:Problemset/1128-Number%20of%20Equivalent%20Domino%20Pairs/README_CN.md#1128-等价多米诺骨牌对的数量
 [1129]:Problemset/1129-Shortest%20Path%20with%20Alternating%20Colors/README_CN.md#1129-颜色交替的最短路径
 [1131]:Problemset/1131-Maximum%20of%20Absolute%20Value%20Expression/README_CN.md#1131-绝对值表达式的最大值
@@ -3834,6 +3836,7 @@
 [1111l]:https://leetcode.cn/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/
 [1122l]:https://leetcode.cn/problems/relative-sort-array/
 [1123l]:https://leetcode.cn/problems/lowest-common-ancestor-of-deepest-leaves/
+[1124l]:https://leetcode.cn/problems/longest-well-performing-interval/
 [1128l]:https://leetcode.cn/problems/number-of-equivalent-domino-pairs/
 [1129l]:https://leetcode.cn/problems/shortest-path-with-alternating-colors/
 [1131l]:https://leetcode.cn/problems/maximum-of-absolute-value-expression/
