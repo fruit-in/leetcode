@@ -1010,6 +1010,7 @@
 [1610][1610l]|[可见点的最大数目][1610]                                  |![rs]
 [1614][1614l]|[括号的最大嵌套深度][1614]                                |![rb]&nbsp;&nbsp;![rs]
 [1615][1615l]|[最大网络秩][1615]                                        |![rs]
+[1616][1616l]|[分割两个字符串得到回文串][1616]                          |![rs]
 [1619][1619l]|[删除某些元素后的数组均值][1619]                          |![rb]&nbsp;&nbsp;![rs]
 [1620][1620l]|[网络信号最好的坐标][1620]                                |![rs]
 [1621][1621l]|[大小为 K 的不重叠线段的数目][1621]                       |![py]
@@ -2565,6 +2566,7 @@
 [1610]:Problemset/1610-Maximum%20Number%20of%20Visible%20Points/README_CN.md#1610-可见点的最大数目
 [1614]:Problemset/1614-Maximum%20Nesting%20Depth%20of%20the%20Parentheses/README_CN.md#1614-括号的最大嵌套深度
 [1615]:Problemset/1615-Maximal%20Network%20Rank/README_CN.md#1615-最大网络秩
+[1616]:Problemset/1616-Split%20Two%20Strings%20to%20Make%20Palindrome/README_CN.md#1616-分割两个字符串得到回文串
 [1619]:Problemset/1619-Mean%20of%20Array%20After%20Removing%20Some%20Elements/README_CN.md#1619-删除某些元素后的数组均值
 [1620]:Problemset/1620-Coordinate%20With%20Maximum%20Network%20Quality/README_CN.md#1620-网络信号最好的坐标
 [1621]:Problemset/1621-Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments/README_CN.md#1621-大小为-k-的不重叠线段的数目
@@ -4119,6 +4121,7 @@
 [1610l]:https://leetcode.cn/problems/maximum-number-of-visible-points/
 [1614l]:https://leetcode.cn/problems/maximum-nesting-depth-of-the-parentheses/
 [1615l]:https://leetcode.cn/problems/maximal-network-rank/
+[1616l]:https://leetcode.cn/problems/split-two-strings-to-make-palindrome/
 [1619l]:https://leetcode.cn/problems/mean-of-array-after-removing-some-elements/
 [1620l]:https://leetcode.cn/problems/coordinate-with-maximum-network-quality/
 [1621l]:https://leetcode.cn/problems/number-of-sets-of-k-non-overlapping-line-segments/
