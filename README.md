@@ -457,6 +457,7 @@
 [714][714l]  |[Best Time to Buy and Sell Stock with Transaction Fee][714]                           |![rs]
 [717][717l]  |[1-bit and 2-bit Characters][717]                                                     |![rs]
 [720][720l]  |[Longest Word in Dictionary][720]                                                     |![py]
+[721][721l]  |[Accounts Merge][721]                                                                 |![py]
 [722][722l]  |[Remove Comments][722]                                                                |![py]
 [724][724l]  |[Find Pivot Index][724]                                                               |![rb]&nbsp;&nbsp;![rs]
 [725][725l]  |[Split Linked List in Parts][725]                                                     |![py]
@@ -2014,6 +2015,7 @@
 [714]:Problemset/0714-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee/README.md#714-best-time-to-buy-and-sell-stock-with-transaction-fee
 [717]:Problemset/0717-1-bit%20and%202-bit%20Characters/README.md#717-1-bit-and-2-bit-characters
 [720]:Problemset/0720-Longest%20Word%20in%20Dictionary/README.md#720-longest-word-in-dictionary
+[721]:Problemset/0721-Accounts%20Merge/README.md#721-accounts-merge
 [722]:Problemset/0722-Remove%20Comments/README.md#722-remove-comments
 [724]:Problemset/0724-Find%20Pivot%20Index/README.md#724-find-pivot-index
 [725]:Problemset/0725-Split%20Linked%20List%20in%20Parts/README.md#725-split-linked-list-in-parts
@@ -3570,6 +3572,7 @@
 [714l]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 [717l]:https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [720l]:https://leetcode.com/problems/longest-word-in-dictionary/
+[721l]:https://leetcode.com/problems/accounts-merge/
 [722l]:https://leetcode.com/problems/remove-comments/
 [724l]:https://leetcode.com/problems/find-pivot-index/
 [725l]:https://leetcode.com/problems/split-linked-list-in-parts/

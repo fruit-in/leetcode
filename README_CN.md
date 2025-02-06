@@ -457,6 +457,7 @@
 [714][714l]  |[买卖股票的最佳时机含手续费][714]                         |![rs]
 [717][717l]  |[1比特与2比特字符][717]                                   |![rs]
 [720][720l]  |[词典中最长的单词][720]                                   |![py]
+[721][721l]  |[账户合并][721]                                           |![py]
 [722][722l]  |[删除注释][722]                                           |![py]
 [724][724l]  |[寻找数组的中心索引][724]                                 |![rb]&nbsp;&nbsp;![rs]
 [725][725l]  |[分隔链表][725]                                           |![py]
@@ -2014,6 +2015,7 @@
 [714]:Problemset/0714-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee/README_CN.md#714-买卖股票的最佳时机含手续费
 [717]:Problemset/0717-1-bit%20and%202-bit%20Characters/README_CN.md#717-1比特与2比特字符
 [720]:Problemset/0720-Longest%20Word%20in%20Dictionary/README_CN.md#720-词典中最长的单词
+[721]:Problemset/0721-Accounts%20Merge/README_CN.md#721-账户合并
 [722]:Problemset/0722-Remove%20Comments/README_CN.md#722-删除注释
 [724]:Problemset/0724-Find%20Pivot%20Index/README_CN.md#724-寻找数组的中心索引
 [725]:Problemset/0725-Split%20Linked%20List%20in%20Parts/README_CN.md#725-分隔链表
@@ -3570,6 +3572,7 @@
 [714l]:https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 [717l]:https://leetcode.cn/problems/1-bit-and-2-bit-characters/
 [720l]:https://leetcode.cn/problems/longest-word-in-dictionary/
+[721l]:https://leetcode.cn/problems/accounts-merge/
 [722l]:https://leetcode.cn/problems/remove-comments/
 [724l]:https://leetcode.cn/problems/find-pivot-index/
 [725l]:https://leetcode.cn/problems/split-linked-list-in-parts/
