@@ -1240,6 +1240,7 @@
 [2042][2042l]|[检查句子中的数字是否递增][2042]                          |![py]
 [2043][2043l]|[简易银行系统][2043]                                      |![py]
 [2044][2044l]|[统计按位或能得到最大值的子集数目][2044]                  |![rs]
+[2045][2045l]|[到达目的地的第二短时间][2045]                            |![rs]
 [2047][2047l]|[句子中的有效单词数][2047]                                |![py]
 [2048][2048l]|[下一个更大的数值平衡数][2048]                            |![rs]
 [2049][2049l]|[统计最高分的节点数目][2049]                              |![rs]
@@ -2799,6 +2800,7 @@
 [2042]:Problemset/2042-Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/README_CN.md#2042-检查句子中的数字是否递增
 [2043]:Problemset/2043-Simple%20Bank%20System/README_CN.md#2043-简易银行系统
 [2044]:Problemset/2044-Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/README_CN.md#2044-统计按位或能得到最大值的子集数目
+[2045]:Problemset/2045-Second%20Minimum%20Time%20to%20Reach%20Destination/README_CN.md#2045-到达目的地的第二短时间
 [2047]:Problemset/2047-Number%20of%20Valid%20Words%20in%20a%20Sentence/README_CN.md#2047-句子中的有效单词数
 [2048]:Problemset/2048-Next%20Greater%20Numerically%20Balanced%20Number/README_CN.md#2048-下一个更大的数值平衡数
 [2049]:Problemset/2049-Count%20Nodes%20With%20the%20Highest%20Score/README_CN.md#2049-统计最高分的节点数目
@@ -4357,6 +4359,7 @@
 [2042l]:https://leetcode.cn/problems/check-if-numbers-are-ascending-in-a-sentence/
 [2043l]:https://leetcode.cn/problems/simple-bank-system/
 [2044l]:https://leetcode.cn/problems/count-number-of-maximum-bitwise-or-subsets/
+[2045l]:https://leetcode.cn/problems/second-minimum-time-to-reach-destination/
 [2047l]:https://leetcode.cn/problems/number-of-valid-words-in-a-sentence/
 [2048l]:https://leetcode.cn/problems/next-greater-numerically-balanced-number/
 [2049l]:https://leetcode.cn/problems/count-nodes-with-the-highest-score/
