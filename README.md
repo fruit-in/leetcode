@@ -1533,6 +1533,7 @@
 [2558][2558l]|[Take Gifts From the Richest Pile][2558]                                              |![rs]
 [2559][2559l]|[Count Vowel Strings in Ranges][2559]                                                 |![rs]
 [2562][2562l]|[Find the Array Concatenation Value][2562]                                            |![rs]
+[2563][2563l]|[Count the Number of Fair Pairs][2563]                                                |![py]
 [2566][2566l]|[Maximum Difference by Remapping a Digit][2566]                                       |![py]
 [2570][2570l]|[Merge Two 2D Arrays by Summing Values][2570]                                         |![rs]
 [2574][2574l]|[Left and Right Sum Differences][2574]                                                |![rs]
@@ -3093,6 +3094,7 @@
 [2558]:Problemset/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README.md#2558-take-gifts-from-the-richest-pile
 [2559]:Problemset/2559-Count%20Vowel%20Strings%20in%20Ranges/README.md#2559-count-vowel-strings-in-ranges
 [2562]:Problemset/2562-Find%20the%20Array%20Concatenation%20Value/README.md#2562-find-the-array-concatenation-value
+[2563]:Problemset/2563-Count%20the%20Number%20of%20Fair%20Pairs/README.md#2563-count-the-number-of-fair-pairs
 [2566]:Problemset/2566-Maximum%20Difference%20by%20Remapping%20a%20Digit/README.md#2566-maximum-difference-by-remapping-a-digit
 [2570]:Problemset/2570-Merge%20Two%202D%20Arrays%20by%20Summing%20Values/README.md#2570-merge-two-2d-arrays-by-summing-values
 [2574]:Problemset/2574-Left%20and%20Right%20Sum%20Differences/README.md#2574-left-and-right-sum-differences
@@ -4652,6 +4654,7 @@
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2559l]:https://leetcode.com/problems/count-vowel-strings-in-ranges/
 [2562l]:https://leetcode.com/problems/find-the-array-concatenation-value/
+[2563l]:https://leetcode.com/problems/count-the-number-of-fair-pairs/
 [2566l]:https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/
 [2570l]:https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
 [2574l]:https://leetcode.com/problems/left-and-right-sum-differences/

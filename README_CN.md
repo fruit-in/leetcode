@@ -1533,6 +1533,7 @@
 [2558][2558l]|[从数量最多的堆取走礼物][2558]                            |![rs]
 [2559][2559l]|[统计范围内的元音字符串数][2559]                          |![rs]
 [2562][2562l]|[找出数组的串联值][2562]                                  |![rs]
+[2563][2563l]|[统计公平数对的数目][2563]                                |![py]
 [2566][2566l]|[替换一个数字后的最大差值][2566]                          |![py]
 [2570][2570l]|[合并两个二维数组 - 求和法][2570]                         |![rs]
 [2574][2574l]|[左右元素和的差值][2574]                                  |![rs]
@@ -3093,6 +3094,7 @@
 [2558]:Problemset/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README_CN.md#2558-take-gifts-from-the-richest-pile
 [2559]:Problemset/2559-Count%20Vowel%20Strings%20in%20Ranges/README_CN.md#2559-统计范围内的元音字符串数
 [2562]:Problemset/2562-Find%20the%20Array%20Concatenation%20Value/README_CN.md#2562-找出数组的串联值
+[2563]:Problemset/2563-Count%20the%20Number%20of%20Fair%20Pairs/README_CN.md#2563-统计公平数对的数目
 [2566]:Problemset/2566-Maximum%20Difference%20by%20Remapping%20a%20Digit/README_CN.md#2566-替换一个数字后的最大差值
 [2570]:Problemset/2570-Merge%20Two%202D%20Arrays%20by%20Summing%20Values/README_CN.md#2570-合并两个二维数组---求和法
 [2574]:Problemset/2574-Left%20and%20Right%20Sum%20Differences/README_CN.md#2574-左右元素和的差值
@@ -4652,6 +4654,7 @@
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2559l]:https://leetcode.cn/problems/count-vowel-strings-in-ranges/
 [2562l]:https://leetcode.cn/problems/find-the-array-concatenation-value/
+[2563l]:https://leetcode.cn/problems/count-the-number-of-fair-pairs/
 [2566l]:https://leetcode.cn/problems/maximum-difference-by-remapping-a-digit/
 [2570l]:https://leetcode.cn/problems/merge-two-2d-arrays-by-summing-values/
 [2574l]:https://leetcode.cn/problems/left-and-right-sum-differences/
