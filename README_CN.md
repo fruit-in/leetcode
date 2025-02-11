@@ -1191,6 +1191,7 @@
 [1944][1944l]|[队列中可以看到的人数][1944]                              |![rs]
 [1945][1945l]|[字符串转化后的各位数字之和][1945]                        |![py]
 [1946][1946l]|[子字符串突变后可能得到的最大整数][1946]                  |![rs]
+[1947][1947l]|[最大兼容性评分和][1947]                                  |![py]
 [1952][1952l]|[三除数][1952]                                            |![rs]
 [1953][1953l]|[你可以工作的最大周数][1953]                              |![rs]
 [1954][1954l]|[收集足够苹果的最小花园周长][1954]                        |![rs]
@@ -2753,6 +2754,7 @@
 [1944]:Problemset/1944-Number%20of%20Visible%20People%20in%20a%20Queue/README_CN.md#1944-队列中可以看到的人数
 [1945]:Problemset/1945-Sum%20of%20Digits%20of%20String%20After%20Convert/README_CN.md#1945-字符串转化后的各位数字之和
 [1946]:Problemset/1946-Largest%20Number%20After%20Mutating%20Substring/README_CN.md#1946-子字符串突变后可能得到的最大整数
+[1947]:Problemset/1947-Maximum%20Compatibility%20Score%20Sum/README_CN.md#1947-最大兼容性评分和
 [1952]:Problemset/1952-Three%20Divisors/README_CN.md#1952-三除数
 [1953]:Problemset/1953-Maximum%20Number%20of%20Weeks%20for%20Which%20You%20Can%20Work/README_CN.md#1953-你可以工作的最大周数
 [1954]:Problemset/1954-Minimum%20Garden%20Perimeter%20to%20Collect%20Enough%20Apples/README_CN.md#1954-收集足够苹果的最小花园周长
@@ -4314,6 +4316,7 @@
 [1944l]:https://leetcode.cn/problems/number-of-visible-people-in-a-queue/
 [1945l]:https://leetcode.cn/problems/sum-of-digits-of-string-after-convert/
 [1946l]:https://leetcode.cn/problems/largest-number-after-mutating-substring/
+[1947l]:https://leetcode.cn/problems/maximum-compatibility-score-sum/
 [1952l]:https://leetcode.cn/problems/three-divisors/
 [1953l]:https://leetcode.cn/problems/maximum-number-of-weeks-for-which-you-can-work/
 [1954l]:https://leetcode.cn/problems/minimum-garden-perimeter-to-collect-enough-apples/

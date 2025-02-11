@@ -1191,6 +1191,7 @@
 [1944][1944l]|[Number of Visible People in a Queue][1944]                                           |![rs]
 [1945][1945l]|[Sum of Digits of String After Convert][1945]                                         |![py]
 [1946][1946l]|[Largest Number After Mutating Substring][1946]                                       |![rs]
+[1947][1947l]|[Maximum Compatibility Score Sum][1947]                                               |![py]
 [1952][1952l]|[Three Divisors][1952]                                                                |![rs]
 [1953][1953l]|[Maximum Number of Weeks for Which You Can Work][1953]                                |![rs]
 [1954][1954l]|[Minimum Garden Perimeter to Collect Enough Apples][1954]                             |![rs]
@@ -2753,6 +2754,7 @@
 [1944]:Problemset/1944-Number%20of%20Visible%20People%20in%20a%20Queue/README.md#1944-number-of-visible-people-in-a-queue
 [1945]:Problemset/1945-Sum%20of%20Digits%20of%20String%20After%20Convert/README.md#1945-sum-of-digits-of-string-after-convert
 [1946]:Problemset/1946-Largest%20Number%20After%20Mutating%20Substring/README.md#1946-largest-number-after-mutating-substring
+[1947]:Problemset/1947-Maximum%20Compatibility%20Score%20Sum/README.md#1947-maximum-compatibility-score-sum
 [1952]:Problemset/1952-Three%20Divisors/README.md#1952-three-divisors
 [1953]:Problemset/1953-Maximum%20Number%20of%20Weeks%20for%20Which%20You%20Can%20Work/README.md#1953-maximum-number-of-weeks-for-which-you-can-work
 [1954]:Problemset/1954-Minimum%20Garden%20Perimeter%20to%20Collect%20Enough%20Apples/README.md#1954-minimum-garden-perimeter-to-collect-enough-apples
@@ -4314,6 +4316,7 @@
 [1944l]:https://leetcode.com/problems/number-of-visible-people-in-a-queue/
 [1945l]:https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 [1946l]:https://leetcode.com/problems/largest-number-after-mutating-substring/
+[1947l]:https://leetcode.com/problems/maximum-compatibility-score-sum/
 [1952l]:https://leetcode.com/problems/three-divisors/
 [1953l]:https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/
 [1954l]:https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/
