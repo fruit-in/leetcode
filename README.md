@@ -314,6 +314,7 @@
 [467][467l]  |[Unique Substrings in Wraparound String][467]                                         |![rb]&nbsp;&nbsp;![rs]
 [468][468l]  |[Validate IP Address][468]                                                            |![rs]
 [470][470l]  |[Implement Rand10() Using Rand7()][470]                                               |![rs]
+[473][473l]  |[Matchsticks to Square][473]                                                          |![py]
 [474][474l]  |[Ones and Zeroes][474]                                                                |![rs]
 [475][475l]  |[Heaters][475]                                                                        |![rs]
 [476][476l]  |[Number Complement][476]                                                              |![rs]
@@ -1879,6 +1880,7 @@
 [467]:Problemset/0467-Unique%20Substrings%20in%20Wraparound%20String/README.md#467-unique-substrings-in-wraparound-string
 [468]:Problemset/0468-Validate%20IP%20Address/README.md#468-validate-ip-address
 [470]:Problemset/0470-Implement%20Rand10\(\)%20Using%20Rand7\(\)/README.md#470-implement-rand10-using-rand7
+[473]:Problemset/0473-Matchsticks%20to%20Square/README.md#473-matchsticks-to-square
 [474]:Problemset/0474-Ones%20and%20Zeroes/README.md#474-ones-and-zeroes
 [475]:Problemset/0475-Heaters/README.md#475-heaters
 [476]:Problemset/0476-Number%20Complement/README.md#476-number-complement
@@ -3442,6 +3444,7 @@
 [467l]:https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 [468l]:https://leetcode.com/problems/validate-ip-address/
 [470l]:https://leetcode.com/problems/implement-rand10-using-rand7/
+[473l]:https://leetcode.com/problems/matchsticks-to-square/
 [474l]:https://leetcode.com/problems/ones-and-zeroes/
 [475l]:https://leetcode.com/problems/heaters/
 [476l]:https://leetcode.com/problems/number-complement/
