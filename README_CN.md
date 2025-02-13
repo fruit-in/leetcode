@@ -344,6 +344,7 @@
 [514][514l]  |[自由之路][514]                                           |![rs]
 [515][515l]  |[在每个树行中找最大值][515]                               |![py]
 [518][518l]  |[零钱兑换 II][518]                                        |![rs]
+[519][519l]  |[随机翻转矩阵][519]                                       |![py]
 [520][520l]  |[检测大写字母][520]                                       |![rs]
 [521][521l]  |[最长特殊序列 Ⅰ][521]                                     |![rb]&nbsp;&nbsp;![rs]
 [522][522l]  |[最长特殊序列 II][522]                                    |![rs]
@@ -1908,6 +1909,7 @@
 [514]:Problemset/0514-Freedom%20Trail/README_CN.md#514-自由之路
 [515]:Problemset/0515-Find%20Largest%20Value%20in%20Each%20Tree%20Row/README_CN.md#515-在每个树行中找最大值
 [518]:Problemset/0518-Coin%20Change%202/README_CN.md#518-零钱兑换-ii
+[519]:Problemset/0519-Random%20Flip%20Matrix/README_CN.md#519-随机翻转矩阵
 [520]:Problemset/0520-Detect%20Capital/README_CN.md#520-检测大写字母
 [521]:Problemset/0521-Longest%20Uncommon%20Subsequence%20I/README_CN.md#521-最长特殊序列-i
 [522]:Problemset/0522-Longest%20Uncommon%20Subsequence%20II/README_CN.md#522-最长特殊序列-ii
@@ -3470,6 +3472,7 @@
 [514l]:https://leetcode.cn/problems/freedom-trail/
 [515l]:https://leetcode.cn/problems/find-largest-value-in-each-tree-row/
 [518l]:https://leetcode.cn/problems/coin-change-2/
+[519l]:https://leetcode.cn/problems/random-flip-matrix/
 [520l]:https://leetcode.cn/problems/detect-capital/
 [521l]:https://leetcode.cn/problems/longest-uncommon-subsequence-i/
 [522l]:https://leetcode.cn/problems/longest-uncommon-subsequence-ii/

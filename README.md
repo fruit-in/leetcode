@@ -344,6 +344,7 @@
 [514][514l]  |[Freedom Trail][514]                                                                  |![rs]
 [515][515l]  |[Find Largest Value in Each Tree Row][515]                                            |![py]
 [518][518l]  |[Coin Change 2][518]                                                                  |![rs]
+[519][519l]  |[Random Flip Matrix][519]                                                             |![py]
 [520][520l]  |[Detect Capital][520]                                                                 |![rs]
 [521][521l]  |[Longest Uncommon Subsequence I][521]                                                 |![rb]&nbsp;&nbsp;![rs]
 [522][522l]  |[Longest Uncommon Subsequence II][522]                                                |![rs]
@@ -1908,6 +1909,7 @@
 [514]:Problemset/0514-Freedom%20Trail/README.md#514-freedom-trail
 [515]:Problemset/0515-Find%20Largest%20Value%20in%20Each%20Tree%20Row/README.md#515-find-largest-value-in-each-tree-row
 [518]:Problemset/0518-Coin%20Change%202/README.md#518-coin-change-2
+[519]:Problemset/0519-Random%20Flip%20Matrix/README.md#519-random-flip-matrix
 [520]:Problemset/0520-Detect%20Capital/README.md#520-detect-capital
 [521]:Problemset/0521-Longest%20Uncommon%20Subsequence%20I/README.md#521-longest-uncommon-subsequence-i
 [522]:Problemset/0522-Longest%20Uncommon%20Subsequence%20II/README.md#522-longest-uncommon-subsequence-ii
@@ -3470,6 +3472,7 @@
 [514l]:https://leetcode.com/problems/freedom-trail/
 [515l]:https://leetcode.com/problems/find-largest-value-in-each-tree-row/
 [518l]:https://leetcode.com/problems/coin-change-2/
+[519l]:https://leetcode.com/problems/random-flip-matrix/
 [520l]:https://leetcode.com/problems/detect-capital/
 [521l]:https://leetcode.com/problems/longest-uncommon-subsequence-i/
 [522l]:https://leetcode.com/problems/longest-uncommon-subsequence-ii/
