@@ -525,6 +525,7 @@
 [820][820l]  |[单词的压缩编码][820]                                     |![rs]
 [821][821l]  |[字符的最短距离][821]                                     |![py]
 [822][822l]  |[翻转卡片游戏][822]                                       |![rs]
+[823][823l]  |[带因子的二叉树][823]                                     |![py]
 [824][824l]  |[山羊拉丁文][824]                                         |![py]
 [825][825l]  |[适龄的朋友][825]                                         |![py]
 [826][826l]  |[安排工作以达到最大收益][826]                             |![rs]
@@ -2091,6 +2092,7 @@
 [820]:Problemset/0820-Short%20Encoding%20of%20Words/README_CN.md#820-单词的压缩编码
 [821]:Problemset/0821-Shortest%20Distance%20to%20a%20Character/README_CN.md#821-字符的最短距离
 [822]:Problemset/0822-Card%20Flipping%20Game/README_CN.md#822-翻转卡片游戏
+[823]:Problemset/0823-Binary%20Trees%20With%20Factors/README_CN.md#823-带因子的二叉树
 [824]:Problemset/0824-Goat%20Latin/README_CN.md#824-山羊拉丁文
 [825]:Problemset/0825-Friends%20Of%20Appropriate%20Ages/README_CN.md#825-适龄的朋友
 [826]:Problemset/0826-Most%20Profit%20Assigning%20Work/README_CN.md#826-安排工作以达到最大收益
@@ -3656,6 +3658,7 @@
 [820l]:https://leetcode.cn/problems/short-encoding-of-words/
 [821l]:https://leetcode.cn/problems/shortest-distance-to-a-character/
 [822l]:https://leetcode.cn/problems/card-flipping-game/
+[823l]:https://leetcode.cn/problems/binary-trees-with-factors/
 [824l]:https://leetcode.cn/problems/goat-latin/
 [825l]:https://leetcode.cn/problems/friends-of-appropriate-ages/
 [826l]:https://leetcode.cn/problems/most-profit-assigning-work/

@@ -525,6 +525,7 @@
 [820][820l]  |[Short Encoding of Words][820]                                                        |![rs]
 [821][821l]  |[Shortest Distance to a Character][821]                                               |![py]
 [822][822l]  |[Card Flipping Game][822]                                                             |![rs]
+[823][823l]  |[Binary Trees With Factors][823]                                                      |![py]
 [824][824l]  |[Goat Latin][824]                                                                     |![py]
 [825][825l]  |[Friends Of Appropriate Ages][825]                                                    |![py]
 [826][826l]  |[Most Profit Assigning Work][826]                                                     |![rs]
@@ -2091,6 +2092,7 @@
 [820]:Problemset/0820-Short%20Encoding%20of%20Words/README.md#820-short-encoding-of-words
 [821]:Problemset/0821-Shortest%20Distance%20to%20a%20Character/README.md#821-shortest-distance-to-a-character
 [822]:Problemset/0822-Card%20Flipping%20Game/README.md#822-card-flipping-game
+[823]:Problemset/0823-Binary%20Trees%20With%20Factors/README.md#823-binary-trees-with-factors
 [824]:Problemset/0824-Goat%20Latin/README.md#824-goat-latin
 [825]:Problemset/0825-Friends%20Of%20Appropriate%20Ages/README.md#825-friends-of-appropriate-ages
 [826]:Problemset/0826-Most%20Profit%20Assigning%20Work/README.md#826-most-profit-assigning-work
@@ -3656,6 +3658,7 @@
 [820l]:https://leetcode.com/problems/short-encoding-of-words/
 [821l]:https://leetcode.com/problems/shortest-distance-to-a-character/
 [822l]:https://leetcode.com/problems/card-flipping-game/
+[823l]:https://leetcode.com/problems/binary-trees-with-factors/
 [824l]:https://leetcode.com/problems/goat-latin/
 [825l]:https://leetcode.com/problems/friends-of-appropriate-ages/
 [826l]:https://leetcode.com/problems/most-profit-assigning-work/
