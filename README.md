@@ -1375,6 +1375,7 @@
 [2246][2246l]|[Longest Path With Different Adjacent Characters][2246]                               |![rs]
 [2248][2248l]|[Intersection of Multiple Arrays][2248]                                               |![py]
 [2249][2249l]|[Count Lattice Points Inside a Circle][2249]                                          |![rs]
+[2250][2250l]|[Count Number of Rectangles Containing Each Point][2250]                              |![py]
 [2251][2251l]|[Number of Flowers in Full Bloom][2251]                                               |![rs]
 [2255][2255l]|[Count Prefixes of a Given String][2255]                                              |![rs]
 [2256][2256l]|[Minimum Average Difference][2256]                                                    |![rs]
@@ -2942,6 +2943,7 @@
 [2246]:Problemset/2246-Longest%20Path%20With%20Different%20Adjacent%20Characters/README.md#2246-longest-path-with-different-adjacent-characters
 [2248]:Problemset/2248-Intersection%20of%20Multiple%20Arrays/README.md#2248-intersection-of-multiple-arrays
 [2249]:Problemset/2249-Count%20Lattice%20Points%20Inside%20a%20Circle/README.md#2249-count-lattice-points-inside-a-circle
+[2250]:Problemset/2250-Count%20Number%20of%20Rectangles%20Containing%20Each%20Point/README.md#2250-count-number-of-rectangles-containing-each-point
 [2251]:Problemset/2251-Number%20of%20Flowers%20in%20Full%20Bloom/README.md#2251-number-of-flowers-in-full-bloom
 [2255]:Problemset/2255-Count%20Prefixes%20of%20a%20Given%20String/README.md#2255-count-prefixes-of-a-given-string
 [2256]:Problemset/2256-Minimum%20Average%20Difference/README.md#2256-minimum-average-difference
@@ -4508,6 +4510,7 @@
 [2246l]:https://leetcode.com/problems/longest-path-with-different-adjacent-characters/
 [2248l]:https://leetcode.com/problems/intersection-of-multiple-arrays/
 [2249l]:https://leetcode.com/problems/count-lattice-points-inside-a-circle/
+[2250l]:https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/
 [2251l]:https://leetcode.com/problems/number-of-flowers-in-full-bloom/
 [2255l]:https://leetcode.com/problems/count-prefixes-of-a-given-string/
 [2256l]:https://leetcode.com/problems/minimum-average-difference/
