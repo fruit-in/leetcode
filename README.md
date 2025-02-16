@@ -1243,6 +1243,7 @@
 [2034][2034l]|[Stock Price Fluctuation ][2034]                                                      |![rs]
 [2037][2037l]|[Minimum Number of Moves to Seat Everyone][2037]                                      |![rs]
 [2038][2038l]|[Remove Colored Pieces if Both Neighbors are the Same Color][2038]                    |![rs]
+[2039][2039l]|[The Time When the Network Becomes Idle][2039]                                        |![rs]
 [2042][2042l]|[Check if Numbers Are Ascending in a Sentence][2042]                                  |![py]
 [2043][2043l]|[Simple Bank System][2043]                                                            |![py]
 [2044][2044l]|[Count Number of Maximum Bitwise-OR Subsets][2044]                                    |![rs]
@@ -2812,6 +2813,7 @@
 [2034]:Problemset/2034-Stock%20Price%20Fluctuation/README.md#2034-stock-price-fluctuation
 [2037]:Problemset/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README.md#2037-minimum-number-of-moves-to-seat-everyone
 [2038]:Problemset/2038-Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/README.md#2038-remove-colored-pieces-if-both-neighbors-are-the-same-color
+[2039]:Problemset/2039-The%20Time%20When%20the%20Network%20Becomes%20Idle/README.md#2039-the-time-when-the-network-becomes-idle
 [2042]:Problemset/2042-Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/README.md#2042-check-if-numbers-are-ascending-in-a-sentence
 [2043]:Problemset/2043-Simple%20Bank%20System/README.md#2043-simple-bank-system
 [2044]:Problemset/2044-Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/README.md#2044-count-number-of-maximum-bitwise-or-subsets
@@ -4380,6 +4382,7 @@
 [2034l]:https://leetcode.com/problems/stock-price-fluctuation/
 [2037l]:https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
 [2038l]:https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
+[2039l]:https://leetcode.com/problems/the-time-when-the-network-becomes-idle/
 [2042l]:https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 [2043l]:https://leetcode.com/problems/simple-bank-system/
 [2044l]:https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/
