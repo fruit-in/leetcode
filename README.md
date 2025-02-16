@@ -858,6 +858,7 @@
 [1358][1358l]|[Number of Substrings Containing All Three Characters][1358]                          |![rs]
 [1359][1359l]|[Count All Valid Pickup and Delivery Options][1359]                                   |![rs]
 [1360][1360l]|[Number of Days Between Two Dates][1360]                                              |![rs]
+[1361][1361l]|[Validate Binary Tree Nodes][1361]                                                    |![rs]
 [1362][1362l]|[Closest Divisors][1362]                                                              |![rb]&nbsp;&nbsp;![rs]
 [1363][1363l]|[Largest Multiple of Three][1363]                                                     |![rs]
 [1365][1365l]|[How Many Numbers Are Smaller Than the Current Number][1365]                          |![js]
@@ -2426,6 +2427,7 @@
 [1358]:Problemset/1358-Number%20of%20Substrings%20Containing%20All%20Three%20Characters/README.md#1358-number-of-substrings-containing-all-three-characters
 [1359]:Problemset/1359-Count%20All%20Valid%20Pickup%20and%20Delivery%20Options/README.md#1359-count-all-valid-pickup-and-delivery-options
 [1360]:Problemset/1360-Number%20of%20Days%20Between%20Two%20Dates/README.md#1360-number-of-days-between-two-dates
+[1361]:Problemset/1361-Validate%20Binary%20Tree%20Nodes/README.md#1361-validate-binary-tree-nodes
 [1362]:Problemset/1362-Closest%20Divisors/README.md#1362-closest-divisors
 [1363]:Problemset/1363-Largest%20Multiple%20of%20Three/README.md#1363-largest-multiple-of-three
 [1365]:Problemset/1365-How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/README.md#1365-how-many-numbers-are-smaller-than-the-current-number
@@ -3993,6 +3995,7 @@
 [1358l]:https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 [1359l]:https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/
 [1360l]:https://leetcode.com/problems/number-of-days-between-two-dates/
+[1361l]:https://leetcode.com/problems/validate-binary-tree-nodes/
 [1362l]:https://leetcode.com/problems/closest-divisors/
 [1363l]:https://leetcode.com/problems/largest-multiple-of-three/
 [1365l]:https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
