@@ -1352,6 +1352,7 @@
 [2202][2202l]|[K 次操作后最大化顶端元素][2202]                          |![rs]
 [2206][2206l]|[将数组划分成相等数对][2206]                              |![rs]
 [2208][2208l]|[将数组和减半的最少操作次数][2208]                        |![py]
+[2209][2209l]|[用地毯覆盖后的最少白色砖块][2209]                        |![rs]
 [2210][2210l]|[统计数组中峰和谷的数量][2210]                            |![py]
 [2211][2211l]|[统计道路上的碰撞次数][2211]                              |![rs]
 [2212][2212l]|[射箭比赛中的最大得分][2212]                              |![rs]
@@ -2925,6 +2926,7 @@
 [2202]:Problemset/2202-Maximize%20the%20Topmost%20Element%20After%20K%20Moves/README_CN.md#2202-k-次操作后最大化顶端元素
 [2206]:Problemset/2206-Divide%20Array%20Into%20Equal%20Pairs/README_CN.md#2206-将数组划分成相等数对
 [2208]:Problemset/2208-Minimum%20Operations%20to%20Halve%20Array%20Sum/README_CN.md#2208-将数组和减半的最少操作次数
+[2209]:Problemset/2209-Minimum%20White%20Tiles%20After%20Covering%20With%20Carpets/README_CN.md#2209-用地毯覆盖后的最少白色砖块
 [2210]:Problemset/2210-Count%20Hills%20and%20Valleys%20in%20an%20Array/README_CN.md#2210-统计数组中峰和谷的数量
 [2211]:Problemset/2211-Count%20Collisions%20on%20a%20Road/README_CN.md#2211-统计道路上的碰撞次数
 [2212]:Problemset/2212-Maximum%20Points%20in%20an%20Archery%20Competition/README_CN.md#2212-射箭比赛中的最大得分
@@ -4497,6 +4499,7 @@
 [2202l]:https://leetcode.cn/problems/maximize-the-topmost-element-after-k-moves/
 [2206l]:https://leetcode.cn/problems/divide-array-into-equal-pairs/
 [2208l]:https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/
+[2209l]:https://leetcode.cn/problems/minimum-white-tiles-after-covering-with-carpets/
 [2210l]:https://leetcode.cn/problems/count-hills-and-valleys-in-an-array/
 [2211l]:https://leetcode.cn/problems/count-collisions-on-a-road/
 [2212l]:https://leetcode.cn/problems/maximum-points-in-an-archery-competition/

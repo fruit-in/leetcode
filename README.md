@@ -1352,6 +1352,7 @@
 [2202][2202l]|[Maximize the Topmost Element After K Moves][2202]                                    |![rs]
 [2206][2206l]|[Divide Array Into Equal Pairs][2206]                                                 |![rs]
 [2208][2208l]|[Minimum Operations to Halve Array Sum][2208]                                         |![py]
+[2209][2209l]|[Minimum White Tiles After Covering With Carpets][2209]                               |![rs]
 [2210][2210l]|[Count Hills and Valleys in an Array][2210]                                           |![py]
 [2211][2211l]|[Count Collisions on a Road][2211]                                                    |![rs]
 [2212][2212l]|[Maximum Points in an Archery Competition][2212]                                      |![rs]
@@ -2925,6 +2926,7 @@
 [2202]:Problemset/2202-Maximize%20the%20Topmost%20Element%20After%20K%20Moves/README.md#2202-maximize-the-topmost-element-after-k-moves
 [2206]:Problemset/2206-Divide%20Array%20Into%20Equal%20Pairs/README.md#2206-divide-array-into-equal-pairs
 [2208]:Problemset/2208-Minimum%20Operations%20to%20Halve%20Array%20Sum/README.md#2208-minimum-operations-to-halve-array-sum
+[2209]:Problemset/2209-Minimum%20White%20Tiles%20After%20Covering%20With%20Carpets/README.md#2209-minimum-white-tiles-after-covering-with-carpets
 [2210]:Problemset/2210-Count%20Hills%20and%20Valleys%20in%20an%20Array/README.md#2210-count-hills-and-valleys-in-an-array
 [2211]:Problemset/2211-Count%20Collisions%20on%20a%20Road/README.md#2211-count-collisions-on-a-road
 [2212]:Problemset/2212-Maximum%20Points%20in%20an%20Archery%20Competition/README.md#2212-maximum-points-in-an-archery-competition
@@ -4497,6 +4499,7 @@
 [2202l]:https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
 [2206l]:https://leetcode.com/problems/divide-array-into-equal-pairs/
 [2208l]:https://leetcode.com/problems/minimum-operations-to-halve-array-sum/
+[2209l]:https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/
 [2210l]:https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 [2211l]:https://leetcode.com/problems/count-collisions-on-a-road/
 [2212l]:https://leetcode.com/problems/maximum-points-in-an-archery-competition/
