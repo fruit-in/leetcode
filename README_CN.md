@@ -1137,6 +1137,7 @@
 [1832][1832l]|[判断句子是否为全字母句][1832]                            |![rs]
 [1833][1833l]|[雪糕的最大数量][1833]                                    |![rs]
 [1834][1834l]|[单线程 CPU][1834]                                        |![rs]
+[1835][1835l]|[所有数对按位与结果的异或和][1835]                        |![rs]
 [1837][1837l]|[K 进制表示下的各位数字总和][1837]                        |![rb]&nbsp;&nbsp;![rs]
 [1838][1838l]|[最高频元素的频数][1838]                                  |![rs]
 [1839][1839l]|[所有元音按顺序排布的最长子字符串][1839]                  |![rs]
@@ -2711,6 +2712,7 @@
 [1832]:Problemset/1832-Check%20if%20the%20Sentence%20Is%20Pangram/README_CN.md#1832-判断句子是否为全字母句
 [1833]:Problemset/1833-Maximum%20Ice%20Cream%20Bars/README_CN.md#1833-雪糕的最大数量
 [1834]:Problemset/1834-Single-Threaded%20CPU/README_CN.md#1834-单线程-cpu
+[1835]:Problemset/1835-Find%20XOR%20Sum%20of%20All%20Pairs%20Bitwise%20AND/README_CN.md#1835-所有数对按位与结果的异或和
 [1837]:Problemset/1837-Sum%20of%20Digits%20in%20Base%20K/README_CN.md#1837-k-进制表示下的各位数字总和
 [1838]:Problemset/1838-Frequency%20of%20the%20Most%20Frequent%20Element/README_CN.md#1838-最高频元素的频数
 [1839]:Problemset/1839-Longest%20Substring%20Of%20All%20Vowels%20in%20Order/README_CN.md#1839-所有元音按顺序排布的最长子字符串
@@ -4284,6 +4286,7 @@
 [1832l]:https://leetcode.cn/problems/check-if-the-sentence-is-pangram/
 [1833l]:https://leetcode.cn/problems/maximum-ice-cream-bars/
 [1834l]:https://leetcode.cn/problems/single-threaded-cpu/
+[1835l]:https://leetcode.cn/problems/find-xor-sum-of-all-pairs-bitwise-and/
 [1837l]:https://leetcode.cn/problems/sum-of-digits-in-base-k/
 [1838l]:https://leetcode.cn/problems/frequency-of-the-most-frequent-element/
 [1839l]:https://leetcode.cn/problems/longest-substring-of-all-vowels-in-order/

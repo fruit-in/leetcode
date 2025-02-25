@@ -1137,6 +1137,7 @@
 [1832][1832l]|[Check if the Sentence Is Pangram][1832]                                              |![rs]
 [1833][1833l]|[Maximum Ice Cream Bars][1833]                                                        |![rs]
 [1834][1834l]|[Single-Threaded CPU][1834]                                                           |![rs]
+[1835][1835l]|[Find XOR Sum of All Pairs Bitwise AND][1835]                                         |![rs]
 [1837][1837l]|[Sum of Digits in Base K][1837]                                                       |![rb]&nbsp;&nbsp;![rs]
 [1838][1838l]|[Frequency of the Most Frequent Element][1838]                                        |![rs]
 [1839][1839l]|[Longest Substring Of All Vowels in Order][1839]                                      |![rs]
@@ -2711,6 +2712,7 @@
 [1832]:Problemset/1832-Check%20if%20the%20Sentence%20Is%20Pangram/README.md#1832-check-if-the-sentence-is-pangram
 [1833]:Problemset/1833-Maximum%20Ice%20Cream%20Bars/README.md#1833-maximum-ice-cream-bars
 [1834]:Problemset/1834-Single-Threaded%20CPU/README.md#1834-single-threaded-cpu
+[1835]:Problemset/1835-Find%20XOR%20Sum%20of%20All%20Pairs%20Bitwise%20AND/README.md#1835-find-xor-sum-of-all-pairs-bitwise-and
 [1837]:Problemset/1837-Sum%20of%20Digits%20in%20Base%20K/README.md#1837-sum-of-digits-in-base-k
 [1838]:Problemset/1838-Frequency%20of%20the%20Most%20Frequent%20Element/README.md#1838-frequency-of-the-most-frequent-element
 [1839]:Problemset/1839-Longest%20Substring%20Of%20All%20Vowels%20in%20Order/README.md#1839-longest-substring-of-all-vowels-in-order
@@ -4284,6 +4286,7 @@
 [1832l]:https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 [1833l]:https://leetcode.com/problems/maximum-ice-cream-bars/
 [1834l]:https://leetcode.com/problems/single-threaded-cpu/
+[1835l]:https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/
 [1837l]:https://leetcode.com/problems/sum-of-digits-in-base-k/
 [1838l]:https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 [1839l]:https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/
