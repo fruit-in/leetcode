@@ -349,6 +349,7 @@
 [520][520l]  |[检测大写字母][520]                                       |![rs]
 [521][521l]  |[最长特殊序列 Ⅰ][521]                                     |![rb]&nbsp;&nbsp;![rs]
 [522][522l]  |[最长特殊序列 II][522]                                    |![rs]
+[523][523l]  |[连续的子数组和][523]                                     |![rs]
 [524][524l]  |[通过删除字母匹配到字典里最长单词][524]                   |![py]
 [525][525l]  |[连续数组][525]                                           |![rb]&nbsp;&nbsp;![rs]
 [526][526l]  |[优美的排列][526]                                         |![rs]
@@ -1925,6 +1926,7 @@
 [520]:Problemset/0520-Detect%20Capital/README_CN.md#520-检测大写字母
 [521]:Problemset/0521-Longest%20Uncommon%20Subsequence%20I/README_CN.md#521-最长特殊序列-i
 [522]:Problemset/0522-Longest%20Uncommon%20Subsequence%20II/README_CN.md#522-最长特殊序列-ii
+[523]:Problemset/0523-Continuous%20Subarray%20Sum/README_CN.md#523-连续的子数组和
 [524]:Problemset/0524-Longest%20Word%20in%20Dictionary%20through%20Deleting/README_CN.md#524-通过删除字母匹配到字典里最长单词
 [525]:Problemset/0525-Contiguous%20Array/README_CN.md#525-连续数组
 [526]:Problemset/0526-Beautiful%20Arrangement/README_CN.md#526-优美的排列
@@ -3499,6 +3501,7 @@
 [520l]:https://leetcode.cn/problems/detect-capital/
 [521l]:https://leetcode.cn/problems/longest-uncommon-subsequence-i/
 [522l]:https://leetcode.cn/problems/longest-uncommon-subsequence-ii/
+[523l]:https://leetcode.cn/problems/continuous-subarray-sum/
 [524l]:https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting/
 [525l]:https://leetcode.cn/problems/contiguous-array/
 [526l]:https://leetcode.cn/problems/beautiful-arrangement/
