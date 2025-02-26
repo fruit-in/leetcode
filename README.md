@@ -1413,6 +1413,7 @@
 [2293][2293l]|[Min Max Game][2293]                                                                  |![rs]
 [2294][2294l]|[Partition Array Such That Maximum Difference Is K][2294]                             |![rs]
 [2295][2295l]|[Replace Elements in an Array][2295]                                                  |![rs]
+[2296][2296l]|[Design a Text Editor][2296]                                                          |![rs]
 [2299][2299l]|[Strong Password Checker II][2299]                                                    |![rs]
 [2300][2300l]|[Successful Pairs of Spells and Potions][2300]                                        |![py]
 [2301][2301l]|[Match Substring After Replacement][2301]                                             |![rs]
@@ -2990,6 +2991,7 @@
 [2293]:Problemset/2293-Min%20Max%20Game/README.md#2293-min-max-game
 [2294]:Problemset/2294-Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K/README.md#2294-partition-array-such-that-maximum-difference-is-k
 [2295]:Problemset/2295-Replace%20Elements%20in%20an%20Array/README.md#2295-replace-elements-in-an-array
+[2296]:Problemset/2296-Design%20a%20Text%20Editor/README.md#2296-design-a-text-editor
 [2299]:Problemset/2299-Strong%20Password%20Checker%20II/README.md#2299-strong-password-checker-ii
 [2300]:Problemset/2300-Successful%20Pairs%20of%20Spells%20and%20Potions/README.md#2300-successful-pairs-of-spells-and-potions
 [2301]:Problemset/2301-Match%20Substring%20After%20Replacement/README.md#2301-match-substring-after-replacement
@@ -4566,6 +4568,7 @@
 [2293l]:https://leetcode.com/problems/min-max-game/
 [2294l]:https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/
 [2295l]:https://leetcode.com/problems/replace-elements-in-an-array/
+[2296l]:https://leetcode.com/problems/design-a-text-editor/
 [2299l]:https://leetcode.com/problems/strong-password-checker-ii/
 [2300l]:https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
 [2301l]:https://leetcode.com/problems/match-substring-after-replacement/

@@ -1413,6 +1413,7 @@
 [2293][2293l]|[极大极小游戏][2293]                                      |![rs]
 [2294][2294l]|[划分数组使最大差为 K][2294]                              |![rs]
 [2295][2295l]|[替换数组中的元素][2295]                                  |![rs]
+[2296][2296l]|[设计一个文本编辑器][2296]                                |![rs]
 [2299][2299l]|[强密码检验器 II][2299]                                   |![rs]
 [2300][2300l]|[咒语和药水的成功对数][2300]                              |![py]
 [2301][2301l]|[替换字符后匹配][2301]                                    |![rs]
@@ -2990,6 +2991,7 @@
 [2293]:Problemset/2293-Min%20Max%20Game/README_CN.md#2293-极大极小游戏
 [2294]:Problemset/2294-Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K/README_CN.md#2294-划分数组使最大差为-k
 [2295]:Problemset/2295-Replace%20Elements%20in%20an%20Array/README_CN.md#2295-替换数组中的元素
+[2296]:Problemset/2296-Design%20a%20Text%20Editor/README_CN.md#2296-设计一个文本编辑器
 [2299]:Problemset/2299-Strong%20Password%20Checker%20II/README_CN.md#2299-强密码检验器-ii
 [2300]:Problemset/2300-Successful%20Pairs%20of%20Spells%20and%20Potions/README_CN.md#2300-咒语和药水的成功对数
 [2301]:Problemset/2301-Match%20Substring%20After%20Replacement/README_CN.md#2301-替换字符后匹配
@@ -4566,6 +4568,7 @@
 [2293l]:https://leetcode.cn/problems/min-max-game/
 [2294l]:https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/
 [2295l]:https://leetcode.cn/problems/replace-elements-in-an-array/
+[2296l]:https://leetcode.cn/problems/design-a-text-editor/
 [2299l]:https://leetcode.cn/problems/strong-password-checker-ii/
 [2300l]:https://leetcode.cn/problems/successful-pairs-of-spells-and-potions/
 [2301l]:https://leetcode.cn/problems/match-substring-after-replacement/
