@@ -1573,6 +1573,7 @@
 [2606][2606l]|[找到最大开销的子字符串][2606]                            |![rs]
 [2609][2609l]|[最长平衡子字符串][2609]                                  |![rs]
 [2611][2611l]|[老鼠和奶酪][2611]                                        |![rs]
+[2614][2614l]|[对角线上的质数][2614]                                    |![rs]
 
 
 [py]:./ico/python.ico
@@ -3152,6 +3153,7 @@
 [2606]:Problemset/2606-Find%20the%20Substring%20With%20Maximum%20Cost/README_CN.md#2606-找到最大开销的子字符串
 [2609]:Problemset/2609-Find%20the%20Longest%20Balanced%20Substring%20of%20a%20Binary%20String/README_CN.md#2609-最长平衡子字符串
 [2611]:Problemset/2611-Mice%20and%20Cheese/README_CN.md#2611-老鼠和奶酪
+[2614]:Problemset/2614-Prime%20In%20Diagonal/README_CN.md#2614-对角线上的质数
 
 [1l]:https://leetcode.cn/problems/two-sum/
 [2l]:https://leetcode.cn/problems/add-two-numbers/
@@ -4730,3 +4732,4 @@
 [2606l]:https://leetcode.cn/problems/find-the-substring-with-maximum-cost/
 [2609l]:https://leetcode.cn/problems/find-the-longest-balanced-substring-of-a-binary-string/
 [2611l]:https://leetcode.cn/problems/mice-and-cheese/
+[2614l]:https://leetcode.cn/problems/prime-in-diagonal/
