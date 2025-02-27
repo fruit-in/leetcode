@@ -38,6 +38,7 @@
 [39][39l]    |[组合总和][39]                                            |![rb]
 [41][41l]    |[缺失的第一个正数][41]                                    |![rs]
 [42][42l]    |[接雨水][42]                                              |![rs]
+[44][44l]    |[通配符匹配][44]                                          |![rs]
 [45][45l]    |[跳跃游戏 II][45]                                         |![rs]
 [46][46l]    |[全排列][46]                                              |![rs]
 [47][47l]    |[全排列 II][47]                                           |![rs]
@@ -1616,6 +1617,7 @@
 [39]:Problemset/0039-Combination%20Sum/README_CN.md#39-组合总和
 [41]:Problemset/0041-First%20Missing%20Positive/README_CN.md#41-缺失的第一个正数
 [42]:Problemset/0042-Trapping%20Rain%20Water/README_CN.md#42-接雨水
+[44]:Problemset/0044-Wildcard%20Matching/README_CN.md#44-通配符匹配
 [45]:Problemset/0045-Jump%20Game%20II/README_CN.md#45-跳跃游戏-ii
 [46]:Problemset/0046-Permutations/README_CN.md#46-全排列
 [47]:Problemset/0047-Permutations%20II/README_CN.md#47-全排列-ii
@@ -3187,6 +3189,7 @@
 [39l]:https://leetcode.cn/problems/combination-sum/
 [41l]:https://leetcode.cn/problems/first-missing-positive/
 [42l]:https://leetcode.cn/problems/trapping-rain-water/
+[44l]:https://leetcode.cn/problems/wildcard-matching/
 [45l]:https://leetcode.cn/problems/jump-game-ii/
 [46l]:https://leetcode.cn/problems/permutations/
 [47l]:https://leetcode.cn/problems/permutations-ii/
