@@ -30,6 +30,7 @@
 [26][26l]    |[删除排序数组中的重复项][26]                              |![rs]
 [27][27l]    |[移除元素][27]                                            |![rb]&nbsp;&nbsp;![rs]
 [28][28l]    |[实现 strStr()][28]                                       |![py]
+[29][29l]    |[两数相除][29]                                            |![rs]
 [31][31l]    |[下一个排列][31]                                          |![rs]
 [33][33l]    |[搜索旋转排序数组][33]                                    |![rs]
 [34][34l]    |[在排序数组中查找元素的第一个和最后一个位置][34]          |![rs]
@@ -1611,6 +1612,7 @@
 [26]:Problemset/0026-Remove%20Duplicates%20from%20Sorted%20Array/README_CN.md#26-删除排序数组中的重复项
 [27]:Problemset/0027-Remove%20Element/README_CN.md#27-移除元素
 [28]:Problemset/0028-Implement%20strStr\(\)/README_CN.md#28-实现-strstr
+[29]:Problemset/0029-Divide%20Two%20Integers/README_CN.md#29-两数相除
 [31]:Problemset/0031-Next%20Permutation/README_CN.md#31-下一个排列
 [33]:Problemset/0033-Search%20in%20Rotated%20Sorted%20Array/README_CN.md#33-搜索旋转排序数组
 [34]:Problemset/0034-Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/README_CN.md#34-在排序数组中查找元素的第一个和最后一个位置
@@ -3184,6 +3186,7 @@
 [26l]:https://leetcode.cn/problems/remove-duplicates-from-sorted-array/
 [27l]:https://leetcode.cn/problems/remove-element/
 [28l]:https://leetcode.cn/problems/implement-strstr/
+[29l]:https://leetcode.cn/problems/divide-two-integers/
 [31l]:https://leetcode.cn/problems/next-permutation/
 [33l]:https://leetcode.cn/problems/search-in-rotated-sorted-array/
 [34l]:https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/
