@@ -741,6 +741,7 @@
 [1124][1124l]|[Longest Well-Performing Interval][1124]                                              |![rs]
 [1128][1128l]|[Number of Equivalent Domino Pairs][1128]                                             |![rs]
 [1129][1129l]|[Shortest Path with Alternating Colors][1129]                                         |![rs]
+[1130][1130l]|[Minimum Cost Tree From Leaf Values][1130]                                            |![py]
 [1131][1131l]|[Maximum of Absolute Value Expression][1131]                                          |![rs]
 [1137][1137l]|[N-th Tribonacci Number][1137]                                                        |![rs]
 [1138][1138l]|[Alphabet Board Path][1138]                                                           |![rb]&nbsp;&nbsp;![rs]
@@ -2324,6 +2325,7 @@
 [1124]:Problemset/1124-Longest%20Well-Performing%20Interval/README.md#1124-longest-well-performing-interval
 [1128]:Problemset/1128-Number%20of%20Equivalent%20Domino%20Pairs/README.md#1128-number-of-equivalent-domino-pairs
 [1129]:Problemset/1129-Shortest%20Path%20with%20Alternating%20Colors/README.md#1129-shortest-path-with-alternating-colors
+[1130]:Problemset/1130-Minimum%20Cost%20Tree%20From%20Leaf%20Values/README.md#1130-minimum-cost-tree-from-leaf-values
 [1131]:Problemset/1131-Maximum%20of%20Absolute%20Value%20Expression/README.md#1131-maximum-of-absolute-value-expression
 [1137]:Problemset/1137-N-th%20Tribonacci%20Number/README.md#1137-n-th-tribonacci-number
 [1138]:Problemset/1138-Alphabet%20Board%20Path/README.md#1138-alphabet-board-path
@@ -3906,6 +3908,7 @@
 [1124l]:https://leetcode.com/problems/longest-well-performing-interval/
 [1128l]:https://leetcode.com/problems/number-of-equivalent-domino-pairs/
 [1129l]:https://leetcode.com/problems/shortest-path-with-alternating-colors/
+[1130l]:https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
 [1131l]:https://leetcode.com/problems/maximum-of-absolute-value-expression/
 [1137l]:https://leetcode.com/problems/n-th-tribonacci-number/
 [1138l]:https://leetcode.com/problems/alphabet-board-path/
