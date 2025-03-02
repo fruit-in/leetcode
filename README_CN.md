@@ -440,6 +440,7 @@
 [675][675l]  |[为高尔夫比赛砍树][675]                                   |![rs]
 [676][676l]  |[实现一个魔法字典][676]                                   |![py]
 [677][677l]  |[键值映射][677]                                           |![py]
+[679][679l]  |[24 点游戏][679]                                          |![py]
 [680][680l]  |[验证回文字符串 Ⅱ][680]                                   |![py]
 [682][682l]  |[棒球比赛][682]                                           |![py]
 [686][686l]  |[重复叠加字符串匹配][686]                                 |![py]
@@ -2024,6 +2025,7 @@
 [675]:Problemset/0675-Cut%20Off%20Trees%20for%20Golf%20Event/README_CN.md#675-为高尔夫比赛砍树
 [676]:Problemset/0676-Implement%20Magic%20Dictionary/README_CN.md#676-实现一个魔法字典
 [677]:Problemset/0677-Map%20Sum%20Pairs/README_CN.md#677-键值映射
+[679]:Problemset/0679-24%20Game/README_CN.md#679-24-点游戏
 [680]:Problemset/0680-Valid%20Palindrome%20II/README_CN.md#680-验证回文字符串-ii
 [682]:Problemset/0682-Baseball%20Game/README_CN.md#682-棒球比赛
 [686]:Problemset/0686-Repeated%20String%20Match/README_CN.md#686-重复叠加字符串匹配
@@ -3606,7 +3608,7 @@
 [675l]:https://leetcode.cn/problems/cut-off-trees-for-golf-event/
 [676l]:https://leetcode.cn/problems/implement-magic-dictionary/
 [677l]:https://leetcode.cn/problems/map-sum-pairs/
-[677l]:https://leetcode.cn/problems/map-sum-pairs/
+[679l]:https://leetcode.cn/problems/24-game/
 [680l]:https://leetcode.cn/problems/valid-palindrome-ii/
 [682l]:https://leetcode.cn/problems/baseball-game/
 [686l]:https://leetcode.cn/problems/repeated-string-match/
