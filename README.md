@@ -37,6 +37,7 @@
 [34][34l]    |[Find First and Last Position of Element in Sorted Array][34]                         |![rs]
 [35][35l]    |[Search Insert Position][35]                                                          |![py]
 [36][36l]    |[Valid Sudoku][36]                                                                    |![rs]
+[37][37l]    |[Sudoku Solver][37]                                                                   |![py]
 [38][38l]    |[Count and Say][38]                                                                   |![py]&nbsp;&nbsp;![rb]
 [39][39l]    |[Combination Sum][39]                                                                 |![rb]
 [41][41l]    |[First Missing Positive][41]                                                          |![rs]
@@ -1622,6 +1623,7 @@
 [34]:Problemset/0034-Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/README.md#34-find-first-and-last-position-of-element-in-sorted-array
 [35]:Problemset/0035-Search%20Insert%20Position/README.md#35-search-insert-position
 [36]:Problemset/0036-Valid%20Sudoku/README.md#36-valid-sudoku
+[37]:Problemset/0037-Sudoku%20Solver/README.md#37-sudoku-solver
 [38]:Problemset/0038-Count%20and%20Say/README.md#38-count-and-say
 [39]:Problemset/0039-Combination%20Sum/README.md#39-combination-sum
 [41]:Problemset/0041-First%20Missing%20Positive/README.md#41-first-missing-positive

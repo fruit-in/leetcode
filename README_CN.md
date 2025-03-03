@@ -37,6 +37,7 @@
 [34][34l]    |[在排序数组中查找元素的第一个和最后一个位置][34]          |![rs]
 [35][35l]    |[搜索插入位置][35]                                        |![py]
 [36][36l]    |[有效的数独][36]                                          |![rs]
+[37][37l]    |[解数独][37]                                              |![py]
 [38][38l]    |[外观数列][38]                                            |![py]&nbsp;&nbsp;![rb]
 [39][39l]    |[组合总和][39]                                            |![rb]
 [41][41l]    |[缺失的第一个正数][41]                                    |![rs]
@@ -1622,6 +1623,7 @@
 [34]:Problemset/0034-Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/README_CN.md#34-在排序数组中查找元素的第一个和最后一个位置
 [35]:Problemset/0035-Search%20Insert%20Position/README_CN.md#35-搜索插入位置
 [36]:Problemset/0036-Valid%20Sudoku/README_CN.md#36-有效的数独
+[37]:Problemset/0037-Sudoku%20Solver/README_CN.md#37-解数独
 [38]:Problemset/0038-Count%20and%20Say/README_CN.md#38-外观数列
 [39]:Problemset/0039-Combination%20Sum/README_CN.md#39-组合总和
 [41]:Problemset/0041-First%20Missing%20Positive/README_CN.md#41-缺失的第一个正数
