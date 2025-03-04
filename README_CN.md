@@ -349,6 +349,7 @@
 [513][513l]  |[找树左下角的值][513]                                     |![py]
 [514][514l]  |[自由之路][514]                                           |![rs]
 [515][515l]  |[在每个树行中找最大值][515]                               |![py]
+[516][516l]  |[最长回文子序列][516]                                     |![rs]
 [518][518l]  |[零钱兑换 II][518]                                        |![rs]
 [519][519l]  |[随机翻转矩阵][519]                                       |![py]
 [520][520l]  |[检测大写字母][520]                                       |![rs]
@@ -1935,6 +1936,7 @@
 [513]:Problemset/0513-Find%20Bottom%20Left%20Tree%20Value/README_CN.md#513-找树左下角的值
 [514]:Problemset/0514-Freedom%20Trail/README_CN.md#514-自由之路
 [515]:Problemset/0515-Find%20Largest%20Value%20in%20Each%20Tree%20Row/README_CN.md#515-在每个树行中找最大值
+[516]:Problemset/0516-Longest%20Palindromic%20Subsequence/README_CN.md#516-最长回文子序列
 [518]:Problemset/0518-Coin%20Change%202/README_CN.md#518-零钱兑换-ii
 [519]:Problemset/0519-Random%20Flip%20Matrix/README_CN.md#519-随机翻转矩阵
 [520]:Problemset/0520-Detect%20Capital/README_CN.md#520-检测大写字母
@@ -3518,6 +3520,7 @@
 [513l]:https://leetcode.cn/problems/find-bottom-left-tree-value/
 [514l]:https://leetcode.cn/problems/freedom-trail/
 [515l]:https://leetcode.cn/problems/find-largest-value-in-each-tree-row/
+[516l]:https://leetcode.cn/problems/longest-palindromic-subsequence/
 [518l]:https://leetcode.cn/problems/coin-change-2/
 [519l]:https://leetcode.cn/problems/random-flip-matrix/
 [520l]:https://leetcode.cn/problems/detect-capital/

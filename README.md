@@ -349,6 +349,7 @@
 [513][513l]  |[Find Bottom Left Tree Value][513]                                                    |![py]
 [514][514l]  |[Freedom Trail][514]                                                                  |![rs]
 [515][515l]  |[Find Largest Value in Each Tree Row][515]                                            |![py]
+[516][516l]  |[Longest Palindromic Subsequence][516]                                                |![rs]
 [518][518l]  |[Coin Change 2][518]                                                                  |![rs]
 [519][519l]  |[Random Flip Matrix][519]                                                             |![py]
 [520][520l]  |[Detect Capital][520]                                                                 |![rs]
@@ -1935,6 +1936,7 @@
 [513]:Problemset/0513-Find%20Bottom%20Left%20Tree%20Value/README.md#513-find-bottom-left-tree-value
 [514]:Problemset/0514-Freedom%20Trail/README.md#514-freedom-trail
 [515]:Problemset/0515-Find%20Largest%20Value%20in%20Each%20Tree%20Row/README.md#515-find-largest-value-in-each-tree-row
+[516]:Problemset/0516-Longest%20Palindromic%20Subsequence/README.md#516-longest-palindromic-subsequence
 [518]:Problemset/0518-Coin%20Change%202/README.md#518-coin-change-2
 [519]:Problemset/0519-Random%20Flip%20Matrix/README.md#519-random-flip-matrix
 [520]:Problemset/0520-Detect%20Capital/README.md#520-detect-capital
@@ -3518,6 +3520,7 @@
 [513l]:https://leetcode.com/problems/find-bottom-left-tree-value/
 [514l]:https://leetcode.com/problems/freedom-trail/
 [515l]:https://leetcode.com/problems/find-largest-value-in-each-tree-row/
+[516l]:https://leetcode.com/problems/longest-palindromic-subsequence/
 [518l]:https://leetcode.com/problems/coin-change-2/
 [519l]:https://leetcode.com/problems/random-flip-matrix/
 [520l]:https://leetcode.com/problems/detect-capital/
