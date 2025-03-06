@@ -69,6 +69,7 @@
 [69][69l]    |[x 的平方根][69]                                          |![rs]
 [70][70l]    |[爬楼梯][70]                                              |![rs]
 [71][71l]    |[简化路径][71]                                            |![py]
+[72][72l]    |[编辑距离][72]                                            |![rs]
 [73][73l]    |[矩阵置零][73]                                            |![rs]
 [74][74l]    |[搜索二维矩阵][74]                                        |![rs]
 [75][75l]    |[颜色分类][75]                                            |![rs]
@@ -1657,6 +1658,7 @@
 [69]:Problemset/0069-Sqrt\(x\)/README_CN.md#69-x-的平方根
 [70]:Problemset/0070-Climbing%20Stairs/README_CN.md#70-爬楼梯
 [71]:Problemset/0071-Simplify%20Path/README_CN.md#71-简化路径
+[72]:Problemset/0072-Edit%20Distance/README_CN.md#72-编辑距离
 [73]:Problemset/0073-Set%20Matrix%20Zeroes/README_CN.md#73-矩阵置零
 [74]:Problemset/0074-Search%20a%202D%20Matrix/README_CN.md#74-搜索二维矩阵
 [75]:Problemset/0075-Sort%20Colors/README_CN.md#75-颜色分类
@@ -3237,6 +3239,7 @@
 [69l]:https://leetcode.cn/problems/sqrtx/
 [70l]:https://leetcode.cn/problems/climbing-stairs/
 [71l]:https://leetcode.cn/problems/simplify-path/
+[72l]:https://leetcode.cn/problems/edit-distance/
 [73l]:https://leetcode.cn/problems/set-matrix-zeroes/
 [74l]:https://leetcode.cn/problems/search-a-2d-matrix/
 [75l]:https://leetcode.cn/problems/sort-colors/

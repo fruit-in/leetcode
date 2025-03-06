@@ -69,6 +69,7 @@
 [69][69l]    |[Sqrt(x)][69]                                                                         |![rs]
 [70][70l]    |[Climbing Stairs][70]                                                                 |![rs]
 [71][71l]    |[Simplify Path][71]                                                                   |![py]
+[72][72l]    |[Edit Distance][72]                                                                   |![rs]
 [73][73l]    |[Set Matrix Zeroes][73]                                                               |![rs]
 [74][74l]    |[Search a 2D Matrix][74]                                                              |![rs]
 [75][75l]    |[Sort Colors][75]                                                                     |![rs]
@@ -1657,6 +1658,7 @@
 [69]:Problemset/0069-Sqrt\(x\)/README.md#69-sqrtx
 [70]:Problemset/0070-Climbing%20Stairs/README.md#70-climbing-stairs
 [71]:Problemset/0071-Simplify%20Path/README.md#71-simplify-path
+[72]:Problemset/0072-Edit%20Distance/README.md#72-edit-distance
 [73]:Problemset/0073-Set%20Matrix%20Zeroes/README.md#73-set-matrix-zeroes
 [74]:Problemset/0074-Search%20a%202D%20Matrix/README.md#74-search-a-2d-matrix
 [75]:Problemset/0075-Sort%20Colors/README.md#75-sort-colors
@@ -3237,6 +3239,7 @@
 [69l]:https://leetcode.com/problems/sqrtx/
 [70l]:https://leetcode.com/problems/climbing-stairs/
 [71l]:https://leetcode.com/problems/simplify-path/
+[72l]:https://leetcode.com/problems/edit-distance/
 [73l]:https://leetcode.com/problems/set-matrix-zeroes/
 [74l]:https://leetcode.com/problems/search-a-2d-matrix/
 [75l]:https://leetcode.com/problems/sort-colors/
