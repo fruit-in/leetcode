@@ -466,6 +466,7 @@
 [707][707l]  |[设计链表][707]                                           |![py]
 [709][709l]  |[转换成小写字母][709]                                     |![rs]
 [710][710l]  |[黑名单中的随机数][710]                                   |![py]
+[712][712l]  |[两个字符串的最小ASCII删除和][712]                        |![rs]
 [713][713l]  |[乘积小于K的子数组][713]                                  |![rb]&nbsp;&nbsp;![rs]
 [714][714l]  |[买卖股票的最佳时机含手续费][714]                         |![rs]
 [717][717l]  |[1比特与2比特字符][717]                                   |![rs]
@@ -2055,6 +2056,7 @@
 [707]:Problemset/0707-Design%20Linked%20List/README_CN.md#707-设计链表
 [709]:Problemset/0709-To%20Lower%20Case/README_CN.md#709-转换成小写字母
 [710]:Problemset/0710-Random%20Pick%20with%20Blacklist/README_CN.md#710-黑名单中的随机数
+[712]:Problemset/0712-Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/README_CN.md#712-两个字符串的最小ascii删除和
 [713]:Problemset/0713-Subarray%20Product%20Less%20Than%20K/README_CN.md#713-乘积小于k的子数组
 [714]:Problemset/0714-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee/README_CN.md#714-买卖股票的最佳时机含手续费
 [717]:Problemset/0717-1-bit%20and%202-bit%20Characters/README_CN.md#717-1比特与2比特字符
@@ -3638,6 +3640,7 @@
 [707l]:https://leetcode.cn/problems/design-linked-list/
 [709l]:https://leetcode.cn/problems/to-lower-case/
 [710l]:https://leetcode.cn/problems/random-pick-with-blacklist/
+[712l]:https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/
 [713l]:https://leetcode.cn/problems/subarray-product-less-than-k/
 [714l]:https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 [717l]:https://leetcode.cn/problems/1-bit-and-2-bit-characters/
