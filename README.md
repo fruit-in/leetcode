@@ -255,6 +255,7 @@
 [372][372l]  |[Super Pow][372]                                                                      |![rs]
 [373][373l]  |[Find K Pairs with Smallest Sums][373]                                                |![rs]
 [374][374l]  |[Guess Number Higher or Lower][374]                                                   |![py]
+[375][375l]  |[Guess Number Higher or Lower II][375]                                                |![py]
 [380][380l]  |[Insert Delete GetRandom O(1)][380]                                                   |![rs]
 [382][382l]  |[Linked List Random Node][382]                                                        |![py]
 [383][383l]  |[Ransom Note][383]                                                                    |![py]
@@ -1846,6 +1847,7 @@
 [372]:Problemset/0372-Super%20Pow/README.md#372-super-pow
 [373]:Problemset/0373-Find%20K%20Pairs%20with%20Smallest%20Sums/README.md#373-find-k-pairs-with-smallest-sums
 [374]:Problemset/0374-Guess%20Number%20Higher%20or%20Lower/README.md#374-guess-number-higher-or-lower
+[375]:Problemset/0375-Guess%20Number%20Higher%20or%20Lower%20II/README.md#375-guess-number-higher-or-lower-ii
 [380]:Problemset/0380-Insert%20Delete%20GetRandom%20O\(1\)/README.md#380-insert-delete-getrandom-o1
 [382]:Problemset/0382-Linked%20List%20Random%20Node/README.md#382-linked-list-random-node
 [383]:Problemset/0383-Ransom%20Note/README.md#383-ransom-note
@@ -3430,6 +3432,7 @@
 [372l]:https://leetcode.com/problems/super-pow/
 [373l]:https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
 [374l]:https://leetcode.com/problems/guess-number-higher-or-lower/
+[375l]:https://leetcode.com/problems/guess-number-higher-or-lower-ii/
 [380l]:https://leetcode.com/problems/insert-delete-getrandom-o1/
 [382l]:https://leetcode.com/problems/linked-list-random-node/
 [383l]:https://leetcode.com/problems/ransom-note/
