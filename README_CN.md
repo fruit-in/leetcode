@@ -710,6 +710,7 @@
 [1035][1035l]|[不相交的线][1035]                                        |![rs]
 [1037][1037l]|[有效的回旋镖][1037]                                      |![rs]
 [1038][1038l]|[从二叉搜索树到更大和树][1038]                            |![py]
+[1039][1039l]|[多边形三角剖分的最低得分][1039]                          |![py]
 [1040][1040l]|[移动石子直到连续 II][1040]                               |![rs]
 [1041][1041l]|[困于环中的机器人][1041]                                  |![rs]
 [1042][1042l]|[不邻接植花][1042]                                        |![rs]
@@ -2300,6 +2301,7 @@
 [1035]:Problemset/1035-Uncrossed%20Lines/README_CN.md#1035-不相交的线
 [1037]:Problemset/1037-Valid%20Boomerang/README_CN.md#1037-有效的回旋镖
 [1038]:Problemset/1038-Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree/README_CN.md#1038-从二叉搜索树到更大和树
+[1039]:Problemset/1039-Minimum%20Score%20Triangulation%20of%20Polygon/README_CN.md#1039-多边形三角剖分的最低得分
 [1040]:Problemset/1040-Moving%20Stones%20Until%20Consecutive%20II/README_CN.md#1040-移动石子直到连续-ii
 [1041]:Problemset/1041-Robot%20Bounded%20In%20Circle/README_CN.md#1041-困于环中的机器人
 [1042]:Problemset/1042-Flower%20Planting%20With%20No%20Adjacent/README_CN.md#1042-不邻接植花
@@ -3884,6 +3886,7 @@
 [1035l]:https://leetcode.cn/problems/uncrossed-lines/
 [1037l]:https://leetcode.cn/problems/valid-boomerang/
 [1038l]:https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/
+[1039l]:https://leetcode.cn/problems/minimum-score-triangulation-of-polygon/
 [1040l]:https://leetcode.cn/problems/moving-stones-until-consecutive-ii/
 [1041l]:https://leetcode.cn/problems/robot-bounded-in-circle/
 [1042l]:https://leetcode.cn/problems/flower-planting-with-no-adjacent/

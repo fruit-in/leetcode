@@ -710,6 +710,7 @@
 [1035][1035l]|[Uncrossed Lines][1035]                                                               |![rs]
 [1037][1037l]|[Valid Boomerang][1037]                                                               |![rs]
 [1038][1038l]|[Binary Search Tree to Greater Sum Tree][1038]                                        |![py]
+[1039][1039l]|[Minimum Score Triangulation of Polygon][1039]                                        |![py]
 [1040][1040l]|[Moving Stones Until Consecutive II][1040]                                            |![rs]
 [1041][1041l]|[Robot Bounded In Circle][1041]                                                       |![rs]
 [1042][1042l]|[Flower Planting With No Adjacent][1042]                                              |![rs]
@@ -2300,6 +2301,7 @@
 [1035]:Problemset/1035-Uncrossed%20Lines/README.md#1035-uncrossed-lines
 [1037]:Problemset/1037-Valid%20Boomerang/README.md#1037-valid-boomerang
 [1038]:Problemset/1038-Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree/README.md#1038-binary-search-tree-to-greater-sum-tree
+[1039]:Problemset/1039-Minimum%20Score%20Triangulation%20of%20Polygon/README.md#1039-minimum-score-triangulation-of-polygon
 [1040]:Problemset/1040-Moving%20Stones%20Until%20Consecutive%20II/README.md#1040-moving-stones-until-consecutive-ii
 [1041]:Problemset/1041-Robot%20Bounded%20In%20Circle/README.md#1041-robot-bounded-in-circle
 [1042]:Problemset/1042-Flower%20Planting%20With%20No%20Adjacent/README.md#1042-flower-planting-with-no-adjacent
@@ -3884,6 +3886,7 @@
 [1035l]:https://leetcode.com/problems/uncrossed-lines/
 [1037l]:https://leetcode.com/problems/valid-boomerang/
 [1038l]:https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+[1039l]:https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
 [1040l]:https://leetcode.com/problems/moving-stones-until-consecutive-ii/
 [1041l]:https://leetcode.com/problems/robot-bounded-in-circle/
 [1042l]:https://leetcode.com/problems/flower-planting-with-no-adjacent/
