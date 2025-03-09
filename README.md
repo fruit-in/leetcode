@@ -117,6 +117,7 @@
 [120][120l]  |[Triangle][120]                                                                       |![rs]
 [121][121l]  |[Best Time to Buy and Sell Stock][121]                                                |![rs]
 [122][122l]  |[Best Time to Buy and Sell Stock II][122]                                             |![rs]
+[124][124l]  |[Binary Tree Maximum Path Sum][124]                                                   |![py]
 [125][125l]  |[Valid Palindrome][125]                                                               |![py]
 [128][128l]  |[Longest Consecutive Sequence][128]                                                   |![rs]
 [129][129l]  |[Sum Root to Leaf Numbers][129]                                                       |![py]
@@ -1709,6 +1710,7 @@
 [120]:Problemset/0120-Triangle/README.md#120-triangle
 [121]:Problemset/0121-Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md#121-best-time-to-buy-and-sell-stock
 [122]:Problemset/0122-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README.md#122-best-time-to-buy-and-sell-stock-ii
+[124]:Problemset/0124-Binary%20Tree%20Maximum%20Path%20Sum/README.md#124-binary-tree-maximum-path-sum
 [125]:Problemset/0125-Valid%20Palindrome/README.md#125-valid-palindrome
 [128]:Problemset/0128-Longest%20Consecutive%20Sequence/README.md#128-longest-consecutive-sequence
 [129]:Problemset/0129-Sum%20Root%20to%20Leaf%20Numbers/README.md#129-sum-root-to-leaf-numbers
@@ -3294,6 +3296,7 @@
 [120l]:https://leetcode.com/problems/triangle/
 [121l]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [122l]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+[124l]:https://leetcode.com/problems/binary-tree-maximum-path-sum/
 [125l]:https://leetcode.com/problems/valid-palindrome/
 [128l]:https://leetcode.com/problems/longest-consecutive-sequence/
 [129l]:https://leetcode.com/problems/sum-root-to-leaf-numbers/
