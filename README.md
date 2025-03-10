@@ -1042,6 +1042,7 @@
 [1629][1629l]|[Slowest Key][1629]                                                                   |![rb]&nbsp;&nbsp;![rs]
 [1630][1630l]|[Arithmetic Subarrays][1630]                                                          |![rb]&nbsp;&nbsp;![rs]
 [1631][1631l]|[Path With Minimum Effort][1631]                                                      |![rs]
+[1632][1632l]|[Rank Transform of a Matrix][1632]                                                    |![py]
 [1636][1636l]|[Sort Array by Increasing Frequency][1636]                                            |![rs]
 [1637][1637l]|[Widest Vertical Area Between Two Points Containing No Points][1637]                  |![rb]&nbsp;&nbsp;![rs]
 [1638][1638l]|[Count Substrings That Differ by One Character][1638]                                 |![rs]
@@ -2635,6 +2636,7 @@
 [1629]:Problemset/1629-Slowest%20Key/README.md#1629-slowest-key
 [1630]:Problemset/1630-Arithmetic%20Subarrays/README.md#1630-arithmetic-subarrays
 [1631]:Problemset/1631-Path%20With%20Minimum%20Effort/README.md#1631-path-with-minimum-effort
+[1632]:Problemset/1632-Rank%20Transform%20of%20a%20Matrix/README.md#1632-rank-transform-of-a-matrix
 [1636]:Problemset/1636-Sort%20Array%20by%20Increasing%20Frequency/README.md#1636-sort-array-by-increasing-frequency
 [1637]:Problemset/1637-Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points/README.md#1637-widest-vertical-area-between-two-points-containing-no-points
 [1638]:Problemset/1638-Count%20Substrings%20That%20Differ%20by%20One%20Character/README.md#1638-count-substrings-that-differ-by-one-character
@@ -4222,6 +4224,7 @@
 [1629l]:https://leetcode.com/problems/slowest-key/
 [1630l]:https://leetcode.com/problems/arithmetic-subarrays/
 [1631l]:https://leetcode.com/problems/path-with-minimum-effort/
+[1632l]:https://leetcode.com/problems/rank-transform-of-a-matrix/
 [1636l]:https://leetcode.com/problems/sort-array-by-increasing-frequency/
 [1637l]:https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
 [1638l]:https://leetcode.com/problems/count-substrings-that-differ-by-one-character/

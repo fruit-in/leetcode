@@ -1042,6 +1042,7 @@
 [1629][1629l]|[按键持续时间最长的键][1629]                              |![rb]&nbsp;&nbsp;![rs]
 [1630][1630l]|[等差子数组][1630]                                        |![rb]&nbsp;&nbsp;![rs]
 [1631][1631l]|[最小体力消耗路径][1631]                                  |![rs]
+[1632][1632l]|[矩阵转换后的秩][1632]                                    |![py]
 [1636][1636l]|[按照频率将数组升序排序][1636]                            |![rs]
 [1637][1637l]|[两点之间不包含任何点的最宽垂直面积][1637]                |![rb]&nbsp;&nbsp;![rs]
 [1638][1638l]|[统计只差一个字符的子串数目][1638]                        |![rs]
@@ -2635,6 +2636,7 @@
 [1629]:Problemset/1629-Slowest%20Key/README_CN.md#1629-按键持续时间最长的键
 [1630]:Problemset/1630-Arithmetic%20Subarrays/README_CN.md#1630-等差子数组
 [1631]:Problemset/1631-Path%20With%20Minimum%20Effort/README_CN.md#1631-最小体力消耗路径
+[1632]:Problemset/1632-Rank%20Transform%20of%20a%20Matrix/README_CN.md#1632-矩阵转换后的秩
 [1636]:Problemset/1636-Sort%20Array%20by%20Increasing%20Frequency/README_CN.md#1636-按照频率将数组升序排序
 [1637]:Problemset/1637-Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points/README_CN.md#1637-两点之间不包含任何点的最宽垂直面积
 [1638]:Problemset/1638-Count%20Substrings%20That%20Differ%20by%20One%20Character/README_CN.md#1638-统计只差一个字符的子串数目
@@ -4222,6 +4224,7 @@
 [1629l]:https://leetcode.cn/problems/slowest-key/
 [1630l]:https://leetcode.cn/problems/arithmetic-subarrays/
 [1631l]:https://leetcode.cn/problems/path-with-minimum-effort/
+[1632l]:https://leetcode.cn/problems/rank-transform-of-a-matrix/
 [1636l]:https://leetcode.cn/problems/sort-array-by-increasing-frequency/
 [1637l]:https://leetcode.cn/problems/widest-vertical-area-between-two-points-containing-no-points/
 [1638l]:https://leetcode.cn/problems/count-substrings-that-differ-by-one-character/
