@@ -258,6 +258,7 @@
 [374][374l]  |[猜数字大小][374]                                         |![py]
 [375][375l]  |[猜数字大小 II][375]                                      |![py]
 [380][380l]  |[O(1) 时间插入、删除和获取随机元素][380]                  |![rs]
+[381][381l]  |[O(1) 时间插入、删除和获取随机元素 - 允许重复][381]       |![py]
 [382][382l]  |[链表随机节点][382]                                       |![py]
 [383][383l]  |[赎金信][383]                                             |![py]
 [384][384l]  |[打乱数组][384]                                           |![rs]
@@ -1852,6 +1853,7 @@
 [374]:Problemset/0374-Guess%20Number%20Higher%20or%20Lower/README_CN.md#374-猜数字大小
 [375]:Problemset/0375-Guess%20Number%20Higher%20or%20Lower%20II/README_CN.md#375-猜数字大小-ii
 [380]:Problemset/0380-Insert%20Delete%20GetRandom%20O\(1\)/README_CN.md#380-o1-时间插入删除和获取随机元素
+[381]:Problemset/0381-Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/README_CN.md#381-o1-时间插入、删除和获取随机元素---允许重复
 [382]:Problemset/0382-Linked%20List%20Random%20Node/README_CN.md#382-链表随机节点
 [383]:Problemset/0383-Ransom%20Note/README_CN.md#383-赎金信
 [384]:Problemset/0384-Shuffle%20an%20Array/README_CN.md#384-打乱数组
@@ -3439,6 +3441,7 @@
 [374l]:https://leetcode.cn/problems/guess-number-higher-or-lower/
 [375l]:https://leetcode.cn/problems/guess-number-higher-or-lower-ii/
 [380l]:https://leetcode.cn/problems/insert-delete-getrandom-o1/
+[381l]:https://leetcode.cn/problems/insert-delete-getrandom-o1-duplicates-allowed/
 [382l]:https://leetcode.cn/problems/linked-list-random-node/
 [383l]:https://leetcode.cn/problems/ransom-note/
 [384l]:https://leetcode.cn/problems/shuffle-an-array/

@@ -258,6 +258,7 @@
 [374][374l]  |[Guess Number Higher or Lower][374]                                                   |![py]
 [375][375l]  |[Guess Number Higher or Lower II][375]                                                |![py]
 [380][380l]  |[Insert Delete GetRandom O(1)][380]                                                   |![rs]
+[381][381l]  |[Insert Delete GetRandom O(1) - Duplicates allowed][381]                              |![py]
 [382][382l]  |[Linked List Random Node][382]                                                        |![py]
 [383][383l]  |[Ransom Note][383]                                                                    |![py]
 [384][384l]  |[Shuffle an Array][384]                                                               |![rs]
@@ -1852,6 +1853,7 @@
 [374]:Problemset/0374-Guess%20Number%20Higher%20or%20Lower/README.md#374-guess-number-higher-or-lower
 [375]:Problemset/0375-Guess%20Number%20Higher%20or%20Lower%20II/README.md#375-guess-number-higher-or-lower-ii
 [380]:Problemset/0380-Insert%20Delete%20GetRandom%20O\(1\)/README.md#380-insert-delete-getrandom-o1
+[381]:Problemset/0381-Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/README.md#381-insert-delete-getrandom-o1-duplicates-allowed
 [382]:Problemset/0382-Linked%20List%20Random%20Node/README.md#382-linked-list-random-node
 [383]:Problemset/0383-Ransom%20Note/README.md#383-ransom-note
 [384]:Problemset/0384-Shuffle%20an%20Array/README.md#384-shuffle-an-array
@@ -3439,6 +3441,7 @@
 [374l]:https://leetcode.com/problems/guess-number-higher-or-lower/
 [375l]:https://leetcode.com/problems/guess-number-higher-or-lower-ii/
 [380l]:https://leetcode.com/problems/insert-delete-getrandom-o1/
+[381l]:https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
 [382l]:https://leetcode.com/problems/linked-list-random-node/
 [383l]:https://leetcode.com/problems/ransom-note/
 [384l]:https://leetcode.com/problems/shuffle-an-array/
