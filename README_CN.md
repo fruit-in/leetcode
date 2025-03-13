@@ -549,6 +549,7 @@
 [830][830l]  |[较大分组的位置][830]                                     |![rs]
 [831][831l]  |[隐藏个人信息][831]                                       |![rb]
 [832][832l]  |[翻转图像][832]                                           |![py]
+[833][833l]  |[字符串中的查找与替换][833]                               |![py]
 [836][836l]  |[矩形重叠][836]                                           |![rs]
 [838][838l]  |[推多米诺][838]                                           |![rb]&nbsp;&nbsp;![rs]
 [839][839l]  |[相似字符串组][839]                                       |![py]
@@ -2145,6 +2146,7 @@
 [830]:Problemset/0830-Positions%20of%20Large%20Groups/README_CN.md#830-较大分组的位置
 [831]:Problemset/0831-Masking%20Personal%20Information/README_CN.md#831-隐藏个人信息
 [832]:Problemset/0832-Flipping%20an%20Image/README_CN.md#832-翻转图像
+[833]:Problemset/0833-Find%20And%20Replace%20in%20String/README_CN.md#833-字符串中的查找与替换
 [836]:Problemset/0836-Rectangle%20Overlap/README_CN.md#836-矩形重叠
 [838]:Problemset/0838-Push%20Dominoes/README_CN.md#838-推多米诺
 [839]:Problemset/0839-Similar%20String%20Groups/README_CN.md#839-相似字符串组
@@ -3735,6 +3737,7 @@
 [830l]:https://leetcode.cn/problems/positions-of-large-groups/
 [831l]:https://leetcode.cn/problems/masking-personal-information/
 [832l]:https://leetcode.cn/problems/flipping-an-image/
+[833l]:https://leetcode.cn/problems/find-and-replace-in-string/
 [836l]:https://leetcode.cn/problems/rectangle-overlap/
 [838l]:https://leetcode.cn/problems/push-dominoes/
 [839l]:https://leetcode.cn/problems/similar-string-groups/

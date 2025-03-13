@@ -549,6 +549,7 @@
 [830][830l]  |[Positions of Large Groups][830]                                                      |![rs]
 [831][831l]  |[Masking Personal Information][831]                                                   |![rb]
 [832][832l]  |[Flipping an Image][832]                                                              |![py]
+[833][833l]  |[Find And Replace in String][833]                                                     |![py]
 [836][836l]  |[Rectangle Overlap][836]                                                              |![rs]
 [838][838l]  |[Push Dominoes][838]                                                                  |![rb]&nbsp;&nbsp;![rs]
 [839][839l]  |[Similar String Groups][839]                                                          |![py]
@@ -2145,6 +2146,7 @@
 [830]:Problemset/0830-Positions%20of%20Large%20Groups/README.md#830-positions-of-large-groups
 [831]:Problemset/0831-Masking%20Personal%20Information/README.md#831-masking-personal-information
 [832]:Problemset/0832-Flipping%20an%20Image/README.md#832-flipping-an-image
+[833]:Problemset/0833-Find%20And%20Replace%20in%20String/README.md#833-find-and-replace-in-string
 [836]:Problemset/0836-Rectangle%20Overlap/README.md#836-rectangle-overlap
 [838]:Problemset/0838-Push%20Dominoes/README.md#838-push-dominoes
 [839]:Problemset/0839-Similar%20String%20Groups/README.md#839-similar-string-groups
@@ -3735,6 +3737,7 @@
 [830l]:https://leetcode.com/problems/positions-of-large-groups/
 [831l]:https://leetcode.com/problems/masking-personal-information/
 [832l]:https://leetcode.com/problems/flipping-an-image/
+[833l]:https://leetcode.com/problems/find-and-replace-in-string/
 [836l]:https://leetcode.com/problems/rectangle-overlap/
 [838l]:https://leetcode.com/problems/push-dominoes/
 [839l]:https://leetcode.com/problems/similar-string-groups/
