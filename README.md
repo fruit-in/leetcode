@@ -42,6 +42,7 @@
 [39][39l]    |[Combination Sum][39]                                                                 |![rb]
 [41][41l]    |[First Missing Positive][41]                                                          |![rs]
 [42][42l]    |[Trapping Rain Water][42]                                                             |![rs]
+[43][43l]    |[Multiply Strings][43]                                                                |![rs]
 [44][44l]    |[Wildcard Matching][44]                                                               |![rs]
 [45][45l]    |[Jump Game II][45]                                                                    |![rs]
 [46][46l]    |[Permutations][46]                                                                    |![rs]
@@ -1639,6 +1640,7 @@
 [39]:Problemset/0039-Combination%20Sum/README.md#39-combination-sum
 [41]:Problemset/0041-First%20Missing%20Positive/README.md#41-first-missing-positive
 [42]:Problemset/0042-Trapping%20Rain%20Water/README.md#42-trapping-rain-water
+[43]:Problemset/0043-Multiply%20Strings/README.md#43-multiply-strings
 [44]:Problemset/0044-Wildcard%20Matching/README.md#44-wildcard-matching
 [45]:Problemset/0045-Jump%20Game%20II/README.md#45-jump-game-ii
 [46]:Problemset/0046-Permutations/README.md#46-permutations
@@ -3228,6 +3230,7 @@
 [39l]:https://leetcode.com/problems/combination-sum/
 [41l]:https://leetcode.com/problems/first-missing-positive/
 [42l]:https://leetcode.com/problems/trapping-rain-water/
+[43l]:https://leetcode.com/problems/multiply-strings/
 [44l]:https://leetcode.com/problems/wildcard-matching/
 [45l]:https://leetcode.com/problems/jump-game-ii/
 [46l]:https://leetcode.com/problems/permutations/
