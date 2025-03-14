@@ -122,6 +122,7 @@
 [125][125l]  |[验证回文串][125]                                         |![py]
 [128][128l]  |[最长连续序列][128]                                       |![rs]
 [129][129l]  |[求根到叶子节点数字之和][129]                             |![py]
+[130][130l]  |[被围绕的区域][130]                                       |![rs]
 [131][131l]  |[分割回文串][131]                                         |![py]
 [133][133l]  |[克隆图][133]                                             |![py]
 [134][134l]  |[加油站][134]                                             |![rb]&nbsp;&nbsp;![rs]
@@ -1720,6 +1721,7 @@
 [125]:Problemset/0125-Valid%20Palindrome/README_CN.md#125-验证回文串
 [128]:Problemset/0128-Longest%20Consecutive%20Sequence/README_CN.md#128-最长连续序列
 [129]:Problemset/0129-Sum%20Root%20to%20Leaf%20Numbers/README_CN.md#129-求根到叶子节点数字之和
+[130]:Problemset/0130-Surrounded%20Regions/README_CN.md#130-被围绕的区域
 [131]:Problemset/0131-Palindrome%20Partitioning/README_CN.md#131-分割回文串
 [133]:Problemset/0133-Clone%20Graph/README_CN.md#133-克隆图
 [134]:Problemset/0134-Gas%20Station/README_CN.md#134-加油站
@@ -3311,6 +3313,7 @@
 [125l]:https://leetcode.cn/problems/valid-palindrome/
 [128l]:https://leetcode.cn/problems/longest-consecutive-sequence/
 [129l]:https://leetcode.cn/problems/sum-root-to-leaf-numbers/
+[130l]:https://leetcode.cn/problems/surrounded-regions/
 [131l]:https://leetcode.cn/problems/palindrome-partitioning/
 [133l]:https://leetcode.cn/problems/clone-graph/
 [134l]:https://leetcode.cn/problems/gas-station/
