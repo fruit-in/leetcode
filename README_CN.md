@@ -416,6 +416,7 @@
 [621][621l]  |[任务调度器][621]                                         |![rs]
 [622][622l]  |[设计循环队列][622]                                       |![rs]
 [623][623l]  |[在二叉树中增加一行][623]                                 |![py]
+[624][624l]  |[数组列表中的最大距离][624]                               |![rs]
 [628][628l]  |[三个数的最大乘积][628]                                   |![py]
 [629][629l]  |[K 个逆序对数组][629]                                     |![rs]
 [633][633l]  |[平方数之和][633]                                         |![rs]
@@ -2015,6 +2016,7 @@
 [621]:Problemset/0621-Task%20Scheduler/README_CN.md#621-任务调度器
 [622]:Problemset/0622-Design%20Circular%20Queue/README_CN.md#622-设计循环队列
 [623]:Problemset/0623-Add%20One%20Row%20to%20Tree/README_CN.md#623-在二叉树中增加一行
+[624]:Problemset/0624-Maximum%20Distance%20in%20Arrays/README_CN.md#624-数组列表中的最大距离
 [628]:Problemset/0628-Maximum%20Product%20of%20Three%20Numbers/README_CN.md#628-三个数的最大乘积
 [629]:Problemset/0629-K%20Inverse%20Pairs%20Array/README_CN.md#629-k-个逆序对数组
 [633]:Problemset/0633-Sum%20of%20Square%20Numbers/README_CN.md#633-平方数之和
@@ -3608,6 +3610,7 @@
 [621l]:https://leetcode.cn/problems/task-scheduler/
 [622l]:https://leetcode.cn/problems/design-circular-queue/
 [623l]:https://leetcode.cn/problems/add-one-row-to-tree/
+[624l]:https://leetcode.cn/problems/maximum-distance-in-arrays/
 [628l]:https://leetcode.cn/problems/maximum-product-of-three-numbers/
 [629l]:https://leetcode.cn/problems/k-inverse-pairs-array/description/
 [633l]:https://leetcode.cn/problems/sum-of-square-numbers/
