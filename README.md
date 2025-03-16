@@ -1045,6 +1045,7 @@
 [1619][1619l]|[Mean of Array After Removing Some Elements][1619]                                    |![rb]&nbsp;&nbsp;![rs]
 [1620][1620l]|[Coordinate With Maximum Network Quality][1620]                                       |![rs]
 [1621][1621l]|[Number of Sets of K Non-Overlapping Line Segments][1621]                             |![py]
+[1622][1622l]|[Fancy Sequence][1622]                                                                |![py]
 [1624][1624l]|[Largest Substring Between Two Equal Characters][1624]                                |![rb]&nbsp;&nbsp;![rs]
 [1629][1629l]|[Slowest Key][1629]                                                                   |![rb]&nbsp;&nbsp;![rs]
 [1630][1630l]|[Arithmetic Subarrays][1630]                                                          |![rb]&nbsp;&nbsp;![rs]
@@ -2646,6 +2647,7 @@
 [1619]:Problemset/1619-Mean%20of%20Array%20After%20Removing%20Some%20Elements/README.md#1619-mean-of-array-after-removing-some-elements
 [1620]:Problemset/1620-Coordinate%20With%20Maximum%20Network%20Quality/README.md#1620-coordinate-with-maximum-network-quality
 [1621]:Problemset/1621-Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments/README.md#1621-number-of-sets-of-k-non-overlapping-line-segments
+[1622]:Problemset/1622-Fancy%20Sequence/README.md#1622-fancy-sequence
 [1624]:Problemset/1624-Largest%20Substring%20Between%20Two%20Equal%20Characters/README.md#1624-largest-substring-between-two-equal-characters
 [1629]:Problemset/1629-Slowest%20Key/README.md#1629-slowest-key
 [1630]:Problemset/1630-Arithmetic%20Subarrays/README.md#1630-arithmetic-subarrays
@@ -4241,6 +4243,7 @@
 [1619l]:https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 [1620l]:https://leetcode.com/problems/coordinate-with-maximum-network-quality/
 [1621l]:https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/
+[1622l]:https://leetcode.com/problems/fancy-sequence/
 [1624l]:https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 [1629l]:https://leetcode.com/problems/slowest-key/
 [1630l]:https://leetcode.com/problems/arithmetic-subarrays/
