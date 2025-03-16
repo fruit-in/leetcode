@@ -1536,6 +1536,7 @@
 [2469][2469l]|[Convert the Temperature][2469]                                                       |![rs]
 [2475][2475l]|[Number of Unequal Triplets in Array][2475]                                           |![rs]
 [2476][2476l]|[Closest Nodes Queries in a Binary Search Tree][2476]                                 |![py]
+[2478][2478l]|[Number of Beautiful Partitions][2478]                                                |![py]
 [2481][2481l]|[Minimum Cuts to Divide a Circle][2481]                                               |![rs]
 [2482][2482l]|[Difference Between Ones and Zeros in Row and Column][2482]                           |![rs]
 [2483][2483l]|[Minimum Penalty for a Shop][2483]                                                    |![rs]
@@ -3138,6 +3139,7 @@
 [2469]:Problemset/2469-Convert%20the%20Temperature/README.md#2469-convert-the-temperature
 [2475]:Problemset/2475-Number%20of%20Unequal%20Triplets%20in%20Array/README.md#2475-number-of-unequal-triplets-in-array
 [2476]:Problemset/2476-Closest%20Nodes%20Queries%20in%20a%20Binary%20Search%20Tree/README.md#2476-closest-nodes-queries-in-a-binary-search-tree
+[2478]:Problemset/2478-Number%20of%20Beautiful%20Partitions/README.md#2478-number-of-beautiful-partitions
 [2481]:Problemset/2481-Minimum%20Cuts%20to%20Divide%20a%20Circle/README.md#2481-minimum-cuts-to-divide-a-circle
 [2482]:Problemset/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README.md#2482-difference-between-ones-and-zeros-in-row-and-column
 [2483]:Problemset/2483-Minimum%20Penalty%20for%20a%20Shop/README.md#2483-minimum-penalty-for-a-shop
@@ -4734,6 +4736,7 @@
 [2469l]:https://leetcode.com/problems/convert-the-temperature/
 [2475l]:https://leetcode.com/problems/number-of-unequal-triplets-in-array/
 [2476l]:https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/
+[2478l]:https://leetcode.com/problems/number-of-beautiful-partitions/
 [2481l]:https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/
 [2482l]:https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
 [2483l]:https://leetcode.com/problems/minimum-penalty-for-a-shop/

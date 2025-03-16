@@ -1536,6 +1536,7 @@
 [2469][2469l]|[温度转换][2469]                                          |![rs]
 [2475][2475l]|[数组中不等三元组的数目][2475]                            |![rs]
 [2476][2476l]|[二叉搜索树最近节点查询][2476]                            |![py]
+[2478][2478l]|[完美分割的方案数][2478]                                  |![py]
 [2481][2481l]|[分割圆的最少切割次数][2481]                              |![rs]
 [2482][2482l]|[行和列中一和零的差值][2482]                              |![rs]
 [2483][2483l]|[商店的最少代价][2483]                                    |![rs]
@@ -3138,6 +3139,7 @@
 [2469]:Problemset/2469-Convert%20the%20Temperature/README_CN.md#2469-温度转换
 [2475]:Problemset/2475-Number%20of%20Unequal%20Triplets%20in%20Array/README_CN.md#2475-数组中不等三元组的数目
 [2476]:Problemset/2476-Closest%20Nodes%20Queries%20in%20a%20Binary%20Search%20Tree/README_CN.md#2476-二叉搜索树最近节点查询
+[2478]:Problemset/2478-Number%20of%20Beautiful%20Partitions/README_CN.md#2478-完美分割的方案数
 [2481]:Problemset/2481-Minimum%20Cuts%20to%20Divide%20a%20Circle/README_CN.md#2481-分割圆的最少切割次数
 [2482]:Problemset/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README_CN.md#2482-行和列中一和零的差值
 [2483]:Problemset/2483-Minimum%20Penalty%20for%20a%20Shop/README_CN.md#2483-商店的最少代价
@@ -4734,6 +4736,7 @@
 [2469l]:https://leetcode.cn/problems/convert-the-temperature/
 [2475l]:https://leetcode.cn/problems/number-of-unequal-triplets-in-array/
 [2476l]:https://leetcode.cn/problems/closest-nodes-queries-in-a-binary-search-tree/
+[2478l]:https://leetcode.cn/problems/number-of-beautiful-partitions/
 [2481l]:https://leetcode.cn/problems/minimum-cuts-to-divide-a-circle/
 [2482l]:https://leetcode.cn/problems/difference-between-ones-and-zeros-in-row-and-column/
 [2483l]:https://leetcode.cn/problems/minimum-penalty-for-a-shop/
