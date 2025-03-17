@@ -64,6 +64,7 @@
 [62][62l]    |[Unique Paths][62]                                                                    |![rs]
 [63][63l]    |[Unique Paths II][63]                                                                 |![rs]
 [64][64l]    |[Minimum Path Sum][64]                                                                |![rb]&nbsp;&nbsp;![rs]
+[65][65l]    |[Valid Number][65]                                                                    |![py]
 [66][66l]    |[Plus One][66]                                                                        |![rs]
 [67][67l]    |[Add Binary][67]                                                                      |![py]
 [68][68l]    |[Text Justification][68]                                                              |![rs]
@@ -1667,6 +1668,7 @@
 [62]:Problemset/0062-Unique%20Paths/README.md#62-unique-paths
 [63]:Problemset/0063-Unique%20Paths%20II/README.md#63-unique-paths-ii
 [64]:Problemset/0064-Minimum%20Path%20Sum/README.md#64-minimum-path-sum
+[65]:Problemset/0065-Valid%20Number/README.md#65-valid-number
 [66]:Problemset/0066-Plus%20One/README.md#66-plus-one
 [67]:Problemset/0067-Add%20Binary/README.md#67-add-binary
 [68]:Problemset/0068-Text%20Justification/README.md#68-text-justification
@@ -3262,6 +3264,7 @@
 [62l]:https://leetcode.com/problems/unique-paths/
 [63l]:https://leetcode.com/problems/unique-paths-ii/
 [64l]:https://leetcode.com/problems/minimum-path-sum/
+[65l]:https://leetcode.com/problems/valid-number/
 [66l]:https://leetcode.com/problems/plus-one/
 [67l]:https://leetcode.com/problems/add-binary/
 [68l]:https://leetcode.com/problems/text-justification/

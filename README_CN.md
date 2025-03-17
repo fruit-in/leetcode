@@ -64,6 +64,7 @@
 [62][62l]    |[不同路径][62]                                            |![rs]
 [63][63l]    |[不同路径 II][63]                                         |![rs]
 [64][64l]    |[最小路径和][64]                                          |![rb]&nbsp;&nbsp;![rs]
+[65][65l]    |[有效数字][65]                                            |![py]
 [66][66l]    |[加一][66]                                                |![rs]
 [67][67l]    |[二进制求和][67]                                          |![py]
 [68][68l]    |[文本左右对齐][68]                                        |![rs]
@@ -1667,6 +1668,7 @@
 [62]:Problemset/0062-Unique%20Paths/README_CN.md#62-不同路径
 [63]:Problemset/0063-Unique%20Paths%20II/README_CN.md#63-不同路径-ii
 [64]:Problemset/0064-Minimum%20Path%20Sum/README_CN.md#64-最小路径和
+[65]:Problemset/0065-Valid%20Number/README_CN.md#65-有效数字
 [66]:Problemset/0066-Plus%20One/README_CN.md#66-加一
 [67]:Problemset/0067-Add%20Binary/README_CN.md#67-二进制求和
 [68]:Problemset/0068-Text%20Justification/README_CN.md#68-文本左右对齐
@@ -3262,6 +3264,7 @@
 [62l]:https://leetcode.cn/problems/unique-paths/
 [63l]:https://leetcode.cn/problems/unique-paths-ii/
 [64l]:https://leetcode.cn/problems/minimum-path-sum/
+[65l]:https://leetcode.cn/problems/valid-number/
 [66l]:https://leetcode.cn/problems/plus-one/
 [67l]:https://leetcode.cn/problems/add-binary/
 [68l]:https://leetcode.cn/problems/text-justification/
