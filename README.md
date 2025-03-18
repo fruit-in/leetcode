@@ -274,6 +274,7 @@
 [391][391l]  |[Perfect Rectangle][391]                                                              |![rs]
 [392][392l]  |[Is Subsequence][392]                                                                 |![rs]
 [393][393l]  |[UTF-8 Validation][393]                                                               |![rs]
+[394][394l]  |[Decode String][394]                                                                  |![py]
 [395][395l]  |[Longest Substring with At Least K Repeating Characters][395]                         |![rs]
 [396][396l]  |[Rotate Function][396]                                                                |![rs]
 [397][397l]  |[Integer Replacement][397]                                                            |![rs]
@@ -1878,6 +1879,7 @@
 [391]:Problemset/0391-Perfect%20Rectangle/README.md#391-perfect-rectangle
 [392]:Problemset/0392-Is%20Subsequence/README.md#392-is-subsequence
 [393]:Problemset/0393-UTF-8%20Validation/README.md#393-utf-8-validation
+[394]:Problemset/0394-Decode%20String/README.md#394-decode-string
 [395]:Problemset/0395-Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/README.md#395-longest-substring-with-at-least-k-repeating-characters
 [396]:Problemset/0396-Rotate%20Function/README.md#396-rotate-function
 [397]:Problemset/0397-Integer%20Replacement/README.md#397-integer-replacement
@@ -3475,6 +3477,7 @@
 [391l]:https://leetcode.com/problems/perfect-rectangle/
 [392l]:https://leetcode.com/problems/is-subsequence/
 [393l]:https://leetcode.com/problems/utf-8-validation/
+[394l]:https://leetcode.com/problems/decode-string/
 [395l]:https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
 [396l]:https://leetcode.com/problems/rotate-function/
 [397l]:https://leetcode.com/problems/integer-replacement/
