@@ -627,6 +627,7 @@
 [921][921l]  |[使括号有效的最少添加][921]                               |![rs]
 [922][922l]  |[按奇偶排序数组 II][922]                                  |![py]
 [923][923l]  |[三数之和的多种可能][923]                                 |![rs]
+[924][924l]  |[尽量减少恶意软件的传播][924]                             |![py]
 [925][925l]  |[长按键入][925]                                           |![py]
 [926][926l]  |[将字符串翻转到单调递增][926]                             |![rs]
 [927][927l]  |[三等分][927]                                             |![rs]
@@ -2232,6 +2233,7 @@
 [921]:Problemset/0921-Minimum%20Add%20to%20Make%20Parentheses%20Valid/README_CN.md#921-使括号有效的最少添加
 [922]:Problemset/0922-Sort%20Array%20By%20Parity%20II/README_CN.md#922-按奇偶排序数组-ii
 [923]:Problemset/0923-3Sum%20With%20Multiplicity/README_CN.md#923-三数之和的多种可能
+[924]:Problemset/0924-Minimize%20Malware%20Spread/README_CN.md#924-尽量减少恶意软件的传播
 [925]:Problemset/0925-Long%20Pressed%20Name/README_CN.md#925-长按键入
 [926]:Problemset/0926-Flip%20String%20to%20Monotone%20Increasing/README_CN.md#926-将字符串翻转到单调递增
 [927]:Problemset/0927-Three%20Equal%20Parts/README_CN.md#927-三等分
@@ -3831,6 +3833,7 @@
 [921l]:https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/
 [922l]:https://leetcode.cn/problems/sort-array-by-parity-ii/
 [923l]:https://leetcode.cn/problems/3sum-with-multiplicity/
+[924l]:https://leetcode.cn/problems/minimize-malware-spread/
 [925l]:https://leetcode.cn/problems/long-pressed-name/
 [926l]:https://leetcode.cn/problems/flip-string-to-monotone-increasing/
 [927l]:https://leetcode.cn/problems/three-equal-parts/
