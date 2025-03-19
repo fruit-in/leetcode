@@ -279,6 +279,7 @@
 [396][396l]  |[旋转函数][396]                                           |![rs]
 [397][397l]  |[整数替换][397]                                           |![rs]
 [398][398l]  |[随机数索引][398]                                         |![py]
+[399][399l]  |[除法求值][399]                                           |![py]
 [400][400l]  |[第N个数字][400]                                          |![rs]
 [401][401l]  |[二进制手表][401]                                         |![py]
 [402][402l]  |[移掉 K 位数字][402]                                      |![rs]
@@ -1885,6 +1886,7 @@
 [396]:Problemset/0396-Rotate%20Function/README_CN.md#396-旋转函数
 [397]:Problemset/0397-Integer%20Replacement/README_CN.md#397-整数替换
 [398]:Problemset/0398-Random%20Pick%20Index/README_CN.md#398-随机数索引
+[399]:Problemset/0399-Evaluate%20Division/README_CN.md#399-除法求值
 [400]:Problemset/0400-Nth%20Digit/README_CN.md#400-第N个数字
 [401]:Problemset/0401-Binary%20Watch/README_CN.md#401-二进制手表
 [402]:Problemset/0402-Remove%20K%20Digits/README_CN.md#402-移掉-k-位数字
@@ -3484,6 +3486,7 @@
 [396l]:https://leetcode.cn/problems/rotate-function/
 [397l]:https://leetcode.cn/problems/integer-replacement/
 [398l]:https://leetcode.cn/problems/random-pick-index/
+[399l]:https://leetcode.cn/problems/evaluate-division/
 [400l]:https://leetcode.cn/problems/nth-digit/
 [401l]:https://leetcode.cn/problems/binary-watch/
 [402l]:https://leetcode.cn/problems/remove-k-digits/

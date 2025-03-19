@@ -279,6 +279,7 @@
 [396][396l]  |[Rotate Function][396]                                                                |![rs]
 [397][397l]  |[Integer Replacement][397]                                                            |![rs]
 [398][398l]  |[Random Pick Index][398]                                                              |![py]
+[399][399l]  |[Evaluate Division][399]                                                              |![py]
 [400][400l]  |[Nth Digit][400]                                                                      |![rs]
 [401][401l]  |[Binary Watch][401]                                                                   |![py]
 [402][402l]  |[Remove K Digits][402]                                                                |![rs]
@@ -1885,6 +1886,7 @@
 [396]:Problemset/0396-Rotate%20Function/README.md#396-rotate-function
 [397]:Problemset/0397-Integer%20Replacement/README.md#397-integer-replacement
 [398]:Problemset/0398-Random%20Pick%20Index/README.md#398-random-pick-index
+[399]:Problemset/0399-Evaluate%20Division/README.md#399-evaluate-division
 [400]:Problemset/0400-Nth%20Digit/README.md#400-nth-digit
 [401]:Problemset/0401-Binary%20Watch/README.md#401-binary-watch
 [402]:Problemset/0402-Remove%20K%20Digits/README.md#402-remove-k-digits
@@ -3484,6 +3486,7 @@
 [396l]:https://leetcode.com/problems/rotate-function/
 [397l]:https://leetcode.com/problems/integer-replacement/
 [398l]:https://leetcode.com/problems/random-pick-index/
+[399l]:https://leetcode.com/problems/evaluate-division/
 [400l]:https://leetcode.com/problems/nth-digit/
 [401l]:https://leetcode.com/problems/binary-watch/
 [402l]:https://leetcode.com/problems/remove-k-digits/
