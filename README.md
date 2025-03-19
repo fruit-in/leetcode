@@ -128,6 +128,7 @@
 [131][131l]  |[Palindrome Partitioning][131]                                                        |![py]
 [133][133l]  |[Clone Graph][133]                                                                    |![py]
 [134][134l]  |[Gas Station][134]                                                                    |![rb]&nbsp;&nbsp;![rs]
+[135][135l]  |[Candy][135]                                                                          |![rs]
 [136][136l]  |[Single Number][136]                                                                  |![rs]
 [137][137l]  |[Single Number II][137]                                                               |![rs]
 [138][138l]  |[Copy List with Random Pointer][138]                                                  |![py]
@@ -1735,6 +1736,7 @@
 [131]:Problemset/0131-Palindrome%20Partitioning/README.md#131-palindrome-partitioning
 [133]:Problemset/0133-Clone%20Graph/README.md#133-clone-graph
 [134]:Problemset/0134-Gas%20Station/README.md#134-gas-station
+[135]:Problemset/0135-Candy/README.md#135-candy
 [136]:Problemset/0136-Single%20Number/README.md#136-single-number
 [137]:Problemset/0137-Single%20Number%20II/README.md#137-single-number-ii
 [138]:Problemset/0138-Copy%20List%20with%20Random%20Pointer/README.md#138-copy-list-with-random-pointer
@@ -3335,6 +3337,7 @@
 [131l]:https://leetcode.com/problems/palindrome-partitioning/
 [133l]:https://leetcode.com/problems/clone-graph/
 [134l]:https://leetcode.com/problems/gas-station/
+[135l]:https://leetcode.com/problems/candy/
 [136l]:https://leetcode.com/problems/single-number/
 [137l]:https://leetcode.com/problems/single-number-ii/
 [138l]:https://leetcode.com/problems/copy-list-with-random-pointer/
