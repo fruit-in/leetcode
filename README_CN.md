@@ -1602,6 +1602,7 @@
 [2605][2605l]|[从两个数字数组里生成最小数字][2605]                      |![rs]
 [2606][2606l]|[找到最大开销的子字符串][2606]                            |![rs]
 [2609][2609l]|[最长平衡子字符串][2609]                                  |![rs]
+[2610][2610l]|[转换二维数组][2610]                                      |![rs]
 [2611][2611l]|[老鼠和奶酪][2611]                                        |![rs]
 [2614][2614l]|[对角线上的质数][2614]                                    |![rs]
 
@@ -3212,6 +3213,7 @@
 [2605]:Problemset/2605-Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays/README_CN.md#2605-从两个数字数组里生成最小数字
 [2606]:Problemset/2606-Find%20the%20Substring%20With%20Maximum%20Cost/README_CN.md#2606-找到最大开销的子字符串
 [2609]:Problemset/2609-Find%20the%20Longest%20Balanced%20Substring%20of%20a%20Binary%20String/README_CN.md#2609-最长平衡子字符串
+[2610]:Problemset/2610-Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions/README_CN.md#2610-转换二维数组
 [2611]:Problemset/2611-Mice%20and%20Cheese/README_CN.md#2611-老鼠和奶酪
 [2614]:Problemset/2614-Prime%20In%20Diagonal/README_CN.md#2614-对角线上的质数
 
@@ -4816,5 +4818,6 @@
 [2605l]:https://leetcode.cn/problems/form-smallest-number-from-two-digit-arrays/
 [2606l]:https://leetcode.cn/problems/find-the-substring-with-maximum-cost/
 [2609l]:https://leetcode.cn/problems/find-the-longest-balanced-substring-of-a-binary-string/
+[2610l]:https://leetcode.cn/problems/convert-an-array-into-a-2d-array-with-conditions/
 [2611l]:https://leetcode.cn/problems/mice-and-cheese/
 [2614l]:https://leetcode.cn/problems/prime-in-diagonal/

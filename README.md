@@ -1602,6 +1602,7 @@
 [2605][2605l]|[Form Smallest Number From Two Digit Arrays][2605]                                    |![rs]
 [2606][2606l]|[Find the Substring With Maximum Cost][2606]                                          |![rs]
 [2609][2609l]|[Find the Longest Balanced Substring of a Binary String][2609]                        |![rs]
+[2610][2610l]|[Convert an Array Into a 2D Array With Conditions][2610]                              |![rs]
 [2611][2611l]|[Mice and Cheese][2611]                                                               |![rs]
 [2614][2614l]|[Prime In Diagonal][2614]                                                             |![rs]
 
@@ -3212,6 +3213,7 @@
 [2605]:Problemset/2605-Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays/README.md#2605-form-smallest-number-from-two-digit-arrays
 [2606]:Problemset/2606-Find%20the%20Substring%20With%20Maximum%20Cost/README.md#2606-find-the-substring-with-maximum-cost
 [2609]:Problemset/2609-Find%20the%20Longest%20Balanced%20Substring%20of%20a%20Binary%20String/README.md#2609-find-the-longest-balanced-substring-of-a-binary-string
+[2610]:Problemset/2610-Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions/README.md#2610-convert-an-array-into-a-2d-array-with-conditions
 [2611]:Problemset/2611-Mice%20and%20Cheese/README.md#2611-mice-and-cheese
 [2614]:Problemset/2614-Prime%20In%20Diagonal/README.md#2614-prime-in-diagonal
 
@@ -4816,5 +4818,6 @@
 [2605l]:https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/
 [2606l]:https://leetcode.com/problems/find-the-substring-with-maximum-cost/
 [2609l]:https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/
+[2610l]:https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/
 [2611l]:https://leetcode.com/problems/mice-and-cheese/
 [2614l]:https://leetcode.com/problems/prime-in-diagonal/
