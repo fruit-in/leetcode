@@ -1455,6 +1455,7 @@
 [2315][2315l]|[Count Asterisks][2315]                                                               |![rs]
 [2316][2316l]|[Count Unreachable Pairs of Nodes in an Undirected Graph][2316]                       |![py]
 [2317][2317l]|[Maximum XOR After Operations][2317]                                                  |![rs]
+[2318][2318l]|[Number of Distinct Roll Sequences][2318]                                             |![rs]
 [2319][2319l]|[Check if Matrix Is X-Matrix][2319]                                                   |![py]
 [2320][2320l]|[Count Number of Ways to Place Houses][2320]                                          |![rs]
 [2325][2325l]|[Decode the Message][2325]                                                            |![py]
@@ -3066,6 +3067,7 @@
 [2315]:Problemset/2315-Count%20Asterisks/README.md#2315-count-asterisks
 [2316]:Problemset/2316-Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph/README.md#2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph
 [2317]:Problemset/2317-Maximum%20XOR%20After%20Operations/README.md#2317-maximum-xor-after-operations
+[2318]:Problemset/2318-Number%20of%20Distinct%20Roll%20Sequences/README.md#2318-number-of-distinct-roll-sequences
 [2319]:Problemset/2319-Check%20if%20Matrix%20Is%20X-Matrix/README.md#2319-check-if-matrix-is-x-matrix
 [2320]:Problemset/2320-Count%20Number%20of%20Ways%20to%20Place%20Houses/README.md#2320-count-number-of-ways-to-place-houses
 [2325]:Problemset/2325-Decode%20the%20Message/README.md#2325-decode-the-message
@@ -4671,6 +4673,7 @@
 [2315l]:https://leetcode.com/problems/count-asterisks/
 [2316l]:https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
 [2317l]:https://leetcode.com/problems/maximum-xor-after-operations/
+[2318l]:https://leetcode.com/problems/number-of-distinct-roll-sequences/
 [2319l]:https://leetcode.com/problems/check-if-matrix-is-x-matrix/
 [2320l]:https://leetcode.com/problems/count-number-of-ways-to-place-houses/
 [2325l]:https://leetcode.com/problems/decode-the-message/

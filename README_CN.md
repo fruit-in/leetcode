@@ -1455,6 +1455,7 @@
 [2315][2315l]|[统计星号][2315]                                          |![rs]
 [2316][2316l]|[统计无向图中无法互相到达点对数][2316]                    |![py]
 [2317][2317l]|[操作后的最大异或和][2317]                                |![rs]
+[2318][2318l]|[不同骰子序列的数目][2318]                                |![rs]
 [2319][2319l]|[判断矩阵是否是一个 X 矩阵][2319]                         |![py]
 [2320][2320l]|[统计放置房子的方式数][2320]                              |![rs]
 [2325][2325l]|[解密消息][2325]                                          |![py]
@@ -3066,6 +3067,7 @@
 [2315]:Problemset/2315-Count%20Asterisks/README_CN.md#2315-统计星号
 [2316]:Problemset/2316-Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph/README_CN.md#2316-统计无向图中无法互相到达点对数
 [2317]:Problemset/2317-Maximum%20XOR%20After%20Operations/README_CN.md#2317-操作后的最大异或和
+[2318]:Problemset/2318-Number%20of%20Distinct%20Roll%20Sequences/README_CN.md#2318-不同骰子序列的数目
 [2319]:Problemset/2319-Check%20if%20Matrix%20Is%20X-Matrix/README_CN.md#2319-判断矩阵是否是一个-x-矩阵
 [2320]:Problemset/2320-Count%20Number%20of%20Ways%20to%20Place%20Houses/README_CN.md#2320-统计放置房子的方式数
 [2325]:Problemset/2325-Decode%20the%20Message/README_CN.md#2325-解密消息
@@ -4671,6 +4673,7 @@
 [2315l]:https://leetcode.cn/problems/count-asterisks/
 [2316l]:https://leetcode.cn/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
 [2317l]:https://leetcode.cn/problems/maximum-xor-after-operations/
+[2318l]:https://leetcode.cn/problems/number-of-distinct-roll-sequences/
 [2319l]:https://leetcode.cn/problems/check-if-matrix-is-x-matrix/
 [2320l]:https://leetcode.cn/problems/count-number-of-ways-to-place-houses/
 [2325l]:https://leetcode.cn/problems/decode-the-message/
