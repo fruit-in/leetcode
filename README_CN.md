@@ -1582,6 +1582,7 @@
 [2555][2555l]|[两个线段获得的最多奖品][2555]                            |![py]
 [2558][2558l]|[从数量最多的堆取走礼物][2558]                            |![rs]
 [2559][2559l]|[统计范围内的元音字符串数][2559]                          |![rs]
+[2561][2561l]|[重排水果][2561]                                          |![rs]
 [2562][2562l]|[找出数组的串联值][2562]                                  |![rs]
 [2563][2563l]|[统计公平数对的数目][2563]                                |![py]
 [2564][2564l]|[子字符串异或查询][2564]                                  |![py]
@@ -3196,6 +3197,7 @@
 [2555]:Problemset/2555-Maximize%20Win%20From%20Two%20Segments/README_CN.md#2555-两个线段获得的最多奖品
 [2558]:Problemset/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README_CN.md#2558-take-gifts-from-the-richest-pile
 [2559]:Problemset/2559-Count%20Vowel%20Strings%20in%20Ranges/README_CN.md#2559-统计范围内的元音字符串数
+[2561]:Problemset/2561-Rearranging%20Fruits/README_CN.md#2561-重排水果
 [2562]:Problemset/2562-Find%20the%20Array%20Concatenation%20Value/README_CN.md#2562-找出数组的串联值
 [2563]:Problemset/2563-Count%20the%20Number%20of%20Fair%20Pairs/README_CN.md#2563-统计公平数对的数目
 [2564]:Problemset/2564-Substring%20XOR%20Queries/README_CN.md#2564-子字符串异或查询
@@ -4804,6 +4806,7 @@
 [2555l]:https://leetcode.cn/problems/maximize-win-from-two-segments/
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2559l]:https://leetcode.cn/problems/count-vowel-strings-in-ranges/
+[2561l]:https://leetcode.cn/problems/rearranging-fruits/
 [2562l]:https://leetcode.cn/problems/find-the-array-concatenation-value/
 [2563l]:https://leetcode.cn/problems/count-the-number-of-fair-pairs/
 [2564l]:https://leetcode.cn/problems/substring-xor-queries/
