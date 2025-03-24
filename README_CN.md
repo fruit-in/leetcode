@@ -1539,6 +1539,7 @@
 [2456][2456l]|[最流行的视频创作者][2456]                                |![py]
 [2457][2457l]|[美丽整数的最小增量][2457]                                |![py]
 [2460][2460l]|[对数组执行操作][2460]                                    |![rs]
+[2462][2462l]|[雇佣 K 位工人的总代价][2462]                             |![rs]
 [2465][2465l]|[不同的平均值数目][2465]                                  |![rs]
 [2466][2466l]|[统计构造好字符串的方案数][2466]                          |![rs]
 [2469][2469l]|[温度转换][2469]                                          |![rs]
@@ -3156,6 +3157,7 @@
 [2456]:Problemset/2456-Most%20Popular%20Video%20Creator/README_CN.md#2456-最流行的视频创作者
 [2457]:Problemset/2457-Minimum%20Addition%20to%20Make%20Integer%20Beautiful/README_CN.md#2457-美丽整数的最小增量
 [2460]:Problemset/2460-Apply%20Operations%20to%20an%20Array/README_CN.md#2460-对数组执行操作
+[2462]:Problemset/2462-Total%20Cost%20to%20Hire%20K%20Workers/README_CN.md#2462-雇佣-k-位工人的总代价
 [2465]:Problemset/2465-Number%20of%20Distinct%20Averages/README_CN.md#2465-不同的平均值数目
 [2466]:Problemset/2466-Count%20Ways%20To%20Build%20Good%20Strings/README_CN.md#2466-统计构造好字符串的方案数
 [2469]:Problemset/2469-Convert%20the%20Temperature/README_CN.md#2469-温度转换
@@ -4767,6 +4769,7 @@
 [2456l]:https://leetcode.cn/problems/most-popular-video-creator/
 [2457l]:https://leetcode.cn/problems/minimum-addition-to-make-integer-beautiful/
 [2460l]:https://leetcode.cn/problems/apply-operations-to-an-array/
+[2462l]:https://leetcode.cn/problems/total-cost-to-hire-k-workers/
 [2465l]:https://leetcode.cn/problems/number-of-distinct-averages/
 [2466l]:https://leetcode.cn/problems/count-ways-to-build-good-strings/
 [2469l]:https://leetcode.cn/problems/convert-the-temperature/
