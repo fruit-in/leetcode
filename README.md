@@ -521,6 +521,7 @@
 [783][783l]  |[Minimum Distance Between BST Nodes][783]                                             |![py]
 [784][784l]  |[Letter Case Permutation][784]                                                        |![py]
 [785][785l]  |[Is Graph Bipartite?][785]                                                            |![rs]
+[786][786l]  |[K-th Smallest Prime Fraction][786]                                                   |![rs]
 [787][787l]  |[Cheapest Flights Within K Stops][787]                                                |![rs]
 [788][788l]  |[Rotated Digits][788]                                                                 |![rs]
 [789][789l]  |[Escape The Ghosts][789]                                                              |![rb]&nbsp;&nbsp;![rs]
@@ -2139,6 +2140,7 @@
 [783]:Problemset/0783-Minimum%20Distance%20Between%20BST%20Nodes/README.md#783-minimum-distance-between-bst-nodes
 [784]:Problemset/0784-Letter%20Case%20Permutation/README.md#784-letter-case-permutation
 [785]:Problemset/0785-Is%20Graph%20Bipartite%3F/README.md#785-is-graph-bipartite
+[786]:Problemset/0786-K-th%20Smallest%20Prime%20Fraction/README.md#786-k-th-smallest-prime-fraction
 [787]:Problemset/0787-Cheapest%20Flights%20Within%20K%20Stops/README.md#787-cheapest-flights-within-k-stops
 [788]:Problemset/0788-Rotated%20Digits/README.md#788-rotated-digits
 [789]:Problemset/0789-Escape%20The%20Ghosts/README.md#789-escape-the-ghosts
@@ -3751,6 +3753,7 @@
 [783l]:https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 [784l]:https://leetcode.com/problems/letter-case-permutation/
 [785l]:https://leetcode.com/problems/is-graph-bipartite/
+[786l]:https://leetcode.com/problems/k-th-smallest-prime-fraction/
 [787l]:https://leetcode.com/problems/cheapest-flights-within-k-stops/
 [788l]:https://leetcode.com/problems/rotated-digits/
 [789l]:https://leetcode.com/problems/escape-the-ghosts/
