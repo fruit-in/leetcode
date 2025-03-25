@@ -1506,6 +1506,7 @@
 [2402][2402l]|[Meeting Rooms III][2402]                                                             |![rs]
 [2404][2404l]|[Most Frequent Even Element][2404]                                                    |![rs]
 [2405][2405l]|[Optimal Partition of String][2405]                                                   |![rs]
+[2406][2406l]|[Divide Intervals Into Minimum Number of Groups][2406]                                |![rs]
 [2409][2409l]|[Count Days Spent Together][2409]                                                     |![py]
 [2410][2410l]|[Maximum Matching of Players With Trainers][2410]                                     |![rs]
 [2412][2412l]|[Minimum Money Required Before Transactions][2412]                                    |![rs]
@@ -3125,6 +3126,7 @@
 [2402]:Problemset/2402-Meeting%20Rooms%20III/README.md#2402-meeting-rooms-iii
 [2404]:Problemset/2404-Most%20Frequent%20Even%20Element/README.md#2404-most-frequent-even-element
 [2405]:Problemset/2405-Optimal%20Partition%20of%20String/README.md#2405-optimal-partition-of-string
+[2406]:Problemset/2406-Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups/README.md#2406-divide-intervals-into-minimum-number-of-groups
 [2409]:Problemset/2409-Count%20Days%20Spent%20Together/README.md#2409-count-days-spent-together
 [2410]:Problemset/2410-Maximum%20Matching%20of%20Players%20With%20Trainers/README.md#2410-maximum-matching-of-players-with-trainers
 [2412]:Problemset/2412-Minimum%20Money%20Required%20Before%20Transactions/README.md#2412-minimum-money-required-before-transactions
@@ -4738,6 +4740,7 @@
 [2402l]:https://leetcode.com/problems/meeting-rooms-iii/
 [2404l]:https://leetcode.com/problems/most-frequent-even-element/
 [2405l]:https://leetcode.com/problems/optimal-partition-of-string/
+[2406l]:https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/
 [2409l]:https://leetcode.com/problems/count-days-spent-together/
 [2410l]:https://leetcode.com/problems/maximum-matching-of-players-with-trainers/
 [2412l]:https://leetcode.com/problems/minimum-money-required-before-transactions/

@@ -1506,6 +1506,7 @@
 [2402][2402l]|[会议室 III][2402]                                        |![rs]
 [2404][2404l]|[出现最频繁的偶数元素][2404]                              |![rs]
 [2405][2405l]|[子字符串的最优划分][2405]                                |![rs]
+[2406][2406l]|[将区间分为最少组数][2406]                                |![rs]
 [2409][2409l]|[统计共同度过的日子数][2409]                              |![py]
 [2410][2410l]|[运动员和训练师的最大匹配数][2410]                        |![rs]
 [2412][2412l]|[完成所有交易的初始最少钱数][2412]                        |![rs]
@@ -3125,6 +3126,7 @@
 [2402]:Problemset/2402-Meeting%20Rooms%20III/README_CN.md#2402-会议室-iii
 [2404]:Problemset/2404-Most%20Frequent%20Even%20Element/README_CN.md#2404-出现最频繁的偶数元素
 [2405]:Problemset/2405-Optimal%20Partition%20of%20String/README_CN.md#2405-子字符串的最优划分
+[2406]:Problemset/2406-Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups/README_CN.md#2406-将区间分为最少组数
 [2409]:Problemset/2409-Count%20Days%20Spent%20Together/README_CN.md#2409-统计共同度过的日子数
 [2410]:Problemset/2410-Maximum%20Matching%20of%20Players%20With%20Trainers/README_CN.md#2410-运动员和训练师的最大匹配数
 [2412]:Problemset/2412-Minimum%20Money%20Required%20Before%20Transactions/README_CN.md#2412-完成所有交易的初始最少钱数
@@ -4738,6 +4740,7 @@
 [2402l]:https://leetcode.cn/problems/meeting-rooms-iii/
 [2404l]:https://leetcode.cn/problems/most-frequent-even-element/
 [2405l]:https://leetcode.cn/problems/optimal-partition-of-string/
+[2406l]:https://leetcode.cn/problems/divide-intervals-into-minimum-number-of-groups/
 [2409l]:https://leetcode.cn/problems/count-days-spent-together/
 [2410l]:https://leetcode.cn/problems/maximum-matching-of-players-with-trainers/
 [2412l]:https://leetcode.cn/problems/minimum-money-required-before-transactions/
