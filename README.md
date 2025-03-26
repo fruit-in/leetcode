@@ -544,6 +544,7 @@
 [812][812l]  |[Largest Triangle Area][812]                                                          |![rs]
 [813][813l]  |[Largest Sum of Averages][813]                                                        |![py]
 [814][814l]  |[Binary Tree Pruning][814]                                                            |![py]&nbsp;&nbsp;![rb]
+[815][815l]  |[Bus Routes][815]                                                                     |![rs]
 [816][816l]  |[Ambiguous Coordinates][816]                                                          |![rs]
 [817][817l]  |[Linked List Components][817]                                                         |![py]&nbsp;&nbsp;![rb]
 [819][819l]  |[Most Common Word][819]                                                               |![py]
@@ -2164,6 +2165,7 @@
 [812]:Problemset/0812-Largest%20Triangle%20Area/README.md#812-largest-triangle-area
 [813]:Problemset/0813-Largest%20Sum%20of%20Averages/README.md#813-largest-sum-of-averages
 [814]:Problemset/0814-Binary%20Tree%20Pruning/README.md#814-binary-tree-pruning
+[815]:Problemset/0815-Bus%20Routes/README.md#815-bus-routes
 [816]:Problemset/0816-Ambiguous%20Coordinates/README.md#816-ambiguous-coordinates
 [817]:Problemset/0817-Linked%20List%20Components/README.md#817-linked-list-components
 [819]:Problemset/0819-Most%20Common%20Word/README.md#819-most-common-word
@@ -3778,6 +3780,7 @@
 [812l]:https://leetcode.com/problems/largest-triangle-area/
 [813l]:https://leetcode.com/problems/largest-sum-of-averages/
 [814l]:https://leetcode.com/problems/binary-tree-pruning/
+[815l]:https://leetcode.com/problems/bus-routes/
 [816l]:https://leetcode.com/problems/ambiguous-coordinates/
 [817l]:https://leetcode.com/problems/linked-list-components/
 [819l]:https://leetcode.com/problems/most-common-word/
