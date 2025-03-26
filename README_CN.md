@@ -567,6 +567,7 @@
 [841][841l]  |[钥匙和房间][841]                                         |![rs]
 [842][842l]  |[将数组拆分成斐波那契序列][842]                           |![py]
 [844][844l]  |[比较含退格的字符串][844]                                 |![py]
+[845][845l]  |[数组中的最长山脉][845]                                   |![rs]
 [846][846l]  |[一手顺子][846]                                           |![rs]
 [848][848l]  |[字母移位][848]                                           |![rs]
 [849][849l]  |[到最近的人的最大距离][849]                               |![rs]
@@ -2189,6 +2190,7 @@
 [841]:Problemset/0841-Keys%20and%20Rooms/README_CN.md#841-钥匙和房间
 [842]:Problemset/0842-Split%20Array%20into%20Fibonacci%20Sequence/README_CN.md#842-将数组拆分成斐波那契序列
 [844]:Problemset/0844-Backspace%20String%20Compare/README_CN.md#844-比较含退格的字符串
+[845]:Problemset/0845-Longest%20Mountain%20in%20Array/README_CN.md#845-数组中的最长山脉
 [846]:Problemset/0846-Hand%20of%20Straights/README_CN.md#846-一手顺子
 [848]:Problemset/0848-Shifting%20Letters/README_CN.md#848-字母移位
 [849]:Problemset/0849-Maximize%20Distance%20to%20Closest%20Person/README_CN.md#849-到最近的人的最大距离
@@ -3805,6 +3807,7 @@
 [841l]:https://leetcode.cn/problems/keys-and-rooms/
 [842l]:https://leetcode.cn/problems/split-array-into-fibonacci-sequence/
 [844l]:https://leetcode.cn/problems/backspace-string-compare/
+[845l]:https://leetcode.cn/problems/longest-mountain-in-array/
 [846l]:https://leetcode.cn/problems/hand-of-straights/
 [848l]:https://leetcode.cn/problems/shifting-letters/
 [849l]:https://leetcode.cn/problems/maximize-distance-to-closest-person/
