@@ -1546,6 +1546,7 @@
 [2465][2465l]|[不同的平均值数目][2465]                                  |![rs]
 [2466][2466l]|[统计构造好字符串的方案数][2466]                          |![rs]
 [2469][2469l]|[温度转换][2469]                                          |![rs]
+[2472][2472l]|[不重叠回文子字符串的最大数目][2472]                      |![rs]
 [2475][2475l]|[数组中不等三元组的数目][2475]                            |![rs]
 [2476][2476l]|[二叉搜索树最近节点查询][2476]                            |![py]
 [2478][2478l]|[完美分割的方案数][2478]                                  |![py]
@@ -3167,6 +3168,7 @@
 [2465]:Problemset/2465-Number%20of%20Distinct%20Averages/README_CN.md#2465-不同的平均值数目
 [2466]:Problemset/2466-Count%20Ways%20To%20Build%20Good%20Strings/README_CN.md#2466-统计构造好字符串的方案数
 [2469]:Problemset/2469-Convert%20the%20Temperature/README_CN.md#2469-温度转换
+[2472]:Problemset/2472-Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings/README_CN.md#2472-不重叠回文子字符串的最大数目
 [2475]:Problemset/2475-Number%20of%20Unequal%20Triplets%20in%20Array/README_CN.md#2475-数组中不等三元组的数目
 [2476]:Problemset/2476-Closest%20Nodes%20Queries%20in%20a%20Binary%20Search%20Tree/README_CN.md#2476-二叉搜索树最近节点查询
 [2478]:Problemset/2478-Number%20of%20Beautiful%20Partitions/README_CN.md#2478-完美分割的方案数
@@ -4782,6 +4784,7 @@
 [2465l]:https://leetcode.cn/problems/number-of-distinct-averages/
 [2466l]:https://leetcode.cn/problems/count-ways-to-build-good-strings/
 [2469l]:https://leetcode.cn/problems/convert-the-temperature/
+[2472l]:https://leetcode.cn/problems/maximum-number-of-non-overlapping-palindrome-substrings/
 [2475l]:https://leetcode.cn/problems/number-of-unequal-triplets-in-array/
 [2476l]:https://leetcode.cn/problems/closest-nodes-queries-in-a-binary-search-tree/
 [2478l]:https://leetcode.cn/problems/number-of-beautiful-partitions/

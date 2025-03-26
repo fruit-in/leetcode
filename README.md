@@ -1546,6 +1546,7 @@
 [2465][2465l]|[Number of Distinct Averages][2465]                                                   |![rs]
 [2466][2466l]|[Count Ways To Build Good Strings][2466]                                              |![rs]
 [2469][2469l]|[Convert the Temperature][2469]                                                       |![rs]
+[2472][2472l]|[Maximum Number of Non-overlapping Palindrome Substrings][2472]                       |![rs]
 [2475][2475l]|[Number of Unequal Triplets in Array][2475]                                           |![rs]
 [2476][2476l]|[Closest Nodes Queries in a Binary Search Tree][2476]                                 |![py]
 [2478][2478l]|[Number of Beautiful Partitions][2478]                                                |![py]
@@ -3167,6 +3168,7 @@
 [2465]:Problemset/2465-Number%20of%20Distinct%20Averages/README.md#2465-number-of-distinct-averages
 [2466]:Problemset/2466-Count%20Ways%20To%20Build%20Good%20Strings/README.md#2466-count-ways-to-build-good-strings
 [2469]:Problemset/2469-Convert%20the%20Temperature/README.md#2469-convert-the-temperature
+[2472]:Problemset/2472-Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings/README.md#2472-maximum-number-of-non-overlapping-palindrome-substrings
 [2475]:Problemset/2475-Number%20of%20Unequal%20Triplets%20in%20Array/README.md#2475-number-of-unequal-triplets-in-array
 [2476]:Problemset/2476-Closest%20Nodes%20Queries%20in%20a%20Binary%20Search%20Tree/README.md#2476-closest-nodes-queries-in-a-binary-search-tree
 [2478]:Problemset/2478-Number%20of%20Beautiful%20Partitions/README.md#2478-number-of-beautiful-partitions
@@ -4782,6 +4784,7 @@
 [2465l]:https://leetcode.com/problems/number-of-distinct-averages/
 [2466l]:https://leetcode.com/problems/count-ways-to-build-good-strings/
 [2469l]:https://leetcode.com/problems/convert-the-temperature/
+[2472l]:https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/
 [2475l]:https://leetcode.com/problems/number-of-unequal-triplets-in-array/
 [2476l]:https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/
 [2478l]:https://leetcode.com/problems/number-of-beautiful-partitions/
