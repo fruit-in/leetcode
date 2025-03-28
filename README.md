@@ -1584,6 +1584,7 @@
 [2540][2540l]|[Minimum Common Value][2540]                                                          |![rs]
 [2541][2541l]|[Minimum Operations to Make Array Equal II][2541]                                     |![rs]
 [2544][2544l]|[Alternating Digit Sum][2544]                                                         |![rs]
+[2547][2547l]|[Minimum Cost to Split an Array][2547]                                                |![rs]
 [2549][2549l]|[Count Distinct Numbers on Board][2549]                                               |![rs]
 [2550][2550l]|[Count Collisions of Monkeys on a Polygon][2550]                                      |![rs]
 [2553][2553l]|[Separate the Digits in an Array][2553]                                               |![rs]
@@ -3208,6 +3209,7 @@
 [2540]:Problemset/2540-Minimum%20Common%20Value/README.md#2540-minimum-common-value
 [2541]:Problemset/2541-Minimum%20Operations%20to%20Make%20Array%20Equal%20II/README.md#2541-minimum-operations-to-make-array-equal-ii
 [2544]:Problemset/2544-Alternating%20Digit%20Sum/README.md#2544-alternating-digit-sum
+[2547]:Problemset/2547-Minimum%20Cost%20to%20Split%20an%20Array/README.md#2547-minimum-cost-to-split-an-array
 [2549]:Problemset/2549-Count%20Distinct%20Numbers%20on%20Board/README.md#2549-count-distinct-numbers-on-board
 [2550]:Problemset/2550-Count%20Collisions%20of%20Monkeys%20on%20a%20Polygon/README.md#2550-count-collisions-of-monkeys-on-a-polygon
 [2553]:Problemset/2553-Separate%20the%20Digits%20in%20an%20Array/README.md#2553-separate-the-digits-in-an-array
@@ -4826,6 +4828,7 @@
 [2540l]:https://leetcode.com/problems/minimum-common-value/
 [2541l]:https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/
 [2544l]:https://leetcode.com/problems/alternating-digit-sum/
+[2547l]:https://leetcode.com/problems/minimum-cost-to-split-an-array/
 [2549l]:https://leetcode.com/problems/count-distinct-numbers-on-board/
 [2550l]:https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/
 [2553l]:https://leetcode.com/problems/separate-the-digits-in-an-array/
