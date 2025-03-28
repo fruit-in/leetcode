@@ -498,6 +498,7 @@
 [740][740l]  |[Delete and Earn][740]                                                                |![rs]
 [743][743l]  |[Network Delay Time][743]                                                             |![rs]
 [744][744l]  |[Find Smallest Letter Greater Than Target][744]                                       |![rs]
+[745][745l]  |[Prefix and Suffix Search][745]                                                       |![py]
 [746][746l]  |[Min Cost Climbing Stairs][746]                                                       |![rs]
 [747][747l]  |[Largest Number At Least Twice of Others][747]                                        |![rs]
 [748][748l]  |[Shortest Completing Word][748]                                                       |![py]
@@ -2123,6 +2124,7 @@
 [740]:Problemset/0740-Delete%20and%20Earn/README.md#740-delete-and-earn
 [743]:Problemset/0743-Network%20Delay%20Time/README.md#743-network-delay-time
 [744]:Problemset/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README.md#744-find-smallest-letter-greater-than-target
+[745]:Problemset/0745-Prefix%20and%20Suffix%20Search/README.md#745-prefix-and-suffix-search
 [746]:Problemset/0746-Min%20Cost%20Climbing%20Stairs/README.md#746-min-cost-climbing-stairs
 [747]:Problemset/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README.md#747-largest-number-at-least-twice-of-others
 [748]:Problemset/0748-Shortest%20Completing%20Word/README.md#748-shortest-completing-word
@@ -3742,6 +3744,7 @@
 [740l]:https://leetcode.com/problems/delete-and-earn/
 [743l]:https://leetcode.com/problems/network-delay-time/
 [744l]:https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+[745l]:https://leetcode.com/problems/prefix-and-suffix-search/
 [746l]:https://leetcode.com/problems/min-cost-climbing-stairs/
 [747l]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 [748l]:https://leetcode.com/problems/shortest-completing-word/

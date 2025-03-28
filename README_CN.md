@@ -498,6 +498,7 @@
 [740][740l]  |[删除并获得点数][740]                                     |![rs]
 [743][743l]  |[网络延迟时间][743]                                       |![rs]
 [744][744l]  |[寻找比目标字母大的最小字母][744]                         |![rs]
+[745][745l]  |[前缀和后缀搜索][745]                                     |![py]
 [746][746l]  |[使用最小花费爬楼梯][746]                                 |![rs]
 [747][747l]  |[至少是其他数字两倍的最大数][747]                         |![rs]
 [748][748l]  |[最短完整词][748]                                         |![py]
@@ -2123,6 +2124,7 @@
 [740]:Problemset/0740-Delete%20and%20Earn/README_CN.md#740-删除并获得点数
 [743]:Problemset/0743-Network%20Delay%20Time/README_CN.md#743-网络延迟时间
 [744]:Problemset/0744-Find%20Smallest%20Letter%20Greater%20Than%20Target/README_CN.md#744-寻找比目标字母大的最小字母
+[745]:Problemset/0745-Prefix%20and%20Suffix%20Search/README_CN.md#745-前缀和后缀搜索
 [746]:Problemset/0746-Min%20Cost%20Climbing%20Stairs/README_CN.md#746-使用最小花费爬楼梯
 [747]:Problemset/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README_CN.md#747-至少是其他数字两倍的最大数
 [748]:Problemset/0748-Shortest%20Completing%20Word/README_CN.md#748-最短完整词
@@ -3742,6 +3744,7 @@
 [740l]:https://leetcode.cn/problems/delete-and-earn/
 [743l]:https://leetcode.cn/problems/network-delay-time/
 [744l]:https://leetcode.cn/problems/find-smallest-letter-greater-than-target/
+[745l]:https://leetcode.cn/problems/prefix-and-suffix-search/
 [746l]:https://leetcode.cn/problems/min-cost-climbing-stairs/
 [747l]:https://leetcode.cn/problems/largest-number-at-least-twice-of-others/
 [748l]:https://leetcode.cn/problems/shortest-completing-word/
