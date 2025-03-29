@@ -1559,6 +1559,7 @@
 [2482][2482l]|[Difference Between Ones and Zeros in Row and Column][2482]                           |![rs]
 [2483][2483l]|[Minimum Penalty for a Shop][2483]                                                    |![rs]
 [2485][2485l]|[Find the Pivot Integer][2485]                                                        |![rs]
+[2486][2486l]|[Append Characters to String to Make Subsequence][2486]                               |![rs]
 [2487][2487l]|[Remove Nodes From Linked List][2487]                                                 |![py]
 [2488][2488l]|[Count Subarrays With Median K][2488]                                                 |![rs]
 [2490][2490l]|[Circular Sentence][2490]                                                             |![py]
@@ -3187,6 +3188,7 @@
 [2482]:Problemset/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README.md#2482-difference-between-ones-and-zeros-in-row-and-column
 [2483]:Problemset/2483-Minimum%20Penalty%20for%20a%20Shop/README.md#2483-minimum-penalty-for-a-shop
 [2485]:Problemset/2485-Find%20the%20Pivot%20Integer/README.md#2485-find-the-pivot-integer
+[2486]:Problemset/2486-Append%20Characters%20to%20String%20to%20Make%20Subsequence/README.md#2486-append-characters-to-string-to-make-subsequence
 [2487]:Problemset/2487-Remove%20Nodes%20From%20Linked%20List/README.md#2487-remove-nodes-from-linked-list
 [2488]:Problemset/2488-Count%20Subarrays%20With%20Median%20K/README.md#2488-count-subarrays-with-median-k
 [2490]:Problemset/2490-Circular%20Sentence/README.md#2490-circular-sentence
@@ -4809,6 +4811,7 @@
 [2482l]:https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
 [2483l]:https://leetcode.com/problems/minimum-penalty-for-a-shop/
 [2485l]:https://leetcode.com/problems/find-the-pivot-integer/
+[2486l]:https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/
 [2487l]:https://leetcode.com/problems/remove-nodes-from-linked-list/
 [2488l]:https://leetcode.com/problems/count-subarrays-with-median-k/
 [2490l]:https://leetcode.com/problems/circular-sentence/
