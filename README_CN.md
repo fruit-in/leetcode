@@ -1611,6 +1611,7 @@
 [2585][2585l]|[获得分数的方法数][2585]                                  |![rs]
 [2586][2586l]|[统计范围内的元音字符串数][2586]                          |![py]
 [2591][2591l]|[将钱分给最多的儿童][2591]                                |![rs]
+[2592][2592l]|[最大化数组的伟大值][2592]                                |![rs]
 [2593][2593l]|[标记所有元素后数组的分数][2593]                          |![rs]
 [2594][2594l]|[修车的最少时间][2594]                                    |![rs]
 [2595][2595l]|[奇偶位数][2595]                                          |![rs]
@@ -3242,6 +3243,7 @@
 [2585]:Problemset/2585-Number%20of%20Ways%20to%20Earn%20Points/README_CN.md#2585-获得分数的方法数
 [2586]:Problemset/2586-Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range/README_CN.md#2586-统计范围内的元音字符串数
 [2591]:Problemset/2591-Distribute%20Money%20to%20Maximum%20Children/README_CN.md#2591-将钱分给最多的儿童
+[2592]:Problemset/2592-Maximize%20Greatness%20of%20an%20Array/README_CN.md#2592-最大化数组的伟大值
 [2593]:Problemset/2593-Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements/README_CN.md#2593-标记所有元素后数组的分数
 [2594]:Problemset/2594-Minimum%20Time%20to%20Repair%20Cars/README_CN.md#2594-修车的最少时间
 [2595]:Problemset/2595-Number%20of%20Even%20and%20Odd%20Bits/README_CN.md#2595-奇偶位数
@@ -4867,6 +4869,7 @@
 [2585l]:https://leetcode.cn/problems/number-of-ways-to-earn-points/
 [2586l]:https://leetcode.cn/problems/count-the-number-of-vowel-strings-in-range/
 [2591l]:https://leetcode.cn/problems/distribute-money-to-maximum-children/
+[2592l]:https://leetcode.cn/problems/maximize-greatness-of-an-array/
 [2593l]:https://leetcode.cn/problems/find-score-of-an-array-after-marking-all-elements/
 [2594l]:https://leetcode.cn/problems/minimum-time-to-repair-cars/
 [2595l]:https://leetcode.cn/problems/number-of-even-and-odd-bits/
