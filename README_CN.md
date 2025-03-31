@@ -344,6 +344,7 @@
 [482][482l]  |[密钥格式化][482]                                         |![py]
 [483][483l]  |[最小好进制][483]                                         |![py]
 [485][485l]  |[最大连续1的个数][485]                                    |![rs]
+[488][488l]  |[祖玛游戏][488]                                           |![py]
 [492][492l]  |[构造矩形][492]                                           |![rs]
 [493][493l]  |[翻转对][493]                                             |![py]
 [494][494l]  |[目标和][494]                                             |![rb]&nbsp;&nbsp;![rs]
@@ -1977,6 +1978,7 @@
 [482]:Problemset/0482-License%20Key%20Formatting/README_CN.md#482-密钥格式化
 [483]:Problemset/0483-Smallest%20Good%20Base/README_CN.md#483-最小好进制
 [485]:Problemset/0485-Max%20Consecutive%20Ones/README_CN.md#485-最大连续1的个数
+[488]:Problemset/0488-Zuma%20Game/README_CN.md#488-祖玛游戏
 [492]:Problemset/0492-Construct%20the%20Rectangle/README_CN.md#492-构造矩形
 [493]:Problemset/0493-Reverse%20Pairs/README_CN.md#493-翻转对
 [494]:Problemset/0494-Target%20Sum/README_CN.md#494-目标和
@@ -3604,6 +3606,7 @@
 [482l]:https://leetcode.cn/problems/license-key-formatting/
 [483l]:https://leetcode.cn/problems/smallest-good-base/
 [485l]:https://leetcode.cn/problems/max-consecutive-ones/
+[488l]:https://leetcode.cn/problems/zuma-game/
 [492l]:https://leetcode.cn/problems/construct-the-rectangle/
 [493l]:https://leetcode.cn/problems/reverse-pairs/
 [494l]:https://leetcode.cn/problems/target-sum/

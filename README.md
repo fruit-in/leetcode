@@ -344,6 +344,7 @@
 [482][482l]  |[License Key Formatting][482]                                                         |![py]
 [483][483l]  |[Smallest Good Base][483]                                                             |![py]
 [485][485l]  |[Max Consecutive Ones][485]                                                           |![rs]
+[488][488l]  |[Zuma Game][488]                                                                      |![py]
 [492][492l]  |[Construct the Rectangle][492]                                                        |![rs]
 [493][493l]  |[Reverse Pairs][493]                                                                  |![py]
 [494][494l]  |[Target Sum][494]                                                                     |![rb]&nbsp;&nbsp;![rs]
@@ -1977,6 +1978,7 @@
 [482]:Problemset/0482-License%20Key%20Formatting/README.md#482-license-key-formatting
 [483]:Problemset/0483-Smallest%20Good%20Base/README.md#483-smallest-good-base
 [485]:Problemset/0485-Max%20Consecutive%20Ones/README.md#485-max-consecutive-ones
+[488]:Problemset/0488-Zuma%20Game/README.md#488-zuma-game
 [492]:Problemset/0492-Construct%20the%20Rectangle/README.md#492-construct-the-rectangle
 [493]:Problemset/0493-Reverse%20Pairs/README.md#493-reverse-pairs
 [494]:Problemset/0494-Target%20Sum/README.md#494-target-sum
@@ -3604,6 +3606,7 @@
 [482l]:https://leetcode.com/problems/license-key-formatting/
 [483l]:https://leetcode.com/problems/smallest-good-base/
 [485l]:https://leetcode.com/problems/max-consecutive-ones/
+[488l]:https://leetcode.com/problems/zuma-game/
 [492l]:https://leetcode.com/problems/construct-the-rectangle/
 [493l]:https://leetcode.com/problems/reverse-pairs/
 [494l]:https://leetcode.com/problems/target-sum/
