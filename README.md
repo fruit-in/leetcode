@@ -78,6 +78,7 @@
 [76][76l]    |[Minimum Window Substring][76]                                                        |![rs]
 [77][77l]    |[Combinations][77]                                                                    |![py]
 [78][78l]    |[Subsets][78]                                                                         |![rs]
+[79][79l]    |[Word Search][79]                                                                     |![py]
 [80][80l]    |[Remove Duplicates from Sorted Array II][80]                                          |![rs]
 [81][81l]    |[Search in Rotated Sorted Array II][81]                                               |![rs]
 [82][82l]    |[Remove Duplicates from Sorted List II][82]                                           |![rb]
@@ -1710,6 +1711,7 @@
 [76]:Problemset/0076-Minimum%20Window%20Substring/README.md#76-minimum-window-substring
 [77]:Problemset/0077-Combinations/README.md#77-combinations
 [78]:Problemset/0078-Subsets/README.md#78-subsets
+[79]:Problemset/0079-Word%20Search/README.md#79-word-search
 [80]:Problemset/0080-Remove%20Duplicates%20from%20Sorted%20Array%20II/README.md#80-remove-duplicates-from-sorted-array-ii
 [81]:Problemset/0081-Search%20in%20Rotated%20Sorted%20Array%20II/README.md#81-search-in-rotated-sorted-array-ii
 [82]:Problemset/0082-Remove%20Duplicates%20from%20Sorted%20List%20II/README.md#82-remove-duplicates-from-sorted-list-ii
@@ -3334,6 +3336,7 @@
 [76l]:https://leetcode.com/problems/minimum-window-substring/
 [77l]:https://leetcode.com/problems/combinations/
 [78l]:https://leetcode.com/problems/subsets/
+[79l]:https://leetcode.com/problems/word-search/
 [80l]:https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 [81l]:https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 [82l]:https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/

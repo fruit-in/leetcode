@@ -78,6 +78,7 @@
 [76][76l]    |[最小覆盖子串][76]                                        |![rs]
 [77][77l]    |[组合][77]                                                |![py]
 [78][78l]    |[子集][78]                                                |![rs]
+[79][79l]    |[单词搜索][79]                                            |![py]
 [80][80l]    |[删除排序数组中的重复项 II][80]                           |![rs]
 [81][81l]    |[搜索旋转排序数组 II][81]                                 |![rs]
 [82][82l]    |[删除排序链表中的重复元素 II][82]                         |![rb]
@@ -1710,6 +1711,7 @@
 [76]:Problemset/0076-Minimum%20Window%20Substring/README_CN.md#76-最小覆盖子串
 [77]:Problemset/0077-Combinations/README_CN.md#77-组合
 [78]:Problemset/0078-Subsets/README_CN.md#78-子集
+[79]:Problemset/0079-Word%20Search/README_CN.md#79-单词搜索
 [80]:Problemset/0080-Remove%20Duplicates%20from%20Sorted%20Array%20II/README_CN.md#80-删除排序数组中的重复项-ii
 [81]:Problemset/0081-Search%20in%20Rotated%20Sorted%20Array%20II/README_CN.md#81-搜索旋转排序数组-ii
 [82]:Problemset/0082-Remove%20Duplicates%20from%20Sorted%20List%20II/README_CN.md#82-删除排序链表中的重复元素-ii
@@ -3334,6 +3336,7 @@
 [76l]:https://leetcode.cn/problems/minimum-window-substring/
 [77l]:https://leetcode.cn/problems/combinations/
 [78l]:https://leetcode.cn/problems/subsets/
+[79l]:https://leetcode.cn/problems/word-search/
 [80l]:https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/
 [81l]:https://leetcode.cn/problems/search-in-rotated-sorted-array-ii/
 [82l]:https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/
