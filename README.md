@@ -767,6 +767,7 @@
 [1122][1122l]|[Relative Sort Array][1122]                                                           |![rs]
 [1123][1123l]|[Lowest Common Ancestor of Deepest Leaves][1123]                                      |![py]
 [1124][1124l]|[Longest Well-Performing Interval][1124]                                              |![rs]
+[1125][1125l]|[Smallest Sufficient Team][1125]                                                      |![rs]
 [1128][1128l]|[Number of Equivalent Domino Pairs][1128]                                             |![rs]
 [1129][1129l]|[Shortest Path with Alternating Colors][1129]                                         |![rs]
 [1130][1130l]|[Minimum Cost Tree From Leaf Values][1130]                                            |![py]
@@ -2401,6 +2402,7 @@
 [1122]:Problemset/1122-Relative%20Sort%20Array/README.md#1122-relative-sort-array
 [1123]:Problemset/1123-Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/README.md#1123-lowest-common-ancestor-of-deepest-leaves
 [1124]:Problemset/1124-Longest%20Well-Performing%20Interval/README.md#1124-longest-well-performing-interval
+[1125]:Problemset/1125-Smallest%20Sufficient%20Team/README.md#1125-smallest-sufficient-team
 [1128]:Problemset/1128-Number%20of%20Equivalent%20Domino%20Pairs/README.md#1128-number-of-equivalent-domino-pairs
 [1129]:Problemset/1129-Shortest%20Path%20with%20Alternating%20Colors/README.md#1129-shortest-path-with-alternating-colors
 [1130]:Problemset/1130-Minimum%20Cost%20Tree%20From%20Leaf%20Values/README.md#1130-minimum-cost-tree-from-leaf-values
@@ -4029,6 +4031,7 @@
 [1122l]:https://leetcode.com/problems/relative-sort-array/
 [1123l]:https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
 [1124l]:https://leetcode.com/problems/longest-well-performing-interval/
+[1125l]:https://leetcode.com/problems/smallest-sufficient-team/
 [1128l]:https://leetcode.com/problems/number-of-equivalent-domino-pairs/
 [1129l]:https://leetcode.com/problems/shortest-path-with-alternating-colors/
 [1130l]:https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
