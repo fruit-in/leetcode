@@ -1139,6 +1139,7 @@
 [1765][1765l]|[地图中的最高点][1765]                                    |![rs]
 [1768][1768l]|[交替合并字符串][1768]                                    |![rs]
 [1769][1769l]|[移动所有球到每个盒子所需的最小操作数][1769]              |![rs]
+[1770][1770l]|[执行乘法运算的最大分数][1770]                            |![rs]
 [1773][1773l]|[统计匹配检索规则的物品数量][1773]                        |![rs]
 [1774][1774l]|[最接近目标价格的甜点成本][1774]                          |![rs]
 [1775][1775l]|[通过最少操作次数使数组的和相等][1775]                    |![rs]
@@ -2774,6 +2775,7 @@
 [1765]:Problemset/1765-Map%20of%20Highest%20Peak/README_CN.md#1765-地图中的最高点
 [1768]:Problemset/1768-Merge%20Strings%20Alternately/README_CN.md#1768-交替合并字符串
 [1769]:Problemset/1769-Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box/README_CN.md#1769-移动所有球到每个盒子所需的最小操作数
+[1770]:Problemset/1770-Maximum%20Score%20from%20Performing%20Multiplication%20Operations/README_CN.md#1770-执行乘法运算的最大分数
 [1773]:Problemset/1773-Count%20Items%20Matching%20a%20Rule/README_CN.md#1773-统计匹配检索规则的物品数量
 [1774]:Problemset/1774-Closest%20Dessert%20Cost/README_CN.md#1774-最接近目标价格的甜点成本
 [1775]:Problemset/1775-Equal%20Sum%20Arrays%20With%20Minimum%20Number%20of%20Operations/README_CN.md#1775-通过最少操作次数使数组的和相等
@@ -4403,6 +4405,7 @@
 [1765l]:https://leetcode.cn/problems/map-of-highest-peak/
 [1768l]:https://leetcode.cn/problems/merge-strings-alternately/
 [1769l]:https://leetcode.cn/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
+[1770l]:https://leetcode.cn/problems/maximum-score-from-performing-multiplication-operations/
 [1773l]:https://leetcode.cn/problems/count-items-matching-a-rule/
 [1774l]:https://leetcode.cn/problems/closest-dessert-cost/
 [1775l]:https://leetcode.cn/problems/equal-sum-arrays-with-minimum-number-of-operations/
