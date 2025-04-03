@@ -858,6 +858,7 @@
 [1309][1309l]|[解码字母到整数映射][1309]                                |![py]
 [1310][1310l]|[子数组异或查询][1310]                                    |![rs]
 [1311][1311l]|[获取你好友已观看的视频][1311]                            |![py]
+[1312][1312l]|[让字符串成为回文串的最少插入次数][1312]                  |![py]
 [1313][1313l]|[解压缩编码列表][1313]                                    |![rb]&nbsp;&nbsp;![rs]
 [1314][1314l]|[矩阵区域和][1314]                                        |![rs]
 [1315][1315l]|[祖父节点值为偶数的节点和][1315]                          |![py]
@@ -2494,6 +2495,7 @@
 [1309]:Problemset/1309-Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping/README_CN.md#1309-解码字母到整数映射
 [1310]:Problemset/1310-XOR%20Queries%20of%20a%20Subarray/README_CN.md#1310-子数组异或查询
 [1311]:Problemset/1311-Get%20Watched%20Videos%20by%20Your%20Friends/README_CN.md#1311-获取你好友已观看的视频
+[1312]:Problemset/1312-Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome/README_CN.md#1312-让字符串成为回文串的最少插入次数
 [1313]:Problemset/1313-Decompress%20Run-Length%20Encoded%20List/README_CN.md#1313-解压缩编码列表
 [1314]:Problemset/1314-Matrix%20Block%20Sum/README_CN.md#1314-矩阵区域和
 [1315]:Problemset/1315-Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent/README_CN.md#1315-祖父节点值为偶数的节点和
@@ -4124,6 +4126,7 @@
 [1309l]:https://leetcode.cn/problems/decrypt-string-from-alphabet-to-integer-mapping/
 [1310l]:https://leetcode.cn/problems/xor-queries-of-a-subarray/
 [1311l]:https://leetcode.cn/problems/get-watched-videos-by-your-friends/
+[1312l]:https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 [1313l]:https://leetcode.cn/problems/decompress-run-length-encoded-list/
 [1314l]:https://leetcode.cn/problems/matrix-block-sum/
 [1315l]:https://leetcode.cn/problems/sum-of-nodes-with-even-valued-grandparent/

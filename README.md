@@ -858,6 +858,7 @@
 [1309][1309l]|[Decrypt String from Alphabet to Integer Mapping][1309]                               |![py]
 [1310][1310l]|[XOR Queries of a Subarray][1310]                                                     |![rs]
 [1311][1311l]|[Get Watched Videos by Your Friends][1311]                                            |![py]
+[1312][1312l]|[Minimum Insertion Steps to Make a String Palindrome][1312]                           |![py]
 [1313][1313l]|[Decompress Run-Length Encoded List][1313]                                            |![rb]&nbsp;&nbsp;![rs]
 [1314][1314l]|[Matrix Block Sum][1314]                                                              |![rs]
 [1315][1315l]|[Sum of Nodes with Even-Valued Grandparent][1315]                                     |![py]
@@ -2494,6 +2495,7 @@
 [1309]:Problemset/1309-Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping/README.md#1309-decrypt-string-from-alphabet-to-integer-mapping
 [1310]:Problemset/1310-XOR%20Queries%20of%20a%20Subarray/README.md#1310-xor-queries-of-a-subarray
 [1311]:Problemset/1311-Get%20Watched%20Videos%20by%20Your%20Friends/README.md#1311-get-watched-videos-by-your-friends
+[1312]:Problemset/1312-Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome/README.md#1312-minimum-insertion-steps-to-make-a-string-palindrome
 [1313]:Problemset/1313-Decompress%20Run-Length%20Encoded%20List/README.md#1313-decompress-run-length-encoded-list
 [1314]:Problemset/1314-Matrix%20Block%20Sum/README.md#1314-matrix-block-sum
 [1315]:Problemset/1315-Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent/README.md#1315-sum-of-nodes-with-even-valued-grandparent
@@ -4124,6 +4126,7 @@
 [1309l]:https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 [1310l]:https://leetcode.com/problems/xor-queries-of-a-subarray/
 [1311l]:https://leetcode.com/problems/get-watched-videos-by-your-friends/
+[1312l]:https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 [1313l]:https://leetcode.com/problems/decompress-run-length-encoded-list/
 [1314l]:https://leetcode.com/problems/matrix-block-sum/
 [1315l]:https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
