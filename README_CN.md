@@ -679,6 +679,7 @@
 [977][977l]  |[有序数组的平方][977]                                     |![rs]
 [978][978l]  |[最长湍流子数组][978]                                     |![rs]
 [979][979l]  |[在二叉树中分配硬币][979]                                 |![py]
+[980][980l]  |[不同路径 III][980]                                       |![py]
 [981][981l]  |[基于时间的键值存储][981]                                 |![py]
 [982][982l]  |[按位与为零的三元组][982]                                 |![rs]
 [983][983l]  |[最低票价][983]                                           |![rs]
@@ -2318,6 +2319,7 @@
 [977]:Problemset/0977-Squares%20of%20a%20Sorted%20Array/README_CN.md#977-有序数组的平方
 [978]:Problemset/0978-Longest%20Turbulent%20Subarray/README_CN.md#978-最长湍流子数组
 [979]:Problemset/0979-Distribute%20Coins%20in%20Binary%20Tree/README_CN.md#979-在二叉树中分配硬币
+[980]:Problemset/0980-Unique%20Paths%20III/README_CN.md#980-不同路径-iii
 [981]:Problemset/0981-Time%20Based%20Key-Value%20Store/README_CN.md#981-基于时间的键值存储
 [982]:Problemset/0982-Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/README_CN.md#982-按位与为零的三元组
 [983]:Problemset/0983-Minimum%20Cost%20For%20Tickets/README_CN.md#983-最低票价
@@ -3951,6 +3953,7 @@
 [977l]:https://leetcode.cn/problems/squares-of-a-sorted-array/
 [978l]:https://leetcode.cn/problems/longest-turbulent-subarray/
 [979l]:https://leetcode.cn/problems/distribute-coins-in-binary-tree/
+[980l]:https://leetcode.cn/problems/unique-paths-iii/
 [981l]:https://leetcode.cn/problems/time-based-key-value-store/
 [982l]:https://leetcode.cn/problems/triples-with-bitwise-and-equal-to-zero/
 [983l]:https://leetcode.cn/problems/minimum-cost-for-tickets/

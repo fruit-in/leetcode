@@ -679,6 +679,7 @@
 [977][977l]  |[Squares of a Sorted Array][977]                                                      |![rs]
 [978][978l]  |[Longest Turbulent Subarray][978]                                                     |![rs]
 [979][979l]  |[Distribute Coins in Binary Tree][979]                                                |![py]
+[980][980l]  |[Unique Paths III][980]                                                               |![py]
 [981][981l]  |[Time Based Key-Value Store][981]                                                     |![py]
 [982][982l]  |[Triples with Bitwise AND Equal To Zero][982]                                         |![rs]
 [983][983l]  |[Minimum Cost For Tickets][983]                                                       |![rs]
@@ -2318,6 +2319,7 @@
 [977]:Problemset/0977-Squares%20of%20a%20Sorted%20Array/README.md#977-squares-of-a-sorted-array
 [978]:Problemset/0978-Longest%20Turbulent%20Subarray/README.md#978-longest-turbulent-subarray
 [979]:Problemset/0979-Distribute%20Coins%20in%20Binary%20Tree/README.md#979-distribute-coins-in-binary-tree
+[980]:Problemset/0980-Unique%20Paths%20III/README.md#980-unique-paths-iii
 [981]:Problemset/0981-Time%20Based%20Key-Value%20Store/README.md#981-time-based-key-value-store
 [982]:Problemset/0982-Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/README.md#982-triples-with-bitwise-and-equal-to-zero
 [983]:Problemset/0983-Minimum%20Cost%20For%20Tickets/README.md#983-minimum-cost-for-tickets
@@ -3951,6 +3953,7 @@
 [977l]:https://leetcode.com/problems/squares-of-a-sorted-array/
 [978l]:https://leetcode.com/problems/longest-turbulent-subarray/
 [979l]:https://leetcode.com/problems/distribute-coins-in-binary-tree/
+[980l]:https://leetcode.com/problems/unique-paths-iii/
 [981l]:https://leetcode.com/problems/time-based-key-value-store/
 [982l]:https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
 [983l]:https://leetcode.com/problems/minimum-cost-for-tickets/
