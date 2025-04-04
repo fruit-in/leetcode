@@ -1227,6 +1227,7 @@
 [1912][1912l]|[设计电影租借系统][1912]                                  |![rs]
 [1913][1913l]|[两个数对之间的最大乘积差][1913]                          |![rs]
 [1915][1915l]|[最美子字符串的数目][1915]                                |![rs]
+[1916][1916l]|[统计为蚁群构筑房间的不同顺序][1916]                      |![py]
 [1920][1920l]|[基于排列构建数组][1920]                                  |![rs]
 [1921][1921l]|[消灭怪物的最大数量][1921]                                |![rs]
 [1922][1922l]|[统计好数字的数目][1922]                                  |![rs]
@@ -2865,6 +2866,7 @@
 [1912]:Problemset/1912-Design%20Movie%20Rental%20System/README_CN.md#1912-设计电影租借系统
 [1913]:Problemset/1913-Maximum%20Product%20Difference%20Between%20Two%20Pairs/README_CN.md#1913-两个数对之间的最大乘积差
 [1915]:Problemset/1915-Number%20of%20Wonderful%20Substrings/README_CN.md#1915-最美子字符串的数目
+[1916]:Problemset/1916-Count%20Ways%20to%20Build%20Rooms%20in%20an%20Ant%20Colony/README_CN.md#1916-统计为蚁群构筑房间的不同顺序
 [1920]:Problemset/1920-Build%20Array%20from%20Permutation/README_CN.md#1920-基于排列构建数组
 [1921]:Problemset/1921-Eliminate%20Maximum%20Number%20of%20Monsters/README_CN.md#1921-消灭怪物的最大数量
 [1922]:Problemset/1922-Count%20Good%20Numbers/README_CN.md#1922-统计好数字的数目
@@ -4497,6 +4499,7 @@
 [1912l]:https://leetcode.cn/problems/design-movie-rental-system/
 [1913l]:https://leetcode.cn/problems/maximum-product-difference-between-two-pairs/
 [1915l]:https://leetcode.cn/problems/number-of-wonderful-substrings/
+[1916l]:https://leetcode.cn/problems/count-ways-to-build-rooms-in-an-ant-colony/
 [1920l]:https://leetcode.cn/problems/build-array-from-permutation/
 [1921l]:https://leetcode.cn/problems/eliminate-maximum-number-of-monsters/
 [1922l]:https://leetcode.cn/problems/count-good-numbers/
