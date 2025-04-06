@@ -559,6 +559,7 @@
 [824][824l]  |[山羊拉丁文][824]                                         |![py]
 [825][825l]  |[适龄的朋友][825]                                         |![py]
 [826][826l]  |[安排工作以达到最大收益][826]                             |![rs]
+[828][828l]  |[统计子串中的唯一字符][828]                               |![rs]
 [829][829l]  |[连续整数求和][829]                                       |![py]
 [830][830l]  |[较大分组的位置][830]                                     |![rs]
 [831][831l]  |[隐藏个人信息][831]                                       |![rb]
@@ -2200,6 +2201,7 @@
 [824]:Problemset/0824-Goat%20Latin/README_CN.md#824-山羊拉丁文
 [825]:Problemset/0825-Friends%20Of%20Appropriate%20Ages/README_CN.md#825-适龄的朋友
 [826]:Problemset/0826-Most%20Profit%20Assigning%20Work/README_CN.md#826-安排工作以达到最大收益
+[828]:Problemset/0828-Count%20Unique%20Characters%20of%20All%20Substrings%20of%20a%20Given%20String/README_CN.md#828-统计子串中的唯一字符
 [829]:Problemset/0829-Consecutive%20Numbers%20Sum/README_CN.md#829-连续整数求和
 [830]:Problemset/0830-Positions%20of%20Large%20Groups/README_CN.md#830-较大分组的位置
 [831]:Problemset/0831-Masking%20Personal%20Information/README_CN.md#831-隐藏个人信息
@@ -3835,6 +3837,7 @@
 [824l]:https://leetcode.cn/problems/goat-latin/
 [825l]:https://leetcode.cn/problems/friends-of-appropriate-ages/
 [826l]:https://leetcode.cn/problems/most-profit-assigning-work/
+[828l]:https://leetcode.cn/problems/count-unique-characters-of-all-substrings-of-a-given-string/
 [829l]:https://leetcode.cn/problems/consecutive-numbers-sum/
 [830l]:https://leetcode.cn/problems/positions-of-large-groups/
 [831l]:https://leetcode.cn/problems/masking-personal-information/
