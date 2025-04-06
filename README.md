@@ -1547,6 +1547,7 @@
 [2442][2442l]|[Count Number of Distinct Integers After Reverse Operations][2442]                    |![py]
 [2443][2443l]|[Sum of Number and Its Reverse][2443]                                                 |![py]
 [2446][2446l]|[Determine if Two Events Have Conflict][2446]                                         |![py]
+[2449][2449l]|[Minimum Number of Operations to Make Arrays Similar][2449]                           |![rs]
 [2451][2451l]|[Odd String Difference][2451]                                                         |![py]
 [2452][2452l]|[Words Within Two Edits of Dictionary][2452]                                          |![rs]
 [2453][2453l]|[Destroy Sequential Targets][2453]                                                    |![rs]
@@ -3187,6 +3188,7 @@
 [2442]:Problemset/2442-Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations/README.md#2442-count-number-of-distinct-integers-after-reverse-operations
 [2443]:Problemset/2443-Sum%20of%20Number%20and%20Its%20Reverse/README.md#2443-sum-of-number-and-its-reverse
 [2446]:Problemset/2446-Determine%20if%20Two%20Events%20Have%20Conflict/README.md#2446-determine-if-two-events-have-conflict
+[2449]:Problemset/2449-Minimum%20Number%20of%20Operations%20to%20Make%20Arrays%20Similar/README.md#2449-minimum-number-of-operations-to-make-arrays-similar
 [2451]:Problemset/2451-Odd%20String%20Difference/README.md#2451-odd-string-difference
 [2452]:Problemset/2452-Words%20Within%20Two%20Edits%20of%20Dictionary/README.md#2452-words-within-two-edits-of-dictionary
 [2453]:Problemset/2453-Destroy%20Sequential%20Targets/README.md#2453-destroy-sequential-targets
@@ -4821,6 +4823,7 @@
 [2442l]:https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/
 [2443l]:https://leetcode.com/problems/sum-of-number-and-its-reverse/
 [2446l]:https://leetcode.com/problems/determine-if-two-events-have-conflict/
+[2449l]:https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/
 [2451l]:https://leetcode.com/problems/odd-string-difference/
 [2452l]:https://leetcode.com/problems/words-within-two-edits-of-dictionary/
 [2453l]:https://leetcode.com/problems/destroy-sequential-targets/
