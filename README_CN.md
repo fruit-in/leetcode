@@ -1195,6 +1195,7 @@
 [1854][1854l]|[人口最多的年份][1854]                                    |![rs]
 [1855][1855l]|[下标对中的最大距离][1855]                                |![py]
 [1856][1856l]|[子数组最小乘积的最大值][1856]                            |![rs]
+[1857][1857l]|[有向图中最大颜色值][1857]                                |![rs]
 [1859][1859l]|[将句子排序][1859]                                        |![py]
 [1860][1860l]|[增长的内存泄露][1860]                                    |![rs]
 [1861][1861l]|[旋转盒子][1861]                                          |![rs]
@@ -2837,6 +2838,7 @@
 [1854]:Problemset/1854-Maximum%20Population%20Year/README_CN.md#1854-人口最多的年份
 [1855]:Problemset/1855-Maximum%20Distance%20Between%20a%20Pair%20of%20Values/README_CN.md#1855-下标对中的最大距离
 [1856]:Problemset/1856-Maximum%20Subarray%20Min-Product/README_CN.md#1856-子数组最小乘积的最大值
+[1857]:Problemset/1857-Largest%20Color%20Value%20in%20a%20Directed%20Graph/README_CN.md#1857-有向图中最大颜色值
 [1859]:Problemset/1859-Sorting%20the%20Sentence/README_CN.md#1859-将句子排序
 [1860]:Problemset/1860-Incremental%20Memory%20Leak/README_CN.md#1860-增长的内存泄露
 [1861]:Problemset/1861-Rotating%20the%20Box/README_CN.md#1861-旋转盒子
@@ -4473,6 +4475,7 @@
 [1854l]:https://leetcode.cn/problems/maximum-population-year/
 [1855l]:https://leetcode.cn/problems/maximum-distance-between-a-pair-of-values/
 [1856l]:https://leetcode.cn/problems/maximum-subarray-min-product/
+[1857l]:https://leetcode.cn/problems/largest-color-value-in-a-directed-graph/
 [1859l]:https://leetcode.cn/problems/sorting-the-sentence/
 [1860l]:https://leetcode.cn/problems/incremental-memory-leak/
 [1861l]:https://leetcode.cn/problems/rotating-the-box/

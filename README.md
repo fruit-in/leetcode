@@ -1195,6 +1195,7 @@
 [1854][1854l]|[Maximum Population Year][1854]                                                       |![rs]
 [1855][1855l]|[Maximum Distance Between a Pair of Values][1855]                                     |![py]
 [1856][1856l]|[Maximum Subarray Min-Product][1856]                                                  |![rs]
+[1857][1857l]|[Largest Color Value in a Directed Graph][1857]                                       |![rs]
 [1859][1859l]|[Sorting the Sentence][1859]                                                          |![py]
 [1860][1860l]|[Incremental Memory Leak][1860]                                                       |![rs]
 [1861][1861l]|[Rotating the Box][1861]                                                              |![rs]
@@ -2837,6 +2838,7 @@
 [1854]:Problemset/1854-Maximum%20Population%20Year/README.md#1854-maximum-population-year
 [1855]:Problemset/1855-Maximum%20Distance%20Between%20a%20Pair%20of%20Values/README.md#1855-maximum-distance-between-a-pair-of-values
 [1856]:Problemset/1856-Maximum%20Subarray%20Min-Product/README.md#1856-maximum-subarray-min-product
+[1857]:Problemset/1857-Largest%20Color%20Value%20in%20a%20Directed%20Graph/README.md#1857-largest-color-value-in-a-directed-graph
 [1859]:Problemset/1859-Sorting%20the%20Sentence/README.md#1859-sorting-the-sentence
 [1860]:Problemset/1860-Incremental%20Memory%20Leak/README.md#1860-incremental-memory-leak
 [1861]:Problemset/1861-Rotating%20the%20Box/README.md#1861-rotating-the-box
@@ -4473,6 +4475,7 @@
 [1854l]:https://leetcode.com/problems/maximum-population-year/
 [1855l]:https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
 [1856l]:https://leetcode.com/problems/maximum-subarray-min-product/
+[1857l]:https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
 [1859l]:https://leetcode.com/problems/sorting-the-sentence/
 [1860l]:https://leetcode.com/problems/incremental-memory-leak/
 [1861l]:https://leetcode.com/problems/rotating-the-box/
