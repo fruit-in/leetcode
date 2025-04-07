@@ -804,6 +804,7 @@
 [1207][1207l]|[Unique Number of Occurrences][1207]                                                  |![rs]
 [1208][1208l]|[Get Equal Substrings Within Budget][1208]                                            |![rb]&nbsp;&nbsp;![rs]
 [1209][1209l]|[Remove All Adjacent Duplicates in String II][1209]                                   |![rs]
+[1210][1210l]|[Minimum Moves to Reach Target with Rotations][1210]                                  |![rs]
 [1217][1217l]|[Play with Chips][1217]                                                               |![rs]
 [1218][1218l]|[Longest Arithmetic Subsequence of Given Difference][1218]                            |![rs]
 [1220][1220l]|[Count Vowels Permutation][1220]                                                      |![rs]
@@ -2447,6 +2448,7 @@
 [1207]:Problemset/1207-Unique%20Number%20of%20Occurrences/README.md#1207-unique-number-of-occurrences
 [1208]:Problemset/1208-Get%20Equal%20Substrings%20Within%20Budget/README.md#1208-get-equal-substrings-within-budget
 [1209]:Problemset/1209-Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/README.md#1209-remove-all-adjacent-duplicates-in-string-ii
+[1210]:Problemset/1210-Minimum%20Moves%20to%20Reach%20Target%20with%20Rotations/README.md#1210-minimum-moves-to-reach-target-with-rotations
 [1217]:Problemset/1217-Play%20with%20Chips/README.md#1217-play-with-chips
 [1218]:Problemset/1218-Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/README.md#1218-longest-arithmetic-subsequence-of-given-difference
 [1220]:Problemset/1220-Count%20Vowels%20Permutation/README.md#1220-count-vowels-permutation
@@ -4084,6 +4086,7 @@
 [1207l]:https://leetcode.com/problems/unique-number-of-occurrences/
 [1208l]:https://leetcode.com/problems/get-equal-substrings-within-budget/
 [1209l]:https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
+[1210l]:https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/
 [1217l]:https://leetcode.com/problems/play-with-chips/
 [1218l]:https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
 [1220l]:https://leetcode.com/problems/count-vowels-permutation/
