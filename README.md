@@ -464,6 +464,7 @@
 [686][686l]  |[Repeated String Match][686]                                                          |![py]
 [687][687l]  |[Longest Univalue Path][687]                                                          |![py]
 [688][688l]  |[Knight Probability in Chessboard][688]                                               |![rb]&nbsp;&nbsp;![rs]
+[689][689l]  |[Maximum Sum of 3 Non-Overlapping Subarrays][689]                                     |![rs]
 [690][690l]  |[Employee Importance][690]                                                            |![py]
 [692][692l]  |[Top K Frequent Words][692]                                                           |![rb]
 [693][693l]  |[Binary Number with Alternating Bits][693]                                            |![rs]
@@ -2110,6 +2111,7 @@
 [686]:Problemset/0686-Repeated%20String%20Match/README.md#686-repeated-string-match
 [687]:Problemset/0687-Longest%20Univalue%20Path/README.md#687-longest-univalue-path
 [688]:Problemset/0688-Knight%20Probability%20in%20Chessboard/README.md#688-knight-probability-in-chessboard
+[689]:Problemset/0689-Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays/README.md#689-maximum-sum-of-3-non-overlapping-subarrays
 [690]:Problemset/0690-Employee%20Importance/README.md#690-employee-importance
 [692]:Problemset/0692-Top%20K%20Frequent%20Words/README.md#692-top-k-frequent-words
 [693]:Problemset/0693-Binary%20Number%20with%20Alternating%20Bits/README.md#693-binary-number-with-alternating-bits
@@ -3750,6 +3752,7 @@
 [686l]:https://leetcode.com/problems/repeated-string-match/
 [687l]:https://leetcode.com/problems/longest-univalue-path/
 [688l]:https://leetcode.com/problems/knight-probability-in-chessboard/
+[689l]:https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
 [690l]:https://leetcode.com/problems/employee-importance/
 [692l]:https://leetcode.com/problems/top-k-frequent-words/
 [693l]:https://leetcode.com/problems/binary-number-with-alternating-bits/

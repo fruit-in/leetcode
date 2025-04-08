@@ -464,6 +464,7 @@
 [686][686l]  |[重复叠加字符串匹配][686]                                 |![py]
 [687][687l]  |[最长同值路径][687]                                       |![py]
 [688][688l]  |[“马”在棋盘上的概率][688]                                 |![rb]&nbsp;&nbsp;![rs]
+[689][689l]  |[三个无重叠子数组的最大和][689]                           |![rs]
 [690][690l]  |[员工的重要性][690]                                       |![py]
 [692][692l]  |[前K个高频单词][692]                                      |![rb]
 [693][693l]  |[交替位二进制数][693]                                     |![rs]
@@ -2110,6 +2111,7 @@
 [686]:Problemset/0686-Repeated%20String%20Match/README_CN.md#686-重复叠加字符串匹配
 [687]:Problemset/0687-Longest%20Univalue%20Path/README_CN.md#687-最长同值路径
 [688]:Problemset/0688-Knight%20Probability%20in%20Chessboard/README_CN.md#688-马在棋盘上的概率
+[689]:Problemset/0689-Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays/README_CN.md#689-三个无重叠子数组的最大和
 [690]:Problemset/0690-Employee%20Importance/README_CN.md#690-员工的重要性
 [692]:Problemset/0692-Top%20K%20Frequent%20Words/README_CN.md#692-前k个高频单词
 [693]:Problemset/0693-Binary%20Number%20with%20Alternating%20Bits/README_CN.md#693-交替位二进制数
@@ -3750,6 +3752,7 @@
 [686l]:https://leetcode.cn/problems/repeated-string-match/
 [687l]:https://leetcode.cn/problems/longest-univalue-path/
 [688l]:https://leetcode.cn/problems/knight-probability-in-chessboard/
+[689l]:https://leetcode.cn/problems/maximum-sum-of-3-non-overlapping-subarrays/
 [690l]:https://leetcode.cn/problems/employee-importance/
 [692l]:https://leetcode.cn/problems/top-k-frequent-words/
 [693l]:https://leetcode.cn/problems/binary-number-with-alternating-bits/
