@@ -1559,6 +1559,7 @@
 [2456][2456l]|[Most Popular Video Creator][2456]                                                    |![py]
 [2457][2457l]|[Minimum Addition to Make Integer Beautiful][2457]                                    |![py]
 [2460][2460l]|[Apply Operations to an Array][2460]                                                  |![rs]
+[2461][2461l]|[Maximum Sum of Distinct Subarrays With Length K][2461]                               |![rs]
 [2462][2462l]|[Total Cost to Hire K Workers][2462]                                                  |![rs]
 [2465][2465l]|[Number of Distinct Averages][2465]                                                   |![rs]
 [2466][2466l]|[Count Ways To Build Good Strings][2466]                                              |![rs]
@@ -3203,6 +3204,7 @@
 [2456]:Problemset/2456-Most%20Popular%20Video%20Creator/README.md#2456-most-popular-video-creator
 [2457]:Problemset/2457-Minimum%20Addition%20to%20Make%20Integer%20Beautiful/README.md#2457-minimum-addition-to-make-integer-beautiful
 [2460]:Problemset/2460-Apply%20Operations%20to%20an%20Array/README.md#2460-apply-operations-to-an-array
+[2461]:Problemset/2461-Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K/README.md#2461-maximum-sum-of-distinct-subarrays-with-length-k
 [2462]:Problemset/2462-Total%20Cost%20to%20Hire%20K%20Workers/README.md#2462-total-cost-to-hire-k-workers
 [2465]:Problemset/2465-Number%20of%20Distinct%20Averages/README.md#2465-number-of-distinct-averages
 [2466]:Problemset/2466-Count%20Ways%20To%20Build%20Good%20Strings/README.md#2466-count-ways-to-build-good-strings
@@ -4841,6 +4843,7 @@
 [2456l]:https://leetcode.com/problems/most-popular-video-creator/
 [2457l]:https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/
 [2460l]:https://leetcode.com/problems/apply-operations-to-an-array/
+[2461l]:https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/
 [2462l]:https://leetcode.com/problems/total-cost-to-hire-k-workers/
 [2465l]:https://leetcode.com/problems/number-of-distinct-averages/
 [2466l]:https://leetcode.com/problems/count-ways-to-build-good-strings/
