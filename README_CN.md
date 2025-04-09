@@ -1074,6 +1074,7 @@
 [1636][1636l]|[按照频率将数组升序排序][1636]                            |![rs]
 [1637][1637l]|[两点之间不包含任何点的最宽垂直面积][1637]                |![rb]&nbsp;&nbsp;![rs]
 [1638][1638l]|[统计只差一个字符的子串数目][1638]                        |![rs]
+[1639][1639l]|[通过给定词典构造目标字符串的方案数][1639]                |![rs]
 [1640][1640l]|[能否连接形成数组][1640]                                  |![rb]&nbsp;&nbsp;![rs]
 [1641][1641l]|[统计字典序元音字符串的数目][1641]                        |![rb]&nbsp;&nbsp;![rs]
 [1642][1642l]|[可以到达的最远建筑][1642]                                |![rs]
@@ -2722,6 +2723,7 @@
 [1636]:Problemset/1636-Sort%20Array%20by%20Increasing%20Frequency/README_CN.md#1636-按照频率将数组升序排序
 [1637]:Problemset/1637-Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points/README_CN.md#1637-两点之间不包含任何点的最宽垂直面积
 [1638]:Problemset/1638-Count%20Substrings%20That%20Differ%20by%20One%20Character/README_CN.md#1638-统计只差一个字符的子串数目
+[1639]:Problemset/1639-Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary/README_CN.md#1639-通过给定词典构造目标字符串的方案数
 [1640]:Problemset/1640-Check%20Array%20Formation%20Through%20Concatenation/README_CN.md#1640-能否连接形成数组
 [1641]:Problemset/1641-Count%20Sorted%20Vowel%20Strings/README_CN.md#1641-统计字典序元音字符串的数目
 [1642]:Problemset/1642-Furthest%20Building%20You%20Can%20Reach/README_CN.md#1642-可以到达的最远建筑
@@ -4364,6 +4366,7 @@
 [1636l]:https://leetcode.cn/problems/sort-array-by-increasing-frequency/
 [1637l]:https://leetcode.cn/problems/widest-vertical-area-between-two-points-containing-no-points/
 [1638l]:https://leetcode.cn/problems/count-substrings-that-differ-by-one-character/
+[1639l]:https://leetcode.cn/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/
 [1640l]:https://leetcode.cn/problems/check-array-formation-through-concatenation/
 [1641l]:https://leetcode.cn/problems/count-sorted-vowel-strings/
 [1642l]:https://leetcode.cn/problems/furthest-building-you-can-reach/
