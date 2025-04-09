@@ -1600,6 +1600,7 @@
 [2523][2523l]|[Closest Prime Numbers in Range][2523]                                                |![rs]
 [2525][2525l]|[Categorize Box According to Criteria][2525]                                          |![rs]
 [2526][2526l]|[Find Consecutive Integers from a Data Stream][2526]                                  |![rs]
+[2528][2528l]|[Maximize the Minimum Powered City][2528]                                             |![rs]
 [2529][2529l]|[Maximum Count of Positive Integer and Negative Integer][2529]                        |![py]
 [2535][2535l]|[Difference Between Element Sum and Digit Sum of an Array][2535]                      |![rs]
 [2537][2537l]|[Count the Number of Good Subarrays][2537]                                            |![rs]
@@ -3250,6 +3251,7 @@
 [2523]:Problemset/2523-Closest%20Prime%20Numbers%20in%20Range/README.md#2523-closest-prime-numbers-in-range
 [2525]:Problemset/2525-Categorize%20Box%20According%20to%20Criteria/README.md#2525-categorize-box-according-to-criteria
 [2526]:Problemset/2526-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream/README.md#2526-find-consecutive-integers-from-a-data-stream
+[2528]:Problemset/2528-Maximize%20the%20Minimum%20Powered%20City/README.md#2528-maximize-the-minimum-powered-city
 [2529]:Problemset/2529-Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/README.md#2529-maximum-count-of-positive-integer-and-negative-integer
 [2535]:Problemset/2535-Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/README.md#2535-difference-between-element-sum-and-digit-sum-of-an-array
 [2537]:Problemset/2537-Count%20the%20Number%20of%20Good%20Subarrays/README.md#2537-count-the-number-of-good-subarrays
@@ -4894,6 +4896,7 @@
 [2523l]:https://leetcode.com/problems/closest-prime-numbers-in-range/
 [2525l]:https://leetcode.com/problems/categorize-box-according-to-criteria/
 [2526l]:https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/
+[2528l]:https://leetcode.com/problems/maximize-the-minimum-powered-city/
 [2529l]:https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 [2535l]:https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 [2537l]:https://leetcode.com/problems/count-the-number-of-good-subarrays/

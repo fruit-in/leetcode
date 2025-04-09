@@ -1600,6 +1600,7 @@
 [2523][2523l]|[范围内最接近的两个质数][2523]                            |![rs]
 [2525][2525l]|[根据规则将箱子分类][2525]                                |![rs]
 [2526][2526l]|[找到数据流中的连续整数][2526]                            |![rs]
+[2528][2528l]|[最大化城市的最小电量][2528]                              |![rs]
 [2529][2529l]|[正整数和负整数的最大计数][2529]                          |![py]
 [2535][2535l]|[数组元素和与数字和的绝对差][2535]                        |![rs]
 [2537][2537l]|[统计好子数组的数目][2537]                                |![rs]
@@ -3250,6 +3251,7 @@
 [2523]:Problemset/2523-Closest%20Prime%20Numbers%20in%20Range/README_CN.md#2523-范围内最接近的两个质数
 [2525]:Problemset/2525-Categorize%20Box%20According%20to%20Criteria/README_CN.md#2525-根据规则将箱子分类
 [2526]:Problemset/2526-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream/README_CN.md#2526-找到数据流中的连续整数
+[2528]:Problemset/2528-Maximize%20the%20Minimum%20Powered%20City/README_CN.md#2528-最大化城市的最小电量
 [2529]:Problemset/2529-Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/README_CN.md#2529-正整数和负整数的最大计数
 [2535]:Problemset/2535-Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/README_CN.md#2535-数组元素和与数字和的绝对差
 [2537]:Problemset/2537-Count%20the%20Number%20of%20Good%20Subarrays/README_CN.md#2537-统计好子数组的数目
@@ -4894,6 +4896,7 @@
 [2523l]:https://leetcode.cn/problems/closest-prime-numbers-in-range/
 [2525l]:https://leetcode.cn/problems/categorize-box-according-to-criteria/
 [2526l]:https://leetcode.cn/problems/find-consecutive-integers-from-a-data-stream/
+[2528l]:https://leetcode.cn/problems/maximize-the-minimum-powered-city/
 [2529l]:https://leetcode.cn/problems/maximum-count-of-positive-integer-and-negative-integer/
 [2535l]:https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 [2537l]:https://leetcode.cn/problems/count-the-number-of-good-subarrays/
