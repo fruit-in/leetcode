@@ -1553,6 +1553,7 @@
 [2441][2441l]|[与对应负数同时存在的最大正整数][2441]                    |![rs]
 [2442][2442l]|[反转之后不同整数的数目][2442]                            |![py]
 [2443][2443l]|[反转之后的数字和][2443]                                  |![py]
+[2444][2444l]|[统计定界子数组的数目][2444]                              |![rs]
 [2446][2446l]|[判断两个事件是否存在冲突][2446]                          |![py]
 [2449][2449l]|[使数组相似的最少操作次数][2449]                          |![rs]
 [2451][2451l]|[差值数组不同的字符串][2451]                              |![py]
@@ -3204,6 +3205,7 @@
 [2441]:Problemset/2441-Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/README_CN.md#2441-与对应负数同时存在的最大正整数
 [2442]:Problemset/2442-Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations/README_CN.md#2442-反转之后不同整数的数目
 [2443]:Problemset/2443-Sum%20of%20Number%20and%20Its%20Reverse/README_CN.md#2443-反转之后的数字和
+[2444]:Problemset/2444-Count%20Subarrays%20With%20Fixed%20Bounds/README_CN.md#2444-统计定界子数组的数目
 [2446]:Problemset/2446-Determine%20if%20Two%20Events%20Have%20Conflict/README_CN.md#2446-判断两个事件是否存在冲突
 [2449]:Problemset/2449-Minimum%20Number%20of%20Operations%20to%20Make%20Arrays%20Similar/README_CN.md#2449-使数组相似的最少操作次数
 [2451]:Problemset/2451-Odd%20String%20Difference/README_CN.md#2451-差值数组不同的字符串
@@ -4849,6 +4851,7 @@
 [2441l]:https://leetcode.cn/problems/largest-positive-integer-that-exists-with-its-negative/
 [2442l]:https://leetcode.cn/problems/count-number-of-distinct-integers-after-reverse-operations/
 [2443l]:https://leetcode.cn/problems/sum-of-number-and-its-reverse/
+[2444l]:https://leetcode.cn/problems/count-subarrays-with-fixed-bounds/
 [2446l]:https://leetcode.cn/problems/determine-if-two-events-have-conflict/
 [2449l]:https://leetcode.cn/problems/minimum-number-of-operations-to-make-arrays-similar/
 [2451l]:https://leetcode.cn/problems/odd-string-difference/
