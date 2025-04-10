@@ -856,6 +856,7 @@
 [1298][1298l]|[Maximum Candies You Can Get from Boxes][1298]                                        |![rs]
 [1299][1299l]|[Replace Elements with Greatest Element on Right Side][1299]                          |![rs]
 [1300][1300l]|[Sum of Mutated Array Closest to Target][1300]                                        |![rs]
+[1301][1301l]|[Number of Paths with Max Score][1301]                                                |![rs]
 [1302][1302l]|[Deepest Leaves Sum][1302]                                                            |![py]
 [1304][1304l]|[Find N Unique Integers Sum up to Zero][1304]                                         |![rs]
 [1305][1305l]|[All Elements in Two Binary Search Trees][1305]                                       |![py]
@@ -2509,6 +2510,7 @@
 [1298]:Problemset/1298-Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/README.md#1298-maximum-candies-you-can-get-from-boxes
 [1299]:Problemset/1299-Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/README.md#1299-replace-elements-with-greatest-element-on-right-side
 [1300]:Problemset/1300-Sum%20of%20Mutated%20Array%20Closest%20to%20Target/README.md#1300-sum-of-mutated-array-closest-to-target
+[1301]:Problemset/1301-Number%20of%20Paths%20with%20Max%20Score/README.md#1301-number-of-paths-with-max-score
 [1302]:Problemset/1302-Deepest%20Leaves%20Sum/README.md#1302-deepest-leaves-sum
 [1304]:Problemset/1304-Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/README.md#1304-find-n-unique-integers-sum-up-to-zero
 [1305]:Problemset/1305-All%20Elements%20in%20Two%20Binary%20Search%20Trees/README.md#1305-all-elements-in-two-binary-search-trees
@@ -4156,6 +4158,7 @@
 [1298l]:https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 [1299l]:https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 [1300l]:https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
+[1301l]:https://leetcode.com/problems/number-of-paths-with-max-score/
 [1302l]:https://leetcode.com/problems/deepest-leaves-sum/
 [1304l]:https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
 [1305l]:https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
