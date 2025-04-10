@@ -1213,6 +1213,7 @@
 [1869][1869l]|[哪种连续子字符串更长][1869]                              |![rs]
 [1870][1870l]|[准时到达的列车最小时速][1870]                            |![py]
 [1871][1871l]|[跳跃游戏 VII][1871]                                      |![rs]
+[1872][1872l]|[石子游戏 VIII][1872]                                     |![rs]
 [1876][1876l]|[长度为三且各字符不同的子字符串][1876]                    |![rs]
 [1877][1877l]|[数组中最大数对和的最小值][1877]                          |![rs]
 [1878][1878l]|[矩阵中最大的三个菱形和][1878]                            |![rs]
@@ -2868,6 +2869,7 @@
 [1869]:Problemset/1869-Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/README_CN.md#1869-哪种连续子字符串更长
 [1870]:Problemset/1870-Minimum%20Speed%20to%20Arrive%20on%20Time/README_CN.md#1870-准时到达的列车最小时速
 [1871]:Problemset/1871-Jump%20Game%20VII/README_CN.md#1871-跳跃游戏-vii
+[1872]:Problemset/1872-Stone%20Game%20VIII/README_CN.md#1872-石子游戏-viii
 [1876]:Problemset/1876-Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/README_CN.md#1876-长度为三且各字符不同的子字符串
 [1877]:Problemset/1877-Minimize%20Maximum%20Pair%20Sum%20in%20Array/README_CN.md#1877-数组中最大数对和的最小值
 [1878]:Problemset/1878-Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/README_CN.md#1878-矩阵中最大的三个菱形和
@@ -4517,6 +4519,7 @@
 [1869l]:https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1870l]:https://leetcode.cn/problems/minimum-speed-to-arrive-on-time/
 [1871l]:https://leetcode.cn/problems/jump-game-vii/
+[1872l]:https://leetcode.cn/problems/stone-game-viii/
 [1876l]:https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/
 [1877l]:https://leetcode.cn/problems/minimize-maximum-pair-sum-in-array/
 [1878l]:https://leetcode.cn/problems/get-biggest-three-rhombus-sums-in-a-grid/
