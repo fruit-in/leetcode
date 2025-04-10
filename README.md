@@ -1258,6 +1258,7 @@
 [1952][1952l]|[Three Divisors][1952]                                                                |![rs]
 [1953][1953l]|[Maximum Number of Weeks for Which You Can Work][1953]                                |![rs]
 [1954][1954l]|[Minimum Garden Perimeter to Collect Enough Apples][1954]                             |![rs]
+[1955][1955l]|[Count Number of Special Subsequences][1955]                                          |![rs]
 [1957][1957l]|[Delete Characters to Make Fancy String][1957]                                        |![py]
 [1958][1958l]|[Check if Move is Legal][1958]                                                        |![rs]
 [1961][1961l]|[Check If String Is a Prefix of Array][1961]                                          |![py]
@@ -2914,6 +2915,7 @@
 [1952]:Problemset/1952-Three%20Divisors/README.md#1952-three-divisors
 [1953]:Problemset/1953-Maximum%20Number%20of%20Weeks%20for%20Which%20You%20Can%20Work/README.md#1953-maximum-number-of-weeks-for-which-you-can-work
 [1954]:Problemset/1954-Minimum%20Garden%20Perimeter%20to%20Collect%20Enough%20Apples/README.md#1954-minimum-garden-perimeter-to-collect-enough-apples
+[1955]:Problemset/1955-Count%20Number%20of%20Special%20Subsequences/README.md#1955-count-number-of-special-subsequences
 [1957]:Problemset/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README.md#1957-delete-characters-to-make-fancy-string
 [1958]:Problemset/1958-Check%20if%20Move%20is%20Legal/README.md#1958-check-if-move-is-legal
 [1961]:Problemset/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README.md#1961-check-if-string-is-a-prefix-of-array
@@ -4564,6 +4566,7 @@
 [1952l]:https://leetcode.com/problems/three-divisors/
 [1953l]:https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/
 [1954l]:https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/
+[1955l]:https://leetcode.com/problems/count-number-of-special-subsequences/
 [1957l]:https://leetcode.com/problems/delete-characters-to-make-fancy-string/
 [1958l]:https://leetcode.com/problems/check-if-move-is-legal/
 [1961l]:https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/

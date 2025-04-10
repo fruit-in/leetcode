@@ -1258,6 +1258,7 @@
 [1952][1952l]|[三除数][1952]                                            |![rs]
 [1953][1953l]|[你可以工作的最大周数][1953]                              |![rs]
 [1954][1954l]|[收集足够苹果的最小花园周长][1954]                        |![rs]
+[1955][1955l]|[统计特殊子序列的数目][1955]                              |![rs]
 [1957][1957l]|[删除字符使字符串变好][1957]                              |![py]
 [1958][1958l]|[检查操作是否合法][1958]                                  |![rs]
 [1961][1961l]|[检查字符串是否为数组前缀][1961]                          |![py]
@@ -2914,6 +2915,7 @@
 [1952]:Problemset/1952-Three%20Divisors/README_CN.md#1952-三除数
 [1953]:Problemset/1953-Maximum%20Number%20of%20Weeks%20for%20Which%20You%20Can%20Work/README_CN.md#1953-你可以工作的最大周数
 [1954]:Problemset/1954-Minimum%20Garden%20Perimeter%20to%20Collect%20Enough%20Apples/README_CN.md#1954-收集足够苹果的最小花园周长
+[1955]:Problemset/1955-Count%20Number%20of%20Special%20Subsequences/README_CN.md#1955-统计特殊子序列的数目
 [1957]:Problemset/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README_CN.md#1957-删除字符使字符串变好
 [1958]:Problemset/1958-Check%20if%20Move%20is%20Legal/README_CN.md#1958-检查操作是否合法
 [1961]:Problemset/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README_CN.md#1961-检查字符串是否为数组前缀
@@ -4564,6 +4566,7 @@
 [1952l]:https://leetcode.cn/problems/three-divisors/
 [1953l]:https://leetcode.cn/problems/maximum-number-of-weeks-for-which-you-can-work/
 [1954l]:https://leetcode.cn/problems/minimum-garden-perimeter-to-collect-enough-apples/
+[1955l]:https://leetcode.cn/problems/count-number-of-special-subsequences/
 [1957l]:https://leetcode.cn/problems/delete-characters-to-make-fancy-string/
 [1958l]:https://leetcode.cn/problems/check-if-move-is-legal/
 [1961l]:https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array/
