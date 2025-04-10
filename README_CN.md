@@ -1040,6 +1040,7 @@
 [1572][1572l]|[矩阵对角线元素的和][1572]                                |![rs]
 [1573][1573l]|[分割字符串的方案数][1573]                                |![rs]
 [1574][1574l]|[删除最短的子数组使剩余数组有序][1574]                    |![rs]
+[1575][1575l]|[统计所有可行路径][1575]                                  |![rs]
 [1576][1576l]|[替换所有的问号][1576]                                    |![rs]
 [1577][1577l]|[数的平方等于两数乘积的方法数][1577]                      |![py]
 [1578][1578l]|[使绳子变成彩色的最短时间][1578]                          |![rs]
@@ -2694,6 +2695,7 @@
 [1572]:Problemset/1572-Matrix%20Diagonal%20Sum/README_CN.md#1572-矩阵对角线元素的和
 [1573]:Problemset/1573-Number%20of%20Ways%20to%20Split%20a%20String/README_CN.md#1573-分割字符串的方案数
 [1574]:Problemset/1574-Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted/README_CN.md#1574-删除最短的子数组使剩余数组有序
+[1575]:Problemset/1575-Count%20All%20Possible%20Routes/README_CN.md#1575-统计所有可行路径
 [1576]:Problemset/1576-Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters/README_CN.md#1576-替换所有的问号
 [1577]:Problemset/1577-Number%20of%20Ways%20Where%20Square%20of%20Number%20Is%20Equal%20to%20Product%20of%20Two%20Numbers/README_CN.md#1577-数的平方等于两数乘积的方法数
 [1578]:Problemset/1578-Minimum%20Time%20to%20Make%20Rope%20Colorful/README_CN.md#1578-使绳子变成彩色的最短时间
@@ -4342,6 +4344,7 @@
 [1572l]:https://leetcode.cn/problems/matrix-diagonal-sum/
 [1573l]:https://leetcode.cn/problems/number-of-ways-to-split-a-string/
 [1574l]:https://leetcode.cn/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+[1575l]:https://leetcode.cn/problems/count-all-possible-routes/
 [1576l]:https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
 [1577l]:https://leetcode.cn/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
 [1578l]:https://leetcode.cn/problems/minimum-time-to-make-rope-colorful/

@@ -1040,6 +1040,7 @@
 [1572][1572l]|[Matrix Diagonal Sum][1572]                                                           |![rs]
 [1573][1573l]|[Number of Ways to Split a String][1573]                                              |![rs]
 [1574][1574l]|[Shortest Subarray to be Removed to Make Array Sorted][1574]                          |![rs]
+[1575][1575l]|[Count All Possible Routes][1575]                                                     |![rs]
 [1576][1576l]|[Replace All ?'s to Avoid Consecutive Repeating Characters][1576]                     |![rs]
 [1577][1577l]|[Number of Ways Where Square of Number Is Equal to Product of Two Numbers][1577]      |![py]
 [1578][1578l]|[Minimum Time to Make Rope Colorful][1578]                                            |![rs]
@@ -2694,6 +2695,7 @@
 [1572]:Problemset/1572-Matrix%20Diagonal%20Sum/README.md#1572-matrix-diagonal-sum
 [1573]:Problemset/1573-Number%20of%20Ways%20to%20Split%20a%20String/README.md#1573-number-of-ways-to-split-a-string
 [1574]:Problemset/1574-Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted/README.md#1574-shortest-subarray-to-be-removed-to-make-array-sorted
+[1575]:Problemset/1575-Count%20All%20Possible%20Routes/README.md#1575-count-all-possible-routes
 [1576]:Problemset/1576-Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters/README.md#1576-replace-all-s-to-avoid-consecutive-repeating-characters
 [1577]:Problemset/1577-Number%20of%20Ways%20Where%20Square%20of%20Number%20Is%20Equal%20to%20Product%20of%20Two%20Numbers/README.md#1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers
 [1578]:Problemset/1578-Minimum%20Time%20to%20Make%20Rope%20Colorful/README.md#1578-minimum-time-to-make-rope-colorful
@@ -4342,6 +4344,7 @@
 [1572l]:https://leetcode.com/problems/matrix-diagonal-sum/
 [1573l]:https://leetcode.com/problems/number-of-ways-to-split-a-string/
 [1574l]:https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+[1575l]:https://leetcode.com/problems/count-all-possible-routes/
 [1576l]:https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
 [1577l]:https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
 [1578l]:https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
