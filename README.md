@@ -1555,6 +1555,7 @@
 [2443][2443l]|[Sum of Number and Its Reverse][2443]                                                 |![py]
 [2444][2444l]|[Count Subarrays With Fixed Bounds][2444]                                             |![rs]
 [2446][2446l]|[Determine if Two Events Have Conflict][2446]                                         |![py]
+[2448][2448l]|[Minimum Cost to Make Array Equal][2448]                                              |![rs]
 [2449][2449l]|[Minimum Number of Operations to Make Arrays Similar][2449]                           |![rs]
 [2451][2451l]|[Odd String Difference][2451]                                                         |![py]
 [2452][2452l]|[Words Within Two Edits of Dictionary][2452]                                          |![rs]
@@ -3207,6 +3208,7 @@
 [2443]:Problemset/2443-Sum%20of%20Number%20and%20Its%20Reverse/README.md#2443-sum-of-number-and-its-reverse
 [2444]:Problemset/2444-Count%20Subarrays%20With%20Fixed%20Bounds/README.md#2444-count-subarrays-with-fixed-bounds
 [2446]:Problemset/2446-Determine%20if%20Two%20Events%20Have%20Conflict/README.md#2446-determine-if-two-events-have-conflict
+[2448]:Problemset/2448-Minimum%20Cost%20to%20Make%20Array%20Equal/README.md#2448-minimum-cost-to-make-array-equal
 [2449]:Problemset/2449-Minimum%20Number%20of%20Operations%20to%20Make%20Arrays%20Similar/README.md#2449-minimum-number-of-operations-to-make-arrays-similar
 [2451]:Problemset/2451-Odd%20String%20Difference/README.md#2451-odd-string-difference
 [2452]:Problemset/2452-Words%20Within%20Two%20Edits%20of%20Dictionary/README.md#2452-words-within-two-edits-of-dictionary
@@ -4853,6 +4855,7 @@
 [2443l]:https://leetcode.com/problems/sum-of-number-and-its-reverse/
 [2444l]:https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
 [2446l]:https://leetcode.com/problems/determine-if-two-events-have-conflict/
+[2448l]:https://leetcode.com/problems/minimum-cost-to-make-array-equal/
 [2449l]:https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/
 [2451l]:https://leetcode.com/problems/odd-string-difference/
 [2452l]:https://leetcode.com/problems/words-within-two-edits-of-dictionary/
