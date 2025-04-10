@@ -1383,6 +1383,7 @@
 [2160][2160l]|[Minimum Sum of Four Digit Number After Splitting Digits][2160]                       |![rs]
 [2161][2161l]|[Partition Array According to Given Pivot][2161]                                      |![py]
 [2162][2162l]|[Minimum Cost to Set Cooking Time][2162]                                              |![rs]
+[2163][2163l]|[Minimum Difference in Sums After Removal of Elements][2163]                          |![rs]
 [2164][2164l]|[Sort Even and Odd Indices Independently][2164]                                       |![py]
 [2165][2165l]|[Smallest Value of the Rearranged Number][2165]                                       |![rs]
 [2166][2166l]|[Design Bitset][2166]                                                                 |![py]
@@ -3040,6 +3041,7 @@
 [2160]:Problemset/2160-Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/README.md#2160-minimum-sum-of-four-digit-number-after-splitting-digits
 [2161]:Problemset/2161-Partition%20Array%20According%20to%20Given%20Pivot/README.md#2161-partition-array-according-to-given-pivot
 [2162]:Problemset/2162-Minimum%20Cost%20to%20Set%20Cooking%20Time/README.md#2162-minimum-cost-to-set-cooking-time
+[2163]:Problemset/2163-Minimum%20Difference%20in%20Sums%20After%20Removal%20of%20Elements/README.md#2163-minimum-difference-in-sums-after-removal-of-elements
 [2164]:Problemset/2164-Sort%20Even%20and%20Odd%20Indices%20Independently/README.md#2164-sort-even-and-odd-indices-independently
 [2165]:Problemset/2165-Smallest%20Value%20of%20the%20Rearranged%20Number/README.md#2165-smallest-value-of-the-rearranged-number
 [2166]:Problemset/2166-Design%20Bitset/README.md#2166-design-bitset
@@ -4691,6 +4693,7 @@
 [2160l]:https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2161l]:https://leetcode.com/problems/partition-array-according-to-given-pivot/
 [2162l]:https://leetcode.com/problems/minimum-cost-to-set-cooking-time/
+[2163l]:https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/
 [2164l]:https://leetcode.com/problems/sort-even-and-odd-indices-independently/
 [2165l]:https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 [2166l]:https://leetcode.com/problems/design-bitset/
