@@ -1008,6 +1008,7 @@
 [1507][1507l]|[Reformat Date][1507]                                                                 |![py]
 [1508][1508l]|[Range Sum of Sorted Subarray Sums][1508]                                             |![rb]&nbsp;&nbsp;![rs]
 [1509][1509l]|[Minimum Difference Between Largest and Smallest Value in Three Moves][1509]          |![rb]
+[1510][1510l]|[Stone Game IV][1510]                                                                 |![py]
 [1512][1512l]|[Number of Good Pairs][1512]                                                          |![rb]&nbsp;&nbsp;![rs]
 [1513][1513l]|[Number of Substrings With Only 1s][1513]                                             |![rs]
 [1514][1514l]|[Path with Maximum Probability][1514]                                                 |![py]
@@ -2672,6 +2673,7 @@
 [1507]:Problemset/1507-Reformat%20Date/README.md#1507-reformat-date
 [1508]:Problemset/1508-Range%20Sum%20of%20Sorted%20Subarray%20Sums/README.md#1508-range-sum-of-sorted-subarray-sums
 [1509]:Problemset/1509-Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/README.md#1509-minimum-difference-between-largest-and-smallest-value-in-three-moves
+[1510]:Problemset/1510-Stone%20Game%20IV/README.md#1510-stone-game-iv
 [1512]:Problemset/1512-Number%20of%20Good%20Pairs/README.md#1512-number-of-good-pairs
 [1513]:Problemset/1513-Number%20of%20Substrings%20With%20Only%201s/README.md#1513-number-of-substrings-with-only-1s
 [1514]:Problemset/1514-Path%20with%20Maximum%20Probability/README.md#1514-path-with-maximum-probability
@@ -4330,6 +4332,7 @@
 [1507l]:https://leetcode.com/problems/reformat-date/
 [1508l]:https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
 [1509l]:https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
+[1510l]:https://leetcode.com/problems/stone-game-iv/
 [1512l]:https://leetcode.com/problems/number-of-good-pairs/
 [1513l]:https://leetcode.com/problems/number-of-substrings-with-only-1s/
 [1514l]:https://leetcode.com/problems/path-with-maximum-probability/

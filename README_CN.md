@@ -1008,6 +1008,7 @@
 [1507][1507l]|[转变日期格式][1507]                                      |![py]
 [1508][1508l]|[子数组和排序后的区间和][1508]                            |![rb]&nbsp;&nbsp;![rs]
 [1509][1509l]|[三次操作后最大值与最小值的最小差][1509]                  |![rb]
+[1510][1510l]|[石子游戏 IV][1510]                                       |![py]
 [1512][1512l]|[好数对的数目][1512]                                      |![rb]&nbsp;&nbsp;![rs]
 [1513][1513l]|[仅含 1 的子串数][1513]                                   |![rs]
 [1514][1514l]|[概率最大的路径][1514]                                    |![py]
@@ -2672,6 +2673,7 @@
 [1507]:Problemset/1507-Reformat%20Date/README_CN.md#1507-转变日期格式
 [1508]:Problemset/1508-Range%20Sum%20of%20Sorted%20Subarray%20Sums/README_CN.md#1508-子数组和排序后的区间和
 [1509]:Problemset/1509-Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/README_CN.md#1509-三次操作后最大值与最小值的最小差
+[1510]:Problemset/1510-Stone%20Game%20IV/README_CN.md#1510-石子游戏-iv
 [1512]:Problemset/1512-Number%20of%20Good%20Pairs/README_CN.md#1512-好数对的数目
 [1513]:Problemset/1513-Number%20of%20Substrings%20With%20Only%201s/README_CN.md#1513-仅含-1-的子串数
 [1514]:Problemset/1514-Path%20with%20Maximum%20Probability/README_CN.md#1514-概率最大的路径
@@ -4330,6 +4332,7 @@
 [1507l]:https://leetcode.cn/problems/reformat-date/
 [1508l]:https://leetcode.cn/problems/range-sum-of-sorted-subarray-sums/
 [1509l]:https://leetcode.cn/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
+[1510l]:https://leetcode.cn/problems/stone-game-iv/
 [1512l]:https://leetcode.cn/problems/number-of-good-pairs/
 [1513l]:https://leetcode.cn/problems/number-of-substrings-with-only-1s/
 [1514l]:https://leetcode.cn/problems/path-with-maximum-probability/
