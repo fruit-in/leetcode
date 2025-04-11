@@ -839,6 +839,7 @@
 [1275][1275l]|[找出井字棋的获胜者][1275]                                |![rs]
 [1276][1276l]|[不浪费原料的汉堡制作方案][1276]                          |![py]&nbsp;&nbsp;![rs]
 [1277][1277l]|[统计全为 1 的正方形子矩阵][1277]                         |![rs]
+[1278][1278l]|[分割回文串 III][1278]                                    |![py]
 [1281][1281l]|[整数的各位积和之差][1281]                                |![rs]
 [1282][1282l]|[用户分组][1282]                                          |![rs]
 [1283][1283l]|[使结果不超过阈值的最小除数][1283]                        |![py]
@@ -2501,6 +2502,7 @@
 [1275]:Problemset/1275-Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/README_CN.md#1275-找出井字棋的获胜者
 [1276]:Problemset/1276-Number%20of%20Burgers%20with%20No%20Waste%20of%20Ingredients/README_CN.md#1276-不浪费原料的汉堡制作方案
 [1277]:Problemset/1277-Count%20Square%20Submatrices%20with%20All%20Ones/README_CN.md#1277-统计全为-1-的正方形子矩阵
+[1278]:Problemset/1278-Palindrome%20Partitioning%20III/README_CN.md#1278-分割回文串-iii
 [1281]:Problemset/1281-Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/README_CN.md#1281-整数的各位积和之差
 [1282]:Problemset/1282-Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To/README_CN.md#1282-用户分组
 [1283]:Problemset/1283-Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold/README_CN.md#1283-使结果不超过阈值的最小除数
@@ -4157,6 +4159,7 @@
 [1275l]:https://leetcode.cn/problems/find-winner-on-a-tic-tac-toe-game/
 [1276l]:https://leetcode.cn/problems/number-of-burgers-with-no-waste-of-ingredients/
 [1277l]:https://leetcode.cn/problems/count-square-submatrices-with-all-ones/
+[1278l]:https://leetcode.cn/problems/palindrome-partitioning-iii/
 [1281l]:https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 [1282l]:https://leetcode.cn/problems/group-the-people-given-the-group-size-they-belong-to/
 [1283l]:https://leetcode.cn/problems/find-the-smallest-divisor-given-a-threshold/
