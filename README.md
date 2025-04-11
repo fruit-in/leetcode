@@ -1489,6 +1489,7 @@
 [2325][2325l]|[Decode the Message][2325]                                                            |![py]
 [2326][2326l]|[Spiral Matrix IV][2326]                                                              |![py]
 [2327][2327l]|[Number of People Aware of a Secret][2327]                                            |![py]
+[2328][2328l]|[Number of Increasing Paths in a Grid][2328]                                          |![rs]
 [2331][2331l]|[Evaluate Boolean Binary Tree][2331]                                                  |![py]
 [2332][2332l]|[The Latest Time to Catch a Bus][2332]                                                |![rs]
 [2334][2334l]|[Subarray With Elements Greater Than Varying Threshold][2334]                         |![rs]
@@ -3148,6 +3149,7 @@
 [2325]:Problemset/2325-Decode%20the%20Message/README.md#2325-decode-the-message
 [2326]:Problemset/2326-Spiral%20Matrix%20IV/README.md#2326-spiral-matrix-iv
 [2327]:Problemset/2327-Number%20of%20People%20Aware%20of%20a%20Secret/README.md#2327-number-of-people-aware-of-a-secret
+[2328]:Problemset/2328-Number%20of%20Increasing%20Paths%20in%20a%20Grid/README.md#2328-number-of-increasing-paths-in-a-grid
 [2331]:Problemset/2331-Evaluate%20Boolean%20Binary%20Tree/README.md#2331-evaluate-boolean-binary-tree
 [2332]:Problemset/2332-The%20Latest%20Time%20to%20Catch%20a%20Bus/README.md#2332-the-latest-time-to-catch-a-bus
 [2334]:Problemset/2334-Subarray%20With%20Elements%20Greater%20Than%20Varying%20Threshold/README.md#2334-subarray-with-elements-greater-than-varying-threshold
@@ -4801,6 +4803,7 @@
 [2325l]:https://leetcode.com/problems/decode-the-message/
 [2326l]:https://leetcode.com/problems/spiral-matrix-iv/
 [2327l]:https://leetcode.com/problems/number-of-people-aware-of-a-secret/
+[2328l]:https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
 [2331l]:https://leetcode.com/problems/evaluate-boolean-binary-tree/
 [2332l]:https://leetcode.com/problems/the-latest-time-to-catch-a-bus/
 [2334l]:https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/
