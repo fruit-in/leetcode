@@ -1634,6 +1634,7 @@
 [2568][2568l]|[最小无法得到的或值][2568]                                |![rs]
 [2570][2570l]|[合并两个二维数组 - 求和法][2570]                         |![rs]
 [2574][2574l]|[左右元素和的差值][2574]                                  |![rs]
+[2577][2577l]|[在网格图中访问一个格子的最少时间][2577]                  |![rs]
 [2578][2578l]|[最小和分割][2578]                                        |![py]
 [2579][2579l]|[统计染色格子数][2579]                                    |![rs]
 [2582][2582l]|[递枕头][2582]                                            |![rs]
@@ -3295,6 +3296,7 @@
 [2568]:Problemset/2568-Minimum%20Impossible%20OR/README_CN.md#2568-最小无法得到的或值
 [2570]:Problemset/2570-Merge%20Two%202D%20Arrays%20by%20Summing%20Values/README_CN.md#2570-合并两个二维数组---求和法
 [2574]:Problemset/2574-Left%20and%20Right%20Sum%20Differences/README_CN.md#2574-左右元素和的差值
+[2577]:Problemset/2577-Minimum%20Time%20to%20Visit%20a%20Cell%20In%20a%20Grid/README_CN.md#2577-在网格图中访问一个格子的最少时间
 [2578]:Problemset/2578-Split%20With%20Minimum%20Sum/README_CN.md#2578-最小和分割
 [2579]:Problemset/2579-Count%20Total%20Number%20of%20Colored%20Cells/README_CN.md#2579-统计染色格子数
 [2582]:Problemset/2582-Pass%20the%20Pillow/README_CN.md#2582-递枕头
@@ -4950,6 +4952,7 @@
 [2568l]:https://leetcode.cn/problems/minimum-impossible-or/
 [2570l]:https://leetcode.cn/problems/merge-two-2d-arrays-by-summing-values/
 [2574l]:https://leetcode.cn/problems/left-and-right-sum-differences/
+[2577l]:https://leetcode.cn/problems/minimum-time-to-visit-a-cell-in-a-grid/
 [2578l]:https://leetcode.cn/problems/split-with-minimum-sum/
 [2579l]:https://leetcode.cn/problems/count-total-number-of-colored-cells/
 [2582l]:https://leetcode.cn/problems/pass-the-pillow/
