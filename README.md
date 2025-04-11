@@ -1584,6 +1584,7 @@
 [2481][2481l]|[Minimum Cuts to Divide a Circle][2481]                                               |![rs]
 [2482][2482l]|[Difference Between Ones and Zeros in Row and Column][2482]                           |![rs]
 [2483][2483l]|[Minimum Penalty for a Shop][2483]                                                    |![rs]
+[2484][2484l]|[Count Palindromic Subsequences][2484]                                                |![rs]
 [2485][2485l]|[Find the Pivot Integer][2485]                                                        |![rs]
 [2486][2486l]|[Append Characters to String to Make Subsequence][2486]                               |![rs]
 [2487][2487l]|[Remove Nodes From Linked List][2487]                                                 |![py]
@@ -3244,6 +3245,7 @@
 [2481]:Problemset/2481-Minimum%20Cuts%20to%20Divide%20a%20Circle/README.md#2481-minimum-cuts-to-divide-a-circle
 [2482]:Problemset/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README.md#2482-difference-between-ones-and-zeros-in-row-and-column
 [2483]:Problemset/2483-Minimum%20Penalty%20for%20a%20Shop/README.md#2483-minimum-penalty-for-a-shop
+[2484]:Problemset/2484-Count%20Palindromic%20Subsequences/README.md#2484-count-palindromic-subsequences
 [2485]:Problemset/2485-Find%20the%20Pivot%20Integer/README.md#2485-find-the-pivot-integer
 [2486]:Problemset/2486-Append%20Characters%20to%20String%20to%20Make%20Subsequence/README.md#2486-append-characters-to-string-to-make-subsequence
 [2487]:Problemset/2487-Remove%20Nodes%20From%20Linked%20List/README.md#2487-remove-nodes-from-linked-list
@@ -4898,6 +4900,7 @@
 [2481l]:https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/
 [2482l]:https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
 [2483l]:https://leetcode.com/problems/minimum-penalty-for-a-shop/
+[2484l]:https://leetcode.com/problems/count-palindromic-subsequences/
 [2485l]:https://leetcode.com/problems/find-the-pivot-integer/
 [2486l]:https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/
 [2487l]:https://leetcode.com/problems/remove-nodes-from-linked-list/

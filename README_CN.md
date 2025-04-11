@@ -1584,6 +1584,7 @@
 [2481][2481l]|[分割圆的最少切割次数][2481]                              |![rs]
 [2482][2482l]|[行和列中一和零的差值][2482]                              |![rs]
 [2483][2483l]|[商店的最少代价][2483]                                    |![rs]
+[2484][2484l]|[统计回文子序列数目][2484]                                |![rs]
 [2485][2485l]|[找出中枢整数][2485]                                      |![rs]
 [2486][2486l]|[追加字符以获得子序列][2486]                              |![rs]
 [2487][2487l]|[从链表中移除节点][2487]                                  |![py]
@@ -3244,6 +3245,7 @@
 [2481]:Problemset/2481-Minimum%20Cuts%20to%20Divide%20a%20Circle/README_CN.md#2481-分割圆的最少切割次数
 [2482]:Problemset/2482-Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column/README_CN.md#2482-行和列中一和零的差值
 [2483]:Problemset/2483-Minimum%20Penalty%20for%20a%20Shop/README_CN.md#2483-商店的最少代价
+[2484]:Problemset/2484-Count%20Palindromic%20Subsequences/README_CN.md#2484-统计回文子序列数目
 [2485]:Problemset/2485-Find%20the%20Pivot%20Integer/README_CN.md#2485-找出中枢整数
 [2486]:Problemset/2486-Append%20Characters%20to%20String%20to%20Make%20Subsequence/README_CN.md#2486-追加字符以获得子序列
 [2487]:Problemset/2487-Remove%20Nodes%20From%20Linked%20List/README_CN.md#2487-从链表中移除节点
@@ -4898,6 +4900,7 @@
 [2481l]:https://leetcode.cn/problems/minimum-cuts-to-divide-a-circle/
 [2482l]:https://leetcode.cn/problems/difference-between-ones-and-zeros-in-row-and-column/
 [2483l]:https://leetcode.cn/problems/minimum-penalty-for-a-shop/
+[2484l]:https://leetcode.cn/problems/count-palindromic-subsequences/
 [2485l]:https://leetcode.cn/problems/find-the-pivot-integer/
 [2486l]:https://leetcode.cn/problems/append-characters-to-string-to-make-subsequence/
 [2487l]:https://leetcode.cn/problems/remove-nodes-from-linked-list/
