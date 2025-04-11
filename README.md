@@ -1451,6 +1451,7 @@
 [2264][2264l]|[Largest 3-Same-Digit Number in String][2264]                                         |![rs]
 [2265][2265l]|[Count Nodes Equal to Average of Subtree][2265]                                       |![py]
 [2266][2266l]|[Count Number of Texts][2266]                                                         |![py]
+[2267][2267l]|[Check if There Is a Valid Parentheses String Path][2267]                             |![rs]
 [2269][2269l]|[Find the K-Beauty of a Number][2269]                                                 |![py]
 [2270][2270l]|[Number of Ways to Split Array][2270]                                                 |![rs]
 [2271][2271l]|[Maximum White Tiles Covered by a Carpet][2271]                                       |![rs]
@@ -3109,6 +3110,7 @@
 [2264]:Problemset/2264-Largest%203-Same-Digit%20Number%20in%20String/README.md#2264-largest-3-same-digit-number-in-string
 [2265]:Problemset/2265-Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/README.md#2265-count-nodes-equal-to-average-of-subtree
 [2266]:Problemset/2266-Count%20Number%20of%20Texts/README.md#2266-count-number-of-texts
+[2267]:Problemset/2267-Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path/README.md#2267-check-if-there-is-a-valid-parentheses-string-path
 [2269]:Problemset/2269-Find%20the%20K-Beauty%20of%20a%20Number/README.md#2269-find-the-k-beauty-of-a-number
 [2270]:Problemset/2270-Number%20of%20Ways%20to%20Split%20Array/README.md#2270-number-of-ways-to-split-array
 [2271]:Problemset/2271-Maximum%20White%20Tiles%20Covered%20by%20a%20Carpet/README.md#2271-maximum-white-tiles-covered-by-a-carpet
@@ -4761,6 +4763,7 @@
 [2264l]:https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 [2265l]:https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
 [2266l]:https://leetcode.com/problems/count-number-of-texts/
+[2267l]:https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/
 [2269l]:https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 [2270l]:https://leetcode.com/problems/number-of-ways-to-split-array/
 [2271l]:https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/

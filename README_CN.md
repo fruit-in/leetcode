@@ -1451,6 +1451,7 @@
 [2264][2264l]|[字符串中最大的 3 位相同数字][2264]                       |![rs]
 [2265][2265l]|[统计值等于子树平均值的节点数][2265]                      |![py]
 [2266][2266l]|[统计打字方案数][2266]                                    |![py]
+[2267][2267l]|[检查是否有合法括号字符串路径][2267]                      |![rs]
 [2269][2269l]|[找到一个数字的 K 美丽值][2269]                           |![py]
 [2270][2270l]|[分割数组的方案数][2270]                                  |![rs]
 [2271][2271l]|[毯子覆盖的最多白色砖块数][2271]                          |![rs]
@@ -3109,6 +3110,7 @@
 [2264]:Problemset/2264-Largest%203-Same-Digit%20Number%20in%20String/README_CN.md#2264-字符串中最大的-3-位相同数字
 [2265]:Problemset/2265-Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/README_CN.md#2265-统计值等于子树平均值的节点数
 [2266]:Problemset/2266-Count%20Number%20of%20Texts/README_CN.md#2266-统计打字方案数
+[2267]:Problemset/2267-Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path/README_CN.md#2267-检查是否有合法括号字符串路径
 [2269]:Problemset/2269-Find%20the%20K-Beauty%20of%20a%20Number/README_CN.md#2269-找到一个数字的-k-美丽值
 [2270]:Problemset/2270-Number%20of%20Ways%20to%20Split%20Array/README_CN.md#2270-分割数组的方案数
 [2271]:Problemset/2271-Maximum%20White%20Tiles%20Covered%20by%20a%20Carpet/README_CN.md#2271-毯子覆盖的最多白色砖块数
@@ -4761,6 +4763,7 @@
 [2264l]:https://leetcode.cn/problems/largest-3-same-digit-number-in-string/
 [2265l]:https://leetcode.cn/problems/count-nodes-equal-to-average-of-subtree/
 [2266l]:https://leetcode.cn/problems/count-number-of-texts/
+[2267l]:https://leetcode.cn/problems/check-if-there-is-a-valid-parentheses-string-path/
 [2269l]:https://leetcode.cn/problems/find-the-k-beauty-of-a-number/
 [2270l]:https://leetcode.cn/problems/number-of-ways-to-split-array/
 [2271l]:https://leetcode.cn/problems/maximum-white-tiles-covered-by-a-carpet/
