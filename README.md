@@ -938,6 +938,7 @@
 [1403][1403l]|[Minimum Subsequence in Non-Increasing Order][1403]                                   |![rs]
 [1404][1404l]|[Number of Steps to Reduce a Number in Binary Representation to One][1404]            |![rs]
 [1405][1405l]|[Longest Happy String][1405]                                                          |![rs]
+[1406][1406l]|[Stone Game III][1406]                                                                |![py]
 [1408][1408l]|[String Matching in an Array][1408]                                                   |![rs]
 [1409][1409l]|[Queries on a Permutation With Key][1409]                                             |![rb]&nbsp;&nbsp;![rs]&nbsp;&nbsp;![kt]
 [1410][1410l]|[HTML Entity Parser][1410]                                                            |![rs]
@@ -2601,6 +2602,7 @@
 [1403]:Problemset/1403-Minimum%20Subsequence%20in%20Non-Increasing%20Order/README.md#1403-minimum-subsequence-in-non-increasing-order
 [1404]:Problemset/1404-Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/README.md#1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one
 [1405]:Problemset/1405-Longest%20Happy%20String/README.md#1405-longest-happy-string
+[1406]:Problemset/1406-Stone%20Game%20III/README.md#1406-stone-game-iii
 [1408]:Problemset/1408-String%20Matching%20in%20an%20Array/README.md#1408-string-matching-in-an-array
 [1409]:Problemset/1409-Queries%20on%20a%20Permutation%20With%20Key/README.md#1409-queries-on-a-permutation-with-key
 [1410]:Problemset/1410-HTML%20Entity%20Parser/README.md#1410-html-entity-parser
@@ -4258,6 +4260,7 @@
 [1403l]:https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
 [1404l]:https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
 [1405l]:https://leetcode.com/problems/longest-happy-string/
+[1406l]:https://leetcode.com/problems/stone-game-iii/
 [1408l]:https://leetcode.com/problems/string-matching-in-an-array/
 [1409l]:https://leetcode.com/problems/queries-on-a-permutation-with-key/
 [1410l]:https://leetcode.com/problems/html-entity-parser/

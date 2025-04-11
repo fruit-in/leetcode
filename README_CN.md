@@ -938,6 +938,7 @@
 [1403][1403l]|[非递增顺序的最小子序列][1403]                            |![rs]
 [1404][1404l]|[将二进制表示减到 1 的步骤数][1404]                       |![rs]
 [1405][1405l]|[最长快乐字符串][1405]                                    |![rs]
+[1406][1406l]|[石子游戏 III][1406]                                      |![py]
 [1408][1408l]|[数组中的字符串匹配][1408]                                |![rs]
 [1409][1409l]|[查询带键的排列][1409]                                    |![rb]&nbsp;&nbsp;![rs]&nbsp;&nbsp;![kt]
 [1410][1410l]|[HTML 实体解析器][1410]                                   |![rs]
@@ -2601,6 +2602,7 @@
 [1403]:Problemset/1403-Minimum%20Subsequence%20in%20Non-Increasing%20Order/README_CN.md#1403-非递增顺序的最小子序列
 [1404]:Problemset/1404-Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/README_CN.md#1404-将二进制表示减到-1-的步骤数
 [1405]:Problemset/1405-Longest%20Happy%20String/README_CN.md#1405-最长快乐字符串
+[1406]:Problemset/1406-Stone%20Game%20III/README_CN.md#1406-石子游戏-iii
 [1408]:Problemset/1408-String%20Matching%20in%20an%20Array/README_CN.md#1408-数组中的字符串匹配
 [1409]:Problemset/1409-Queries%20on%20a%20Permutation%20With%20Key/README_CN.md#1409-查询带键的排列
 [1410]:Problemset/1410-HTML%20Entity%20Parser/README_CN.md#1410-html-实体解析器
@@ -4258,6 +4260,7 @@
 [1403l]:https://leetcode.cn/problems/minimum-subsequence-in-non-increasing-order/
 [1404l]:https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
 [1405l]:https://leetcode.cn/problems/longest-happy-string/
+[1406l]:https://leetcode.cn/problems/stone-game-iii/
 [1408l]:https://leetcode.cn/problems/string-matching-in-an-array/
 [1409l]:https://leetcode.cn/problems/queries-on-a-permutation-with-key/
 [1410l]:https://leetcode.cn/problems/html-entity-parser/
