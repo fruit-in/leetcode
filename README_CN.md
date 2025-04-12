@@ -1174,6 +1174,7 @@
 [1805][1805l]|[字符串中不同整数的数目][1805]                            |![rs]
 [1806][1806l]|[还原排列的最少操作步数][1806]                            |![rs]
 [1807][1807l]|[替换字符串中的括号内容][1807]                            |![py]
+[1808][1808l]|[好因子的最大数目][1808]                                  |![py]
 [1812][1812l]|[判断国际象棋棋盘中一个格子的颜色][1812]                  |![py]&nbsp;&nbsp;![rb]
 [1813][1813l]|[句子相似性 III][1813]                                    |![rs]
 [1814][1814l]|[统计一个数组中好对子的数目][1814]                        |![rs]
@@ -2839,6 +2840,7 @@
 [1805]:Problemset/1805-Number%20of%20Different%20Integers%20in%20a%20String/README_CN.md#1805-字符串中不同整数的数目
 [1806]:Problemset/1806-Minimum%20Number%20of%20Operations%20to%20Reinitialize%20a%20Permutation/README_CN.md#1806-还原排列的最少操作步数
 [1807]:Problemset/1807-Evaluate%20the%20Bracket%20Pairs%20of%20a%20String/README_CN.md#1807-替换字符串中的括号内容
+[1808]:Problemset/1808-Maximize%20Number%20of%20Nice%20Divisors/README_CN.md#1808-好因子的最大数目
 [1812]:Problemset/1812-Determine%20Color%20of%20a%20Chessboard%20Square/README_CN.md#1812-判断国际象棋棋盘中一个格子的颜色
 [1813]:Problemset/1813-Sentence%20Similarity%20III/README_CN.md#1813-句子相似性-iii
 [1814]:Problemset/1814-Count%20Nice%20Pairs%20in%20an%20Array/README_CN.md#1814-统计一个数组中好对子的数目
@@ -4498,6 +4500,7 @@
 [1805l]:https://leetcode.cn/problems/number-of-different-integers-in-a-string/
 [1806l]:https://leetcode.cn/problems/minimum-number-of-operations-to-reinitialize-a-permutation/
 [1807l]:https://leetcode.cn/problems/evaluate-the-bracket-pairs-of-a-string/
+[1808l]:https://leetcode.cn/problems/maximize-number-of-nice-divisors/
 [1812l]:https://leetcode.cn/problems/determine-color-of-a-chessboard-square/
 [1813l]:https://leetcode.cn/problems/sentence-similarity-iii/
 [1814l]:https://leetcode.cn/problems/count-nice-pairs-in-an-array/

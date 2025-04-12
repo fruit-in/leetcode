@@ -1174,6 +1174,7 @@
 [1805][1805l]|[Number of Different Integers in a String][1805]                                      |![rs]
 [1806][1806l]|[Minimum Number of Operations to Reinitialize a Permutation][1806]                    |![rs]
 [1807][1807l]|[Evaluate the Bracket Pairs of a String][1807]                                        |![py]
+[1808][1808l]|[Maximize Number of Nice Divisors][1808]                                              |![py]
 [1812][1812l]|[Determine Color of a Chessboard Square][1812]                                        |![py]&nbsp;&nbsp;![rb]
 [1813][1813l]|[Sentence Similarity III][1813]                                                       |![rs]
 [1814][1814l]|[Count Nice Pairs in an Array][1814]                                                  |![rs]
@@ -2839,6 +2840,7 @@
 [1805]:Problemset/1805-Number%20of%20Different%20Integers%20in%20a%20String/README.md#1805-number-of-different-integers-in-a-string
 [1806]:Problemset/1806-Minimum%20Number%20of%20Operations%20to%20Reinitialize%20a%20Permutation/README.md#1806-minimum-number-of-operations-to-reinitialize-a-permutation
 [1807]:Problemset/1807-Evaluate%20the%20Bracket%20Pairs%20of%20a%20String/README.md#1807-evaluate-the-bracket-pairs-of-a-string
+[1808]:Problemset/1808-Maximize%20Number%20of%20Nice%20Divisors/README.md#1808-maximize-number-of-nice-divisors
 [1812]:Problemset/1812-Determine%20Color%20of%20a%20Chessboard%20Square/README.md#1812-determine-color-of-a-chessboard-square
 [1813]:Problemset/1813-Sentence%20Similarity%20III/README.md#1813-sentence-similarity-iii
 [1814]:Problemset/1814-Count%20Nice%20Pairs%20in%20an%20Array/README.md#1814-count-nice-pairs-in-an-array
@@ -4498,6 +4500,7 @@
 [1805l]:https://leetcode.com/problems/number-of-different-integers-in-a-string/
 [1806l]:https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/
 [1807l]:https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
+[1808l]:https://leetcode.com/problems/maximize-number-of-nice-divisors/
 [1812l]:https://leetcode.com/problems/determine-color-of-a-chessboard-square/
 [1813l]:https://leetcode.com/problems/sentence-similarity-iii/
 [1814l]:https://leetcode.com/problems/count-nice-pairs-in-an-array/
