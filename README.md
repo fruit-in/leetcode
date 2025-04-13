@@ -1546,6 +1546,7 @@
 [2413][2413l]|[Smallest Even Multiple][2413]                                                        |![rs]
 [2414][2414l]|[Length of the Longest Alphabetical Continuous Substring][2414]                       |![rs]
 [2415][2415l]|[Reverse Odd Levels of Binary Tree][2415]                                             |![py]
+[2416][2416l]|[Sum of Prefix Scores of Strings][2416]                                               |![py]
 [2418][2418l]|[Sort the People][2418]                                                               |![rs]
 [2419][2419l]|[Longest Subarray With Maximum Bitwise AND][2419]                                     |![rs]
 [2420][2420l]|[Find All Good Indices][2420]                                                         |![rs]
@@ -3213,6 +3214,7 @@
 [2413]:Problemset/2413-Smallest%20Even%20Multiple/README.md#2413-smallest-even-multiple
 [2414]:Problemset/2414-Length%20of%20the%20Longest%20Alphabetical%20Continuous%20Substring/README.md#2414-length-of-the-longest-alphabetical-continuous-substring
 [2415]:Problemset/2415-Reverse%20Odd%20Levels%20of%20Binary%20Tree/README.md#2415-reverse-odd-levels-of-binary-tree
+[2416]:Problemset/2416-Sum%20of%20Prefix%20Scores%20of%20Strings/README.md#2416-sum-of-prefix-scores-of-strings
 [2418]:Problemset/2418-Sort%20the%20People/README.md#2418-sort-the-people
 [2419]:Problemset/2419-Longest%20Subarray%20With%20Maximum%20Bitwise%20AND/README.md#2419-longest-subarray-with-maximum-bitwise-and
 [2420]:Problemset/2420-Find%20All%20Good%20Indices/README.md#2420-find-all-good-indices
@@ -4874,6 +4876,7 @@
 [2413l]:https://leetcode.com/problems/smallest-even-multiple/
 [2414l]:https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 [2415l]:https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/
+[2416l]:https://leetcode.com/problems/sum-of-prefix-scores-of-strings/
 [2418l]:https://leetcode.com/problems/sort-the-people/
 [2419l]:https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/
 [2420l]:https://leetcode.com/problems/find-all-good-indices/
