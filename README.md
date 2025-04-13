@@ -1523,6 +1523,7 @@
 [2375][2375l]|[Construct Smallest Number From DI String][2375]                                      |![rs]
 [2379][2379l]|[Minimum Recolors to Get K Consecutive Black Blocks][2379]                            |![rs]
 [2381][2381l]|[Shifting Letters II][2381]                                                           |![rs]
+[2382][2382l]|[Maximum Segment Sum After Removals][2382]                                            |![py]
 [2383][2383l]|[Minimum Hours of Training to Win a Competition][2383]                                |![rs]
 [2384][2384l]|[Largest Palindromic Number][2384]                                                    |![rs]
 [2385][2385l]|[Amount of Time for Binary Tree to Be Infected][2385]                                 |![py]
@@ -3189,6 +3190,7 @@
 [2375]:Problemset/2375-Construct%20Smallest%20Number%20From%20DI%20String/README.md#2375-construct-smallest-number-from-di-string
 [2379]:Problemset/2379-Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/README.md#2379-minimum-recolors-to-get-k-consecutive-black-blocks
 [2381]:Problemset/2381-Shifting%20Letters%20II/README.md#2381-shifting-letters-ii
+[2382]:Problemset/2382-Maximum%20Segment%20Sum%20After%20Removals/README.md#2382-maximum-segment-sum-after-removals
 [2383]:Problemset/2383-Minimum%20Hours%20of%20Training%20to%20Win%20a%20Competition/README.md#2383-minimum-hours-of-training-to-win-a-competition
 [2384]:Problemset/2384-Largest%20Palindromic%20Number/README.md#2384-largest-palindromic-number
 [2385]:Problemset/2385-Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected/README.md#2385-amount-of-time-for-binary-tree-to-be-infected
@@ -4849,6 +4851,7 @@
 [2375l]:https://leetcode.com/problems/construct-smallest-number-from-di-string/
 [2379l]:https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 [2381l]:https://leetcode.com/problems/shifting-letters-ii/
+[2382l]:https://leetcode.com/problems/maximum-segment-sum-after-removals/
 [2383l]:https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/
 [2384l]:https://leetcode.com/problems/largest-palindromic-number/
 [2385l]:https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/
