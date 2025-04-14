@@ -1038,6 +1038,7 @@
 [1560][1560l]|[圆形赛道上经过次数最多的扇区][1560]                      |![rs]
 [1561][1561l]|[你可以获得的最大硬币数目][1561]                          |![rs]
 [1562][1562l]|[查找大小为 M 的最新分组][1562]                           |![py]
+[1563][1563l]|[石子游戏 V][1563]                                        |![rs]
 [1566][1566l]|[重复至少 K 次且长度为 M 的模式][1566]                    |![rs]
 [1567][1567l]|[乘积为正数的最长子数组长度][1567]                        |![rs]
 [1572][1572l]|[矩阵对角线元素的和][1572]                                |![rs]
@@ -2706,6 +2707,7 @@
 [1560]:Problemset/1560-Most%20Visited%20Sector%20in%20a%20Circular%20Track/README_CN.md#1560-圆形赛道上经过次数最多的扇区
 [1561]:Problemset/1561-Maximum%20Number%20of%20Coins%20You%20Can%20Get/README_CN.md#1561-你可以获得的最大硬币数目
 [1562]:Problemset/1562-Find%20Latest%20Group%20of%20Size%20M/README_CN.md#1562-查找大小为-m-的最新分组
+[1563]:Problemset/1563-Stone%20Game%20V/README_CN.md#1563-石子游戏-v
 [1566]:Problemset/1566-Detect%20Pattern%20of%20Length%20M%20Repeated%20K%20or%20More%20Times/README_CN.md#1566-重复至少-k-次且长度为-m-的模式
 [1567]:Problemset/1567-Maximum%20Length%20of%20Subarray%20With%20Positive%20Product/README_CN.md#1567-乘积为正数的最长子数组长度
 [1572]:Problemset/1572-Matrix%20Diagonal%20Sum/README_CN.md#1572-矩阵对角线元素的和
@@ -4368,6 +4370,7 @@
 [1560l]:https://leetcode.cn/problems/most-visited-sector-in-a-circular-track/
 [1561l]:https://leetcode.cn/problems/maximum-number-of-coins-you-can-get/
 [1562l]:https://leetcode.cn/problems/find-latest-group-of-size-m/
+[1563l]:https://leetcode.cn/problems/stone-game-v/
 [1566l]:https://leetcode.cn/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
 [1567l]:https://leetcode.cn/problems/maximum-length-of-subarray-with-positive-product/
 [1572l]:https://leetcode.cn/problems/matrix-diagonal-sum/
