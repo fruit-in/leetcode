@@ -1413,6 +1413,7 @@
 [2194][2194l]|[Cells in a Range on an Excel Sheet][2194]                                            |![rs]
 [2195][2195l]|[Append K Integers With Minimal Sum][2195]                                            |![rs]
 [2196][2196l]|[Create Binary Tree From Descriptions][2196]                                          |![py]
+[2197][2197l]|[Replace Non-Coprime Numbers in Array][2197]                                          |![py]
 [2200][2200l]|[Find All K-Distant Indices in an Array][2200]                                        |![rs]
 [2201][2201l]|[Count Artifacts That Can Be Extracted][2201]                                         |![rs]
 [2202][2202l]|[Maximize the Topmost Element After K Moves][2202]                                    |![rs]
@@ -3084,6 +3085,7 @@
 [2194]:Problemset/2194-Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet/README.md#2194-cells-in-a-range-on-an-excel-sheet
 [2195]:Problemset/2195-Append%20K%20Integers%20With%20Minimal%20Sum/README.md#2195-append-k-integers-with-minimal-sum
 [2196]:Problemset/2196-Create%20Binary%20Tree%20From%20Descriptions/README.md#2196-create-binary-tree-from-descriptions
+[2197]:Problemset/2197-Replace%20Non-Coprime%20Numbers%20in%20Array/README.md#2197-replace-non-coprime-numbers-in-array
 [2200]:Problemset/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README.md#2200-find-all-k-distant-indices-in-an-array
 [2201]:Problemset/2201-Count%20Artifacts%20That%20Can%20Be%20Extracted/README.md#2201-count-artifacts-that-can-be-extracted
 [2202]:Problemset/2202-Maximize%20the%20Topmost%20Element%20After%20K%20Moves/README.md#2202-maximize-the-topmost-element-after-k-moves
@@ -4749,6 +4751,7 @@
 [2194l]:https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
 [2195l]:https://leetcode.com/problems/append-k-integers-with-minimal-sum/
 [2196l]:https://leetcode.com/problems/create-binary-tree-from-descriptions/
+[2197l]:https://leetcode.com/problems/replace-non-coprime-numbers-in-array/
 [2200l]:https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 [2201l]:https://leetcode.com/problems/count-artifacts-that-can-be-extracted/
 [2202l]:https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
