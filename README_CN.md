@@ -1310,6 +1310,7 @@
 [2037][2037l]|[使每位学生都有座位的最少移动次数][2037]                  |![rs]
 [2038][2038l]|[如果相邻两个颜色均相同则删除当前颜色][2038]              |![rs]
 [2039][2039l]|[网络空闲的时刻][2039]                                    |![rs]
+[2040][2040l]|[两个有序数组的第 K 小乘积][2040]                         |![py]
 [2042][2042l]|[检查句子中的数字是否递增][2042]                          |![py]
 [2043][2043l]|[简易银行系统][2043]                                      |![py]
 [2044][2044l]|[统计按位或能得到最大值的子集数目][2044]                  |![rs]
@@ -2985,6 +2986,7 @@
 [2037]:Problemset/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README_CN.md#2037-使每位学生都有座位的最少移动次数
 [2038]:Problemset/2038-Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/README_CN.md#2038-如果相邻两个颜色均相同则删除当前颜色
 [2039]:Problemset/2039-The%20Time%20When%20the%20Network%20Becomes%20Idle/README_CN.md#2039-网络空闲的时刻
+[2040]:Problemset/2040-Kth%20Smallest%20Product%20of%20Two%20Sorted%20Arrays/README_CN.md#2040-两个有序数组的第-k-小乘积
 [2042]:Problemset/2042-Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/README_CN.md#2042-检查句子中的数字是否递增
 [2043]:Problemset/2043-Simple%20Bank%20System/README_CN.md#2043-简易银行系统
 [2044]:Problemset/2044-Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/README_CN.md#2044-统计按位或能得到最大值的子集数目
@@ -4654,6 +4656,7 @@
 [2037l]:https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone/
 [2038l]:https://leetcode.cn/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
 [2039l]:https://leetcode.cn/problems/the-time-when-the-network-becomes-idle/
+[2040l]:https://leetcode.cn/problems/kth-smallest-product-of-two-sorted-arrays/
 [2042l]:https://leetcode.cn/problems/check-if-numbers-are-ascending-in-a-sentence/
 [2043l]:https://leetcode.cn/problems/simple-bank-system/
 [2044l]:https://leetcode.cn/problems/count-number-of-maximum-bitwise-or-subsets/
