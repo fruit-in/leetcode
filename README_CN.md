@@ -1454,6 +1454,7 @@
 [2255][2255l]|[统计是给定字符串前缀的字符串数目][2255]                  |![rs]
 [2256][2256l]|[最小平均差][2256]                                        |![rs]
 [2257][2257l]|[统计网格图中没有被保卫的格子数][2257]                    |![rs]
+[2258][2258l]|[逃离火灾][2258]                                          |![rs]
 [2259][2259l]|[移除指定数字得到的最大结果][2259]                        |![py]
 [2260][2260l]|[必须拿起的最小连续卡牌数][2260]                          |![rs]
 [2262][2262l]|[字符串的总引力][2262]                                    |![rs]
@@ -3128,6 +3129,7 @@
 [2255]:Problemset/2255-Count%20Prefixes%20of%20a%20Given%20String/README_CN.md#2255-统计是给定字符串前缀的字符串数目
 [2256]:Problemset/2256-Minimum%20Average%20Difference/README_CN.md#2256-最小平均差
 [2257]:Problemset/2257-Count%20Unguarded%20Cells%20in%20the%20Grid/README_CN.md#2257-统计网格图中没有被保卫的格子数
+[2258]:Problemset/2258-Escape%20the%20Spreading%20Fire/README_CN.md#2258-逃离火灾
 [2259]:Problemset/2259-Remove%20Digit%20From%20Number%20to%20Maximize%20Result/README_CN.md#2259-移除指定数字得到的最大结果
 [2260]:Problemset/2260-Minimum%20Consecutive%20Cards%20to%20Pick%20Up/README_CN.md#2260-必须拿起的最小连续卡牌数
 [2262]:Problemset/2262-Total%20Appeal%20of%20A%20String/README_CN.md#2262-字符串的总引力
@@ -4796,6 +4798,7 @@
 [2255l]:https://leetcode.cn/problems/count-prefixes-of-a-given-string/
 [2256l]:https://leetcode.cn/problems/minimum-average-difference/
 [2257l]:https://leetcode.cn/problems/count-unguarded-cells-in-the-grid/
+[2258l]:https://leetcode.cn/problems/escape-the-spreading-fire/
 [2259l]:https://leetcode.cn/problems/remove-digit-from-number-to-maximize-result/
 [2260l]:https://leetcode.cn/problems/minimum-consecutive-cards-to-pick-up/
 [2262l]:https://leetcode.cn/problems/total-appeal-of-a-string/
