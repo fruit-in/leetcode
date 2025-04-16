@@ -1232,6 +1232,7 @@
 [1886][1886l]|[判断矩阵经轮转后是否一致][1886]                          |![rs]
 [1887][1887l]|[使数组元素相等的减少操作次数][1887]                      |![rs]
 [1888][1888l]|[使二进制字符串字符交替的最少反转次数][1888]              |![rs]
+[1889][1889l]|[装包裹的最小浪费空间][1889]                              |![py]
 [1893][1893l]|[检查是否区域内所有整数都被覆盖][1893]                    |![py]
 [1894][1894l]|[找到需要补充粉笔的学生编号][1894]                        |![rs]
 [1897][1897l]|[重新分配字符使所有字符串都相等][1897]                    |![rs]
@@ -2908,6 +2909,7 @@
 [1886]:Problemset/1886-Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/README_CN.md#1886-判断矩阵经轮转后是否一致
 [1887]:Problemset/1887-Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal/README_CN.md#1887-使数组元素相等的减少操作次数
 [1888]:Problemset/1888-Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/README_CN.md#1888-使二进制字符串字符交替的最少反转次数
+[1889]:Problemset/1889-Minimum%20Space%20Wasted%20From%20Packaging/README_CN.md#1889-装包裹的最小浪费空间
 [1893]:Problemset/1893-Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered/README_CN.md#1893-检查是否区域内所有整数都被覆盖
 [1894]:Problemset/1894-Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/README_CN.md#1894-找到需要补充粉笔的学生编号
 [1897]:Problemset/1897-Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/README_CN.md#1897-重新分配字符使所有字符串都相等
@@ -4578,6 +4580,7 @@
 [1886l]:https://leetcode.cn/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 [1887l]:https://leetcode.cn/problems/reduction-operations-to-make-the-array-elements-equal/
 [1888l]:https://leetcode.cn/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/
+[1889l]:https://leetcode.cn/problems/minimum-space-wasted-from-packaging/
 [1893l]:https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/
 [1894l]:https://leetcode.cn/problems/find-the-student-that-will-replace-the-chalk/
 [1897l]:https://leetcode.cn/problems/redistribute-characters-to-make-all-strings-equal/

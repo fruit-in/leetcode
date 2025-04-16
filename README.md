@@ -1232,6 +1232,7 @@
 [1886][1886l]|[Determine Whether Matrix Can Be Obtained By Rotation][1886]                          |![rs]
 [1887][1887l]|[Reduction Operations to Make the Array Elements Equal][1887]                         |![rs]
 [1888][1888l]|[Minimum Number of Flips to Make the Binary String Alternating][1888]                 |![rs]
+[1889][1889l]|[Minimum Space Wasted From Packaging][1889]                                           |![py]
 [1893][1893l]|[Check if All the Integers in a Range Are Covered][1893]                              |![py]
 [1894][1894l]|[Find the Student that Will Replace the Chalk][1894]                                  |![rs]
 [1897][1897l]|[Redistribute Characters to Make All Strings Equal][1897]                             |![rs]
@@ -2908,6 +2909,7 @@
 [1886]:Problemset/1886-Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/README.md#1886-determine-whether-matrix-can-be-obtained-by-rotation
 [1887]:Problemset/1887-Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal/README.md#1887-reduction-operations-to-make-the-array-elements-equal
 [1888]:Problemset/1888-Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/README.md#1888-minimum-number-of-flips-to-make-the-binary-string-alternating
+[1889]:Problemset/1889-Minimum%20Space%20Wasted%20From%20Packaging/README.md#1889-minimum-space-wasted-from-packaging
 [1893]:Problemset/1893-Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered/README.md#1893-check-if-all-the-integers-in-a-range-are-covered
 [1894]:Problemset/1894-Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/README.md#1894-find-the-student-that-will-replace-the-chalk
 [1897]:Problemset/1897-Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/README.md#1897-redistribute-characters-to-make-all-strings-equal
@@ -4578,6 +4580,7 @@
 [1886l]:https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 [1887l]:https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
 [1888l]:https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/
+[1889l]:https://leetcode.com/problems/minimum-space-wasted-from-packaging/
 [1893l]:https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 [1894l]:https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/
 [1897l]:https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
