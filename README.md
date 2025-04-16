@@ -189,6 +189,7 @@
 [221][221l]  |[Maximal Square][221]                                                                 |![rs]
 [222][222l]  |[Count Complete Tree Nodes][222]                                                      |![py]
 [223][223l]  |[Rectangle Area][223]                                                                 |![rb]&nbsp;&nbsp;![rs]
+[224][224l]  |[Basic Calculator][224]                                                               |![py]
 [225][225l]  |[Implement Stack using Queues][225]                                                   |![rs]
 [226][226l]  |[Invert Binary Tree][226]                                                             |![py]
 [227][227l]  |[Basic Calculator II][227]                                                            |![py]
@@ -1868,6 +1869,7 @@
 [221]:Problemset/0221-Maximal%20Square/README.md#221-maximal-square
 [222]:Problemset/0222-Count%20Complete%20Tree%20Nodes/README.md#222-count-complete-tree-nodes
 [223]:Problemset/0223-Rectangle%20Area/README.md#223-rectangle-area
+[224]:Problemset/0224-Basic%20Calculator/README.md#224-basic-calculator
 [225]:Problemset/0225-Implement%20Stack%20using%20Queues/README.md#225-implement-stack-using-queues
 [226]:Problemset/0226-Invert%20Binary%20Tree/README.md#226-invert-binary-tree
 [227]:Problemset/0227-Basic%20Calculator%20II/README.md#227-basic-calculator-ii
@@ -3540,6 +3542,7 @@
 [221l]:https://leetcode.com/problems/maximal-square/
 [222l]:https://leetcode.com/problems/count-complete-tree-nodes/
 [223l]:https://leetcode.com/problems/rectangle-area/
+[224l]:https://leetcode.com/problems/basic-calculator/
 [225l]:https://leetcode.com/problems/implement-stack-using-queues/
 [226l]:https://leetcode.com/problems/invert-binary-tree/
 [227l]:https://leetcode.com/problems/basic-calculator-ii/

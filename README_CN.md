@@ -189,6 +189,7 @@
 [221][221l]  |[最大正方形][221]                                         |![rs]
 [222][222l]  |[完全二叉树的节点个数][222]                               |![py]
 [223][223l]  |[矩形面积][223]                                           |![rb]&nbsp;&nbsp;![rs]
+[224][224l]  |[基本计算器][224]                                         |![py]
 [225][225l]  |[用队列实现栈][225]                                       |![rs]
 [226][226l]  |[翻转二叉树][226]                                         |![py]
 [227][227l]  |[基本计算器 II][227]                                      |![py]
@@ -1868,6 +1869,7 @@
 [221]:Problemset/0221-Maximal%20Square/README_CN.md#221-最大正方形
 [222]:Problemset/0222-Count%20Complete%20Tree%20Nodes/README_CN.md#222-完全二叉树的节点个数
 [223]:Problemset/0223-Rectangle%20Area/README_CN.md#223-矩形面积
+[224]:Problemset/0224-Basic%20Calculator/README_CN.md#224-基本计算器
 [225]:Problemset/0225-Implement%20Stack%20using%20Queues/README_CN.md#225-用队列实现栈
 [226]:Problemset/0226-Invert%20Binary%20Tree/README_CN.md#226-翻转二叉树
 [227]:Problemset/0227-Basic%20Calculator%20II/README_CN.md#227-基本计算器-ii
@@ -3540,6 +3542,7 @@
 [221l]:https://leetcode.cn/problems/maximal-square/
 [222l]:https://leetcode.cn/problems/count-complete-tree-nodes/
 [223l]:https://leetcode.cn/problems/rectangle-area/
+[224l]:https://leetcode.cn/problems/basic-calculator/
 [225l]:https://leetcode.cn/problems/implement-stack-using-queues/
 [226l]:https://leetcode.cn/problems/invert-binary-tree/
 [227l]:https://leetcode.cn/problems/basic-calculator-ii/
