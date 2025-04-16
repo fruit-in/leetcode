@@ -1276,6 +1276,7 @@
 [1967][1967l]|[Number of Strings That Appear as Substrings in Word][1967]                           |![py]
 [1968][1968l]|[Array With Elements Not Equal to Average of Neighbors][1968]                         |![rs]
 [1969][1969l]|[Minimum Non-Zero Product of the Array Elements][1969]                                |![rs]
+[1970][1970l]|[Last Day Where You Can Still Cross][1970]                                            |![py]
 [1971][1971l]|[Find if Path Exists in Graph][1971]                                                  |![py]
 [1974][1974l]|[Minimum Time to Type Word Using Special Typewriter][1974]                            |![rs]
 [1975][1975l]|[Maximum Matrix Sum][1975]                                                            |![rs]
@@ -2953,6 +2954,7 @@
 [1967]:Problemset/1967-Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/README.md#1967-number-of-strings-that-appear-as-substrings-in-word
 [1968]:Problemset/1968-Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors/README.md#1968-array-with-elements-not-equal-to-average-of-neighbors
 [1969]:Problemset/1969-Minimum%20Non-Zero%20Product%20of%20the%20Array%20Elements/README.md#1969-minimum-non-zero-product-of-the-array-elements
+[1970]:Problemset/1970-Last%20Day%20Where%20You%20Can%20Still%20Cross/README.md#1970-last-day-where-you-can-still-cross
 [1971]:Problemset/1971-Find%20if%20Path%20Exists%20in%20Graph/README.md#1971-find-if-path-exists-in-graph
 [1974]:Problemset/1974-Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/README.md#1974-minimum-time-to-type-word-using-special-typewriter
 [1975]:Problemset/1975-Maximum%20Matrix%20Sum/README.md#1975-maximum-matrix-sum
@@ -4624,6 +4626,7 @@
 [1967l]:https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 [1968l]:https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 [1969l]:https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/
+[1970l]:https://leetcode.com/problems/last-day-where-you-can-still-cross/
 [1971l]:https://leetcode.com/problems/find-if-path-exists-in-graph/
 [1974l]:https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
 [1975l]:https://leetcode.com/problems/maximum-matrix-sum/

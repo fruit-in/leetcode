@@ -1276,6 +1276,7 @@
 [1967][1967l]|[作为子字符串出现在单词中的字符串数目][1967]              |![py]
 [1968][1968l]|[构造元素不等于两相邻元素平均值的数组][1968]              |![rs]
 [1969][1969l]|[数组元素的最小非零乘积][1969]                            |![rs]
+[1970][1970l]|[你能穿过矩阵的最后一天][1970]                            |![py]
 [1971][1971l]|[寻找图中是否存在路径][1971]                              |![py]
 [1974][1974l]|[使用特殊打字机键入单词的最少时间][1974]                  |![rs]
 [1975][1975l]|[最大方阵和][1975]                                        |![rs]
@@ -2953,6 +2954,7 @@
 [1967]:Problemset/1967-Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/README_CN.md#1967-作为子字符串出现在单词中的字符串数目
 [1968]:Problemset/1968-Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors/README_CN.md#1968-构造元素不等于两相邻元素平均值的数组
 [1969]:Problemset/1969-Minimum%20Non-Zero%20Product%20of%20the%20Array%20Elements/README_CN.md#1969-数组元素的最小非零乘积
+[1970]:Problemset/1970-Last%20Day%20Where%20You%20Can%20Still%20Cross/README_CN.md#1970-你能穿过矩阵的最后一天
 [1971]:Problemset/1971-Find%20if%20Path%20Exists%20in%20Graph/README_CN.md#1971-寻找图中是否存在路径
 [1974]:Problemset/1974-Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/README_CN.md#1974-使用特殊打字机键入单词的最少时间
 [1975]:Problemset/1975-Maximum%20Matrix%20Sum/README_CN.md#1975-最大方阵和
@@ -4624,6 +4626,7 @@
 [1967l]:https://leetcode.cn/problems/number-of-strings-that-appear-as-substrings-in-word/
 [1968l]:https://leetcode.cn/problems/array-with-elements-not-equal-to-average-of-neighbors/
 [1969l]:https://leetcode.cn/problems/minimum-non-zero-product-of-the-array-elements/
+[1970l]:https://leetcode.cn/problems/last-day-where-you-can-still-cross/
 [1971l]:https://leetcode.cn/problems/find-if-path-exists-in-graph/
 [1974l]:https://leetcode.cn/problems/minimum-time-to-type-word-using-special-typewriter/
 [1975l]:https://leetcode.cn/problems/maximum-matrix-sum/
