@@ -179,6 +179,7 @@
 [209][209l]  |[长度最小的子数组][209]                                   |![rs]
 [210][210l]  |[课程表 II][210]                                          |![rs]
 [211][211l]  |[添加与搜索单词 - 数据结构设计][211]                      |![py]
+[212][212l]  |[单词搜索 II][212]                                        |![py]
 [213][213l]  |[打家劫舍 II][213]                                        |![rs]
 [215][215l]  |[数组中的第K个最大元素][215]                              |![rb]
 [216][216l]  |[组合总和 III][216]                                       |![rs]
@@ -1857,6 +1858,7 @@
 [209]:Problemset/0209-Minimum%20Size%20Subarray%20Sum/README_CN.md#209-长度最小的子数组
 [210]:Problemset/0210-Course%20Schedule%20II/README_CN.md#210-课程表-ii
 [211]:Problemset/0211-Design%20Add%20and%20Search%20Words%20Data%20Structure/README_CN.md#211-添加与搜索单词---数据结构设计
+[212]:Problemset/0212-Word%20Search%20II/README_CN.md#212-单词搜索-ii
 [213]:Problemset/0213-House%20Robber%20II/README_CN.md#213-打家劫舍-ii
 [215]:Problemset/0215-Kth%20Largest%20Element%20in%20an%20Array/README_CN.md#215-数组中的第k个最大元素
 [216]:Problemset/0216-Combination%20Sum%20III/README_CN.md#216-组合总和-iii
@@ -3528,6 +3530,7 @@
 [209l]:https://leetcode.cn/problems/minimum-size-subarray-sum/
 [210l]:https://leetcode.cn/problems/course-schedule-ii/
 [211l]:https://leetcode.cn/problems/add-and-search-word-data-structure-design/
+[212l]:https://leetcode.cn/problems/word-search-ii/
 [213l]:https://leetcode.cn/problems/house-robber-ii/
 [215l]:https://leetcode.cn/problems/kth-largest-element-in-an-array/
 [216l]:https://leetcode.cn/problems/combination-sum-iii/

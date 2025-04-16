@@ -179,6 +179,7 @@
 [209][209l]  |[Minimum Size Subarray Sum][209]                                                      |![rs]
 [210][210l]  |[Course Schedule II][210]                                                             |![rs]
 [211][211l]  |[Design Add and Search Words Data Structure][211]                                     |![py]
+[212][212l]  |[Word Search II][212]                                                                 |![py]
 [213][213l]  |[House Robber II][213]                                                                |![rs]
 [215][215l]  |[Kth Largest Element in an Array][215]                                                |![rb]
 [216][216l]  |[Combination Sum III][216]                                                            |![rs]
@@ -1857,6 +1858,7 @@
 [209]:Problemset/0209-Minimum%20Size%20Subarray%20Sum/README.md#209-minimum-size-subarray-sum
 [210]:Problemset/0210-Course%20Schedule%20II/README.md#210-course-schedule-ii
 [211]:Problemset/0211-Design%20Add%20and%20Search%20Words%20Data%20Structure/README.md#211-design-add-and-search-words-data-structure
+[212]:Problemset/0212-Word%20Search%20II/README.md#212-word-search-ii
 [213]:Problemset/0213-House%20Robber%20II/README.md#213-house-robber-ii
 [215]:Problemset/0215-Kth%20Largest%20Element%20in%20an%20Array/README.md#215-kth-largest-element-in-an-array
 [216]:Problemset/0216-Combination%20Sum%20III/README.md#216-combination-sum-iii
@@ -3528,6 +3530,7 @@
 [209l]:https://leetcode.com/problems/minimum-size-subarray-sum/
 [210l]:https://leetcode.com/problems/course-schedule-ii/
 [211l]:https://leetcode.com/problems/add-and-search-word-data-structure-design/
+[212l]:https://leetcode.com/problems/word-search-ii/
 [213l]:https://leetcode.com/problems/house-robber-ii/
 [215l]:https://leetcode.com/problems/kth-largest-element-in-an-array/
 [216l]:https://leetcode.com/problems/combination-sum-iii/
