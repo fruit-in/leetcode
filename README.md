@@ -535,6 +535,7 @@
 [790][790l]  |[Domino and Tromino Tiling][790]                                                      |![rs]
 [791][791l]  |[Custom Sort String][791]                                                             |![rs]
 [792][792l]  |[Number of Matching Subsequences][792]                                                |![rs]
+[793][793l]  |[Preimage Size of Factorial Zeroes Function]                                          |![rs]
 [794][794l]  |[Valid Tic-Tac-Toe State][794]                                                        |![rs]
 [795][795l]  |[Number of Subarrays with Bounded Maximum][795]                                       |![rs]
 [796][796l]  |[Rotate String][796]                                                                  |![rs]
@@ -2216,6 +2217,7 @@
 [790]:Problemset/0790-Domino%20and%20Tromino%20Tiling/README.md#790-domino-and-tromino-tiling
 [791]:Problemset/0791-Custom%20Sort%20String/README.md#791-custom-sort-string
 [792]:Problemset/0792-Number%20of%20Matching%20Subsequences/README.md#792-number-of-matching-subsequences
+[793]:Problemset/0793-Preimage%20Size%20of%20Factorial%20Zeroes%20Function/README.md#793-preimage-size-of-factorial-zeroes-function
 [794]:Problemset/0794-Valid%20Tic-Tac-Toe%20State/README.md#794-valid-tic-tac-toe-state
 [795]:Problemset/0795-Number%20of%20Subarrays%20with%20Bounded%20Maximum/README.md#795-number-of-subarrays-with-bounded-maximum
 [796]:Problemset/0796-Rotate%20String/README.md#796-rotate-string
@@ -3891,6 +3893,7 @@
 [790l]:https://leetcode.com/problems/domino-and-tromino-tiling/
 [791l]:https://leetcode.com/problems/custom-sort-string/
 [792l]:https://leetcode.com/problems/number-of-matching-subsequences/
+[793l]:https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/
 [794l]:https://leetcode.com/problems/valid-tic-tac-toe-state/
 [795l]:https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/
 [796l]:https://leetcode.com/problems/rotate-string/

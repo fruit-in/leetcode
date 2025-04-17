@@ -535,6 +535,7 @@
 [790][790l]  |[多米诺和托米诺平铺][790]                                 |![rs]
 [791][791l]  |[自定义字符串排序][791]                                   |![rs]
 [792][792l]  |[匹配子序列的单词数][792]                                 |![rs]
+[793][793l]  |[阶乘函数后 K 个零][793]                                  |![rs]
 [794][794l]  |[有效的井字游戏][794]                                     |![rs]
 [795][795l]  |[区间子数组个数][795]                                     |![rs]
 [796][796l]  |[旋转字符串][796]                                         |![rs]
@@ -2216,6 +2217,7 @@
 [790]:Problemset/0790-Domino%20and%20Tromino%20Tiling/README_CN.md#790-多米诺和托米诺平铺
 [791]:Problemset/0791-Custom%20Sort%20String/README_CN.md#791-自定义字符串排序
 [792]:Problemset/0792-Number%20of%20Matching%20Subsequences/README_CN.md#792-匹配子序列的单词数
+[793]:Problemset/0793-Preimage%20Size%20of%20Factorial%20Zeroes%20Function/README_CN.md#793-阶乘函数后-k-个零
 [794]:Problemset/0794-Valid%20Tic-Tac-Toe%20State/README_CN.md#794-有效的井字游戏
 [795]:Problemset/0795-Number%20of%20Subarrays%20with%20Bounded%20Maximum/README_CN.md#795-区间子数组个数
 [796]:Problemset/0796-Rotate%20String/README_CN.md#796-旋转字符串
@@ -3891,6 +3893,7 @@
 [790l]:https://leetcode.cn/problems/domino-and-tromino-tiling/
 [791l]:https://leetcode.cn/problems/custom-sort-string/
 [792l]:https://leetcode.cn/problems/number-of-matching-subsequences/
+[793l]:https://leetcode.cn/problems/preimage-size-of-factorial-zeroes-function/
 [794l]:https://leetcode.cn/problems/valid-tic-tac-toe-state/
 [795l]:https://leetcode.cn/problems/number-of-subarrays-with-bounded-maximum/
 [796l]:https://leetcode.cn/problems/rotate-string/
