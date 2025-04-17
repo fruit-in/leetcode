@@ -585,6 +585,7 @@
 [852][852l]  |[Peak Index in a Mountain Array][852]                                                 |![rs]
 [853][853l]  |[Car Fleet][853]                                                                      |![rs]
 [856][856l]  |[Score of Parentheses][856]                                                           |![rs]
+[857][857l]  |[Minimum Cost to Hire K Workers][857]                                                 |![rs]
 [858][858l]  |[Mirror Reflection][858]                                                              |![rb]&nbsp;&nbsp;![rs]
 [859][859l]  |[Buddy Strings][859]                                                                  |![py]
 [860][860l]  |[Lemonade Change][860]                                                                |![rs]
@@ -2267,6 +2268,7 @@
 [852]:Problemset/0852-Peak%20Index%20in%20a%20Mountain%20Array/README.md#852-peak-index-in-a-mountain-array
 [853]:Problemset/0853-Car%20Fleet/README.md#853-car-fleet
 [856]:Problemset/0856-Score%20of%20Parentheses/README.md#856-score-of-parentheses
+[857]:Problemset/0857-Minimum%20Cost%20to%20Hire%20K%20Workers/README.md#857-minimum-cost-to-hire-k-workers
 [858]:Problemset/0858-Mirror%20Reflection/README.md#858-mirror-reflection
 [859]:Problemset/0859-Buddy%20Strings/README.md#859-buddy-strings
 [860]:Problemset/0860-Lemonade%20Change/README.md#860-lemonade-change
@@ -3943,6 +3945,7 @@
 [852l]:https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [853l]:https://leetcode.com/problems/car-fleet/
 [856l]:https://leetcode.com/problems/score-of-parentheses/
+[857l]:https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
 [858l]:https://leetcode.com/problems/mirror-reflection/
 [859l]:https://leetcode.com/problems/buddy-strings/
 [860l]:https://leetcode.com/problems/lemonade-change/
