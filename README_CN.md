@@ -1489,6 +1489,7 @@
 [2299][2299l]|[强密码检验器 II][2299]                                   |![rs]
 [2300][2300l]|[咒语和药水的成功对数][2300]                              |![py]
 [2301][2301l]|[替换字符后匹配][2301]                                    |![rs]
+[2302][2302l]|[统计得分小于 K 的子数组数目][2302]                       |![rs]
 [2303][2303l]|[计算应缴税款总额][2303]                                  |![rs]
 [2304][2304l]|[网格中的最小路径代价][2304]                              |![rs]
 [2306][2306l]|[公司命名][2306]                                          |![py]
@@ -3169,6 +3170,7 @@
 [2299]:Problemset/2299-Strong%20Password%20Checker%20II/README_CN.md#2299-强密码检验器-ii
 [2300]:Problemset/2300-Successful%20Pairs%20of%20Spells%20and%20Potions/README_CN.md#2300-咒语和药水的成功对数
 [2301]:Problemset/2301-Match%20Substring%20After%20Replacement/README_CN.md#2301-替换字符后匹配
+[2302]:Problemset/2302-Count%20Subarrays%20With%20Score%20Less%20Than%20K/README_CN.md#2302-统计得分小于-k-的子数组数目
 [2303]:Problemset/2303-Calculate%20Amount%20Paid%20in%20Taxes/README_CN.md#2303-计算应缴税款总额
 [2304]:Problemset/2304-Minimum%20Path%20Cost%20in%20a%20Grid/README_CN.md#2304-网格中的最小路径代价
 [2306]:Problemset/2306-Naming%20a%20Company/README_CN.md#2306-公司命名
@@ -4843,6 +4845,7 @@
 [2299l]:https://leetcode.cn/problems/strong-password-checker-ii/
 [2300l]:https://leetcode.cn/problems/successful-pairs-of-spells-and-potions/
 [2301l]:https://leetcode.cn/problems/match-substring-after-replacement/
+[2302l]:https://leetcode.cn/problems/count-subarrays-with-score-less-than-k/
 [2303l]:https://leetcode.cn/problems/calculate-amount-paid-in-taxes/
 [2304l]:https://leetcode.cn/problems/minimum-path-cost-in-a-grid/
 [2306l]:https://leetcode.cn/problems/naming-a-company/
