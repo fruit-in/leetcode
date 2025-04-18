@@ -1072,6 +1072,7 @@
 [1608][1608l]|[Special Array With X Elements Greater Than or Equal X][1608]                         |![rs]
 [1609][1609l]|[Even Odd Tree][1609]                                                                 |![py]&nbsp;&nbsp;![rb]
 [1610][1610l]|[Maximum Number of Visible Points][1610]                                              |![rs]
+[1611][1611l]|[Minimum One Bit Operations to Make Integers Zero][1611]                              |![py]
 [1614][1614l]|[Maximum Nesting Depth of the Parentheses][1614]                                      |![rb]&nbsp;&nbsp;![rs]
 [1615][1615l]|[Maximal Network Rank][1615]                                                          |![rs]
 [1616][1616l]|[Split Two Strings to Make Palindrome][1616]                                          |![rs]
@@ -2757,6 +2758,7 @@
 [1608]:Problemset/1608-Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/README.md#1608-special-array-with-x-elements-greater-than-or-equal-x
 [1609]:Problemset/1609-Even%20Odd%20Tree/README.md#1609-even-odd-tree
 [1610]:Problemset/1610-Maximum%20Number%20of%20Visible%20Points/README.md#1610-maximum-number-of-visible-points
+[1611]:Problemset/1611-Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero/README.md#1611-minimum-one-bit-operations-to-make-integers-zero
 [1614]:Problemset/1614-Maximum%20Nesting%20Depth%20of%20the%20Parentheses/README.md#1614-maximum-nesting-depth-of-the-parentheses
 [1615]:Problemset/1615-Maximal%20Network%20Rank/README.md#1615-maximal-network-rank
 [1616]:Problemset/1616-Split%20Two%20Strings%20to%20Make%20Palindrome/README.md#1616-split-two-strings-to-make-palindrome
@@ -4436,6 +4438,7 @@
 [1608l]:https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 [1609l]:https://leetcode.com/problems/even-odd-tree/
 [1610l]:https://leetcode.com/problems/maximum-number-of-visible-points/
+[1611l]:https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/
 [1614l]:https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 [1615l]:https://leetcode.com/problems/maximal-network-rank/
 [1616l]:https://leetcode.com/problems/split-two-strings-to-make-palindrome/

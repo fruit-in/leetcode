@@ -1072,6 +1072,7 @@
 [1608][1608l]|[特殊数组的特征值][1608]                                  |![rs]
 [1609][1609l]|[奇偶树][1609]                                            |![py]&nbsp;&nbsp;![rb]
 [1610][1610l]|[可见点的最大数目][1610]                                  |![rs]
+[1611][1611l]|[使整数变为 0 的最少操作次数][1611]                       |![py]
 [1614][1614l]|[括号的最大嵌套深度][1614]                                |![rb]&nbsp;&nbsp;![rs]
 [1615][1615l]|[最大网络秩][1615]                                        |![rs]
 [1616][1616l]|[分割两个字符串得到回文串][1616]                          |![rs]
@@ -2757,6 +2758,7 @@
 [1608]:Problemset/1608-Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/README_CN.md#1608-特殊数组的特征值
 [1609]:Problemset/1609-Even%20Odd%20Tree/README_CN.md#1609-奇偶树
 [1610]:Problemset/1610-Maximum%20Number%20of%20Visible%20Points/README_CN.md#1610-可见点的最大数目
+[1611]:Problemset/1611-Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero/README_CN.md#1611-使整数变为-0-的最少操作次数
 [1614]:Problemset/1614-Maximum%20Nesting%20Depth%20of%20the%20Parentheses/README_CN.md#1614-括号的最大嵌套深度
 [1615]:Problemset/1615-Maximal%20Network%20Rank/README_CN.md#1615-最大网络秩
 [1616]:Problemset/1616-Split%20Two%20Strings%20to%20Make%20Palindrome/README_CN.md#1616-分割两个字符串得到回文串
@@ -4436,6 +4438,7 @@
 [1608l]:https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x/
 [1609l]:https://leetcode.cn/problems/even-odd-tree/
 [1610l]:https://leetcode.cn/problems/maximum-number-of-visible-points/
+[1611l]:https://leetcode.cn/problems/minimum-one-bit-operations-to-make-integers-zero/
 [1614l]:https://leetcode.cn/problems/maximum-nesting-depth-of-the-parentheses/
 [1615l]:https://leetcode.cn/problems/maximal-network-rank/
 [1616l]:https://leetcode.cn/problems/split-two-strings-to-make-palindrome/
