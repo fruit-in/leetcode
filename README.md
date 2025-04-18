@@ -765,6 +765,7 @@
 [1091][1091l]|[Shortest Path in Binary Matrix][1091]                                                |![rs]
 [1093][1093l]|[Statistics from a Large Sample][1093]                                                |![rs]
 [1094][1094l]|[Car Pooling][1094]                                                                   |![rs]
+[1095][1095l]|[Find in Mountain Array][1095]                                                        |![py]
 [1103][1103l]|[Distribute Candies to People][1103]                                                  |![py]
 [1104][1104l]|[Path In Zigzag Labelled Binary Tree][1104]                                           |![rs]
 [1105][1105l]|[Filling Bookcase Shelves][1105]                                                      |![rs]
@@ -2449,6 +2450,7 @@
 [1091]:Problemset/1091-Shortest%20Path%20in%20Binary%20Matrix/README.md#1091-shortest-path-in-binary-matrix
 [1093]:Problemset/1093-Statistics%20from%20a%20Large%20Sample/README.md#1093-statistics-from-a-large-sample
 [1094]:Problemset/1094-Car%20Pooling/README.md#1094-car-pooling
+[1095]:Problemset/1095-Find%20in%20Mountain%20Array/README.md#1095-find-in-mountain-array
 [1103]:Problemset/1103-Distribute%20Candies%20to%20People/README.md#1103-distribute-candies-to-people
 [1104]:Problemset/1104-Path%20In%20Zigzag%20Labelled%20Binary%20Tree/README.md#1104-path-in-zigzag-labelled-binary-tree
 [1105]:Problemset/1105-Filling%20Bookcase%20Shelves/README.md#1105-filling-bookcase-shelves
@@ -4127,6 +4129,7 @@
 [1091l]:https://leetcode.com/problems/shortest-path-in-binary-matrix/
 [1093l]:https://leetcode.com/problems/statistics-from-a-large-sample/
 [1094l]:https://leetcode.com/problems/car-pooling/
+[1095l]:https://leetcode.com/problems/find-in-mountain-array/
 [1103l]:https://leetcode.com/problems/distribute-candies-to-people/
 [1104l]:https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/
 [1105l]:https://leetcode.com/problems/filling-bookcase-shelves/

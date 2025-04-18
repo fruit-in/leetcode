@@ -765,6 +765,7 @@
 [1091][1091l]|[二进制矩阵中的最短路径][1091]                            |![rs]
 [1093][1093l]|[大样本统计][1093]                                        |![rs]
 [1094][1094l]|[拼车][1094]                                              |![rs]
+[1095][1095l]|[山脉数组中查找目标值][1095]                              |![py]
 [1103][1103l]|[分糖果 II][1103]                                         |![py]
 [1104][1104l]|[二叉树寻路][1104]                                        |![rs]
 [1105][1105l]|[填充书架][1105]                                          |![rs]
@@ -2449,6 +2450,7 @@
 [1091]:Problemset/1091-Shortest%20Path%20in%20Binary%20Matrix/README_CN.md#1091-二进制矩阵中的最短路径
 [1093]:Problemset/1093-Statistics%20from%20a%20Large%20Sample/README_CN.md#1093-大样本统计
 [1094]:Problemset/1094-Car%20Pooling/README_CN.md#1094-拼车
+[1095]:Problemset/1095-Find%20in%20Mountain%20Array/README_CN.md#1095-山脉数组中查找目标值
 [1103]:Problemset/1103-Distribute%20Candies%20to%20People/README_CN.md#1103-分糖果-ii
 [1104]:Problemset/1104-Path%20In%20Zigzag%20Labelled%20Binary%20Tree/README_CN.md#1104-二叉树寻路
 [1105]:Problemset/1105-Filling%20Bookcase%20Shelves/README_CN.md#1105-填充书架
@@ -4127,6 +4129,7 @@
 [1091l]:https://leetcode.cn/problems/shortest-path-in-binary-matrix/
 [1093l]:https://leetcode.cn/problems/statistics-from-a-large-sample/
 [1094l]:https://leetcode.cn/problems/car-pooling/
+[1095l]:https://leetcode.cn/problems/find-in-mountain-array/
 [1103l]:https://leetcode.cn/problems/distribute-candies-to-people/
 [1104l]:https://leetcode.cn/problems/path-in-zigzag-labelled-binary-tree/
 [1105l]:https://leetcode.cn/problems/filling-bookcase-shelves/
