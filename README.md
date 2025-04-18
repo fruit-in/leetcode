@@ -1037,6 +1037,7 @@
 [1550][1550l]|[Three Consecutive Odds][1550]                                                        |![py]
 [1551][1551l]|[Minimum Operations to Make Array Equal][1551]                                        |![rb]&nbsp;&nbsp;![rs]
 [1552][1552l]|[Magnetic Force Between Two Balls][1552]                                              |![rs]
+[1553][1553l]|[Minimum Number of Days to Eat N Oranges][1553]                                       |![py]
 [1556][1556l]|[Thousand Separator][1556]                                                            |![rs]
 [1557][1557l]|[Minimum Number of Vertices to Reach All Nodes][1557]                                 |![rs]
 [1558][1558l]|[Minimum Numbers of Function Calls to Make Target Array][1558]                        |![rs]
@@ -2720,6 +2721,7 @@
 [1550]:Problemset/1550-Three%20Consecutive%20Odds/README.md#1550-three-consecutive-odds
 [1551]:Problemset/1551-Minimum%20Operations%20to%20Make%20Array%20Equal/README.md#1551-minimum-operations-to-make-array-equal
 [1552]:Problemset/1552-Magnetic%20Force%20Between%20Two%20Balls/README.md#1552-magnetic-force-between-two-balls
+[1553]:Problemset/1553-Minimum%20Number%20of%20Days%20to%20Eat%20N%20Oranges/README.md#1553-minimum-number-of-days-to-eat-n-oranges
 [1556]:Problemset/1556-Thousand%20Separator/README.md#1556-thousand-separator
 [1557]:Problemset/1557-Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/README.md#1557-minimum-number-of-vertices-to-reach-all-nodes
 [1558]:Problemset/1558-Minimum%20Numbers%20of%20Function%20Calls%20to%20Make%20Target%20Array/README.md#1558-minimum-numbers-of-function-calls-to-make-target-array
@@ -4397,6 +4399,7 @@
 [1550l]:https://leetcode.com/problems/three-consecutive-odds/
 [1551l]:https://leetcode.com/problems/minimum-operations-to-make-array-equal/
 [1552l]:https://leetcode.com/problems/magnetic-force-between-two-balls/
+[1553l]:https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/
 [1556l]:https://leetcode.com/problems/thousand-separator/
 [1557l]:https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 [1558l]:https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/

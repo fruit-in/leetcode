@@ -1037,6 +1037,7 @@
 [1550][1550l]|[存在连续三个奇数的数组][1550]                            |![py]
 [1551][1551l]|[使数组中所有元素相等的最小操作数][1551]                  |![rb]&nbsp;&nbsp;![rs]
 [1552][1552l]|[两球之间的磁力][1552]                                    |![rs]
+[1553][1553l]|[吃掉 N 个橘子的最少天数][1553]                           |![py]
 [1556][1556l]|[千位分隔数][1556]                                        |![rs]
 [1557][1557l]|[可以到达所有点的最少点数目][1557]                        |![rs]
 [1558][1558l]|[得到目标数组的最少函数调用次数][1558]                    |![rs]
@@ -2720,6 +2721,7 @@
 [1550]:Problemset/1550-Three%20Consecutive%20Odds/README_CN.md#1550-存在连续三个奇数的数组
 [1551]:Problemset/1551-Minimum%20Operations%20to%20Make%20Array%20Equal/README_CN.md#1551-使数组中所有元素相等的最小操作数
 [1552]:Problemset/1552-Magnetic%20Force%20Between%20Two%20Balls/README_CN.md#1552-两球之间的磁力
+[1553]:Problemset/1553-Minimum%20Number%20of%20Days%20to%20Eat%20N%20Oranges/README_CN.md#1553-吃掉-n-个橘子的最少天数
 [1556]:Problemset/1556-Thousand%20Separator/README_CN.md#1556-千位分隔数
 [1557]:Problemset/1557-Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/README_CN.md#1557-可以到达所有点的最少点数目
 [1558]:Problemset/1558-Minimum%20Numbers%20of%20Function%20Calls%20to%20Make%20Target%20Array/README_CN.md#1558-得到目标数组的最少函数调用次数
@@ -4397,6 +4399,7 @@
 [1550l]:https://leetcode.cn/problems/three-consecutive-odds/
 [1551l]:https://leetcode.cn/problems/minimum-operations-to-make-array-equal/
 [1552l]:https://leetcode.cn/problems/magnetic-force-between-two-balls/
+[1553l]:https://leetcode.cn/problems/minimum-number-of-days-to-eat-n-oranges/
 [1556l]:https://leetcode.cn/problems/thousand-separator/
 [1557l]:https://leetcode.cn/problems/minimum-number-of-vertices-to-reach-all-nodes/
 [1558l]:https://leetcode.cn/problems/minimum-numbers-of-function-calls-to-make-target-array/
