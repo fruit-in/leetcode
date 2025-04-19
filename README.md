@@ -412,6 +412,7 @@
 [587][587l]  |[Erect the Fence][587]                                                                |![rs]
 [589][589l]  |[N-ary Tree Preorder Traversal][589]                                                  |![py]
 [590][590l]  |[N-ary Tree Postorder Traversal][590]                                                 |![py]
+[591][591l]  |[Tag Validator][591]                                                                  |![py]
 [592][592l]  |[Fraction Addition and Subtraction][592]                                              |![rs]
 [593][593l]  |[Valid Square][593]                                                                   |![rs]
 [594][594l]  |[Longest Harmonious Subsequence][594]                                                 |![rs]
@@ -2099,6 +2100,7 @@
 [587]:Problemset/0587-Erect%20the%20Fence/README.md#587-erect-the-fence
 [589]:Problemset/0589-N-ary%20Tree%20Preorder%20Traversal/README.md#589-n-ary-tree-preorder-traversal
 [590]:Problemset/0590-N-ary%20Tree%20Postorder%20Traversal/README.md#590-n-ary-tree-postorder-traversal
+[591]:Problemset/0591-Tag%20Validator/README.md#591-tag-validator
 [592]:Problemset/0592-Fraction%20Addition%20and%20Subtraction/README.md#592-fraction-addition-and-subtraction
 [593]:Problemset/0593-Valid%20Square/README.md#593-valid-square
 [594]:Problemset/0594-Longest%20Harmonious%20Subsequence/README.md#594-longest-harmonious-subsequence
@@ -3780,6 +3782,7 @@
 [587l]:https://leetcode.com/problems/erect-the-fence/
 [589l]:https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 [590l]:https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+[591l]:https://leetcode.com/problems/tag-validator/
 [592l]:https://leetcode.com/problems/fraction-addition-and-subtraction/
 [593l]:https://leetcode.com/problems/valid-square/
 [594l]:https://leetcode.com/problems/longest-harmonious-subsequence/

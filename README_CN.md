@@ -412,6 +412,7 @@
 [587][587l]  |[安装栅栏][587]                                           |![rs]
 [589][589l]  |[N叉树的前序遍历][589]                                    |![py]
 [590][590l]  |[N叉树的后序遍历][590]                                    |![py]
+[591][591l]  |[标签验证器][591]                                         |![py]
 [592][592l]  |[分数加减运算][592]                                       |![rs]
 [593][593l]  |[有效的正方形][593]                                       |![rs]
 [594][594l]  |[最长和谐子序列][594]                                     |![rs]
@@ -2099,6 +2100,7 @@
 [587]:Problemset/0587-Erect%20the%20Fence/README_CN.md#587-安装栅栏
 [589]:Problemset/0589-N-ary%20Tree%20Preorder%20Traversal/README_CN.md#589-n叉树的前序遍历
 [590]:Problemset/0590-N-ary%20Tree%20Postorder%20Traversal/README_CN.md#590-n叉树的后序遍历
+[591]:Problemset/0591-Tag%20Validator/README_CN.md#591-标签验证器
 [592]:Problemset/0592-Fraction%20Addition%20and%20Subtraction/README_CN.md#592-分数加减运算
 [593]:Problemset/0593-Valid%20Square/README_CN.md#593-有效的正方形
 [594]:Problemset/0594-Longest%20Harmonious%20Subsequence/README_CN.md#594-最长和谐子序列
@@ -3780,6 +3782,7 @@
 [587l]:https://leetcode.cn/problems/erect-the-fence/
 [589l]:https://leetcode.cn/problems/n-ary-tree-preorder-traversal/
 [590l]:https://leetcode.cn/problems/n-ary-tree-postorder-traversal/
+[591l]:https://leetcode.cn/problems/tag-validator/
 [592l]:https://leetcode.cn/problems/fraction-addition-and-subtraction/
 [593l]:https://leetcode.cn/problems/valid-square/
 [594l]:https://leetcode.cn/problems/longest-harmonious-subsequence/
