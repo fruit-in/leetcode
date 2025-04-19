@@ -1220,6 +1220,7 @@
 [1859][1859l]|[将句子排序][1859]                                        |![py]
 [1860][1860l]|[增长的内存泄露][1860]                                    |![rs]
 [1861][1861l]|[旋转盒子][1861]                                          |![rs]
+[1862][1862l]|[向下取整数对和][1862]                                    |![py]
 [1863][1863l]|[找出所有子集的异或总和再求和][1863]                      |![py]
 [1864][1864l]|[构成交替字符串需要的最小交换次数][1864]                  |![rs]
 [1865][1865l]|[找出和为指定值的下标对][1865]                            |![rs]
@@ -2906,6 +2907,7 @@
 [1859]:Problemset/1859-Sorting%20the%20Sentence/README_CN.md#1859-将句子排序
 [1860]:Problemset/1860-Incremental%20Memory%20Leak/README_CN.md#1860-增长的内存泄露
 [1861]:Problemset/1861-Rotating%20the%20Box/README_CN.md#1861-旋转盒子
+[1862]:Problemset/1862-Sum%20of%20Floored%20Pairs/README_CN.md#1862-向下取整数对和
 [1863]:Problemset/1863-Sum%20of%20All%20Subset%20XOR%20Totals/README_CN.md#1863-找出所有子集的异或总和再求和
 [1864]:Problemset/1864-Minimum%20Number%20of%20Swaps%20to%20Make%20the%20Binary%20String%20Alternating/README_CN.md#1864-构成交替字符串需要的最小交换次数
 [1865]:Problemset/1865-Finding%20Pairs%20With%20a%20Certain%20Sum/README_CN.md#1865-找出和为指定值的下标对
@@ -4586,6 +4588,7 @@
 [1859l]:https://leetcode.cn/problems/sorting-the-sentence/
 [1860l]:https://leetcode.cn/problems/incremental-memory-leak/
 [1861l]:https://leetcode.cn/problems/rotating-the-box/
+[1862l]:https://leetcode.cn/problems/sum-of-floored-pairs/
 [1863l]:https://leetcode.cn/problems/sum-of-all-subset-xor-totals/
 [1864l]:https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/
 [1865l]:https://leetcode.cn/problems/finding-pairs-with-a-certain-sum/
