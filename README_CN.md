@@ -1413,6 +1413,7 @@
 [2176][2176l]|[统计数组中相等且可以被整除的数对][2176]                  |![rs]
 [2177][2177l]|[找到和为给定整数的三个连续整数][2177]                    |![rs]
 [2178][2178l]|[拆分成最多数目的正偶数之和][2178]                        |![rs]
+[2179][2179l]|[统计数组中好三元组数目][2179]                            |![py]
 [2180][2180l]|[统计各位数字之和为偶数的整数个数][2180]                  |![py]
 [2181][2181l]|[合并零之间的节点][2181]                                  |![py]
 [2182][2182l]|[构造限制重复的字符串][2182]                              |![rs]
@@ -3101,6 +3102,7 @@
 [2176]:Problemset/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README_CN.md#2176-统计数组中相等且可以被整除的数对
 [2177]:Problemset/2177-Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number/README_CN.md#2177-找到和为给定整数的三个连续整数
 [2178]:Problemset/2178-Maximum%20Split%20of%20Positive%20Even%20Integers/README_CN.md#2178-拆分成最多数目的正偶数之和
+[2179]:Problemset/2179-Count%20Good%20Triplets%20in%20an%20Array/README_CN.md#2179-统计数组中好三元组数目
 [2180]:Problemset/2180-Count%20Integers%20With%20Even%20Digit%20Sum/README_CN.md#2180-统计各位数字之和为偶数的整数个数
 [2181]:Problemset/2181-Merge%20Nodes%20in%20Between%20Zeros/README_CN.md#2181-合并零之间的节点
 [2182]:Problemset/2182-Construct%20String%20With%20Repeat%20Limit/README_CN.md#2182-构造限制重复的字符串
@@ -4783,6 +4785,7 @@
 [2176l]:https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/
 [2177l]:https://leetcode.cn/problems/find-three-consecutive-integers-that-sum-to-a-given-number/
 [2178l]:https://leetcode.cn/problems/maximum-split-of-positive-even-integers/
+[2179l]:https://leetcode.cn/problems/count-good-triplets-in-an-array/
 [2180l]:https://leetcode.cn/problems/count-integers-with-even-digit-sum/
 [2181l]:https://leetcode.cn/problems/merge-nodes-in-between-zeros/
 [2182l]:https://leetcode.cn/problems/construct-string-with-repeat-limit/

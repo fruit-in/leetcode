@@ -1413,6 +1413,7 @@
 [2176][2176l]|[Count Equal and Divisible Pairs in an Array][2176]                                   |![rs]
 [2177][2177l]|[Find Three Consecutive Integers That Sum to a Given Number][2177]                    |![rs]
 [2178][2178l]|[Maximum Split of Positive Even Integers][2178]                                       |![rs]
+[2179][2179l]|[Count Good Triplets in an Array][2179]                                               |![py]
 [2180][2180l]|[Count Integers With Even Digit Sum][2180]                                            |![py]
 [2181][2181l]|[Merge Nodes in Between Zeros][2181]                                                  |![py]
 [2182][2182l]|[Construct String With Repeat Limit][2182]                                            |![rs]
@@ -3101,6 +3102,7 @@
 [2176]:Problemset/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README.md#2176-count-equal-and-divisible-pairs-in-an-array
 [2177]:Problemset/2177-Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number/README.md#2177-find-three-consecutive-integers-that-sum-to-a-given-number
 [2178]:Problemset/2178-Maximum%20Split%20of%20Positive%20Even%20Integers/README.md#2178-maximum-split-of-positive-even-integers
+[2179]:Problemset/2179-Count%20Good%20Triplets%20in%20an%20Array/README.md#2179-count-good-triplets-in-an-array
 [2180]:Problemset/2180-Count%20Integers%20With%20Even%20Digit%20Sum/README.md#2180-count-integers-with-even-digit-sum
 [2181]:Problemset/2181-Merge%20Nodes%20in%20Between%20Zeros/README.md#2181-merge-nodes-in-between-zeros
 [2182]:Problemset/2182-Construct%20String%20With%20Repeat%20Limit/README.md#2182-construct-string-with-repeat-limit
@@ -4783,6 +4785,7 @@
 [2176l]:https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 [2177l]:https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/
 [2178l]:https://leetcode.com/problems/maximum-split-of-positive-even-integers/
+[2179l]:https://leetcode.com/problems/count-good-triplets-in-an-array/
 [2180l]:https://leetcode.com/problems/count-integers-with-even-digit-sum/
 [2181l]:https://leetcode.com/problems/merge-nodes-in-between-zeros/
 [2182l]:https://leetcode.com/problems/construct-string-with-repeat-limit/
