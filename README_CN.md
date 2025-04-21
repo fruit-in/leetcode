@@ -147,6 +147,7 @@
 [151][151l]  |[翻转字符串里的单词][151]                                 |![rs]
 [152][152l]  |[乘积最大子数组][152]                                     |![rs]
 [153][153l]  |[寻找旋转排序数组中的最小值][153]                         |![rb]&nbsp;&nbsp;![rs]
+[154][154l]  |[寻找旋转排序数组中的最小值 II][154]                      |![rs]
 [155][155l]  |[最小栈][155]                                             |![rs]
 [160][160l]  |[相交链表][160]                                           |![py]
 [162][162l]  |[寻找峰值][162]                                           |![rs]
@@ -1836,6 +1837,7 @@
 [151]:Problemset/0151-Reverse%20Words%20in%20a%20String/README_CN.md#151-翻转字符串里的单词
 [152]:Problemset/0152-Maximum%20Product%20Subarray/README_CN.md#152-乘积最大子数组
 [153]:Problemset/0153-Find%20Minimum%20in%20Rotated%20Sorted%20Array/README_CN.md#153-寻找旋转排序数组中的最小值
+[154]:Problemset/0154-Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/README_CN.md#154-寻找旋转排序数组中的最小值-ii
 [155]:Problemset/0155-Min%20Stack/README_CN.md#155-最小栈
 [160]:Problemset/0160-Intersection%20of%20Two%20Linked%20Lists/README_CN.md#160-相交链表
 [162]:Problemset/0162-Find%20Peak%20Element/README_CN.md#162-寻找峰值
@@ -3518,6 +3520,7 @@
 [151l]:https://leetcode.cn/problems/reverse-words-in-a-string/
 [152l]:https://leetcode.cn/problems/maximum-product-subarray/
 [153l]:https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/
+[154l]:https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/
 [155l]:https://leetcode.cn/problems/min-stack/
 [160l]:https://leetcode.cn/problems/intersection-of-two-linked-lists/
 [162l]:https://leetcode.cn/problems/find-peak-element/

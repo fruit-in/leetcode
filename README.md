@@ -147,6 +147,7 @@
 [151][151l]  |[Reverse Words in a String][151]                                                      |![rs]
 [152][152l]  |[Maximum Product Subarray][152]                                                       |![rs]
 [153][153l]  |[Find Minimum in Rotated Sorted Array][153]                                           |![rb]&nbsp;&nbsp;![rs]
+[154][154l]  |[Find Minimum in Rotated Sorted Array II][154]                                        |![rs]
 [155][155l]  |[Min Stack][155]                                                                      |![rs]
 [160][160l]  |[Intersection of Two Linked Lists][160]                                               |![py]
 [162][162l]  |[Find Peak Element][162]                                                              |![rs]
@@ -1836,6 +1837,7 @@
 [151]:Problemset/0151-Reverse%20Words%20in%20a%20String/README.md#151-reverse-words-in-a-string
 [152]:Problemset/0152-Maximum%20Product%20Subarray/README.md#152-maximum-product-subarray
 [153]:Problemset/0153-Find%20Minimum%20in%20Rotated%20Sorted%20Array/README.md#153-find-minimum-in-rotated-sorted-array
+[154]:Problemset/0154-Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/README.md#154-find-minimum-in-rotated-sorted-array-ii
 [155]:Problemset/0155-Min%20Stack/README.md#155-min-stack
 [160]:Problemset/0160-Intersection%20of%20Two%20Linked%20Lists/README.md#160-intersection-of-two-linked-lists
 [162]:Problemset/0162-Find%20Peak%20Element/README.md#162-find-peak-element
@@ -3518,6 +3520,7 @@
 [151l]:https://leetcode.com/problems/reverse-words-in-a-string/
 [152l]:https://leetcode.com/problems/maximum-product-subarray/
 [153l]:https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+[154l]:https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 [155l]:https://leetcode.com/problems/min-stack/
 [160l]:https://leetcode.com/problems/intersection-of-two-linked-lists/
 [162l]:https://leetcode.com/problems/find-peak-element/
