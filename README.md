@@ -806,6 +806,7 @@
 [1178][1178l]|[Number of Valid Words for Each Puzzle][1178]                                         |![rs]
 [1184][1184l]|[Distance Between Bus Stops][1184]                                                    |![rs]
 [1185][1185l]|[Day of the Week][1185]                                                               |![rs]
+[1187][1187l]|[Make Array Strictly Increasing][1187]                                                |![rs]
 [1189][1189l]|[Maximum Number of Balloons][1189]                                                    |![rs]
 [1190][1190l]|[Reverse Substrings Between Each Pair of Parentheses][1190]                           |![rs]
 [1191][1191l]|[K-Concatenation Maximum Sum][1191]                                                   |![rb]&nbsp;&nbsp;![rs]
@@ -2496,6 +2497,7 @@
 [1178]:Problemset/1178-Number%20of%20Valid%20Words%20for%20Each%20Puzzle/README.md#1178-number-of-valid-words-for-each-puzzle
 [1184]:Problemset/1184-Distance%20Between%20Bus%20Stops/README.md#1184-distance-between-bus-stops
 [1185]:Problemset/1185-Day%20of%20the%20Week/README.md#1185-day-of-the-week
+[1187]:Problemset/1187-Make%20Array%20Strictly%20Increasing/README.md#1187-make-array-strictly-increasing
 [1189]:Problemset/1189-Maximum%20Number%20of%20Balloons/README.md#1189-maximum-number-of-balloons
 [1190]:Problemset/1190-Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/README.md#1190-reverse-substrings-between-each-pair-of-parentheses
 [1191]:Problemset/1191-K-Concatenation%20Maximum%20Sum/README.md#1191-k-concatenation-maximum-sum
@@ -4180,6 +4182,7 @@
 [1178l]:https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 [1184l]:https://leetcode.com/problems/distance-between-bus-stops/
 [1185l]:https://leetcode.com/problems/day-of-the-week/
+[1187l]:https://leetcode.com/problems/make-array-strictly-increasing/
 [1189l]:https://leetcode.com/problems/maximum-number-of-balloons/
 [1190l]:https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
 [1191l]:https://leetcode.com/problems/k-concatenation-maximum-sum/
