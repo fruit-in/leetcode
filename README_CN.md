@@ -1267,6 +1267,7 @@
 [1928][1928l]|[规定时间内到达终点的最小花费][1928]                      |![rs]
 [1929][1929l]|[数组串联][1929]                                          |![py]&nbsp;&nbsp;![rs]
 [1930][1930l]|[长度为 3 的不同回文子序列][1930]                         |![rs]
+[1931][1931l]|[用三种不同颜色为网格涂色][1931]                          |![py]
 [1935][1935l]|[可以输入的最大单词数][1935]                              |![py]
 [1936][1936l]|[新增的最少台阶数][1936]                                  |![rs]
 [1941][1941l]|[检查是否所有字符出现次数相同][1941]                      |![rs]
@@ -2959,6 +2960,7 @@
 [1928]:Problemset/1928-Minimum%20Cost%20to%20Reach%20Destination%20in%20Time/README_CN.md#1928-规定时间内到达终点的最小花费
 [1929]:Problemset/1929-Concatenation%20of%20Array/README_CN.md#1929-数组串联
 [1930]:Problemset/1930-Unique%20Length-3%20Palindromic%20Subsequences/README_CN.md#1930-长度为-3-的不同回文子序列
+[1931]:Problemset/1931-Painting%20a%20Grid%20With%20Three%20Different%20Colors/README_CN.md#1931-用三种不同颜色为网格涂色
 [1935]:Problemset/1935-Maximum%20Number%20of%20Words%20You%20Can%20Type/README_CN.md#1935-可以输入的最大单词数
 [1936]:Problemset/1936-Add%20Minimum%20Number%20of%20Rungs/README_CN.md#1936-新增的最少台阶数
 [1941]:Problemset/1941-Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences/README_CN.md#1941-检查是否所有字符出现次数相同
@@ -4645,6 +4647,7 @@
 [1928l]:https://leetcode.cn/problems/minimum-cost-to-reach-destination-in-time/
 [1929l]:https://leetcode.cn/problems/concatenation-of-array/
 [1930l]:https://leetcode.cn/problems/unique-length-3-palindromic-subsequences/
+[1931l]:https://leetcode.cn/problems/painting-a-grid-with-three-different-colors/
 [1935l]:https://leetcode.cn/problems/maximum-number-of-words-you-can-type/
 [1936l]:https://leetcode.cn/problems/add-minimum-number-of-rungs/
 [1941l]:https://leetcode.cn/problems/check-if-all-characters-have-equal-number-of-occurrences/
