@@ -258,6 +258,7 @@
 [349][349l]  |[两个数组的交集][349]                                     |![rs]
 [350][350l]  |[两个数组的交集 II][350]                                  |![rs]
 [352][352l]  |[将数据流变为多个不相交区间][352]                         |![py]
+[354][354l]  |[俄罗斯套娃信封问题][354]                                 |![rs]
 [357][357l]  |[计算各个位数不同的数字个数][357]                         |![rs]
 [365][365l]  |[水壶问题][365]                                           |![rb]
 [367][367l]  |[有效的完全平方数][367]                                   |![rs]
@@ -1952,6 +1953,7 @@
 [349]:Problemset/0349-Intersection%20of%20Two%20Arrays/README_CN.md#349-两个数组的交集
 [350]:Problemset/0350-Intersection%20of%20Two%20Arrays%20II/README_CN.md#350-两个数组的交集-ii
 [352]:Problemset/0352-Data%20Stream%20as%20Disjoint%20Intervals/README_CN.md#352-将数据流变为多个不相交区间
+[354]:Problemset/0354-Russian%20Doll%20Envelopes/README_CN.md#354-俄罗斯套娃信封问题
 [357]:Problemset/0357-Count%20Numbers%20with%20Unique%20Digits/README_CN.md#357-计算各个位数不同的数字个数
 [365]:Problemset/0365-Water%20and%20Jug%20Problem/README_CN.md#365-水壶问题
 [367]:Problemset/0367-Valid%20Perfect%20Square/README_CN.md#367-有效的完全平方数
@@ -3639,6 +3641,7 @@
 [349l]:https://leetcode.cn/problems/intersection-of-two-arrays/
 [350l]:https://leetcode.cn/problems/intersection-of-two-arrays-ii/
 [352l]:https://leetcode.cn/problems/data-stream-as-disjoint-intervals/
+[354l]:https://leetcode.cn/problems/russian-doll-envelopes/
 [357l]:https://leetcode.cn/problems/count-numbers-with-unique-digits/
 [365l]:https://leetcode.cn/problems/water-and-jug-problem/
 [367l]:https://leetcode.cn/problems/valid-perfect-square/

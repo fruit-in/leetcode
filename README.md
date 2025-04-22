@@ -258,6 +258,7 @@
 [349][349l]  |[Intersection of Two Arrays][349]                                                     |![rs]
 [350][350l]  |[Intersection of Two Arrays II][350]                                                  |![rs]
 [352][352l]  |[Data Stream as Disjoint Intervals][352]                                              |![py]
+[354][354l]  |[Russian Doll Envelopes][354]                                                         |![rs]
 [357][357l]  |[Count Numbers with Unique Digits][357]                                               |![rs]
 [365][365l]  |[Water and Jug Problem][365]                                                          |![rb]
 [367][367l]  |[Valid Perfect Square][367]                                                           |![rs]
@@ -1952,6 +1953,7 @@
 [349]:Problemset/0349-Intersection%20of%20Two%20Arrays/README.md#349-intersection-of-two-arrays
 [350]:Problemset/0350-Intersection%20of%20Two%20Arrays%20II/README.md#350-intersection-of-two-arrays-ii
 [352]:Problemset/0352-Data%20Stream%20as%20Disjoint%20Intervals/README.md#352-data-stream-as-disjoint-intervals
+[354]:Problemset/0354-Russian%20Doll%20Envelopes/README.md#354-russian-doll-envelopes
 [357]:Problemset/0357-Count%20Numbers%20with%20Unique%20Digits/README.md#357-count-numbers-with-unique-digits
 [365]:Problemset/0365-Water%20and%20Jug%20Problem/README.md#365-water-and-jug-problem
 [367]:Problemset/0367-Valid%20Perfect%20Square/README.md#367-valid-perfect-square
@@ -3639,6 +3641,7 @@
 [349l]:https://leetcode.com/problems/intersection-of-two-arrays/
 [350l]:https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [352l]:https://leetcode.com/problems/data-stream-as-disjoint-intervals/
+[354l]:https://leetcode.com/problems/russian-doll-envelopes/
 [357l]:https://leetcode.com/problems/count-numbers-with-unique-digits/
 [365l]:https://leetcode.com/problems/water-and-jug-problem/
 [367l]:https://leetcode.com/problems/valid-perfect-square/
