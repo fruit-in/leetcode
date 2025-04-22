@@ -545,6 +545,7 @@
 [797][797l]  |[所有可能的路径][797]                                     |![py]
 [798][798l]  |[得分最高的最小轮调][798]                                 |![rs]
 [799][799l]  |[香槟塔][799]                                             |![rs]
+[801][801l]  |[使序列递增的最小交换次数][801]                           |![rs]
 [804][804l]  |[唯一摩尔斯密码词][804]                                   |![py]
 [805][805l]  |[数组的均值分割][805]                                     |![py]
 [806][806l]  |[写字符串需要的行数][806]                                 |![py]
@@ -2240,6 +2241,7 @@
 [797]:Problemset/0797-All%20Paths%20From%20Source%20to%20Target/README_CN.md#797-所有可能的路径
 [798]:Problemset/0798-Smallest%20Rotation%20with%20Highest%20Score/README_CN.md#798-得分最高的最小轮调
 [799]:Problemset/0799-Champagne%20Tower/README_CN.md#799-香槟塔
+[801]:Problemset/0801-Minimum%20Swaps%20To%20Make%20Sequences%20Increasing/README_CN.md#801-使序列递增的最小交换次数
 [804]:Problemset/0804-Unique%20Morse%20Code%20Words/README_CN.md#804-唯一摩尔斯密码词
 [805]:Problemset/0805-Split%20Array%20With%20Same%20Average/README_CN.md#805-数组的均值分割
 [806]:Problemset/0806-Number%20of%20Lines%20To%20Write%20String/README_CN.md#806-写字符串需要的行数
@@ -3929,6 +3931,7 @@
 [797l]:https://leetcode.cn/problems/all-paths-from-source-to-target/
 [798l]:https://leetcode.cn/problems/smallest-rotation-with-highest-score/
 [799l]:https://leetcode.cn/problems/champagne-tower/
+[801l]:https://leetcode.cn/problems/minimum-swaps-to-make-sequences-increasing/
 [804l]:https://leetcode.cn/problems/unique-morse-code-words/
 [805l]:https://leetcode.cn/problems/split-array-with-same-average/
 [806l]:https://leetcode.cn/problems/number-of-lines-to-write-string/

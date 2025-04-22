@@ -545,6 +545,7 @@
 [797][797l]  |[All Paths From Source to Target][797]                                                |![py]
 [798][798l]  |[Smallest Rotation with Highest Score][798]                                           |![rs]
 [799][799l]  |[Champagne Tower][799]                                                                |![rs]
+[801][801l]  |[Minimum Swaps To Make Sequences Increasing][801]                                     |![rs]
 [804][804l]  |[Unique Morse Code Words][804]                                                        |![py]
 [805][805l]  |[Split Array With Same Average][805]                                                  |![py]
 [806][806l]  |[Number of Lines To Write String][806]                                                |![py]
@@ -2240,6 +2241,7 @@
 [797]:Problemset/0797-All%20Paths%20From%20Source%20to%20Target/README.md#797-all-paths-from-source-to-target
 [798]:Problemset/0798-Smallest%20Rotation%20with%20Highest%20Score/README.md#798-smallest-rotation-with-highest-score
 [799]:Problemset/0799-Champagne%20Tower/README.md#799-champagne-tower
+[801]:Problemset/0801-Minimum%20Swaps%20To%20Make%20Sequences%20Increasing/README.md#801-minimum-swaps-to-make-sequences-increasing
 [804]:Problemset/0804-Unique%20Morse%20Code%20Words/README.md#804-unique-morse-code-words
 [805]:Problemset/0805-Split%20Array%20With%20Same%20Average/README.md#805-split-array-with-same-average
 [806]:Problemset/0806-Number%20of%20Lines%20To%20Write%20String/README.md#806-number-of-lines-to-write-string
@@ -3929,6 +3931,7 @@
 [797l]:https://leetcode.com/problems/all-paths-from-source-to-target/
 [798l]:https://leetcode.com/problems/smallest-rotation-with-highest-score/
 [799l]:https://leetcode.com/problems/champagne-tower/
+[801l]:https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
 [804l]:https://leetcode.com/problems/unique-morse-code-words/
 [805l]:https://leetcode.com/problems/split-array-with-same-average/
 [806l]:https://leetcode.com/problems/number-of-lines-to-write-string/
