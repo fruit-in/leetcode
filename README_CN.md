@@ -1248,6 +1248,7 @@
 [1894][1894l]|[找到需要补充粉笔的学生编号][1894]                        |![rs]
 [1897][1897l]|[重新分配字符使所有字符串都相等][1897]                    |![rs]
 [1899][1899l]|[合并若干三元组以形成目标三元组][1899]                    |![rs]
+[1900][1900l]|[最佳运动员的比拼回合][1900]                              |![py]
 [1901][1901l]|[寻找峰值 II][1901]                                       |![rs]
 [1903][1903l]|[字符串中的最大奇数][1903]                                |![rs]
 [1904][1904l]|[你完成的完整对局数][1904]                                |![py]
@@ -2939,6 +2940,7 @@
 [1894]:Problemset/1894-Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/README_CN.md#1894-找到需要补充粉笔的学生编号
 [1897]:Problemset/1897-Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/README_CN.md#1897-重新分配字符使所有字符串都相等
 [1899]:Problemset/1899-Merge%20Triplets%20to%20Form%20Target%20Triplet/README_CN.md#1899-合并若干三元组以形成目标三元组
+[1900]:Problemset/1900-The%20Earliest%20and%20Latest%20Rounds%20Where%20Players%20Compete/README_CN.md#1900-最佳运动员的比拼回合
 [1901]:Problemset/1901-Find%20a%20Peak%20Element%20II/README_CN.md#1901-寻找峰值-ii
 [1903]:Problemset/1903-Largest%20Odd%20Number%20in%20String/README_CN.md#1903-字符串中的最大奇数
 [1904]:Problemset/1904-The%20Number%20of%20Full%20Rounds%20You%20Have%20Played/README_CN.md#1904-你完成的完整对局数
@@ -4624,6 +4626,7 @@
 [1894l]:https://leetcode.cn/problems/find-the-student-that-will-replace-the-chalk/
 [1897l]:https://leetcode.cn/problems/redistribute-characters-to-make-all-strings-equal/
 [1899l]:https://leetcode.cn/problems/merge-triplets-to-form-target-triplet/
+[1900l]:https://leetcode.cn/problems/the-earliest-and-latest-rounds-where-players-compete/
 [1901l]:https://leetcode.cn/problems/find-a-peak-element-ii/
 [1903l]:https://leetcode.cn/problems/largest-odd-number-in-string/
 [1904l]:https://leetcode.cn/problems/the-number-of-full-rounds-you-have-played/
