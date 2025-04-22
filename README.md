@@ -1374,6 +1374,7 @@
 [2108][2108l]|[Find First Palindromic String in the Array][2108]                                    |![rs]
 [2109][2109l]|[Adding Spaces to a String][2109]                                                     |![rs]
 [2110][2110l]|[Number of Smooth Descent Periods of a Stock][2110]                                   |![rs]
+[2111][2111l]|[Minimum Operations to Make the Array K-Increasing][2111]                             |![py]
 [2114][2114l]|[Maximum Number of Words Found in Sentences][2114]                                    |![rs]
 [2115][2115l]|[Find All Possible Recipes from Given Supplies][2115]                                 |![py]
 [2119][2119l]|[A Number After a Double Reversal][2119]                                              |![rs]
@@ -3067,6 +3068,7 @@
 [2108]:Problemset/2108-Find%20First%20Palindromic%20String%20in%20the%20Array/README.md#2108-find-first-palindromic-string-in-the-array
 [2109]:Problemset/2109-Adding%20Spaces%20to%20a%20String/README.md#2109-adding-spaces-to-a-string
 [2110]:Problemset/2110-Number%20of%20Smooth%20Descent%20Periods%20of%20a%20Stock/README.md#2110-number-of-smooth-descent-periods-of-a-stock
+[2111]:Problemset/2111-Minimum%20Operations%20to%20Make%20the%20Array%20K-Increasing/README.md#2111-minimum-operations-to-make-the-array-k-increasing
 [2114]:Problemset/2114-Maximum%20Number%20of%20Words%20Found%20in%20Sentences/README.md#2114-maximum-number-of-words-found-in-sentences
 [2115]:Problemset/2115-Find%20All%20Possible%20Recipes%20from%20Given%20Supplies/README.md#2115-find-all-possible-recipes-from-given-supplies
 [2119]:Problemset/2119-A%20Number%20After%20a%20Double%20Reversal/README.md#2119-a-number-after-a-double-reversal
@@ -4754,6 +4756,7 @@
 [2108l]:https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 [2109l]:https://leetcode.com/problems/adding-spaces-to-a-string/
 [2110l]:https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
+[2111l]:https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/
 [2114l]:https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [2115l]:https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
 [2119l]:https://leetcode.com/problems/a-number-after-a-double-reversal/

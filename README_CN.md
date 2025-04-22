@@ -1374,12 +1374,13 @@
 [2108][2108l]|[找出数组中的第一个回文字符串][2108]                      |![rs]
 [2109][2109l]|[向字符串添加空格][2109]                                  |![rs]
 [2110][2110l]|[股票平滑下跌阶段的数目][2110]                            |![rs]
+[2111][2111l]|[使数组 K 递增的最少操作次数][2111]                       |![py]
 [2114][2114l]|[句子中的最多单词数][2114]                                |![rs]
 [2115][2115l]|[从给定原材料中找到所有可以做出的菜][2115]                |![py]
 [2119][2119l]|[反转两次的数字][2119]                                    |![rs]
 [2120][2120l]|[执行所有后缀指令][2120]                                  |![rs]
 [2121][2121l]|[相同元素的间隔之和][2121]                                |![py]
-[2122][2122l]|[还原原数组]                                              |![rs]
+[2122][2122l]|[还原原数组][2122]                                        |![rs]
 [2124][2124l]|[检查是否所有 A 都在 B 之前][2124]                        |![py]
 [2125][2125l]|[银行中的激光束数量][2125]                                |![py]
 [2126][2126l]|[摧毁小行星][2126]                                        |![rs]
@@ -3067,6 +3068,7 @@
 [2108]:Problemset/2108-Find%20First%20Palindromic%20String%20in%20the%20Array/README_CN.md#2108-找出数组中的第一个回文字符串
 [2109]:Problemset/2109-Adding%20Spaces%20to%20a%20String/README_CN.md#2109-向字符串添加空格
 [2110]:Problemset/2110-Number%20of%20Smooth%20Descent%20Periods%20of%20a%20Stock/README_CN.md#2110-股票平滑下跌阶段的数目
+[2111]:Problemset/2111-Minimum%20Operations%20to%20Make%20the%20Array%20K-Increasing/README_CN.md#2111-使数组-k-递增的最少操作次数
 [2114]:Problemset/2114-Maximum%20Number%20of%20Words%20Found%20in%20Sentences/README_CN.md#2114-句子中的最多单词数
 [2115]:Problemset/2115-Find%20All%20Possible%20Recipes%20from%20Given%20Supplies/README_CN.md#2115-从给定原材料中找到所有可以做出的菜
 [2119]:Problemset/2119-A%20Number%20After%20a%20Double%20Reversal/README_CN.md#2119-反转两次的数字
@@ -4754,6 +4756,7 @@
 [2108l]:https://leetcode.cn/problems/find-first-palindromic-string-in-the-array/
 [2109l]:https://leetcode.cn/problems/adding-spaces-to-a-string/
 [2110l]:https://leetcode.cn/problems/number-of-smooth-descent-periods-of-a-stock/
+[2111l]:https://leetcode.cn/problems/minimum-operations-to-make-the-array-k-increasing/
 [2114l]:https://leetcode.cn/problems/maximum-number-of-words-found-in-sentences/
 [2115l]:https://leetcode.cn/problems/find-all-possible-recipes-from-given-supplies/
 [2119l]:https://leetcode.cn/problems/a-number-after-a-double-reversal/
