@@ -1159,6 +1159,7 @@
 [1748][1748l]|[唯一元素的和][1748]                                      |![rs]
 [1749][1749l]|[任意子数组和的绝对值的最大值][1749]                      |![rb]&nbsp;&nbsp;![rs]
 [1750][1750l]|[删除字符串两端相同字符后的最短长度][1750]                |![rb]&nbsp;&nbsp;![rs]
+[1751][1751l]|[最多可以参加的会议数目 II][1751]                         |![rs]
 [1752][1752l]|[检查数组是否经排序和轮转得到][1752]                      |![rb]&nbsp;&nbsp;![rs]
 [1753][1753l]|[移除石子的最大得分][1753]                                |![rb]&nbsp;&nbsp;![rs]
 [1754][1754l]|[构造字典序最大的合并字符串][1754]                        |![py]
@@ -2863,6 +2864,7 @@
 [1748]:Problemset/1748-Sum%20of%20Unique%20Elements/README_CN.md#1748-唯一元素的和
 [1749]:Problemset/1749-Maximum%20Absolute%20Sum%20of%20Any%20Subarray/README_CN.md#1749-任意子数组和的绝对值的最大值
 [1750]:Problemset/1750-Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends/README_CN.md#1750-删除字符串两端相同字符后的最短长度
+[1751]:Problemset/1751-Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II/README_CN.md#1751-最多可以参加的会议数目-ii
 [1752]:Problemset/1752-Check%20if%20Array%20Is%20Sorted%20and%20Rotated/README_CN.md#1752-检查数组是否经排序和轮转得到
 [1753]:Problemset/1753-Maximum%20Score%20From%20Removing%20Stones/README_CN.md#1753-移除石子的最大得分
 [1754]:Problemset/1754-Largest%20Merge%20Of%20Two%20Strings/README_CN.md#1754-构造字典序最大的合并字符串
@@ -4561,6 +4563,7 @@
 [1748l]:https://leetcode.cn/problems/sum-of-unique-elements/
 [1749l]:https://leetcode.cn/problems/maximum-absolute-sum-of-any-subarray/
 [1750l]:https://leetcode.cn/problems/minimum-length-of-string-after-deleting-similar-ends/
+[1751l]:https://leetcode.cn/problems/maximum-number-of-events-that-can-be-attended-ii/
 [1752l]:https://leetcode.cn/problems/check-if-array-is-sorted-and-rotated/
 [1753l]:https://leetcode.cn/problems/maximum-score-from-removing-stones/
 [1754l]:https://leetcode.cn/problems/largest-merge-of-two-strings/
