@@ -1352,6 +1352,7 @@
 [2073][2073l]|[买票需要的时间][2073]                                    |![py]
 [2074][2074l]|[反转偶数长度组的节点][2074]                              |![py]
 [2075][2075l]|[解码斜向换位密码][2075]                                  |![rs]
+[2076][2076l]|[处理含限制条件的好友请求][2076]                          |![py]
 [2078][2078l]|[两栋颜色不同且距离最远的房子][2078]                      |![rs]
 [2079][2079l]|[给植物浇水][2079]                                        |![rs]
 [2080][2080l]|[区间内查询数字的频率][2080]                              |![rs]
@@ -3049,6 +3050,7 @@
 [2073]:Problemset/2073-Time%20Needed%20to%20Buy%20Tickets/README_CN.md#2073-买票需要的时间
 [2074]:Problemset/2074-Reverse%20Nodes%20in%20Even%20Length%20Groups/README_CN.md#2074-反转偶数长度组的节点
 [2075]:Problemset/2075-Decode%20the%20Slanted%20Ciphertext/README_CN.md#2075-解码斜向换位密码
+[2076]:Problemset/2076-Process%20Restricted%20Friend%20Requests/README_CN.md#2076-处理含限制条件的好友请求
 [2078]:Problemset/2078-Two%20Furthest%20Houses%20With%20Different%20Colors/README_CN.md#2078-两栋颜色不同且距离最远的房子
 [2079]:Problemset/2079-Watering%20Plants/README_CN.md#2079-给植物浇水
 [2080]:Problemset/2080-Range%20Frequency%20Queries/README_CN.md#2080-区间内查询数字的频率
@@ -4740,6 +4742,7 @@
 [2073l]:https://leetcode.cn/problems/time-needed-to-buy-tickets/
 [2074l]:https://leetcode.cn/problems/reverse-nodes-in-even-length-groups/
 [2075l]:https://leetcode.cn/problems/decode-the-slanted-ciphertext/
+[2076l]:https://leetcode.cn/problems/process-restricted-friend-requests/
 [2078l]:https://leetcode.cn/problems/two-furthest-houses-with-different-colors/
 [2079l]:https://leetcode.cn/problems/watering-plants/
 [2080l]:https://leetcode.cn/problems/range-frequency-queries/

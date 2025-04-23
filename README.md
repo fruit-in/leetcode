@@ -1352,6 +1352,7 @@
 [2073][2073l]|[Time Needed to Buy Tickets][2073]                                                    |![py]
 [2074][2074l]|[Reverse Nodes in Even Length Groups][2074]                                           |![py]
 [2075][2075l]|[Decode the Slanted Ciphertext][2075]                                                 |![rs]
+[2076][2076l]|[Process Restricted Friend Requests][2076]                                            |![py]
 [2078][2078l]|[Two Furthest Houses With Different Colors][2078]                                     |![rs]
 [2079][2079l]|[Watering Plants][2079]                                                               |![rs]
 [2080][2080l]|[Range Frequency Queries][2080]                                                       |![rs]
@@ -3049,6 +3050,7 @@
 [2073]:Problemset/2073-Time%20Needed%20to%20Buy%20Tickets/README.md#2073-time-needed-to-buy-tickets
 [2074]:Problemset/2074-Reverse%20Nodes%20in%20Even%20Length%20Groups/README.md#2074-reverse-nodes-in-even-length-groups
 [2075]:Problemset/2075-Decode%20the%20Slanted%20Ciphertext/README.md#2075-decode-the-slanted-ciphertext
+[2076]:Problemset/2076-Process%20Restricted%20Friend%20Requests/README.md#2076-process-restricted-friend-requests
 [2078]:Problemset/2078-Two%20Furthest%20Houses%20With%20Different%20Colors/README.md#2078-two-furthest-houses-with-different-colors
 [2079]:Problemset/2079-Watering%20Plants/README.md#2079-watering-plants
 [2080]:Problemset/2080-Range%20Frequency%20Queries/README.md#2080-range-frequency-queries
@@ -4740,6 +4742,7 @@
 [2073l]:https://leetcode.com/problems/time-needed-to-buy-tickets/
 [2074l]:https://leetcode.com/problems/reverse-nodes-in-even-length-groups/
 [2075l]:https://leetcode.com/problems/decode-the-slanted-ciphertext/
+[2076l]:https://leetcode.com/problems/process-restricted-friend-requests/
 [2078l]:https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 [2079l]:https://leetcode.com/problems/watering-plants/
 [2080l]:https://leetcode.com/problems/range-frequency-queries/
