@@ -583,6 +583,7 @@
 [844][844l]  |[Backspace String Compare][844]                                                       |![py]
 [845][845l]  |[Longest Mountain in Array][845]                                                      |![rs]
 [846][846l]  |[Hand of Straights][846]                                                              |![rs]
+[847][847l]  |[Shortest Path Visiting All Nodes][847]                                               |![rs]
 [848][848l]  |[Shifting Letters][848]                                                               |![rs]
 [849][849l]  |[Maximize Distance to Closest Person][849]                                            |![rs]
 [851][851l]  |[Loud and Rich][851]                                                                  |![rs]
@@ -2281,6 +2282,7 @@
 [844]:Problemset/0844-Backspace%20String%20Compare/README.md#844-backspace-string-compare
 [845]:Problemset/0845-Longest%20Mountain%20in%20Array/README.md#845-longest-mountain-in-array
 [846]:Problemset/0846-Hand%20of%20Straights/README.md#846-hand-of-straights
+[847]:Problemset/0847-Shortest%20Path%20Visiting%20All%20Nodes/README.md#847-shortest-path-visiting-all-nodes
 [848]:Problemset/0848-Shifting%20Letters/README.md#848-shifting-letters
 [849]:Problemset/0849-Maximize%20Distance%20to%20Closest%20Person/README.md#849-maximize-distance-to-closest-person
 [851]:Problemset/0851-Loud%20and%20Rich/README.md#851-loud-and-rich
@@ -3973,6 +3975,7 @@
 [844l]:https://leetcode.com/problems/backspace-string-compare/
 [845l]:https://leetcode.com/problems/longest-mountain-in-array/
 [846l]:https://leetcode.com/problems/hand-of-straights/
+[847l]:https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 [848l]:https://leetcode.com/problems/shifting-letters/
 [849l]:https://leetcode.com/problems/maximize-distance-to-closest-person/
 [851l]:https://leetcode.com/problems/loud-and-rich/

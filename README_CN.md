@@ -583,6 +583,7 @@
 [844][844l]  |[比较含退格的字符串][844]                                 |![py]
 [845][845l]  |[数组中的最长山脉][845]                                   |![rs]
 [846][846l]  |[一手顺子][846]                                           |![rs]
+[847][847l]  |[访问所有节点的最短路径][847]                             |![rs]
 [848][848l]  |[字母移位][848]                                           |![rs]
 [849][849l]  |[到最近的人的最大距离][849]                               |![rs]
 [851][851l]  |[喧闹和富有][851]                                         |![rs]
@@ -2281,6 +2282,7 @@
 [844]:Problemset/0844-Backspace%20String%20Compare/README_CN.md#844-比较含退格的字符串
 [845]:Problemset/0845-Longest%20Mountain%20in%20Array/README_CN.md#845-数组中的最长山脉
 [846]:Problemset/0846-Hand%20of%20Straights/README_CN.md#846-一手顺子
+[847]:Problemset/0847-Shortest%20Path%20Visiting%20All%20Nodes/README_CN.md#847-访问所有节点的最短路径
 [848]:Problemset/0848-Shifting%20Letters/README_CN.md#848-字母移位
 [849]:Problemset/0849-Maximize%20Distance%20to%20Closest%20Person/README_CN.md#849-到最近的人的最大距离
 [851]:Problemset/0851-Loud%20and%20Rich/README_CN.md#851-喧闹和富有
@@ -3973,6 +3975,7 @@
 [844l]:https://leetcode.cn/problems/backspace-string-compare/
 [845l]:https://leetcode.cn/problems/longest-mountain-in-array/
 [846l]:https://leetcode.cn/problems/hand-of-straights/
+[847l]:https://leetcode.cn/problems/shortest-path-visiting-all-nodes/
 [848l]:https://leetcode.cn/problems/shifting-letters/
 [849l]:https://leetcode.cn/problems/maximize-distance-to-closest-person/
 [851l]:https://leetcode.cn/problems/loud-and-rich/
