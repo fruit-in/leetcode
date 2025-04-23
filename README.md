@@ -864,6 +864,7 @@
 [1290][1290l]|[Convert Binary Number in a Linked List to Integer][1290]                             |![py]
 [1291][1291l]|[Sequential Digits][1291]                                                             |![rb]&nbsp;&nbsp;![rs]
 [1292][1292l]|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold][1292]      |![py]
+[1293][1293l]|[Shortest Path in a Grid with Obstacles Elimination][1293]                            |![rs]
 [1295][1295l]|[Find Numbers with Even Number of Digits][1295]                                       |![py]
 [1296][1296l]|[Divide Array in Sets of K Consecutive Numbers][1296]                                 |![rs]
 [1297][1297l]|[Maximum Number of Occurrences of a Substring][1297]                                  |![rs]
@@ -2564,6 +2565,7 @@
 [1290]:Problemset/1290-Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/README.md#1290-convert-binary-number-in-a-linked-list-to-integer
 [1291]:Problemset/1291-Sequential%20Digits/README.md#1291-sequential-digits
 [1292]:Problemset/1292-Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/README.md#1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold
+[1293]:Problemset/1293-Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination/README.md#1293-shortest-path-in-a-grid-with-obstacles-elimination
 [1295]:Problemset/1295-Find%20Numbers%20with%20Even%20Number%20of%20Digits/README.md#1295-find-numbers-with-even-number-of-digits
 [1296]:Problemset/1296-Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers/README.md#1296-divide-array-in-sets-of-k-consecutive-numbers
 [1297]:Problemset/1297-Maximum%20Number%20of%20Occurrences%20of%20a%20Substring/README.md#1297-maximum-number-of-occurrences-of-a-substring
@@ -4258,6 +4260,7 @@
 [1290l]:https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 [1291l]:https://leetcode.com/problems/sequential-digits/
 [1292l]:https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+[1293l]:https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
 [1295l]:https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 [1296l]:https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
 [1297l]:https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
