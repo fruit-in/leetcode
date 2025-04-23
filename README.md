@@ -1040,6 +1040,7 @@
 [1544][1544l]|[Make The String Great][1544]                                                         |![rb]
 [1545][1545l]|[Find Kth Bit in Nth Binary String][1545]                                             |![rs]
 [1546][1546l]|[Maximum Number of Non-Overlapping Subarrays With Sum Equals Target][1546]            |![rs]
+[1547][1547l]|[Minimum Cost to Cut a Stick][1547]                                                   |![py]
 [1550][1550l]|[Three Consecutive Odds][1550]                                                        |![py]
 [1551][1551l]|[Minimum Operations to Make Array Equal][1551]                                        |![rb]&nbsp;&nbsp;![rs]
 [1552][1552l]|[Magnetic Force Between Two Balls][1552]                                              |![rs]
@@ -2736,6 +2737,7 @@
 [1544]:Problemset/1544-Make%20The%20String%20Great/README.md#1544-make-the-string-great
 [1545]:Problemset/1545-Find%20Kth%20Bit%20in%20Nth%20Binary%20String/README.md#1545-find-kth-bit-in-nth-binary-string
 [1546]:Problemset/1546-Maximum%20Number%20of%20Non-Overlapping%20Subarrays%20With%20Sum%20Equals%20Target/README.md#1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target
+[1547]:Problemset/1547-Minimum%20Cost%20to%20Cut%20a%20Stick/README.md#1547-minimum-cost-to-cut-a-stick
 [1550]:Problemset/1550-Three%20Consecutive%20Odds/README.md#1550-three-consecutive-odds
 [1551]:Problemset/1551-Minimum%20Operations%20to%20Make%20Array%20Equal/README.md#1551-minimum-operations-to-make-array-equal
 [1552]:Problemset/1552-Magnetic%20Force%20Between%20Two%20Balls/README.md#1552-magnetic-force-between-two-balls
@@ -4426,6 +4428,7 @@
 [1544l]:https://leetcode.com/problems/make-the-string-great/
 [1545l]:https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/
 [1546l]:https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
+[1547l]:https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
 [1550l]:https://leetcode.com/problems/three-consecutive-odds/
 [1551l]:https://leetcode.com/problems/minimum-operations-to-make-array-equal/
 [1552l]:https://leetcode.com/problems/magnetic-force-between-two-balls/

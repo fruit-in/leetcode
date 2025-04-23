@@ -1040,6 +1040,7 @@
 [1544][1544l]|[整理字符串][1544]                                        |![rb]
 [1545][1545l]|[找出第 N 个二进制字符串中的第 K 位][1545]                |![rs]
 [1546][1546l]|[和为目标值且不重叠的非空子数组的最大数目][1546]          |![rs]
+[1547][1547l]|[切棍子的最小成本][1547]                                  |![py]
 [1550][1550l]|[存在连续三个奇数的数组][1550]                            |![py]
 [1551][1551l]|[使数组中所有元素相等的最小操作数][1551]                  |![rb]&nbsp;&nbsp;![rs]
 [1552][1552l]|[两球之间的磁力][1552]                                    |![rs]
@@ -2736,6 +2737,7 @@
 [1544]:Problemset/1544-Make%20The%20String%20Great/README_CN.md#1544-整理字符串
 [1545]:Problemset/1545-Find%20Kth%20Bit%20in%20Nth%20Binary%20String/README_CN.md#1545-找出第-n-个二进制字符串中的第-k-位
 [1546]:Problemset/1546-Maximum%20Number%20of%20Non-Overlapping%20Subarrays%20With%20Sum%20Equals%20Target/README_CN.md#1546-和为目标值且不重叠的非空子数组的最大数目
+[1547]:Problemset/1547-Minimum%20Cost%20to%20Cut%20a%20Stick/README_CN.md#1547-切棍子的最小成本
 [1550]:Problemset/1550-Three%20Consecutive%20Odds/README_CN.md#1550-存在连续三个奇数的数组
 [1551]:Problemset/1551-Minimum%20Operations%20to%20Make%20Array%20Equal/README_CN.md#1551-使数组中所有元素相等的最小操作数
 [1552]:Problemset/1552-Magnetic%20Force%20Between%20Two%20Balls/README_CN.md#1552-两球之间的磁力
@@ -4426,6 +4428,7 @@
 [1544l]:https://leetcode.cn/problems/make-the-string-great/
 [1545l]:https://leetcode.cn/problems/find-kth-bit-in-nth-binary-string/
 [1546l]:https://leetcode.cn/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
+[1547l]:https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/
 [1550l]:https://leetcode.cn/problems/three-consecutive-odds/
 [1551l]:https://leetcode.cn/problems/minimum-operations-to-make-array-equal/
 [1552l]:https://leetcode.cn/problems/magnetic-force-between-two-balls/
