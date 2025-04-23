@@ -972,6 +972,7 @@
 [1431][1431l]|[Kids With the Greatest Number of Candies][1431]                                      |![rs]
 [1432][1432l]|[Max Difference You Can Get From Changing an Integer][1432]                           |![rs]
 [1433][1433l]|[Check If a String Can Break Another String][1433]                                    |![rs]
+[1434][1434l]|[Number of Ways to Wear Different Hats to Each Other][1434]                           |![rs]
 [1436][1436l]|[Destination City][1436]                                                              |![rs]
 [1437][1437l]|[Check If All 1's Are at Least Length K Places Away][1437]                            |![rs]
 [1438][1438l]|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit][1438]    |![rs]
@@ -2674,6 +2675,7 @@
 [1431]:Problemset/1431-Kids%20With%20the%20Greatest%20Number%20of%20Candies/README.md#1431-kids-with-the-greatest-number-of-candies
 [1432]:Problemset/1432-Max%20Difference%20You%20Can%20Get%20From%20Changing%20an%20Integer/README.md#1432-max-difference-you-can-get-from-changing-an-integer
 [1433]:Problemset/1433-Check%20If%20a%20String%20Can%20Break%20Another%20String/README.md#1433-check-if-a-string-can-break-another-string
+[1434]:Problemset/1434-Number%20of%20Ways%20to%20Wear%20Different%20Hats%20to%20Each%20Other/README.md#1434-number-of-ways-to-wear-different-hats-to-each-other
 [1436]:Problemset/1436-Destination%20City/README.md#1436-destination-city
 [1437]:Problemset/1437-Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away/README.md#1437-check-if-all-1s-are-at-least-length-k-places-away
 [1438]:Problemset/1438-Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/README.md#1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
@@ -4370,6 +4372,7 @@
 [1431l]:https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1432l]:https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/
 [1433l]:https://leetcode.com/problems/check-if-a-string-can-break-another-string/
+[1434l]:https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/
 [1436l]:https://leetcode.com/problems/destination-city/
 [1437l]:https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 [1438l]:https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
