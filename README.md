@@ -844,6 +844,7 @@
 [1260][1260l]|[Shift 2D Grid][1260]                                                                 |![rs]
 [1261][1261l]|[Find Elements in a Contaminated Binary Tree][1261]                                   |![py]
 [1262][1262l]|[Greatest Sum Divisible by Three][1262]                                               |![rs]
+[1263][1263l]|[Minimum Moves to Move a Box to Their Target Location][1263]                          |![rs]
 [1266][1266l]|[Minimum Time Visiting All Points][1266]                                              |![rb]&nbsp;&nbsp;![rs]
 [1267][1267l]|[Count Servers that Communicate][1267]                                                |![rb]&nbsp;&nbsp;![rs]
 [1268][1268l]|[Search Suggestions System][1268]                                                     |![rs]
@@ -2543,6 +2544,7 @@
 [1260]:Problemset/1260-Shift%202D%20Grid/README.md#1260-shift-2d-grid
 [1261]:Problemset/1261-Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree/README.md#1261-find-elements-in-a-contaminated-binary-tree
 [1262]:Problemset/1262-Greatest%20Sum%20Divisible%20by%20Three/README.md#1262-greatest-sum-divisible-by-three
+[1263]:Problemset/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location/README.md#1263-minimum-moves-to-move-a-box-to-their-target-location
 [1266]:Problemset/1266-Minimum%20Time%20Visiting%20All%20Points/README.md#1266-minimum-time-visiting-all-points
 [1267]:Problemset/1267-Count%20Servers%20that%20Communicate/README.md#1267-count-servers-that-communicate
 [1268]:Problemset/1268-Search%20Suggestions%20System/README.md#1268-search-suggestions-system
@@ -4236,6 +4238,7 @@
 [1260l]:https://leetcode.com/problems/shift-2d-grid/
 [1261l]:https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
 [1262l]:https://leetcode.com/problems/greatest-sum-divisible-by-three/
+[1263l]:https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/
 [1266l]:https://leetcode.com/problems/minimum-time-visiting-all-points/
 [1267l]:https://leetcode.com/problems/count-servers-that-communicate/
 [1268l]:https://leetcode.com/problems/search-suggestions-system/

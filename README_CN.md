@@ -844,6 +844,7 @@
 [1260][1260l]|[二维网格迁移][1260]                                      |![rs]
 [1261][1261l]|[在受污染的二叉树中查找元素][1261]                        |![py]
 [1262][1262l]|[可被三整除的最大和][1262]                                |![rs]
+[1263][1263l]|[推箱子][1263]                                            |![rs]
 [1266][1266l]|[访问所有点的最小时间][1266]                              |![rb]&nbsp;&nbsp;![rs]
 [1267][1267l]|[统计参与通信的服务器][1267]                              |![rb]&nbsp;&nbsp;![rs]
 [1268][1268l]|[搜索推荐系统][1268]                                      |![rs]
@@ -2543,6 +2544,7 @@
 [1260]:Problemset/1260-Shift%202D%20Grid/README_CN.md#1260-二维网格迁移
 [1261]:Problemset/1261-Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree/README_CN.md#1261-在受污染的二叉树中查找元素
 [1262]:Problemset/1262-Greatest%20Sum%20Divisible%20by%20Three/README_CN.md#1262-可被三整除的最大和
+[1263]:Problemset/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location/README_CN.md#1263-推箱子
 [1266]:Problemset/1266-Minimum%20Time%20Visiting%20All%20Points/README_CN.md#1266-访问所有点的最小时间
 [1267]:Problemset/1267-Count%20Servers%20that%20Communicate/README_CN.md#1267-统计参与通信的服务器
 [1268]:Problemset/1268-Search%20Suggestions%20System/README_CN.md#1268-搜索推荐系统
@@ -4236,6 +4238,7 @@
 [1260l]:https://leetcode.cn/problems/shift-2d-grid/
 [1261l]:https://leetcode.cn/problems/find-elements-in-a-contaminated-binary-tree/
 [1262l]:https://leetcode.cn/problems/greatest-sum-divisible-by-three/
+[1263l]:https://leetcode.cn/problems/minimum-moves-to-move-a-box-to-their-target-location/
 [1266l]:https://leetcode.cn/problems/minimum-time-visiting-all-points/
 [1267l]:https://leetcode.cn/problems/count-servers-that-communicate/
 [1268l]:https://leetcode.cn/problems/search-suggestions-system/
