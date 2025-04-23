@@ -1525,6 +1525,7 @@
 [2318][2318l]|[Number of Distinct Roll Sequences][2318]                                             |![rs]
 [2319][2319l]|[Check if Matrix Is X-Matrix][2319]                                                   |![py]
 [2320][2320l]|[Count Number of Ways to Place Houses][2320]                                          |![rs]
+[2321][2321l]|[Maximum Score Of Spliced Array][2321]                                                |![rs]
 [2325][2325l]|[Decode the Message][2325]                                                            |![py]
 [2326][2326l]|[Spiral Matrix IV][2326]                                                              |![py]
 [2327][2327l]|[Number of People Aware of a Secret][2327]                                            |![py]
@@ -3230,6 +3231,7 @@
 [2318]:Problemset/2318-Number%20of%20Distinct%20Roll%20Sequences/README.md#2318-number-of-distinct-roll-sequences
 [2319]:Problemset/2319-Check%20if%20Matrix%20Is%20X-Matrix/README.md#2319-check-if-matrix-is-x-matrix
 [2320]:Problemset/2320-Count%20Number%20of%20Ways%20to%20Place%20Houses/README.md#2320-count-number-of-ways-to-place-houses
+[2321]:Problemset/2321-Maximum%20Score%20Of%20Spliced%20Array/README.md#2321-maximum-score-of-spliced-array
 [2325]:Problemset/2325-Decode%20the%20Message/README.md#2325-decode-the-message
 [2326]:Problemset/2326-Spiral%20Matrix%20IV/README.md#2326-spiral-matrix-iv
 [2327]:Problemset/2327-Number%20of%20People%20Aware%20of%20a%20Secret/README.md#2327-number-of-people-aware-of-a-secret
@@ -4929,6 +4931,7 @@
 [2318l]:https://leetcode.com/problems/number-of-distinct-roll-sequences/
 [2319l]:https://leetcode.com/problems/check-if-matrix-is-x-matrix/
 [2320l]:https://leetcode.com/problems/count-number-of-ways-to-place-houses/
+[2321l]:https://leetcode.com/problems/maximum-score-of-spliced-array/
 [2325l]:https://leetcode.com/problems/decode-the-message/
 [2326l]:https://leetcode.com/problems/spiral-matrix-iv/
 [2327l]:https://leetcode.com/problems/number-of-people-aware-of-a-secret/
