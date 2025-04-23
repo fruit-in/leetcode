@@ -1674,6 +1674,7 @@
 [2562][2562l]|[找出数组的串联值][2562]                                  |![rs]
 [2563][2563l]|[统计公平数对的数目][2563]                                |![py]
 [2564][2564l]|[子字符串异或查询][2564]                                  |![py]
+[2565][2565l]|[最少得分子序列][2565]                                    |![rs]
 [2566][2566l]|[替换一个数字后的最大差值][2566]                          |![py]
 [2568][2568l]|[最小无法得到的或值][2568]                                |![rs]
 [2570][2570l]|[合并两个二维数组 - 求和法][2570]                         |![rs]
@@ -3380,6 +3381,7 @@
 [2562]:Problemset/2562-Find%20the%20Array%20Concatenation%20Value/README_CN.md#2562-找出数组的串联值
 [2563]:Problemset/2563-Count%20the%20Number%20of%20Fair%20Pairs/README_CN.md#2563-统计公平数对的数目
 [2564]:Problemset/2564-Substring%20XOR%20Queries/README_CN.md#2564-子字符串异或查询
+[2565]:Problemset/2565-Subsequence%20With%20the%20Minimum%20Score/README_CN.md#2565-最少得分子序列
 [2566]:Problemset/2566-Maximum%20Difference%20by%20Remapping%20a%20Digit/README_CN.md#2566-替换一个数字后的最大差值
 [2568]:Problemset/2568-Minimum%20Impossible%20OR/README_CN.md#2568-最小无法得到的或值
 [2570]:Problemset/2570-Merge%20Two%202D%20Arrays%20by%20Summing%20Values/README_CN.md#2570-合并两个二维数组---求和法
@@ -5080,6 +5082,7 @@
 [2562l]:https://leetcode.cn/problems/find-the-array-concatenation-value/
 [2563l]:https://leetcode.cn/problems/count-the-number-of-fair-pairs/
 [2564l]:https://leetcode.cn/problems/substring-xor-queries/
+[2565l]:https://leetcode.cn/problems/subsequence-with-the-minimum-score/
 [2566l]:https://leetcode.cn/problems/maximum-difference-by-remapping-a-digit/
 [2568l]:https://leetcode.cn/problems/minimum-impossible-or/
 [2570l]:https://leetcode.cn/problems/merge-two-2d-arrays-by-summing-values/

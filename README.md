@@ -1674,6 +1674,7 @@
 [2562][2562l]|[Find the Array Concatenation Value][2562]                                            |![rs]
 [2563][2563l]|[Count the Number of Fair Pairs][2563]                                                |![py]
 [2564][2564l]|[Substring XOR Queries][2564]                                                         |![py]
+[2565][2565l]|[Subsequence With the Minimum Score][2565]                                            |![rs]
 [2566][2566l]|[Maximum Difference by Remapping a Digit][2566]                                       |![py]
 [2568][2568l]|[Minimum Impossible OR][2568]                                                         |![rs]
 [2570][2570l]|[Merge Two 2D Arrays by Summing Values][2570]                                         |![rs]
@@ -3380,6 +3381,7 @@
 [2562]:Problemset/2562-Find%20the%20Array%20Concatenation%20Value/README.md#2562-find-the-array-concatenation-value
 [2563]:Problemset/2563-Count%20the%20Number%20of%20Fair%20Pairs/README.md#2563-count-the-number-of-fair-pairs
 [2564]:Problemset/2564-Substring%20XOR%20Queries/README.md#2564-substring-xor-queries
+[2565]:Problemset/2565-Subsequence%20With%20the%20Minimum%20Score/README.md#2565-subsequence-with-the-minimum-score
 [2566]:Problemset/2566-Maximum%20Difference%20by%20Remapping%20a%20Digit/README.md#2566-maximum-difference-by-remapping-a-digit
 [2568]:Problemset/2568-Minimum%20Impossible%20OR/README.md#2568-minimum-impossible-or
 [2570]:Problemset/2570-Merge%20Two%202D%20Arrays%20by%20Summing%20Values/README.md#2570-merge-two-2d-arrays-by-summing-values
@@ -5080,6 +5082,7 @@
 [2562l]:https://leetcode.com/problems/find-the-array-concatenation-value/
 [2563l]:https://leetcode.com/problems/count-the-number-of-fair-pairs/
 [2564l]:https://leetcode.com/problems/substring-xor-queries/
+[2565l]:https://leetcode.com/problems/subsequence-with-the-minimum-score/
 [2566l]:https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/
 [2568l]:https://leetcode.com/problems/minimum-impossible-or/
 [2570l]:https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
