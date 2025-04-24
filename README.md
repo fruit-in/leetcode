@@ -1030,6 +1030,7 @@
 [1514][1514l]|[Path with Maximum Probability][1514]                                                 |![py]
 [1518][1518l]|[Water Bottles][1518]                                                                 |![rb]&nbsp;&nbsp;![rs]
 [1519][1519l]|[Number of Nodes in the Sub-Tree With the Same Label][1519]                           |![py]
+[1521][1521l]|[Find a Value of a Mysterious Function Closest to Target][1521]                       |![rs]
 [1523][1523l]|[Count Odd Numbers in an Interval Range][1523]                                        |![rb]
 [1524][1524l]|[Number of Sub-arrays With Odd Sum][1524]                                             |![rb]&nbsp;&nbsp;![rs]
 [1525][1525l]|[Number of Good Ways to Split a String][1525]                                         |![rs]
@@ -2738,6 +2739,7 @@
 [1514]:Problemset/1514-Path%20with%20Maximum%20Probability/README.md#1514-path-with-maximum-probability
 [1518]:Problemset/1518-Water%20Bottles/README.md#1518-water-bottles
 [1519]:Problemset/1519-Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label/README.md#1519-number-of-nodes-in-the-sub-tree-with-the-same-label
+[1521]:Problemset/1521-Find%20a%20Value%20of%20a%20Mysterious%20Function%20Closest%20to%20Target/README.md#1521-find-a-value-of-a-mysterious-function-closest-to-target
 [1523]:Problemset/1523-Count%20Odd%20Numbers%20in%20an%20Interval%20Range/README.md#1523-count-odd-numbers-in-an-interval-range
 [1524]:Problemset/1524-Number%20of%20Sub-arrays%20With%20Odd%20Sum/README.md#1524-number-of-sub-arrays-with-odd-sum
 [1525]:Problemset/1525-Number%20of%20Good%20Ways%20to%20Split%20a%20String/README.md#1525-number-of-good-ways-to-split-a-string
@@ -4440,6 +4442,7 @@
 [1514l]:https://leetcode.com/problems/path-with-maximum-probability/
 [1518l]:https://leetcode.com/problems/water-bottles/
 [1519l]:https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/
+[1521l]:https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/
 [1523l]:https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 [1524l]:https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
 [1525l]:https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
