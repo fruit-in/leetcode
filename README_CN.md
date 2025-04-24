@@ -1154,6 +1154,7 @@
 [1736][1736l]|[替换隐藏数字得到的最晚时间][1736]                        |![rs]
 [1737][1737l]|[满足三条件之一需改变的最少字符数][1737]                  |![rs]
 [1738][1738l]|[找出第 K 大的异或坐标值][1738]                           |![rb]&nbsp;&nbsp;![rs]
+[1739][1739l]|[放置盒子][1739]                                          |![rs]
 [1742][1742l]|[盒子中小球的最大数量][1742]                              |![py]
 [1743][1743l]|[从相邻元素对还原数组][1743]                              |![rs]
 [1744][1744l]|[你能在你最喜欢的那天吃到你最喜欢的糖果吗？][1744]        |![rs]
@@ -2863,6 +2864,7 @@
 [1736]:Problemset/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README_CN.md#1736-替换隐藏数字得到的最晚时间
 [1737]:Problemset/1737-Change%20Minimum%20Characters%20to%20Satisfy%20One%20of%20Three%20Conditions/README_CN.md#1737-满足三条件之一需改变的最少字符数
 [1738]:Problemset/1738-Find%20Kth%20Largest%20XOR%20Coordinate%20Value/README_CN.md#1738-找出第-k-大的异或坐标值
+[1739]:Problemset/1739-Building%20Boxes/README_CN.md#1739-放置盒子
 [1742]:Problemset/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README_CN.md#1742-盒子中小球的最大数量
 [1743]:Problemset/1743-Restore%20the%20Array%20From%20Adjacent%20Pairs/README_CN.md#1743-从相邻元素对还原数组
 [1744]:Problemset/1744-Can%20You%20Eat%20Your%20Favorite%20Candy%20on%20Your%20Favorite%20Day%3F/README_CN.md#1744-你能在你最喜欢的那天吃到你最喜欢的糖果吗？
@@ -4566,6 +4568,7 @@
 [1736l]:https://leetcode.cn/problems/latest-time-by-replacing-hidden-digits/
 [1737l]:https://leetcode.cn/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/
 [1738l]:https://leetcode.cn/problems/find-kth-largest-xor-coordinate-value/
+[1739l]:https://leetcode.cn/problems/building-boxes/
 [1742l]:https://leetcode.cn/problems/maximum-number-of-balls-in-a-box/
 [1743l]:https://leetcode.cn/problems/restore-the-array-from-adjacent-pairs/
 [1744l]:https://leetcode.cn/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/

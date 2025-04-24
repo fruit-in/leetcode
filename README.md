@@ -1154,6 +1154,7 @@
 [1736][1736l]|[Latest Time by Replacing Hidden Digits][1736]                                        |![rs]
 [1737][1737l]|[Change Minimum Characters to Satisfy One of Three Conditions][1737]                  |![rs]
 [1738][1738l]|[Find Kth Largest XOR Coordinate Value][1738]                                         |![rb]&nbsp;&nbsp;![rs]
+[1739][1739l]|[Building Boxes][1739]                                                                |![rs]
 [1742][1742l]|[Maximum Number of Balls in a Box][1742]                                              |![py]
 [1743][1743l]|[Restore the Array From Adjacent Pairs][1743]                                         |![rs]
 [1744][1744l]|[Can You Eat Your Favorite Candy on Your Favorite Day?][1744]                         |![rs]
@@ -2863,6 +2864,7 @@
 [1736]:Problemset/1736-Latest%20Time%20by%20Replacing%20Hidden%20Digits/README.md#1736-latest-time-by-replacing-hidden-digits
 [1737]:Problemset/1737-Change%20Minimum%20Characters%20to%20Satisfy%20One%20of%20Three%20Conditions/README.md#1737-change-minimum-characters-to-satisfy-one-of-three-conditions
 [1738]:Problemset/1738-Find%20Kth%20Largest%20XOR%20Coordinate%20Value/README.md#1738-find-kth-largest-xor-coordinate-value
+[1739]:Problemset/1739-Building%20Boxes/README.md#1739-building-boxes
 [1742]:Problemset/1742-Maximum%20Number%20of%20Balls%20in%20a%20Box/README.md#1742-maximum-number-of-balls-in-a-box
 [1743]:Problemset/1743-Restore%20the%20Array%20From%20Adjacent%20Pairs/README.md#1743-restore-the-array-from-adjacent-pairs
 [1744]:Problemset/1744-Can%20You%20Eat%20Your%20Favorite%20Candy%20on%20Your%20Favorite%20Day%3F/README.md#1744-can-you-eat-your-favorite-candy-on-your-favorite-day
@@ -4566,6 +4568,7 @@
 [1736l]:https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/
 [1737l]:https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/
 [1738l]:https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/
+[1739l]:https://leetcode.com/problems/building-boxes/
 [1742l]:https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
 [1743l]:https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
 [1744l]:https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/
