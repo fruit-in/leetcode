@@ -790,6 +790,7 @@
 [1137][1137l]|[第 N 个泰波那契数][1137]                                 |![rs]
 [1138][1138l]|[字母板上的路径][1138]                                    |![rb]&nbsp;&nbsp;![rs]
 [1139][1139l]|[最大的以 1 为边界的正方形][1139]                         |![rs]
+[1140][1140l]|[石子游戏 II][1140]                                       |![py]
 [1143][1143l]|[最长公共子序列][1143]                                    |![rs]
 [1144][1144l]|[递减元素使数组呈锯齿状][1144]                            |![rs]
 [1145][1145l]|[二叉树着色游戏][1145]                                    |![py]
@@ -2500,6 +2501,7 @@
 [1137]:Problemset/1137-N-th%20Tribonacci%20Number/README_CN.md#1137-第-n-个泰波那契数
 [1138]:Problemset/1138-Alphabet%20Board%20Path/README_CN.md#1138-字母板上的路径
 [1139]:Problemset/1139-Largest%201-Bordered%20Square/README_CN.md#1139-最大的以-1-为边界的正方形
+[1140]:Problemset/1140-Stone%20Game%20II/README_CN.md#1140-石子游戏-ii
 [1143]:Problemset/1143-Longest%20Common%20Subsequence/README_CN.md#1143-最长公共子序列
 [1144]:Problemset/1144-Decrease%20Elements%20To%20Make%20Array%20Zigzag/README_CN.md#1144-递减元素使数组呈锯齿状
 [1145]:Problemset/1145-Binary%20Tree%20Coloring%20Game/README_CN.md#1145-二叉树着色游戏
@@ -4204,6 +4206,7 @@
 [1137l]:https://leetcode.cn/problems/n-th-tribonacci-number/
 [1138l]:https://leetcode.cn/problems/alphabet-board-path/
 [1139l]:https://leetcode.cn/problems/largest-1-bordered-square/
+[1140l]:https://leetcode.cn/problems/stone-game-ii/
 [1143l]:https://leetcode.cn/problems/longest-common-subsequence/
 [1144l]:https://leetcode.cn/problems/decrease-elements-to-make-array-zigzag/
 [1145l]:https://leetcode.cn/problems/binary-tree-coloring-game/
