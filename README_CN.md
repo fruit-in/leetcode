@@ -331,6 +331,7 @@
 [455][455l]  |[分发饼干][455]                                           |![rb]&nbsp;&nbsp;![rs]
 [456][456l]  |[132 模式][456]                                           |![rs]
 [459][459l]  |[重复的子字符串][459]                                     |![py]
+[460][460l]  |[LFU 缓存][460]                                           |![py]
 [461][461l]  |[汉明距离][461]                                           |![rs]
 [462][462l]  |[最少移动次数使数组元素相等 II][462]                      |![rs]
 [463][463l]  |[岛屿的周长][463]                                         |![rs]
@@ -2044,6 +2045,7 @@
 [455]:Problemset/0455-Assign%20Cookies/README_CN.md#455-分发饼干
 [456]:Problemset/0456-132%20Pattern/README_CN.md#456-132-模式
 [459]:Problemset/0459-Repeated%20Substring%20Pattern/README_CN.md#459-重复的子字符串
+[460]:Problemset/0460-LFU%20Cache/README_CN.md#460-lfu-缓存
 [461]:Problemset/0461-Hamming%20Distance/README_CN.md#461-汉明距离
 [462]:Problemset/0462-Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/README_CN.md#462-最少移动次数使数组元素相等-ii
 [463]:Problemset/0463-Island%20Perimeter/README_CN.md#463-岛屿的周长
@@ -3751,6 +3753,7 @@
 [455l]:https://leetcode.cn/problems/assign-cookies/
 [456l]:https://leetcode.cn/problems/132-pattern/
 [459l]:https://leetcode.cn/problems/repeated-substring-pattern/
+[460l]:https://leetcode.cn/problems/lfu-cache/
 [461l]:https://leetcode.cn/problems/hamming-distance/
 [462l]:https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/
 [463l]:https://leetcode.cn/problems/island-perimeter/
