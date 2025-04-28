@@ -1394,6 +1394,7 @@
 [2111][2111l]|[Minimum Operations to Make the Array K-Increasing][2111]                             |![py]
 [2114][2114l]|[Maximum Number of Words Found in Sentences][2114]                                    |![rs]
 [2115][2115l]|[Find All Possible Recipes from Given Supplies][2115]                                 |![py]
+[2117][2117l]|[Abbreviating the Product of a Range][2117]                                           |![py]
 [2119][2119l]|[A Number After a Double Reversal][2119]                                              |![rs]
 [2120][2120l]|[Execution of All Suffix Instructions Staying in a Grid][2120]                        |![rs]
 [2121][2121l]|[Intervals Between Identical Elements][2121]                                          |![py]
@@ -3109,6 +3110,7 @@
 [2111]:Problemset/2111-Minimum%20Operations%20to%20Make%20the%20Array%20K-Increasing/README.md#2111-minimum-operations-to-make-the-array-k-increasing
 [2114]:Problemset/2114-Maximum%20Number%20of%20Words%20Found%20in%20Sentences/README.md#2114-maximum-number-of-words-found-in-sentences
 [2115]:Problemset/2115-Find%20All%20Possible%20Recipes%20from%20Given%20Supplies/README.md#2115-find-all-possible-recipes-from-given-supplies
+[2117]:Problemset/2117-Abbreviating%20the%20Product%20of%20a%20Range/README.md#2117-abbreviating-the-product-of-a-range
 [2119]:Problemset/2119-A%20Number%20After%20a%20Double%20Reversal/README.md#2119-a-number-after-a-double-reversal
 [2120]:Problemset/2120-Execution%20of%20All%20Suffix%20Instructions%20Staying%20in%20a%20Grid/README.md#2120-execution-of-all-suffix-instructions-staying-in-a-grid
 [2121]:Problemset/2121-Intervals%20Between%20Identical%20Elements/README.md#2121-intervals-between-identical-elements
@@ -4818,6 +4820,7 @@
 [2111l]:https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/
 [2114l]:https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [2115l]:https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
+[2117l]:https://leetcode.com/problems/abbreviating-the-product-of-a-range/
 [2119l]:https://leetcode.com/problems/a-number-after-a-double-reversal/
 [2120l]:https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/
 [2121l]:https://leetcode.com/problems/intervals-between-identical-elements/
