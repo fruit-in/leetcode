@@ -1142,6 +1142,7 @@
 [1700][1700l]|[Number of Students Unable to Eat Lunch][1700]                                        |![rb]&nbsp;&nbsp;![rs]
 [1701][1701l]|[Average Waiting Time][1701]                                                          |![rb]&nbsp;&nbsp;![rs]
 [1702][1702l]|[Maximum Binary String After Change][1702]                                            |![rs]
+[1703][1703l]|[Minimum Adjacent Swaps for K Consecutive Ones][1703]                                 |![rs]
 [1704][1704l]|[Determine if String Halves Are Alike][1704]                                          |![rb]&nbsp;&nbsp;![rs]
 [1705][1705l]|[Maximum Number of Eaten Apples][1705]                                                |![rs]
 [1706][1706l]|[Where Will the Ball Fall][1706]                                                      |![rs]
@@ -2861,6 +2862,7 @@
 [1700]:Problemset/1700-Number%20of%20Students%20Unable%20to%20Eat%20Lunch/README.md#1700-number-of-students-unable-to-eat-lunch
 [1701]:Problemset/1701-Average%20Waiting%20Time/README.md#1701-average-waiting-time
 [1702]:Problemset/1702-Maximum%20Binary%20String%20After%20Change/README.md#1702-maximum-binary-string-after-change
+[1703]:Problemset/1703-Minimum%20Adjacent%20Swaps%20for%20K%20Consecutive%20Ones/README.md#1703-minimum-adjacent-swaps-for-k-consecutive-ones
 [1704]:Problemset/1704-Determine%20if%20String%20Halves%20Are%20Alike/README.md#1704-determine-if-string-halves-are-alike
 [1705]:Problemset/1705-Maximum%20Number%20of%20Eaten%20Apples/README.md#1705-maximum-number-of-eaten-apples
 [1706]:Problemset/1706-Where%20Will%20the%20Ball%20Fall/README.md#1706-where-will-the-ball-fall
@@ -4574,6 +4576,7 @@
 [1700l]:https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
 [1701l]:https://leetcode.com/problems/average-waiting-time/
 [1702l]:https://leetcode.com/problems/maximum-binary-string-after-change/
+[1703l]:https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/
 [1704l]:https://leetcode.com/problems/determine-if-string-halves-are-alike/
 [1705l]:https://leetcode.com/problems/maximum-number-of-eaten-apples/
 [1706l]:https://leetcode.com/problems/where-will-the-ball-fall/
