@@ -1661,6 +1661,7 @@
 [2514][2514l]|[Count Anagrams][2514]                                                                |![rs]
 [2515][2515l]|[Shortest Distance to Target String in a Circular Array][2515]                        |![rs]
 [2516][2516l]|[Take K of Each Character From Left and Right][2516]                                  |![rs]
+[2517][2517l]|[Maximum Tastiness of Candy Basket][2517]                                             |![py]
 [2520][2520l]|[Count the Digits That Divide a Number][2520]                                         |![rs]
 [2521][2521l]|[Distinct Prime Factors of Product of Array][2521]                                    |![rs]
 [2523][2523l]|[Closest Prime Numbers in Range][2523]                                                |![rs]
@@ -3381,6 +3382,7 @@
 [2514]:Problemset/2514-Count%20Anagrams/README.md#2514-count-anagrams
 [2515]:Problemset/2515-Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/README.md#2515-shortest-distance-to-target-string-in-a-circular-array
 [2516]:Problemset/2516-Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right/README.md#2516-take-k-of-each-character-from-left-and-right
+[2517]:Problemset/2517-Maximum%20Tastiness%20of%20Candy%20Basket/README.md#2517-maximum-tastiness-of-candy-basket
 [2520]:Problemset/2520-Count%20the%20Digits%20That%20Divide%20a%20Number/README.md#2520-count-the-digits-that-divide-a-number
 [2521]:Problemset/2521-Distinct%20Prime%20Factors%20of%20Product%20of%20Array/README.md#2521-distinct-prime-factors-of-product-of-array
 [2523]:Problemset/2523-Closest%20Prime%20Numbers%20in%20Range/README.md#2523-closest-prime-numbers-in-range
@@ -5095,6 +5097,7 @@
 [2514l]:https://leetcode.com/problems/count-anagrams/
 [2515l]:https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 [2516l]:https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/
+[2517l]:https://leetcode.com/problems/maximum-tastiness-of-candy-basket/
 [2520l]:https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 [2521l]:https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/
 [2523l]:https://leetcode.com/problems/closest-prime-numbers-in-range/
