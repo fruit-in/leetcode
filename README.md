@@ -1136,6 +1136,7 @@
 [1685][1685l]|[Sum of Absolute Differences in a Sorted Array][1685]                                 |![rb]&nbsp;&nbsp;![rs]
 [1688][1688l]|[Count of Matches in Tournament][1688]                                                |![rb]&nbsp;&nbsp;![rs]
 [1689][1689l]|[Partitioning Into Minimum Number Of Deci-Binary Numbers][1689]                       |![rb]&nbsp;&nbsp;![rs]
+[1690][1690l]|[Stone Game VII][1690]                                                                |![rs]
 [1694][1694l]|[Reformat Phone Number][1694]                                                         |![py]
 [1695][1695l]|[Maximum Erasure Value][1695]                                                         |![rb]&nbsp;&nbsp;![rs]
 [1696][1696l]|[Jump Game VI][1696]                                                                  |![rs]
@@ -2857,6 +2858,7 @@
 [1685]:Problemset/1685-Sum%20of%20Absolute%20Differences%20in%20a%20Sorted%20Array/README.md#1685-sum-of-absolute-differences-in-a-sorted-array
 [1688]:Problemset/1688-Count%20of%20Matches%20in%20Tournament/README.md#1688-count-of-matches-in-tournament
 [1689]:Problemset/1689-Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/README.md#1689-partitioning-into-minimum-number-of-deci-binary-numbers
+[1690]:Problemset/1690-Stone%20Game%20VII/README.md#1690-stone-game-vii
 [1694]:Problemset/1694-Reformat%20Phone%20Number/README.md#1694-reformat-phone-number
 [1695]:Problemset/1695-Maximum%20Erasure%20Value/README.md#1695-maximum-erasure-value
 [1696]:Problemset/1696-Jump%20Game%20VI/README.md#1696-jump-game-vi
@@ -4572,6 +4574,7 @@
 [1685l]:https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
 [1688l]:https://leetcode.com/problems/count-of-matches-in-tournament/
 [1689l]:https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+[1690l]:https://leetcode.com/problems/stone-game-vii/
 [1694l]:https://leetcode.com/problems/reformat-phone-number/
 [1695l]:https://leetcode.com/problems/maximum-erasure-value/
 [1696l]:https://leetcode.com/problems/jump-game-vi/
