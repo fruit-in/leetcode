@@ -1545,6 +1545,7 @@
 [2328][2328l]|[Number of Increasing Paths in a Grid][2328]                                          |![rs]
 [2331][2331l]|[Evaluate Boolean Binary Tree][2331]                                                  |![py]
 [2332][2332l]|[The Latest Time to Catch a Bus][2332]                                                |![rs]
+[2333][2333l]|[Minimum Sum of Squared Difference][2333]                                             |![rs]
 [2334][2334l]|[Subarray With Elements Greater Than Varying Threshold][2334]                         |![rs]
 [2335][2335l]|[Minimum Amount of Time to Fill Cups][2335]                                           |![rs]
 [2336][2336l]|[Smallest Number in Infinite Set][2336]                                               |![rs]
@@ -3267,6 +3268,7 @@
 [2328]:Problemset/2328-Number%20of%20Increasing%20Paths%20in%20a%20Grid/README.md#2328-number-of-increasing-paths-in-a-grid
 [2331]:Problemset/2331-Evaluate%20Boolean%20Binary%20Tree/README.md#2331-evaluate-boolean-binary-tree
 [2332]:Problemset/2332-The%20Latest%20Time%20to%20Catch%20a%20Bus/README.md#2332-the-latest-time-to-catch-a-bus
+[2333]:Problemset/2333-Minimum%20Sum%20of%20Squared%20Difference/README.md#2333-minimum-sum-of-squared-difference
 [2334]:Problemset/2334-Subarray%20With%20Elements%20Greater%20Than%20Varying%20Threshold/README.md#2334-subarray-with-elements-greater-than-varying-threshold
 [2335]:Problemset/2335-Minimum%20Amount%20of%20Time%20to%20Fill%20Cups/README.md#2335-minimum-amount-of-time-to-fill-cups
 [2336]:Problemset/2336-Smallest%20Number%20in%20Infinite%20Set/README.md#2336-smallest-number-in-infinite-set
@@ -4983,6 +4985,7 @@
 [2328l]:https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
 [2331l]:https://leetcode.com/problems/evaluate-boolean-binary-tree/
 [2332l]:https://leetcode.com/problems/the-latest-time-to-catch-a-bus/
+[2333l]:https://leetcode.com/problems/minimum-sum-of-squared-difference/
 [2334l]:https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/
 [2335l]:https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/
 [2336l]:https://leetcode.com/problems/smallest-number-in-infinite-set/

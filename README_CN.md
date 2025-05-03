@@ -1545,6 +1545,7 @@
 [2328][2328l]|[网格图中递增路径的数目][2328]                            |![rs]
 [2331][2331l]|[计算布尔二叉树的值][2331]                                |![py]
 [2332][2332l]|[坐上公交的最晚时间][2332]                                |![rs]
+[2333][2333l]|[最小差值平方和][2333]                                    |![rs]
 [2334][2334l]|[元素值大于变化阈值的子数组][2334]                        |![rs]
 [2335][2335l]|[装满杯子需要的最短总时长][2335]                          |![rs]
 [2336][2336l]|[无限集中的最小数字][2336]                                |![rs]
@@ -3267,6 +3268,7 @@
 [2328]:Problemset/2328-Number%20of%20Increasing%20Paths%20in%20a%20Grid/README_CN.md#2328-网格图中递增路径的数目
 [2331]:Problemset/2331-Evaluate%20Boolean%20Binary%20Tree/README_CN.md#2331-计算布尔二叉树的值
 [2332]:Problemset/2332-The%20Latest%20Time%20to%20Catch%20a%20Bus/README_CN.md#2332-坐上公交的最晚时间
+[2333]:Problemset/2333-Minimum%20Sum%20of%20Squared%20Difference/README_CN.md#2333-最小差值平方和
 [2334]:Problemset/2334-Subarray%20With%20Elements%20Greater%20Than%20Varying%20Threshold/README_CN.md#2334-元素值大于变化阈值的子数组
 [2335]:Problemset/2335-Minimum%20Amount%20of%20Time%20to%20Fill%20Cups/README_CN.md#2335-装满杯子需要的最短总时长
 [2336]:Problemset/2336-Smallest%20Number%20in%20Infinite%20Set/README_CN.md#2336-无限集中的最小数字
@@ -4983,6 +4985,7 @@
 [2328l]:https://leetcode.cn/problems/number-of-increasing-paths-in-a-grid/
 [2331l]:https://leetcode.cn/problems/evaluate-boolean-binary-tree/
 [2332l]:https://leetcode.cn/problems/the-latest-time-to-catch-a-bus/
+[2333l]:https://leetcode.cn/problems/minimum-sum-of-squared-difference/
 [2334l]:https://leetcode.cn/problems/subarray-with-elements-greater-than-varying-threshold/
 [2335l]:https://leetcode.cn/problems/minimum-amount-of-time-to-fill-cups/
 [2336l]:https://leetcode.cn/problems/smallest-number-in-infinite-set/
