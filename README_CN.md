@@ -820,6 +820,7 @@
 [1190][1190l]|[反转每对括号间的子串][1190]                              |![rs]
 [1191][1191l]|[K 次串联后最大子数组之和][1191]                          |![rb]&nbsp;&nbsp;![rs]
 [1200][1200l]|[最小绝对差][1200]                                        |![rs]
+[1201][1201l]|[丑数 III][1201]                                          |![py]
 [1202][1202l]|[交换字符串中的元素][1202]                                |![py]
 [1206][1206l]|[设计跳表][1206]                                          |![py]
 [1207][1207l]|[独一无二的出现次数][1207]                                |![rs]
@@ -2545,6 +2546,7 @@
 [1190]:Problemset/1190-Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/README_CN.md#1190-反转每对括号间的子串
 [1191]:Problemset/1191-K-Concatenation%20Maximum%20Sum/README_CN.md#1191-k-次串联后最大子数组之和
 [1200]:Problemset/1200-Minimum%20Absolute%20Difference/README_CN.md#1200-最小绝对差
+[1201]:Problemset/1201-Ugly%20Number%20III/README_CN.md#1201-丑数-iii
 [1202]:Problemset/1202-Smallest%20String%20With%20Swaps/README_CN.md#1202-交换字符串中的元素
 [1206]:Problemset/1206-Design%20Skiplist/README_CN.md#1206-设计跳表
 [1207]:Problemset/1207-Unique%20Number%20of%20Occurrences/README_CN.md#1207-独一无二的出现次数
@@ -4264,6 +4266,7 @@
 [1190l]:https://leetcode.cn/problems/reverse-substrings-between-each-pair-of-parentheses/
 [1191l]:https://leetcode.cn/problems/k-concatenation-maximum-sum/
 [1200l]:https://leetcode.cn/problems/minimum-absolute-difference/
+[1201l]:https://leetcode.cn/problems/ugly-number-iii/
 [1202l]:https://leetcode.cn/problems/smallest-string-with-swaps/
 [1206l]:https://leetcode.cn/problems/design-skiplist/
 [1207l]:https://leetcode.cn/problems/unique-number-of-occurrences/
