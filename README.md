@@ -1689,6 +1689,7 @@
 [2555][2555l]|[Maximize Win From Two Segments][2555]                                                |![py]
 [2558][2558l]|[Take Gifts From the Richest Pile][2558]                                              |![rs]
 [2559][2559l]|[Count Vowel Strings in Ranges][2559]                                                 |![rs]
+[2560][2560l]|[House Robber IV][2560]                                                               |![py]
 [2561][2561l]|[Rearranging Fruits][2561]                                                            |![rs]
 [2562][2562l]|[Find the Array Concatenation Value][2562]                                            |![rs]
 [2563][2563l]|[Count the Number of Fair Pairs][2563]                                                |![py]
@@ -3416,6 +3417,7 @@
 [2555]:Problemset/2555-Maximize%20Win%20From%20Two%20Segments/README.md#2555-maximize-win-from-two-segments
 [2558]:Problemset/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README.md#2558-take-gifts-from-the-richest-pile
 [2559]:Problemset/2559-Count%20Vowel%20Strings%20in%20Ranges/README.md#2559-count-vowel-strings-in-ranges
+[2560]:Problemset/2560-House%20Robber%20IV/README.md#2560-house-robber-iv
 [2561]:Problemset/2561-Rearranging%20Fruits/README.md#2561-rearranging-fruits
 [2562]:Problemset/2562-Find%20the%20Array%20Concatenation%20Value/README.md#2562-find-the-array-concatenation-value
 [2563]:Problemset/2563-Count%20the%20Number%20of%20Fair%20Pairs/README.md#2563-count-the-number-of-fair-pairs
@@ -5137,6 +5139,7 @@
 [2555l]:https://leetcode.com/problems/maximize-win-from-two-segments/
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2559l]:https://leetcode.com/problems/count-vowel-strings-in-ranges/
+[2560l]:https://leetcode.com/problems/house-robber-iv/
 [2561l]:https://leetcode.com/problems/rearranging-fruits/
 [2562l]:https://leetcode.com/problems/find-the-array-concatenation-value/
 [2563l]:https://leetcode.com/problems/count-the-number-of-fair-pairs/
