@@ -690,6 +690,7 @@
 [968][968l]  |[监控二叉树][968]                                         |![py]
 [969][969l]  |[煎饼排序][969]                                           |![py]
 [970][970l]  |[强整数][970]                                             |![rs]
+[971][971l]  |[翻转二叉树以匹配先序遍历][971]                           |![py]
 [973][973l]  |[最接近原点的 K 个点][973]                                |![rs]
 [974][974l]  |[和可被 K 整除的子数组][974]                              |![rb]&nbsp;&nbsp;![rs]
 [975][975l]  |[奇偶跳][975]                                             |![py]
@@ -2418,6 +2419,7 @@
 [968]:Problemset/0968-Binary%20Tree%20Cameras/README_CN.md#968-监控二叉树
 [969]:Problemset/0969-Pancake%20Sorting/README_CN.md#969-煎饼排序
 [970]:Problemset/0970-Powerful%20Integers/README_CN.md#970-强整数
+[971]:Problemset/0971-Flip%20Binary%20Tree%20To%20Match%20Preorder%20Traversal/README_CN.md#971-翻转二叉树以匹配先序遍历
 [973]:Problemset/0973-K%20Closest%20Points%20to%20Origin/README_CN.md#973-最接近原点的-K-个点
 [974]:Problemset/0974-Subarray%20Sums%20Divisible%20by%20K/README_CN.md#974-和可被-k-整除的子数组
 [975]:Problemset/0975-Odd%20Even%20Jump/README_CN.md#975-奇偶跳
@@ -4140,6 +4142,7 @@
 [968l]:https://leetcode.cn/problems/binary-tree-cameras/
 [969l]:https://leetcode.cn/problems/pancake-sorting/
 [970l]:https://leetcode.cn/problems/powerful-integers/
+[971l]:https://leetcode.cn/problems/flip-binary-tree-to-match-preorder-traversal/
 [973l]:https://leetcode.cn/problems/k-closest-points-to-origin/
 [974l]:https://leetcode.cn/problems/subarray-sums-divisible-by-k/
 [975l]:https://leetcode.cn/problems/odd-even-jump/
