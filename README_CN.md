@@ -40,6 +40,7 @@
 [37][37l]    |[解数独][37]                                              |![py]
 [38][38l]    |[外观数列][38]                                            |![py]&nbsp;&nbsp;![rb]
 [39][39l]    |[组合总和][39]                                            |![rb]
+[40][40l]    |[组合总和 II][40]                                         |![rs]
 [41][41l]    |[缺失的第一个正数][41]                                    |![rs]
 [42][42l]    |[接雨水][42]                                              |![rs]
 [43][43l]    |[字符串相乘][43]                                          |![rs]
@@ -1770,6 +1771,7 @@
 [37]:Problemset/0037-Sudoku%20Solver/README_CN.md#37-解数独
 [38]:Problemset/0038-Count%20and%20Say/README_CN.md#38-外观数列
 [39]:Problemset/0039-Combination%20Sum/README_CN.md#39-组合总和
+[40]:Problemset/0040-Combination%20Sum%20II/README_CN.md#40-组合总和-ii
 [41]:Problemset/0041-First%20Missing%20Positive/README_CN.md#41-缺失的第一个正数
 [42]:Problemset/0042-Trapping%20Rain%20Water/README_CN.md#42-接雨水
 [43]:Problemset/0043-Multiply%20Strings/README_CN.md#43-字符串相乘
@@ -3492,6 +3494,7 @@
 [37l]:https://leetcode.cn/problems/sudoku-solver/
 [38l]:https://leetcode.cn/problems/count-and-say/
 [39l]:https://leetcode.cn/problems/combination-sum/
+[40l]:https://leetcode.cn/problems/combination-sum-ii/
 [41l]:https://leetcode.cn/problems/first-missing-positive/
 [42l]:https://leetcode.cn/problems/trapping-rain-water/
 [43l]:https://leetcode.cn/problems/multiply-strings/
