@@ -1138,6 +1138,7 @@
 [1679][1679l]|[K 和数对的最大数目][1679]                                |![rs]
 [1684][1684l]|[统计一致字符串的数目][1684]                              |![rs]
 [1685][1685l]|[有序数组中差绝对值之和][1685]                            |![rb]&nbsp;&nbsp;![rs]
+[1686][1686l]|[石子游戏 VI][1686]                                       |![rs]
 [1688][1688l]|[比赛中的配对次数][1688]                                  |![rb]&nbsp;&nbsp;![rs]
 [1689][1689l]|[十-二进制数的最少数目][1689]                             |![rb]&nbsp;&nbsp;![rs]
 [1690][1690l]|[石子游戏 VII][1690]                                      |![rs]
@@ -2869,6 +2870,7 @@
 [1679]:Problemset/1679-Max%20Number%20of%20K-Sum%20Pairs/README_CN.md#1679-k-和数对的最大数目
 [1684]:Problemset/1684-Count%20the%20Number%20of%20Consistent%20Strings/README_CN.md#1684-统计一致字符串的数目
 [1685]:Problemset/1685-Sum%20of%20Absolute%20Differences%20in%20a%20Sorted%20Array/README_CN.md#1685-有序数组中差绝对值之和
+[1686]:Problemset/1686-Stone%20Game%20VI/README_CN.md#1686-石子游戏-vi
 [1688]:Problemset/1688-Count%20of%20Matches%20in%20Tournament/README_CN.md#1688-比赛中的配对次数
 [1689]:Problemset/1689-Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/README_CN.md#1689-十-二进制数的最少数目
 [1690]:Problemset/1690-Stone%20Game%20VII/README_CN.md#1690-石子游戏-vii
@@ -4594,6 +4596,7 @@
 [1679l]:https://leetcode.cn/problems/max-number-of-k-sum-pairs/
 [1684l]:https://leetcode.cn/problems/count-the-number-of-consistent-strings/
 [1685l]:https://leetcode.cn/problems/sum-of-absolute-differences-in-a-sorted-array/
+[1686l]:https://leetcode.cn/problems/stone-game-vi/
 [1688l]:https://leetcode.cn/problems/count-of-matches-in-tournament/
 [1689l]:https://leetcode.cn/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 [1690l]:https://leetcode.cn/problems/stone-game-vii/
