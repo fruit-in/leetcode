@@ -1347,6 +1347,7 @@
 [2025][2025l]|[分割数组的最多方案数][2025]                              |![rs]
 [2027][2027l]|[转换字符串的最少操作次数][2027]                          |![rs]
 [2028][2028l]|[找出缺失的观测数据][2028]                                |![rs]
+[2029][2029l]|[石子游戏 IX][2029]                                       |![rs]
 [2030][2030l]|[含特定字母的最小子序列][2030]                            |![rs]
 [2032][2032l]|[至少在两个数组中出现的值][2032]                          |![py]
 [2034][2034l]|[股票价格波动][2034]                                      |![rs]
@@ -3080,6 +3081,7 @@
 [2025]:Problemset/2025-Maximum%20Number%20of%20Ways%20to%20Partition%20an%20Array/README_CN.md#2025-分割数组的最多方案数
 [2027]:Problemset/2027-Minimum%20Moves%20to%20Convert%20String/README_CN.md#2027-转换字符串的最少操作次数
 [2028]:Problemset/2028-Find%20Missing%20Observations/README_CN.md#2028-找出缺失的观测数据
+[2029]:Problemset/2029-Stone%20Game%20IX/README_CN.md#2029-石子游戏-ix
 [2030]:Problemset/2030-Smallest%20K-Length%20Subsequence%20With%20Occurrences%20of%20a%20Letter/README_CN.md#2030-含特定字母的最小子序列
 [2032]:Problemset/2032-Two%20Out%20of%20Three/README_CN.md#2032-至少在两个数组中出现的值
 [2034]:Problemset/2034-Stock%20Price%20Fluctuation/README_CN.md#2034-股票价格波动
@@ -4807,6 +4809,7 @@
 [2025l]:https://leetcode.cn/problems/maximum-number-of-ways-to-partition-an-array/
 [2027l]:https://leetcode.cn/problems/minimum-moves-to-convert-string/
 [2028l]:https://leetcode.cn/problems/find-missing-observations/
+[2029l]:https://leetcode.cn/problems/stone-game-ix/
 [2030l]:https://leetcode.cn/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/
 [2032l]:https://leetcode.cn/problems/two-out-of-three/
 [2034l]:https://leetcode.cn/problems/stock-price-fluctuation/

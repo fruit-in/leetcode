@@ -1347,6 +1347,7 @@
 [2025][2025l]|[Maximum Number of Ways to Partition an Array][2025]                                  |![rs]
 [2027][2027l]|[Minimum Moves to Convert String][2027]                                               |![rs]
 [2028][2028l]|[Find Missing Observations][2028]                                                     |![rs]
+[2029][2029l]|[Stone Game IX][2029]                                                                 |![rs]
 [2030][2030l]|[Smallest K-Length Subsequence With Occurrences of a Letter][2030]                    |![rs]
 [2032][2032l]|[Two Out of Three][2032]                                                              |![py]
 [2034][2034l]|[Stock Price Fluctuation ][2034]                                                      |![rs]
@@ -3080,6 +3081,7 @@
 [2025]:Problemset/2025-Maximum%20Number%20of%20Ways%20to%20Partition%20an%20Array/README.md#2025-maximum-number-of-ways-to-partition-an-array
 [2027]:Problemset/2027-Minimum%20Moves%20to%20Convert%20String/README.md#2027-minimum-moves-to-convert-string
 [2028]:Problemset/2028-Find%20Missing%20Observations/README.md#2028-find-missing-observations
+[2029]:Problemset/2029-Stone%20Game%20IX/README.md#2029-stone-game-ix
 [2030]:Problemset/2030-Smallest%20K-Length%20Subsequence%20With%20Occurrences%20of%20a%20Letter/README.md#2030-smallest-k-length-subsequence-with-occurrences-of-a-letter
 [2032]:Problemset/2032-Two%20Out%20of%20Three/README.md#2032-two-out-of-three
 [2034]:Problemset/2034-Stock%20Price%20Fluctuation/README.md#2034-stock-price-fluctuation
@@ -4807,6 +4809,7 @@
 [2025l]:https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/
 [2027l]:https://leetcode.com/problems/minimum-moves-to-convert-string/
 [2028l]:https://leetcode.com/problems/find-missing-observations/
+[2029l]:https://leetcode.com/problems/stone-game-ix/
 [2030l]:https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/
 [2032l]:https://leetcode.com/problems/two-out-of-three/
 [2034l]:https://leetcode.com/problems/stock-price-fluctuation/
