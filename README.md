@@ -230,6 +230,7 @@
 [297][297l]  |[Serialize and Deserialize Binary Tree][297]                                          |![py]
 [299][299l]  |[Bulls and Cows][299]                                                                 |![py]
 [300][300l]  |[Longest Increasing Subsequence][300]                                                 |![rs]
+[301][301l]  |[Remove Invalid Parentheses][301]                                                     |![py]
 [303][303l]  |[Range Sum Query - Immutable][303]                                                    |![py]
 [304][304l]  |[Range Sum Query 2D - Immutable][304]                                                 |![rs]
 [306][306l]  |[Additive Number][306]                                                                |![rb]&nbsp;&nbsp;![rs]
@@ -1964,6 +1965,7 @@
 [297]:Problemset/0297-Serialize%20and%20Deserialize%20Binary%20Tree/README.md#297-serialize-and-deserialize-binary-tree
 [299]:Problemset/0299-Bulls%20and%20Cows/README.md#299-bulls-and-cows
 [300]:Problemset/0300-Longest%20Increasing%20Subsequence/README.md#300-longest-increasing-subsequence
+[301]:Problemset/0301-Remove%20Invalid%20Parentheses/README.md#301-remove-invalid-parentheses
 [303]:Problemset/0303-Range%20Sum%20Query%20-%20Immutable/README.md#303-range-sum-query---immutable
 [304]:Problemset/0304-Range%20Sum%20Query%202D%20-%20Immutable/README.md#304-range-sum-query-2d---immutable
 [306]:Problemset/0306-Additive%20Number/README.md#306-additive-number
@@ -3691,6 +3693,7 @@
 [297l]:https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 [299l]:https://leetcode.com/problems/bulls-and-cows/
 [300l]:https://leetcode.com/problems/longest-increasing-subsequence/
+[301l]:https://leetcode.com/problems/remove-invalid-parentheses/
 [303l]:https://leetcode.com/problems/range-sum-query-immutable/
 [304l]:https://leetcode.com/problems/range-sum-query-2d-immutable/
 [306l]:https://leetcode.com/problems/additive-number/

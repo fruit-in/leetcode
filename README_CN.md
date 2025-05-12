@@ -230,6 +230,7 @@
 [297][297l]  |[二叉树的序列化与反序列化][297]                           |![py]
 [299][299l]  |[猜数字游戏][299]                                         |![py]
 [300][300l]  |[最长递增子序列][300]                                     |![rs]
+[301][301l]  |[删除无效的括号][301]                                     |![py]
 [303][303l]  |[区域和检索 - 数组不可变][303]                            |![py]
 [304][304l]  |[二维区域和检索 - 矩阵不可变][304]                        |![rs]
 [306][306l]  |[累加数][306]                                             |![rb]&nbsp;&nbsp;![rs]
@@ -1964,6 +1965,7 @@
 [297]:Problemset/0297-Serialize%20and%20Deserialize%20Binary%20Tree/README_CN.md#297-二叉树的序列化与反序列化
 [299]:Problemset/0299-Bulls%20and%20Cows/README_CN.md#299-猜数字游戏
 [300]:Problemset/0300-Longest%20Increasing%20Subsequence/README_CN.md#300-最长递增子序列
+[301]:Problemset/0301-Remove%20Invalid%20Parentheses/README_CN.md#301-删除无效的括号
 [303]:Problemset/0303-Range%20Sum%20Query%20-%20Immutable/README_CN.md#303-区域和检索---数组不可变
 [304]:Problemset/0304-Range%20Sum%20Query%202D%20-%20Immutable/README_CN.md#304-二维区域和检索---矩阵不可变
 [306]:Problemset/0306-Additive%20Number/README_CN.md#306-累加数
@@ -3691,6 +3693,7 @@
 [297l]:https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/
 [299l]:https://leetcode.cn/problems/bulls-and-cows/
 [300l]:https://leetcode.cn/problems/longest-increasing-subsequence/
+[301l]:https://leetcode.cn/problems/remove-invalid-parentheses/
 [303l]:https://leetcode.cn/problems/range-sum-query-immutable/
 [304l]:https://leetcode.cn/problems/range-sum-query-2d-immutable/
 [306l]:https://leetcode.cn/problems/additive-number/
