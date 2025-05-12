@@ -1084,6 +1084,7 @@
 [1589][1589l]|[所有排列中的最大和][1589]                                |![rs]
 [1590][1590l]|[使数组和能被 P 整除][1590]                               |![rs]
 [1592][1592l]|[重新排列单词间的空格][1592]                              |![py]
+[1593][1593l]|[拆分字符串使唯一子字符串的数目最大][1593]                |![py]
 [1594][1594l]|[矩阵的最大非负积][1594]                                  |![rs]
 [1598][1598l]|[文件夹操作日志搜集器][1598]                              |![rb]
 [1599][1599l]|[经营摩天轮的最大利润][1599]                              |![rs]
@@ -2819,6 +2820,7 @@
 [1589]:Problemset/1589-Maximum%20Sum%20Obtained%20of%20Any%20Permutation/README_CN.md#1589-所有排列中的最大和
 [1590]:Problemset/1590-Make%20Sum%20Divisible%20by%20P/README_CN.md#1590-使数组和能被-p-整除
 [1592]:Problemset/1592-Rearrange%20Spaces%20Between%20Words/README_CN.md#1592-重新排列单词间的空格
+[1593]:Problemset/1593-Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings/README_CN.md#1593-拆分字符串使唯一子字符串的数目最大
 [1594]:Problemset/1594-Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/README_CN.md#1594-矩阵的最大非负积
 [1598]:Problemset/1598-Crawler%20Log%20Folder/README_CN.md#1598-文件夹操作日志搜集器
 [1599]:Problemset/1599-Maximum%20Profit%20of%20Operating%20a%20Centennial%20Wheel/README_CN.md#1599-经营摩天轮的最大利润
@@ -4548,6 +4550,7 @@
 [1589l]:https://leetcode.cn/problems/maximum-sum-obtained-of-any-permutation/
 [1590l]:https://leetcode.cn/problems/make-sum-divisible-by-p/
 [1592l]:https://leetcode.cn/problems/rearrange-spaces-between-words/
+[1593l]:https://leetcode.cn/problems/split-a-string-into-the-max-number-of-unique-substrings/
 [1594l]:https://leetcode.cn/problems/maximum-non-negative-product-in-a-matrix/
 [1598l]:https://leetcode.cn/problems/crawler-log-folder/
 [1599l]:https://leetcode.cn/problems/maximum-profit-of-operating-a-centennial-wheel/
