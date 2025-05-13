@@ -714,6 +714,7 @@
 [991][991l]  |[坏了的计算器][991]                                       |![rs]
 [993][993l]  |[二叉树的堂兄弟节点][993]                                 |![py]
 [994][994l]  |[腐烂的橘子][994]                                         |![rs]
+[996][996l]  |[平方数组的数目][996]                                     |![py]
 [997][997l]  |[找到小镇的法官][997]                                     |![rs]
 [998][998l]  |[最大二叉树 II][998]                                      |![py]&nbsp;&nbsp;![rb]
 [999][999l]  |[车的可用捕获量][999]                                     |![rs]
@@ -2450,6 +2451,7 @@
 [991]:Problemset/0991-Broken%20Calculator/README_CN.md#991-坏了的计算器
 [993]:Problemset/0993-Cousins%20in%20Binary%20Tree/README_CN.md#993-二叉树的堂兄弟节点
 [994]:Problemset/0994-Rotting%20Oranges/README_CN.md#994-腐烂的橘子
+[996]:Problemset/0996-Number%20of%20Squareful%20Arrays/README_CN.md#996-平方数组的数目
 [997]:Problemset/0997-Find%20the%20Town%20Judge/README_CN.md#997-找到小镇的法官
 [998]:Problemset/0998-Maximum%20Binary%20Tree%20II/README_CN.md#998-最大二叉树-ii
 [999]:Problemset/0999-Available%20Captures%20for%20Rook/README_CN.md#999-车的可用捕获量
@@ -4180,6 +4182,7 @@
 [991l]:https://leetcode.cn/problems/broken-calculator/
 [993l]:https://leetcode.cn/problems/cousins-in-binary-tree/
 [994l]:https://leetcode.cn/problems/rotting-oranges/
+[996l]:https://leetcode.cn/problems/number-of-squareful-arrays/
 [997l]:https://leetcode.cn/problems/find-the-town-judge/
 [998l]:https://leetcode.cn/problems/maximum-binary-tree-ii/
 [999l]:https://leetcode.cn/problems/available-captures-for-rook/

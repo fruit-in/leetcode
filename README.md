@@ -714,6 +714,7 @@
 [991][991l]  |[Broken Calculator][991]                                                              |![rs]
 [993][993l]  |[Cousins in Binary Tree][993]                                                         |![py]
 [994][994l]  |[Rotting Oranges][994]                                                                |![rs]
+[996][996l]  |[Number of Squareful Arrays][996]                                                     |![py]
 [997][997l]  |[Find the Town Judge][997]                                                            |![rs]
 [998][998l]  |[Maximum Binary Tree II][998]                                                         |![py]&nbsp;&nbsp;![rb]
 [999][999l]  |[Available Captures for Rook][999]                                                    |![rs]
@@ -2450,6 +2451,7 @@
 [991]:Problemset/0991-Broken%20Calculator/README.md#991-broken-calculator
 [993]:Problemset/0993-Cousins%20in%20Binary%20Tree/README.md#993-cousins-in-binary-tree
 [994]:Problemset/0994-Rotting%20Oranges/README.md#994-rotting-oranges
+[996]:Problemset/0996-Number%20of%20Squareful%20Arrays/README.md#996-number-of-squareful-arrays
 [997]:Problemset/0997-Find%20the%20Town%20Judge/README.md#997-find-the-town-judge
 [998]:Problemset/0998-Maximum%20Binary%20Tree%20II/README.md#998-maximum-binary-tree-ii
 [999]:Problemset/0999-Available%20Captures%20for%20Rook/README.md#999-available-captures-for-rook
@@ -4180,6 +4182,7 @@
 [991l]:https://leetcode.com/problems/broken-calculator/
 [993l]:https://leetcode.com/problems/cousins-in-binary-tree/
 [994l]:https://leetcode.com/problems/rotting-oranges/
+[996l]:https://leetcode.com/problems/number-of-squareful-arrays/
 [997l]:https://leetcode.com/problems/find-the-town-judge/
 [998l]:https://leetcode.com/problems/maximum-binary-tree-ii/
 [999l]:https://leetcode.com/problems/available-captures-for-rook/
