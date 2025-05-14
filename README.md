@@ -220,6 +220,7 @@
 [275][275l]  |[H-Index II][275]                                                                     |![rs]
 [278][278l]  |[First Bad Version][278]                                                              |![py]
 [279][279l]  |[Perfect Squares][279]                                                                |![rs]
+[282][282l]  |[Expression Add Operators][282]                                                       |![py]
 [283][283l]  |[Move Zeroes][283]                                                                    |![rs]
 [284][284l]  |[Peeking Iterator][284]                                                               |![py]
 [287][287l]  |[Find the Duplicate Number][287]                                                      |![rs]
@@ -1958,6 +1959,7 @@
 [275]:Problemset/0275-H-Index%20II/README.md#275-h-index-ii
 [278]:Problemset/0278-First%20Bad%20Version/README.md#278-first-bad-version
 [279]:Problemset/0279-Perfect%20Squares/README.md#279-perfect-squares
+[282]:Problemset/0282-Expression%20Add%20Operators/README.md#282-expression-add-operators
 [283]:Problemset/0283-Move%20Zeroes/README.md#283-move-zeroes
 [284]:Problemset/0284-Peeking%20Iterator/README.md#284-peeking-iterator
 [287]:Problemset/0287-Find%20the%20Duplicate%20Number/README.md#287-find-the-duplicate-number
@@ -3689,6 +3691,7 @@
 [275l]:https://leetcode.com/problems/h-index-ii/
 [278l]:https://leetcode.com/problems/first-bad-version/
 [279l]:https://leetcode.com/problems/perfect-squares/
+[282l]:https://leetcode.com/problems/expression-add-operators/
 [283l]:https://leetcode.com/problems/move-zeroes/
 [284l]:https://leetcode.com/problems/peeking-iterator/
 [287l]:https://leetcode.com/problems/find-the-duplicate-number/

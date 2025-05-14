@@ -220,6 +220,7 @@
 [275][275l]  |[H指数 II][275]                                           |![rs]
 [278][278l]  |[第一个错误的版本][278]                                   |![py]
 [279][279l]  |[完全平方数][279]                                         |![rs]
+[282][282l]  |[给表达式添加运算符][282]                                 |![py]
 [283][283l]  |[移动零][283]                                             |![rs]
 [284][284l]  |[顶端迭代器][284]                                         |![py]
 [287][287l]  |[寻找重复数][287]                                         |![rs]
@@ -1958,6 +1959,7 @@
 [275]:Problemset/0275-H-Index%20II/README_CN.md#275-H指数-ii
 [278]:Problemset/0278-First%20Bad%20Version/README_CN.md#278-第一个错误的版本
 [279]:Problemset/0279-Perfect%20Squares/README_CN.md#279-完全平方数
+[282]:Problemset/0282-Expression%20Add%20Operators/README_CN.md#282-给表达式添加运算符
 [283]:Problemset/0283-Move%20Zeroes/README_CN.md#283-移动零
 [284]:Problemset/0284-Peeking%20Iterator/README_CN.md#284-顶端迭代器
 [287]:Problemset/0287-Find%20the%20Duplicate%20Number/README_CN.md#287-寻找重复数
@@ -3689,6 +3691,7 @@
 [275l]:https://leetcode.cn/problems/h-index-ii/
 [278l]:https://leetcode.cn/problems/first-bad-version/
 [279l]:https://leetcode.cn/problems/perfect-squares/
+[282l]:https://leetcode.cn/problems/expression-add-operators/
 [283l]:https://leetcode.cn/problems/move-zeroes/
 [284l]:https://leetcode.cn/problems/peeking-iterator/
 [287l]:https://leetcode.cn/problems/find-the-duplicate-number/
