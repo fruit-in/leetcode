@@ -1164,6 +1164,7 @@
 [1720][1720l]|[Decode XORed Array][1720]                                                            |![rb]&nbsp;&nbsp;![rs]
 [1721][1721l]|[Swapping Nodes in a Linked List][1721]                                               |![rb]
 [1722][1722l]|[Minimize Hamming Distance After Swap Operations][1722]                               |![py]
+[1723][1723l]|[Find Minimum Time to Finish All Jobs][1723]                                          |![py]
 [1725][1725l]|[Number Of Rectangles That Can Form The Largest Square][1725]                         |![rb]&nbsp;&nbsp;![rs]
 [1726][1726l]|[Tuple with Same Product][1726]                                                       |![rb]&nbsp;&nbsp;![rs]
 [1732][1732l]|[Find the Highest Altitude][1732]                                                     |![rb]&nbsp;&nbsp;![rs]
@@ -2903,6 +2904,7 @@
 [1720]:Problemset/1720-Decode%20XORed%20Array/README.md#1720-decode-xored-array
 [1721]:Problemset/1721-Swapping%20Nodes%20in%20a%20Linked%20List/README.md#1721-swapping-nodes-in-a-linked-list
 [1722]:Problemset/1722-Minimize%20Hamming%20Distance%20After%20Swap%20Operations/README.md#1722-minimize-hamming-distance-after-swap-operations
+[1723]:Problemset/1723-Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/README.md#1723-find-minimum-time-to-finish-all-jobs
 [1725]:Problemset/1725-Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/README.md#1725-number-of-rectangles-that-can-form-the-largest-square
 [1726]:Problemset/1726-Tuple%20with%20Same%20Product/README.md#1726-tuple-with-same-product
 [1732]:Problemset/1732-Find%20the%20Highest%20Altitude/README.md#1732-find-the-highest-altitude
@@ -4636,6 +4638,7 @@
 [1720l]:https://leetcode.com/problems/decode-xored-array/
 [1721l]:https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
 [1722l]:https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
+[1723l]:https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/
 [1725l]:https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
 [1726l]:https://leetcode.com/problems/tuple-with-same-product/
 [1732l]:https://leetcode.com/problems/find-the-highest-altitude/
