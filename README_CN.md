@@ -834,6 +834,7 @@
 [1210][1210l]|[穿过迷宫的最少移动次数][1210]                            |![rs]
 [1217][1217l]|[玩筹码][1217]                                            |![rs]
 [1218][1218l]|[最长定差子序列][1218]                                    |![rs]
+[1219][1219l]|[黄金矿工][1219]                                          |![py]
 [1220][1220l]|[统计元音字母序列的数目][1220]                            |![rs]
 [1221][1221l]|[分割平衡字符串][1221]                                    |![rb]&nbsp;&nbsp;![rs]
 [1222][1222l]|[可以攻击国王的皇后][1222]                                |![rs]
@@ -2575,6 +2576,7 @@
 [1210]:Problemset/1210-Minimum%20Moves%20to%20Reach%20Target%20with%20Rotations/README_CN.md#1210-穿过迷宫的最少移动次数
 [1217]:Problemset/1217-Play%20with%20Chips/README_CN.md#1217-玩筹码
 [1218]:Problemset/1218-Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/README_CN.md#1218-最长定差子序列
+[1219]:Problemset/1219-Path%20with%20Maximum%20Gold/README_CN.md#1219-黄金矿工
 [1220]:Problemset/1220-Count%20Vowels%20Permutation/README_CN.md#1220-统计元音字母序列的数目
 [1221]:Problemset/1221-Split%20a%20String%20in%20Balanced%20Strings/README_CN.md#1221-分割平衡字符串
 [1222]:Problemset/1222-Queens%20That%20Can%20Attack%20the%20King/README_CN.md#1222-可以攻击国王的皇后
@@ -4310,6 +4312,7 @@
 [1210l]:https://leetcode.cn/problems/minimum-moves-to-reach-target-with-rotations/
 [1217l]:https://leetcode.cn/problems/play-with-chips/
 [1218l]:https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/
+[1219l]:https://leetcode.cn/problems/path-with-maximum-gold/
 [1220l]:https://leetcode.cn/problems/count-vowels-permutation/
 [1221l]:https://leetcode.cn/problems/split-a-string-in-balanced-strings/
 [1222l]:https://leetcode.cn/problems/queens-that-can-attack-the-king/

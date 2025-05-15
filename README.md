@@ -834,6 +834,7 @@
 [1210][1210l]|[Minimum Moves to Reach Target with Rotations][1210]                                  |![rs]
 [1217][1217l]|[Play with Chips][1217]                                                               |![rs]
 [1218][1218l]|[Longest Arithmetic Subsequence of Given Difference][1218]                            |![rs]
+[1219][1219l]|[Path with Maximum Gold][1219]                                                        |![py]
 [1220][1220l]|[Count Vowels Permutation][1220]                                                      |![rs]
 [1221][1221l]|[Split a String in Balanced Strings][1221]                                            |![rb]&nbsp;&nbsp;![rs]
 [1222][1222l]|[Queens That Can Attack the King][1222]                                               |![rs]
@@ -2575,6 +2576,7 @@
 [1210]:Problemset/1210-Minimum%20Moves%20to%20Reach%20Target%20with%20Rotations/README.md#1210-minimum-moves-to-reach-target-with-rotations
 [1217]:Problemset/1217-Play%20with%20Chips/README.md#1217-play-with-chips
 [1218]:Problemset/1218-Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/README.md#1218-longest-arithmetic-subsequence-of-given-difference
+[1219]:Problemset/1219-Path%20with%20Maximum%20Gold/README.md#1219-path-with-maximum-gold
 [1220]:Problemset/1220-Count%20Vowels%20Permutation/README.md#1220-count-vowels-permutation
 [1221]:Problemset/1221-Split%20a%20String%20in%20Balanced%20Strings/README.md#1221-split-a-string-in-balanced-strings
 [1222]:Problemset/1222-Queens%20That%20Can%20Attack%20the%20King/README.md#1222-queens-that-can-attack-the-king
@@ -4310,6 +4312,7 @@
 [1210l]:https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/
 [1217l]:https://leetcode.com/problems/play-with-chips/
 [1218l]:https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
+[1219l]:https://leetcode.com/problems/path-with-maximum-gold/
 [1220l]:https://leetcode.com/problems/count-vowels-permutation/
 [1221l]:https://leetcode.com/problems/split-a-string-in-balanced-strings/
 [1222l]:https://leetcode.com/problems/queens-that-can-attack-the-king/
