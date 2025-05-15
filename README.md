@@ -1127,6 +1127,7 @@
 [1652][1652l]|[Defuse the Bomb][1652]                                                               |![rb]&nbsp;&nbsp;![rs]
 [1653][1653l]|[Minimum Deletions to Make String Balanced][1653]                                     |![rs]
 [1654][1654l]|[Minimum Jumps to Reach Home][1654]                                                   |![rs]
+[1655][1655l]|[Distribute Repeating Integers][1655]                                                 |![py]
 [1656][1656l]|[Design an Ordered Stream][1656]                                                      |![py]
 [1657][1657l]|[Determine if Two Strings Are Close][1657]                                            |![py]
 [1658][1658l]|[Minimum Operations to Reduce X to Zero][1658]                                        |![rb]&nbsp;&nbsp;![rs]
@@ -2867,6 +2868,7 @@
 [1652]:Problemset/1652-Defuse%20the%20Bomb/README.md#1652-defuse-the-bomb
 [1653]:Problemset/1653-Minimum%20Deletions%20to%20Make%20String%20Balanced/README.md#1653-minimum-deletions-to-make-string-balanced
 [1654]:Problemset/1654-Minimum%20Jumps%20to%20Reach%20Home/README.md#1654-minimum-jumps-to-reach-home
+[1655]:Problemset/1655-Distribute%20Repeating%20Integers/README.md#1655-distribute-repeating-integers
 [1656]:Problemset/1656-Design%20an%20Ordered%20Stream/README.md#1656-design-an-ordered-stream
 [1657]:Problemset/1657-Determine%20if%20Two%20Strings%20Are%20Close/README.md#1657-determine-if-two-strings-are-close
 [1658]:Problemset/1658-Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/README.md#1658-minimum-operations-to-reduce-x-to-zero
@@ -4601,6 +4603,7 @@
 [1652l]:https://leetcode.com/problems/defuse-the-bomb/
 [1653l]:https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
 [1654l]:https://leetcode.com/problems/minimum-jumps-to-reach-home/
+[1655l]:https://leetcode.com/problems/distribute-repeating-integers/
 [1656l]:https://leetcode.com/problems/design-an-ordered-stream/
 [1657l]:https://leetcode.com/problems/determine-if-two-strings-are-close/
 [1658l]:https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
