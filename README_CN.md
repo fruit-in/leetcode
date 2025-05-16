@@ -1346,6 +1346,7 @@
 [2011][2011l]|[执行操作后的变量值][2011]                                |![py]&nbsp;&nbsp;![rs]
 [2012][2012l]|[数组美丽值求和][2012]                                    |![rs]
 [2013][2013l]|[检测正方形][2013]                                        |![rs]
+[2014][2014l]|[重复 K 次的最长子序列][2014]                             |![py]
 [2016][2016l]|[增量元素之间的最大差值][2016]                            |![rs]
 [2017][2017l]|[网格游戏][2017]                                          |![rs]
 [2022][2022l]|[将一维数组转变成二维数组][2022]                          |![rs]
@@ -3088,6 +3089,7 @@
 [2011]:Problemset/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README_CN.md#2011-执行操作后的变量值
 [2012]:Problemset/2012-Sum%20of%20Beauty%20in%20the%20Array/README_CN.md#2012-数组美丽值求和
 [2013]:Problemset/2013-Detect%20Squares/README_CN.md#2013-检测正方形
+[2014]:Problemset/2014-Longest%20Subsequence%20Repeated%20k%20Times/README_CN.md#2014-重复-k-次的最长子序列
 [2016]:Problemset/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README_CN.md#2016-增量元素之间的最大差值
 [2017]:Problemset/2017-Grid%20Game/README_CN.md#2017-网格游戏
 [2022]:Problemset/2022-Convert%201D%20Array%20Into%202D%20Array/README_CN.md#2022-将一维数组转变成二维数组
@@ -4824,6 +4826,7 @@
 [2011l]:https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/
 [2012l]:https://leetcode.cn/problems/sum-of-beauty-in-the-array/
 [2013l]:https://leetcode.cn/problems/detect-squares/
+[2014l]:https://leetcode.cn/problems/longest-subsequence-repeated-k-times/
 [2016l]:https://leetcode.cn/problems/maximum-difference-between-increasing-elements/
 [2017l]:https://leetcode.cn/problems/grid-game/
 [2022l]:https://leetcode.cn/problems/convert-1d-array-into-2d-array/

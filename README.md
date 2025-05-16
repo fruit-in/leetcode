@@ -1346,6 +1346,7 @@
 [2011][2011l]|[Final Value of Variable After Performing Operations][2011]                           |![py]&nbsp;&nbsp;![rs]
 [2012][2012l]|[Sum of Beauty in the Array][2012]                                                    |![rs]
 [2013][2013l]|[Detect Squares][2013]                                                                |![rs]
+[2014][2014l]|[Longest Subsequence Repeated k Times][2014]                                          |![py]
 [2016][2016l]|[Maximum Difference Between Increasing Elements][2016]                                |![rs]
 [2017][2017l]|[Grid Game][2017]                                                                     |![rs]
 [2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
@@ -3088,6 +3089,7 @@
 [2011]:Problemset/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README.md#2011-final-value-of-variable-after-performing-operations
 [2012]:Problemset/2012-Sum%20of%20Beauty%20in%20the%20Array/README.md#2012-sum-of-beauty-in-the-array
 [2013]:Problemset/2013-Detect%20Squares/README.md#2013-detect-squares
+[2014]:Problemset/2014-Longest%20Subsequence%20Repeated%20k%20Times/README.md#2014-longest-subsequence-repeated-k-times
 [2016]:Problemset/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README.md#2016-maximum-difference-between-increasing-elements
 [2017]:Problemset/2017-Grid%20Game/README.md#2017-grid-game
 [2022]:Problemset/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
@@ -4824,6 +4826,7 @@
 [2011l]:https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2012l]:https://leetcode.com/problems/sum-of-beauty-in-the-array/
 [2013l]:https://leetcode.com/problems/detect-squares/
+[2014l]:https://leetcode.com/problems/longest-subsequence-repeated-k-times/
 [2016l]:https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 [2017l]:https://leetcode.com/problems/grid-game/
 [2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
