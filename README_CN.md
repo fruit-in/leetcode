@@ -1646,6 +1646,7 @@
 [2455][2455l]|[可被三整除的偶数的平均值][2455]                          |![rs]
 [2456][2456l]|[最流行的视频创作者][2456]                                |![py]
 [2457][2457l]|[美丽整数的最小增量][2457]                                |![py]
+[2458][2458l]|[移除子树后的二叉树高度][2458]                            |![py]
 [2460][2460l]|[对数组执行操作][2460]                                    |![rs]
 [2461][2461l]|[长度为 K 子数组中的最大和][2461]                         |![rs]
 [2462][2462l]|[雇佣 K 位工人的总代价][2462]                             |![rs]
@@ -3389,6 +3390,7 @@
 [2455]:Problemset/2455-Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three/README_CN.md#2455-可被三整除的偶数的平均值
 [2456]:Problemset/2456-Most%20Popular%20Video%20Creator/README_CN.md#2456-最流行的视频创作者
 [2457]:Problemset/2457-Minimum%20Addition%20to%20Make%20Integer%20Beautiful/README_CN.md#2457-美丽整数的最小增量
+[2458]:Problemset/2458-Height%20of%20Binary%20Tree%20After%20Subtree%20Removal%20Queries/README_CN.md#2458-移除子树后的二叉树高度
 [2460]:Problemset/2460-Apply%20Operations%20to%20an%20Array/README_CN.md#2460-对数组执行操作
 [2461]:Problemset/2461-Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K/README_CN.md#2461-长度为-k-子数组中的最大和
 [2462]:Problemset/2462-Total%20Cost%20to%20Hire%20K%20Workers/README_CN.md#2462-雇佣-k-位工人的总代价
@@ -5126,6 +5128,7 @@
 [2455l]:https://leetcode.cn/problems/average-value-of-even-numbers-that-are-divisible-by-three/
 [2456l]:https://leetcode.cn/problems/most-popular-video-creator/
 [2457l]:https://leetcode.cn/problems/minimum-addition-to-make-integer-beautiful/
+[2458l]:https://leetcode.cn/problems/height-of-binary-tree-after-subtree-removal-queries/
 [2460l]:https://leetcode.cn/problems/apply-operations-to-an-array/
 [2461l]:https://leetcode.cn/problems/maximum-sum-of-distinct-subarrays-with-length-k/
 [2462l]:https://leetcode.cn/problems/total-cost-to-hire-k-workers/

@@ -1646,6 +1646,7 @@
 [2455][2455l]|[Average Value of Even Numbers That Are Divisible by Three][2455]                     |![rs]
 [2456][2456l]|[Most Popular Video Creator][2456]                                                    |![py]
 [2457][2457l]|[Minimum Addition to Make Integer Beautiful][2457]                                    |![py]
+[2458][2458l]|[Height of Binary Tree After Subtree Removal Queries][2458]                           |![py]
 [2460][2460l]|[Apply Operations to an Array][2460]                                                  |![rs]
 [2461][2461l]|[Maximum Sum of Distinct Subarrays With Length K][2461]                               |![rs]
 [2462][2462l]|[Total Cost to Hire K Workers][2462]                                                  |![rs]
@@ -3389,6 +3390,7 @@
 [2455]:Problemset/2455-Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three/README.md#2455-average-value-of-even-numbers-that-are-divisible-by-three
 [2456]:Problemset/2456-Most%20Popular%20Video%20Creator/README.md#2456-most-popular-video-creator
 [2457]:Problemset/2457-Minimum%20Addition%20to%20Make%20Integer%20Beautiful/README.md#2457-minimum-addition-to-make-integer-beautiful
+[2458]:Problemset/2458-Height%20of%20Binary%20Tree%20After%20Subtree%20Removal%20Queries/README.md#2458-height-of-binary-tree-after-subtree-removal-queries
 [2460]:Problemset/2460-Apply%20Operations%20to%20an%20Array/README.md#2460-apply-operations-to-an-array
 [2461]:Problemset/2461-Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K/README.md#2461-maximum-sum-of-distinct-subarrays-with-length-k
 [2462]:Problemset/2462-Total%20Cost%20to%20Hire%20K%20Workers/README.md#2462-total-cost-to-hire-k-workers
@@ -5126,6 +5128,7 @@
 [2455l]:https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/
 [2456l]:https://leetcode.com/problems/most-popular-video-creator/
 [2457l]:https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/
+[2458l]:https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/
 [2460l]:https://leetcode.com/problems/apply-operations-to-an-array/
 [2461l]:https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/
 [2462l]:https://leetcode.com/problems/total-cost-to-hire-k-workers/
