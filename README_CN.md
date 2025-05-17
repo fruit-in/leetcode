@@ -1729,6 +1729,7 @@
 [2594][2594l]|[修车的最少时间][2594]                                    |![rs]
 [2595][2595l]|[奇偶位数][2595]                                          |![rs]
 [2596][2596l]|[检查骑士巡视方案][2596]                                  |![rs]
+[2597][2597l]|[美丽子集的数目][2597]                                    |![py]
 [2598][2598l]|[执行操作后的最大 MEX][2598]                              |![rs]
 [2600][2600l]|[K 件物品的最大和][2600]                                  |![rs]
 [2601][2601l]|[质数减法运算][2601]                                      |![rs]
@@ -3475,6 +3476,7 @@
 [2594]:Problemset/2594-Minimum%20Time%20to%20Repair%20Cars/README_CN.md#2594-修车的最少时间
 [2595]:Problemset/2595-Number%20of%20Even%20and%20Odd%20Bits/README_CN.md#2595-奇偶位数
 [2596]:Problemset/2596-Check%20Knight%20Tour%20Configuration/README_CN.md#2596-检查骑士巡视方案
+[2597]:Problemset/2597-The%20Number%20of%20Beautiful%20Subsets/README_CN.md#2597-美丽子集的数目
 [2598]:Problemset/2598-Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/README_CN.md#2598-执行操作后的最大-mex
 [2600]:Problemset/2600-K%20Items%20With%20the%20Maximum%20Sum/README_CN.md#2600-k-件物品的最大和
 [2601]:Problemset/2601-Prime%20Subtraction%20Operation/README_CN.md#2601-质数减法运算
@@ -5215,6 +5217,7 @@
 [2594l]:https://leetcode.cn/problems/minimum-time-to-repair-cars/
 [2595l]:https://leetcode.cn/problems/number-of-even-and-odd-bits/
 [2596l]:https://leetcode.cn/problems/check-knight-tour-configuration/
+[2597l]:https://leetcode.cn/problems/the-number-of-beautiful-subsets/
 [2598l]:https://leetcode.cn/problems/smallest-missing-non-negative-integer-after-operations/
 [2600l]:https://leetcode.cn/problems/k-items-with-the-maximum-sum/
 [2601l]:https://leetcode.cn/problems/prime-subtraction-operation/
