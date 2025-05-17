@@ -1604,6 +1604,7 @@
 [2398][2398l]|[Maximum Number of Robots Within Budget][2398]                                        |![rs]
 [2399][2399l]|[Check Distances Between Same Letters][2399]                                          |![rs]
 [2400][2400l]|[Number of Ways to Reach a Position After Exactly k Steps][2400]                      |![rs]
+[2401][2401l]|[Longest Nice Subarray][2401]                                                         |![rs]
 [2402][2402l]|[Meeting Rooms III][2402]                                                             |![rs]
 [2404][2404l]|[Most Frequent Even Element][2404]                                                    |![rs]
 [2405][2405l]|[Optimal Partition of String][2405]                                                   |![rs]
@@ -3348,6 +3349,7 @@
 [2398]:Problemset/2398-Maximum%20Number%20of%20Robots%20Within%20Budget/README.md#2398-maximum-number-of-robots-within-budget
 [2399]:Problemset/2399-Check%20Distances%20Between%20Same%20Letters/README.md#2399-check-distances-between-same-letters
 [2400]:Problemset/2400-Number%20of%20Ways%20to%20Reach%20a%20Position%20After%20Exactly%20k%20Steps/README.md#2400-number-of-ways-to-reach-a-position-after-exactly-k-steps
+[2401]:Problemset/2401-Longest%20Nice%20Subarray/README.md#2401-longest-nice-subarray
 [2402]:Problemset/2402-Meeting%20Rooms%20III/README.md#2402-meeting-rooms-iii
 [2404]:Problemset/2404-Most%20Frequent%20Even%20Element/README.md#2404-most-frequent-even-element
 [2405]:Problemset/2405-Optimal%20Partition%20of%20String/README.md#2405-optimal-partition-of-string
@@ -5086,6 +5088,7 @@
 [2398l]:https://leetcode.com/problems/maximum-number-of-robots-within-budget/
 [2399l]:https://leetcode.com/problems/check-distances-between-same-letters/
 [2400l]:https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/
+[2401l]:https://leetcode.com/problems/longest-nice-subarray/
 [2402l]:https://leetcode.com/problems/meeting-rooms-iii/
 [2404l]:https://leetcode.com/problems/most-frequent-even-element/
 [2405l]:https://leetcode.com/problems/optimal-partition-of-string/
