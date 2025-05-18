@@ -1681,6 +1681,7 @@
 [2509][2509l]|[查询树中环的长度][2509]                                  |![rs]
 [2511][2511l]|[最多可以摧毁的敌人城堡数目][2511]                        |![rs]
 [2512][2512l]|[奖励最顶尖的 K 名学生][2512]                             |![py]
+[2513][2513l]|[最小化两个数组中的最大值][2513]                          |![py]
 [2514][2514l]|[统计同位异构字符串数目][2514]                            |![rs]
 [2515][2515l]|[到目标字符串的最短距离][2515]                            |![rs]
 [2516][2516l]|[每种字符至少取 K 个][2516]                               |![rs]
@@ -3429,6 +3430,7 @@
 [2509]:Problemset/2509-Cycle%20Length%20Queries%20in%20a%20Tree/README_CN.md#2509-查询树中环的长度
 [2511]:Problemset/2511-Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured/README_CN.md#2511-最多可以摧毁的敌人城堡数目
 [2512]:Problemset/2512-Reward%20Top%20K%20Students/README_CN.md#2512-奖励最顶尖的-k-名学生
+[2513]:Problemset/2513-Minimize%20the%20Maximum%20of%20Two%20Arrays/README_CN.md#2513-最小化两个数组中的最大值
 [2514]:Problemset/2514-Count%20Anagrams/README_CN.md#2514-统计同位异构字符串数目
 [2515]:Problemset/2515-Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/README_CN.md#2515-到目标字符串的最短距离
 [2516]:Problemset/2516-Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right/README_CN.md#2516-每种字符至少取-k-个
@@ -5171,6 +5173,7 @@
 [2509l]:https://leetcode.cn/problems/cycle-length-queries-in-a-tree/
 [2511l]:https://leetcode.cn/problems/maximum-enemy-forts-that-can-be-captured/
 [2512l]:https://leetcode.cn/problems/reward-top-k-students/
+[2513l]:https://leetcode.cn/problems/minimize-the-maximum-of-two-arrays/
 [2514l]:https://leetcode.cn/problems/count-anagrams/
 [2515l]:https://leetcode.cn/problems/shortest-distance-to-target-string-in-a-circular-array/
 [2516l]:https://leetcode.cn/problems/take-k-of-each-character-from-left-and-right/
