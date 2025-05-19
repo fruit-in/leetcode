@@ -1163,6 +1163,7 @@
 [1712][1712l]|[Ways to Split Array Into Three Subarrays][1712]                                      |![rs]
 [1713][1713l]|[Minimum Operations to Make a Subsequence][1713]                                      |![rs]
 [1716][1716l]|[Calculate Money in Leetcode Bank][1716]                                              |![rb]&nbsp;&nbsp;![rs]
+[1718][1718l]|[Construct the Lexicographically Largest Valid Sequence][1718]                        |![py]
 [1720][1720l]|[Decode XORed Array][1720]                                                            |![rb]&nbsp;&nbsp;![rs]
 [1721][1721l]|[Swapping Nodes in a Linked List][1721]                                               |![rb]
 [1722][1722l]|[Minimize Hamming Distance After Swap Operations][1722]                               |![py]
@@ -2912,6 +2913,7 @@
 [1712]:Problemset/1712-Ways%20to%20Split%20Array%20Into%20Three%20Subarrays/README.md#1712-ways-to-split-array-into-three-subarrays
 [1713]:Problemset/1713-Minimum%20Operations%20to%20Make%20a%20Subsequence/README.md#1713-minimum-operations-to-make-a-subsequence
 [1716]:Problemset/1716-Calculate%20Money%20in%20Leetcode%20Bank/README.md#1716-calculate-money-in-leetcode-bank
+[1718]:Problemset/1718-Construct%20the%20Lexicographically%20Largest%20Valid%20Sequence/README.md#1718-construct-the-lexicographically-largest-valid-sequence
 [1720]:Problemset/1720-Decode%20XORed%20Array/README.md#1720-decode-xored-array
 [1721]:Problemset/1721-Swapping%20Nodes%20in%20a%20Linked%20List/README.md#1721-swapping-nodes-in-a-linked-list
 [1722]:Problemset/1722-Minimize%20Hamming%20Distance%20After%20Swap%20Operations/README.md#1722-minimize-hamming-distance-after-swap-operations
@@ -4655,6 +4657,7 @@
 [1712l]:https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
 [1713l]:https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/
 [1716l]:https://leetcode.com/problems/calculate-money-in-leetcode-bank/
+[1718l]:https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/
 [1720l]:https://leetcode.com/problems/decode-xored-array/
 [1721l]:https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
 [1722l]:https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
