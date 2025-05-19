@@ -994,6 +994,7 @@
 [1439][1439l]|[Find the Kth Smallest Sum of a Matrix With Sorted Rows][1439]                        |![rs]
 [1441][1441l]|[Build an Array With Stack Operations][1441]                                          |![rs]
 [1443][1443l]|[Minimum Time to Collect All Apples in a Tree][1443]                                  |![rs]
+[1444][1444l]|[Number of Ways of Cutting a Pizza][1444]                                             |![py]
 [1446][1446l]|[Consecutive Characters][1446]                                                        |![rs]
 [1447][1447l]|[Simplified Fractions][1447]                                                          |![py]&nbsp;&nbsp;![rb]
 [1448][1448l]|[Count Good Nodes in Binary Tree][1448]                                               |![py]
@@ -2744,6 +2745,7 @@
 [1439]:Problemset/1439-Find%20the%20Kth%20Smallest%20Sum%20of%20a%20Matrix%20With%20Sorted%20Rows/README.md#1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows
 [1441]:Problemset/1441-Build%20an%20Array%20With%20Stack%20Operations/README.md#1441-build-an-array-with-stack-operations
 [1443]:Problemset/1443-Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree/README.md#1443-minimum-time-to-collect-all-apples-in-a-tree
+[1444]:Problemset/1444-Number%20of%20Ways%20of%20Cutting%20a%20Pizza/README.md#1444-number-of-ways-of-cutting-a-pizza
 [1446]:Problemset/1446-Consecutive%20Characters/README.md#1446-consecutive-characters
 [1447]:Problemset/1447-Simplified%20Fractions/README.md#1447-simplified-fractions
 [1448]:Problemset/1448-Count%20Good%20Nodes%20in%20Binary%20Tree/README.md#1448-count-good-nodes-in-binary-tree
@@ -4488,6 +4490,7 @@
 [1439l]:https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
 [1441l]:https://leetcode.com/problems/build-an-array-with-stack-operations/
 [1443l]:https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
+[1444l]:https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
 [1446l]:https://leetcode.com/problems/consecutive-characters/
 [1447l]:https://leetcode.com/problems/simplified-fractions/
 [1448l]:https://leetcode.com/problems/count-good-nodes-in-binary-tree/

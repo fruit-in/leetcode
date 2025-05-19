@@ -994,6 +994,7 @@
 [1439][1439l]|[有序矩阵中的第 k 个最小数组和][1439]                     |![rs]
 [1441][1441l]|[用栈操作构建数组][1441]                                  |![rs]
 [1443][1443l]|[收集树上所有苹果的最少时间][1443]                        |![rs]
+[1444][1444l]|[切披萨的方案数][1444]                                    |![py]
 [1446][1446l]|[连续字符][1446]                                          |![rs]
 [1447][1447l]|[最简分数][1447]                                          |![py]&nbsp;&nbsp;![rb]
 [1448][1448l]|[统计二叉树中好节点的数目][1448]                          |![py]
@@ -2744,6 +2745,7 @@
 [1439]:Problemset/1439-Find%20the%20Kth%20Smallest%20Sum%20of%20a%20Matrix%20With%20Sorted%20Rows/README_CN.md#1439-有序矩阵中的第-k-个最小数组和
 [1441]:Problemset/1441-Build%20an%20Array%20With%20Stack%20Operations/README_CN.md#1441-用栈操作构建数组
 [1443]:Problemset/1443-Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree/README_CN.md#1443-收集树上所有苹果的最少时间
+[1444]:Problemset/1444-Number%20of%20Ways%20of%20Cutting%20a%20Pizza/README_CN.md#1444-切披萨的方案数
 [1446]:Problemset/1446-Consecutive%20Characters/README_CN.md#1446-连续字符
 [1447]:Problemset/1447-Simplified%20Fractions/README_CN.md#1447-最简分数
 [1448]:Problemset/1448-Count%20Good%20Nodes%20in%20Binary%20Tree/README_CN.md#1448-统计二叉树中好节点的数目
@@ -4488,6 +4490,7 @@
 [1439l]:https://leetcode.cn/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
 [1441l]:https://leetcode.cn/problems/build-an-array-with-stack-operations/
 [1443l]:https://leetcode.cn/problems/minimum-time-to-collect-all-apples-in-a-tree/
+[1444l]:https://leetcode.cn/problems/number-of-ways-of-cutting-a-pizza/
 [1446l]:https://leetcode.cn/problems/consecutive-characters/
 [1447l]:https://leetcode.cn/problems/simplified-fractions/
 [1448l]:https://leetcode.cn/problems/count-good-nodes-in-binary-tree/
