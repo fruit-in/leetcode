@@ -1305,6 +1305,7 @@
 [1929][1929l]|[Concatenation of Array][1929]                                                        |![py]&nbsp;&nbsp;![rs]
 [1930][1930l]|[Unique Length-3 Palindromic Subsequences][1930]                                      |![rs]
 [1931][1931l]|[Painting a Grid With Three Different Colors][1931]                                   |![py]
+[1932][1932l]|[Merge BSTs to Create Single BST][1932]                                               |![py]
 [1935][1935l]|[Maximum Number of Words You Can Type][1935]                                          |![py]
 [1936][1936l]|[Add Minimum Number of Rungs][1936]                                                   |![rs]
 [1941][1941l]|[Check if All Characters Have Equal Number of Occurrences][1941]                      |![rs]
@@ -3056,6 +3057,7 @@
 [1929]:Problemset/1929-Concatenation%20of%20Array/README.md#1929-concatenation-of-array
 [1930]:Problemset/1930-Unique%20Length-3%20Palindromic%20Subsequences/README.md#1930-unique-length-3-palindromic-subsequences
 [1931]:Problemset/1931-Painting%20a%20Grid%20With%20Three%20Different%20Colors/README.md#1931-painting-a-grid-with-three-different-colors
+[1932]:Problemset/1932-Merge%20BSTs%20to%20Create%20Single%20BST/README.md#1932-merge-bsts-to-create-single-bst
 [1935]:Problemset/1935-Maximum%20Number%20of%20Words%20You%20Can%20Type/README.md#1935-maximum-number-of-words-you-can-type
 [1936]:Problemset/1936-Add%20Minimum%20Number%20of%20Rungs/README.md#1936-add-minimum-number-of-rungs
 [1941]:Problemset/1941-Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences/README.md#1941-check-if-all-characters-have-equal-number-of-occurrences
@@ -4801,6 +4803,7 @@
 [1929l]:https://leetcode.com/problems/concatenation-of-array/
 [1930l]:https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
 [1931l]:https://leetcode.com/problems/painting-a-grid-with-three-different-colors/
+[1932l]:https://leetcode.com/problems/merge-bsts-to-create-single-bst/
 [1935l]:https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 [1936l]:https://leetcode.com/problems/add-minimum-number-of-rungs/
 [1941l]:https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
