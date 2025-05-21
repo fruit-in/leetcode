@@ -358,6 +358,7 @@
 [485][485l]  |[最大连续1的个数][485]                                    |![rs]
 [486][486l]  |[预测赢家][486]                                           |![py]
 [488][488l]  |[祖玛游戏][488]                                           |![py]
+[491][491l]  |[非递减子序列][491]                                       |![py]
 [492][492l]  |[构造矩形][492]                                           |![rs]
 [493][493l]  |[翻转对][493]                                             |![py]
 [494][494l]  |[目标和][494]                                             |![rb]&nbsp;&nbsp;![rs]
@@ -2112,6 +2113,7 @@
 [485]:Problemset/0485-Max%20Consecutive%20Ones/README_CN.md#485-最大连续1的个数
 [486]:Problemset/0486-Predict%20the%20Winner/README_CN.md#486-预测赢家
 [488]:Problemset/0488-Zuma%20Game/README_CN.md#488-祖玛游戏
+[491]:Problemset/0491-Non-decreasing%20Subsequences/README_CN.md#491-非递减子序列
 [492]:Problemset/0492-Construct%20the%20Rectangle/README_CN.md#492-构造矩形
 [493]:Problemset/0493-Reverse%20Pairs/README_CN.md#493-翻转对
 [494]:Problemset/0494-Target%20Sum/README_CN.md#494-目标和
@@ -3860,6 +3862,7 @@
 [485l]:https://leetcode.cn/problems/max-consecutive-ones/
 [486l]:https://leetcode.cn/problems/predict-the-winner/
 [488l]:https://leetcode.cn/problems/zuma-game/
+[491l]:https://leetcode.cn/problems/non-decreasing-subsequences/
 [492l]:https://leetcode.cn/problems/construct-the-rectangle/
 [493l]:https://leetcode.cn/problems/reverse-pairs/
 [494l]:https://leetcode.cn/problems/target-sum/

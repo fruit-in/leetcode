@@ -358,6 +358,7 @@
 [485][485l]  |[Max Consecutive Ones][485]                                                           |![rs]
 [486][486l]  |[Predict the Winner][486]                                                             |![py]
 [488][488l]  |[Zuma Game][488]                                                                      |![py]
+[491][491l]  |[Non-decreasing Subsequences][491]                                                    |![py]
 [492][492l]  |[Construct the Rectangle][492]                                                        |![rs]
 [493][493l]  |[Reverse Pairs][493]                                                                  |![py]
 [494][494l]  |[Target Sum][494]                                                                     |![rb]&nbsp;&nbsp;![rs]
@@ -2112,6 +2113,7 @@
 [485]:Problemset/0485-Max%20Consecutive%20Ones/README.md#485-max-consecutive-ones
 [486]:Problemset/0486-Predict%20the%20Winner/README.md#486-predict-the-winner
 [488]:Problemset/0488-Zuma%20Game/README.md#488-zuma-game
+[491]:Problemset/0491-Non-decreasing%20Subsequences/README.md#491-non-decreasing-subsequences
 [492]:Problemset/0492-Construct%20the%20Rectangle/README.md#492-construct-the-rectangle
 [493]:Problemset/0493-Reverse%20Pairs/README.md#493-reverse-pairs
 [494]:Problemset/0494-Target%20Sum/README.md#494-target-sum
@@ -3860,6 +3862,7 @@
 [485l]:https://leetcode.com/problems/max-consecutive-ones/
 [486l]:https://leetcode.com/problems/predict-the-winner/
 [488l]:https://leetcode.com/problems/zuma-game/
+[491l]:https://leetcode.com/problems/non-decreasing-subsequences/
 [492l]:https://leetcode.com/problems/construct-the-rectangle/
 [493l]:https://leetcode.com/problems/reverse-pairs/
 [494l]:https://leetcode.com/problems/target-sum/
