@@ -903,6 +903,7 @@
 [1316][1316l]|[Distinct Echo Substrings][1316]                                                      |![rs]
 [1317][1317l]|[Convert Integer to the Sum of Two No-Zero Integers][1317]                            |![rs]
 [1318][1318l]|[Minimum Flips to Make a OR b Equal to c][1318]                                       |![rs]
+[1319][1319l]|[Number of Operations to Make Network Connected][1319]                                |![py]
 [1320][1320l]|[Minimum Distance to Type a Word Using Two Fingers][1320]                             |![rs]
 [1323][1323l]|[Maximum 69 Number][1323]                                                             |![rs]
 [1324][1324l]|[Print Words Vertically][1324]                                                        |![py]
@@ -2658,6 +2659,7 @@
 [1316]:Problemset/1316-Distinct%20Echo%20Substrings/README.md#1316-distinct-echo-substrings
 [1317]:Problemset/1317-Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers/README.md#1317-convert-integer-to-the-sum-of-two-no-zero-integers
 [1318]:Problemset/1318-Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c/README.md#1318-minimum-flips-to-make-a-or-b-equal-to-c
+[1319]:Problemset/1319-Number%20of%20Operations%20to%20Make%20Network%20Connected/README.md#1319-number-of-operations-to-make-network-connected
 [1320]:Problemset/1320-Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/README.md#1320-minimum-distance-to-type-a-word-using-two-fingers
 [1323]:Problemset/1323-Maximum%2069%20Number/README.md#1323-maximum-69-number
 [1324]:Problemset/1324-Print%20Words%20Vertically/README.md#1324-print-words-vertically
@@ -4407,6 +4409,7 @@
 [1316l]:https://leetcode.com/problems/distinct-echo-substrings/
 [1317l]:https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
 [1318l]:https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+[1319l]:https://leetcode.com/problems/number-of-operations-to-make-network-connected/
 [1320l]:https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
 [1323l]:https://leetcode.com/problems/maximum-69-number/
 [1324l]:https://leetcode.com/problems/print-words-vertically/

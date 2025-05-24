@@ -903,6 +903,7 @@
 [1316][1316l]|[不同的循环子字符串][1316]                                |![rs]
 [1317][1317l]|[将整数转换为两个无零整数的和][1317]                      |![rs]
 [1318][1318l]|[或运算的最小翻转次数][1318]                              |![rs]
+[1319][1319l]|[连通网络的操作次数][1319]                                |![py]
 [1320][1320l]|[二指输入的的最小距离][1320]                              |![rs]
 [1323][1323l]|[6 和 9 组成的最大数字][1323]                             |![rs]
 [1324][1324l]|[竖直打印单词][1324]                                      |![py]
@@ -2658,6 +2659,7 @@
 [1316]:Problemset/1316-Distinct%20Echo%20Substrings/README_CN.md#1316-不同的循环子字符串
 [1317]:Problemset/1317-Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers/README_CN.md#1317-将整数转换为两个无零整数的和
 [1318]:Problemset/1318-Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c/README_CN.md#1318-或运算的最小翻转次数
+[1319]:Problemset/1319-Number%20of%20Operations%20to%20Make%20Network%20Connected/README_CN.md#1319-连通网络的操作次数
 [1320]:Problemset/1320-Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/README_CN.md#1320-二指输入的的最小距离
 [1323]:Problemset/1323-Maximum%2069%20Number/README_CN.md#1323-6-和-9-组成的最大数字
 [1324]:Problemset/1324-Print%20Words%20Vertically/README_CN.md#1324-竖直打印单词
@@ -4407,6 +4409,7 @@
 [1316l]:https://leetcode.cn/problems/distinct-echo-substrings/
 [1317l]:https://leetcode.cn/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
 [1318l]:https://leetcode.cn/problems/minimum-flips-to-make-a-or-b-equal-to-c/
+[1319l]:https://leetcode.cn/problems/number-of-operations-to-make-network-connected/
 [1320l]:https://leetcode.cn/problems/minimum-distance-to-type-a-word-using-two-fingers/
 [1323l]:https://leetcode.cn/problems/maximum-69-number/
 [1324l]:https://leetcode.cn/problems/print-words-vertically/
