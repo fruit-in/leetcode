@@ -1552,6 +1552,7 @@
 [2302][2302l]|[统计得分小于 K 的子数组数目][2302]                       |![rs]
 [2303][2303l]|[计算应缴税款总额][2303]                                  |![rs]
 [2304][2304l]|[网格中的最小路径代价][2304]                              |![rs]
+[2305][2305l]|[公平分发饼干][2305]                                      |![py]
 [2306][2306l]|[公司命名][2306]                                          |![py]
 [2309][2309l]|[兼具大小写的最好英文字母][2309]                          |![rs]
 [2310][2310l]|[个位数字为 K 的整数之和][2310]                           |![rs]
@@ -3308,6 +3309,7 @@
 [2302]:Problemset/2302-Count%20Subarrays%20With%20Score%20Less%20Than%20K/README_CN.md#2302-统计得分小于-k-的子数组数目
 [2303]:Problemset/2303-Calculate%20Amount%20Paid%20in%20Taxes/README_CN.md#2303-计算应缴税款总额
 [2304]:Problemset/2304-Minimum%20Path%20Cost%20in%20a%20Grid/README_CN.md#2304-网格中的最小路径代价
+[2305]:Problemset/2305-Fair%20Distribution%20of%20Cookies/README_CN.md#2305-公平分发饼干
 [2306]:Problemset/2306-Naming%20a%20Company/README_CN.md#2306-公司命名
 [2309]:Problemset/2309-Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/README_CN.md#2309-兼具大小写的最好英文字母
 [2310]:Problemset/2310-Sum%20of%20Numbers%20With%20Units%20Digit%20K/README_CN.md#2310-个位数字为-k-的整数之和
@@ -5058,6 +5060,7 @@
 [2302l]:https://leetcode.cn/problems/count-subarrays-with-score-less-than-k/
 [2303l]:https://leetcode.cn/problems/calculate-amount-paid-in-taxes/
 [2304l]:https://leetcode.cn/problems/minimum-path-cost-in-a-grid/
+[2305l]:https://leetcode.cn/problems/fair-distribution-of-cookies/
 [2306l]:https://leetcode.cn/problems/naming-a-company/
 [2309l]:https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/
 [2310l]:https://leetcode.cn/problems/sum-of-numbers-with-units-digit-k/
