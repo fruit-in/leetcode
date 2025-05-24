@@ -444,6 +444,7 @@
 [633][633l]  |[平方数之和][633]                                         |![rs]
 [636][636l]  |[函数的独占时间][636]                                     |![rs]
 [637][637l]  |[二叉树的层平均值][637]                                   |![py]
+[638][638l]  |[大礼包][638]                                             |![py]
 [639][639l]  |[解码方法 II][639]                                        |![rs]
 [640][640l]  |[求解方程][640]                                           |![rs]
 [641][641l]  |[设计循环双端队列][641]                                   |![rs]
@@ -2201,6 +2202,7 @@
 [633]:Problemset/0633-Sum%20of%20Square%20Numbers/README_CN.md#633-平方数之和
 [636]:Problemset/0636-Exclusive%20Time%20of%20Functions/README_CN.md#636-函数的独占时间
 [637]:Problemset/0637-Average%20of%20Levels%20in%20Binary%20Tree/README_CN.md#637-二叉树的层平均值
+[638]:Problemset/0638-Shopping%20Offers/README_CN.md#638-大礼包
 [639]:Problemset/0639-Decode%20Ways%20II/README_CN.md#639-解码方法-ii
 [640]:Problemset/0640-Solve%20the%20Equation/README_CN.md#640-求解方程
 [641]:Problemset/0641-Design%20Circular%20Deque/README_CN.md#641-设计循环双端队列
@@ -3952,6 +3954,7 @@
 [633l]:https://leetcode.cn/problems/sum-of-square-numbers/
 [636l]:https://leetcode.cn/problems/exclusive-time-of-functions/
 [637l]:https://leetcode.cn/problems/average-of-levels-in-binary-tree/
+[638l]:https://leetcode.cn/problems/shopping-offers/
 [639l]:https://leetcode.cn/problems/decode-ways-ii/
 [640l]:https://leetcode.cn/problems/solve-the-equation/
 [641l]:https://leetcode.cn/problems/design-circular-deque/

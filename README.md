@@ -444,6 +444,7 @@
 [633][633l]  |[Sum of Square Numbers][633]                                                          |![rs]
 [636][636l]  |[Exclusive Time of Functions][636]                                                    |![rs]
 [637][637l]  |[Average of Levels in Binary Tree][637]                                               |![py]
+[638][638l]  |[Shopping Offers][638]                                                                |![py]
 [639][639l]  |[Decode Ways II][639]                                                                 |![rs]
 [640][640l]  |[Solve the Equation][640]                                                             |![rs]
 [641][641l]  |[Design Circular Deque][641]                                                          |![rs]
@@ -2201,6 +2202,7 @@
 [633]:Problemset/0633-Sum%20of%20Square%20Numbers/README.md#633-sum-of-square-numbers
 [636]:Problemset/0636-Exclusive%20Time%20of%20Functions/README.md#636-exclusive-time-of-functions
 [637]:Problemset/0637-Average%20of%20Levels%20in%20Binary%20Tree/README.md#637-average-of-levels-in-binary-tree
+[638]:Problemset/0638-Shopping%20Offers/README.md#638-shopping-offers
 [639]:Problemset/0639-Decode%20Ways%20II/README.md#639-decode-ways-ii
 [640]:Problemset/0640-Solve%20the%20Equation/README.md#640-solve-the-equation
 [641]:Problemset/0641-Design%20Circular%20Deque/README.md#641-design-circular-deque
@@ -3952,6 +3954,7 @@
 [633l]:https://leetcode.com/problems/sum-of-square-numbers/
 [636l]:https://leetcode.com/problems/exclusive-time-of-functions/
 [637l]:https://leetcode.com/problems/average-of-levels-in-binary-tree/
+[638l]:https://leetcode.com/problems/shopping-offers/
 [639l]:https://leetcode.com/problems/decode-ways-ii/
 [640l]:https://leetcode.com/problems/solve-the-equation/
 [641l]:https://leetcode.com/problems/design-circular-deque/
