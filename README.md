@@ -488,6 +488,7 @@
 [695][695l]  |[Max Area of Island][695]                                                             |![rb]&nbsp;&nbsp;![rs]
 [696][696l]  |[Count Binary Substrings][696]                                                        |![py]&nbsp;&nbsp;![rb]
 [697][697l]  |[Degree of an Array][697]                                                             |![rs]
+[698][698l]  |[Partition to K Equal Sum Subsets][698]                                               |![py]
 [699][699l]  |[Falling Squares][699]                                                                |![rs]
 [700][700l]  |[Search in a Binary Search Tree][700]                                                 |![py]
 [701][701l]  |[Insert into a Binary Search Tree][701]                                               |![py]
@@ -2248,6 +2249,7 @@
 [695]:Problemset/0695-Max%20Area%20of%20Island/README.md#695-max-area-of-island
 [696]:Problemset/0696-Count%20Binary%20Substrings/README.md#696-count-binary-substrings
 [697]:Problemset/0697-Degree%20of%20an%20Array/README.md#697-degree-of-an-array
+[698]:Problemset/0698-Partition%20to%20K%20Equal%20Sum%20Subsets/README.md#698-partition-to-k-equal-sum-subsets
 [699]:Problemset/0699-Falling%20Squares/README.md#699-falling-squares
 [700]:Problemset/0700-Search%20in%20a%20Binary%20Search%20Tree/README.md#700-search-in-a-binary-search-tree
 [701]:Problemset/0701-Insert%20into%20a%20Binary%20Search%20Tree/README.md#701-insert-into-a-binary-search-tree
@@ -4002,6 +4004,7 @@
 [695l]:https://leetcode.com/problems/max-area-of-island/
 [696l]:https://leetcode.com/problems/count-binary-substrings/
 [697l]:https://leetcode.com/problems/degree-of-an-array/
+[698l]:https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 [699l]:https://leetcode.com/problems/falling-squares/
 [700l]:https://leetcode.com/problems/search-in-a-binary-search-tree/
 [701l]:https://leetcode.com/problems/insert-into-a-binary-search-tree/

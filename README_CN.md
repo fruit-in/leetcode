@@ -488,6 +488,7 @@
 [695][695l]  |[岛屿的最大面积][695]                                     |![rb]&nbsp;&nbsp;![rs]
 [696][696l]  |[计数二进制子串][696]                                     |![py]&nbsp;&nbsp;![rb]
 [697][697l]  |[数组的度][697]                                           |![rs]
+[698][698l]  |[划分为k个相等的子集][698]                                |![py]
 [699][699l]  |[掉落的方块][699]                                         |![rs]
 [700][700l]  |[二叉搜索树中的搜索][700]                                 |![py]
 [701][701l]  |[二叉搜索树中的插入操作][701]                             |![py]
@@ -2248,6 +2249,7 @@
 [695]:Problemset/0695-Max%20Area%20of%20Island/README_CN.md#695-岛屿的最大面积
 [696]:Problemset/0696-Count%20Binary%20Substrings/README_CN.md#696-计数二进制子串
 [697]:Problemset/0697-Degree%20of%20an%20Array/README_CN.md#697-数组的度
+[698]:Problemset/0698-Partition%20to%20K%20Equal%20Sum%20Subsets/README_CN.md#698-划分为k个相等的子集
 [699]:Problemset/0699-Falling%20Squares/README_CN.md#699-掉落的方块
 [700]:Problemset/0700-Search%20in%20a%20Binary%20Search%20Tree/README_CN.md#700-二叉搜索树中的搜索
 [701]:Problemset/0701-Insert%20into%20a%20Binary%20Search%20Tree/README_CN.md#701-二叉搜索树中的插入操作
@@ -4002,6 +4004,7 @@
 [695l]:https://leetcode.cn/problems/max-area-of-island/
 [696l]:https://leetcode.cn/problems/count-binary-substrings/
 [697l]:https://leetcode.cn/problems/degree-of-an-array/
+[698l]:https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/
 [699l]:https://leetcode.cn/problems/falling-squares/
 [700l]:https://leetcode.cn/problems/search-in-a-binary-search-tree/
 [701l]:https://leetcode.cn/problems/insert-into-a-binary-search-tree/
