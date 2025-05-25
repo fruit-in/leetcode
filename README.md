@@ -587,6 +587,7 @@
 [832][832l]  |[Flipping an Image][832]                                                              |![py]
 [833][833l]  |[Find And Replace in String][833]                                                     |![py]
 [836][836l]  |[Rectangle Overlap][836]                                                              |![rs]
+[837][837l]  |[New 21 Game][837]                                                                    |![rs]
 [838][838l]  |[Push Dominoes][838]                                                                  |![rb]&nbsp;&nbsp;![rs]
 [839][839l]  |[Similar String Groups][839]                                                          |![py]
 [840][840l]  |[Magic Squares In Grid][840]                                                          |![rs]
@@ -2346,6 +2347,7 @@
 [832]:Problemset/0832-Flipping%20an%20Image/README.md#832-flipping-an-image
 [833]:Problemset/0833-Find%20And%20Replace%20in%20String/README.md#833-find-and-replace-in-string
 [836]:Problemset/0836-Rectangle%20Overlap/README.md#836-rectangle-overlap
+[837]:Problemset/0837-New%2021%20Game/README.md#837-new-21-game
 [838]:Problemset/0838-Push%20Dominoes/README.md#838-push-dominoes
 [839]:Problemset/0839-Similar%20String%20Groups/README.md#839-similar-string-groups
 [840]:Problemset/0840-Magic%20Squares%20In%20Grid/README.md#840-magic-squares-in-grid
@@ -4099,6 +4101,7 @@
 [832l]:https://leetcode.com/problems/flipping-an-image/
 [833l]:https://leetcode.com/problems/find-and-replace-in-string/
 [836l]:https://leetcode.com/problems/rectangle-overlap/
+[837l]:https://leetcode.com/problems/new-21-game/
 [838l]:https://leetcode.com/problems/push-dominoes/
 [839l]:https://leetcode.com/problems/similar-string-groups/
 [840l]:https://leetcode.com/problems/magic-squares-in-grid/
