@@ -273,6 +273,7 @@
 [373][373l]  |[查找和最小的 K 对数字][373]                              |![rs]
 [374][374l]  |[猜数字大小][374]                                         |![py]
 [375][375l]  |[猜数字大小 II][375]                                      |![py]
+[377][377l]  |[组合总和 Ⅳ][377]                                         |![rs]
 [380][380l]  |[O(1) 时间插入、删除和获取随机元素][380]                  |![rs]
 [381][381l]  |[O(1) 时间插入、删除和获取随机元素 - 允许重复][381]       |![py]
 [382][382l]  |[链表随机节点][382]                                       |![py]
@@ -2031,6 +2032,7 @@
 [373]:Problemset/0373-Find%20K%20Pairs%20with%20Smallest%20Sums/README_CN.md#373-查找和最小的-k-对数字
 [374]:Problemset/0374-Guess%20Number%20Higher%20or%20Lower/README_CN.md#374-猜数字大小
 [375]:Problemset/0375-Guess%20Number%20Higher%20or%20Lower%20II/README_CN.md#375-猜数字大小-ii
+[377]:Problemset/0377-Combination%20Sum%20IV/README_CN.md#377-组合总和-iv
 [380]:Problemset/0380-Insert%20Delete%20GetRandom%20O\(1\)/README_CN.md#380-o1-时间插入删除和获取随机元素
 [381]:Problemset/0381-Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/README_CN.md#381-o1-时间插入、删除和获取随机元素---允许重复
 [382]:Problemset/0382-Linked%20List%20Random%20Node/README_CN.md#382-链表随机节点
@@ -3782,6 +3784,7 @@
 [373l]:https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/
 [374l]:https://leetcode.cn/problems/guess-number-higher-or-lower/
 [375l]:https://leetcode.cn/problems/guess-number-higher-or-lower-ii/
+[377l]:https://leetcode.cn/problems/combination-sum-iv/
 [380l]:https://leetcode.cn/problems/insert-delete-getrandom-o1/
 [381l]:https://leetcode.cn/problems/insert-delete-getrandom-o1-duplicates-allowed/
 [382l]:https://leetcode.cn/problems/linked-list-random-node/
