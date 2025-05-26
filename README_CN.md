@@ -1118,6 +1118,7 @@
 [1621][1621l]|[大小为 K 的不重叠线段的数目][1621]                       |![py]
 [1622][1622l]|[奇妙序列][1622]                                          |![py]
 [1624][1624l]|[两个相同字符之间的最长子字符串][1624]                    |![rb]&nbsp;&nbsp;![rs]
+[1626][1626l]|[无矛盾的最佳球队][1626]                                  |![py]
 [1629][1629l]|[按键持续时间最长的键][1629]                              |![rb]&nbsp;&nbsp;![rs]
 [1630][1630l]|[等差子数组][1630]                                        |![rb]&nbsp;&nbsp;![rs]
 [1631][1631l]|[最小体力消耗路径][1631]                                  |![rs]
@@ -2880,6 +2881,7 @@
 [1621]:Problemset/1621-Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments/README_CN.md#1621-大小为-k-的不重叠线段的数目
 [1622]:Problemset/1622-Fancy%20Sequence/README_CN.md#1622-奇妙序列
 [1624]:Problemset/1624-Largest%20Substring%20Between%20Two%20Equal%20Characters/README_CN.md#1624-两个相同字符之间的最长子字符串
+[1626]:Problemset/1626-Best%20Team%20With%20No%20Conflicts/README_CN.md#1626-无矛盾的最佳球队
 [1629]:Problemset/1629-Slowest%20Key/README_CN.md#1629-按键持续时间最长的键
 [1630]:Problemset/1630-Arithmetic%20Subarrays/README_CN.md#1630-等差子数组
 [1631]:Problemset/1631-Path%20With%20Minimum%20Effort/README_CN.md#1631-最小体力消耗路径
@@ -4636,6 +4638,7 @@
 [1621l]:https://leetcode.cn/problems/number-of-sets-of-k-non-overlapping-line-segments/
 [1622l]:https://leetcode.cn/problems/fancy-sequence/
 [1624l]:https://leetcode.cn/problems/largest-substring-between-two-equal-characters/
+[1626l]:https://leetcode.cn/problems/best-team-with-no-conflicts/
 [1629l]:https://leetcode.cn/problems/slowest-key/
 [1630l]:https://leetcode.cn/problems/arithmetic-subarrays/
 [1631l]:https://leetcode.cn/problems/path-with-minimum-effort/
