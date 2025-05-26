@@ -1278,6 +1278,7 @@
 [1876][1876l]|[Substrings of Size Three with Distinct Characters][1876]                             |![rs]
 [1877][1877l]|[Minimize Maximum Pair Sum in Array][1877]                                            |![rs]
 [1878][1878l]|[Get Biggest Three Rhombus Sums in a Grid][1878]                                      |![rs]
+[1879][1879l]|[Minimum XOR Sum of Two Arrays][1879]                                                 |![py]
 [1880][1880l]|[Check if Word Equals Summation of Two Words][1880]                                   |![rs]
 [1881][1881l]|[Maximum Value after Insertion][1881]                                                 |![rs]
 [1882][1882l]|[Process Tasks Using Servers][1882]                                                   |![rs]
@@ -3039,6 +3040,7 @@
 [1876]:Problemset/1876-Substrings%20of%20Size%20Three%20with%20Distinct%20Characters/README.md#1876-substrings-of-size-three-with-distinct-characters
 [1877]:Problemset/1877-Minimize%20Maximum%20Pair%20Sum%20in%20Array/README.md#1877-minimize-maximum-pair-sum-in-array
 [1878]:Problemset/1878-Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/README.md#1878-get-biggest-three-rhombus-sums-in-a-grid
+[1879]:Problemset/1879-Minimum%20XOR%20Sum%20of%20Two%20Arrays/README.md#1879-minimum-xor-sum-of-two-arrays
 [1880]:Problemset/1880-Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words/README.md#1880-check-if-word-equals-summation-of-two-words
 [1881]:Problemset/1881-Maximum%20Value%20after%20Insertion/README.md#1881-maximum-value-after-insertion
 [1882]:Problemset/1882-Process%20Tasks%20Using%20Servers/README.md#1882-process-tasks-using-servers
@@ -4794,6 +4796,7 @@
 [1876l]:https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
 [1877l]:https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 [1878l]:https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/
+[1879l]:https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/
 [1880l]:https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 [1881l]:https://leetcode.com/problems/maximum-value-after-insertion/
 [1882l]:https://leetcode.com/problems/process-tasks-using-servers/
