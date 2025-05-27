@@ -587,6 +587,7 @@
 [831][831l]  |[隐藏个人信息][831]                                       |![rb]
 [832][832l]  |[翻转图像][832]                                           |![py]
 [833][833l]  |[字符串中的查找与替换][833]                               |![py]
+[834][834l]  |[树中距离之和][834]                                       |![rs]
 [836][836l]  |[矩形重叠][836]                                           |![rs]
 [837][837l]  |[新 21 点][837]                                           |![rs]
 [838][838l]  |[推多米诺][838]                                           |![rb]&nbsp;&nbsp;![rs]
@@ -2350,6 +2351,7 @@
 [831]:Problemset/0831-Masking%20Personal%20Information/README_CN.md#831-隐藏个人信息
 [832]:Problemset/0832-Flipping%20an%20Image/README_CN.md#832-翻转图像
 [833]:Problemset/0833-Find%20And%20Replace%20in%20String/README_CN.md#833-字符串中的查找与替换
+[834]:Problemset/0834-Sum%20of%20Distances%20in%20Tree/README_CN.md#834-树中距离之和
 [836]:Problemset/0836-Rectangle%20Overlap/README_CN.md#836-矩形重叠
 [837]:Problemset/0837-New%2021%20Game/README_CN.md#837-新-21-点
 [838]:Problemset/0838-Push%20Dominoes/README_CN.md#838-推多米诺
@@ -4107,6 +4109,7 @@
 [831l]:https://leetcode.cn/problems/masking-personal-information/
 [832l]:https://leetcode.cn/problems/flipping-an-image/
 [833l]:https://leetcode.cn/problems/find-and-replace-in-string/
+[834l]:https://leetcode.cn/problems/sum-of-distances-in-tree/
 [836l]:https://leetcode.cn/problems/rectangle-overlap/
 [837l]:https://leetcode.cn/problems/new-21-game/
 [838l]:https://leetcode.cn/problems/push-dominoes/

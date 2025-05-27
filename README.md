@@ -587,6 +587,7 @@
 [831][831l]  |[Masking Personal Information][831]                                                   |![rb]
 [832][832l]  |[Flipping an Image][832]                                                              |![py]
 [833][833l]  |[Find And Replace in String][833]                                                     |![py]
+[834][834l]  |[Sum of Distances in Tree][834]                                                       |![rs]
 [836][836l]  |[Rectangle Overlap][836]                                                              |![rs]
 [837][837l]  |[New 21 Game][837]                                                                    |![rs]
 [838][838l]  |[Push Dominoes][838]                                                                  |![rb]&nbsp;&nbsp;![rs]
@@ -2350,6 +2351,7 @@
 [831]:Problemset/0831-Masking%20Personal%20Information/README.md#831-masking-personal-information
 [832]:Problemset/0832-Flipping%20an%20Image/README.md#832-flipping-an-image
 [833]:Problemset/0833-Find%20And%20Replace%20in%20String/README.md#833-find-and-replace-in-string
+[834]:Problemset/0834-Sum%20of%20Distances%20in%20Tree/README.md#834-sum-of-distances-in-tree
 [836]:Problemset/0836-Rectangle%20Overlap/README.md#836-rectangle-overlap
 [837]:Problemset/0837-New%2021%20Game/README.md#837-new-21-game
 [838]:Problemset/0838-Push%20Dominoes/README.md#838-push-dominoes
@@ -4107,6 +4109,7 @@
 [831l]:https://leetcode.com/problems/masking-personal-information/
 [832l]:https://leetcode.com/problems/flipping-an-image/
 [833l]:https://leetcode.com/problems/find-and-replace-in-string/
+[834l]:https://leetcode.com/problems/sum-of-distances-in-tree/
 [836l]:https://leetcode.com/problems/rectangle-overlap/
 [837l]:https://leetcode.com/problems/new-21-game/
 [838l]:https://leetcode.com/problems/push-dominoes/
