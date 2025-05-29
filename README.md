@@ -352,6 +352,7 @@
 [476][476l]  |[Number Complement][476]                                                              |![rs]
 [477][477l]  |[Total Hamming Distance][477]                                                         |![rb]&nbsp;&nbsp;![rs]
 [478][478l]  |[Generate Random Point in a Circle][478]                                              |![rs]
+[479][479l]  |[Largest Palindrome Product][479]                                                     |![py]
 [480][480l]  |[Sliding Window Median][480]                                                          |![py]
 [481][481l]  |[Magical String][481]                                                                 |![rs]
 [482][482l]  |[License Key Formatting][482]                                                         |![py]
@@ -2117,6 +2118,7 @@
 [476]:Problemset/0476-Number%20Complement/README.md#476-number-complement
 [477]:Problemset/0477-Total%20Hamming%20Distance/README.md#477-total-hamming-distance
 [478]:Problemset/0478-Generate%20Random%20Point%20in%20a%20Circle/README.md#478-generate-random-point-in-a-circle
+[479]:Problemset/0479-Largest%20Palindrome%20Product/README.md#479-largest-palindrome-product
 [480]:Problemset/0480-Sliding%20Window%20Median/README.md#480-sliding-window-median
 [481]:Problemset/0481-Magical%20String/README.md#481-magical-string
 [482]:Problemset/0482-License%20Key%20Formatting/README.md#482-license-key-formatting
@@ -3876,6 +3878,7 @@
 [476l]:https://leetcode.com/problems/number-complement/
 [477l]:https://leetcode.com/problems/total-hamming-distance/
 [478l]:https://leetcode.com/problems/generate-random-point-in-a-circle/
+[479l]:https://leetcode.com/problems/largest-palindrome-product/
 [480l]:https://leetcode.com/problems/sliding-window-median/
 [481l]:https://leetcode.com/problems/magical-string/
 [482l]:https://leetcode.com/problems/license-key-formatting/
