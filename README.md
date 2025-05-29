@@ -1364,6 +1364,7 @@
 [2014][2014l]|[Longest Subsequence Repeated k Times][2014]                                          |![py]
 [2016][2016l]|[Maximum Difference Between Increasing Elements][2016]                                |![rs]
 [2017][2017l]|[Grid Game][2017]                                                                     |![rs]
+[2018][2018l]|[Check if Word Can Be Placed In Crossword][2018]                                      |![py]
 [2022][2022l]|[Convert 1D Array Into 2D Array][2022]                                                |![rs]
 [2023][2023l]|[Number of Pairs of Strings With Concatenation Equal to Target][2023]                 |![py]
 [2024][2024l]|[Maximize the Confusion of an Exam][2024]                                             |![rs]
@@ -3131,6 +3132,7 @@
 [2014]:Problemset/2014-Longest%20Subsequence%20Repeated%20k%20Times/README.md#2014-longest-subsequence-repeated-k-times
 [2016]:Problemset/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README.md#2016-maximum-difference-between-increasing-elements
 [2017]:Problemset/2017-Grid%20Game/README.md#2017-grid-game
+[2018]:Problemset/2018-Check%20if%20Word%20Can%20Be%20Placed%20In%20Crossword/README.md#2018-check-if-word-can-be-placed-in-crossword
 [2022]:Problemset/2022-Convert%201D%20Array%20Into%202D%20Array/README.md#2022-convert-1d-array-into-2d-array
 [2023]:Problemset/2023-Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/README.md#2023-number-of-pairs-of-strings-with-concatenation-equal-to-target
 [2024]:Problemset/2024-Maximize%20the%20Confusion%20of%20an%20Exam/README.md#2024-maximize-the-confusion-of-an-exam
@@ -4892,6 +4894,7 @@
 [2014l]:https://leetcode.com/problems/longest-subsequence-repeated-k-times/
 [2016l]:https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 [2017l]:https://leetcode.com/problems/grid-game/
+[2018l]:https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/
 [2022l]:https://leetcode.com/problems/convert-1d-array-into-2d-array/
 [2023l]:https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 [2024l]:https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
