@@ -541,6 +541,7 @@
 [775][775l]  |[Global and Local Inversions][775]                                                    |![rb]&nbsp;&nbsp;![rs]
 [778][778l]  |[Swim in Rising Water][778]                                                           |![rs]
 [779][779l]  |[K-th Symbol in Grammar][779]                                                         |![rs]
+[780][780l]  |[Reaching Points][780]                                                                |![rs]
 [781][781l]  |[Rabbits in Forest][781]                                                              |![rb]&nbsp;&nbsp;![rs]
 [783][783l]  |[Minimum Distance Between BST Nodes][783]                                             |![py]
 [784][784l]  |[Letter Case Permutation][784]                                                        |![py]
@@ -2309,6 +2310,7 @@
 [775]:Problemset/0775-Global%20and%20Local%20Inversions/README.md#775-global-and-local-inversions
 [778]:Problemset/0778-Swim%20in%20Rising%20Water/README.md#778-swim-in-rising-water
 [779]:Problemset/0779-K-th%20Symbol%20in%20Grammar/README.md#779-k-th-symbol-in-grammar
+[780]:Problemset/0780-Reaching%20Points/README.md#780-reaching-points
 [781]:Problemset/0781-Rabbits%20in%20Forest/README.md#781-rabbits-in-forest
 [783]:Problemset/0783-Minimum%20Distance%20Between%20BST%20Nodes/README.md#783-minimum-distance-between-bst-nodes
 [784]:Problemset/0784-Letter%20Case%20Permutation/README.md#784-letter-case-permutation
@@ -4071,6 +4073,7 @@
 [775l]:https://leetcode.com/problems/global-and-local-inversions/
 [778l]:https://leetcode.com/problems/swim-in-rising-water/
 [779l]:https://leetcode.com/problems/k-th-symbol-in-grammar/
+[780l]:https://leetcode.com/problems/reaching-points/
 [781l]:https://leetcode.com/problems/rabbits-in-forest/
 [783l]:https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 [784l]:https://leetcode.com/problems/letter-case-permutation/

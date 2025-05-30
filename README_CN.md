@@ -541,6 +541,7 @@
 [775][775l]  |[全局倒置与局部倒置][775]                                 |![rb]&nbsp;&nbsp;![rs]
 [778][778l]  |[水位上升的泳池中游泳][778]                               |![rs]
 [779][779l]  |[第K个语法符号][779]                                      |![rs]
+[780][780l]  |[到达终点][780]                                           |![rs]
 [781][781l]  |[森林中的兔子][781]                                       |![rb]&nbsp;&nbsp;![rs]
 [783][783l]  |[二叉搜索树结点最小距离][783]                             |![py]
 [784][784l]  |[字母大小写全排列][784]                                   |![py]
@@ -2309,6 +2310,7 @@
 [775]:Problemset/0775-Global%20and%20Local%20Inversions/README_CN.md#775-全局倒置与局部倒置
 [778]:Problemset/0778-Swim%20in%20Rising%20Water/README_CN.md#778-水位上升的泳池中游泳
 [779]:Problemset/0779-K-th%20Symbol%20in%20Grammar/README_CN.md#779-第k个语法符号
+[780]:Problemset/0780-Reaching%20Points/README_CN.md#780-到达终点
 [781]:Problemset/0781-Rabbits%20in%20Forest/README_CN.md#781-森林中的兔子
 [783]:Problemset/0783-Minimum%20Distance%20Between%20BST%20Nodes/README_CN.md#783-二叉搜索树结点最小距离
 [784]:Problemset/0784-Letter%20Case%20Permutation/README_CN.md#784-字母大小写全排列
@@ -4071,6 +4073,7 @@
 [775l]:https://leetcode.cn/problems/global-and-local-inversions/
 [778l]:https://leetcode.cn/problems/swim-in-rising-water/
 [779l]:https://leetcode.cn/problems/k-th-symbol-in-grammar/
+[780l]:https://leetcode.cn/problems/reaching-points/
 [781l]:https://leetcode.cn/problems/rabbits-in-forest/
 [783l]:https://leetcode.cn/problems/minimum-distance-between-bst-nodes/
 [784l]:https://leetcode.cn/problems/letter-case-permutation/
