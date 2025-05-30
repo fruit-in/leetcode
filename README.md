@@ -583,6 +583,7 @@
 [824][824l]  |[Goat Latin][824]                                                                     |![py]
 [825][825l]  |[Friends Of Appropriate Ages][825]                                                    |![py]
 [826][826l]  |[Most Profit Assigning Work][826]                                                     |![rs]
+[827][827l]  |[Making A Large Island][827]                                                          |![rs]
 [828][828l]  |[Count Unique Characters of All Substrings of a Given String][828]                    |![rs]
 [829][829l]  |[Consecutive Numbers Sum][829]                                                        |![py]
 [830][830l]  |[Positions of Large Groups][830]                                                      |![rs]
@@ -2352,6 +2353,7 @@
 [824]:Problemset/0824-Goat%20Latin/README.md#824-goat-latin
 [825]:Problemset/0825-Friends%20Of%20Appropriate%20Ages/README.md#825-friends-of-appropriate-ages
 [826]:Problemset/0826-Most%20Profit%20Assigning%20Work/README.md#826-most-profit-assigning-work
+[827]:Problemset/0827-Making%20A%20Large%20Island/README.md#827-making-a-large-island
 [828]:Problemset/0828-Count%20Unique%20Characters%20of%20All%20Substrings%20of%20a%20Given%20String/README.md#828-count-unique-characters-of-all-substrings-of-a-given-string
 [829]:Problemset/0829-Consecutive%20Numbers%20Sum/README.md#829-consecutive-numbers-sum
 [830]:Problemset/0830-Positions%20of%20Large%20Groups/README.md#830-positions-of-large-groups
@@ -4115,6 +4117,7 @@
 [824l]:https://leetcode.com/problems/goat-latin/
 [825l]:https://leetcode.com/problems/friends-of-appropriate-ages/
 [826l]:https://leetcode.com/problems/most-profit-assigning-work/
+[827l]:https://leetcode.com/problems/making-a-large-island/
 [828l]:https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/
 [829l]:https://leetcode.com/problems/consecutive-numbers-sum/
 [830l]:https://leetcode.com/problems/positions-of-large-groups/
