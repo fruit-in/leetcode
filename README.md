@@ -966,6 +966,7 @@
 [1385][1385l]|[Find the Distance Value Between Two Arrays][1385]                                    |![rs]
 [1386][1386l]|[Cinema Seat Allocation][1386]                                                        |![rs]
 [1387][1387l]|[Sort Integers by The Power Value][1387]                                              |![rs]
+[1388][1388l]|[Pizza With 3n Slices][1388]                                                          |![rs]
 [1389][1389l]|[Create Target Array in the Given Order][1389]                                        |![rb]&nbsp;&nbsp;![rs]
 [1390][1390l]|[Four Divisors][1390]                                                                 |![rs]
 [1391][1391l]|[Check if There is a Valid Path in a Grid][1391]                                      |![rs]
@@ -2736,6 +2737,7 @@
 [1385]:Problemset/1385-Find%20the%20Distance%20Value%20Between%20Two%20Arrays/README.md#1385-find-the-distance-value-between-two-arrays
 [1386]:Problemset/1386-Cinema%20Seat%20Allocation/README.md#1386-cinema-seat-allocation
 [1387]:Problemset/1387-Sort%20Integers%20by%20The%20Power%20Value/README.md#1387-sort-integers-by-the-power-value
+[1388]:Problemset/1388-Pizza%20With%203n%20Slices/README.md#1388-pizza-with-3n-slices
 [1389]:Problemset/1389-Create%20Target%20Array%20in%20the%20Given%20Order/README.md#1389-create-target-array-in-the-given-order
 [1390]:Problemset/1390-Four%20Divisors/README.md#1390-four-divisors
 [1391]:Problemset/1391-Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/README.md#1391-check-if-there-is-a-valid-path-in-a-grid
@@ -4500,6 +4502,7 @@
 [1385l]:https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 [1386l]:https://leetcode.com/problems/cinema-seat-allocation/
 [1387l]:https://leetcode.com/problems/sort-integers-by-the-power-value/
+[1388l]:https://leetcode.com/problems/pizza-with-3n-slices/
 [1389l]:https://leetcode.com/problems/create-target-array-in-the-given-order/
 [1390l]:https://leetcode.com/problems/four-divisors/
 [1391l]:https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
