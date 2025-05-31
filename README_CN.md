@@ -1595,6 +1595,7 @@
 [2347][2347l]|[最好的扑克手牌][2347]                                    |![py]
 [2348][2348l]|[全 0 子数组的数目][2348]                                 |![rs]
 [2349][2349l]|[设计数字容器系统][2349]                                  |![rs]
+[2350][2350l]|[不可能得到的最短骰子序列][2350]                          |![rs]
 [2351][2351l]|[第一个出现两次的字母][2351]                              |![rs]
 [2352][2352l]|[相等行列对][2352]                                        |![rs]
 [2353][2353l]|[设计食物评分系统][2353]                                  |![rs]
@@ -3366,6 +3367,7 @@
 [2347]:Problemset/2347-Best%20Poker%20Hand/README_CN.md#2347-最好的扑克手牌
 [2348]:Problemset/2348-Number%20of%20Zero-Filled%20Subarrays/README_CN.md#2348-全-0-子数组的数目
 [2349]:Problemset/2349-Design%20a%20Number%20Container%20System/README_CN.md#2349-设计数字容器系统
+[2350]:Problemset/2350-Shortest%20Impossible%20Sequence%20of%20Rolls/README_CN.md#2350-不可能得到的最短骰子序列
 [2351]:Problemset/2351-First%20Letter%20to%20Appear%20Twice/README_CN.md#2351-第一个出现两次的字母
 [2352]:Problemset/2352-Equal%20Row%20and%20Column%20Pairs/README_CN.md#2352-相等行列对
 [2353]:Problemset/2353-Design%20a%20Food%20Rating%20System/README_CN.md#2353-设计食物评分系统
@@ -5131,6 +5133,7 @@
 [2347l]:https://leetcode.cn/problems/best-poker-hand/
 [2348l]:https://leetcode.cn/problems/number-of-zero-filled-subarrays/
 [2349l]:https://leetcode.cn/problems/design-a-number-container-system/
+[2350l]:https://leetcode.cn/problems/shortest-impossible-sequence-of-rolls/
 [2351l]:https://leetcode.cn/problems/first-letter-to-appear-twice/
 [2352l]:https://leetcode.cn/problems/equal-row-and-column-pairs/
 [2353l]:https://leetcode.cn/problems/design-a-food-rating-system/

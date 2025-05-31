@@ -1595,6 +1595,7 @@
 [2347][2347l]|[Best Poker Hand][2347]                                                               |![py]
 [2348][2348l]|[Number of Zero-Filled Subarrays][2348]                                               |![rs]
 [2349][2349l]|[Design a Number Container System][2349]                                              |![rs]
+[2350][2350l]|[Shortest Impossible Sequence of Rolls][2350]                                         |![rs]
 [2351][2351l]|[First Letter to Appear Twice][2351]                                                  |![rs]
 [2352][2352l]|[Equal Row and Column Pairs][2352]                                                    |![rs]
 [2353][2353l]|[Design a Food Rating System][2353]                                                   |![rs]
@@ -3366,6 +3367,7 @@
 [2347]:Problemset/2347-Best%20Poker%20Hand/README.md#2347-best-poker-hand
 [2348]:Problemset/2348-Number%20of%20Zero-Filled%20Subarrays/README.md#2348-number-of-zero-filled-subarrays
 [2349]:Problemset/2349-Design%20a%20Number%20Container%20System/README.md#2349-design-a-number-container-system
+[2350]:Problemset/2350-Shortest%20Impossible%20Sequence%20of%20Rolls/README.md#2350-shortest-impossible-sequence-of-rolls
 [2351]:Problemset/2351-First%20Letter%20to%20Appear%20Twice/README.md#2351-first-letter-to-appear-twice
 [2352]:Problemset/2352-Equal%20Row%20and%20Column%20Pairs/README.md#2352-equal-row-and-column-pairs
 [2353]:Problemset/2353-Design%20a%20Food%20Rating%20System/README.md#2353-design-a-food-rating-system
@@ -5131,6 +5133,7 @@
 [2347l]:https://leetcode.com/problems/best-poker-hand/
 [2348l]:https://leetcode.com/problems/number-of-zero-filled-subarrays/
 [2349l]:https://leetcode.com/problems/design-a-number-container-system/
+[2350l]:https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/
 [2351l]:https://leetcode.com/problems/first-letter-to-appear-twice/
 [2352l]:https://leetcode.com/problems/equal-row-and-column-pairs/
 [2353l]:https://leetcode.com/problems/design-a-food-rating-system/
