@@ -1153,6 +1153,7 @@
 [1668][1668l]|[最大重复子字符串][1668]                                  |![py]&nbsp;&nbsp;![rb]
 [1669][1669l]|[合并两个链表][1669]                                      |![rb]
 [1670][1670l]|[设计前中后队列][1670]                                    |![rs]
+[1671][1671l]|[得到山形数组的最少删除次数][1671]                        |![rs]
 [1672][1672l]|[最富有客户的资产总量][1672]                              |![rb]&nbsp;&nbsp;![rs]
 [1673][1673l]|[找出最具竞争力的子序列][1673]                            |![rs]
 [1678][1678l]|[设计 Goal 解析器][1678]                                  |![rs]
@@ -2925,6 +2926,7 @@
 [1668]:Problemset/1668-Maximum%20Repeating%20Substring/README_CN.md#1668-最大重复子字符串
 [1669]:Problemset/1669-Merge%20In%20Between%20Linked%20Lists/README_CN.md#1669-合并两个链表
 [1670]:Problemset/1670-Design%20Front%20Middle%20Back%20Queue/README_CN.md#1670-设计前中后队列
+[1671]:Problemset/1671-Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array/README_CN.md#1671-得到山形数组的最少删除次数
 [1672]:Problemset/1672-Richest%20Customer%20Wealth/README_CN.md#1672-最富有客户的资产总量
 [1673]:Problemset/1673-Find%20the%20Most%20Competitive%20Subsequence/README_CN.md#1673-找出最具竞争力的子序列
 [1678]:Problemset/1678-Goal%20Parser%20Interpretation/README_CN.md#1678-设计-goal-解析器
@@ -4691,6 +4693,7 @@
 [1668l]:https://leetcode.cn/problems/maximum-repeating-substring/
 [1669l]:https://leetcode.cn/problems/merge-in-between-linked-lists/
 [1670l]:https://leetcode.cn/problems/design-front-middle-back-queue/
+[1671l]:https://leetcode.cn/problems/minimum-number-of-removals-to-make-mountain-array/
 [1672l]:https://leetcode.cn/problems/richest-customer-wealth/
 [1673l]:https://leetcode.cn/problems/find-the-most-competitive-subsequence/
 [1678l]:https://leetcode.cn/problems/goal-parser-interpretation/
