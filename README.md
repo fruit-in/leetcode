@@ -1098,6 +1098,7 @@
 [1577][1577l]|[Number of Ways Where Square of Number Is Equal to Product of Two Numbers][1577]      |![py]
 [1578][1578l]|[Minimum Time to Make Rope Colorful][1578]                                            |![rs]
 [1582][1582l]|[Special Positions in a Binary Matrix][1582]                                          |![rs]
+[1583][1583l]|[Count Unhappy Friends][1583]                                                         |![rs]
 [1588][1588l]|[Sum of All Odd Length Subarrays][1588]                                               |![rs]
 [1589][1589l]|[Maximum Sum Obtained of Any Permutation][1589]                                       |![rs]
 [1590][1590l]|[Make Sum Divisible by P][1590]                                                       |![rs]
@@ -2872,6 +2873,7 @@
 [1577]:Problemset/1577-Number%20of%20Ways%20Where%20Square%20of%20Number%20Is%20Equal%20to%20Product%20of%20Two%20Numbers/README.md#1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers
 [1578]:Problemset/1578-Minimum%20Time%20to%20Make%20Rope%20Colorful/README.md#1578-minimum-time-to-make-rope-colorful
 [1582]:Problemset/1582-Special%20Positions%20in%20a%20Binary%20Matrix/README.md#1582-special-positions-in-a-binary-matrix
+[1583]:Problemset/1583-Count%20Unhappy%20Friends/README.md#1583-count-unhappy-friends
 [1588]:Problemset/1588-Sum%20of%20All%20Odd%20Length%20Subarrays/README.md#1588-sum-of-all-odd-length-subarrays
 [1589]:Problemset/1589-Maximum%20Sum%20Obtained%20of%20Any%20Permutation/README.md#1589-maximum-sum-obtained-of-any-permutation
 [1590]:Problemset/1590-Make%20Sum%20Divisible%20by%20P/README.md#1590-make-sum-divisible-by-p
@@ -4640,6 +4642,7 @@
 [1577l]:https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
 [1578l]:https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
 [1582l]:https://leetcode.com/problems/special-positions-in-a-binary-matrix/
+[1583l]:https://leetcode.com/problems/count-unhappy-friends/
 [1588l]:https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
 [1589l]:https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/
 [1590l]:https://leetcode.com/problems/make-sum-divisible-by-p/

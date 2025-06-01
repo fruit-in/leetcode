@@ -1098,6 +1098,7 @@
 [1577][1577l]|[数的平方等于两数乘积的方法数][1577]                      |![py]
 [1578][1578l]|[使绳子变成彩色的最短时间][1578]                          |![rs]
 [1582][1582l]|[二进制矩阵中的特殊位置][1582]                            |![rs]
+[1583][1583l]|[统计不开心的朋友][1583]                                  |![rs]
 [1588][1588l]|[所有奇数长度子数组的和][1588]                            |![rs]
 [1589][1589l]|[所有排列中的最大和][1589]                                |![rs]
 [1590][1590l]|[使数组和能被 P 整除][1590]                               |![rs]
@@ -2872,6 +2873,7 @@
 [1577]:Problemset/1577-Number%20of%20Ways%20Where%20Square%20of%20Number%20Is%20Equal%20to%20Product%20of%20Two%20Numbers/README_CN.md#1577-数的平方等于两数乘积的方法数
 [1578]:Problemset/1578-Minimum%20Time%20to%20Make%20Rope%20Colorful/README_CN.md#1578-使绳子变成彩色的最短时间
 [1582]:Problemset/1582-Special%20Positions%20in%20a%20Binary%20Matrix/README_CN.md#1582-二进制矩阵中的特殊位置
+[1583]:Problemset/1583-Count%20Unhappy%20Friends/README_CN.md#1583-统计不开心的朋友
 [1588]:Problemset/1588-Sum%20of%20All%20Odd%20Length%20Subarrays/README_CN.md#1588-所有奇数长度子数组的和
 [1589]:Problemset/1589-Maximum%20Sum%20Obtained%20of%20Any%20Permutation/README_CN.md#1589-所有排列中的最大和
 [1590]:Problemset/1590-Make%20Sum%20Divisible%20by%20P/README_CN.md#1590-使数组和能被-p-整除
@@ -4640,6 +4642,7 @@
 [1577l]:https://leetcode.cn/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
 [1578l]:https://leetcode.cn/problems/minimum-time-to-make-rope-colorful/
 [1582l]:https://leetcode.cn/problems/special-positions-in-a-binary-matrix/
+[1583l]:https://leetcode.cn/problems/count-unhappy-friends/
 [1588l]:https://leetcode.cn/problems/sum-of-all-odd-length-subarrays/
 [1589l]:https://leetcode.cn/problems/maximum-sum-obtained-of-any-permutation/
 [1590l]:https://leetcode.cn/problems/make-sum-divisible-by-p/
