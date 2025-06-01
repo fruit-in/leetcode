@@ -455,6 +455,7 @@
 [646][646l]  |[最长数对链][646]                                         |![rs]
 [647][647l]  |[回文子串][647]                                           |![rb]
 [648][648l]  |[单词替换][648]                                           |![py]
+[649][649l]  |[Dota2 参议院][649]                                       |![rs]
 [650][650l]  |[两个键的键盘][650]                                       |![rs]
 [652][652l]  |[寻找重复的子树][652]                                     |![py]
 [653][653l]  |[两数之和 IV - 输入 BST][653]                             |![py]
@@ -2228,6 +2229,7 @@
 [646]:Problemset/0646-Maximum%20Length%20of%20Pair%20Chain/README_CN.md#646-最长数对链
 [647]:Problemset/0647-Palindromic%20Substrings/README_CN.md#647-回文子串
 [648]:Problemset/0648-Replace%20Words/README_CN.md#648-单词替换
+[649]:Problemset/0649-Dota2%20Senate/README_CN.md#649-dota2-参议院
 [650]:Problemset/0650-2%20Keys%20Keyboard/README_CN.md#650-两个键的键盘
 [652]:Problemset/0652-Find%20Duplicate%20Subtrees/README_CN.md#652-寻找重复的子树
 [653]:Problemset/0653-Two%20Sum%20IV%20-%20Input%20is%20a%20BST/README_CN.md#653-两数之和-iv---输入-bst
@@ -3995,6 +3997,7 @@
 [646l]:https://leetcode.cn/problems/maximum-length-of-pair-chain/
 [647l]:https://leetcode.cn/problems/palindromic-substrings/
 [648l]:https://leetcode.cn/problems/replace-words/
+[649l]:https://leetcode.cn/problems/dota2-senate/
 [650l]:https://leetcode.cn/problems/2-keys-keyboard/
 [652l]:https://leetcode.cn/problems/find-duplicate-subtrees/
 [653l]:https://leetcode.cn/problems/two-sum-iv-input-is-a-bst/

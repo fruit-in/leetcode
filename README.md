@@ -455,6 +455,7 @@
 [646][646l]  |[Maximum Length of Pair Chain][646]                                                   |![rs]
 [647][647l]  |[Palindromic Substrings][647]                                                         |![rb]
 [648][648l]  |[Replace Words][648]                                                                  |![py]
+[649][649l]  |[Dota2 Senate][649]                                                                   |![rs]
 [650][650l]  |[2 Keys Keyboard][650]                                                                |![rs]
 [652][652l]  |[Find Duplicate Subtrees][652]                                                        |![py]
 [653][653l]  |[Two Sum IV - Input is a BST][653]                                                    |![py]
@@ -2228,6 +2229,7 @@
 [646]:Problemset/0646-Maximum%20Length%20of%20Pair%20Chain/README.md#646-maximum-length-of-pair-chain
 [647]:Problemset/0647-Palindromic%20Substrings/README.md#647-palindromic-substrings
 [648]:Problemset/0648-Replace%20Words/README.md#648-replace-words
+[649]:Problemset/0649-Dota2%20Senate/README.md#649-dota2-senate
 [650]:Problemset/0650-2%20Keys%20Keyboard/README.md#650-2-keys-keyboard
 [652]:Problemset/0652-Find%20Duplicate%20Subtrees/README.md#652-find-duplicate-subtrees
 [653]:Problemset/0653-Two%20Sum%20IV%20-%20Input%20is%20a%20BST/README.md#653-two-sum-iv---input-is-a-bst
@@ -3995,6 +3997,7 @@
 [646l]:https://leetcode.com/problems/maximum-length-of-pair-chain/
 [647l]:https://leetcode.com/problems/palindromic-substrings/
 [648l]:https://leetcode.com/problems/replace-words/
+[649l]:https://leetcode.com/problems/dota2-senate/
 [650l]:https://leetcode.com/problems/2-keys-keyboard/
 [652l]:https://leetcode.com/problems/find-duplicate-subtrees/
 [653l]:https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
