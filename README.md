@@ -1068,6 +1068,7 @@
 [1530][1530l]|[Number of Good Leaf Nodes Pairs][1530]                                               |![rb]
 [1534][1534l]|[Count Good Triplets][1534]                                                           |![rb]
 [1535][1535l]|[Find the Winner of an Array Game][1535]                                              |![rb]&nbsp;&nbsp;![rs]
+[1536][1536l]|[Minimum Swaps to Arrange a Binary Grid][1536]                                        |![rs]
 [1537][1537l]|[Get the Maximum Score][1537]                                                         |![rs]
 [1539][1539l]|[Kth Missing Positive Number][1539]                                                   |![rs]
 [1540][1540l]|[Can Convert String in K Moves][1540]                                                 |![rs]
@@ -2843,6 +2844,7 @@
 [1530]:Problemset/1530-Number%20of%20Good%20Leaf%20Nodes%20Pairs/README.md#1530-number-of-good-leaf-nodes-pairs
 [1534]:Problemset/1534-Count%20Good%20Triplets/README.md#1534-count-good-triplets
 [1535]:Problemset/1535-Find%20the%20Winner%20of%20an%20Array%20Game/README.md#1535-find-the-winner-of-an-array-game
+[1536]:Problemset/1536-Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/README.md#1536-minimum-swaps-to-arrange-a-binary-grid
 [1537]:Problemset/1537-Get%20the%20Maximum%20Score/README.md#1537-get-the-maximum-score
 [1539]:Problemset/1539-Kth%20Missing%20Positive%20Number/README.md#1539-kth-missing-positive-number
 [1540]:Problemset/1540-Can%20Convert%20String%20in%20K%20Moves/README.md#1540-can-convert-string-in-k-moves
@@ -4612,6 +4614,7 @@
 [1530l]:https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
 [1534l]:https://leetcode.com/problems/count-good-triplets/
 [1535l]:https://leetcode.com/problems/find-the-winner-of-an-array-game/
+[1536l]:https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/
 [1537l]:https://leetcode.com/problems/get-the-maximum-score/
 [1539l]:https://leetcode.com/problems/kth-missing-positive-number/
 [1540l]:https://leetcode.com/problems/can-convert-string-in-k-moves/
