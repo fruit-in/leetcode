@@ -1170,6 +1170,7 @@
 [1694][1694l]|[重新格式化电话号码][1694]                                |![py]
 [1695][1695l]|[删除子数组的最大得分][1695]                              |![rb]&nbsp;&nbsp;![rs]
 [1696][1696l]|[跳跃游戏 VI][1696]                                       |![rs]
+[1697][1697l]|[检查边长度限制的路径是否存在][1697]                      |![py]
 [1700][1700l]|[无法吃午餐的学生数量][1700]                              |![rb]&nbsp;&nbsp;![rs]
 [1701][1701l]|[平均等待时间][1701]                                      |![rb]&nbsp;&nbsp;![rs]
 [1702][1702l]|[修改后的最大二进制字符串][1702]                          |![rs]
@@ -2946,6 +2947,7 @@
 [1694]:Problemset/1694-Reformat%20Phone%20Number/README_CN.md#1694-重新格式化电话号码
 [1695]:Problemset/1695-Maximum%20Erasure%20Value/README_CN.md#1695-删除子数组的最大得分
 [1696]:Problemset/1696-Jump%20Game%20VI/README_CN.md#1696-跳跃游戏-vi
+[1697]:Problemset/1697-Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths/README_CN.md#1697-检查边长度限制的路径是否存在
 [1700]:Problemset/1700-Number%20of%20Students%20Unable%20to%20Eat%20Lunch/README_CN.md#1700-无法吃午餐的学生数量
 [1701]:Problemset/1701-Average%20Waiting%20Time/README_CN.md#1701-平均等待时间
 [1702]:Problemset/1702-Maximum%20Binary%20String%20After%20Change/README_CN.md#1702-修改后的最大二进制字符串
@@ -4716,6 +4718,7 @@
 [1694l]:https://leetcode.cn/problems/reformat-phone-number/
 [1695l]:https://leetcode.cn/problems/maximum-erasure-value/
 [1696l]:https://leetcode.cn/problems/jump-game-vi/
+[1697l]:https://leetcode.cn/problems/checking-existence-of-edge-length-limited-paths/
 [1700l]:https://leetcode.cn/problems/number-of-students-unable-to-eat-lunch/
 [1701l]:https://leetcode.cn/problems/average-waiting-time/
 [1702l]:https://leetcode.cn/problems/maximum-binary-string-after-change/

@@ -1170,6 +1170,7 @@
 [1694][1694l]|[Reformat Phone Number][1694]                                                         |![py]
 [1695][1695l]|[Maximum Erasure Value][1695]                                                         |![rb]&nbsp;&nbsp;![rs]
 [1696][1696l]|[Jump Game VI][1696]                                                                  |![rs]
+[1697][1697l]|[Checking Existence of Edge Length Limited Paths][1697]                               |![py]
 [1700][1700l]|[Number of Students Unable to Eat Lunch][1700]                                        |![rb]&nbsp;&nbsp;![rs]
 [1701][1701l]|[Average Waiting Time][1701]                                                          |![rb]&nbsp;&nbsp;![rs]
 [1702][1702l]|[Maximum Binary String After Change][1702]                                            |![rs]
@@ -2946,6 +2947,7 @@
 [1694]:Problemset/1694-Reformat%20Phone%20Number/README.md#1694-reformat-phone-number
 [1695]:Problemset/1695-Maximum%20Erasure%20Value/README.md#1695-maximum-erasure-value
 [1696]:Problemset/1696-Jump%20Game%20VI/README.md#1696-jump-game-vi
+[1697]:Problemset/1697-Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths/README.md#1697-checking-existence-of-edge-length-limited-paths
 [1700]:Problemset/1700-Number%20of%20Students%20Unable%20to%20Eat%20Lunch/README.md#1700-number-of-students-unable-to-eat-lunch
 [1701]:Problemset/1701-Average%20Waiting%20Time/README.md#1701-average-waiting-time
 [1702]:Problemset/1702-Maximum%20Binary%20String%20After%20Change/README.md#1702-maximum-binary-string-after-change
@@ -4716,6 +4718,7 @@
 [1694l]:https://leetcode.com/problems/reformat-phone-number/
 [1695l]:https://leetcode.com/problems/maximum-erasure-value/
 [1696l]:https://leetcode.com/problems/jump-game-vi/
+[1697l]:https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
 [1700l]:https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
 [1701l]:https://leetcode.com/problems/average-waiting-time/
 [1702l]:https://leetcode.com/problems/maximum-binary-string-after-change/
