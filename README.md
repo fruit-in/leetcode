@@ -129,6 +129,7 @@
 [129][129l]  |[Sum Root to Leaf Numbers][129]                                                       |![py]
 [130][130l]  |[Surrounded Regions][130]                                                             |![rs]
 [131][131l]  |[Palindrome Partitioning][131]                                                        |![py]
+[132][132l]  |[Palindrome Partitioning II][132]                                                     |![py]
 [133][133l]  |[Clone Graph][133]                                                                    |![py]
 [134][134l]  |[Gas Station][134]                                                                    |![rb]&nbsp;&nbsp;![rs]
 [135][135l]  |[Candy][135]                                                                          |![rs]
@@ -1906,6 +1907,7 @@
 [129]:Problemset/0129-Sum%20Root%20to%20Leaf%20Numbers/README.md#129-sum-root-to-leaf-numbers
 [130]:Problemset/0130-Surrounded%20Regions/README.md#130-surrounded-regions
 [131]:Problemset/0131-Palindrome%20Partitioning/README.md#131-palindrome-partitioning
+[132]:Problemset/0132-Palindrome%20Partitioning%20II/README.md#132-palindrome-partitioning-ii
 [133]:Problemset/0133-Clone%20Graph/README.md#133-clone-graph
 [134]:Problemset/0134-Gas%20Station/README.md#134-gas-station
 [135]:Problemset/0135-Candy/README.md#135-candy
@@ -3676,6 +3678,7 @@
 [129l]:https://leetcode.com/problems/sum-root-to-leaf-numbers/
 [130l]:https://leetcode.com/problems/surrounded-regions/
 [131l]:https://leetcode.com/problems/palindrome-partitioning/
+[132l]:https://leetcode.com/problems/palindrome-partitioning-ii/
 [133l]:https://leetcode.com/problems/clone-graph/
 [134l]:https://leetcode.com/problems/gas-station/
 [135l]:https://leetcode.com/problems/candy/

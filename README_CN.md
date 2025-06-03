@@ -129,6 +129,7 @@
 [129][129l]  |[求根到叶子节点数字之和][129]                             |![py]
 [130][130l]  |[被围绕的区域][130]                                       |![rs]
 [131][131l]  |[分割回文串][131]                                         |![py]
+[132][132l]  |[分割回文串 II][132]                                      |![py]
 [133][133l]  |[克隆图][133]                                             |![py]
 [134][134l]  |[加油站][134]                                             |![rb]&nbsp;&nbsp;![rs]
 [135][135l]  |[分发糖果][135]                                           |![rs]
@@ -1906,6 +1907,7 @@
 [129]:Problemset/0129-Sum%20Root%20to%20Leaf%20Numbers/README_CN.md#129-求根到叶子节点数字之和
 [130]:Problemset/0130-Surrounded%20Regions/README_CN.md#130-被围绕的区域
 [131]:Problemset/0131-Palindrome%20Partitioning/README_CN.md#131-分割回文串
+[132]:Problemset/0132-Palindrome%20Partitioning%20II/README_CN.md#132-分割回文串-ii
 [133]:Problemset/0133-Clone%20Graph/README_CN.md#133-克隆图
 [134]:Problemset/0134-Gas%20Station/README_CN.md#134-加油站
 [135]:Problemset/0135-Candy/README_CN.md#135-分发糖果
@@ -3676,6 +3678,7 @@
 [129l]:https://leetcode.cn/problems/sum-root-to-leaf-numbers/
 [130l]:https://leetcode.cn/problems/surrounded-regions/
 [131l]:https://leetcode.cn/problems/palindrome-partitioning/
+[132l]:https://leetcode.cn/problems/palindrome-partitioning-ii/
 [133l]:https://leetcode.cn/problems/clone-graph/
 [134l]:https://leetcode.cn/problems/gas-station/
 [135l]:https://leetcode.cn/problems/candy/
