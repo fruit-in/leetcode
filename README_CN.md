@@ -1179,6 +1179,7 @@
 [1704][1704l]|[判断字符串的两半是否相似][1704]                          |![rb]&nbsp;&nbsp;![rs]
 [1705][1705l]|[吃苹果的最大数目][1705]                                  |![rs]
 [1706][1706l]|[球会落何处][1706]                                        |![rs]
+[1707][1707l]|[与数组中元素的最大异或值][1707]                          |![py]
 [1710][1710l]|[卡车上的最大单元数][1710]                                |![rs]
 [1711][1711l]|[大餐计数][1711]                                          |![rs]
 [1712][1712l]|[将数组分成三个子数组的方案数][1712]                      |![rs]
@@ -2958,6 +2959,7 @@
 [1704]:Problemset/1704-Determine%20if%20String%20Halves%20Are%20Alike/README_CN.md#1704-判断字符串的两半是否相似
 [1705]:Problemset/1705-Maximum%20Number%20of%20Eaten%20Apples/README_CN.md#1705-吃苹果的最大数目
 [1706]:Problemset/1706-Where%20Will%20the%20Ball%20Fall/README_CN.md#1706-球会落何处
+[1707]:Problemset/1707-Maximum%20XOR%20With%20an%20Element%20From%20Array/README_CN.md#1707-与数组中元素的最大异或值
 [1710]:Problemset/1710-Maximum%20Units%20on%20a%20Truck/README_CN.md#1710-卡车上的最大单元数
 [1711]:Problemset/1711-Count%20Good%20Meals/README_CN.md#1711-大餐计数
 [1712]:Problemset/1712-Ways%20to%20Split%20Array%20Into%20Three%20Subarrays/README_CN.md#1712-将数组分成三个子数组的方案数
@@ -4731,6 +4733,7 @@
 [1704l]:https://leetcode.cn/problems/determine-if-string-halves-are-alike/
 [1705l]:https://leetcode.cn/problems/maximum-number-of-eaten-apples/
 [1706l]:https://leetcode.cn/problems/where-will-the-ball-fall/
+[1707l]:https://leetcode.cn/problems/maximum-xor-with-an-element-from-array/
 [1710l]:https://leetcode.cn/problems/maximum-units-on-a-truck/
 [1711l]:https://leetcode.cn/problems/count-good-meals/
 [1712l]:https://leetcode.cn/problems/ways-to-split-array-into-three-subarrays/

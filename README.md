@@ -1179,6 +1179,7 @@
 [1704][1704l]|[Determine if String Halves Are Alike][1704]                                          |![rb]&nbsp;&nbsp;![rs]
 [1705][1705l]|[Maximum Number of Eaten Apples][1705]                                                |![rs]
 [1706][1706l]|[Where Will the Ball Fall][1706]                                                      |![rs]
+[1707][1707l]|[Maximum XOR With an Element From Array][1707]                                        |![py]
 [1710][1710l]|[Maximum Units on a Truck][1710]                                                      |![rs]
 [1711][1711l]|[Count Good Meals][1711]                                                              |![rs]
 [1712][1712l]|[Ways to Split Array Into Three Subarrays][1712]                                      |![rs]
@@ -2958,6 +2959,7 @@
 [1704]:Problemset/1704-Determine%20if%20String%20Halves%20Are%20Alike/README.md#1704-determine-if-string-halves-are-alike
 [1705]:Problemset/1705-Maximum%20Number%20of%20Eaten%20Apples/README.md#1705-maximum-number-of-eaten-apples
 [1706]:Problemset/1706-Where%20Will%20the%20Ball%20Fall/README.md#1706-where-will-the-ball-fall
+[1707]:Problemset/1707-Maximum%20XOR%20With%20an%20Element%20From%20Array/README.md#1707-maximum-xor-with-an-element-from-array
 [1710]:Problemset/1710-Maximum%20Units%20on%20a%20Truck/README.md#1710-maximum-units-on-a-truck
 [1711]:Problemset/1711-Count%20Good%20Meals/README.md#1711-count-good-meals
 [1712]:Problemset/1712-Ways%20to%20Split%20Array%20Into%20Three%20Subarrays/README.md#1712-ways-to-split-array-into-three-subarrays
@@ -4731,6 +4733,7 @@
 [1704l]:https://leetcode.com/problems/determine-if-string-halves-are-alike/
 [1705l]:https://leetcode.com/problems/maximum-number-of-eaten-apples/
 [1706l]:https://leetcode.com/problems/where-will-the-ball-fall/
+[1707l]:https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
 [1710l]:https://leetcode.com/problems/maximum-units-on-a-truck/
 [1711l]:https://leetcode.com/problems/count-good-meals/
 [1712l]:https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
