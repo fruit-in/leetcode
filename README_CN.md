@@ -1732,6 +1732,7 @@
 [2547][2547l]|[拆分数组的最小代价][2547]                                |![rs]
 [2549][2549l]|[统计桌面上的不同数字][2549]                              |![rs]
 [2550][2550l]|[猴子碰撞的方法数][2550]                                  |![rs]
+[2551][2551l]|[将珠子放入背包中][2551]                                  |![py]
 [2553][2553l]|[分割数组中数字的数位][2553]                              |![rs]
 [2554][2554l]|[从一个范围内选择最多整数 I][2554]                        |![rs]
 [2555][2555l]|[两个线段获得的最多奖品][2555]                            |![py]
@@ -3510,6 +3511,7 @@
 [2547]:Problemset/2547-Minimum%20Cost%20to%20Split%20an%20Array/README_CN.md#2547-拆分数组的最小代价
 [2549]:Problemset/2549-Count%20Distinct%20Numbers%20on%20Board/README_CN.md#2549-统计桌面上的不同数字
 [2550]:Problemset/2550-Count%20Collisions%20of%20Monkeys%20on%20a%20Polygon/README_CN.md#2550-猴子碰撞的方法数
+[2551]:Problemset/2551-Put%20Marbles%20in%20Bags/README_CN.md#2551-将珠子放入背包中
 [2553]:Problemset/2553-Separate%20the%20Digits%20in%20an%20Array/README_CN.md#2553-分割数组中数字的数位
 [2554]:Problemset/2554-Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I/README_CN.md#2554-从一个范围内选择最多整数-i
 [2555]:Problemset/2555-Maximize%20Win%20From%20Two%20Segments/README_CN.md#2555-两个线段获得的最多奖品
@@ -5282,6 +5284,7 @@
 [2547l]:https://leetcode.cn/problems/minimum-cost-to-split-an-array/
 [2549l]:https://leetcode.cn/problems/count-distinct-numbers-on-board/
 [2550l]:https://leetcode.cn/problems/count-collisions-of-monkeys-on-a-polygon/
+[2551l]:https://leetcode.cn/problems/put-marbles-in-bags/
 [2553l]:https://leetcode.cn/problems/separate-the-digits-in-an-array/
 [2554l]:https://leetcode.cn/problems/maximum-number-of-integers-to-choose-from-a-range-i/
 [2555l]:https://leetcode.cn/problems/maximize-win-from-two-segments/

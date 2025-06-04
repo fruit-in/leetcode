@@ -1732,6 +1732,7 @@
 [2547][2547l]|[Minimum Cost to Split an Array][2547]                                                |![rs]
 [2549][2549l]|[Count Distinct Numbers on Board][2549]                                               |![rs]
 [2550][2550l]|[Count Collisions of Monkeys on a Polygon][2550]                                      |![rs]
+[2551][2551l]|[Put Marbles in Bags][2551]                                                           |![py]
 [2553][2553l]|[Separate the Digits in an Array][2553]                                               |![rs]
 [2554][2554l]|[Maximum Number of Integers to Choose From a Range I][2554]                           |![rs]
 [2555][2555l]|[Maximize Win From Two Segments][2555]                                                |![py]
@@ -3510,6 +3511,7 @@
 [2547]:Problemset/2547-Minimum%20Cost%20to%20Split%20an%20Array/README.md#2547-minimum-cost-to-split-an-array
 [2549]:Problemset/2549-Count%20Distinct%20Numbers%20on%20Board/README.md#2549-count-distinct-numbers-on-board
 [2550]:Problemset/2550-Count%20Collisions%20of%20Monkeys%20on%20a%20Polygon/README.md#2550-count-collisions-of-monkeys-on-a-polygon
+[2551]:Problemset/2551-Put%20Marbles%20in%20Bags/README.md#2551-put-marbles-in-bags
 [2553]:Problemset/2553-Separate%20the%20Digits%20in%20an%20Array/README.md#2553-separate-the-digits-in-an-array
 [2554]:Problemset/2554-Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I/README.md#2554-maximum-number-of-integers-to-choose-from-a-range-i
 [2555]:Problemset/2555-Maximize%20Win%20From%20Two%20Segments/README.md#2555-maximize-win-from-two-segments
@@ -5282,6 +5284,7 @@
 [2547l]:https://leetcode.com/problems/minimum-cost-to-split-an-array/
 [2549l]:https://leetcode.com/problems/count-distinct-numbers-on-board/
 [2550l]:https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/
+[2551l]:https://leetcode.com/problems/put-marbles-in-bags/
 [2553l]:https://leetcode.com/problems/separate-the-digits-in-an-array/
 [2554l]:https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/
 [2555l]:https://leetcode.com/problems/maximize-win-from-two-segments/
