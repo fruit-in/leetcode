@@ -1036,6 +1036,7 @@
 [1475][1475l]|[商品折扣后的最终价格][1475]                              |![rs]
 [1476][1476l]|[子矩形查询][1476]                                        |![rs]
 [1477][1477l]|[找两个和为目标值且不重叠的子数组][1477]                  |![rs]
+[1478][1478l]|[安排邮筒][1478]                                          |![py]
 [1480][1480l]|[一维数组的动态和][1480]                                  |![rb]&nbsp;&nbsp;![rs]
 [1481][1481l]|[不同整数的最少数目][1481]                                |![rb]&nbsp;&nbsp;![rs]
 [1482][1482l]|[制作 m 束花所需的最少天数][1482]                         |![rs]
@@ -2817,6 +2818,7 @@
 [1475]:Problemset/1475-Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/README_CN.md#1475-商品折扣后的最终价格
 [1476]:Problemset/1476-Subrectangle%20Queries/README_CN.md#1476-子矩形查询
 [1477]:Problemset/1477-Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/README_CN.md#1477-找两个和为目标值且不重叠的子数组
+[1478]:Problemset/1478-Allocate%20Mailboxes/README_CN.md#1478-安排邮筒
 [1480]:Problemset/1480-Running%20Sum%20of%201d%20Array/README_CN.md#1480-一维数组的动态和
 [1481]:Problemset/1481-Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals/README_CN.md#1481-不同整数的最少数目
 [1482]:Problemset/1482-Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/README_CN.md#1482-制作-m-束花所需的最少天数
@@ -4592,6 +4594,7 @@
 [1475l]:https://leetcode.cn/problems/final-prices-with-a-special-discount-in-a-shop/
 [1476l]:https://leetcode.cn/problems/subrectangle-queries/
 [1477l]:https://leetcode.cn/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
+[1478l]:https://leetcode.cn/problems/allocate-mailboxes/
 [1480l]:https://leetcode.cn/problems/running-sum-of-1d-array/
 [1481l]:https://leetcode.cn/problems/least-number-of-unique-integers-after-k-removals/
 [1482l]:https://leetcode.cn/problems/minimum-number-of-days-to-make-m-bouquets/

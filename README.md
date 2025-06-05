@@ -1036,6 +1036,7 @@
 [1475][1475l]|[Final Prices With a Special Discount in a Shop][1475]                                |![rs]
 [1476][1476l]|[Subrectangle Queries][1476]                                                          |![rs]
 [1477][1477l]|[Find Two Non-overlapping Sub-arrays Each With Target Sum][1477]                      |![rs]
+[1478][1478l]|[Allocate Mailboxes][1478]                                                            |![py]
 [1480][1480l]|[Running Sum of 1d Array][1480]                                                       |![rb]&nbsp;&nbsp;![rs]
 [1481][1481l]|[Least Number of Unique Integers after K Removals][1481]                              |![rb]&nbsp;&nbsp;![rs]
 [1482][1482l]|[Minimum Number of Days to Make m Bouquets][1482]                                     |![rs]
@@ -2817,6 +2818,7 @@
 [1475]:Problemset/1475-Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/README.md#1475-final-prices-with-a-special-discount-in-a-shop
 [1476]:Problemset/1476-Subrectangle%20Queries/README.md#1476-subrectangle-queries
 [1477]:Problemset/1477-Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/README.md#1477-find-two-non-overlapping-sub-arrays-each-with-target-sum
+[1478]:Problemset/1478-Allocate%20Mailboxes/README.md#1478-allocate-mailboxes
 [1480]:Problemset/1480-Running%20Sum%20of%201d%20Array/README.md#1480-running-sum-of-1d-array
 [1481]:Problemset/1481-Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals/README.md#1481-least-number-of-unique-integers-after-k-removals
 [1482]:Problemset/1482-Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/README.md#1482-minimum-number-of-days-to-make-m-bouquets
@@ -4592,6 +4594,7 @@
 [1475l]:https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1476l]:https://leetcode.com/problems/subrectangle-queries/
 [1477l]:https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
+[1478l]:https://leetcode.com/problems/allocate-mailboxes/
 [1480l]:https://leetcode.com/problems/running-sum-of-1d-array/
 [1481l]:https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
 [1482l]:https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
