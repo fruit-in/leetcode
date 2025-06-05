@@ -652,6 +652,7 @@
 [900][900l]  |[RLE Iterator][900]                                                                   |![rs]
 [901][901l]  |[Online Stock Span][901]                                                              |![rs]
 [902][902l]  |[Numbers At Most N Given Digit Set][902]                                              |![rs]
+[903][903l]  |[Valid Permutations for DI Sequence][903]                                             |![py]
 [904][904l]  |[Fruit Into Baskets][904]                                                             |![rs]
 [905][905l]  |[Sort Array By Parity][905]                                                           |![rs]
 [907][907l]  |[Sum of Subarray Minimums][907]                                                       |![rs]
@@ -2432,6 +2433,7 @@
 [900]:Problemset/0900-RLE%20Iterator/README.md#900-rle-iterator
 [901]:Problemset/0901-Online%20Stock%20Span/README.md#901-online-stock-span
 [902]:Problemset/0902-Numbers%20At%20Most%20N%20Given%20Digit%20Set/README.md#902-numbers-at-most-n-given-digit-set
+[903]:Problemset/0903-Valid%20Permutations%20for%20DI%20Sequence/README.md#903-valid-permutations-for-di-sequence
 [904]:Problemset/0904-Fruit%20Into%20Baskets/README.md#904-fruit-into-baskets
 [905]:Problemset/0905-Sort%20Array%20By%20Parity/README.md#905-sort-array-by-parity
 [907]:Problemset/0907-Sum%20of%20Subarray%20Minimums/README.md#907-sum-of-subarray-minimums
@@ -4206,6 +4208,7 @@
 [900l]:https://leetcode.com/problems/rle-iterator/
 [901l]:https://leetcode.com/problems/online-stock-span/
 [902l]:https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
+[903l]:https://leetcode.com/problems/valid-permutations-for-di-sequence/
 [904l]:https://leetcode.com/problems/fruit-into-baskets/
 [905l]:https://leetcode.com/problems/sort-array-by-parity/
 [907l]:https://leetcode.com/problems/sum-of-subarray-minimums/

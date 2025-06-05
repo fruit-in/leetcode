@@ -652,6 +652,7 @@
 [900][900l]  |[RLE 迭代器][900]                                         |![rs]
 [901][901l]  |[股票价格跨度][901]                                       |![rs]
 [902][902l]  |[最大为 N 的数字组合][902]                                |![rs]
+[903][903l]  |[DI 序列的有效排列][903]                                  |![py]
 [904][904l]  |[水果成篮][904]                                           |![rs]
 [905][905l]  |[按奇偶排序数组][905]                                     |![rs]
 [907][907l]  |[子数组的最小值之和][907]                                 |![rs]
@@ -2432,6 +2433,7 @@
 [900]:Problemset/0900-RLE%20Iterator/README_CN.md#900-rle-迭代器
 [901]:Problemset/0901-Online%20Stock%20Span/README_CN.md#901-股票价格跨度
 [902]:Problemset/0902-Numbers%20At%20Most%20N%20Given%20Digit%20Set/README_CN.md#902-最大为-n-的数字组合
+[903]:Problemset/0903-Valid%20Permutations%20for%20DI%20Sequence/README_CN.md#903-di-序列的有效排列
 [904]:Problemset/0904-Fruit%20Into%20Baskets/README_CN.md#904-水果成篮
 [905]:Problemset/0905-Sort%20Array%20By%20Parity/README_CN.md#905-按奇偶排序数组
 [907]:Problemset/0907-Sum%20of%20Subarray%20Minimums/README_CN.md#907-子数组的最小值之和
@@ -4206,6 +4208,7 @@
 [900l]:https://leetcode.cn/problems/rle-iterator/
 [901l]:https://leetcode.cn/problems/online-stock-span/
 [902l]:https://leetcode.cn/problems/numbers-at-most-n-given-digit-set/
+[903l]:https://leetcode.cn/problems/valid-permutations-for-di-sequence/
 [904l]:https://leetcode.cn/problems/fruit-into-baskets/
 [905l]:https://leetcode.cn/problems/sort-array-by-parity/
 [907l]:https://leetcode.cn/problems/sum-of-subarray-minimums/
