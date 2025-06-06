@@ -1106,6 +1106,7 @@
 [1588][1588l]|[Sum of All Odd Length Subarrays][1588]                                               |![rs]
 [1589][1589l]|[Maximum Sum Obtained of Any Permutation][1589]                                       |![rs]
 [1590][1590l]|[Make Sum Divisible by P][1590]                                                       |![rs]
+[1591][1591l]|[Strange Printer II][1591]                                                            |![py]
 [1592][1592l]|[Rearrange Spaces Between Words][1592]                                                |![py]
 [1593][1593l]|[Split a String Into the Max Number of Unique Substrings][1593]                       |![py]
 [1594][1594l]|[Maximum Non Negative Product in a Matrix][1594]                                      |![rs]
@@ -2888,6 +2889,7 @@
 [1588]:Problemset/1588-Sum%20of%20All%20Odd%20Length%20Subarrays/README.md#1588-sum-of-all-odd-length-subarrays
 [1589]:Problemset/1589-Maximum%20Sum%20Obtained%20of%20Any%20Permutation/README.md#1589-maximum-sum-obtained-of-any-permutation
 [1590]:Problemset/1590-Make%20Sum%20Divisible%20by%20P/README.md#1590-make-sum-divisible-by-p
+[1591]:Problemset/1591-Strange%20Printer%20II/README.md#1591-strange-printer-ii
 [1592]:Problemset/1592-Rearrange%20Spaces%20Between%20Words/README.md#1592-rearrange-spaces-between-words
 [1593]:Problemset/1593-Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings/README.md#1593-split-a-string-into-the-max-number-of-unique-substrings
 [1594]:Problemset/1594-Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/README.md#1594-maximum-non-negative-product-in-a-matrix
@@ -4664,6 +4666,7 @@
 [1588l]:https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
 [1589l]:https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/
 [1590l]:https://leetcode.com/problems/make-sum-divisible-by-p/
+[1591l]:https://leetcode.com/problems/strange-printer-ii/
 [1592l]:https://leetcode.com/problems/rearrange-spaces-between-words/
 [1593l]:https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 [1594l]:https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
