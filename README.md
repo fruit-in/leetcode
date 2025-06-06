@@ -777,6 +777,7 @@
 [1046][1046l]|[Last Stone Weight][1046]                                                             |![py]
 [1047][1047l]|[Remove All Adjacent Duplicates In String][1047]                                      |![py]
 [1048][1048l]|[Longest String Chain][1048]                                                          |![py]
+[1049][1049l]|[Last Stone Weight II][1049]                                                          |![py]
 [1051][1051l]|[Height Checker][1051]                                                                |![py]
 [1052][1052l]|[Grumpy Bookstore Owner][1052]                                                        |![rb]&nbsp;&nbsp;![rs]
 [1053][1053l]|[Previous Permutation With One Swap][1053]                                            |![rs]
@@ -2561,6 +2562,7 @@
 [1046]:Problemset/1046-Last%20Stone%20Weight/README.md#1046-last-stone-weight
 [1047]:Problemset/1047-Remove%20All%20Adjacent%20Duplicates%20In%20String/README.md#1047-remove-all-adjacent-duplicates-in-string
 [1048]:Problemset/1048-Longest%20String%20Chain/README.md#1048-longest-string-chain
+[1049]:Problemset/1049-Last%20Stone%20Weight%20II/README.md#1049-last-stone-weight-ii
 [1051]:Problemset/1051-Height%20Checker/README.md#1051-height-checker
 [1052]:Problemset/1052-Grumpy%20Bookstore%20Owner/README.md#1052-grumpy-bookstore-owner
 [1053]:Problemset/1053-Previous%20Permutation%20With%20One%20Swap/README.md#1053-previous-permutation-with-one-swap
@@ -4339,6 +4341,7 @@
 [1046l]:https://leetcode.com/problems/last-stone-weight/
 [1047l]:https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [1048l]:https://leetcode.com/problems/longest-string-chain/
+[1049l]:https://leetcode.com/problems/last-stone-weight-ii/
 [1051l]:https://leetcode.com/problems/height-checker/
 [1052l]:https://leetcode.com/problems/grumpy-bookstore-owner/
 [1053l]:https://leetcode.com/problems/previous-permutation-with-one-swap/
