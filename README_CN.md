@@ -1761,6 +1761,7 @@
 [2583][2583l]|[二叉树中的第 K 大层和][2583]                             |![py]
 [2585][2585l]|[获得分数的方法数][2585]                                  |![rs]
 [2586][2586l]|[统计范围内的元音字符串数][2586]                          |![py]
+[2587][2587l]|[重排数组以得到最大前缀分数][2587]                        |![rs]
 [2591][2591l]|[将钱分给最多的儿童][2591]                                |![rs]
 [2592][2592l]|[最大化数组的伟大值][2592]                                |![rs]
 [2593][2593l]|[标记所有元素后数组的分数][2593]                          |![rs]
@@ -3546,6 +3547,7 @@
 [2583]:Problemset/2583-Kth%20Largest%20Sum%20in%20a%20Binary%20Tree/README_CN.md#2583-二叉树中的第-k-大层和
 [2585]:Problemset/2585-Number%20of%20Ways%20to%20Earn%20Points/README_CN.md#2585-获得分数的方法数
 [2586]:Problemset/2586-Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range/README_CN.md#2586-统计范围内的元音字符串数
+[2587]:Problemset/2587-Rearrange%20Array%20to%20Maximize%20Prefix%20Score/README_CN.md#2587-重排数组以得到最大前缀分数
 [2591]:Problemset/2591-Distribute%20Money%20to%20Maximum%20Children/README_CN.md#2591-将钱分给最多的儿童
 [2592]:Problemset/2592-Maximize%20Greatness%20of%20an%20Array/README_CN.md#2592-最大化数组的伟大值
 [2593]:Problemset/2593-Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements/README_CN.md#2593-标记所有元素后数组的分数
@@ -5325,6 +5327,7 @@
 [2583l]:https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree/
 [2585l]:https://leetcode.cn/problems/number-of-ways-to-earn-points/
 [2586l]:https://leetcode.cn/problems/count-the-number-of-vowel-strings-in-range/
+[2587l]:https://leetcode.cn/problems/rearrange-array-to-maximize-prefix-score/
 [2591l]:https://leetcode.cn/problems/distribute-money-to-maximum-children/
 [2592l]:https://leetcode.cn/problems/maximize-greatness-of-an-array/
 [2593l]:https://leetcode.cn/problems/find-score-of-an-array-after-marking-all-elements/
