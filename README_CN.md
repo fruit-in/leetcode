@@ -1705,6 +1705,7 @@
 [2490][2490l]|[回环句][2490]                                            |![py]
 [2491][2491l]|[划分技能点相等的团队][2491]                              |![rs]
 [2496][2496l]|[数组中字符串的最大值][2496]                              |![rs]
+[2497][2497l]|[图中最大星和][2497]                                      |![rs]
 [2498][2498l]|[青蛙过河 II][2498]                                       |![rs]
 [2500][2500l]|[删除每行中的最大值][2500]                                |![rs]
 [2501][2501l]|[数组中最长的方波][2501]                                  |![rs]
@@ -3491,6 +3492,7 @@
 [2490]:Problemset/2490-Circular%20Sentence/README_CN.md#2490-回环句
 [2491]:Problemset/2491-Divide%20Players%20Into%20Teams%20of%20Equal%20Skill/README_CN.md#2491-划分技能点相等的团队
 [2496]:Problemset/2496-Maximum%20Value%20of%20a%20String%20in%20an%20Array/README_CN.md#2496-数组中字符串的最大值
+[2497]:Problemset/2497-Maximum%20Star%20Sum%20of%20a%20Graph/README_CN.md#2497-图中最大星和
 [2498]:Problemset/2498-Frog%20Jump%20II/README_CN.md#2498-frog-jump-ii
 [2500]:Problemset/2500-Delete%20Greatest%20Value%20in%20Each%20Row/README_CN.md#2500-删除每行中的最大值
 [2501]:Problemset/2501-Longest%20Square%20Streak%20in%20an%20Array/README_CN.md#2501-数组中最长的方波
@@ -5271,6 +5273,7 @@
 [2490l]:https://leetcode.cn/problems/circular-sentence/
 [2491l]:https://leetcode.cn/problems/divide-players-into-teams-of-equal-skill/
 [2496l]:https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/
+[2497l]:https://leetcode.cn/problems/maximum-star-sum-of-a-graph/
 [2498l]:https://leetcode.com/problems/frog-jump-ii/
 [2500l]:https://leetcode.cn/problems/delete-greatest-value-in-each-row/
 [2501l]:https://leetcode.cn/problems/longest-square-streak-in-an-array/
