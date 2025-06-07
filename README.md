@@ -1562,6 +1562,7 @@
 [2280][2280l]|[Minimum Lines to Represent a Line Chart][2280]                                       |![rs]
 [2283][2283l]|[Check if Number Has Equal Digit Count and Digit Value][2283]                         |![rs]
 [2284][2284l]|[Sender With Largest Word Count][2284]                                                |![py]
+[2285][2285l]|[Maximum Total Importance of Roads][2285]                                             |![rs]
 [2287][2287l]|[Rearrange Characters to Make Target String][2287]                                    |![rs]
 [2288][2288l]|[Apply Discount to Prices][2288]                                                      |![py]
 [2289][2289l]|[Steps to Make Array Non-decreasing][2289]                                            |![rs]
@@ -3349,6 +3350,7 @@
 [2280]:Problemset/2280-Minimum%20Lines%20to%20Represent%20a%20Line%20Chart/README.md#2280-minimum-lines-to-represent-a-line-chart
 [2283]:Problemset/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README.md#2283-check-if-number-has-equal-digit-count-and-digit-value
 [2284]:Problemset/2284-Sender%20With%20Largest%20Word%20Count/README.md#2284-sender-with-largest-word-count
+[2285]:Problemset/2285-Maximum%20Total%20Importance%20of%20Roads/README.md#2285-maximum-total-importance-of-roads
 [2287]:Problemset/2287-Rearrange%20Characters%20to%20Make%20Target%20String/README.md#2287-rearrange-characters-to-make-target-string
 [2288]:Problemset/2288-Apply%20Discount%20to%20Prices/README.md#2288-apply-discount-to-prices
 [2289]:Problemset/2289-Steps%20to%20Make%20Array%20Non-decreasing/README.md#2289-steps-to-make-array-non-decreasing
@@ -5130,6 +5132,7 @@
 [2280l]:https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/
 [2283l]:https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2284l]:https://leetcode.com/problems/sender-with-largest-word-count/
+[2285l]:https://leetcode.com/problems/maximum-total-importance-of-roads/
 [2287l]:https://leetcode.com/problems/rearrange-characters-to-make-target-string/
 [2288l]:https://leetcode.com/problems/apply-discount-to-prices/
 [2289l]:https://leetcode.com/problems/steps-to-make-array-non-decreasing/
