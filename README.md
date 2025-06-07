@@ -1388,6 +1388,7 @@
 [2029][2029l]|[Stone Game IX][2029]                                                                 |![rs]
 [2030][2030l]|[Smallest K-Length Subsequence With Occurrences of a Letter][2030]                    |![rs]
 [2032][2032l]|[Two Out of Three][2032]                                                              |![py]
+[2033][2033l]|[Minimum Operations to Make a Uni-Value Grid][2033]                                   |![rs]
 [2034][2034l]|[Stock Price Fluctuation ][2034]                                                      |![rs]
 [2037][2037l]|[Minimum Number of Moves to Seat Everyone][2037]                                      |![rs]
 [2038][2038l]|[Remove Colored Pieces if Both Neighbors are the Same Color][2038]                    |![rs]
@@ -3176,6 +3177,7 @@
 [2029]:Problemset/2029-Stone%20Game%20IX/README.md#2029-stone-game-ix
 [2030]:Problemset/2030-Smallest%20K-Length%20Subsequence%20With%20Occurrences%20of%20a%20Letter/README.md#2030-smallest-k-length-subsequence-with-occurrences-of-a-letter
 [2032]:Problemset/2032-Two%20Out%20of%20Three/README.md#2032-two-out-of-three
+[2033]:Problemset/2033-Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/README.md#2033-minimum-operations-to-make-a-uni-value-grid
 [2034]:Problemset/2034-Stock%20Price%20Fluctuation/README.md#2034-stock-price-fluctuation
 [2037]:Problemset/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README.md#2037-minimum-number-of-moves-to-seat-everyone
 [2038]:Problemset/2038-Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/README.md#2038-remove-colored-pieces-if-both-neighbors-are-the-same-color
@@ -4958,6 +4960,7 @@
 [2029l]:https://leetcode.com/problems/stone-game-ix/
 [2030l]:https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/
 [2032l]:https://leetcode.com/problems/two-out-of-three/
+[2033l]:https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 [2034l]:https://leetcode.com/problems/stock-price-fluctuation/
 [2037l]:https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
 [2038l]:https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/

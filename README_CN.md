@@ -1388,6 +1388,7 @@
 [2029][2029l]|[石子游戏 IX][2029]                                       |![rs]
 [2030][2030l]|[含特定字母的最小子序列][2030]                            |![rs]
 [2032][2032l]|[至少在两个数组中出现的值][2032]                          |![py]
+[2033][2033l]|[获取单值网格的最小操作数][2033]                          |![rs]
 [2034][2034l]|[股票价格波动][2034]                                      |![rs]
 [2037][2037l]|[使每位学生都有座位的最少移动次数][2037]                  |![rs]
 [2038][2038l]|[如果相邻两个颜色均相同则删除当前颜色][2038]              |![rs]
@@ -3176,6 +3177,7 @@
 [2029]:Problemset/2029-Stone%20Game%20IX/README_CN.md#2029-石子游戏-ix
 [2030]:Problemset/2030-Smallest%20K-Length%20Subsequence%20With%20Occurrences%20of%20a%20Letter/README_CN.md#2030-含特定字母的最小子序列
 [2032]:Problemset/2032-Two%20Out%20of%20Three/README_CN.md#2032-至少在两个数组中出现的值
+[2033]:Problemset/2033-Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/README_CN.md#2033-获取单值网格的最小操作数
 [2034]:Problemset/2034-Stock%20Price%20Fluctuation/README_CN.md#2034-股票价格波动
 [2037]:Problemset/2037-Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/README_CN.md#2037-使每位学生都有座位的最少移动次数
 [2038]:Problemset/2038-Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/README_CN.md#2038-如果相邻两个颜色均相同则删除当前颜色
@@ -4958,6 +4960,7 @@
 [2029l]:https://leetcode.cn/problems/stone-game-ix/
 [2030l]:https://leetcode.cn/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/
 [2032l]:https://leetcode.cn/problems/two-out-of-three/
+[2033l]:https://leetcode.cn/problems/minimum-operations-to-make-a-uni-value-grid/
 [2034l]:https://leetcode.cn/problems/stock-price-fluctuation/
 [2037l]:https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone/
 [2038l]:https://leetcode.cn/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
