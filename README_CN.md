@@ -835,6 +835,7 @@
 [1178][1178l]|[猜字谜][1178]                                            |![rs]
 [1184][1184l]|[公交站间的距离][1184]                                    |![rs]
 [1185][1185l]|[一周中的第几天][1185]                                    |![rs]
+[1186][1186l]|[删除一次得到子数组最大和][1186]                          |![rs]
 [1187][1187l]|[使数组严格递增][1187]                                    |![rs]
 [1189][1189l]|[“气球” 的最大数量][1189]                                 |![rs]
 [1190][1190l]|[反转每对括号间的子串][1190]                              |![rs]
@@ -2624,6 +2625,7 @@
 [1178]:Problemset/1178-Number%20of%20Valid%20Words%20for%20Each%20Puzzle/README_CN.md#1178-猜字谜
 [1184]:Problemset/1184-Distance%20Between%20Bus%20Stops/README_CN.md#1184-公交站间的距离
 [1185]:Problemset/1185-Day%20of%20the%20Week/README_CN.md#1185-一周中的第几天
+[1186]:Problemset/1186-Maximum%20Subarray%20Sum%20with%20One%20Deletion/README_CN.md#1186-删除一次得到子数组最大和
 [1187]:Problemset/1187-Make%20Array%20Strictly%20Increasing/README_CN.md#1187-使数组严格递增
 [1189]:Problemset/1189-Maximum%20Number%20of%20Balloons/README_CN.md#1189-气球-的最大数量
 [1190]:Problemset/1190-Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/README_CN.md#1190-反转每对括号间的子串
@@ -4407,6 +4409,7 @@
 [1178l]:https://leetcode.cn/problems/number-of-valid-words-for-each-puzzle/
 [1184l]:https://leetcode.cn/problems/distance-between-bus-stops/
 [1185l]:https://leetcode.cn/problems/day-of-the-week/
+[1186l]:https://leetcode.cn/problems/maximum-subarray-sum-with-one-deletion/
 [1187l]:https://leetcode.cn/problems/make-array-strictly-increasing/
 [1189l]:https://leetcode.cn/problems/maximum-number-of-balloons/
 [1190l]:https://leetcode.cn/problems/reverse-substrings-between-each-pair-of-parentheses/
