@@ -1159,6 +1159,7 @@
 [1662][1662l]|[Check If Two String Arrays are Equivalent][1662]                                     |![rb]&nbsp;&nbsp;![rs]
 [1663][1663l]|[Smallest String With A Given Numeric Value][1663]                                    |![rb]&nbsp;&nbsp;![rs]
 [1664][1664l]|[Ways to Make a Fair Array][1664]                                                     |![rb]&nbsp;&nbsp;![rs]
+[1665][1665l]|[Minimum Initial Energy to Finish Tasks][1665]                                        |![rs]
 [1668][1668l]|[Maximum Repeating Substring][1668]                                                   |![py]&nbsp;&nbsp;![rb]
 [1669][1669l]|[Merge In Between Linked Lists][1669]                                                 |![rb]
 [1670][1670l]|[Design Front Middle Back Queue][1670]                                                |![rs]
@@ -2950,6 +2951,7 @@
 [1662]:Problemset/1662-Check%20If%20Two%20String%20Arrays%20are%20Equivalent/README.md#1662-check-if-two-string-arrays-are-equivalent
 [1663]:Problemset/1663-Smallest%20String%20With%20A%20Given%20Numeric%20Value/README.md#1663-smallest-string-with-a-given-numeric-value
 [1664]:Problemset/1664-Ways%20to%20Make%20a%20Fair%20Array/README.md#1664-ways-to-make-a-fair-array
+[1665]:Problemset/1665-Minimum%20Initial%20Energy%20to%20Finish%20Tasks/README.md#1665-minimum-initial-energy-to-finish-tasks
 [1668]:Problemset/1668-Maximum%20Repeating%20Substring/README.md#1668-maximum-repeating-substring
 [1669]:Problemset/1669-Merge%20In%20Between%20Linked%20Lists/README.md#1669-merge-in-between-linked-lists
 [1670]:Problemset/1670-Design%20Front%20Middle%20Back%20Queue/README.md#1670-design-front-middle-back-queue
@@ -4735,6 +4737,7 @@
 [1662l]:https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 [1663l]:https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
 [1664l]:https://leetcode.com/problems/ways-to-make-a-fair-array/
+[1665l]:https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/
 [1668l]:https://leetcode.com/problems/maximum-repeating-substring/
 [1669l]:https://leetcode.com/problems/merge-in-between-linked-lists/
 [1670l]:https://leetcode.com/problems/design-front-middle-back-queue/
