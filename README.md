@@ -1737,6 +1737,7 @@
 [2532][2532l]|[Time to Cross a Bridge][2532]                                                        |![rs]
 [2535][2535l]|[Difference Between Element Sum and Digit Sum of an Array][2535]                      |![rs]
 [2537][2537l]|[Count the Number of Good Subarrays][2537]                                            |![rs]
+[2538][2538l]|[Difference Between Maximum and Minimum Price Sum][2538]                              |![py]
 [2540][2540l]|[Minimum Common Value][2540]                                                          |![rs]
 [2541][2541l]|[Minimum Operations to Make Array Equal II][2541]                                     |![rs]
 [2544][2544l]|[Alternating Digit Sum][2544]                                                         |![rs]
@@ -3529,6 +3530,7 @@
 [2532]:Problemset/2532-Time%20to%20Cross%20a%20Bridge/README.md#2532-time-to-cross-a-bridge
 [2535]:Problemset/2535-Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/README.md#2535-difference-between-element-sum-and-digit-sum-of-an-array
 [2537]:Problemset/2537-Count%20the%20Number%20of%20Good%20Subarrays/README.md#2537-count-the-number-of-good-subarrays
+[2538]:Problemset/2538-Difference%20Between%20Maximum%20and%20Minimum%20Price%20Sum/README.md#2538-difference-between-maximum-and-minimum-price-sum
 [2540]:Problemset/2540-Minimum%20Common%20Value/README.md#2540-minimum-common-value
 [2541]:Problemset/2541-Minimum%20Operations%20to%20Make%20Array%20Equal%20II/README.md#2541-minimum-operations-to-make-array-equal-ii
 [2544]:Problemset/2544-Alternating%20Digit%20Sum/README.md#2544-alternating-digit-sum
@@ -5315,6 +5317,7 @@
 [2532l]:https://leetcode.com/problems/time-to-cross-a-bridge/
 [2535l]:https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 [2537l]:https://leetcode.com/problems/count-the-number-of-good-subarrays/
+[2538l]:https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/
 [2540l]:https://leetcode.com/problems/minimum-common-value/
 [2541l]:https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/
 [2544l]:https://leetcode.com/problems/alternating-digit-sum/
