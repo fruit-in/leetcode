@@ -1765,6 +1765,7 @@
 [2577][2577l]|[Minimum Time to Visit a Cell In a Grid][2577]                                        |![rs]
 [2578][2578l]|[Split With Minimum Sum][2578]                                                        |![py]
 [2579][2579l]|[Count Total Number of Colored Cells][2579]                                           |![rs]
+[2580][2580l]|[Count Ways to Group Overlapping Ranges][2580]                                        |![rs]
 [2582][2582l]|[Pass the Pillow][2582]                                                               |![rs]
 [2583][2583l]|[Kth Largest Sum in a Binary Tree][2583]                                              |![py]
 [2585][2585l]|[Number of Ways to Earn Points][2585]                                                 |![rs]
@@ -3559,6 +3560,7 @@
 [2577]:Problemset/2577-Minimum%20Time%20to%20Visit%20a%20Cell%20In%20a%20Grid/README.md#2577-minimum-time-to-visit-a-cell-in-a-grid
 [2578]:Problemset/2578-Split%20With%20Minimum%20Sum/README.md#2578-split-with-minimum-sum
 [2579]:Problemset/2579-Count%20Total%20Number%20of%20Colored%20Cells/README.md#2579-count-total-number-of-colored-cells
+[2580]:Problemset/2580-Count%20Ways%20to%20Group%20Overlapping%20Ranges/README.md#2580-count-ways-to-group-overlapping-ranges
 [2582]:Problemset/2582-Pass%20the%20Pillow/README.md#2582-pass-the-pillow
 [2583]:Problemset/2583-Kth%20Largest%20Sum%20in%20a%20Binary%20Tree/README.md#2583-kth-largest-sum-in-a-binary-tree
 [2585]:Problemset/2585-Number%20of%20Ways%20to%20Earn%20Points/README.md#2585-number-of-ways-to-earn-points
@@ -5347,6 +5349,7 @@
 [2577l]:https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/
 [2578l]:https://leetcode.com/problems/split-with-minimum-sum/
 [2579l]:https://leetcode.com/problems/count-total-number-of-colored-cells/
+[2580l]:https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/
 [2582l]:https://leetcode.com/problems/pass-the-pillow/
 [2583l]:https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/
 [2585l]:https://leetcode.com/problems/number-of-ways-to-earn-points/
