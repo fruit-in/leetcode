@@ -728,6 +728,7 @@
 [989][989l]  |[数组形式的整数加法][989]                                 |![py]
 [990][990l]  |[等式方程的可满足性][990]                                 |![rs]
 [991][991l]  |[坏了的计算器][991]                                       |![rs]
+[992][992l]  |[K 个不同整数的子数组][992]                               |![rs]
 [993][993l]  |[二叉树的堂兄弟节点][993]                                 |![py]
 [994][994l]  |[腐烂的橘子][994]                                         |![rs]
 [996][996l]  |[平方数组的数目][996]                                     |![py]
@@ -2523,6 +2524,7 @@
 [989]:Problemset/0989-Add%20to%20Array-Form%20of%20Interger/README_CN.md#989-数组形式的整数加法
 [990]:Problemset/0990-Satisfiability%20of%20Equality%20Equations/README_CN.md#990-等式方程的可满足性
 [991]:Problemset/0991-Broken%20Calculator/README_CN.md#991-坏了的计算器
+[992]:Problemset/0992-Subarrays%20with%20K%20Different%20Integers/README_CN.md#992-k-个不同整数的子数组
 [993]:Problemset/0993-Cousins%20in%20Binary%20Tree/README_CN.md#993-二叉树的堂兄弟节点
 [994]:Problemset/0994-Rotting%20Oranges/README_CN.md#994-腐烂的橘子
 [996]:Problemset/0996-Number%20of%20Squareful%20Arrays/README_CN.md#996-平方数组的数目
@@ -4312,6 +4314,7 @@
 [989l]:https://leetcode.cn/problems/add-to-array-form-of-interger/
 [990l]:https://leetcode.cn/problems/satisfiability-of-equality-equations/
 [991l]:https://leetcode.cn/problems/broken-calculator/
+[992l]:https://leetcode.cn/problems/subarrays-with-k-different-integers/
 [993l]:https://leetcode.cn/problems/cousins-in-binary-tree/
 [994l]:https://leetcode.cn/problems/rotting-oranges/
 [996l]:https://leetcode.cn/problems/number-of-squareful-arrays/

@@ -728,6 +728,7 @@
 [989][989l]  |[Add to Array-Form of Interger][989]                                                  |![py]
 [990][990l]  |[Satisfiability of Equality Equations][990]                                           |![rs]
 [991][991l]  |[Broken Calculator][991]                                                              |![rs]
+[992][992l]  |[Subarrays with K Different Integers][992]                                            |![rs]
 [993][993l]  |[Cousins in Binary Tree][993]                                                         |![py]
 [994][994l]  |[Rotting Oranges][994]                                                                |![rs]
 [996][996l]  |[Number of Squareful Arrays][996]                                                     |![py]
@@ -2523,6 +2524,7 @@
 [989]:Problemset/0989-Add%20to%20Array-Form%20of%20Interger/README.md#989-add-to-array-form-of-interger
 [990]:Problemset/0990-Satisfiability%20of%20Equality%20Equations/README.md#990-satisfiability-of-equality-equations
 [991]:Problemset/0991-Broken%20Calculator/README.md#991-broken-calculator
+[992]:Problemset/0992-Subarrays%20with%20K%20Different%20Integers/README.md#992-subarrays-with-k-different-integers
 [993]:Problemset/0993-Cousins%20in%20Binary%20Tree/README.md#993-cousins-in-binary-tree
 [994]:Problemset/0994-Rotting%20Oranges/README.md#994-rotting-oranges
 [996]:Problemset/0996-Number%20of%20Squareful%20Arrays/README.md#996-number-of-squareful-arrays
@@ -4312,6 +4314,7 @@
 [989l]:https://leetcode.com/problems/add-to-array-form-of-interger/
 [990l]:https://leetcode.com/problems/satisfiability-of-equality-equations/
 [991l]:https://leetcode.com/problems/broken-calculator/
+[992l]:https://leetcode.com/problems/subarrays-with-k-different-integers/
 [993l]:https://leetcode.com/problems/cousins-in-binary-tree/
 [994l]:https://leetcode.com/problems/rotting-oranges/
 [996l]:https://leetcode.com/problems/number-of-squareful-arrays/
