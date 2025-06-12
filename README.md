@@ -1541,6 +1541,7 @@
 [2239][2239l]|[Find Closest Number to Zero][2239]                                                   |![rs]
 [2240][2240l]|[Number of Ways to Buy Pens and Pencils][2240]                                        |![rs]
 [2241][2241l]|[Design an ATM Machine][2241]                                                         |![rs]
+[2242][2242l]|[Maximum Score of a Node Sequence][2242]                                              |![py]
 [2243][2243l]|[Calculate Digit Sum of a String][2243]                                               |![py]
 [2244][2244l]|[Minimum Rounds to Complete All Tasks][2244]                                          |![py]
 [2245][2245l]|[Maximum Trailing Zeros in a Cornered Path][2245]                                     |![rs]
@@ -3340,6 +3341,7 @@
 [2239]:Problemset/2239-Find%20Closest%20Number%20to%20Zero/README.md#2239-find-closest-number-to-zero
 [2240]:Problemset/2240-Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils/README.md#2240-number-of-ways-to-buy-pens-and-pencils
 [2241]:Problemset/2241-Design%20an%20ATM%20Machine/README.md#2241-design-an-atm-machine
+[2242]:Problemset/2242-Maximum%20Score%20of%20a%20Node%20Sequence/README.md#2242-maximum-score-of-a-node-sequence
 [2243]:Problemset/2243-Calculate%20Digit%20Sum%20of%20a%20String/README.md#2243-calculate-digit-sum-of-a-string
 [2244]:Problemset/2244-Minimum%20Rounds%20to%20Complete%20All%20Tasks/README.md#2244-minimum-rounds-to-complete-all-tasks
 [2245]:Problemset/2245-Maximum%20Trailing%20Zeros%20in%20a%20Cornered%20Path/README.md#2245-maximum-trailing-zeros-in-a-cornered-path
@@ -5133,6 +5135,7 @@
 [2239l]:https://leetcode.com/problems/find-closest-number-to-zero/
 [2240l]:https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/
 [2241l]:https://leetcode.com/problems/design-an-atm-machine/
+[2242l]:https://leetcode.com/problems/maximum-score-of-a-node-sequence/
 [2243l]:https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 [2244l]:https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
 [2245l]:https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/

@@ -1541,6 +1541,7 @@
 [2239][2239l]|[找到最接近 0 的数字][2239]                               |![rs]
 [2240][2240l]|[买钢笔和铅笔的方案数][2240]                              |![rs]
 [2241][2241l]|[设计一个 ATM 机器][2241]                                 |![rs]
+[2242][2242l]|[节点序列的最大得分][2242l]                               |![py]
 [2243][2243l]|[计算字符串的数字和][2243]                                |![py]
 [2244][2244l]|[完成所有任务需要的最少轮数][2244]                        |![py]
 [2245][2245l]|[转角路径的乘积中最多能有几个尾随零][2245]                |![rs]
@@ -3340,6 +3341,7 @@
 [2239]:Problemset/2239-Find%20Closest%20Number%20to%20Zero/README_CN.md#2239-找到最接近-0-的数字
 [2240]:Problemset/2240-Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils/README_CN.md#2240-买钢笔和铅笔的方案数
 [2241]:Problemset/2241-Design%20an%20ATM%20Machine/README_CN.md#2241-设计一个-atm-机器
+[2242]:Problemset/2242-Maximum%20Score%20of%20a%20Node%20Sequence/README_CN.md#2242-节点序列的最大得分
 [2243]:Problemset/2243-Calculate%20Digit%20Sum%20of%20a%20String/README_CN.md#2243-计算字符串的数字和
 [2244]:Problemset/2244-Minimum%20Rounds%20to%20Complete%20All%20Tasks/README_CN.md#2244-完成所有任务需要的最少轮数
 [2245]:Problemset/2245-Maximum%20Trailing%20Zeros%20in%20a%20Cornered%20Path/README_CN.md#2245-转角路径的乘积中最多能有几个尾随零
@@ -5133,6 +5135,7 @@
 [2239l]:https://leetcode.cn/problems/find-closest-number-to-zero/
 [2240l]:https://leetcode.cn/problems/number-of-ways-to-buy-pens-and-pencils/
 [2241l]:https://leetcode.cn/problems/design-an-atm-machine/
+[2242l]:https://leetcode.cn/problems/maximum-score-of-a-node-sequence/
 [2243l]:https://leetcode.cn/problems/calculate-digit-sum-of-a-string/
 [2244l]:https://leetcode.cn/problems/minimum-rounds-to-complete-all-tasks/
 [2245l]:https://leetcode.cn/problems/maximum-trailing-zeros-in-a-cornered-path/
