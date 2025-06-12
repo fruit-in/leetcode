@@ -276,6 +276,7 @@
 [374][374l]  |[Guess Number Higher or Lower][374]                                                   |![py]
 [375][375l]  |[Guess Number Higher or Lower II][375]                                                |![py]
 [377][377l]  |[Combination Sum IV][377]                                                             |![rs]
+[378][378l]  |[Kth Smallest Element in a Sorted Matrix][378]                                        |![py]
 [380][380l]  |[Insert Delete GetRandom O(1)][380]                                                   |![rs]
 [381][381l]  |[Insert Delete GetRandom O(1) - Duplicates allowed][381]                              |![py]
 [382][382l]  |[Linked List Random Node][382]                                                        |![py]
@@ -2074,6 +2075,7 @@
 [374]:Problemset/0374-Guess%20Number%20Higher%20or%20Lower/README.md#374-guess-number-higher-or-lower
 [375]:Problemset/0375-Guess%20Number%20Higher%20or%20Lower%20II/README.md#375-guess-number-higher-or-lower-ii
 [377]:Problemset/0377-Combination%20Sum%20IV/README.md#377-combination-sum-iv
+[378]:Problemset/0378-Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/README.md#378-kth-smallest-element-in-a-sorted-matrix
 [380]:Problemset/0380-Insert%20Delete%20GetRandom%20O\(1\)/README.md#380-insert-delete-getrandom-o1
 [381]:Problemset/0381-Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/README.md#381-insert-delete-getrandom-o1-duplicates-allowed
 [382]:Problemset/0382-Linked%20List%20Random%20Node/README.md#382-linked-list-random-node
@@ -3865,6 +3867,7 @@
 [374l]:https://leetcode.com/problems/guess-number-higher-or-lower/
 [375l]:https://leetcode.com/problems/guess-number-higher-or-lower-ii/
 [377l]:https://leetcode.com/problems/combination-sum-iv/
+[378l]:https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 [380l]:https://leetcode.com/problems/insert-delete-getrandom-o1/
 [381l]:https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
 [382l]:https://leetcode.com/problems/linked-list-random-node/
