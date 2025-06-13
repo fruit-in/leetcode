@@ -1377,6 +1377,7 @@
 [2000][2000l]|[Reverse Prefix of Word][2000]                                                        |![py]
 [2001][2001l]|[Number of Pairs of Interchangeable Rectangles][2001]                                 |![py]
 [2002][2002l]|[Maximum Product of the Length of Two Palindromic Subsequences][2002]                 |![rs]
+[2003][2003l]|[Smallest Missing Genetic Value in Each Subtree][2003]                                |![rs]
 [2006][2006l]|[Count Number of Pairs With Absolute Difference K][2006]                              |![rs]
 [2007][2007l]|[Find Original Array From Doubled Array][2007]                                        |![rs]
 [2008][2008l]|[Maximum Earnings From Taxi][2008]                                                    |![rs]
@@ -3177,6 +3178,7 @@
 [2000]:Problemset/2000-Reverse%20Prefix%20of%20Word/README.md#2000-reverse-prefix-of-word
 [2001]:Problemset/2001-Number%20of%20Pairs%20of%20Interchangeable%20Rectangles/README.md#2001-number-of-pairs-of-interchangeable-rectangles
 [2002]:Problemset/2002-Maximum%20Product%20of%20the%20Length%20of%20Two%20Palindromic%20Subsequences/README.md#2002-maximum-product-of-the-length-of-two-palindromic-subsequences
+[2003]:Problemset/2003-Smallest%20Missing%20Genetic%20Value%20in%20Each%20Subtree/README.md#2003-smallest-missing-genetic-value-in-each-subtree
 [2006]:Problemset/2006-Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/README.md#2006-count-number-of-pairs-with-absolute-difference-k
 [2007]:Problemset/2007-Find%20Original%20Array%20From%20Doubled%20Array/README.md#2007-find-original-array-from-doubled-array
 [2008]:Problemset/2008-Maximum%20Earnings%20From%20Taxi/README.md#2008-maximum-earnings-from-taxi
@@ -4971,6 +4973,7 @@
 [2000l]:https://leetcode.com/problems/reverse-prefix-of-word/
 [2001l]:https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/
 [2002l]:https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/
+[2003l]:https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/
 [2006l]:https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [2007l]:https://leetcode.com/problems/find-original-array-from-doubled-array/
 [2008l]:https://leetcode.com/problems/maximum-earnings-from-taxi/
