@@ -941,6 +941,7 @@
 [1342][1342l]|[将数字变成 0 的操作次数][1342]                           |![rb]&nbsp;&nbsp;![rs]
 [1343][1343l]|[大小为 K 且平均值大于等于阈值的子数组数目][1343]         |![rb]&nbsp;&nbsp;![rs]
 [1344][1344l]|[时钟指针的夹角][1344]                                    |![rs]
+[1345][1345l]|[跳跃游戏 IV][1345]                                       |![rs]
 [1346][1346l]|[检查整数及其两倍数是否存在][1346]                        |![rs]
 [1347][1347l]|[制造字母异位词的最小步骤数][1347]                        |![rs]
 [1348][1348l]|[推文计数][1348]                                          |![py]
@@ -2743,6 +2744,7 @@
 [1342]:Problemset/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/README_CN.md#1342-将数字变成-0-的操作次数
 [1343]:Problemset/1343-Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold/README_CN.md#1343-大小为-k-且平均值大于等于阈值的子数组数目
 [1344]:Problemset/1344-Angle%20Between%20Hands%20of%20a%20Clock/README_CN.md#1344-时钟指针的夹角
+[1345]:Problemset/1345-Jump%20Game%20IV/README_CN.md#1345-跳跃游戏-iv
 [1346]:Problemset/1346-Check%20If%20N%20and%20Its%20Double%20Exist/README_CN.md#1346-检查整数及其两倍数是否存在
 [1347]:Problemset/1347-Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram/README_CN.md#1347-制造字母异位词的最小步骤数
 [1348]:Problemset/1348-Tweet%20Counts%20Per%20Frequency/README_CN.md#1348-推文计数
@@ -4539,6 +4541,7 @@
 [1342l]:https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1343l]:https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
 [1344l]:https://leetcode.cn/problems/angle-between-hands-of-a-clock/
+[1345l]:https://leetcode.cn/problems/jump-game-iv/
 [1346l]:https://leetcode.cn/problems/check-if-n-and-its-double-exist/
 [1347l]:https://leetcode.cn/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 [1348l]:https://leetcode.cn/problems/tweet-counts-per-frequency/
