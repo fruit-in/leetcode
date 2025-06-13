@@ -163,6 +163,7 @@
 [171][171l]  |[Excel Sheet Column Number][171]                                                      |![py]
 [172][172l]  |[Factorial Trailing Zeroes][172]                                                      |![rs]
 [173][173l]  |[Binary Search Tree Iterator][173]                                                    |![py]
+[174][174l]  |[Dungeon Game][174]                                                                   |![rs]
 [179][179l]  |[Largest Number][179]                                                                 |![rs]
 [187][187l]  |[Repeated DNA Sequences][187]                                                         |![rb]&nbsp;&nbsp;![rs]
 [188][188l]  |[Best Time to Buy and Sell Stock IV][188]                                             |![rs]
@@ -1964,6 +1965,7 @@
 [171]:Problemset/0171-Excel%20Sheet%20Column%20Number/README.md#171-excel-sheet-column-number
 [172]:Problemset/0172-Factorial%20Trailing%20Zeroes/README.md#172-factorial-trailing-zeroes
 [173]:Problemset/0173-Binary%20Search%20Tree%20Iterator/README.md#173-binary-search-tree-iterator
+[174]:Problemset/0174-Dungeon%20Game/README.md#174-dungeon-game
 [179]:Problemset/0179-Largest%20Number/README.md#179-largest-number
 [187]:Problemset/0187-Repeated%20DNA%20Sequences/README.md#187-repeated-dna-sequences
 [188]:Problemset/0188-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/README.md#188-best-time-to-buy-and-sell-stock-iv
@@ -3758,6 +3760,7 @@
 [171l]:https://leetcode.com/problems/excel-sheet-column-number/
 [172l]:https://leetcode.com/problems/factorial-trailing-zeroes/
 [173l]:https://leetcode.com/problems/binary-search-tree-iterator/
+[174l]:https://leetcode.com/problems/dungeon-game/
 [179l]:https://leetcode.com/problems/largest-number/
 [187l]:https://leetcode.com/problems/repeated-dna-sequences/
 [188l]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/

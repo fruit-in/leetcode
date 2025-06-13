@@ -163,6 +163,7 @@
 [171][171l]  |[Excel表列序号][171]                                      |![py]
 [172][172l]  |[阶乘后的零][172]                                         |![rs]
 [173][173l]  |[二叉搜索树迭代器][173]                                   |![py]
+[174][174l]  |[地下城游戏][174]                                         |![rs]
 [179][179l]  |[最大数][179]                                             |![rs]
 [187][187l]  |[重复的DNA序列][187]                                      |![rb]&nbsp;&nbsp;![rs]
 [188][188l]  |[买卖股票的最佳时机 IV][188]                              |![rs]
@@ -1964,6 +1965,7 @@
 [171]:Problemset/0171-Excel%20Sheet%20Column%20Number/README_CN.md#171-excel表列序号
 [172]:Problemset/0172-Factorial%20Trailing%20Zeroes/README_CN.md#172-阶乘后的零
 [173]:Problemset/0173-Binary%20Search%20Tree%20Iterator/README_CN.md#173-二叉搜索树迭代器
+[174]:Problemset/0174-Dungeon%20Game/README_CN.md#174-地下城游戏
 [179]:Problemset/0179-Largest%20Number/README_CN.md#179-最大数
 [187]:Problemset/0187-Repeated%20DNA%20Sequences/README_CN.md#187-重复的dna序列
 [188]:Problemset/0188-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/README_CN.md#188-买卖股票的最佳时机-iv
@@ -3758,6 +3760,7 @@
 [171l]:https://leetcode.cn/problems/excel-sheet-column-number/
 [172l]:https://leetcode.cn/problems/factorial-trailing-zeroes/
 [173l]:https://leetcode.cn/problems/binary-search-tree-iterator/
+[174l]:https://leetcode.cn/problems/dungeon-game/
 [179l]:https://leetcode.cn/problems/largest-number/
 [187l]:https://leetcode.cn/problems/repeated-dna-sequences/
 [188l]:https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/
