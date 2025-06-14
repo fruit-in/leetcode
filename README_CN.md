@@ -1797,6 +1797,7 @@
 [2610][2610l]|[转换二维数组][2610]                                      |![rs]
 [2611][2611l]|[老鼠和奶酪][2611]                                        |![rs]
 [2614][2614l]|[对角线上的质数][2614]                                    |![rs]
+[2639][2639l]|[查询网格图中每一列的宽度][2639]                          |![rs]
 
 
 [py]:./ico/python.ico
@@ -3600,6 +3601,7 @@
 [2610]:Problemset/2610-Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions/README_CN.md#2610-转换二维数组
 [2611]:Problemset/2611-Mice%20and%20Cheese/README_CN.md#2611-老鼠和奶酪
 [2614]:Problemset/2614-Prime%20In%20Diagonal/README_CN.md#2614-对角线上的质数
+[2639]:Problemset/2639-Find%20the%20Width%20of%20Columns%20of%20a%20Grid/README_CN.md#2639-查询网格图中每一列的宽度
 
 [1l]:https://leetcode.cn/problems/two-sum/
 [2l]:https://leetcode.cn/problems/add-two-numbers/
@@ -5397,3 +5399,4 @@
 [2610l]:https://leetcode.cn/problems/convert-an-array-into-a-2d-array-with-conditions/
 [2611l]:https://leetcode.cn/problems/mice-and-cheese/
 [2614l]:https://leetcode.cn/problems/prime-in-diagonal/
+[2639l]:https://leetcode.cn/problems/find-the-width-of-columns-of-a-grid/

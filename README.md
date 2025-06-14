@@ -1797,6 +1797,7 @@
 [2610][2610l]|[Convert an Array Into a 2D Array With Conditions][2610]                              |![rs]
 [2611][2611l]|[Mice and Cheese][2611]                                                               |![rs]
 [2614][2614l]|[Prime In Diagonal][2614]                                                             |![rs]
+[2639][2639l]|[Find the Width of Columns of a Grid][2639]                                           |![rs]
 
 
 [py]:./ico/python.ico
@@ -3600,6 +3601,7 @@
 [2610]:Problemset/2610-Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions/README.md#2610-convert-an-array-into-a-2d-array-with-conditions
 [2611]:Problemset/2611-Mice%20and%20Cheese/README.md#2611-mice-and-cheese
 [2614]:Problemset/2614-Prime%20In%20Diagonal/README.md#2614-prime-in-diagonal
+[2639]:Problemset/2639-Find%20the%20Width%20of%20Columns%20of%20a%20Grid/README.md#2639-find-the-width-of-columns-of-a-grid
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -5397,3 +5399,4 @@
 [2610l]:https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/
 [2611l]:https://leetcode.com/problems/mice-and-cheese/
 [2614l]:https://leetcode.com/problems/prime-in-diagonal/
+[2639l]:https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/
