@@ -1767,6 +1767,7 @@
 [2564][2564l]|[Substring XOR Queries][2564]                                                         |![py]
 [2565][2565l]|[Subsequence With the Minimum Score][2565]                                            |![rs]
 [2566][2566l]|[Maximum Difference by Remapping a Digit][2566]                                       |![py]
+[2567][2567l]|[Minimum Score by Changing Two Elements][2567]                                        |![rs]
 [2568][2568l]|[Minimum Impossible OR][2568]                                                         |![rs]
 [2570][2570l]|[Merge Two 2D Arrays by Summing Values][2570]                                         |![rs]
 [2574][2574l]|[Left and Right Sum Differences][2574]                                                |![rs]
@@ -3571,6 +3572,7 @@
 [2564]:Problemset/2564-Substring%20XOR%20Queries/README.md#2564-substring-xor-queries
 [2565]:Problemset/2565-Subsequence%20With%20the%20Minimum%20Score/README.md#2565-subsequence-with-the-minimum-score
 [2566]:Problemset/2566-Maximum%20Difference%20by%20Remapping%20a%20Digit/README.md#2566-maximum-difference-by-remapping-a-digit
+[2567]:Problemset/2567-Minimum%20Score%20by%20Changing%20Two%20Elements/README.md#2567-minimum-score-by-changing-two-elements
 [2568]:Problemset/2568-Minimum%20Impossible%20OR/README.md#2568-minimum-impossible-or
 [2570]:Problemset/2570-Merge%20Two%202D%20Arrays%20by%20Summing%20Values/README.md#2570-merge-two-2d-arrays-by-summing-values
 [2574]:Problemset/2574-Left%20and%20Right%20Sum%20Differences/README.md#2574-left-and-right-sum-differences
@@ -5369,6 +5371,7 @@
 [2564l]:https://leetcode.com/problems/substring-xor-queries/
 [2565l]:https://leetcode.com/problems/subsequence-with-the-minimum-score/
 [2566l]:https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/
+[2567l]:https://leetcode.com/problems/minimum-score-by-changing-two-elements/
 [2568l]:https://leetcode.com/problems/minimum-impossible-or/
 [2570l]:https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
 [2574l]:https://leetcode.com/problems/left-and-right-sum-differences/
