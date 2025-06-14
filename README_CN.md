@@ -1749,6 +1749,7 @@
 [2538][2538l]|[最大价值和与最小价值和的差值][2538]                      |![py]
 [2540][2540l]|[最小公共值][2540]                                        |![rs]
 [2541][2541l]|[使数组中所有元素相等的最小操作数 II][2541]               |![rs]
+[2542][2542l]|[最大子序列的分数][2542]                                  |![rs]
 [2544][2544l]|[交替数字和][2544]                                        |![rs]
 [2545][2545l]|[根据第 K 场考试的分数排序][2545]                         |![rs]
 [2547][2547l]|[拆分数组的最小代价][2547]                                |![rs]
@@ -3554,6 +3555,7 @@
 [2538]:Problemset/2538-Difference%20Between%20Maximum%20and%20Minimum%20Price%20Sum/README_CN.md#2538-最大价值和与最小价值和的差值
 [2540]:Problemset/2540-Minimum%20Common%20Value/README_CN.md#2540-最小公共值
 [2541]:Problemset/2541-Minimum%20Operations%20to%20Make%20Array%20Equal%20II/README_CN.md#2541-使数组中所有元素相等的最小操作数-ii
+[2542]:Problemset/2542-Maximum%20Subsequence%20Score/README_CN.md#2542-最大子序列的分数
 [2544]:Problemset/2544-Alternating%20Digit%20Sum/README_CN.md#2544-交替数字和
 [2545]:Problemset/2545-Sort%20the%20Students%20by%20Their%20Kth%20Score/README_CN.md#2545-根据第-k-场考试的分数排序
 [2547]:Problemset/2547-Minimum%20Cost%20to%20Split%20an%20Array/README_CN.md#2547-拆分数组的最小代价
@@ -5353,6 +5355,7 @@
 [2538l]:https://leetcode.cn/problems/difference-between-maximum-and-minimum-price-sum/
 [2540l]:https://leetcode.cn/problems/minimum-common-value/
 [2541l]:https://leetcode.cn/problems/minimum-operations-to-make-array-equal-ii/
+[2542l]:https://leetcode.cn/problems/maximum-subsequence-score/
 [2544l]:https://leetcode.cn/problems/alternating-digit-sum/
 [2545l]:https://leetcode.cn/problems/sort-the-students-by-their-kth-score/
 [2547l]:https://leetcode.cn/problems/minimum-cost-to-split-an-array/

@@ -1749,6 +1749,7 @@
 [2538][2538l]|[Difference Between Maximum and Minimum Price Sum][2538]                              |![py]
 [2540][2540l]|[Minimum Common Value][2540]                                                          |![rs]
 [2541][2541l]|[Minimum Operations to Make Array Equal II][2541]                                     |![rs]
+[2542][2542l]|[Maximum Subsequence Score][2542]                                                     |![rs]
 [2544][2544l]|[Alternating Digit Sum][2544]                                                         |![rs]
 [2545][2545l]|[Sort the Students by Their Kth Score][2545]                                          |![rs]
 [2547][2547l]|[Minimum Cost to Split an Array][2547]                                                |![rs]
@@ -3554,6 +3555,7 @@
 [2538]:Problemset/2538-Difference%20Between%20Maximum%20and%20Minimum%20Price%20Sum/README.md#2538-difference-between-maximum-and-minimum-price-sum
 [2540]:Problemset/2540-Minimum%20Common%20Value/README.md#2540-minimum-common-value
 [2541]:Problemset/2541-Minimum%20Operations%20to%20Make%20Array%20Equal%20II/README.md#2541-minimum-operations-to-make-array-equal-ii
+[2542]:Problemset/2542-Maximum%20Subsequence%20Score/README.md#2542-maximum-subsequence-score
 [2544]:Problemset/2544-Alternating%20Digit%20Sum/README.md#2544-alternating-digit-sum
 [2545]:Problemset/2545-Sort%20the%20Students%20by%20Their%20Kth%20Score/README.md#2545-sort-the-students-by-their-kth-score
 [2547]:Problemset/2547-Minimum%20Cost%20to%20Split%20an%20Array/README.md#2547-minimum-cost-to-split-an-array
@@ -5353,6 +5355,7 @@
 [2538l]:https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/
 [2540l]:https://leetcode.com/problems/minimum-common-value/
 [2541l]:https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/
+[2542l]:https://leetcode.com/problems/maximum-subsequence-score/
 [2544l]:https://leetcode.com/problems/alternating-digit-sum/
 [2545l]:https://leetcode.com/problems/sort-the-students-by-their-kth-score/
 [2547l]:https://leetcode.com/problems/minimum-cost-to-split-an-array/
