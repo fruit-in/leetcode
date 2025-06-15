@@ -1631,6 +1631,7 @@
 [2360][2360l]|[图中的最长环][2360]                                      |![rs]
 [2363][2363l]|[合并相似的物品][2363]                                    |![rs]
 [2364][2364l]|[统计坏数对的数目][2364]                                  |![rs]
+[2365][2365l]|[任务调度器 II][2365]                                     |![rs]
 [2367][2367l]|[算术三元组的数目][2367]                                  |![rs]
 [2368][2368l]|[受限条件下可到达节点的数目][2368]                        |![py]
 [2373][2373l]|[矩阵中的局部最大值][2373]                                |![rs]
@@ -3438,6 +3439,7 @@
 [2360]:Problemset/2360-Longest%20Cycle%20in%20a%20Graph/README_CN.md#2360-图中的最长环
 [2363]:Problemset/2363-Merge%20Similar%20Items/README_CN.md#2363-合并相似的物品
 [2364]:Problemset/2364-Count%20Number%20of%20Bad%20Pairs/README_CN.md#2364-统计坏数对的数目
+[2365]:Problemset/2365-Task%20Scheduler%20II/README_CN.md#2365-任务调度器-ii
 [2367]:Problemset/2367-Number%20of%20Arithmetic%20Triplets/README_CN.md#2367-算术三元组的数目
 [2368]:Problemset/2368-Reachable%20Nodes%20With%20Restrictions/README_CN.md#2368-受限条件下可到达节点的数目
 [2373]:Problemset/2373-Largest%20Local%20Values%20in%20a%20Matrix/README_CN.md#2373-矩阵中的局部最大值
@@ -5239,6 +5241,7 @@
 [2360l]:https://leetcode.cn/problems/longest-cycle-in-a-graph/
 [2363l]:https://leetcode.cn/problems/merge-similar-items/
 [2364l]:https://leetcode.cn/problems/count-number-of-bad-pairs/
+[2365l]:https://leetcode.cn/problems/task-scheduler-ii/
 [2367l]:https://leetcode.cn/problems/number-of-arithmetic-triplets/
 [2368l]:https://leetcode.cn/problems/reachable-nodes-with-restrictions/
 [2373l]:https://leetcode.cn/problems/largest-local-values-in-a-matrix/
