@@ -1745,6 +1745,7 @@
 [2529][2529l]|[正整数和负整数的最大计数][2529]                          |![py]
 [2532][2532l]|[过桥的时间][2532]                                        |![rs]
 [2535][2535l]|[数组元素和与数字和的绝对差][2535]                        |![rs]
+[2536][2536l]|[子矩阵元素加 1][2536]                                    |![rs]
 [2537][2537l]|[统计好子数组的数目][2537]                                |![rs]
 [2538][2538l]|[最大价值和与最小价值和的差值][2538]                      |![py]
 [2540][2540l]|[最小公共值][2540]                                        |![rs]
@@ -3551,6 +3552,7 @@
 [2529]:Problemset/2529-Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/README_CN.md#2529-正整数和负整数的最大计数
 [2532]:Problemset/2532-Time%20to%20Cross%20a%20Bridge/README_CN.md#2532-过桥的时间
 [2535]:Problemset/2535-Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/README_CN.md#2535-数组元素和与数字和的绝对差
+[2536]:Problemset/2536-Increment%20Submatrices%20by%20One/README_CN.md#2536-子矩阵元素加-1
 [2537]:Problemset/2537-Count%20the%20Number%20of%20Good%20Subarrays/README_CN.md#2537-统计好子数组的数目
 [2538]:Problemset/2538-Difference%20Between%20Maximum%20and%20Minimum%20Price%20Sum/README_CN.md#2538-最大价值和与最小价值和的差值
 [2540]:Problemset/2540-Minimum%20Common%20Value/README_CN.md#2540-最小公共值
@@ -5351,6 +5353,7 @@
 [2529l]:https://leetcode.cn/problems/maximum-count-of-positive-integer-and-negative-integer/
 [2532l]:https://leetcode.cn/problems/time-to-cross-a-bridge/
 [2535l]:https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/
+[2536l]:https://leetcode.cn/problems/increment-submatrices-by-one/
 [2537l]:https://leetcode.cn/problems/count-the-number-of-good-subarrays/
 [2538l]:https://leetcode.cn/problems/difference-between-maximum-and-minimum-price-sum/
 [2540l]:https://leetcode.cn/problems/minimum-common-value/

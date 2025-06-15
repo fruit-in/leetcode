@@ -1745,6 +1745,7 @@
 [2529][2529l]|[Maximum Count of Positive Integer and Negative Integer][2529]                        |![py]
 [2532][2532l]|[Time to Cross a Bridge][2532]                                                        |![rs]
 [2535][2535l]|[Difference Between Element Sum and Digit Sum of an Array][2535]                      |![rs]
+[2536][2536l]|[Increment Submatrices by One][2536]                                                  |![rs]
 [2537][2537l]|[Count the Number of Good Subarrays][2537]                                            |![rs]
 [2538][2538l]|[Difference Between Maximum and Minimum Price Sum][2538]                              |![py]
 [2540][2540l]|[Minimum Common Value][2540]                                                          |![rs]
@@ -3551,6 +3552,7 @@
 [2529]:Problemset/2529-Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/README.md#2529-maximum-count-of-positive-integer-and-negative-integer
 [2532]:Problemset/2532-Time%20to%20Cross%20a%20Bridge/README.md#2532-time-to-cross-a-bridge
 [2535]:Problemset/2535-Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/README.md#2535-difference-between-element-sum-and-digit-sum-of-an-array
+[2536]:Problemset/2536-Increment%20Submatrices%20by%20One/README.md#2536-increment-submatrices-by-one
 [2537]:Problemset/2537-Count%20the%20Number%20of%20Good%20Subarrays/README.md#2537-count-the-number-of-good-subarrays
 [2538]:Problemset/2538-Difference%20Between%20Maximum%20and%20Minimum%20Price%20Sum/README.md#2538-difference-between-maximum-and-minimum-price-sum
 [2540]:Problemset/2540-Minimum%20Common%20Value/README.md#2540-minimum-common-value
@@ -5351,6 +5353,7 @@
 [2529l]:https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 [2532l]:https://leetcode.com/problems/time-to-cross-a-bridge/
 [2535l]:https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
+[2536l]:https://leetcode.com/problems/increment-submatrices-by-one/
 [2537l]:https://leetcode.com/problems/count-the-number-of-good-subarrays/
 [2538l]:https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/
 [2540l]:https://leetcode.com/problems/minimum-common-value/
