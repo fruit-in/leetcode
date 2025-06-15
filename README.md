@@ -1284,6 +1284,7 @@
 [1847][1847l]|[Closest Room][1847]                                                                  |![py]
 [1848][1848l]|[Minimum Distance to the Target Element][1848]                                        |![rs]
 [1849][1849l]|[Splitting a String Into Descending Consecutive Values][1849]                         |![py]
+[1850][1850l]|[Minimum Adjacent Swaps to Reach the Kth Smallest Number][1850]                       |![rs]
 [1851][1851l]|[Minimum Interval to Include Each Query][1851]                                        |![rs]
 [1854][1854l]|[Maximum Population Year][1854]                                                       |![rs]
 [1855][1855l]|[Maximum Distance Between a Pair of Values][1855]                                     |![py]
@@ -3092,6 +3093,7 @@
 [1847]:Problemset/1847-Closest%20Room/README.md#1847-closest-room
 [1848]:Problemset/1848-Minimum%20Distance%20to%20the%20Target%20Element/README.md#1848-minimum-distance-to-the-target-element
 [1849]:Problemset/1849-Splitting%20a%20String%20Into%20Descending%20Consecutive%20Values/README.md#1849-splitting-a-string-into-descending-consecutive-values
+[1850]:Problemset/1850-Minimum%20Adjacent%20Swaps%20to%20Reach%20the%20Kth%20Smallest%20Number/README.md#1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number
 [1851]:Problemset/1851-Minimum%20Interval%20to%20Include%20Each%20Query/README.md#1851-minimum-interval-to-include-each-query
 [1854]:Problemset/1854-Maximum%20Population%20Year/README.md#1854-maximum-population-year
 [1855]:Problemset/1855-Maximum%20Distance%20Between%20a%20Pair%20of%20Values/README.md#1855-maximum-distance-between-a-pair-of-values
@@ -4894,6 +4896,7 @@
 [1847l]:https://leetcode.com/problems/closest-room/
 [1848l]:https://leetcode.com/problems/minimum-distance-to-the-target-element/
 [1849l]:https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/
+[1850l]:https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/
 [1851l]:https://leetcode.com/problems/minimum-interval-to-include-each-query/
 [1854l]:https://leetcode.com/problems/maximum-population-year/
 [1855l]:https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/

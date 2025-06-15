@@ -1284,6 +1284,7 @@
 [1847][1847l]|[最近的房间][1847]                                        |![py]
 [1848][1848l]|[到目标元素的最小距离][1848]                              |![rs]
 [1849][1849l]|[将字符串拆分为递减的连续值][1849]                        |![py]
+[1850][1850l]|[邻位交换的最小次数][1850]                                |![rs]
 [1851][1851l]|[包含每个查询的最小区间][1851]                            |![rs]
 [1854][1854l]|[人口最多的年份][1854]                                    |![rs]
 [1855][1855l]|[下标对中的最大距离][1855]                                |![py]
@@ -3092,6 +3093,7 @@
 [1847]:Problemset/1847-Closest%20Room/README_CN.md#1847-最近的房间
 [1848]:Problemset/1848-Minimum%20Distance%20to%20the%20Target%20Element/README_CN.md#1848-到目标元素的最小距离
 [1849]:Problemset/1849-Splitting%20a%20String%20Into%20Descending%20Consecutive%20Value/README_CN.md#1849-将字符串拆分为递减的连续值
+[1850]:Problemset/1850-Minimum%20Adjacent%20Swaps%20to%20Reach%20the%20Kth%20Smallest%20Number/README_CN.md#1850-邻位交换的最小次数
 [1851]:Problemset/1851-Minimum%20Interval%20to%20Include%20Each%20Query/README_CN.md#1851-包含每个查询的最小区间
 [1854]:Problemset/1854-Maximum%20Population%20Year/README_CN.md#1854-人口最多的年份
 [1855]:Problemset/1855-Maximum%20Distance%20Between%20a%20Pair%20of%20Values/README_CN.md#1855-下标对中的最大距离
@@ -4894,6 +4896,7 @@
 [1847l]:https://leetcode.cn/problems/closest-room/
 [1848l]:https://leetcode.cn/problems/minimum-distance-to-the-target-element/
 [1849l]:https://leetcode.cn/problems/splitting-a-string-into-descending-consecutive-values/
+[1850l]:https://leetcode.cn/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/
 [1851l]:https://leetcode.cn/problems/minimum-interval-to-include-each-query/
 [1854l]:https://leetcode.cn/problems/maximum-population-year/
 [1855l]:https://leetcode.cn/problems/maximum-distance-between-a-pair-of-values/
