@@ -1017,6 +1017,7 @@
 [1438][1438l]|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit][1438]    |![rs]
 [1439][1439l]|[Find the Kth Smallest Sum of a Matrix With Sorted Rows][1439]                        |![rs]
 [1441][1441l]|[Build an Array With Stack Operations][1441]                                          |![rs]
+[1442][1442l]|[Count Triplets That Can Form Two Arrays of Equal XOR][1442]                          |![rs]
 [1443][1443l]|[Minimum Time to Collect All Apples in a Tree][1443]                                  |![rs]
 [1444][1444l]|[Number of Ways of Cutting a Pizza][1444]                                             |![py]
 [1446][1446l]|[Consecutive Characters][1446]                                                        |![rs]
@@ -2826,6 +2827,7 @@
 [1438]:Problemset/1438-Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/README.md#1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
 [1439]:Problemset/1439-Find%20the%20Kth%20Smallest%20Sum%20of%20a%20Matrix%20With%20Sorted%20Rows/README.md#1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows
 [1441]:Problemset/1441-Build%20an%20Array%20With%20Stack%20Operations/README.md#1441-build-an-array-with-stack-operations
+[1442]:Problemset/1442-Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR/README.md#1442-count-triplets-that-can-form-two-arrays-of-equal-xor
 [1443]:Problemset/1443-Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree/README.md#1443-minimum-time-to-collect-all-apples-in-a-tree
 [1444]:Problemset/1444-Number%20of%20Ways%20of%20Cutting%20a%20Pizza/README.md#1444-number-of-ways-of-cutting-a-pizza
 [1446]:Problemset/1446-Consecutive%20Characters/README.md#1446-consecutive-characters
@@ -4629,6 +4631,7 @@
 [1438l]:https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 [1439l]:https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
 [1441l]:https://leetcode.com/problems/build-an-array-with-stack-operations/
+[1442l]:https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/
 [1443l]:https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
 [1444l]:https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
 [1446l]:https://leetcode.com/problems/consecutive-characters/

@@ -1017,6 +1017,7 @@
 [1438][1438l]|[绝对差不超过限制的最长连续子数组][1438]                  |![rs]
 [1439][1439l]|[有序矩阵中的第 k 个最小数组和][1439]                     |![rs]
 [1441][1441l]|[用栈操作构建数组][1441]                                  |![rs]
+[1442][1442l]|[形成两个异或相等数组的三元组数目][1442]                  |![rs]
 [1443][1443l]|[收集树上所有苹果的最少时间][1443]                        |![rs]
 [1444][1444l]|[切披萨的方案数][1444]                                    |![py]
 [1446][1446l]|[连续字符][1446]                                          |![rs]
@@ -2826,6 +2827,7 @@
 [1438]:Problemset/1438-Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit/README_CN.md#1438-绝对差不超过限制的最长连续子数组
 [1439]:Problemset/1439-Find%20the%20Kth%20Smallest%20Sum%20of%20a%20Matrix%20With%20Sorted%20Rows/README_CN.md#1439-有序矩阵中的第-k-个最小数组和
 [1441]:Problemset/1441-Build%20an%20Array%20With%20Stack%20Operations/README_CN.md#1441-用栈操作构建数组
+[1442]:Problemset/1442-Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR/README_CN.md#1442-形成两个异或相等数组的三元组数目
 [1443]:Problemset/1443-Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree/README_CN.md#1443-收集树上所有苹果的最少时间
 [1444]:Problemset/1444-Number%20of%20Ways%20of%20Cutting%20a%20Pizza/README_CN.md#1444-切披萨的方案数
 [1446]:Problemset/1446-Consecutive%20Characters/README_CN.md#1446-连续字符
@@ -4629,6 +4631,7 @@
 [1438l]:https://leetcode.cn/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 [1439l]:https://leetcode.cn/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
 [1441l]:https://leetcode.cn/problems/build-an-array-with-stack-operations/
+[1442l]:https://leetcode.cn/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/
 [1443l]:https://leetcode.cn/problems/minimum-time-to-collect-all-apples-in-a-tree/
 [1444l]:https://leetcode.cn/problems/number-of-ways-of-cutting-a-pizza/
 [1446l]:https://leetcode.cn/problems/consecutive-characters/
