@@ -1075,6 +1075,7 @@
 [1523][1523l]|[在区间范围内统计奇数数目][1523]                          |![rb]
 [1524][1524l]|[和为奇数的子数组数目][1524]                              |![rb]&nbsp;&nbsp;![rs]
 [1525][1525l]|[字符串的好分割数目][1525]                                |![rs]
+[1526][1526l]|[形成目标数组的子数组最少增加次数][1526]                  |![rs]
 [1528][1528l]|[重新排列字符串][1528]                                    |![py]&nbsp;&nbsp;![rb]
 [1529][1529l]|[灯泡开关 IV][1529]                                       |![rs]
 [1530][1530l]|[好叶子节点对的数量][1530]                                |![rb]
@@ -2885,6 +2886,7 @@
 [1523]:Problemset/1523-Count%20Odd%20Numbers%20in%20an%20Interval%20Range/README_CN.md#1523-在区间范围内统计奇数数目
 [1524]:Problemset/1524-Number%20of%20Sub-arrays%20With%20Odd%20Sum/README_CN.md#1524-和为奇数的子数组数目
 [1525]:Problemset/1525-Number%20of%20Good%20Ways%20to%20Split%20a%20String/README_CN.md#1525-字符串的好分割数目
+[1526]:Problemset/1526-Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array/README_CN.md#1526-形成目标数组的子数组最少增加次数
 [1528]:Problemset/1528-Shuffle%20String/README_CN.md#1528-重新排列字符串
 [1529]:Problemset/1529-Bulb%20Switcher%20IV/README_CN.md#1529-灯泡开关-iv
 [1530]:Problemset/1530-Number%20of%20Good%20Leaf%20Nodes%20Pairs/README_CN.md#1530-好叶子节点对的数量
@@ -4689,6 +4691,7 @@
 [1523l]:https://leetcode.cn/problems/count-odd-numbers-in-an-interval-range/
 [1524l]:https://leetcode.cn/problems/number-of-sub-arrays-with-odd-sum/
 [1525l]:https://leetcode.cn/problems/number-of-good-ways-to-split-a-string/
+[1526l]:https://leetcode.cn/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
 [1528l]:https://leetcode.cn/problems/shuffle-string/
 [1529l]:https://leetcode.cn/problems/bulb-switcher-iv/
 [1530l]:https://leetcode.cn/problems/number-of-good-leaf-nodes-pairs/

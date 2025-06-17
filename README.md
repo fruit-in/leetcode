@@ -1075,6 +1075,7 @@
 [1523][1523l]|[Count Odd Numbers in an Interval Range][1523]                                        |![rb]
 [1524][1524l]|[Number of Sub-arrays With Odd Sum][1524]                                             |![rb]&nbsp;&nbsp;![rs]
 [1525][1525l]|[Number of Good Ways to Split a String][1525]                                         |![rs]
+[1526][1526l]|[Minimum Number of Increments on Subarrays to Form a Target Array][1526]              |![rs]
 [1528][1528l]|[Shuffle String][1528]                                                                |![py]&nbsp;&nbsp;![rb]
 [1529][1529l]|[Bulb Switcher IV][1529]                                                              |![rs]
 [1530][1530l]|[Number of Good Leaf Nodes Pairs][1530]                                               |![rb]
@@ -2885,6 +2886,7 @@
 [1523]:Problemset/1523-Count%20Odd%20Numbers%20in%20an%20Interval%20Range/README.md#1523-count-odd-numbers-in-an-interval-range
 [1524]:Problemset/1524-Number%20of%20Sub-arrays%20With%20Odd%20Sum/README.md#1524-number-of-sub-arrays-with-odd-sum
 [1525]:Problemset/1525-Number%20of%20Good%20Ways%20to%20Split%20a%20String/README.md#1525-number-of-good-ways-to-split-a-string
+[1526]:Problemset/1526-Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array/README.md#1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array
 [1528]:Problemset/1528-Shuffle%20String/README.md#1528-shuffle-string
 [1529]:Problemset/1529-Bulb%20Switcher%20IV/README.md#1529-bulb-switcher-iv
 [1530]:Problemset/1530-Number%20of%20Good%20Leaf%20Nodes%20Pairs/README.md#1530-number-of-good-leaf-nodes-pairs
@@ -4689,6 +4691,7 @@
 [1523l]:https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 [1524l]:https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
 [1525l]:https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
+[1526l]:https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
 [1528l]:https://leetcode.com/problems/shuffle-string/
 [1529l]:https://leetcode.com/problems/bulb-switcher-iv/
 [1530l]:https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
