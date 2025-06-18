@@ -828,6 +828,7 @@
 [1144][1144l]|[递减元素使数组呈锯齿状][1144]                            |![rs]
 [1145][1145l]|[二叉树着色游戏][1145]                                    |![py]
 [1146][1146l]|[快照数组][1146]                                          |![rb]&nbsp;&nbsp;![rs]
+[1147][1147l]|[段式回文][1147]                                          |![py]
 [1154][1154l]|[一年中的第几天][1154]                                    |![rs]
 [1155][1155l]|[掷骰子的N种方法][1155]                                   |![py]&nbsp;&nbsp;![rs]
 [1156][1156l]|[单字符重复子串的最大长度][1156]                          |![rs]
@@ -2642,6 +2643,7 @@
 [1144]:Problemset/1144-Decrease%20Elements%20To%20Make%20Array%20Zigzag/README_CN.md#1144-递减元素使数组呈锯齿状
 [1145]:Problemset/1145-Binary%20Tree%20Coloring%20Game/README_CN.md#1145-二叉树着色游戏
 [1146]:Problemset/1146-Snapshot%20Array/README_CN.md#1146-快照数组
+[1147]:Problemset/1147-Longest%20Chunked%20Palindrome%20Decomposition/README_CN.md#1147-段式回文
 [1154]:Problemset/1154-Day%20of%20the%20Year/README_CN.md#1154-一年中的第几天
 [1155]:Problemset/1155-Number%20of%20Dice%20Rolls%20With%20Target%20Sum/README_CN.md#1155-掷骰子的n种方法
 [1156]:Problemset/1156-Swap%20For%20Longest%20Repeated%20Character%20Substring/README_CN.md#1156-单字符重复子串的最大长度
@@ -4450,6 +4452,7 @@
 [1144l]:https://leetcode.cn/problems/decrease-elements-to-make-array-zigzag/
 [1145l]:https://leetcode.cn/problems/binary-tree-coloring-game/
 [1146l]:https://leetcode.cn/problems/snapshot-array/
+[1147l]:https://leetcode.cn/problems/longest-chunked-palindrome-decomposition/
 [1154l]:https://leetcode.cn/problems/day-of-the-year/
 [1155l]:https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/
 [1156l]:https://leetcode.cn/problems/swap-for-longest-repeated-character-substring/
