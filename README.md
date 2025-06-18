@@ -246,6 +246,7 @@
 [316][316l]  |[Remove Duplicate Letters][316]                                                       |![rs]
 [318][318l]  |[Maximum Product of Word Lengths][318]                                                |![py]
 [319][319l]  |[Bulb Switcher][319]                                                                  |![rs]
+[321][321l]  |[Create Maximum Number][321]                                                          |![rs]
 [322][322l]  |[Coin Change][322]                                                                    |![rs]
 [326][326l]  |[Power of Three][326]                                                                 |![py]
 [327][327l]  |[Count of Range Sum][327]                                                             |![py]
@@ -2057,6 +2058,7 @@
 [316]:Problemset/0316-Remove%20Duplicate%20Letters/README.md#316-remove-duplicate-letters
 [318]:Problemset/0318-Maximum%20Product%20of%20Word%20Lengths/README.md#318-maximum-product-of-word-lengths
 [319]:Problemset/0319-Bulb%20Switcher/README.md#319-bulb-switcher
+[321]:Problemset/0321-Create%20Maximum%20Number/README.md#321-create-maximum-number
 [322]:Problemset/0322-Coin%20Change/README.md#322-coin-change
 [326]:Problemset/0326-Power%20of%20Three/README.md#326-power-of-three
 [327]:Problemset/0327-Count%20of%20Range%20Sum/README.md#327-count-of-range-sum
@@ -3861,6 +3863,7 @@
 [316l]:https://leetcode.com/problems/remove-duplicate-letters/
 [318l]:https://leetcode.com/problems/maximum-product-of-word-lengths/
 [319l]:https://leetcode.com/problems/bulb-switcher/
+[321l]:https://leetcode.com/problems/create-maximum-number/
 [322l]:https://leetcode.com/problems/coin-change/
 [326l]:https://leetcode.com/problems/power-of-three/
 [327l]:https://leetcode.com/problems/count-of-range-sum/

@@ -246,6 +246,7 @@
 [316][316l]  |[去除重复字母][316]                                       |![rs]
 [318][318l]  |[最大单词长度乘积][318]                                   |![py]
 [319][319l]  |[灯泡开关][319]                                           |![rs]
+[321][321l]  |[拼接最大数][321]                                         |![rs]
 [322][322l]  |[零钱兑换][322]                                           |![rs]
 [326][326l]  |[3的幂][326]                                              |![py]
 [327][327l]  |[区间和的个数][327]                                       |![py]
@@ -2057,6 +2058,7 @@
 [316]:Problemset/0316-Remove%20Duplicate%20Letters/README_CN.md#316-去除重复字母
 [318]:Problemset/0318-Maximum%20Product%20of%20Word%20Lengths/README_CN.md#318-最大单词长度乘积
 [319]:Problemset/0319-Bulb%20Switcher/README_CN.md#319-灯泡开关
+[321]:Problemset/0321-Create%20Maximum%20Number/README_CN.md#321-拼接最大数
 [322]:Problemset/0322-Coin%20Change/README_CN.md#322-零钱兑换
 [326]:Problemset/0326-Power%20of%20Three/README_CN.md#326-3的幂
 [327]:Problemset/0327-Count%20of%20Range%20Sum/README_CN.md#327-区间和的个数
@@ -3861,6 +3863,7 @@
 [316l]:https://leetcode.cn/problems/remove-duplicate-letters/
 [318l]:https://leetcode.cn/problems/maximum-product-of-word-lengths/
 [319l]:https://leetcode.cn/problems/bulb-switcher/
+[321l]:https://leetcode.cn/problems/create-maximum-number/
 [322l]:https://leetcode.cn/problems/coin-change/
 [326l]:https://leetcode.cn/problems/power-of-three/
 [327l]:https://leetcode.cn/problems/count-of-range-sum/
