@@ -490,6 +490,7 @@
 [688][688l]  |[“马”在棋盘上的概率][688]                                 |![rb]&nbsp;&nbsp;![rs]
 [689][689l]  |[三个无重叠子数组的最大和][689]                           |![rs]
 [690][690l]  |[员工的重要性][690]                                       |![py]
+[691][691l]  |[贴纸拼词][691]                                           |![py]
 [692][692l]  |[前K个高频单词][692]                                      |![rb]
 [693][693l]  |[交替位二进制数][693]                                     |![rs]
 [695][695l]  |[岛屿的最大面积][695]                                     |![rb]&nbsp;&nbsp;![rs]
@@ -2302,6 +2303,7 @@
 [688]:Problemset/0688-Knight%20Probability%20in%20Chessboard/README_CN.md#688-马在棋盘上的概率
 [689]:Problemset/0689-Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays/README_CN.md#689-三个无重叠子数组的最大和
 [690]:Problemset/0690-Employee%20Importance/README_CN.md#690-员工的重要性
+[691]:Problemset/0691-Stickers%20to%20Spell%20Word/README_CN.md#691-贴纸拼词
 [692]:Problemset/0692-Top%20K%20Frequent%20Words/README_CN.md#692-前k个高频单词
 [693]:Problemset/0693-Binary%20Number%20with%20Alternating%20Bits/README_CN.md#693-交替位二进制数
 [695]:Problemset/0695-Max%20Area%20of%20Island/README_CN.md#695-岛屿的最大面积
@@ -4108,6 +4110,7 @@
 [688l]:https://leetcode.cn/problems/knight-probability-in-chessboard/
 [689l]:https://leetcode.cn/problems/maximum-sum-of-3-non-overlapping-subarrays/
 [690l]:https://leetcode.cn/problems/employee-importance/
+[691l]:https://leetcode.cn/problems/stickers-to-spell-word/
 [692l]:https://leetcode.cn/problems/top-k-frequent-words/
 [693l]:https://leetcode.cn/problems/binary-number-with-alternating-bits/
 [695l]:https://leetcode.cn/problems/max-area-of-island/
