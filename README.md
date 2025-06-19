@@ -1782,6 +1782,7 @@
 [2568][2568l]|[Minimum Impossible OR][2568]                                                         |![rs]
 [2570][2570l]|[Merge Two 2D Arrays by Summing Values][2570]                                         |![rs]
 [2574][2574l]|[Left and Right Sum Differences][2574]                                                |![rs]
+[2575][2575l]|[Find the Divisibility Array of a String][2575]                                       |![rs]
 [2577][2577l]|[Minimum Time to Visit a Cell In a Grid][2577]                                        |![rs]
 [2578][2578l]|[Split With Minimum Sum][2578]                                                        |![py]
 [2579][2579l]|[Count Total Number of Colored Cells][2579]                                           |![rs]
@@ -3598,6 +3599,7 @@
 [2568]:Problemset/2568-Minimum%20Impossible%20OR/README.md#2568-minimum-impossible-or
 [2570]:Problemset/2570-Merge%20Two%202D%20Arrays%20by%20Summing%20Values/README.md#2570-merge-two-2d-arrays-by-summing-values
 [2574]:Problemset/2574-Left%20and%20Right%20Sum%20Differences/README.md#2574-left-and-right-sum-differences
+[2575]:Problemset/2575-Find%20the%20Divisibility%20Array%20of%20a%20String/README.md#2575-find-the-divisibility-array-of-a-string
 [2577]:Problemset/2577-Minimum%20Time%20to%20Visit%20a%20Cell%20In%20a%20Grid/README.md#2577-minimum-time-to-visit-a-cell-in-a-grid
 [2578]:Problemset/2578-Split%20With%20Minimum%20Sum/README.md#2578-split-with-minimum-sum
 [2579]:Problemset/2579-Count%20Total%20Number%20of%20Colored%20Cells/README.md#2579-count-total-number-of-colored-cells
@@ -5408,6 +5410,7 @@
 [2568l]:https://leetcode.com/problems/minimum-impossible-or/
 [2570l]:https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
 [2574l]:https://leetcode.com/problems/left-and-right-sum-differences/
+[2575l]:https://leetcode.com/problems/find-the-divisibility-array-of-a-string/
 [2577l]:https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/
 [2578l]:https://leetcode.com/problems/split-with-minimum-sum/
 [2579l]:https://leetcode.com/problems/count-total-number-of-colored-cells/
