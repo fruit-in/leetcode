@@ -985,6 +985,7 @@
 [1389][1389l]|[Create Target Array in the Given Order][1389]                                        |![rb]&nbsp;&nbsp;![rs]
 [1390][1390l]|[Four Divisors][1390]                                                                 |![rs]
 [1391][1391l]|[Check if There is a Valid Path in a Grid][1391]                                      |![rs]
+[1392][1392l]|[Longest Happy Prefix][1392]                                                          |![rs]
 [1394][1394l]|[Find Lucky Integer in an Array][1394]                                                |![rs]
 [1395][1395l]|[Count Number of Teams][1395]                                                         |![rs]
 [1396][1396l]|[Design Underground System][1396]                                                     |![rs]
@@ -2800,6 +2801,7 @@
 [1389]:Problemset/1389-Create%20Target%20Array%20in%20the%20Given%20Order/README.md#1389-create-target-array-in-the-given-order
 [1390]:Problemset/1390-Four%20Divisors/README.md#1390-four-divisors
 [1391]:Problemset/1391-Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/README.md#1391-check-if-there-is-a-valid-path-in-a-grid
+[1392]:Problemset/1392-Longest%20Happy%20Prefix/README.md#1392-longest-happy-prefix
 [1394]:Problemset/1394-Find%20Lucky%20Integer%20in%20an%20Array/README.md#1394-find-lucky-integer-in-an-array
 [1395]:Problemset/1395-Count%20Number%20of%20Teams/README.md#1395-count-number-of-teams
 [1396]:Problemset/1396-Design%20Underground%20System/README.md#1396-design-underground-system
@@ -4609,6 +4611,7 @@
 [1389l]:https://leetcode.com/problems/create-target-array-in-the-given-order/
 [1390l]:https://leetcode.com/problems/four-divisors/
 [1391l]:https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
+[1392l]:https://leetcode.com/problems/longest-happy-prefix/
 [1394l]:https://leetcode.com/problems/find-lucky-integer-in-an-array/
 [1395l]:https://leetcode.com/problems/count-number-of-teams/
 [1396l]:https://leetcode.com/problems/design-underground-system/
