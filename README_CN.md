@@ -1398,6 +1398,7 @@
 [2016][2016l]|[增量元素之间的最大差值][2016]                            |![rs]
 [2017][2017l]|[网格游戏][2017]                                          |![rs]
 [2018][2018l]|[判断单词是否能放入填字游戏内][2018]                      |![py]
+[2019][2019l]|[解出数学表达式的学生分数][2019]                          |![py]
 [2022][2022l]|[将一维数组转变成二维数组][2022]                          |![rs]
 [2023][2023l]|[连接后等于目标字符串的字符串对][2023]                    |![py]
 [2024][2024l]|[考试的最大困扰度][2024]                                  |![rs]
@@ -3215,6 +3216,7 @@
 [2016]:Problemset/2016-Maximum%20Difference%20Between%20Increasing%20Elements/README_CN.md#2016-增量元素之间的最大差值
 [2017]:Problemset/2017-Grid%20Game/README_CN.md#2017-网格游戏
 [2018]:Problemset/2018-Check%20if%20Word%20Can%20Be%20Placed%20In%20Crossword/README_CN.md#2018-判断单词是否能放入填字游戏内
+[2019]:Problemset/2019-The%20Score%20of%20Students%20Solving%20Math%20Expression/README_CN.md#2019-解出数学表达式的学生分数
 [2022]:Problemset/2022-Convert%201D%20Array%20Into%202D%20Array/README_CN.md#2022-将一维数组转变成二维数组
 [2023]:Problemset/2023-Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/README_CN.md#2023-连接后等于目标字符串的字符串对
 [2024]:Problemset/2024-Maximize%20the%20Confusion%20of%20an%20Exam/README_CN.md#2024-考试的最大困扰度
@@ -5026,6 +5028,7 @@
 [2016l]:https://leetcode.cn/problems/maximum-difference-between-increasing-elements/
 [2017l]:https://leetcode.cn/problems/grid-game/
 [2018l]:https://leetcode.cn/problems/check-if-word-can-be-placed-in-crossword/
+[2019l]:https://leetcode.cn/problems/the-score-of-students-solving-math-expression/
 [2022l]:https://leetcode.cn/problems/convert-1d-array-into-2d-array/
 [2023l]:https://leetcode.cn/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 [2024l]:https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/
