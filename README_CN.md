@@ -1753,6 +1753,7 @@
 [2526][2526l]|[找到数据流中的连续整数][2526]                            |![rs]
 [2528][2528l]|[最大化城市的最小电量][2528]                              |![rs]
 [2529][2529l]|[正整数和负整数的最大计数][2529]                          |![py]
+[2530][2530l]|[执行 K 次操作后的最大分数][2530]                         |![rs]
 [2532][2532l]|[过桥的时间][2532]                                        |![rs]
 [2535][2535l]|[数组元素和与数字和的绝对差][2535]                        |![rs]
 [2536][2536l]|[子矩阵元素加 1][2536]                                    |![rs]
@@ -3571,6 +3572,7 @@
 [2526]:Problemset/2526-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream/README_CN.md#2526-找到数据流中的连续整数
 [2528]:Problemset/2528-Maximize%20the%20Minimum%20Powered%20City/README_CN.md#2528-最大化城市的最小电量
 [2529]:Problemset/2529-Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/README_CN.md#2529-正整数和负整数的最大计数
+[2530]:Problemset/2530-Maximal%20Score%20After%20Applying%20K%20Operations/README_CN.md#2530-执行-k-次操作后的最大分数
 [2532]:Problemset/2532-Time%20to%20Cross%20a%20Bridge/README_CN.md#2532-过桥的时间
 [2535]:Problemset/2535-Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/README_CN.md#2535-数组元素和与数字和的绝对差
 [2536]:Problemset/2536-Increment%20Submatrices%20by%20One/README_CN.md#2536-子矩阵元素加-1
@@ -5383,6 +5385,7 @@
 [2526l]:https://leetcode.cn/problems/find-consecutive-integers-from-a-data-stream/
 [2528l]:https://leetcode.cn/problems/maximize-the-minimum-powered-city/
 [2529l]:https://leetcode.cn/problems/maximum-count-of-positive-integer-and-negative-integer/
+[2530l]:https://leetcode.cn/problems/maximal-score-after-applying-k-operations/
 [2532l]:https://leetcode.cn/problems/time-to-cross-a-bridge/
 [2535l]:https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 [2536l]:https://leetcode.cn/problems/increment-submatrices-by-one/
