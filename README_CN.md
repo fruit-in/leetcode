@@ -1751,6 +1751,7 @@
 [2523][2523l]|[范围内最接近的两个质数][2523]                            |![rs]
 [2525][2525l]|[根据规则将箱子分类][2525]                                |![rs]
 [2526][2526l]|[找到数据流中的连续整数][2526]                            |![rs]
+[2527][2527l]|[查询数组异或美丽值][2527]                                |![rs]
 [2528][2528l]|[最大化城市的最小电量][2528]                              |![rs]
 [2529][2529l]|[正整数和负整数的最大计数][2529]                          |![py]
 [2530][2530l]|[执行 K 次操作后的最大分数][2530]                         |![rs]
@@ -3570,6 +3571,7 @@
 [2523]:Problemset/2523-Closest%20Prime%20Numbers%20in%20Range/README_CN.md#2523-范围内最接近的两个质数
 [2525]:Problemset/2525-Categorize%20Box%20According%20to%20Criteria/README_CN.md#2525-根据规则将箱子分类
 [2526]:Problemset/2526-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream/README_CN.md#2526-找到数据流中的连续整数
+[2527]:Problemset/2527-Find%20Xor-Beauty%20of%20Array/README_CN.md#2527-查询数组异或美丽值
 [2528]:Problemset/2528-Maximize%20the%20Minimum%20Powered%20City/README_CN.md#2528-最大化城市的最小电量
 [2529]:Problemset/2529-Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/README_CN.md#2529-正整数和负整数的最大计数
 [2530]:Problemset/2530-Maximal%20Score%20After%20Applying%20K%20Operations/README_CN.md#2530-执行-k-次操作后的最大分数
@@ -5383,6 +5385,7 @@
 [2523l]:https://leetcode.cn/problems/closest-prime-numbers-in-range/
 [2525l]:https://leetcode.cn/problems/categorize-box-according-to-criteria/
 [2526l]:https://leetcode.cn/problems/find-consecutive-integers-from-a-data-stream/
+[2527l]:https://leetcode.cn/problems/find-xor-beauty-of-array/
 [2528l]:https://leetcode.cn/problems/maximize-the-minimum-powered-city/
 [2529l]:https://leetcode.cn/problems/maximum-count-of-positive-integer-and-negative-integer/
 [2530l]:https://leetcode.cn/problems/maximal-score-after-applying-k-operations/

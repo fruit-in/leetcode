@@ -1751,6 +1751,7 @@
 [2523][2523l]|[Closest Prime Numbers in Range][2523]                                                |![rs]
 [2525][2525l]|[Categorize Box According to Criteria][2525]                                          |![rs]
 [2526][2526l]|[Find Consecutive Integers from a Data Stream][2526]                                  |![rs]
+[2527][2527l]|[Find Xor-Beauty of Array][2527]                                                      |![rs]
 [2528][2528l]|[Maximize the Minimum Powered City][2528]                                             |![rs]
 [2529][2529l]|[Maximum Count of Positive Integer and Negative Integer][2529]                        |![py]
 [2530][2530l]|[Maximal Score After Applying K Operations][2530]                                     |![rs]
@@ -3570,6 +3571,7 @@
 [2523]:Problemset/2523-Closest%20Prime%20Numbers%20in%20Range/README.md#2523-closest-prime-numbers-in-range
 [2525]:Problemset/2525-Categorize%20Box%20According%20to%20Criteria/README.md#2525-categorize-box-according-to-criteria
 [2526]:Problemset/2526-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream/README.md#2526-find-consecutive-integers-from-a-data-stream
+[2527]:Problemset/2527-Find%20Xor-Beauty%20of%20Array/README.md#2527-find-xor-beauty-of-array
 [2528]:Problemset/2528-Maximize%20the%20Minimum%20Powered%20City/README.md#2528-maximize-the-minimum-powered-city
 [2529]:Problemset/2529-Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/README.md#2529-maximum-count-of-positive-integer-and-negative-integer
 [2530]:Problemset/2530-Maximal%20Score%20After%20Applying%20K%20Operations/README.md#2530-maximal-score-after-applying-k-operations
@@ -5383,6 +5385,7 @@
 [2523l]:https://leetcode.com/problems/closest-prime-numbers-in-range/
 [2525l]:https://leetcode.com/problems/categorize-box-according-to-criteria/
 [2526l]:https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/
+[2527l]:https://leetcode.com/problems/find-xor-beauty-of-array/
 [2528l]:https://leetcode.com/problems/maximize-the-minimum-powered-city/
 [2529l]:https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 [2530l]:https://leetcode.com/problems/maximal-score-after-applying-k-operations/
