@@ -1766,6 +1766,7 @@
 [2542][2542l]|[最大子序列的分数][2542]                                  |![rs]
 [2544][2544l]|[交替数字和][2544]                                        |![rs]
 [2545][2545l]|[根据第 K 场考试的分数排序][2545]                         |![rs]
+[2546][2546l]|[执行逐位运算使字符串相等][2546]                          |![rs]
 [2547][2547l]|[拆分数组的最小代价][2547]                                |![rs]
 [2549][2549l]|[统计桌面上的不同数字][2549]                              |![rs]
 [2550][2550l]|[猴子碰撞的方法数][2550]                                  |![rs]
@@ -3587,6 +3588,7 @@
 [2542]:Problemset/2542-Maximum%20Subsequence%20Score/README_CN.md#2542-最大子序列的分数
 [2544]:Problemset/2544-Alternating%20Digit%20Sum/README_CN.md#2544-交替数字和
 [2545]:Problemset/2545-Sort%20the%20Students%20by%20Their%20Kth%20Score/README_CN.md#2545-根据第-k-场考试的分数排序
+[2546]:Problemset/2546-Apply%20Bitwise%20Operations%20to%20Make%20Strings%20Equal/README_CN.md#2546-执行逐位运算使字符串相等
 [2547]:Problemset/2547-Minimum%20Cost%20to%20Split%20an%20Array/README_CN.md#2547-拆分数组的最小代价
 [2549]:Problemset/2549-Count%20Distinct%20Numbers%20on%20Board/README_CN.md#2549-统计桌面上的不同数字
 [2550]:Problemset/2550-Count%20Collisions%20of%20Monkeys%20on%20a%20Polygon/README_CN.md#2550-猴子碰撞的方法数
@@ -5402,6 +5404,7 @@
 [2542l]:https://leetcode.cn/problems/maximum-subsequence-score/
 [2544l]:https://leetcode.cn/problems/alternating-digit-sum/
 [2545l]:https://leetcode.cn/problems/sort-the-students-by-their-kth-score/
+[2546l]:https://leetcode.cn/problems/apply-bitwise-operations-to-make-strings-equal/
 [2547l]:https://leetcode.cn/problems/minimum-cost-to-split-an-array/
 [2549l]:https://leetcode.cn/problems/count-distinct-numbers-on-board/
 [2550l]:https://leetcode.cn/problems/count-collisions-of-monkeys-on-a-polygon/

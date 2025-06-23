@@ -1766,6 +1766,7 @@
 [2542][2542l]|[Maximum Subsequence Score][2542]                                                     |![rs]
 [2544][2544l]|[Alternating Digit Sum][2544]                                                         |![rs]
 [2545][2545l]|[Sort the Students by Their Kth Score][2545]                                          |![rs]
+[2546][2546l]|[Apply Bitwise Operations to Make Strings Equal][2546]                                |![rs]
 [2547][2547l]|[Minimum Cost to Split an Array][2547]                                                |![rs]
 [2549][2549l]|[Count Distinct Numbers on Board][2549]                                               |![rs]
 [2550][2550l]|[Count Collisions of Monkeys on a Polygon][2550]                                      |![rs]
@@ -3587,6 +3588,7 @@
 [2542]:Problemset/2542-Maximum%20Subsequence%20Score/README.md#2542-maximum-subsequence-score
 [2544]:Problemset/2544-Alternating%20Digit%20Sum/README.md#2544-alternating-digit-sum
 [2545]:Problemset/2545-Sort%20the%20Students%20by%20Their%20Kth%20Score/README.md#2545-sort-the-students-by-their-kth-score
+[2546]:Problemset/2546-Apply%20Bitwise%20Operations%20to%20Make%20Strings%20Equal/README.md#2546-apply-bitwise-operations-to-make-strings-equal
 [2547]:Problemset/2547-Minimum%20Cost%20to%20Split%20an%20Array/README.md#2547-minimum-cost-to-split-an-array
 [2549]:Problemset/2549-Count%20Distinct%20Numbers%20on%20Board/README.md#2549-count-distinct-numbers-on-board
 [2550]:Problemset/2550-Count%20Collisions%20of%20Monkeys%20on%20a%20Polygon/README.md#2550-count-collisions-of-monkeys-on-a-polygon
@@ -5402,6 +5404,7 @@
 [2542l]:https://leetcode.com/problems/maximum-subsequence-score/
 [2544l]:https://leetcode.com/problems/alternating-digit-sum/
 [2545l]:https://leetcode.com/problems/sort-the-students-by-their-kth-score/
+[2546l]:https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/
 [2547l]:https://leetcode.com/problems/minimum-cost-to-split-an-array/
 [2549l]:https://leetcode.com/problems/count-distinct-numbers-on-board/
 [2550l]:https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/
