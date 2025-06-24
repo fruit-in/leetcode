@@ -1383,6 +1383,7 @@
 [1991][1991l]|[找到数组的中间位置][1991]                                |![py]
 [1992][1992l]|[找到所有的农场组][1992]                                  |![rs]
 [1993][1993l]|[树上的操作][1993]                                        |![rs]
+[1994][1994l]|[好子集的数目][1994]                                      |![rs]
 [1995][1995l]|[统计特殊四元组][1995]                                    |![py]
 [1996][1996l]|[游戏中弱角色的数量][1996]                                |![rs]
 [2000][2000l]|[反转单词前缀][2000]                                      |![py]
@@ -3206,6 +3207,7 @@
 [1991]:Problemset/1991-Find%20the%20Middle%20Index%20in%20Array/README_CN.md#1991-找到数组的中间位置
 [1992]:Problemset/1992-Find%20All%20Groups%20of%20Farmland/README_CN.md#1992-找到所有的农场组
 [1993]:Problemset/1993-Operations%20on%20Tree/README_CN.md#1993-树上的操作
+[1994]:Problemset/1994-The%20Number%20of%20Good%20Subsets/README_CN.md#1994-好子集的数目
 [1995]:Problemset/1995-Count%20Special%20Quadruplets/README_CN.md#1995-统计特殊四元组
 [1996]:Problemset/1996-The%20Number%20of%20Weak%20Characters%20in%20the%20Game/README_CN.md#1996-游戏中弱角色的数量
 [2000]:Problemset/2000-Reverse%20Prefix%20of%20Word/README_CN.md#2000-反转单词前缀
@@ -5023,6 +5025,7 @@
 [1991l]:https://leetcode.cn/problems/find-the-middle-index-in-array/
 [1992l]:https://leetcode.cn/problems/find-all-groups-of-farmland/
 [1993l]:https://leetcode.cn/problems/operations-on-tree/
+[1994l]:https://leetcode.cn/problems/the-number-of-good-subsets/
 [1995l]:https://leetcode.cn/problems/count-special-quadruplets/
 [1996l]:https://leetcode.cn/problems/the-number-of-weak-characters-in-the-game/
 [2000l]:https://leetcode.cn/problems/reverse-prefix-of-word/

@@ -1383,6 +1383,7 @@
 [1991][1991l]|[Find the Middle Index in Array][1991]                                                |![py]
 [1992][1992l]|[Find All Groups of Farmland][1992]                                                   |![rs]
 [1993][1993l]|[Operations on Tree][1993]                                                            |![rs]
+[1994][1994l]|[The Number of Good Subsets][1994]                                                    |![rs]
 [1995][1995l]|[Count Special Quadruplets][1995]                                                     |![py]
 [1996][1996l]|[The Number of Weak Characters in the Game][1996]                                     |![rs]
 [2000][2000l]|[Reverse Prefix of Word][2000]                                                        |![py]
@@ -3206,6 +3207,7 @@
 [1991]:Problemset/1991-Find%20the%20Middle%20Index%20in%20Array/README.md#1991-find-the-middle-index-in-array
 [1992]:Problemset/1992-Find%20All%20Groups%20of%20Farmland/README.md#1992-find-all-groups-of-farmland
 [1993]:Problemset/1993-Operations%20on%20Tree/README.md#1993-operations-on-tree
+[1994]:Problemset/1994-The%20Number%20of%20Good%20Subsets/README.md#1994-the-number-of-good-subsets
 [1995]:Problemset/1995-Count%20Special%20Quadruplets/README.md#1995-count-special-quadruplets
 [1996]:Problemset/1996-The%20Number%20of%20Weak%20Characters%20in%20the%20Game/README.md#1996-the-number-of-weak-characters-in-the-game
 [2000]:Problemset/2000-Reverse%20Prefix%20of%20Word/README.md#2000-reverse-prefix-of-word
@@ -5023,6 +5025,7 @@
 [1991l]:https://leetcode.com/problems/find-the-middle-index-in-array/
 [1992l]:https://leetcode.com/problems/find-all-groups-of-farmland/
 [1993l]:https://leetcode.com/problems/operations-on-tree/
+[1994l]:https://leetcode.com/problems/the-number-of-good-subsets/
 [1995l]:https://leetcode.com/problems/count-special-quadruplets/
 [1996l]:https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
 [2000l]:https://leetcode.com/problems/reverse-prefix-of-word/
