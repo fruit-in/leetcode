@@ -1685,6 +1685,7 @@
 [2427][2427l]|[Number of Common Factors][2427]                                                      |![rs]
 [2428][2428l]|[Maximum Sum of an Hourglass][2428]                                                   |![rs]
 [2429][2429l]|[Minimize XOR][2429]                                                                  |![rs]
+[2430][2430l]|[Maximum Deletions on a String][2430]                                                 |![rs]
 [2432][2432l]|[The Employee That Worked on the Longest Task][2432]                                  |![rs]
 [2433][2433l]|[Find The Original Array of Prefix Xor][2433]                                         |![rs]
 [2434][2434l]|[Using a Robot to Print the Lexicographically Smallest String][2434]                  |![rs]
@@ -3507,6 +3508,7 @@
 [2427]:Problemset/2427-Number%20of%20Common%20Factors/README.md#2427-number-of-common-factors
 [2428]:Problemset/2428-Maximum%20Sum%20of%20an%20Hourglass/README.md#2428-maximum-sum-of-an-hourglass
 [2429]:Problemset/2429-Minimize%20XOR/README.md#2429-minimize-xor
+[2430]:Problemset/2430-Maximum%20Deletions%20on%20a%20String/README.md#2430-maximum-deletions-on-a-string
 [2432]:Problemset/2432-The%20Employee%20That%20Worked%20on%20the%20Longest%20Task/README.md#2432-the-employee-that-worked-on-the-longest-task
 [2433]:Problemset/2433-Find%20The%20Original%20Array%20of%20Prefix%20Xor/README.md#2433-find-the-original-array-of-prefix-xor
 [2434]:Problemset/2434-Using%20a%20Robot%20to%20Print%20the%20Lexicographically%20Smallest%20String/README.md#2434-using-a-robot-to-print-the-lexicographically-smallest-string
@@ -5323,6 +5325,7 @@
 [2427l]:https://leetcode.com/problems/number-of-common-factors/
 [2428l]:https://leetcode.com/problems/maximum-sum-of-an-hourglass/
 [2429l]:https://leetcode.com/problems/minimize-xor/
+[2430l]:https://leetcode.com/problems/maximum-deletions-on-a-string/
 [2432l]:https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/
 [2433l]:https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
 [2434l]:https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/
