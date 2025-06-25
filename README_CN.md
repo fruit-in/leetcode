@@ -1543,6 +1543,7 @@
 [2220][2220l]|[转换数字的最少位翻转次数][2220]                          |![rs]
 [2221][2221l]|[数组的三角和][2221]                                      |![rs]
 [2222][2222l]|[选择建筑的方案数][2222]                                  |![rs]
+[2223][2223l]|[构造字符串的总得分和][2223]                              |![rs]
 [2224][2224l]|[转化时间需要的最少操作数][2224]                          |![py]
 [2225][2225l]|[找出输掉零场或一场比赛的玩家][2225]                      |![py]
 [2226][2226l]|[每个小孩最多能分到多少糖果][2226]                        |![rs]
@@ -3367,6 +3368,7 @@
 [2220]:Problemset/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README_CN.md#2220-转换数字的最少位翻转次数
 [2221]:Problemset/2221-Find%20Triangular%20Sum%20of%20an%20Array/README_CN.md#2221-数组的三角和
 [2222]:Problemset/2222-Number%20of%20Ways%20to%20Select%20Buildings/README_CN.md#2222-选择建筑的方案数
+[2223]:Problemset/2223-Sum%20of%20Scores%20of%20Built%20Strings/README_CN.md#2223-构造字符串的总得分和
 [2224]:Problemset/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README_CN.md#2224-转化时间需要的最少操作数
 [2225]:Problemset/2225-Find%20Players%20With%20Zero%20or%20One%20Losses/README_CN.md#2225-找出输掉零场或一场比赛的玩家
 [2226]:Problemset/2226-Maximum%20Candies%20Allocated%20to%20K%20Children/README_CN.md#2226-每个小孩最多能分到多少糖果
@@ -5185,6 +5187,7 @@
 [2220l]:https://leetcode.cn/problems/minimum-bit-flips-to-convert-number/
 [2221l]:https://leetcode.cn/problems/find-triangular-sum-of-an-array/
 [2222l]:https://leetcode.cn/problems/number-of-ways-to-select-buildings/
+[2223l]:https://leetcode.cn/problems/sum-of-scores-of-built-strings/
 [2224l]:https://leetcode.cn/problems/minimum-number-of-operations-to-convert-time/
 [2225l]:https://leetcode.cn/problems/find-players-with-zero-or-one-losses/
 [2226l]:https://leetcode.cn/problems/maximum-candies-allocated-to-k-children/

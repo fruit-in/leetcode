@@ -1543,6 +1543,7 @@
 [2220][2220l]|[Minimum Bit Flips to Convert Number][2220]                                           |![rs]
 [2221][2221l]|[Find Triangular Sum of an Array][2221]                                               |![rs]
 [2222][2222l]|[Number of Ways to Select Buildings][2222]                                            |![rs]
+[2223][2223l]|[Sum of Scores of Built Strings][2223]                                                |![rs]
 [2224][2224l]|[Minimum Number of Operations to Convert Time][2224]                                  |![py]
 [2225][2225l]|[Find Players With Zero or One Losses][2225]                                          |![py]
 [2226][2226l]|[Maximum Candies Allocated to K Children][2226]                                       |![rs]
@@ -3367,6 +3368,7 @@
 [2220]:Problemset/2220-Minimum%20Bit%20Flips%20to%20Convert%20Number/README.md#2220-minimum-bit-flips-to-convert-number
 [2221]:Problemset/2221-Find%20Triangular%20Sum%20of%20an%20Array/README.md#2221-find-triangular-sum-of-an-array
 [2222]:Problemset/2222-Number%20of%20Ways%20to%20Select%20Buildings/README.md#2222-number-of-ways-to-select-buildings
+[2223]:Problemset/2223-Sum%20of%20Scores%20of%20Built%20Strings/README.md#2223-sum-of-scores-of-built-strings
 [2224]:Problemset/2224-Minimum%20Number%20of%20Operations%20to%20Convert%20Time/README.md#2224-minimum-number-of-operations-to-convert-time
 [2225]:Problemset/2225-Find%20Players%20With%20Zero%20or%20One%20Losses/README.md#2225-find-players-with-zero-or-one-losses
 [2226]:Problemset/2226-Maximum%20Candies%20Allocated%20to%20K%20Children/README.md#2226-maximum-candies-allocated-to-k-children
@@ -5185,6 +5187,7 @@
 [2220l]:https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 [2221l]:https://leetcode.com/problems/find-triangular-sum-of-an-array/
 [2222l]:https://leetcode.com/problems/number-of-ways-to-select-buildings/
+[2223l]:https://leetcode.com/problems/sum-of-scores-of-built-strings/
 [2224l]:https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 [2225l]:https://leetcode.com/problems/find-players-with-zero-or-one-losses/
 [2226l]:https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
