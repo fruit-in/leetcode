@@ -32,6 +32,7 @@
 [27][27l]    |[Remove Element][27]                                                                  |![rb]&nbsp;&nbsp;![rs]
 [28][28l]    |[Implement strStr()][28]                                                              |![py]
 [29][29l]    |[Divide Two Integers][29]                                                             |![rs]
+[30][30l]    |[Substring with Concatenation of All Words][30]                                       |![rs]
 [31][31l]    |[Next Permutation][31]                                                                |![rs]
 [33][33l]    |[Search in Rotated Sorted Array][33]                                                  |![rs]
 [34][34l]    |[Find First and Last Position of Element in Sorted Array][34]                         |![rs]
@@ -1858,6 +1859,7 @@
 [27]:Problemset/0027-Remove%20Element/README.md#27-remove-element
 [28]:Problemset/0028-Implement%20strStr\(\)/README.md#28-implement-strstr
 [29]:Problemset/0029-Divide%20Two%20Integers/README.md#29-divide-two-integers
+[30]:Problemset/0030-Substring%20with%20Concatenation%20of%20All%20Words/README.md#30-substring-with-concatenation-of-all-words
 [31]:Problemset/0031-Next%20Permutation/README.md#31-next-permutation
 [33]:Problemset/0033-Search%20in%20Rotated%20Sorted%20Array/README.md#33-search-in-rotated-sorted-array
 [34]:Problemset/0034-Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/README.md#34-find-first-and-last-position-of-element-in-sorted-array
@@ -3676,6 +3678,7 @@
 [27l]:https://leetcode.com/problems/remove-element/
 [28l]:https://leetcode.com/problems/implement-strstr/
 [29l]:https://leetcode.com/problems/divide-two-integers/
+[30l]:https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 [31l]:https://leetcode.com/problems/next-permutation/
 [33l]:https://leetcode.com/problems/search-in-rotated-sorted-array/
 [34l]:https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
