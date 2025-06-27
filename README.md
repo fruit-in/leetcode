@@ -1650,6 +1650,7 @@
 [2367][2367l]|[Number of Arithmetic Triplets][2367]                                                 |![rs]
 [2368][2368l]|[Reachable Nodes With Restrictions][2368]                                             |![py]
 [2369][2369l]|[Check if There is a Valid Partition For The Array][2369]                             |![py]
+[2370][2370l]|[Longest Ideal Subsequence][2370]                                                     |![rs]
 [2373][2373l]|[Largest Local Values in a Matrix][2373]                                              |![rs]
 [2374][2374l]|[Node With Highest Edge Score][2374]                                                  |![rs]
 [2375][2375l]|[Construct Smallest Number From DI String][2375]                                      |![rs]
@@ -3480,6 +3481,7 @@
 [2367]:Problemset/2367-Number%20of%20Arithmetic%20Triplets/README.md#2367-number-of-arithmetic-triplets
 [2368]:Problemset/2368-Reachable%20Nodes%20With%20Restrictions/README.md#2368-reachable-nodes-with-restrictions
 [2369]:Problemset/2369-Check%20if%20There%20is%20a%20Valid%20Partition%20For%20The%20Array/README.md#2369-check-if-there-is-a-valid-partition-for-the-array
+[2370]:Problemset/2370-Longest%20Ideal%20Subsequence/README.md#2370-longest-ideal-subsequence
 [2373]:Problemset/2373-Largest%20Local%20Values%20in%20a%20Matrix/README.md#2373-largest-local-values-in-a-matrix
 [2374]:Problemset/2374-Node%20With%20Highest%20Edge%20Score/README.md#2374-node-with-highest-edge-score
 [2375]:Problemset/2375-Construct%20Smallest%20Number%20From%20DI%20String/README.md#2375-construct-smallest-number-from-di-string
@@ -5304,6 +5306,7 @@
 [2367l]:https://leetcode.com/problems/number-of-arithmetic-triplets/
 [2368l]:https://leetcode.com/problems/reachable-nodes-with-restrictions/
 [2369l]:https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
+[2370l]:https://leetcode.com/problems/longest-ideal-subsequence/
 [2373l]:https://leetcode.com/problems/largest-local-values-in-a-matrix/
 [2374l]:https://leetcode.com/problems/node-with-highest-edge-score/
 [2375l]:https://leetcode.com/problems/construct-smallest-number-from-di-string/
