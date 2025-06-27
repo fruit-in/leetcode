@@ -1649,6 +1649,7 @@
 [2365][2365l]|[任务调度器 II][2365]                                     |![rs]
 [2367][2367l]|[算术三元组的数目][2367]                                  |![rs]
 [2368][2368l]|[受限条件下可到达节点的数目][2368]                        |![py]
+[2369][2369l]|[检查数组是否存在有效划分][2369]                          |![py]
 [2373][2373l]|[矩阵中的局部最大值][2373]                                |![rs]
 [2374][2374l]|[边积分最高的节点][2374]                                  |![rs]
 [2375][2375l]|[根据模式串构造最小数字][2375]                            |![rs]
@@ -3478,6 +3479,7 @@
 [2365]:Problemset/2365-Task%20Scheduler%20II/README_CN.md#2365-任务调度器-ii
 [2367]:Problemset/2367-Number%20of%20Arithmetic%20Triplets/README_CN.md#2367-算术三元组的数目
 [2368]:Problemset/2368-Reachable%20Nodes%20With%20Restrictions/README_CN.md#2368-受限条件下可到达节点的数目
+[2369]:Problemset/2369-Check%20if%20There%20is%20a%20Valid%20Partition%20For%20The%20Array/README_CN.md#2369-检查数组是否存在有效划分
 [2373]:Problemset/2373-Largest%20Local%20Values%20in%20a%20Matrix/README_CN.md#2373-矩阵中的局部最大值
 [2374]:Problemset/2374-Node%20With%20Highest%20Edge%20Score/README_CN.md#2374-边积分最高的节点
 [2375]:Problemset/2375-Construct%20Smallest%20Number%20From%20DI%20String/README_CN.md#2375-根据模式串构造最小数字
@@ -5301,6 +5303,7 @@
 [2365l]:https://leetcode.cn/problems/task-scheduler-ii/
 [2367l]:https://leetcode.cn/problems/number-of-arithmetic-triplets/
 [2368l]:https://leetcode.cn/problems/reachable-nodes-with-restrictions/
+[2369l]:https://leetcode.cn/problems/check-if-there-is-a-valid-partition-for-the-array/
 [2373l]:https://leetcode.cn/problems/largest-local-values-in-a-matrix/
 [2374l]:https://leetcode.cn/problems/node-with-highest-edge-score/
 [2375l]:https://leetcode.cn/problems/construct-smallest-number-from-di-string/
