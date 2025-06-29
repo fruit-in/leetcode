@@ -1574,6 +1574,7 @@
 [2258][2258l]|[Escape the Spreading Fire][2258]                                                     |![rs]
 [2259][2259l]|[Remove Digit From Number to Maximize Result][2259]                                   |![py]
 [2260][2260l]|[Minimum Consecutive Cards to Pick Up][2260]                                          |![rs]
+[2261][2261l]|[K Divisible Elements Subarrays][2261]                                                |![rs]
 [2262][2262l]|[Total Appeal of A String][2262]                                                      |![rs]
 [2264][2264l]|[Largest 3-Same-Digit Number in String][2264]                                         |![rs]
 [2265][2265l]|[Count Nodes Equal to Average of Subtree][2265]                                       |![py]
@@ -3408,6 +3409,7 @@
 [2258]:Problemset/2258-Escape%20the%20Spreading%20Fire/README.md#2258-escape-the-spreading-fire
 [2259]:Problemset/2259-Remove%20Digit%20From%20Number%20to%20Maximize%20Result/README.md#2259-remove-digit-from-number-to-maximize-result
 [2260]:Problemset/2260-Minimum%20Consecutive%20Cards%20to%20Pick%20Up/README.md#2260-minimum-consecutive-cards-to-pick-up
+[2261]:Problemset/2261-K%20Divisible%20Elements%20Subarrays/README.md#2261-k-divisible-elements-subarrays
 [2262]:Problemset/2262-Total%20Appeal%20of%20A%20String/README.md#2262-total-appeal-of-a-string
 [2264]:Problemset/2264-Largest%203-Same-Digit%20Number%20in%20String/README.md#2264-largest-3-same-digit-number-in-string
 [2265]:Problemset/2265-Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/README.md#2265-count-nodes-equal-to-average-of-subtree
@@ -5236,6 +5238,7 @@
 [2258l]:https://leetcode.com/problems/escape-the-spreading-fire/
 [2259l]:https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 [2260l]:https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/
+[2261l]:https://leetcode.com/problems/k-divisible-elements-subarrays/
 [2262l]:https://leetcode.com/problems/total-appeal-of-a-string/
 [2264l]:https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 [2265l]:https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
