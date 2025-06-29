@@ -1764,6 +1764,7 @@
 [2528][2528l]|[Maximize the Minimum Powered City][2528]                                             |![rs]
 [2529][2529l]|[Maximum Count of Positive Integer and Negative Integer][2529]                        |![py]
 [2530][2530l]|[Maximal Score After Applying K Operations][2530]                                     |![rs]
+[2531][2531l]|[Make Number of Distinct Characters Equal][2531]                                      |![rs]
 [2532][2532l]|[Time to Cross a Bridge][2532]                                                        |![rs]
 [2535][2535l]|[Difference Between Element Sum and Digit Sum of an Array][2535]                      |![rs]
 [2536][2536l]|[Increment Submatrices by One][2536]                                                  |![rs]
@@ -3597,6 +3598,7 @@
 [2528]:Problemset/2528-Maximize%20the%20Minimum%20Powered%20City/README.md#2528-maximize-the-minimum-powered-city
 [2529]:Problemset/2529-Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/README.md#2529-maximum-count-of-positive-integer-and-negative-integer
 [2530]:Problemset/2530-Maximal%20Score%20After%20Applying%20K%20Operations/README.md#2530-maximal-score-after-applying-k-operations
+[2531]:Problemset/2531-Make%20Number%20of%20Distinct%20Characters%20Equal/README.md#2531-make-number-of-distinct-characters-equal
 [2532]:Problemset/2532-Time%20to%20Cross%20a%20Bridge/README.md#2532-time-to-cross-a-bridge
 [2535]:Problemset/2535-Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array/README.md#2535-difference-between-element-sum-and-digit-sum-of-an-array
 [2536]:Problemset/2536-Increment%20Submatrices%20by%20One/README.md#2536-increment-submatrices-by-one
@@ -5424,6 +5426,7 @@
 [2528l]:https://leetcode.com/problems/maximize-the-minimum-powered-city/
 [2529l]:https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 [2530l]:https://leetcode.com/problems/maximal-score-after-applying-k-operations/
+[2531l]:https://leetcode.com/problems/make-number-of-distinct-characters-equal/
 [2532l]:https://leetcode.com/problems/time-to-cross-a-bridge/
 [2535l]:https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 [2536l]:https://leetcode.com/problems/increment-submatrices-by-one/
