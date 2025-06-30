@@ -1526,6 +1526,7 @@
 [2190][2190l]|[Most Frequent Number Following Key In an Array][2190]                                |![rs]
 [2191][2191l]|[Sort the Jumbled Numbers][2191]                                                      |![rs]
 [2192][2192l]|[All Ancestors of a Node in a Directed Acyclic Graph][2192]                           |![py]
+[2193][2193l]|[Minimum Number of Moves to Make Palindrome][2193]                                    |![rs]
 [2194][2194l]|[Cells in a Range on an Excel Sheet][2194]                                            |![rs]
 [2195][2195l]|[Append K Integers With Minimal Sum][2195]                                            |![rs]
 [2196][2196l]|[Create Binary Tree From Descriptions][2196]                                          |![py]
@@ -3361,6 +3362,7 @@
 [2190]:Problemset/2190-Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array/README.md#2190-most-frequent-number-following-key-in-an-array
 [2191]:Problemset/2191-Sort%20the%20Jumbled%20Numbers/README.md#2191-sort-the-jumbled-numbers
 [2192]:Problemset/2192-All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph/README.md#2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph
+[2193]:Problemset/2193-Minimum%20Number%20of%20Moves%20to%20Make%20Palindrome/README.md#2193-minimum-number-of-moves-to-make-palindrome
 [2194]:Problemset/2194-Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet/README.md#2194-cells-in-a-range-on-an-excel-sheet
 [2195]:Problemset/2195-Append%20K%20Integers%20With%20Minimal%20Sum/README.md#2195-append-k-integers-with-minimal-sum
 [2196]:Problemset/2196-Create%20Binary%20Tree%20From%20Descriptions/README.md#2196-create-binary-tree-from-descriptions
@@ -5190,6 +5192,7 @@
 [2190l]:https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
 [2191l]:https://leetcode.com/problems/sort-the-jumbled-numbers/
 [2192l]:https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/
+[2193l]:https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/
 [2194l]:https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
 [2195l]:https://leetcode.com/problems/append-k-integers-with-minimal-sum/
 [2196l]:https://leetcode.com/problems/create-binary-tree-from-descriptions/
