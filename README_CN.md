@@ -835,6 +835,7 @@
 [1154][1154l]|[一年中的第几天][1154]                                    |![rs]
 [1155][1155l]|[掷骰子的N种方法][1155]                                   |![py]&nbsp;&nbsp;![rs]
 [1156][1156l]|[单字符重复子串的最大长度][1156]                          |![rs]
+[1157][1157l]|[子数组中占绝大多数的元素][1157]                          |![py]
 [1160][1160l]|[拼写单词][1160]                                          |![py]
 [1161][1161l]|[最大层内元素和][1161]                                    |![py]
 [1162][1162l]|[地图分析][1162]                                          |![rs]
@@ -2675,6 +2676,7 @@
 [1154]:Problemset/1154-Day%20of%20the%20Year/README_CN.md#1154-一年中的第几天
 [1155]:Problemset/1155-Number%20of%20Dice%20Rolls%20With%20Target%20Sum/README_CN.md#1155-掷骰子的n种方法
 [1156]:Problemset/1156-Swap%20For%20Longest%20Repeated%20Character%20Substring/README_CN.md#1156-单字符重复子串的最大长度
+[1157]:Problemset/1157-Online%20Majority%20Element%20In%20Subarray/README_CN.md#1157-子数组中占绝大多数的元素
 [1160]:Problemset/1160-Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/README_CN.md#1160-拼写单词
 [1161]:Problemset/1161-Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/README_CN.md#1161-最大层内元素和
 [1162]:Problemset/1162-As%20Far%20from%20Land%20as%20Possible/README_CN.md#1162-地图分析
@@ -4509,6 +4511,7 @@
 [1154l]:https://leetcode.cn/problems/day-of-the-year/
 [1155l]:https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/
 [1156l]:https://leetcode.cn/problems/swap-for-longest-repeated-character-substring/
+[1157l]:https://leetcode.cn/problems/online-majority-element-in-subarray/
 [1160l]:https://leetcode.cn/problems/find-words-that-can-be-formed-by-characters/
 [1161l]:https://leetcode.cn/problems/maximum-level-sum-of-a-binary-tree/
 [1162l]:https://leetcode.cn/problems/as-far-from-land-as-possible/
