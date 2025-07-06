@@ -240,6 +240,7 @@
 [303][303l]  |[区域和检索 - 数组不可变][303]                            |![py]
 [304][304l]  |[二维区域和检索 - 矩阵不可变][304]                        |![rs]
 [306][306l]  |[累加数][306]                                             |![rb]&nbsp;&nbsp;![rs]
+[307][307l]  |[区域和检索 - 数组可修改][307]                            |![py]
 [309][309l]  |[买卖股票的最佳时机含冷冻期][309]                         |![rs]
 [310][310l]  |[最小高度树][310]                                         |![py]
 [312][312l]  |[戳气球][312]                                             |![py]
@@ -2081,6 +2082,7 @@
 [303]:Problemset/0303-Range%20Sum%20Query%20-%20Immutable/README_CN.md#303-区域和检索---数组不可变
 [304]:Problemset/0304-Range%20Sum%20Query%202D%20-%20Immutable/README_CN.md#304-二维区域和检索---矩阵不可变
 [306]:Problemset/0306-Additive%20Number/README_CN.md#306-累加数
+[307]:Problemset/0307-Range%20Sum%20Query%20-%20Mutable/README_CN.md#307-区域和检索---数组可修改
 [309]:Problemset/0309-Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown/README_CN.md#309-买卖股票的最佳时机含冷冻期
 [310]:Problemset/0310-Minimum%20Height%20Trees/README_CN.md#310-最小高度树
 [312]:Problemset/0312-Burst%20Balloons/README_CN.md#312-戳气球
@@ -3915,6 +3917,7 @@
 [303l]:https://leetcode.cn/problems/range-sum-query-immutable/
 [304l]:https://leetcode.cn/problems/range-sum-query-2d-immutable/
 [306l]:https://leetcode.cn/problems/additive-number/
+[307l]:https://leetcode.cn/problems/range-sum-query-mutable/
 [309l]:https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 [310l]:https://leetcode.cn/problems/minimum-height-trees/
 [312l]:https://leetcode.cn/problems/burst-balloons/
