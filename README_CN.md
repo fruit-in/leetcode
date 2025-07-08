@@ -1545,6 +1545,7 @@
 [2210][2210l]|[统计数组中峰和谷的数量][2210]                            |![py]
 [2211][2211l]|[统计道路上的碰撞次数][2211]                              |![rs]
 [2212][2212l]|[射箭比赛中的最大得分][2212]                              |![rs]
+[2213][2213l]|[由单个字符重复的最长子字符串][2213]                      |![py]
 [2215][2215l]|[找出两数组的不同][2215]                                  |![rs]
 [2216][2216l]|[美化数组的最少删除数][2216]                              |![rs]
 [2217][2217l]|[找到指定长度的回文数][2217]                              |![rs]
@@ -3388,6 +3389,7 @@
 [2210]:Problemset/2210-Count%20Hills%20and%20Valleys%20in%20an%20Array/README_CN.md#2210-统计数组中峰和谷的数量
 [2211]:Problemset/2211-Count%20Collisions%20on%20a%20Road/README_CN.md#2211-统计道路上的碰撞次数
 [2212]:Problemset/2212-Maximum%20Points%20in%20an%20Archery%20Competition/README_CN.md#2212-射箭比赛中的最大得分
+[2213]:Problemset/2213-Longest%20Substring%20of%20One%20Repeating%20Character/README_CN.md#2213-由单个字符重复的最长子字符串
 [2215]:Problemset/2215-Find%20the%20Difference%20of%20Two%20Arrays/README_CN.md#2215-找出两数组的不同
 [2216]:Problemset/2216-Minimum%20Deletions%20to%20Make%20Array%20Beautiful/README_CN.md#2216-美化数组的最少删除数
 [2217]:Problemset/2217-Find%20Palindrome%20With%20Fixed%20Length/README_CN.md#2217-找到指定长度的回文数
@@ -5225,6 +5227,7 @@
 [2210l]:https://leetcode.cn/problems/count-hills-and-valleys-in-an-array/
 [2211l]:https://leetcode.cn/problems/count-collisions-on-a-road/
 [2212l]:https://leetcode.cn/problems/maximum-points-in-an-archery-competition/
+[2213l]:https://leetcode.cn/problems/longest-substring-of-one-repeating-character/
 [2215l]:https://leetcode.cn/problems/find-the-difference-of-two-arrays/
 [2216l]:https://leetcode.cn/problems/minimum-deletions-to-make-array-beautiful/
 [2217l]:https://leetcode.cn/problems/find-palindrome-with-fixed-length/
