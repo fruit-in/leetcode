@@ -1683,6 +1683,7 @@
 [2404][2404l]|[Most Frequent Even Element][2404]                                                    |![rs]
 [2405][2405l]|[Optimal Partition of String][2405]                                                   |![rs]
 [2406][2406l]|[Divide Intervals Into Minimum Number of Groups][2406]                                |![rs]
+[2407][2407l]|[Longest Increasing Subsequence II][2407]                                             |![py]
 [2409][2409l]|[Count Days Spent Together][2409]                                                     |![py]
 [2410][2410l]|[Maximum Matching of Players With Trainers][2410]                                     |![rs]
 [2411][2411l]|[Smallest Subarrays With Maximum Bitwise OR][2411]                                    |![py]
@@ -3527,6 +3528,7 @@
 [2404]:Problemset/2404-Most%20Frequent%20Even%20Element/README.md#2404-most-frequent-even-element
 [2405]:Problemset/2405-Optimal%20Partition%20of%20String/README.md#2405-optimal-partition-of-string
 [2406]:Problemset/2406-Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups/README.md#2406-divide-intervals-into-minimum-number-of-groups
+[2407]:Problemset/2407-Longest%20Increasing%20Subsequence%20II/README.md#2407-longest-increasing-subsequence-ii
 [2409]:Problemset/2409-Count%20Days%20Spent%20Together/README.md#2409-count-days-spent-together
 [2410]:Problemset/2410-Maximum%20Matching%20of%20Players%20With%20Trainers/README.md#2410-maximum-matching-of-players-with-trainers
 [2411]:Problemset/2411-Smallest%20Subarrays%20With%20Maximum%20Bitwise%20OR/README.md#2411-smallest-subarrays-with-maximum-bitwise-or
@@ -5365,6 +5367,7 @@
 [2404l]:https://leetcode.com/problems/most-frequent-even-element/
 [2405l]:https://leetcode.com/problems/optimal-partition-of-string/
 [2406l]:https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/
+[2407l]:https://leetcode.com/problems/longest-increasing-subsequence-ii/
 [2409l]:https://leetcode.com/problems/count-days-spent-together/
 [2410l]:https://leetcode.com/problems/maximum-matching-of-players-with-trainers/
 [2411l]:https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/

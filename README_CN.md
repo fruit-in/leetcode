@@ -1683,6 +1683,7 @@
 [2404][2404l]|[出现最频繁的偶数元素][2404]                              |![rs]
 [2405][2405l]|[子字符串的最优划分][2405]                                |![rs]
 [2406][2406l]|[将区间分为最少组数][2406]                                |![rs]
+[2407][2407l]|[最长递增子序列 II][2407]                                 |![py]
 [2409][2409l]|[统计共同度过的日子数][2409]                              |![py]
 [2410][2410l]|[运动员和训练师的最大匹配数][2410]                        |![rs]
 [2411][2411l]|[按位或最大的最小子数组长度][2411]                        |![py]
@@ -3527,6 +3528,7 @@
 [2404]:Problemset/2404-Most%20Frequent%20Even%20Element/README_CN.md#2404-出现最频繁的偶数元素
 [2405]:Problemset/2405-Optimal%20Partition%20of%20String/README_CN.md#2405-子字符串的最优划分
 [2406]:Problemset/2406-Divide%20Intervals%20Into%20Minimum%20Number%20of%20Groups/README_CN.md#2406-将区间分为最少组数
+[2407]:Problemset/2407-Longest%20Increasing%20Subsequence%20II/README_CN.md#2407-最长递增子序列-ii
 [2409]:Problemset/2409-Count%20Days%20Spent%20Together/README_CN.md#2409-统计共同度过的日子数
 [2410]:Problemset/2410-Maximum%20Matching%20of%20Players%20With%20Trainers/README_CN.md#2410-运动员和训练师的最大匹配数
 [2411]:Problemset/2411-Smallest%20Subarrays%20With%20Maximum%20Bitwise%20OR/README_CN.md#2411-按位或最大的最小子数组长度
@@ -5365,6 +5367,7 @@
 [2404l]:https://leetcode.cn/problems/most-frequent-even-element/
 [2405l]:https://leetcode.cn/problems/optimal-partition-of-string/
 [2406l]:https://leetcode.cn/problems/divide-intervals-into-minimum-number-of-groups/
+[2407l]:https://leetcode.cn/problems/longest-increasing-subsequence-ii/
 [2409l]:https://leetcode.cn/problems/count-days-spent-together/
 [2410l]:https://leetcode.cn/problems/maximum-matching-of-players-with-trainers/
 [2411l]:https://leetcode.cn/problems/smallest-subarrays-with-maximum-bitwise-or/
