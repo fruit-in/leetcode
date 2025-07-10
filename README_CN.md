@@ -1626,6 +1626,7 @@
 [2319][2319l]|[判断矩阵是否是一个 X 矩阵][2319]                         |![py]
 [2320][2320l]|[统计放置房子的方式数][2320]                              |![rs]
 [2321][2321l]|[拼接数组的最大分数][2321]                                |![rs]
+[2322][2322l]|[从树中删除边的最小分数][2322]                            |![py]
 [2325][2325l]|[解密消息][2325]                                          |![py]
 [2326][2326l]|[螺旋矩阵 IV][2326]                                       |![py]
 [2327][2327l]|[知道秘密的人数][2327]                                    |![py]
@@ -3471,6 +3472,7 @@
 [2319]:Problemset/2319-Check%20if%20Matrix%20Is%20X-Matrix/README_CN.md#2319-判断矩阵是否是一个-x-矩阵
 [2320]:Problemset/2320-Count%20Number%20of%20Ways%20to%20Place%20Houses/README_CN.md#2320-统计放置房子的方式数
 [2321]:Problemset/2321-Maximum%20Score%20Of%20Spliced%20Array/README_CN.md#2321-拼接数组的最大分数
+[2322]:Problemset/2322-Minimum%20Score%20After%20Removals%20on%20a%20Tree/README_CN.md#2322-从树中删除边的最小分数
 [2325]:Problemset/2325-Decode%20the%20Message/README_CN.md#2325-解密消息
 [2326]:Problemset/2326-Spiral%20Matrix%20IV/README_CN.md#2326-螺旋矩阵-iv
 [2327]:Problemset/2327-Number%20of%20People%20Aware%20of%20a%20Secret/README_CN.md#2327-知道秘密的人数
@@ -5310,6 +5312,7 @@
 [2319l]:https://leetcode.cn/problems/check-if-matrix-is-x-matrix/
 [2320l]:https://leetcode.cn/problems/count-number-of-ways-to-place-houses/
 [2321l]:https://leetcode.cn/problems/maximum-score-of-spliced-array/
+[2322l]:https://leetcode.cn/problems/minimum-score-after-removals-on-a-tree/
 [2325l]:https://leetcode.cn/problems/decode-the-message/
 [2326l]:https://leetcode.cn/problems/spiral-matrix-iv/
 [2327l]:https://leetcode.cn/problems/number-of-people-aware-of-a-secret/
