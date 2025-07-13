@@ -1384,6 +1384,7 @@
 [1971][1971l]|[Find if Path Exists in Graph][1971]                                                  |![py]
 [1974][1974l]|[Minimum Time to Type Word Using Special Typewriter][1974]                            |![rs]
 [1975][1975l]|[Maximum Matrix Sum][1975]                                                            |![rs]
+[1976][1976l]|[Number of Ways to Arrive at Destination][1976]                                       |![rs]
 [1979][1979l]|[Find Greatest Common Divisor of Array][1979]                                         |![py]&nbsp;&nbsp;![rb]
 [1980][1980l]|[Find Unique Binary String][1980]                                                     |![py]
 [1981][1981l]|[Minimize the Difference Between Target and Chosen Elements][1981]                    |![rs]
@@ -3232,6 +3233,7 @@
 [1971]:Problemset/1971-Find%20if%20Path%20Exists%20in%20Graph/README.md#1971-find-if-path-exists-in-graph
 [1974]:Problemset/1974-Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/README.md#1974-minimum-time-to-type-word-using-special-typewriter
 [1975]:Problemset/1975-Maximum%20Matrix%20Sum/README.md#1975-maximum-matrix-sum
+[1976]:Problemset/1976-Number%20of%20Ways%20to%20Arrive%20at%20Destination/README.md#1976-number-of-ways-to-arrive-at-destination
 [1979]:Problemset/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README.md#1979-find-greatest-common-divisor-of-array
 [1980]:Problemset/1980-Find%20Unique%20Binary%20String/README.md#1980-find-unique-binary-string
 [1981]:Problemset/1981-Minimize%20the%20Difference%20Between%20Target%20and%20Chosen%20Elements/README.md#1981-minimize-the-difference-between-target-and-chosen-elements
@@ -5074,6 +5076,7 @@
 [1971l]:https://leetcode.com/problems/find-if-path-exists-in-graph/
 [1974l]:https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
 [1975l]:https://leetcode.com/problems/maximum-matrix-sum/
+[1976l]:https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
 [1979l]:https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 [1980l]:https://leetcode.com/problems/find-unique-binary-string/
 [1981l]:https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/

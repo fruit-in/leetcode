@@ -1384,6 +1384,7 @@
 [1971][1971l]|[寻找图中是否存在路径][1971]                              |![py]
 [1974][1974l]|[使用特殊打字机键入单词的最少时间][1974]                  |![rs]
 [1975][1975l]|[最大方阵和][1975]                                        |![rs]
+[1976][1976l]|[到达目的地的方案数][1976]                                |![rs]
 [1979][1979l]|[找出数组的最大公约数][1979]                              |![py]&nbsp;&nbsp;![rb]
 [1980][1980l]|[找出不同的二进制字符串][1980]                            |![py]
 [1981][1981l]|[最小化目标值与所选元素的差][1981]                        |![rs]
@@ -3232,6 +3233,7 @@
 [1971]:Problemset/1971-Find%20if%20Path%20Exists%20in%20Graph/README_CN.md#1971-寻找图中是否存在路径
 [1974]:Problemset/1974-Minimum%20Time%20to%20Type%20Word%20Using%20Special%20Typewriter/README_CN.md#1974-使用特殊打字机键入单词的最少时间
 [1975]:Problemset/1975-Maximum%20Matrix%20Sum/README_CN.md#1975-最大方阵和
+[1976]:Problemset/1976-Number%20of%20Ways%20to%20Arrive%20at%20Destination/README_CN.md#1976-到达目的地的方案数
 [1979]:Problemset/1979-Find%20Greatest%20Common%20Divisor%20of%20Array/README_CN.md#1979-找出数组的最大公约数
 [1980]:Problemset/1980-Find%20Unique%20Binary%20String/README_CN.md#1980-找出不同的二进制字符串
 [1981]:Problemset/1981-Minimize%20the%20Difference%20Between%20Target%20and%20Chosen%20Elements/README_CN.md#1981-最小化目标值与所选元素的差
@@ -5074,6 +5076,7 @@
 [1971l]:https://leetcode.cn/problems/find-if-path-exists-in-graph/
 [1974l]:https://leetcode.cn/problems/minimum-time-to-type-word-using-special-typewriter/
 [1975l]:https://leetcode.cn/problems/maximum-matrix-sum/
+[1976l]:https://leetcode.cn/problems/number-of-ways-to-arrive-at-destination/
 [1979l]:https://leetcode.cn/problems/find-greatest-common-divisor-of-array/
 [1980l]:https://leetcode.cn/problems/find-unique-binary-string/
 [1981l]:https://leetcode.cn/problems/minimize-the-difference-between-target-and-chosen-elements/
