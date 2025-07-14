@@ -935,6 +935,7 @@
 [1323][1323l]|[Maximum 69 Number][1323]                                                             |![rs]
 [1324][1324l]|[Print Words Vertically][1324]                                                        |![py]
 [1325][1325l]|[Delete Leaves With a Given Value][1325]                                              |![py]
+[1326][1326l]|[Minimum Number of Taps to Open to Water a Garden][1326]                              |![rs]
 [1328][1328l]|[Break a Palindrome][1328]                                                            |![rb]&nbsp;&nbsp;![rs]
 [1329][1329l]|[Sort the Matrix Diagonally][1329]                                                    |![rb]&nbsp;&nbsp;![rs]
 [1330][1330l]|[Reverse Subarray To Maximize Array Value][1330]                                      |![rs]
@@ -2784,6 +2785,7 @@
 [1323]:Problemset/1323-Maximum%2069%20Number/README.md#1323-maximum-69-number
 [1324]:Problemset/1324-Print%20Words%20Vertically/README.md#1324-print-words-vertically
 [1325]:Problemset/1325-Delete%20Leaves%20With%20a%20Given%20Value/README.md#1325-delete-leaves-with-a-given-value
+[1326]:Problemset/1326-Minimum%20Number%20of%20Taps%20to%20Open%20to%20Water%20a%20Garden/README.md#1326-minimum-number-of-taps-to-open-to-water-a-garden
 [1328]:Problemset/1328-Break%20a%20Palindrome/README.md#1328-break-a-palindrome
 [1329]:Problemset/1329-Sort%20the%20Matrix%20Diagonally/README.md#1329-sort-the-matrix-diagonally
 [1330]:Problemset/1330-Reverse%20Subarray%20To%20Maximize%20Array%20Value/README.md#1330-reverse-subarray-to-maximize-array-value
@@ -4627,6 +4629,7 @@
 [1323l]:https://leetcode.com/problems/maximum-69-number/
 [1324l]:https://leetcode.com/problems/print-words-vertically/
 [1325l]:https://leetcode.com/problems/delete-leaves-with-a-given-value/
+[1326l]:https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/
 [1328l]:https://leetcode.com/problems/break-a-palindrome/
 [1329l]:https://leetcode.com/problems/sort-the-matrix-diagonally/
 [1330l]:https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/

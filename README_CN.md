@@ -935,6 +935,7 @@
 [1323][1323l]|[6 和 9 组成的最大数字][1323]                             |![rs]
 [1324][1324l]|[竖直打印单词][1324]                                      |![py]
 [1325][1325l]|[删除给定值的叶子节点][1325]                              |![py]
+[1326][1326l]|[灌溉花园的最少水龙头数目][1326]                          |![rs]
 [1328][1328l]|[破坏回文串][1328]                                        |![rb]&nbsp;&nbsp;![rs]
 [1329][1329l]|[将矩阵按对角线排序][1329]                                |![rb]&nbsp;&nbsp;![rs]
 [1330][1330l]|[翻转子数组得到最大的数组值][1330]                        |![rs]
@@ -2784,6 +2785,7 @@
 [1323]:Problemset/1323-Maximum%2069%20Number/README_CN.md#1323-6-和-9-组成的最大数字
 [1324]:Problemset/1324-Print%20Words%20Vertically/README_CN.md#1324-竖直打印单词
 [1325]:Problemset/1325-Delete%20Leaves%20With%20a%20Given%20Value/README_CN.md#1325-删除给定值的叶子节点
+[1326]:Problemset/1326-Minimum%20Number%20of%20Taps%20to%20Open%20to%20Water%20a%20Garden/README_CN.md#1326-灌溉花园的最少水龙头数目
 [1328]:Problemset/1328-Break%20a%20Palindrome/README_CN.md#1328-破坏回文串
 [1329]:Problemset/1329-Sort%20the%20Matrix%20Diagonally/README_CN.md#1329-将矩阵按对角线排序
 [1330]:Problemset/1330-Reverse%20Subarray%20To%20Maximize%20Array%20Value/README_CN.md#1330-翻转子数组得到最大的数组值
@@ -4627,6 +4629,7 @@
 [1323l]:https://leetcode.cn/problems/maximum-69-number/
 [1324l]:https://leetcode.cn/problems/print-words-vertically/
 [1325l]:https://leetcode.cn/problems/delete-leaves-with-a-given-value/
+[1326l]:https://leetcode.cn/problems/minimum-number-of-taps-to-open-to-water-a-garden/
 [1328l]:https://leetcode.cn/problems/break-a-palindrome/
 [1329l]:https://leetcode.cn/problems/sort-the-matrix-diagonally/
 [1330l]:https://leetcode.cn/problems/reverse-subarray-to-maximize-array-value/
