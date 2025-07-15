@@ -1564,6 +1564,7 @@
 [2231][2231l]|[按奇偶性交换后的最大数字][2231]                          |![rs]
 [2232][2232l]|[向表达式添加括号后的最小结果][2232]                      |![py]
 [2233][2233l]|[K 次增加后的最大乘积][2233]                              |![rs]
+[2234][2234l]|[花园的最大总美丽值][2234]                                |![py]
 [2235][2235l]|[两整数相加][2235]                                        |![py]&nbsp;&nbsp;![rs]
 [2236][2236l]|[判断根结点是否等于子结点之和][2236]                      |![py]
 [2239][2239l]|[找到最接近 0 的数字][2239]                               |![rs]
@@ -3414,6 +3415,7 @@
 [2231]:Problemset/2231-Largest%20Number%20After%20Digit%20Swaps%20by%20Parity/README_CN.md#2231-按奇偶性交换后的最大数字
 [2232]:Problemset/2232-Minimize%20Result%20by%20Adding%20Parentheses%20to%20Expression/README_CN.md#2232-向表达式添加括号后的最小结果
 [2233]:Problemset/2233-Maximum%20Product%20After%20K%20Increments/README_CN.md#2233-k-次增加后的最大乘积
+[2234]:Problemset/2234-Maximum%20Total%20Beauty%20of%20the%20Gardens/README_CN.md#2234-花园的最大总美丽值
 [2235]:Problemset/2235-Add%20Two%20Integers/README_CN.md#2235-两整数相加
 [2236]:Problemset/2236-Root%20Equals%20Sum%20of%20Children/README_CN.md#2236-判断根结点是否等于子结点之和
 [2239]:Problemset/2239-Find%20Closest%20Number%20to%20Zero/README_CN.md#2239-找到最接近-0-的数字
@@ -5258,6 +5260,7 @@
 [2231l]:https://leetcode.cn/problems/largest-number-after-digit-swaps-by-parity/
 [2232l]:https://leetcode.cn/problems/minimize-result-by-adding-parentheses-to-expression/
 [2233l]:https://leetcode.cn/problems/maximum-product-after-k-increments/
+[2234l]:https://leetcode.cn/problems/maximum-total-beauty-of-the-gardens/
 [2235l]:https://leetcode.cn/problems/add-two-integers/
 [2236l]:https://leetcode.cn/problems/root-equals-sum-of-children/
 [2239l]:https://leetcode.cn/problems/find-closest-number-to-zero/
