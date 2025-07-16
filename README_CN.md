@@ -1441,6 +1441,7 @@
 [2057][2057l]|[值相等的最小索引][2057]                                  |![rs]
 [2058][2058l]|[找出临界点之间的最小和最大距离][2058]                    |![py]
 [2059][2059l]|[转化数字的最小运算数][2059]                              |![rs]
+[2060][2060l]|[同源字符串检测][2060]                                    |![py]
 [2062][2062l]|[统计字符串中的元音子字符串][2062]                        |![py]
 [2063][2063l]|[所有子字符串中的元音][2063]                              |![rs]
 [2064][2064l]|[分配给商店的最多商品的最小值][2064]                      |![rs]
@@ -3292,6 +3293,7 @@
 [2057]:Problemset/2057-Smallest%20Index%20With%20Equal%20Value/README_CN.md#2057-值相等的最小索引
 [2058]:Problemset/2058-Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points/README_CN.md#2058-找出临界点之间的最小和最大距离
 [2059]:Problemset/2059-Minimum%20Operations%20to%20Convert%20Number/README_CN.md#2059-转化数字的最小运算数
+[2060]:Problemset/2060-Check%20if%20an%20Original%20String%20Exists%20Given%20Two%20Encoded%20Strings/README_CN.md#2060-同源字符串检测
 [2062]:Problemset/2062-Count%20Vowel%20Substrings%20of%20a%20String/README_CN.md#2062-统计字符串中的元音子字符串
 [2063]:Problemset/2063-Vowels%20of%20All%20Substrings/README_CN.md#2063-所有子字符串中的元音
 [2064]:Problemset/2064-Minimized%20Maximum%20of%20Products%20Distributed%20to%20Any%20Store/README_CN.md#2064-分配给商店的最多商品的最小值
@@ -5137,6 +5139,7 @@
 [2057l]:https://leetcode.cn/problems/smallest-index-with-equal-value/
 [2058l]:https://leetcode.cn/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
 [2059l]:https://leetcode.cn/problems/minimum-operations-to-convert-number/
+[2060l]:https://leetcode.cn/problems/check-if-an-original-string-exists-given-two-encoded-strings/
 [2062l]:https://leetcode.cn/problems/count-vowel-substrings-of-a-string/
 [2063l]:https://leetcode.cn/problems/vowels-of-all-substrings/
 [2064l]:https://leetcode.cn/problems/minimized-maximum-of-products-distributed-to-any-store/
