@@ -1255,6 +1255,7 @@
 [1779][1779l]|[Find Nearest Point That Has the Same X or Y Coordinate][1779]                        |![rs]
 [1780][1780l]|[Check if Number is a Sum of Powers of Three][1780]                                   |![rb]&nbsp;&nbsp;![rs]
 [1781][1781l]|[Sum of Beauty of All Substrings][1781]                                               |![rs]
+[1782][1782l]|[Count Pairs Of Nodes][1782]                                                          |![py]
 [1784][1784l]|[Check if Binary String Has at Most One Segment of Ones][1784]                        |![rb]&nbsp;&nbsp;![rs]
 [1785][1785l]|[Minimum Elements to Add to Form a Given Sum][1785]                                   |![rb]&nbsp;&nbsp;![rs]
 [1790][1790l]|[Check if One String Swap Can Make Strings Equal][1790]                               |![rs]
@@ -3107,6 +3108,7 @@
 [1779]:Problemset/1779-Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate/README.md#1779-find-nearest-point-that-has-the-same-x-or-y-coordinate
 [1780]:Problemset/1780-Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three/README.md#1780-check-if-number-is-a-sum-of-powers-of-three
 [1781]:Problemset/1781-Sum%20of%20Beauty%20of%20All%20Substrings/README.md#1781-sum-of-beauty-of-all-substrings
+[1782]:Problemset/1782-Count%20Pairs%20Of%20Nodes/README.md#1782-count-pairs-of-nodes
 [1784]:Problemset/1784-Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/README.md#1784-check-if-binary-string-has-at-most-one-segment-of-ones
 [1785]:Problemset/1785-Minimum%20Elements%20to%20Add%20to%20Form%20a%20Given%20Sum/README.md#1785-minimum-elements-to-add-to-form-a-given-sum
 [1790]:Problemset/1790-Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/README.md#1790-check-if-one-string-swap-can-make-strings-equal
@@ -4953,6 +4955,7 @@
 [1779l]:https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 [1780l]:https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/
 [1781l]:https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
+[1782l]:https://leetcode.com/problems/count-pairs-of-nodes/
 [1784l]:https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 [1785l]:https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/
 [1790l]:https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
