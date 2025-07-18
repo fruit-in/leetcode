@@ -1500,6 +1500,7 @@
 [2138][2138l]|[Divide a String Into Groups of Size k][2138]                                         |![py]
 [2139][2139l]|[Minimum Moves to Reach Target Score][2139]                                           |![rs]
 [2140][2140l]|[Solving Questions With Brainpower][2140]                                             |![rs]
+[2141][2141l]|[Maximum Running Time of N Computers][2141]                                           |![py]
 [2144][2144l]|[Minimum Cost of Buying Candies With Discount][2144]                                  |![rs]
 [2145][2145l]|[Count the Hidden Sequences][2145]                                                    |![rs]
 [2146][2146l]|[K Highest Ranked Items Within a Price Range][2146]                                   |![rs]
@@ -3353,6 +3354,7 @@
 [2138]:Problemset/2138-Divide%20a%20String%20Into%20Groups%20of%20Size%20k/README.md#2138-divide-a-string-into-groups-of-size-k
 [2139]:Problemset/2139-Minimum%20Moves%20to%20Reach%20Target%20Score/README.md#2139-minimum-moves-to-reach-target-score
 [2140]:Problemset/2140-Solving%20Questions%20With%20Brainpower/README.md#2140-solving-questions-with-brainpower
+[2141]:Problemset/2141-Maximum%20Running%20Time%20of%20N%20Computers/README.md#2141-maximum-running-time-of-n-computers
 [2144]:Problemset/2144-Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/README.md#2144-minimum-cost-of-buying-candies-with-discount
 [2145]:Problemset/2145-Count%20the%20Hidden%20Sequences/README.md#2145-count-the-hidden-sequences
 [2146]:Problemset/2146-K%20Highest%20Ranked%20Items%20Within%20a%20Price%20Range/README.md#2146-k-highest-ranked-items-within-a-price-range
@@ -5200,6 +5202,7 @@
 [2138l]:https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
 [2139l]:https://leetcode.com/problems/minimum-moves-to-reach-target-score/
 [2140l]:https://leetcode.com/problems/solving-questions-with-brainpower/
+[2141l]:https://leetcode.com/problems/maximum-running-time-of-n-computers/
 [2144l]:https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 [2145l]:https://leetcode.com/problems/count-the-hidden-sequences/
 [2146l]:https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/
