@@ -1847,6 +1847,7 @@
 [2611][2611l]|[老鼠和奶酪][2611]                                        |![rs]
 [2614][2614l]|[对角线上的质数][2614]                                    |![rs]
 [2615][2615l]|[等值距离和][2615]                                        |![rs]
+[2616][2616l]|[最小化数对的最大差值][2616]                              |![py]
 [2639][2639l]|[查询网格图中每一列的宽度][2639]                          |![rs]
 
 
@@ -3701,6 +3702,7 @@
 [2611]:Problemset/2611-Mice%20and%20Cheese/README_CN.md#2611-老鼠和奶酪
 [2614]:Problemset/2614-Prime%20In%20Diagonal/README_CN.md#2614-对角线上的质数
 [2615]:Problemset/2615-Sum%20of%20Distances/README_CN.md#2615-等值距离和
+[2616]:Problemset/2616-Minimize%20the%20Maximum%20Difference%20of%20Pairs/README_CN.md#2616-最小化数对的最大差值
 [2639]:Problemset/2639-Find%20the%20Width%20of%20Columns%20of%20a%20Grid/README_CN.md#2639-查询网格图中每一列的宽度
 
 [1l]:https://leetcode.cn/problems/two-sum/
@@ -5549,4 +5551,5 @@
 [2611l]:https://leetcode.cn/problems/mice-and-cheese/
 [2614l]:https://leetcode.cn/problems/prime-in-diagonal/
 [2615l]:https://leetcode.cn/problems/sum-of-distances/
+[2616l]:https://leetcode.cn/problems/minimize-the-maximum-difference-of-pairs/
 [2639l]:https://leetcode.cn/problems/find-the-width-of-columns-of-a-grid/

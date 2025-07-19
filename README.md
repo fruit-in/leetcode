@@ -1847,6 +1847,7 @@
 [2611][2611l]|[Mice and Cheese][2611]                                                               |![rs]
 [2614][2614l]|[Prime In Diagonal][2614]                                                             |![rs]
 [2615][2615l]|[Sum of Distances][2615]                                                              |![rs]
+[2616][2616l]|[Minimize the Maximum Difference of Pairs][2616]                                      |![py]
 [2639][2639l]|[Find the Width of Columns of a Grid][2639]                                           |![rs]
 
 
@@ -3701,6 +3702,7 @@
 [2611]:Problemset/2611-Mice%20and%20Cheese/README.md#2611-mice-and-cheese
 [2614]:Problemset/2614-Prime%20In%20Diagonal/README.md#2614-prime-in-diagonal
 [2615]:Problemset/2615-Sum%20of%20Distances/README.md#2615-sum-of-distances
+[2616]:Problemset/2616-Minimize%20the%20Maximum%20Difference%20of%20Pairs/README.md#2616-minimize-the-maximum-difference-of-pairs
 [2639]:Problemset/2639-Find%20the%20Width%20of%20Columns%20of%20a%20Grid/README.md#2639-find-the-width-of-columns-of-a-grid
 
 [1l]:https://leetcode.com/problems/two-sum/
@@ -5549,4 +5551,5 @@
 [2611l]:https://leetcode.com/problems/mice-and-cheese/
 [2614l]:https://leetcode.com/problems/prime-in-diagonal/
 [2615l]:https://leetcode.com/problems/sum-of-distances/
+[2616l]:https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/
 [2639l]:https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/
