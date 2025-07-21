@@ -451,6 +451,7 @@
 [624][624l]  |[数组列表中的最大距离][624]                               |![rs]
 [628][628l]  |[三个数的最大乘积][628]                                   |![py]
 [629][629l]  |[K 个逆序对数组][629]                                     |![rs]
+[632][632l]  |[最小区间][632]                                           |![rs]
 [633][633l]  |[平方数之和][633]                                         |![rs]
 [636][636l]  |[函数的独占时间][636]                                     |![rs]
 [637][637l]  |[二叉树的层平均值][637]                                   |![py]
@@ -2307,6 +2308,7 @@
 [624]:Problemset/0624-Maximum%20Distance%20in%20Arrays/README_CN.md#624-数组列表中的最大距离
 [628]:Problemset/0628-Maximum%20Product%20of%20Three%20Numbers/README_CN.md#628-三个数的最大乘积
 [629]:Problemset/0629-K%20Inverse%20Pairs%20Array/README_CN.md#629-k-个逆序对数组
+[632]:Problemset/0632-Smallest%20Range%20Covering%20Elements%20from%20K%20Lists/README_CN.md#632-最小区间
 [633]:Problemset/0633-Sum%20of%20Square%20Numbers/README_CN.md#633-平方数之和
 [636]:Problemset/0636-Exclusive%20Time%20of%20Functions/README_CN.md#636-函数的独占时间
 [637]:Problemset/0637-Average%20of%20Levels%20in%20Binary%20Tree/README_CN.md#637-二叉树的层平均值
@@ -4157,6 +4159,7 @@
 [624l]:https://leetcode.cn/problems/maximum-distance-in-arrays/
 [628l]:https://leetcode.cn/problems/maximum-product-of-three-numbers/
 [629l]:https://leetcode.cn/problems/k-inverse-pairs-array/description/
+[632l]:https://leetcode.cn/problems/smallest-range-covering-elements-from-k-lists/
 [633l]:https://leetcode.cn/problems/sum-of-square-numbers/
 [636l]:https://leetcode.cn/problems/exclusive-time-of-functions/
 [637l]:https://leetcode.cn/problems/average-of-levels-in-binary-tree/
