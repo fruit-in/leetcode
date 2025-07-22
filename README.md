@@ -1546,6 +1546,7 @@
 [2200][2200l]|[Find All K-Distant Indices in an Array][2200]                                        |![rs]
 [2201][2201l]|[Count Artifacts That Can Be Extracted][2201]                                         |![rs]
 [2202][2202l]|[Maximize the Topmost Element After K Moves][2202]                                    |![rs]
+[2203][2203l]|[Minimum Weighted Subgraph With the Required Paths][2203]                             |![rs]
 [2206][2206l]|[Divide Array Into Equal Pairs][2206]                                                 |![rs]
 [2208][2208l]|[Minimum Operations to Halve Array Sum][2208]                                         |![py]
 [2209][2209l]|[Minimum White Tiles After Covering With Carpets][2209]                               |![rs]
@@ -3403,6 +3404,7 @@
 [2200]:Problemset/2200-Find%20All%20K-Distant%20Indices%20in%20an%20Array/README.md#2200-find-all-k-distant-indices-in-an-array
 [2201]:Problemset/2201-Count%20Artifacts%20That%20Can%20Be%20Extracted/README.md#2201-count-artifacts-that-can-be-extracted
 [2202]:Problemset/2202-Maximize%20the%20Topmost%20Element%20After%20K%20Moves/README.md#2202-maximize-the-topmost-element-after-k-moves
+[2203]:Problemset/2203-Minimum%20Weighted%20Subgraph%20With%20the%20Required%20Paths/README.md#2203-minimum-weighted-subgraph-with-the-required-paths
 [2206]:Problemset/2206-Divide%20Array%20Into%20Equal%20Pairs/README.md#2206-divide-array-into-equal-pairs
 [2208]:Problemset/2208-Minimum%20Operations%20to%20Halve%20Array%20Sum/README.md#2208-minimum-operations-to-halve-array-sum
 [2209]:Problemset/2209-Minimum%20White%20Tiles%20After%20Covering%20With%20Carpets/README.md#2209-minimum-white-tiles-after-covering-with-carpets
@@ -5254,6 +5256,7 @@
 [2200l]:https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 [2201l]:https://leetcode.com/problems/count-artifacts-that-can-be-extracted/
 [2202l]:https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
+[2203l]:https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/
 [2206l]:https://leetcode.com/problems/divide-array-into-equal-pairs/
 [2208l]:https://leetcode.com/problems/minimum-operations-to-halve-array-sum/
 [2209l]:https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/
