@@ -1679,6 +1679,7 @@
 [2383][2383l]|[Minimum Hours of Training to Win a Competition][2383]                                |![rs]
 [2384][2384l]|[Largest Palindromic Number][2384]                                                    |![rs]
 [2385][2385l]|[Amount of Time for Binary Tree to Be Infected][2385]                                 |![py]
+[2386][2386l]|[Find the K-Sum of an Array][2386]                                                    |![rs]
 [2389][2389l]|[Longest Subsequence With Limited Sum][2389]                                          |![rs]
 [2390][2390l]|[Removing Stars From a String][2390]                                                  |![rs]
 [2391][2391l]|[Minimum Amount of Time to Collect Garbage][2391]                                     |![rs]
@@ -3537,6 +3538,7 @@
 [2383]:Problemset/2383-Minimum%20Hours%20of%20Training%20to%20Win%20a%20Competition/README.md#2383-minimum-hours-of-training-to-win-a-competition
 [2384]:Problemset/2384-Largest%20Palindromic%20Number/README.md#2384-largest-palindromic-number
 [2385]:Problemset/2385-Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected/README.md#2385-amount-of-time-for-binary-tree-to-be-infected
+[2386]:Problemset/2386-Find%20the%20K-Sum%20of%20an%20Array/README.md#2386-find-the-k-sum-of-an-array
 [2389]:Problemset/2389-Longest%20Subsequence%20With%20Limited%20Sum/README.md#2389-longest-subsequence-with-limited-sum
 [2390]:Problemset/2390-Removing%20Stars%20From%20a%20String/README.md#2390-removing-stars-from-a-string
 [2391]:Problemset/2391-Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage/README.md#2391-minimum-amount-of-time-to-collect-garbage
@@ -5389,6 +5391,7 @@
 [2383l]:https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/
 [2384l]:https://leetcode.com/problems/largest-palindromic-number/
 [2385l]:https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/
+[2386l]:https://leetcode.com/problems/find-the-k-sum-of-an-array/
 [2389l]:https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 [2390l]:https://leetcode.com/problems/removing-stars-from-a-string/
 [2391l]:https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
