@@ -1406,6 +1406,7 @@
 [2006][2006l]|[Count Number of Pairs With Absolute Difference K][2006]                              |![rs]
 [2007][2007l]|[Find Original Array From Doubled Array][2007]                                        |![rs]
 [2008][2008l]|[Maximum Earnings From Taxi][2008]                                                    |![rs]
+[2009][2009l]|[Minimum Number of Operations to Make Array Continuous][2009]                         |![rs]
 [2011][2011l]|[Final Value of Variable After Performing Operations][2011]                           |![py]&nbsp;&nbsp;![rs]
 [2012][2012l]|[Sum of Beauty in the Array][2012]                                                    |![rs]
 [2013][2013l]|[Detect Squares][2013]                                                                |![rs]
@@ -3265,6 +3266,7 @@
 [2006]:Problemset/2006-Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/README.md#2006-count-number-of-pairs-with-absolute-difference-k
 [2007]:Problemset/2007-Find%20Original%20Array%20From%20Doubled%20Array/README.md#2007-find-original-array-from-doubled-array
 [2008]:Problemset/2008-Maximum%20Earnings%20From%20Taxi/README.md#2008-maximum-earnings-from-taxi
+[2009]:Problemset/2009-Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Continuous/README.md#2009-minimum-number-of-operations-to-make-array-continuous
 [2011]:Problemset/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations/README.md#2011-final-value-of-variable-after-performing-operations
 [2012]:Problemset/2012-Sum%20of%20Beauty%20in%20the%20Array/README.md#2012-sum-of-beauty-in-the-array
 [2013]:Problemset/2013-Detect%20Squares/README.md#2013-detect-squares
@@ -5118,6 +5120,7 @@
 [2006l]:https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [2007l]:https://leetcode.com/problems/find-original-array-from-doubled-array/
 [2008l]:https://leetcode.com/problems/maximum-earnings-from-taxi/
+[2009l]:https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/
 [2011l]:https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2012l]:https://leetcode.com/problems/sum-of-beauty-in-the-array/
 [2013l]:https://leetcode.com/problems/detect-squares/
