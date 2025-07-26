@@ -550,6 +550,7 @@
 [771][771l]  |[Jewels and Stones][771]                                                              |![rs]
 [773][773l]  |[Sliding Puzzle][773]                                                                 |![rs]
 [775][775l]  |[Global and Local Inversions][775]                                                    |![rb]&nbsp;&nbsp;![rs]
+[777][777l]  |[Swap Adjacent in LR String][777]                                                     |![rs]
 [778][778l]  |[Swim in Rising Water][778]                                                           |![rs]
 [779][779l]  |[K-th Symbol in Grammar][779]                                                         |![rs]
 [780][780l]  |[Reaching Points][780]                                                                |![rs]
@@ -2411,6 +2412,7 @@
 [771]:Problemset/0771-Jewels%20and%20Stones/README.md#771-jewels-and-stones
 [773]:Problemset/0773-Sliding%20Puzzle/README.md#773-sliding-puzzle
 [775]:Problemset/0775-Global%20and%20Local%20Inversions/README.md#775-global-and-local-inversions
+[777]:Problemset/0777-Swap%20Adjacent%20in%20LR%20String/README.md#777-swap-adjacent-in-lr-string
 [778]:Problemset/0778-Swim%20in%20Rising%20Water/README.md#778-swim-in-rising-water
 [779]:Problemset/0779-K-th%20Symbol%20in%20Grammar/README.md#779-k-th-symbol-in-grammar
 [780]:Problemset/0780-Reaching%20Points/README.md#780-reaching-points
@@ -4266,6 +4268,7 @@
 [771l]:https://leetcode.com/problems/jewels-and-stones/
 [773l]:https://leetcode.com/problems/sliding-puzzle/
 [775l]:https://leetcode.com/problems/global-and-local-inversions/
+[777l]:https://leetcode.com/problems/swap-adjacent-in-lr-string/
 [778l]:https://leetcode.com/problems/swim-in-rising-water/
 [779l]:https://leetcode.com/problems/k-th-symbol-in-grammar/
 [780l]:https://leetcode.com/problems/reaching-points/

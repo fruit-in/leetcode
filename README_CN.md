@@ -550,6 +550,7 @@
 [771][771l]  |[宝石与石头][771]                                         |![rs]
 [773][773l]  |[滑动谜题][773]                                           |![rs]
 [775][775l]  |[全局倒置与局部倒置][775]                                 |![rb]&nbsp;&nbsp;![rs]
+[777][777l]  |[在 LR 字符串中交换相邻字符][777]                         |![rs]
 [778][778l]  |[水位上升的泳池中游泳][778]                               |![rs]
 [779][779l]  |[第K个语法符号][779]                                      |![rs]
 [780][780l]  |[到达终点][780]                                           |![rs]
@@ -2411,6 +2412,7 @@
 [771]:Problemset/0771-Jewels%20and%20Stones/README_CN.md#771-宝石与石头
 [773]:Problemset/0773-Sliding%20Puzzle/README_CN.md#773-滑动谜题
 [775]:Problemset/0775-Global%20and%20Local%20Inversions/README_CN.md#775-全局倒置与局部倒置
+[777]:Problemset/0777-Swap%20Adjacent%20in%20LR%20String/README_CN.md#777-在-lr-字符串中交换相邻字符
 [778]:Problemset/0778-Swim%20in%20Rising%20Water/README_CN.md#778-水位上升的泳池中游泳
 [779]:Problemset/0779-K-th%20Symbol%20in%20Grammar/README_CN.md#779-第k个语法符号
 [780]:Problemset/0780-Reaching%20Points/README_CN.md#780-到达终点
@@ -4266,6 +4268,7 @@
 [771l]:https://leetcode.cn/problems/jewels-and-stones/
 [773l]:https://leetcode.cn/problems/sliding-puzzle/
 [775l]:https://leetcode.cn/problems/global-and-local-inversions/
+[777l]:https://leetcode.cn/problems/swap-adjacent-in-lr-string/
 [778l]:https://leetcode.cn/problems/swim-in-rising-water/
 [779l]:https://leetcode.cn/problems/k-th-symbol-in-grammar/
 [780l]:https://leetcode.cn/problems/reaching-points/
