@@ -630,6 +630,7 @@
 [861][861l]  |[Score After Flipping Matrix][861]                                                    |![rs]
 [862][862l]  |[Shortest Subarray with Sum at Least K][862]                                          |![rs]
 [863][863l]  |[All Nodes Distance K in Binary Tree][863]                                            |![py]
+[864][864l]  |[Shortest Path to Get All Keys][864]                                                  |![rs]
 [865][865l]  |[Smallest Subtree with all the Deepest Nodes][865]                                    |![py]
 [866][866l]  |[Prime Palindrome][866]                                                               |![rs]
 [867][867l]  |[Transpose Matrix][867]                                                               |![py]
@@ -2492,6 +2493,7 @@
 [861]:Problemset/0861-Score%20After%20Flipping%20Matrix/README.md#861-score-after-flipping-matrix
 [862]:Problemset/0862-Shortest%20Subarray%20with%20Sum%20at%20Least%20K/README.md#862-shortest-subarray-with-sum-at-least-k
 [863]:Problemset/0863-All%20Nodes%20Distance%20K%20in%20Binary%20Tree/README.md#863-all-nodes-distance-k-in-binary-tree
+[864]:Problemset/0864-Shortest%20Path%20to%20Get%20All%20Keys/README.md#864-shortest-path-to-get-all-keys
 [865]:Problemset/0865-Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/README.md#865-smallest-subtree-with-all-the-deepest-nodes
 [866]:Problemset/0866-Prime%20Palindrome/README.md#866-prime-palindrome
 [867]:Problemset/0867-Transpose%20Matrix/README.md#867-transpose-matrix
@@ -4348,6 +4350,7 @@
 [861l]:https://leetcode.com/problems/score-after-flipping-matrix/
 [862l]:https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 [863l]:https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+[864l]:https://leetcode.com/problems/shortest-path-to-get-all-keys/
 [865l]:https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
 [866l]:https://leetcode.com/problems/prime-palindrome/
 [867l]:https://leetcode.com/problems/transpose-matrix/

@@ -630,6 +630,7 @@
 [861][861l]  |[翻转矩阵后的得分][861]                                   |![rs]
 [862][862l]  |[和至少为 K 的最短子数组][862]                            |![rs]
 [863][863l]  |[二叉树中所有距离为 K 的结点][863]                        |![py]
+[864][864l]  |[获取所有钥匙的最短路径][864]                             |![rs]
 [865][865l]  |[具有所有最深结点的最小子树][865]                         |![py]
 [866][866l]  |[回文素数][866]                                           |![rs]
 [867][867l]  |[转置矩阵][867]                                           |![py]
@@ -2492,6 +2493,7 @@
 [861]:Problemset/0861-Score%20After%20Flipping%20Matrix/README_CN.md#861-翻转矩阵后的得分
 [862]:Problemset/0862-Shortest%20Subarray%20with%20Sum%20at%20Least%20K/README_CN.md#862-和至少为-k-的最短子数组
 [863]:Problemset/0863-All%20Nodes%20Distance%20K%20in%20Binary%20Tree/README_CN.md#863-二叉树中所有距离为-k-的结点
+[864]:Problemset/0864-Shortest%20Path%20to%20Get%20All%20Keys/README_CN.md#864-获取所有钥匙的最短路径
 [865]:Problemset/0865-Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/README_CN.md#865-具有所有最深结点的最小子树
 [866]:Problemset/0866-Prime%20Palindrome/README_CN.md#866-回文素数
 [867]:Problemset/0867-Transpose%20Matrix/README_CN.md#867-转置矩阵
@@ -4348,6 +4350,7 @@
 [861l]:https://leetcode.cn/problems/score-after-flipping-matrix/
 [862l]:https://leetcode.cn/problems/shortest-subarray-with-sum-at-least-k/
 [863l]:https://leetcode.cn/problems/all-nodes-distance-k-in-binary-tree/
+[864l]:https://leetcode.cn/problems/shortest-path-to-get-all-keys/
 [865l]:https://leetcode.cn/problems/smallest-subtree-with-all-the-deepest-nodes/
 [866l]:https://leetcode.cn/problems/prime-palindrome/
 [867l]:https://leetcode.cn/problems/transpose-matrix/
