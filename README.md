@@ -1195,6 +1195,7 @@
 [1673][1673l]|[Find the Most Competitive Subsequence][1673]                                         |![rs]
 [1678][1678l]|[Goal Parser Interpretation][1678]                                                    |![rs]
 [1679][1679l]|[Max Number of K-Sum Pairs][1679]                                                     |![rs]
+[1681][1681l]|[Minimum Incompatibility][1681]                                                       |![py]
 [1684][1684l]|[Count the Number of Consistent Strings][1684]                                        |![rs]
 [1685][1685l]|[Sum of Absolute Differences in a Sorted Array][1685]                                 |![rb]&nbsp;&nbsp;![rs]
 [1686][1686l]|[Stone Game VI][1686]                                                                 |![rs]
@@ -3059,6 +3060,7 @@
 [1673]:Problemset/1673-Find%20the%20Most%20Competitive%20Subsequence/README.md#1673-find-the-most-competitive-subsequence
 [1678]:Problemset/1678-Goal%20Parser%20Interpretation/README.md#1678-goal-parser-interpretation
 [1679]:Problemset/1679-Max%20Number%20of%20K-Sum%20Pairs/README.md#1679-max-number-of-k-sum-pairs
+[1681]:Problemset/1681-Minimum%20Incompatibility/README.md#1681-minimum-incompatibility
 [1684]:Problemset/1684-Count%20the%20Number%20of%20Consistent%20Strings/README.md#1684-count-the-number-of-consistent-strings
 [1685]:Problemset/1685-Sum%20of%20Absolute%20Differences%20in%20a%20Sorted%20Array/README.md#1685-sum-of-absolute-differences-in-a-sorted-array
 [1686]:Problemset/1686-Stone%20Game%20VI/README.md#1686-stone-game-vi
@@ -4917,6 +4919,7 @@
 [1673l]:https://leetcode.com/problems/find-the-most-competitive-subsequence/
 [1678l]:https://leetcode.com/problems/goal-parser-interpretation/
 [1679l]:https://leetcode.com/problems/max-number-of-k-sum-pairs/
+[1681l]:https://leetcode.com/problems/minimum-incompatibility/
 [1684l]:https://leetcode.com/problems/count-the-number-of-consistent-strings/
 [1685l]:https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
 [1686l]:https://leetcode.com/problems/stone-game-vi/
