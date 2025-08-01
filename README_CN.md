@@ -622,6 +622,7 @@
 [851][851l]  |[喧闹和富有][851]                                         |![rs]
 [852][852l]  |[山脉数组的峰顶索引][852]                                 |![rs]
 [853][853l]  |[车队][853]                                               |![rs]
+[854][854l]  |[相似度为 K 的字符串][854]                                |![py]
 [855][855l]  |[考场就座][855]                                           |![py]
 [856][856l]  |[括号的分数][856]                                         |![rs]
 [857][857l]  |[雇佣 K 名工人的最低成本][857]                            |![rs]
@@ -2488,6 +2489,7 @@
 [851]:Problemset/0851-Loud%20and%20Rich/README_CN.md#851-喧闹和富有
 [852]:Problemset/0852-Peak%20Index%20in%20a%20Mountain%20Array/README_CN.md#852-山脉数组的峰顶索引
 [853]:Problemset/0853-Car%20Fleet/README_CN.md#853-车队
+[854]:Problemset/0854-K-Similar%20Strings/README_CN.md#854-相似度为-k-的字符串
 [855]:Problemset/0855-Exam%20Room/README_CN.md#855-考场就座
 [856]:Problemset/0856-Score%20of%20Parentheses/README_CN.md#856-括号的分数
 [857]:Problemset/0857-Minimum%20Cost%20to%20Hire%20K%20Workers/README_CN.md#857-雇佣-k-名工人的最低成本
@@ -4348,6 +4350,7 @@
 [851l]:https://leetcode.cn/problems/loud-and-rich/
 [852l]:https://leetcode.cn/problems/peak-index-in-a-mountain-array/
 [853l]:https://leetcode.cn/problems/car-fleet/
+[854l]:https://leetcode.cn/problems/k-similar-strings/
 [855l]:https://leetcode.cn/problems/exam-room/
 [856l]:https://leetcode.cn/problems/score-of-parentheses/
 [857l]:https://leetcode.cn/problems/minimum-cost-to-hire-k-workers/

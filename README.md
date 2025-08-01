@@ -622,6 +622,7 @@
 [851][851l]  |[Loud and Rich][851]                                                                  |![rs]
 [852][852l]  |[Peak Index in a Mountain Array][852]                                                 |![rs]
 [853][853l]  |[Car Fleet][853]                                                                      |![rs]
+[854][854l]  |[K-Similar Strings][854]                                                              |![py]
 [855][855l]  |[Exam Room][855]                                                                      |![py]
 [856][856l]  |[Score of Parentheses][856]                                                           |![rs]
 [857][857l]  |[Minimum Cost to Hire K Workers][857]                                                 |![rs]
@@ -2488,6 +2489,7 @@
 [851]:Problemset/0851-Loud%20and%20Rich/README.md#851-loud-and-rich
 [852]:Problemset/0852-Peak%20Index%20in%20a%20Mountain%20Array/README.md#852-peak-index-in-a-mountain-array
 [853]:Problemset/0853-Car%20Fleet/README.md#853-car-fleet
+[854]:Problemset/0854-K-Similar%20Strings/README.md#854-k-similar-strings
 [855]:Problemset/0855-Exam%20Room/README.md#855-exam-room
 [856]:Problemset/0856-Score%20of%20Parentheses/README.md#856-score-of-parentheses
 [857]:Problemset/0857-Minimum%20Cost%20to%20Hire%20K%20Workers/README.md#857-minimum-cost-to-hire-k-workers
@@ -4348,6 +4350,7 @@
 [851l]:https://leetcode.com/problems/loud-and-rich/
 [852l]:https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [853l]:https://leetcode.com/problems/car-fleet/
+[854l]:https://leetcode.com/problems/k-similar-strings/
 [855l]:https://leetcode.com/problems/exam-room/
 [856l]:https://leetcode.com/problems/score-of-parentheses/
 [857l]:https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
