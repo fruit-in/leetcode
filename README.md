@@ -1814,6 +1814,7 @@
 [2553][2553l]|[Separate the Digits in an Array][2553]                                               |![rs]
 [2554][2554l]|[Maximum Number of Integers to Choose From a Range I][2554]                           |![rs]
 [2555][2555l]|[Maximize Win From Two Segments][2555]                                                |![py]
+[2556][2556l]|[Disconnect Path in a Binary Matrix by at Most One Flip][2556]                        |![rs]
 [2558][2558l]|[Take Gifts From the Richest Pile][2558]                                              |![rs]
 [2559][2559l]|[Count Vowel Strings in Ranges][2559]                                                 |![rs]
 [2560][2560l]|[House Robber IV][2560]                                                               |![py]
@@ -3681,6 +3682,7 @@
 [2553]:Problemset/2553-Separate%20the%20Digits%20in%20an%20Array/README.md#2553-separate-the-digits-in-an-array
 [2554]:Problemset/2554-Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I/README.md#2554-maximum-number-of-integers-to-choose-from-a-range-i
 [2555]:Problemset/2555-Maximize%20Win%20From%20Two%20Segments/README.md#2555-maximize-win-from-two-segments
+[2556]:Problemset/2556-Disconnect%20Path%20in%20a%20Binary%20Matrix%20by%20at%20Most%20One%20Flip/README.md#2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip
 [2558]:Problemset/2558-Take%20Gifts%20From%20the%20Richest%20Pile/README.md#2558-take-gifts-from-the-richest-pile
 [2559]:Problemset/2559-Count%20Vowel%20Strings%20in%20Ranges/README.md#2559-count-vowel-strings-in-ranges
 [2560]:Problemset/2560-House%20Robber%20IV/README.md#2560-house-robber-iv
@@ -5542,6 +5544,7 @@
 [2553l]:https://leetcode.com/problems/separate-the-digits-in-an-array/
 [2554l]:https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/
 [2555l]:https://leetcode.com/problems/maximize-win-from-two-segments/
+[2556l]:https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/
 [2558l]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2559l]:https://leetcode.com/problems/count-vowel-strings-in-ranges/
 [2560l]:https://leetcode.com/problems/house-robber-iv/
