@@ -1116,6 +1116,7 @@
 [1556][1556l]|[千位分隔数][1556]                                        |![rs]
 [1557][1557l]|[可以到达所有点的最少点数目][1557]                        |![rs]
 [1558][1558l]|[得到目标数组的最少函数调用次数][1558]                    |![rs]
+[1559][1559l]|[二维网格图中探测环][1559]                                |![rs]
 [1560][1560l]|[圆形赛道上经过次数最多的扇区][1560]                      |![rs]
 [1561][1561l]|[你可以获得的最大硬币数目][1561]                          |![rs]
 [1562][1562l]|[查找大小为 M 的最新分组][1562]                           |![py]
@@ -2984,6 +2985,7 @@
 [1556]:Problemset/1556-Thousand%20Separator/README_CN.md#1556-千位分隔数
 [1557]:Problemset/1557-Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/README_CN.md#1557-可以到达所有点的最少点数目
 [1558]:Problemset/1558-Minimum%20Numbers%20of%20Function%20Calls%20to%20Make%20Target%20Array/README_CN.md#1558-得到目标数组的最少函数调用次数
+[1559]:Problemset/1559-Detect%20Cycles%20in%202D%20Grid/README_CN.md#1559-二维网格图中探测环
 [1560]:Problemset/1560-Most%20Visited%20Sector%20in%20a%20Circular%20Track/README_CN.md#1560-圆形赛道上经过次数最多的扇区
 [1561]:Problemset/1561-Maximum%20Number%20of%20Coins%20You%20Can%20Get/README_CN.md#1561-你可以获得的最大硬币数目
 [1562]:Problemset/1562-Find%20Latest%20Group%20of%20Size%20M/README_CN.md#1562-查找大小为-m-的最新分组
@@ -4846,6 +4848,7 @@
 [1556l]:https://leetcode.cn/problems/thousand-separator/
 [1557l]:https://leetcode.cn/problems/minimum-number-of-vertices-to-reach-all-nodes/
 [1558l]:https://leetcode.cn/problems/minimum-numbers-of-function-calls-to-make-target-array/
+[1559l]:https://leetcode.cn/problems/detect-cycles-in-2d-grid/
 [1560l]:https://leetcode.cn/problems/most-visited-sector-in-a-circular-track/
 [1561l]:https://leetcode.cn/problems/maximum-number-of-coins-you-can-get/
 [1562l]:https://leetcode.cn/problems/find-latest-group-of-size-m/

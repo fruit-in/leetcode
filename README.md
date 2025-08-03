@@ -1116,6 +1116,7 @@
 [1556][1556l]|[Thousand Separator][1556]                                                            |![rs]
 [1557][1557l]|[Minimum Number of Vertices to Reach All Nodes][1557]                                 |![rs]
 [1558][1558l]|[Minimum Numbers of Function Calls to Make Target Array][1558]                        |![rs]
+[1559][1559l]|[Detect Cycles in 2D Grid][1559]                                                      |![rs]
 [1560][1560l]|[Most Visited Sector in a Circular Track][1560]                                       |![rs]
 [1561][1561l]|[Maximum Number of Coins You Can Get][1561]                                           |![rs]
 [1562][1562l]|[Find Latest Group of Size M][1562]                                                   |![py]
@@ -2984,6 +2985,7 @@
 [1556]:Problemset/1556-Thousand%20Separator/README.md#1556-thousand-separator
 [1557]:Problemset/1557-Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/README.md#1557-minimum-number-of-vertices-to-reach-all-nodes
 [1558]:Problemset/1558-Minimum%20Numbers%20of%20Function%20Calls%20to%20Make%20Target%20Array/README.md#1558-minimum-numbers-of-function-calls-to-make-target-array
+[1559]:Problemset/1559-Detect%20Cycles%20in%202D%20Grid/README.md#1559-detect-cycles-in-2d-grid
 [1560]:Problemset/1560-Most%20Visited%20Sector%20in%20a%20Circular%20Track/README.md#1560-most-visited-sector-in-a-circular-track
 [1561]:Problemset/1561-Maximum%20Number%20of%20Coins%20You%20Can%20Get/README.md#1561-maximum-number-of-coins-you-can-get
 [1562]:Problemset/1562-Find%20Latest%20Group%20of%20Size%20M/README.md#1562-find-latest-group-of-size-m
@@ -4846,6 +4848,7 @@
 [1556l]:https://leetcode.com/problems/thousand-separator/
 [1557l]:https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 [1558l]:https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/
+[1559l]:https://leetcode.com/problems/detect-cycles-in-2d-grid/
 [1560l]:https://leetcode.com/problems/most-visited-sector-in-a-circular-track/
 [1561l]:https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
 [1562l]:https://leetcode.com/problems/find-latest-group-of-size-m/
