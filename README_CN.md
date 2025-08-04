@@ -889,6 +889,7 @@
 [1250][1250l]|[检查「好数组」][1250]                                    |![py]
 [1252][1252l]|[奇数值单元格的数目][1252]                                |![rs]
 [1253][1253l]|[重构 2 行二进制矩阵][1253]                               |![rb]&nbsp;&nbsp;![rs]
+[1254][1254l]|[统计封闭岛屿的数目][1254]                                |![rs]
 [1255][1255l]|[得分最高的单词集合][1255]                                |![rs]
 [1260][1260l]|[二维网格迁移][1260]                                      |![rs]
 [1261][1261l]|[在受污染的二叉树中查找元素][1261]                        |![py]
@@ -2758,6 +2759,7 @@
 [1250]:Problemset/1250-Check%20If%20It%20Is%20a%20Good%20Array/README_CN.md#1250-检查「好数组」
 [1252]:Problemset/1252-Cells%20with%20Odd%20Values%20in%20a%20Matrix/README_CN.md#1252-奇数值单元格的数目
 [1253]:Problemset/1253-Reconstruct%20a%202-Row%20Binary%20Matrix/README_CN.md#1253-重构-2-行二进制矩阵
+[1254]:Problemset/1254-Number%20of%20Closed%20Islands/README_CN.md#1254-统计封闭岛屿的数目
 [1255]:Problemset/1255-Maximum%20Score%20Words%20Formed%20by%20Letters/README_CN.md#1255-得分最高的单词集合
 [1260]:Problemset/1260-Shift%202D%20Grid/README_CN.md#1260-二维网格迁移
 [1261]:Problemset/1261-Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree/README_CN.md#1261-在受污染的二叉树中查找元素
@@ -4621,6 +4623,7 @@
 [1250l]:https://leetcode.cn/problems/check-if-it-is-a-good-array/
 [1252l]:https://leetcode.cn/problems/cells-with-odd-values-in-a-matrix/
 [1253l]:https://leetcode.cn/problems/reconstruct-a-2-row-binary-matrix/
+[1254l]:https://leetcode.cn/problems/number-of-closed-islands/
 [1255l]:https://leetcode.cn/problems/maximum-score-words-formed-by-letters/
 [1260l]:https://leetcode.cn/problems/shift-2d-grid/
 [1261l]:https://leetcode.cn/problems/find-elements-in-a-contaminated-binary-tree/

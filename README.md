@@ -889,6 +889,7 @@
 [1250][1250l]|[Check If It Is a Good Array][1250]                                                   |![py]
 [1252][1252l]|[Cells with Odd Values in a Matrix][1252]                                             |![rs]
 [1253][1253l]|[Reconstruct a 2-Row Binary Matrix][1253]                                             |![rb]&nbsp;&nbsp;![rs]
+[1254][1254l]|[Number of Closed Islands][1254]                                                      |![rs]
 [1255][1255l]|[Maximum Score Words Formed by Letters][1255]                                         |![rs]
 [1260][1260l]|[Shift 2D Grid][1260]                                                                 |![rs]
 [1261][1261l]|[Find Elements in a Contaminated Binary Tree][1261]                                   |![py]
@@ -2758,6 +2759,7 @@
 [1250]:Problemset/1250-Check%20If%20It%20Is%20a%20Good%20Array/README.md#1250-check-if-it-is-a-good-array
 [1252]:Problemset/1252-Cells%20with%20Odd%20Values%20in%20a%20Matrix/README.md#1252-cells-with-odd-values-in-a-matrix
 [1253]:Problemset/1253-Reconstruct%20a%202-Row%20Binary%20Matrix/README.md#1253-reconstruct-a-2-row-binary-matrix
+[1254]:Problemset/1254-Number%20of%20Closed%20Islands/README.md#1254-number-of-closed-islands
 [1255]:Problemset/1255-Maximum%20Score%20Words%20Formed%20by%20Letters/README.md#1255-maximum-score-words-formed-by-letters
 [1260]:Problemset/1260-Shift%202D%20Grid/README.md#1260-shift-2d-grid
 [1261]:Problemset/1261-Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree/README.md#1261-find-elements-in-a-contaminated-binary-tree
@@ -4621,6 +4623,7 @@
 [1250l]:https://leetcode.com/problems/check-if-it-is-a-good-array/
 [1252l]:https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
 [1253l]:https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/
+[1254l]:https://leetcode.com/problems/number-of-closed-islands/
 [1255l]:https://leetcode.com/problems/maximum-score-words-formed-by-letters/
 [1260l]:https://leetcode.com/problems/shift-2d-grid/
 [1261l]:https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
