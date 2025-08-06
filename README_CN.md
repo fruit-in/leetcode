@@ -1770,6 +1770,7 @@
 [2488][2488l]|[统计中位数为 K 的子数组][2488]                           |![rs]
 [2490][2490l]|[回环句][2490]                                            |![py]
 [2491][2491l]|[划分技能点相等的团队][2491]                              |![rs]
+[2493][2493l]|[将节点分成尽可能多的组][2493]                            |![py]
 [2496][2496l]|[数组中字符串的最大值][2496]                              |![rs]
 [2497][2497l]|[图中最大星和][2497]                                      |![rs]
 [2498][2498l]|[青蛙过河 II][2498]                                       |![rs]
@@ -3641,6 +3642,7 @@
 [2488]:Problemset/2488-Count%20Subarrays%20With%20Median%20K/README_CN.md#2488-统计中位数为-k-的子数组
 [2490]:Problemset/2490-Circular%20Sentence/README_CN.md#2490-回环句
 [2491]:Problemset/2491-Divide%20Players%20Into%20Teams%20of%20Equal%20Skill/README_CN.md#2491-划分技能点相等的团队
+[2493]:Problemset/2493-Divide%20Nodes%20Into%20the%20Maximum%20Number%20of%20Groups/README_CN.md#2493-将节点分成尽可能多的组
 [2496]:Problemset/2496-Maximum%20Value%20of%20a%20String%20in%20an%20Array/README_CN.md#2496-数组中字符串的最大值
 [2497]:Problemset/2497-Maximum%20Star%20Sum%20of%20a%20Graph/README_CN.md#2497-图中最大星和
 [2498]:Problemset/2498-Frog%20Jump%20II/README_CN.md#2498-frog-jump-ii
@@ -5506,6 +5508,7 @@
 [2488l]:https://leetcode.cn/problems/count-subarrays-with-median-k/
 [2490l]:https://leetcode.cn/problems/circular-sentence/
 [2491l]:https://leetcode.cn/problems/divide-players-into-teams-of-equal-skill/
+[2493l]:https://leetcode.cn/problems/divide-nodes-into-the-maximum-number-of-groups/
 [2496l]:https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/
 [2497l]:https://leetcode.cn/problems/maximum-star-sum-of-a-graph/
 [2498l]:https://leetcode.com/problems/frog-jump-ii/
