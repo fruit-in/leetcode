@@ -1737,6 +1737,7 @@
 [2443][2443l]|[反转之后的数字和][2443]                                  |![py]
 [2444][2444l]|[统计定界子数组的数目][2444]                              |![rs]
 [2446][2446l]|[判断两个事件是否存在冲突][2446]                          |![py]
+[2447][2447l]|[最大公因数等于 K 的子数组数目][2447]                     |![py]
 [2448][2448l]|[使数组相等的最小开销][2448]                              |![rs]
 [2449][2449l]|[使数组相似的最少操作次数][2449]                          |![rs]
 [2451][2451l]|[差值数组不同的字符串][2451]                              |![py]
@@ -3609,6 +3610,7 @@
 [2443]:Problemset/2443-Sum%20of%20Number%20and%20Its%20Reverse/README_CN.md#2443-反转之后的数字和
 [2444]:Problemset/2444-Count%20Subarrays%20With%20Fixed%20Bounds/README_CN.md#2444-统计定界子数组的数目
 [2446]:Problemset/2446-Determine%20if%20Two%20Events%20Have%20Conflict/README_CN.md#2446-判断两个事件是否存在冲突
+[2447]:Problemset/2447-Number%20of%20Subarrays%20With%20GCD%20Equal%20to%20K/README_CN.md#2447-最大公因数等于-k-的子数组数目
 [2448]:Problemset/2448-Minimum%20Cost%20to%20Make%20Array%20Equal/README_CN.md#2448-使数组相等的最小开销
 [2449]:Problemset/2449-Minimum%20Number%20of%20Operations%20to%20Make%20Arrays%20Similar/README_CN.md#2449-使数组相似的最少操作次数
 [2451]:Problemset/2451-Odd%20String%20Difference/README_CN.md#2451-差值数组不同的字符串
@@ -5475,6 +5477,7 @@
 [2443l]:https://leetcode.cn/problems/sum-of-number-and-its-reverse/
 [2444l]:https://leetcode.cn/problems/count-subarrays-with-fixed-bounds/
 [2446l]:https://leetcode.cn/problems/determine-if-two-events-have-conflict/
+[2447l]:https://leetcode.cn/problems/number-of-subarrays-with-gcd-equal-to-k/
 [2448l]:https://leetcode.cn/problems/minimum-cost-to-make-array-equal/
 [2449l]:https://leetcode.cn/problems/minimum-number-of-operations-to-make-arrays-similar/
 [2451l]:https://leetcode.cn/problems/odd-string-difference/
