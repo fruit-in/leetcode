@@ -489,6 +489,7 @@
 [679][679l]  |[24 Game][679]                                                                        |![py]
 [680][680l]  |[Valid Palindrome II][680]                                                            |![py]
 [682][682l]  |[Baseball Game][682]                                                                  |![py]
+[685][685l]  |[Redundant Connection II][685]                                                        |![rs]
 [686][686l]  |[Repeated String Match][686]                                                          |![py]
 [687][687l]  |[Longest Univalue Path][687]                                                          |![py]
 [688][688l]  |[Knight Probability in Chessboard][688]                                               |![rb]&nbsp;&nbsp;![rs]
@@ -2364,6 +2365,7 @@
 [679]:Problemset/0679-24%20Game/README.md#679-24-game
 [680]:Problemset/0680-Valid%20Palindrome%20II/README.md#680-valid-palindrome-ii
 [682]:Problemset/0682-Baseball%20Game/README.md#682-baseball-game
+[685]:Problemset/0685-Redundant%20Connection%20II/README.md#685-redundant-connection-ii
 [686]:Problemset/0686-Repeated%20String%20Match/README.md#686-repeated-string-match
 [687]:Problemset/0687-Longest%20Univalue%20Path/README.md#687-longest-univalue-path
 [688]:Problemset/0688-Knight%20Probability%20in%20Chessboard/README.md#688-knight-probability-in-chessboard
@@ -4233,6 +4235,7 @@
 [679l]:https://leetcode.com/problems/24-game/
 [680l]:https://leetcode.com/problems/valid-palindrome-ii/
 [682l]:https://leetcode.com/problems/baseball-game/
+[685l]:https://leetcode.com/problems/redundant-connection-ii/
 [686l]:https://leetcode.com/problems/repeated-string-match/
 [687l]:https://leetcode.com/problems/longest-univalue-path/
 [688l]:https://leetcode.com/problems/knight-probability-in-chessboard/
