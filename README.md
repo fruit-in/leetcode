@@ -785,6 +785,7 @@
 [1033][1033l]|[Moving Stones Until Consecutive][1033]                                               |![rb]&nbsp;&nbsp;![rs]
 [1034][1034l]|[Coloring A Border][1034]                                                             |![rs]
 [1035][1035l]|[Uncrossed Lines][1035]                                                               |![rs]
+[1036][1036l]|[Escape a Large Maze][1036]                                                           |![rs]
 [1037][1037l]|[Valid Boomerang][1037]                                                               |![rs]
 [1038][1038l]|[Binary Search Tree to Greater Sum Tree][1038]                                        |![py]
 [1039][1039l]|[Minimum Score Triangulation of Polygon][1039]                                        |![py]
@@ -2662,6 +2663,7 @@
 [1033]:Problemset/1033-Moving%20Stones%20Until%20Consecutive/README.md#1033-moving-stones-until-consecutive
 [1034]:Problemset/1034-Coloring%20A%20Border/README.md#1034-coloring-a-border
 [1035]:Problemset/1035-Uncrossed%20Lines/README.md#1035-uncrossed-lines
+[1036]:Problemset/1036-Escape%20a%20Large%20Maze/README.md#1036-escape-a-large-maze
 [1037]:Problemset/1037-Valid%20Boomerang/README.md#1037-valid-boomerang
 [1038]:Problemset/1038-Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree/README.md#1038-binary-search-tree-to-greater-sum-tree
 [1039]:Problemset/1039-Minimum%20Score%20Triangulation%20of%20Polygon/README.md#1039-minimum-score-triangulation-of-polygon
@@ -4533,6 +4535,7 @@
 [1033l]:https://leetcode.com/problems/moving-stones-until-consecutive/
 [1034l]:https://leetcode.com/problems/coloring-a-border/
 [1035l]:https://leetcode.com/problems/uncrossed-lines/
+[1036l]:https://leetcode.com/problems/escape-a-large-maze/
 [1037l]:https://leetcode.com/problems/valid-boomerang/
 [1038l]:https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
 [1039l]:https://leetcode.com/problems/minimum-score-triangulation-of-polygon/

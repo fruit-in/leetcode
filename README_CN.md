@@ -785,6 +785,7 @@
 [1033][1033l]|[移动石子直到连续][1033]                                  |![rb]&nbsp;&nbsp;![rs]
 [1034][1034l]|[边界着色][1034]                                          |![rs]
 [1035][1035l]|[不相交的线][1035]                                        |![rs]
+[1036][1036l]|[逃离大迷宫][1036]                                        |![rs]
 [1037][1037l]|[有效的回旋镖][1037]                                      |![rs]
 [1038][1038l]|[从二叉搜索树到更大和树][1038]                            |![py]
 [1039][1039l]|[多边形三角剖分的最低得分][1039]                          |![py]
@@ -2662,6 +2663,7 @@
 [1033]:Problemset/1033-Moving%20Stones%20Until%20Consecutive/README_CN.md#1033-移动石子直到连续
 [1034]:Problemset/1034-Coloring%20A%20Border/README_CN.md#1034-边界着色
 [1035]:Problemset/1035-Uncrossed%20Lines/README_CN.md#1035-不相交的线
+[1036]:Problemset/1036-Escape%20a%20Large%20Maze/README_CN.md#1036-逃离大迷宫
 [1037]:Problemset/1037-Valid%20Boomerang/README_CN.md#1037-有效的回旋镖
 [1038]:Problemset/1038-Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree/README_CN.md#1038-从二叉搜索树到更大和树
 [1039]:Problemset/1039-Minimum%20Score%20Triangulation%20of%20Polygon/README_CN.md#1039-多边形三角剖分的最低得分
@@ -4533,6 +4535,7 @@
 [1033l]:https://leetcode.cn/problems/moving-stones-until-consecutive/
 [1034l]:https://leetcode.cn/problems/coloring-a-border/
 [1035l]:https://leetcode.cn/problems/uncrossed-lines/
+[1036l]:https://leetcode.cn/problems/escape-a-large-maze/
 [1037l]:https://leetcode.cn/problems/valid-boomerang/
 [1038l]:https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/
 [1039l]:https://leetcode.cn/problems/minimum-score-triangulation-of-polygon/
