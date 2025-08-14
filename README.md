@@ -1619,6 +1619,7 @@
 [2278][2278l]|[Percentage of Letter in String][2278]                                                |![rs]
 [2279][2279l]|[Maximum Bags With Full Capacity of Rocks][2279]                                      |![rs]
 [2280][2280l]|[Minimum Lines to Represent a Line Chart][2280]                                       |![rs]
+[2281][2281l]|[Sum of Total Strength of Wizards][2281]                                              |![rs]
 [2283][2283l]|[Check if Number Has Equal Digit Count and Digit Value][2283]                         |![rs]
 [2284][2284l]|[Sender With Largest Word Count][2284]                                                |![py]
 [2285][2285l]|[Maximum Total Importance of Roads][2285]                                             |![rs]
@@ -3497,6 +3498,7 @@
 [2278]:Problemset/2278-Percentage%20of%20Letter%20in%20String/README.md#2278-percentage-of-letter-in-string
 [2279]:Problemset/2279-Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/README.md#2279-maximum-bags-with-full-capacity-of-rocks
 [2280]:Problemset/2280-Minimum%20Lines%20to%20Represent%20a%20Line%20Chart/README.md#2280-minimum-lines-to-represent-a-line-chart
+[2281]:Problemset/2281-Sum%20of%20Total%20Strength%20of%20Wizards/README.md#2281-sum-of-total-strength-of-wizards
 [2283]:Problemset/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README.md#2283-check-if-number-has-equal-digit-count-and-digit-value
 [2284]:Problemset/2284-Sender%20With%20Largest%20Word%20Count/README.md#2284-sender-with-largest-word-count
 [2285]:Problemset/2285-Maximum%20Total%20Importance%20of%20Roads/README.md#2285-maximum-total-importance-of-roads
@@ -5369,6 +5371,7 @@
 [2278l]:https://leetcode.com/problems/percentage-of-letter-in-string/
 [2279l]:https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
 [2280l]:https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/
+[2281l]:https://leetcode.com/problems/sum-of-total-strength-of-wizards/
 [2283l]:https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2284l]:https://leetcode.com/problems/sender-with-largest-word-count/
 [2285l]:https://leetcode.com/problems/maximum-total-importance-of-roads/

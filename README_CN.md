@@ -1619,6 +1619,7 @@
 [2278][2278l]|[字母在字符串中的百分比][2278]                            |![rs]
 [2279][2279l]|[装满石头的背包的最大数量][2279]                          |![rs]
 [2280][2280l]|[表示一个折线图的最少线段数][2280]                        |![rs]
+[2281][2281l]|[巫师的总力量和][2281]                                    |![rs]
 [2283][2283l]|[判断一个数的数字计数是否等于数位的值][2283]              |![rs]
 [2284][2284l]|[最多单词数的发件人][2284]                                |![py]
 [2285][2285l]|[道路的最大总重要性][2285]                                |![rs]
@@ -3497,6 +3498,7 @@
 [2278]:Problemset/2278-Percentage%20of%20Letter%20in%20String/README_CN.md#2278-字母在字符串中的百分比
 [2279]:Problemset/2279-Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/README_CN.md#2279-装满石头的背包的最大数量
 [2280]:Problemset/2280-Minimum%20Lines%20to%20Represent%20a%20Line%20Chart/README_CN.md#2280-表示一个折线图的最少线段数
+[2281]:Problemset/2281-Sum%20of%20Total%20Strength%20of%20Wizards/README_CN.md#2281-巫师的总力量和
 [2283]:Problemset/2283-Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/README_CN.md#2283-判断一个数的数字计数是否等于数位的值
 [2284]:Problemset/2284-Sender%20With%20Largest%20Word%20Count/README_CN.md#2284-最多单词数的发件人
 [2285]:Problemset/2285-Maximum%20Total%20Importance%20of%20Roads/README_CN.md#2285-道路的最大总重要性
@@ -5369,6 +5371,7 @@
 [2278l]:https://leetcode.cn/problems/percentage-of-letter-in-string/
 [2279l]:https://leetcode.cn/problems/maximum-bags-with-full-capacity-of-rocks/
 [2280l]:https://leetcode.cn/problems/minimum-lines-to-represent-a-line-chart/
+[2281l]:https://leetcode.cn/problems/sum-of-total-strength-of-wizards/
 [2283l]:https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2284l]:https://leetcode.cn/problems/sender-with-largest-word-count/
 [2285l]:https://leetcode.cn/problems/maximum-total-importance-of-roads/
