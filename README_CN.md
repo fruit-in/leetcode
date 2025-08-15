@@ -489,6 +489,7 @@
 [679][679l]  |[24 点游戏][679]                                          |![py]
 [680][680l]  |[验证回文字符串 Ⅱ][680]                                   |![py]
 [682][682l]  |[棒球比赛][682]                                           |![py]
+[684][684l]  |[冗余连接][684]                                           |![rs]
 [685][685l]  |[冗余连接 II][685]                                        |![rs]
 [686][686l]  |[重复叠加字符串匹配][686]                                 |![py]
 [687][687l]  |[最长同值路径][687]                                       |![py]
@@ -2368,6 +2369,7 @@
 [679]:Problemset/0679-24%20Game/README_CN.md#679-24-点游戏
 [680]:Problemset/0680-Valid%20Palindrome%20II/README_CN.md#680-验证回文字符串-ii
 [682]:Problemset/0682-Baseball%20Game/README_CN.md#682-棒球比赛
+[684]:Problemset/0684-Redundant%20Connection/README_CN.md#684-冗余连接
 [685]:Problemset/0685-Redundant%20Connection%20II/README_CN.md#685-冗余连接-ii
 [686]:Problemset/0686-Repeated%20String%20Match/README_CN.md#686-重复叠加字符串匹配
 [687]:Problemset/0687-Longest%20Univalue%20Path/README_CN.md#687-最长同值路径
@@ -4241,6 +4243,7 @@
 [679l]:https://leetcode.cn/problems/24-game/
 [680l]:https://leetcode.cn/problems/valid-palindrome-ii/
 [682l]:https://leetcode.cn/problems/baseball-game/
+[684l]:https://leetcode.cn/problems/redundant-connection/
 [685l]:https://leetcode.cn/problems/redundant-connection-ii/
 [686l]:https://leetcode.cn/problems/repeated-string-match/
 [687l]:https://leetcode.cn/problems/longest-univalue-path/
