@@ -1490,6 +1490,7 @@
 [2101][2101l]|[Detonate the Maximum Bombs][2101]                                                    |![rs]
 [2102][2102l]|[Sequentially Ordinal Rank Tracker][2102]                                             |![py]
 [2103][2103l]|[Rings and Rods][2103]                                                                |![rs]
+[2104][2104l]|[Sum of Subarray Ranges][2104]                                                        |![rs]
 [2105][2105l]|[Watering Plants II][2105]                                                            |![rs]
 [2106][2106l]|[Maximum Fruits Harvested After at Most K Steps][2106]                                |![rs]
 [2108][2108l]|[Find First Palindromic String in the Array][2108]                                    |![rs]
@@ -3370,6 +3371,7 @@
 [2101]:Problemset/2101-Detonate%20the%20Maximum%20Bombs/README.md#2101-detonate-the-maximum-bombs
 [2102]:Problemset/2102-Sequentially%20Ordinal%20Rank%20Tracker/README.md#2102-sequentially-ordinal-rank-tracker
 [2103]:Problemset/2103-Rings%20and%20Rods/README.md#2103-rings-and-rods
+[2104]:Problemset/2104-Sum%20of%20Subarray%20Ranges/README.md#2104-sum-of-subarray-ranges
 [2105]:Problemset/2105-Watering%20Plants%20II/README.md#2105-watering-plants-ii
 [2106]:Problemset/2106-Maximum%20Fruits%20Harvested%20After%20at%20Most%20K%20Steps/README.md#2106-maximum-fruits-harvested-after-at-most-k-steps
 [2108]:Problemset/2108-Find%20First%20Palindromic%20String%20in%20the%20Array/README.md#2108-find-first-palindromic-string-in-the-array
@@ -5244,6 +5246,7 @@
 [2101l]:https://leetcode.com/problems/detonate-the-maximum-bombs/
 [2102l]:https://leetcode.com/problems/sequentially-ordinal-rank-tracker/
 [2103l]:https://leetcode.com/problems/rings-and-rods/
+[2104l]:https://leetcode.com/problems/sum-of-subarray-ranges/
 [2105l]:https://leetcode.com/problems/watering-plants-ii/
 [2106l]:https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/
 [2108l]:https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
