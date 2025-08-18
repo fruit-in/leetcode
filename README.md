@@ -1361,6 +1361,7 @@
 [1911][1911l]|[Maximum Alternating Subsequence Sum][1911]                                           |![rs]
 [1912][1912l]|[Design Movie Rental System][1912]                                                    |![rs]
 [1913][1913l]|[Maximum Product Difference Between Two Pairs][1913]                                  |![rs]
+[1914][1914l]|[Cyclically Rotating a Grid][1914]                                                    |![rs]
 [1915][1915l]|[Number of Wonderful Substrings][1915]                                                |![rs]
 [1916][1916l]|[Count Ways to Build Rooms in an Ant Colony][1916]                                    |![py]
 [1920][1920l]|[Build Array from Permutation][1920]                                                  |![rs]
@@ -3242,6 +3243,7 @@
 [1911]:Problemset/1911-Maximum%20Alternating%20Subsequence%20Sum/README.md#1911-maximum-alternating-subsequence-sum
 [1912]:Problemset/1912-Design%20Movie%20Rental%20System/README.md#1912-design-movie-rental-system
 [1913]:Problemset/1913-Maximum%20Product%20Difference%20Between%20Two%20Pairs/README.md#1913-maximum-product-difference-between-two-pairs
+[1914]:Problemset/1914-Cyclically%20Rotating%20a%20Grid/README.md#1914-cyclically-rotating-a-grid
 [1915]:Problemset/1915-Number%20of%20Wonderful%20Substrings/README.md#1915-number-of-wonderful-substrings
 [1916]:Problemset/1916-Count%20Ways%20to%20Build%20Rooms%20in%20an%20Ant%20Colony/README.md#1916-count-ways-to-build-rooms-in-an-ant-colony
 [1920]:Problemset/1920-Build%20Array%20from%20Permutation/README.md#1920-build-array-from-permutation
@@ -5117,6 +5119,7 @@
 [1911l]:https://leetcode.com/problems/maximum-alternating-subsequence-sum/
 [1912l]:https://leetcode.com/problems/design-movie-rental-system/
 [1913l]:https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
+[1914l]:https://leetcode.com/problems/cyclically-rotating-a-grid/
 [1915l]:https://leetcode.com/problems/number-of-wonderful-substrings/
 [1916l]:https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/
 [1920l]:https://leetcode.com/problems/build-array-from-permutation/
