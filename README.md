@@ -1726,6 +1726,7 @@
 [2418][2418l]|[Sort the People][2418]                                                               |![rs]
 [2419][2419l]|[Longest Subarray With Maximum Bitwise AND][2419]                                     |![rs]
 [2420][2420l]|[Find All Good Indices][2420]                                                         |![rs]
+[2421][2421l]|[Number of Good Paths][2421]                                                          |![py]
 [2423][2423l]|[Remove Letter To Equalize Frequency][2423]                                           |![rs]
 [2424][2424l]|[Longest Uploaded Prefix][2424]                                                       |![rs]
 [2425][2425l]|[Bitwise XOR of All Pairings][2425]                                                   |![rs]
@@ -3610,6 +3611,7 @@
 [2418]:Problemset/2418-Sort%20the%20People/README.md#2418-sort-the-people
 [2419]:Problemset/2419-Longest%20Subarray%20With%20Maximum%20Bitwise%20AND/README.md#2419-longest-subarray-with-maximum-bitwise-and
 [2420]:Problemset/2420-Find%20All%20Good%20Indices/README.md#2420-find-all-good-indices
+[2421]:Problemset/2421-Number%20of%20Good%20Paths/README.md#2421-number-of-good-paths
 [2423]:Problemset/2423-Remove%20Letter%20To%20Equalize%20Frequency/README.md#2423-remove-letter-to-equalize-frequency
 [2424]:Problemset/2424-Longest%20Uploaded%20Prefix/README.md#2424-longest-uploaded-prefix
 [2425]:Problemset/2425-Bitwise%20XOR%20of%20All%20Pairings/README.md#2425-bitwise-xor-of-all-pairings
@@ -5488,6 +5490,7 @@
 [2418l]:https://leetcode.com/problems/sort-the-people/
 [2419l]:https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/
 [2420l]:https://leetcode.com/problems/find-all-good-indices/
+[2421l]:https://leetcode.com/problems/number-of-good-paths/
 [2423l]:https://leetcode.com/problems/remove-letter-to-equalize-frequency/
 [2424l]:https://leetcode.com/problems/longest-uploaded-prefix/
 [2425l]:https://leetcode.com/problems/bitwise-xor-of-all-pairings/

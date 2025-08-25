@@ -1726,6 +1726,7 @@
 [2418][2418l]|[按身高排序][2418]                                        |![rs]
 [2419][2419l]|[按位与最大的最长子数组][2419]                            |![rs]
 [2420][2420l]|[找到所有好下标][2420]                                    |![rs]
+[2421][2421l]|[好路径的数目][2421]                                      |![py]
 [2423][2423l]|[删除字符使频率相同][2423]                                |![rs]
 [2424][2424l]|[最长上传前缀][2424]                                      |![rs]
 [2425][2425l]|[所有数对的异或和][2425]                                  |![rs]
@@ -3610,6 +3611,7 @@
 [2418]:Problemset/2418-Sort%20the%20People/README_CN.md#2418-按身高排序
 [2419]:Problemset/2419-Longest%20Subarray%20With%20Maximum%20Bitwise%20AND/README_CN.md#2419-按位与最大的最长子数组
 [2420]:Problemset/2420-Find%20All%20Good%20Indices/README_CN.md#2420-找到所有好下标
+[2421]:Problemset/2421-Number%20of%20Good%20Paths/README_CN.md#2421-好路径的数目
 [2423]:Problemset/2423-Remove%20Letter%20To%20Equalize%20Frequency/README_CN.md#2423-删除字符使频率相同
 [2424]:Problemset/2424-Longest%20Uploaded%20Prefix/README_CN.md#2424-最长上传前缀
 [2425]:Problemset/2425-Bitwise%20XOR%20of%20All%20Pairings/README_CN.md#2425-所有数对的异或和
@@ -5488,6 +5490,7 @@
 [2418l]:https://leetcode.cn/problems/sort-the-people/
 [2419l]:https://leetcode.cn/problems/longest-subarray-with-maximum-bitwise-and/
 [2420l]:https://leetcode.cn/problems/find-all-good-indices/
+[2421l]:https://leetcode.cn/problems/number-of-good-paths/
 [2423l]:https://leetcode.cn/problems/remove-letter-to-equalize-frequency/
 [2424l]:https://leetcode.cn/problems/longest-uploaded-prefix/
 [2425l]:https://leetcode.cn/problems/bitwise-xor-of-all-pairings/
