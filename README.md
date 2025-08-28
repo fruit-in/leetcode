@@ -1844,6 +1844,7 @@
 [2570][2570l]|[Merge Two 2D Arrays by Summing Values][2570]                                         |![rs]
 [2571][2571l]|[Minimum Operations to Reduce an Integer to 0][2571]                                  |![rs]
 [2572][2572l]|[Count the Number of Square-Free Subsets][2572]                                       |![rs]
+[2573][2573l]|[Find the String with LCP][2573]                                                      |![rs]
 [2574][2574l]|[Left and Right Sum Differences][2574]                                                |![rs]
 [2575][2575l]|[Find the Divisibility Array of a String][2575]                                       |![rs]
 [2576][2576l]|[Find the Maximum Number of Marked Indices][2576]                                     |![py]
@@ -3729,6 +3730,7 @@
 [2570]:Problemset/2570-Merge%20Two%202D%20Arrays%20by%20Summing%20Values/README.md#2570-merge-two-2d-arrays-by-summing-values
 [2571]:Problemset/2571-Minimum%20Operations%20to%20Reduce%20an%20Integer%20to%200/README.md#2571-minimum-operations-to-reduce-an-integer-to-0
 [2572]:Problemset/2572-Count%20the%20Number%20of%20Square-Free%20Subsets/README.md#2572-count-the-number-of-square-free-subsets
+[2573]:Problemset/2573-Find%20the%20String%20with%20LCP/README.md#2573-find-the-string-with-lcp
 [2574]:Problemset/2574-Left%20and%20Right%20Sum%20Differences/README.md#2574-left-and-right-sum-differences
 [2575]:Problemset/2575-Find%20the%20Divisibility%20Array%20of%20a%20String/README.md#2575-find-the-divisibility-array-of-a-string
 [2576]:Problemset/2576-Find%20the%20Maximum%20Number%20of%20Marked%20Indices/README.md#2576-find-the-maximum-number-of-marked-indices
@@ -5608,6 +5610,7 @@
 [2570l]:https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
 [2571l]:https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/
 [2572l]:https://leetcode.com/problems/count-the-number-of-square-free-subsets/
+[2573l]:https://leetcode.com/problems/find-the-string-with-lcp/
 [2574l]:https://leetcode.com/problems/left-and-right-sum-differences/
 [2575l]:https://leetcode.com/problems/find-the-divisibility-array-of-a-string/
 [2576l]:https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/

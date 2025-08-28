@@ -1844,6 +1844,7 @@
 [2570][2570l]|[合并两个二维数组 - 求和法][2570]                         |![rs]
 [2571][2571l]|[将整数减少到零需要的最少操作数][2571]                    |![rs]
 [2572][2572l]|[无平方子集计数][2572]                                    |![rs]
+[2573][2573l]|[找出对应 LCP 矩阵的字符串][2573]                         |![rs]
 [2574][2574l]|[左右元素和的差值][2574]                                  |![rs]
 [2575][2575l]|[找出字符串的可整除数组][2575]                            |![rs]
 [2576][2576l]|[求出最多标记下标][2576]                                  |![py]
@@ -3729,6 +3730,7 @@
 [2570]:Problemset/2570-Merge%20Two%202D%20Arrays%20by%20Summing%20Values/README_CN.md#2570-合并两个二维数组---求和法
 [2571]:Problemset/2571-Minimum%20Operations%20to%20Reduce%20an%20Integer%20to%200/README_CN.md#2571-将整数减少到零需要的最少操作数
 [2572]:Problemset/2572-Count%20the%20Number%20of%20Square-Free%20Subsets/README_CN.md#2572-无平方子集计数
+[2573]:Problemset/2573-Find%20the%20String%20with%20LCP/README_CN.md#2573-找出对应-lcp-矩阵的字符串
 [2574]:Problemset/2574-Left%20and%20Right%20Sum%20Differences/README_CN.md#2574-左右元素和的差值
 [2575]:Problemset/2575-Find%20the%20Divisibility%20Array%20of%20a%20String/README_CN.md#2575-找出字符串的可整除数组
 [2576]:Problemset/2576-Find%20the%20Maximum%20Number%20of%20Marked%20Indices/README_CN.md#2576-求出最多标记下标
@@ -5608,6 +5610,7 @@
 [2570l]:https://leetcode.cn/problems/merge-two-2d-arrays-by-summing-values/
 [2571l]:https://leetcode.cn/problems/minimum-operations-to-reduce-an-integer-to-0/
 [2572l]:https://leetcode.cn/problems/count-the-number-of-square-free-subsets/
+[2573l]:https://leetcode.cn/problems/find-the-string-with-lcp/
 [2574l]:https://leetcode.cn/problems/left-and-right-sum-differences/
 [2575l]:https://leetcode.cn/problems/find-the-divisibility-array-of-a-string/
 [2576l]:https://leetcode.cn/problems/find-the-maximum-number-of-marked-indices/
