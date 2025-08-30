@@ -1111,6 +1111,7 @@
 [1537][1537l]|[Get the Maximum Score][1537]                                                         |![rs]
 [1539][1539l]|[Kth Missing Positive Number][1539]                                                   |![rs]
 [1540][1540l]|[Can Convert String in K Moves][1540]                                                 |![rs]
+[1541][1541l]|[Minimum Insertions to Balance a Parentheses String][1541]                            |![rs]
 [1542][1542l]|[Find Longest Awesome Substring][1542]                                                |![rs]
 [1544][1544l]|[Make The String Great][1544]                                                         |![rb]
 [1545][1545l]|[Find Kth Bit in Nth Binary String][1545]                                             |![rs]
@@ -2998,6 +2999,7 @@
 [1537]:Problemset/1537-Get%20the%20Maximum%20Score/README.md#1537-get-the-maximum-score
 [1539]:Problemset/1539-Kth%20Missing%20Positive%20Number/README.md#1539-kth-missing-positive-number
 [1540]:Problemset/1540-Can%20Convert%20String%20in%20K%20Moves/README.md#1540-can-convert-string-in-k-moves
+[1541]:Problemset/1541-Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String/README.md#1541-minimum-insertions-to-balance-a-parentheses-string
 [1542]:Problemset/1542-Find%20Longest%20Awesome%20Substring/README.md#1542-find-longest-awesome-substring
 [1544]:Problemset/1544-Make%20The%20String%20Great/README.md#1544-make-the-string-great
 [1545]:Problemset/1545-Find%20Kth%20Bit%20in%20Nth%20Binary%20String/README.md#1545-find-kth-bit-in-nth-binary-string
@@ -4879,6 +4881,7 @@
 [1537l]:https://leetcode.com/problems/get-the-maximum-score/
 [1539l]:https://leetcode.com/problems/kth-missing-positive-number/
 [1540l]:https://leetcode.com/problems/can-convert-string-in-k-moves/
+[1541l]:https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
 [1542l]:https://leetcode.com/problems/find-longest-awesome-substring/
 [1544l]:https://leetcode.com/problems/make-the-string-great/
 [1545l]:https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/

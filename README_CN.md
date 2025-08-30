@@ -1111,6 +1111,7 @@
 [1537][1537l]|[最大得分][1537]                                          |![rs]
 [1539][1539l]|[第 k 个缺失的正整数][1539]                               |![rs]
 [1540][1540l]|[K 次操作转变字符串][1540]                                |![rs]
+[1541][1541l]|[平衡括号字符串的最少插入次数][1541]                      |![rs]
 [1542][1542l]|[找出最长的超赞子字符串][1542]                            |![rs]
 [1544][1544l]|[整理字符串][1544]                                        |![rb]
 [1545][1545l]|[找出第 N 个二进制字符串中的第 K 位][1545]                |![rs]
@@ -2998,6 +2999,7 @@
 [1537]:Problemset/1537-Get%20the%20Maximum%20Score/README_CN.md#1537-最大得分
 [1539]:Problemset/1539-Kth%20Missing%20Positive%20Number/README_CN.md#1539-第-k-个缺失的正整数
 [1540]:Problemset/1540-Can%20Convert%20String%20in%20K%20Moves/README_CN.md#1540-k-次操作转变字符串
+[1541]:Problemset/1541-Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String/README_CN.md#1541-平衡括号字符串的最少插入次数
 [1542]:Problemset/1542-Find%20Longest%20Awesome%20Substring/README_CN.md#1542-找出最长的超赞子字符串
 [1544]:Problemset/1544-Make%20The%20String%20Great/README_CN.md#1544-整理字符串
 [1545]:Problemset/1545-Find%20Kth%20Bit%20in%20Nth%20Binary%20String/README_CN.md#1545-找出第-n-个二进制字符串中的第-k-位
@@ -4879,6 +4881,7 @@
 [1537l]:https://leetcode.cn/problems/get-the-maximum-score/
 [1539l]:https://leetcode.cn/problems/kth-missing-positive-number/
 [1540l]:https://leetcode.cn/problems/can-convert-string-in-k-moves/
+[1541l]:https://leetcode.cn/problems/minimum-insertions-to-balance-a-parentheses-string/
 [1542l]:https://leetcode.cn/problems/find-longest-awesome-substring/
 [1544l]:https://leetcode.cn/problems/make-the-string-great/
 [1545l]:https://leetcode.cn/problems/find-kth-bit-in-nth-binary-string/
