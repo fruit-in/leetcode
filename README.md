@@ -695,6 +695,7 @@
 [925][925l]  |[Long Pressed Name][925]                                                              |![py]
 [926][926l]  |[Flip String to Monotone Increasing][926]                                             |![rs]
 [927][927l]  |[Three Equal Parts][927]                                                              |![rs]
+[928][928l]  |[Minimize Malware Spread II][928]                                                     |![rs]
 [929][929l]  |[Unique Email Addresses][929]                                                         |![py]&nbsp;&nbsp;![rb]
 [930][930l]  |[Binary Subarrays With Sum][930]                                                      |![rs]
 [931][931l]  |[Minimum Falling Path Sum][931]                                                       |![rs]
@@ -2583,6 +2584,7 @@
 [925]:Problemset/0925-Long%20Pressed%20Name/README.md#925-long-pressed-name
 [926]:Problemset/0926-Flip%20String%20to%20Monotone%20Increasing/README.md#926-flip-string-to-monotone-increasing
 [927]:Problemset/0927-Three%20Equal%20Parts/README.md#927-three-equal-parts
+[928]:Problemset/0928-Minimize%20Malware%20Spread%20II/README.md#928-minimize-malware-spread-ii
 [929]:Problemset/0929-Unique%20Email%20Addresses/README.md#929-unique-email-addresses
 [930]:Problemset/0930-Binary%20Subarrays%20With%20Sum/README.md#930-binary-subarrays-with-sum
 [931]:Problemset/0931-Minimum%20Falling%20Path%20Sum/README.md#931-minimum-falling-path-sum
@@ -4465,6 +4467,7 @@
 [925l]:https://leetcode.com/problems/long-pressed-name/
 [926l]:https://leetcode.com/problems/flip-string-to-monotone-increasing/
 [927l]:https://leetcode.com/problems/three-equal-parts/
+[928l]:https://leetcode.com/problems/minimize-malware-spread-ii/
 [929l]:https://leetcode.com/problems/unique-email-addresses/
 [930l]:https://leetcode.com/problems/binary-subarrays-with-sum/
 [931l]:https://leetcode.com/problems/minimum-falling-path-sum/
