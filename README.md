@@ -1784,6 +1784,7 @@
 [2488][2488l]|[Count Subarrays With Median K][2488]                                                 |![rs]
 [2490][2490l]|[Circular Sentence][2490]                                                             |![py]
 [2491][2491l]|[Divide Players Into Teams of Equal Skill][2491]                                      |![rs]
+[2492][2492l]|[Minimum Score of a Path Between Two Cities][2492]                                    |![rs]
 [2493][2493l]|[Divide Nodes Into the Maximum Number of Groups][2493]                                |![py]
 [2496][2496l]|[Maximum Value of a String in an Array][2496]                                         |![rs]
 [2497][2497l]|[Maximum Star Sum of a Graph][2497]                                                   |![rs]
@@ -3673,6 +3674,7 @@
 [2488]:Problemset/2488-Count%20Subarrays%20With%20Median%20K/README.md#2488-count-subarrays-with-median-k
 [2490]:Problemset/2490-Circular%20Sentence/README.md#2490-circular-sentence
 [2491]:Problemset/2491-Divide%20Players%20Into%20Teams%20of%20Equal%20Skill/README.md#2491-divide-players-into-teams-of-equal-skill
+[2492]:Problemset/2492-Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities/README.md#2492-minimum-score-of-a-path-between-two-cities
 [2493]:Problemset/2493-Divide%20Nodes%20Into%20the%20Maximum%20Number%20of%20Groups/README.md#2493-divide-nodes-into-the-maximum-number-of-groups
 [2496]:Problemset/2496-Maximum%20Value%20of%20a%20String%20in%20an%20Array/README.md#2496-maximum-value-of-a-string-in-an-array
 [2497]:Problemset/2497-Maximum%20Star%20Sum%20of%20a%20Graph/README.md#2497-maximum-star-sum-of-a-graph
@@ -5556,6 +5558,7 @@
 [2488l]:https://leetcode.com/problems/count-subarrays-with-median-k/
 [2490l]:https://leetcode.com/problems/circular-sentence/
 [2491l]:https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/
+[2492l]:https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/
 [2493l]:https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/
 [2496l]:https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 [2497l]:https://leetcode.com/problems/maximum-star-sum-of-a-graph/
