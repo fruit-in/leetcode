@@ -1278,6 +1278,7 @@
 [1782][1782l]|[Count Pairs Of Nodes][1782]                                                          |![py]
 [1784][1784l]|[Check if Binary String Has at Most One Segment of Ones][1784]                        |![rb]&nbsp;&nbsp;![rs]
 [1785][1785l]|[Minimum Elements to Add to Form a Given Sum][1785]                                   |![rb]&nbsp;&nbsp;![rs]
+[1786][1786l]|[Number of Restricted Paths From First to Last Node][1786]                            |![rs]
 [1790][1790l]|[Check if One String Swap Can Make Strings Equal][1790]                               |![rs]
 [1791][1791l]|[Find Center of Star Graph][1791]                                                     |![rb]&nbsp;&nbsp;![rs]
 [1792][1792l]|[Maximum Average Pass Ratio][1792]                                                    |![py]
@@ -3168,6 +3169,7 @@
 [1782]:Problemset/1782-Count%20Pairs%20Of%20Nodes/README.md#1782-count-pairs-of-nodes
 [1784]:Problemset/1784-Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/README.md#1784-check-if-binary-string-has-at-most-one-segment-of-ones
 [1785]:Problemset/1785-Minimum%20Elements%20to%20Add%20to%20Form%20a%20Given%20Sum/README.md#1785-minimum-elements-to-add-to-form-a-given-sum
+[1786]:Problemset/1786-Number%20of%20Restricted%20Paths%20From%20First%20to%20Last%20Node/README.md#1786-number-of-restricted-paths-from-first-to-last-node
 [1790]:Problemset/1790-Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/README.md#1790-check-if-one-string-swap-can-make-strings-equal
 [1791]:Problemset/1791-Find%20Center%20of%20Star%20Graph/README.md#1791-find-center-of-star-graph
 [1792]:Problemset/1792-Maximum%20Average%20Pass%20Ratio/README.md#1792-maximum-average-pass-ratio
@@ -5052,6 +5054,7 @@
 [1782l]:https://leetcode.com/problems/count-pairs-of-nodes/
 [1784l]:https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 [1785l]:https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/
+[1786l]:https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/
 [1790l]:https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 [1791l]:https://leetcode.com/problems/find-center-of-star-graph/
 [1792l]:https://leetcode.com/problems/maximum-average-pass-ratio/

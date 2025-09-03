@@ -1278,6 +1278,7 @@
 [1782][1782l]|[统计点对的数目][1782]                                    |![py]
 [1784][1784l]|[检查二进制字符串字段][1784]                              |![rb]&nbsp;&nbsp;![rs]
 [1785][1785l]|[构成特定和需要添加的最少元素][1785]                      |![rb]&nbsp;&nbsp;![rs]
+[1786][1786l]|[从第一个节点出发到最后一个节点的受限路径数][1786]        |![rs]
 [1790][1790l]|[仅执行一次字符串交换能否使两个字符串相等][1790]          |![rs]
 [1791][1791l]|[找出星型图的中心节点][1791]                              |![rb]&nbsp;&nbsp;![rs]
 [1792][1792l]|[最大平均通过率][1792]                                    |![py]
@@ -3168,6 +3169,7 @@
 [1782]:Problemset/1782-Count%20Pairs%20Of%20Nodes/README_CN.md#1782-统计点对的数目
 [1784]:Problemset/1784-Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/README_CN.md#1784-检查二进制字符串字段
 [1785]:Problemset/1785-Minimum%20Elements%20to%20Add%20to%20Form%20a%20Given%20Sum/README_CN.md#1785-构成特定和需要添加的最少元素
+[1786]:Problemset/1786-Number%20of%20Restricted%20Paths%20From%20First%20to%20Last%20Node/README_CN.md#1786-从第一个节点出发到最后一个节点的受限路径数
 [1790]:Problemset/1790-Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/README_CN.md#1790-仅执行一次字符串交换能否使两个字符串相等
 [1791]:Problemset/1791-Find%20Center%20of%20Star%20Graph/README_CN.md#1791-找出星型图的中心节点
 [1792]:Problemset/1792-Maximum%20Average%20Pass%20Ratio/README_CN.md#1792-最大平均通过率
@@ -5052,6 +5054,7 @@
 [1782l]:https://leetcode.cn/problems/count-pairs-of-nodes/
 [1784l]:https://leetcode.cn/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 [1785l]:https://leetcode.cn/problems/minimum-elements-to-add-to-form-a-given-sum/
+[1786l]:https://leetcode.cn/problems/number-of-restricted-paths-from-first-to-last-node/
 [1790l]:https://leetcode.cn/problems/check-if-one-string-swap-can-make-strings-equal/
 [1791l]:https://leetcode.cn/problems/find-center-of-star-graph/
 [1792l]:https://leetcode.cn/problems/maximum-average-pass-ratio/
