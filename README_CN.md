@@ -654,6 +654,7 @@
 [879][879l]  |[盈利计划][879]                                           |![rs]
 [880][880l]  |[索引处的解码字符串][880]                                 |![rs]
 [881][881l]  |[救生艇][881]                                             |![rb]
+[882][882l]  |[细分图中的可到达节点][882]                               |![rs]
 [883][883l]  |[三维形体投影面积][883]                                   |![rs]
 [884][884l]  |[两句话中的不常见单词][884]                               |![py]
 [885][885l]  |[螺旋矩阵 III][885]                                       |![rs]
@@ -2545,6 +2546,7 @@
 [879]:Problemset/0879-Profitable%20Schemes/README_CN.md#879-盈利计划
 [880]:Problemset/0880-Decoded%20String%20at%20Index/README_CN.md#880-索引处的解码字符串
 [881]:Problemset/0881-Boats%20to%20Save%20People/README_CN.md#881-救生艇
+[882]:Problemset/0882-Reachable%20Nodes%20In%20Subdivided%20Graph/README_CN.md#882-细分图中的可到达节点
 [883]:Problemset/0883-Projection%20Area%20of%203D%20Shapes/README_CN.md#883-三维形体投影面积
 [884]:Problemset/0884-Uncommon%20Words%20from%20Two%20Sentences/README_CN.md#884-两句话中的不常见单词
 [885]:Problemset/0885-Spiral%20Matrix%20III/README_CN.md#885-螺旋矩阵-iii
@@ -4430,6 +4432,7 @@
 [879l]:https://leetcode.cn/problems/profitable-schemes/
 [880l]:https://leetcode.cn/problems/decoded-string-at-index/
 [881l]:https://leetcode.cn/problems/boats-to-save-people/
+[882l]:https://leetcode.cn/problems/reachable-nodes-in-subdivided-graph/
 [883l]:https://leetcode.cn/problems/projection-area-of-3d-shapes/
 [884l]:https://leetcode.cn/problems/uncommon-words-from-two-sentences/
 [885l]:https://leetcode.cn/problems/spiral-matrix-iii/
