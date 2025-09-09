@@ -1708,6 +1708,7 @@
 [2389][2389l]|[Longest Subsequence With Limited Sum][2389]                                          |![rs]
 [2390][2390l]|[Removing Stars From a String][2390]                                                  |![rs]
 [2391][2391l]|[Minimum Amount of Time to Collect Garbage][2391]                                     |![rs]
+[2392][2392l]|[Build a Matrix With Conditions][2392]                                                |![rs]
 [2395][2395l]|[Find Subarrays With Equal Sum][2395]                                                 |![rs]
 [2396][2396l]|[Strictly Palindromic Number][2396]                                                   |![rs]
 [2397][2397l]|[Maximum Rows Covered by Columns][2397]                                               |![rs]
@@ -3600,6 +3601,7 @@
 [2389]:Problemset/2389-Longest%20Subsequence%20With%20Limited%20Sum/README.md#2389-longest-subsequence-with-limited-sum
 [2390]:Problemset/2390-Removing%20Stars%20From%20a%20String/README.md#2390-removing-stars-from-a-string
 [2391]:Problemset/2391-Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage/README.md#2391-minimum-amount-of-time-to-collect-garbage
+[2392]:Problemset/2392-Build%20a%20Matrix%20With%20Conditions/README.md#2392-build-a-matrix-with-conditions
 [2395]:Problemset/2395-Find%20Subarrays%20With%20Equal%20Sum/README.md#2395-find-subarrays-with-equal-sum
 [2396]:Problemset/2396-Strictly%20Palindromic%20Number/README.md#2396-strictly-palindromic-number
 [2397]:Problemset/2397-Maximum%20Rows%20Covered%20by%20Columns/README.md#2397-maximum-rows-covered-by-columns
@@ -5486,6 +5488,7 @@
 [2389l]:https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 [2390l]:https://leetcode.com/problems/removing-stars-from-a-string/
 [2391l]:https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
+[2392l]:https://leetcode.com/problems/build-a-matrix-with-conditions/
 [2395l]:https://leetcode.com/problems/find-subarrays-with-equal-sum/
 [2396l]:https://leetcode.com/problems/strictly-palindromic-number/
 [2397l]:https://leetcode.com/problems/maximum-rows-covered-by-columns/

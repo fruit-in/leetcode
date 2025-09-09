@@ -1708,6 +1708,7 @@
 [2389][2389l]|[和有限的最长子序列][2389]                                |![rs]
 [2390][2390l]|[从字符串中移除星号][2390]                                |![rs]
 [2391][2391l]|[收集垃圾的最少总时间][2391]                              |![rs]
+[2392][2392l]|[给定条件下构造矩阵][2392]                                |![rs]
 [2395][2395l]|[和相等的子数组][2395]                                    |![rs]
 [2396][2396l]|[严格回文的数字][2396]                                    |![rs]
 [2397][2397l]|[被列覆盖的最多行数][2397]                                |![rs]
@@ -3600,6 +3601,7 @@
 [2389]:Problemset/2389-Longest%20Subsequence%20With%20Limited%20Sum/README_CN.md#2389-和有限的最长子序列
 [2390]:Problemset/2390-Removing%20Stars%20From%20a%20String/README_CN.md#2390-从字符串中移除星号
 [2391]:Problemset/2391-Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage/README_CN.md#2391-收集垃圾的最少总时间
+[2392]:Problemset/2392-Build%20a%20Matrix%20With%20Conditions/README_CN.md#2392-给定条件下构造矩阵
 [2395]:Problemset/2395-Find%20Subarrays%20With%20Equal%20Sum/README_CN.md#2395-和相等的子数组
 [2396]:Problemset/2396-Strictly%20Palindromic%20Number/README_CN.md#2396-严格回文的数字
 [2397]:Problemset/2397-Maximum%20Rows%20Covered%20by%20Columns/README_CN.md#2397-被列覆盖的最多行数
