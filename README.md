@@ -658,6 +658,7 @@
 [883][883l]  |[Projection Area of 3D Shapes][883]                                                   |![rs]
 [884][884l]  |[Uncommon Words from Two Sentences][884]                                              |![py]
 [885][885l]  |[Spiral Matrix III][885]                                                              |![rs]
+[886][886l]  |[Possible Bipartition][886]                                                           |![rs]
 [888][888l]  |[Fair Candy Swap][888]                                                                |![rs]
 [889][889l]  |[Construct Binary Tree from Preorder and Postorder Traversal][889]                    |![py]
 [890][890l]  |[Find and Replace Pattern][890]                                                       |![py]
@@ -2551,6 +2552,7 @@
 [883]:Problemset/0883-Projection%20Area%20of%203D%20Shapes/README.md#883-projection-area-of-3d-shapes
 [884]:Problemset/0884-Uncommon%20Words%20from%20Two%20Sentences/README.md#884-uncommon-words-from-two-sentences
 [885]:Problemset/0885-Spiral%20Matrix%20III/README.md#885-spiral-matrix-iii
+[886]:Problemset/0886-Possible%20Bipartition/README.md#886-possible-bipartition
 [888]:Problemset/0888-Fair%20Candy%20Swap/README.md#888-fair-candy-swap
 [889]:Problemset/0889-Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal/README.md#889-construct-binary-tree-from-preorder-and-postorder-traversal
 [890]:Problemset/0890-Find%20and%20Replace%20Pattern/README.md#890-find-and-replace-pattern
@@ -4438,6 +4440,7 @@
 [883l]:https://leetcode.com/problems/projection-area-of-3d-shapes/
 [884l]:https://leetcode.com/problems/uncommon-words-from-two-sentences/
 [885l]:https://leetcode.com/problems/spiral-matrix-iii/
+[886l]:https://leetcode.com/problems/possible-bipartition/
 [888l]:https://leetcode.com/problems/fair-candy-swap/
 [889l]:https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 [890l]:https://leetcode.com/problems/find-and-replace-pattern/
