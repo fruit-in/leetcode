@@ -1081,6 +1081,7 @@
 [1486][1486l]|[XOR Operation in an Array][1486]                                                     |![rb]&nbsp;&nbsp;![rs]
 [1487][1487l]|[Making File Names Unique][1487]                                                      |![rb]
 [1488][1488l]|[Avoid Flood in The City][1488]                                                       |![rs]
+[1489][1489l]|[Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree][1489]              |![py]
 [1491][1491l]|[Average Salary Excluding the Minimum and Maximum Salary][1491]                       |![rb]&nbsp;&nbsp;![rs]
 [1492][1492l]|[The kth Factor of n][1492]                                                           |![py]&nbsp;&nbsp;![rb]&nbsp;&nbsp;![rs]
 [1493][1493l]|[Longest Subarray of 1's After Deleting One Element][1493]                            |![rb]&nbsp;&nbsp;![rs]
@@ -2976,6 +2977,7 @@
 [1486]:Problemset/1486-XOR%20Operation%20in%20an%20Array/README.md#1486-xor-operation-in-an-array
 [1487]:Problemset/1487-Making%20File%20Names%20Unique/README.md#1487-making-file-names-unique
 [1488]:Problemset/1488-Avoid%20Flood%20in%20The%20City/README.md#1488-avoid-flood-in-the-city
+[1489]:Problemset/1489-Find%20Critical%20and%20Pseudo-Critical%20Edges%20in%20Minimum%20Spanning%20Tree/README.md#1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree
 [1491]:Problemset/1491-Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README.md#1491-average-salary-excluding-the-minimum-and-maximum-salary
 [1492]:Problemset/1492-The%20kth%20Factor%20of%20n/README.md#1492-the-kth-factor-of-n
 [1493]:Problemset/1493-Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/README.md#1493-longest-subarray-of-1s-after-deleting-one-element
@@ -4865,6 +4867,7 @@
 [1486l]:https://leetcode.com/problems/xor-operation-in-an-array/
 [1487l]:https://leetcode.com/problems/making-file-names-unique/
 [1488l]:https://leetcode.com/problems/avoid-flood-in-the-city/
+[1489l]:https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/
 [1491l]:https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [1492l]:https://leetcode.com/problems/the-kth-factor-of-n/
 [1493l]:https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
