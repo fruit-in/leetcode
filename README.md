@@ -1496,6 +1496,7 @@
 [2094][2094l]|[Finding 3-Digit Even Numbers][2094]                                                  |![rs]
 [2095][2095l]|[Delete the Middle Node of a Linked List][2095]                                       |![py]
 [2096][2096l]|[Step-By-Step Directions From a Binary Tree Node to Another][2096]                    |![py]
+[2097][2097l]|[Valid Arrangement of Pairs][2097]                                                    |![rs]
 [2099][2099l]|[Find Subsequence of Length K With the Largest Sum][2099]                             |![rs]
 [2100][2100l]|[Find Good Days to Rob the Bank][2100]                                                |![rs]
 [2101][2101l]|[Detonate the Maximum Bombs][2101]                                                    |![rs]
@@ -3392,6 +3393,7 @@
 [2094]:Problemset/2094-Finding%203-Digit%20Even%20Numbers/README.md#2094-finding-3-digit-even-numbers
 [2095]:Problemset/2095-Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/README.md#2095-delete-the-middle-node-of-a-linked-list
 [2096]:Problemset/2096-Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another/README.md#2096-step-by-step-directions-from-a-binary-tree-node-to-another
+[2097]:Problemset/2097-Valid%20Arrangement%20of%20Pairs/README.md#2097-valid-arrangement-of-pairs
 [2099]:Problemset/2099-Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum/README.md#2099-find-subsequence-of-length-k-with-the-largest-sum
 [2100]:Problemset/2100-Find%20Good%20Days%20to%20Rob%20the%20Bank/README.md#2100-find-good-days-to-rob-the-bank
 [2101]:Problemset/2101-Detonate%20the%20Maximum%20Bombs/README.md#2101-detonate-the-maximum-bombs
@@ -5282,6 +5284,7 @@
 [2094l]:https://leetcode.com/problems/finding-3-digit-even-numbers/
 [2095l]:https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
 [2096l]:https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/
+[2097l]:https://leetcode.com/problems/valid-arrangement-of-pairs/
 [2099l]:https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
 [2100l]:https://leetcode.com/problems/find-good-days-to-rob-the-bank/
 [2101l]:https://leetcode.com/problems/detonate-the-maximum-bombs/

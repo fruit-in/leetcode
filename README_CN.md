@@ -1496,6 +1496,7 @@
 [2094][2094l]|[找出 3 位偶数][2094]                                     |![rs]
 [2095][2095l]|[删除链表的中间节点][2095]                                |![py]
 [2096][2096l]|[从二叉树一个节点到另一个节点每一步的方向][2096]          |![py]
+[2097][2097l]|[合法重新排列数对][2097]                                  |![rs]
 [2099][2099l]|[找到和最大的长度为 K 的子序列][2099]                     |![rs]
 [2100][2100l]|[适合打劫银行的日子][2100]                                |![rs]
 [2101][2101l]|[引爆最多的炸弹][2101]                                    |![rs]
@@ -3392,6 +3393,7 @@
 [2094]:Problemset/2094-Finding%203-Digit%20Even%20Numbers/README_CN.md#2094-找出-3-位偶数
 [2095]:Problemset/2095-Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/README_CN.md#2095-删除链表的中间节点
 [2096]:Problemset/2096-Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another/README_CN.md#2096-从二叉树一个节点到另一个节点每一步的方向
+[2097]:Problemset/2097-Valid%20Arrangement%20of%20Pairs/README_CN.md#2097-合法重新排列数对
 [2099]:Problemset/2099-Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum/README_CN.md#2099-找到和最大的长度为-k-的子序列
 [2100]:Problemset/2100-Find%20Good%20Days%20to%20Rob%20the%20Bank/README_CN.md#2100-适合打劫银行的日子
 [2101]:Problemset/2101-Detonate%20the%20Maximum%20Bombs/README_CN.md#2101-引爆最多的炸弹
@@ -5282,6 +5284,7 @@
 [2094l]:https://leetcode.cn/problems/finding-3-digit-even-numbers/
 [2095l]:https://leetcode.cn/problems/delete-the-middle-node-of-a-linked-list/
 [2096l]:https://leetcode.cn/problems/step-by-step-directions-from-a-binary-tree-node-to-another/
+[2097l]:https://leetcode.cn/problems/valid-arrangement-of-pairs/
 [2099l]:https://leetcode.cn/problems/find-subsequence-of-length-k-with-the-largest-sum/
 [2100l]:https://leetcode.cn/problems/find-good-days-to-rob-the-bank/
 [2101l]:https://leetcode.cn/problems/detonate-the-maximum-bombs/
