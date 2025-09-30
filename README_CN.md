@@ -592,6 +592,7 @@
 [815][815l]  |[公交路线][815]                                           |![rs]
 [816][816l]  |[模糊坐标][816]                                           |![rs]
 [817][817l]  |[链表组件][817]                                           |![py]&nbsp;&nbsp;![rb]
+[818][818l]  |[赛车][818]                                               |![py]
 [819][819l]  |[最常见的单词][819]                                       |![py]
 [820][820l]  |[单词的压缩编码][820]                                     |![rs]
 [821][821l]  |[字符的最短距离][821]                                     |![py]
@@ -2489,6 +2490,7 @@
 [815]:Problemset/0815-Bus%20Routes/README_CN.md#815-公交路线
 [816]:Problemset/0816-Ambiguous%20Coordinates/README_CN.md#816-模糊坐标
 [817]:Problemset/0817-Linked%20List%20Components/README_CN.md#817-链表组件
+[818]:Problemset/0818-Race%20Car/README_CN.md#818-赛车
 [819]:Problemset/0819-Most%20Common%20Word/README_CN.md#819-最常见的单词
 [820]:Problemset/0820-Short%20Encoding%20of%20Words/README_CN.md#820-单词的压缩编码
 [821]:Problemset/0821-Shortest%20Distance%20to%20a%20Character/README_CN.md#821-字符的最短距离
@@ -4380,6 +4382,7 @@
 [815l]:https://leetcode.cn/problems/bus-routes/
 [816l]:https://leetcode.cn/problems/ambiguous-coordinates/
 [817l]:https://leetcode.cn/problems/linked-list-components/
+[818l]:https://leetcode.cn/problems/race-car/
 [819l]:https://leetcode.cn/problems/most-common-word/
 [820l]:https://leetcode.cn/problems/short-encoding-of-words/
 [821l]:https://leetcode.cn/problems/shortest-distance-to-a-character/

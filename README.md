@@ -592,6 +592,7 @@
 [815][815l]  |[Bus Routes][815]                                                                     |![rs]
 [816][816l]  |[Ambiguous Coordinates][816]                                                          |![rs]
 [817][817l]  |[Linked List Components][817]                                                         |![py]&nbsp;&nbsp;![rb]
+[818][818l]  |[Race Car][818]                                                                       |![py]
 [819][819l]  |[Most Common Word][819]                                                               |![py]
 [820][820l]  |[Short Encoding of Words][820]                                                        |![rs]
 [821][821l]  |[Shortest Distance to a Character][821]                                               |![py]
@@ -2489,6 +2490,7 @@
 [815]:Problemset/0815-Bus%20Routes/README.md#815-bus-routes
 [816]:Problemset/0816-Ambiguous%20Coordinates/README.md#816-ambiguous-coordinates
 [817]:Problemset/0817-Linked%20List%20Components/README.md#817-linked-list-components
+[818]:Problemset/0818-Race%20Car/README.md#818-race-car
 [819]:Problemset/0819-Most%20Common%20Word/README.md#819-most-common-word
 [820]:Problemset/0820-Short%20Encoding%20of%20Words/README.md#820-short-encoding-of-words
 [821]:Problemset/0821-Shortest%20Distance%20to%20a%20Character/README.md#821-shortest-distance-to-a-character
@@ -4380,6 +4382,7 @@
 [815l]:https://leetcode.com/problems/bus-routes/
 [816l]:https://leetcode.com/problems/ambiguous-coordinates/
 [817l]:https://leetcode.com/problems/linked-list-components/
+[818l]:https://leetcode.com/problems/race-car/
 [819l]:https://leetcode.com/problems/most-common-word/
 [820l]:https://leetcode.com/problems/short-encoding-of-words/
 [821l]:https://leetcode.com/problems/shortest-distance-to-a-character/
