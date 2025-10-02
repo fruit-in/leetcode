@@ -541,6 +541,7 @@
 [747][747l]  |[Largest Number At Least Twice of Others][747]                                        |![rs]
 [748][748l]  |[Shortest Completing Word][748]                                                       |![py]
 [752][752l]  |[Open the Lock][752]                                                                  |![rb]&nbsp;&nbsp;![rs]
+[753][753l]  |[Cracking the Safe][753]                                                              |![py]
 [754][754l]  |[Reach a Number][754]                                                                 |![rs]
 [757][757l]  |[Set Intersection Size At Least Two][757]                                             |![py]
 [762][762l]  |[Prime Number of Set Bits in Binary Representation][762]                              |![py]
@@ -2439,6 +2440,7 @@
 [747]:Problemset/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README.md#747-largest-number-at-least-twice-of-others
 [748]:Problemset/0748-Shortest%20Completing%20Word/README.md#748-shortest-completing-word
 [752]:Problemset/0752-Open%20the%20Lock/README.md#752-open-the-lock
+[753]:Problemset/0753-Cracking%20the%20Safe/README.md#753-cracking-the-safe
 [754]:Problemset/0754-Reach%20a%20Number/README.md#754-reach-a-number
 [757]:Problemset/0757-Set%20Intersection%20Size%20At%20Least%20Two/README.md#757-set-intersection-size-at-least-two
 [762]:Problemset/0762-Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/README.md#762-prime-number-of-set-bits-in-binary-representation
@@ -4331,6 +4333,7 @@
 [747l]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 [748l]:https://leetcode.com/problems/shortest-completing-word/
 [752l]:https://leetcode.com/problems/open-the-lock/
+[753l]:https://leetcode.com/problems/cracking-the-safe/
 [754l]:https://leetcode.com/problems/reach-a-number/
 [757l]:https://leetcode.com/problems/set-intersection-size-at-least-two/
 [762l]:https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/

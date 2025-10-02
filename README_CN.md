@@ -541,6 +541,7 @@
 [747][747l]  |[至少是其他数字两倍的最大数][747]                         |![rs]
 [748][748l]  |[最短完整词][748]                                         |![py]
 [752][752l]  |[打开转盘锁][752]                                         |![rb]&nbsp;&nbsp;![rs]|
+[753][753l]  |[破解保险箱][753]                                         |![py]
 [754][754l]  |[到达终点数字][754]                                       |![rs]
 [757][757l]  |[设置交集大小至少为2][757]                                |![py]
 [762][762l]  |[二进制表示中质数个计算置位][762]                         |![py]
@@ -2439,6 +2440,7 @@
 [747]:Problemset/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README_CN.md#747-至少是其他数字两倍的最大数
 [748]:Problemset/0748-Shortest%20Completing%20Word/README_CN.md#748-最短完整词
 [752]:Problemset/0752-Open%20the%20Lock/README_CN.md#752-打开转盘锁
+[753]:Problemset/0753-Cracking%20the%20Safe/README_CN.md#753-破解保险箱
 [754]:Problemset/0754-Reach%20a%20Number/README_CN.md#754-到达终点数字
 [757]:Problemset/0757-Set%20Intersection%20Size%20At%20Least%20Two/README_CN.md#757-设置交集大小至少为2
 [762]:Problemset/0762-Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/README_CN.md#762-二进制表示中质数个计算置位
@@ -4331,6 +4333,7 @@
 [747l]:https://leetcode.cn/problems/largest-number-at-least-twice-of-others/
 [748l]:https://leetcode.cn/problems/shortest-completing-word/
 [752l]:https://leetcode.cn/problems/open-the-lock/
+[753l]:https://leetcode.cn/problems/cracking-the-safe/
 [754l]:https://leetcode.cn/problems/reach-a-number/
 [757l]:https://leetcode.cn/problems/set-intersection-size-at-least-two/
 [762l]:https://leetcode.cn/problems/prime-number-of-set-bits-in-binary-representation/
