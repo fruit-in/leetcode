@@ -1211,6 +1211,7 @@
 [1671][1671l]|[得到山形数组的最少删除次数][1671]                        |![rs]
 [1672][1672l]|[最富有客户的资产总量][1672]                              |![rb]&nbsp;&nbsp;![rs]
 [1673][1673l]|[找出最具竞争力的子序列][1673]                            |![rs]
+[1675][1675l]|[数组的最小偏移量][1675]                                  |![rs]
 [1678][1678l]|[设计 Goal 解析器][1678]                                  |![rs]
 [1679][1679l]|[K 和数对的最大数目][1679]                                |![rs]
 [1680][1680l]|[连接连续二进制数字][1680]                                |![rs]
@@ -3110,6 +3111,7 @@
 [1671]:Problemset/1671-Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array/README_CN.md#1671-得到山形数组的最少删除次数
 [1672]:Problemset/1672-Richest%20Customer%20Wealth/README_CN.md#1672-最富有客户的资产总量
 [1673]:Problemset/1673-Find%20the%20Most%20Competitive%20Subsequence/README_CN.md#1673-找出最具竞争力的子序列
+[1675]:Problemset/1675-Minimize%20Deviation%20in%20Array/README_CN.md#1675-数组的最小偏移量
 [1678]:Problemset/1678-Goal%20Parser%20Interpretation/README_CN.md#1678-设计-goal-解析器
 [1679]:Problemset/1679-Max%20Number%20of%20K-Sum%20Pairs/README_CN.md#1679-k-和数对的最大数目
 [1680]:Problemset/1680-Concatenation%20of%20Consecutive%20Binary%20Numbers/README_CN.md#1680-连接连续二进制数字
@@ -5003,6 +5005,7 @@
 [1671l]:https://leetcode.cn/problems/minimum-number-of-removals-to-make-mountain-array/
 [1672l]:https://leetcode.cn/problems/richest-customer-wealth/
 [1673l]:https://leetcode.cn/problems/find-the-most-competitive-subsequence/
+[1675l]:https://leetcode.cn/problems/minimize-deviation-in-array/
 [1678l]:https://leetcode.cn/problems/goal-parser-interpretation/
 [1679l]:https://leetcode.cn/problems/max-number-of-k-sum-pairs/
 [1680l]:https://leetcode.cn/problems/concatenation-of-consecutive-binary-numbers/

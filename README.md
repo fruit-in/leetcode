@@ -1211,6 +1211,7 @@
 [1671][1671l]|[Minimum Number of Removals to Make Mountain Array][1671]                             |![rs]
 [1672][1672l]|[Richest Customer Wealth][1672]                                                       |![rb]&nbsp;&nbsp;![rs]
 [1673][1673l]|[Find the Most Competitive Subsequence][1673]                                         |![rs]
+[1675][1675l]|[Minimize Deviation in Array][1675]                                                   |![rs]
 [1678][1678l]|[Goal Parser Interpretation][1678]                                                    |![rs]
 [1679][1679l]|[Max Number of K-Sum Pairs][1679]                                                     |![rs]
 [1680][1680l]|[Concatenation of Consecutive Binary Numbers][1680]                                   |![rs]
@@ -3110,6 +3111,7 @@
 [1671]:Problemset/1671-Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array/README.md#1671-minimum-number-of-removals-to-make-mountain-array
 [1672]:Problemset/1672-Richest%20Customer%20Wealth/README.md#1672-richest-customer-wealth
 [1673]:Problemset/1673-Find%20the%20Most%20Competitive%20Subsequence/README.md#1673-find-the-most-competitive-subsequence
+[1675]:Problemset/1675-Minimize%20Deviation%20in%20Array/README.md#1675-minimize-deviation-in-array
 [1678]:Problemset/1678-Goal%20Parser%20Interpretation/README.md#1678-goal-parser-interpretation
 [1679]:Problemset/1679-Max%20Number%20of%20K-Sum%20Pairs/README.md#1679-max-number-of-k-sum-pairs
 [1680]:Problemset/1680-Concatenation%20of%20Consecutive%20Binary%20Numbers/README.md#1680-concatenation-of-consecutive-binary-numbers
@@ -5003,6 +5005,7 @@
 [1671l]:https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/
 [1672l]:https://leetcode.com/problems/richest-customer-wealth/
 [1673l]:https://leetcode.com/problems/find-the-most-competitive-subsequence/
+[1675l]:https://leetcode.com/problems/minimize-deviation-in-array/
 [1678l]:https://leetcode.com/problems/goal-parser-interpretation/
 [1679l]:https://leetcode.com/problems/max-number-of-k-sum-pairs/
 [1680l]:https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
