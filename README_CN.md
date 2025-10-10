@@ -34,6 +34,7 @@
 [29][29l]    |[两数相除][29]                                            |![rs]
 [30][30l]    |[串联所有单词的子串][30]                                  |![rs]
 [31][31l]    |[下一个排列][31]                                          |![rs]
+[32][32l]    |[最长有效括号][32]                                        |![rs]
 [33][33l]    |[搜索旋转排序数组][33]                                    |![rs]
 [34][34l]    |[在排序数组中查找元素的第一个和最后一个位置][34]          |![rs]
 [35][35l]    |[搜索插入位置][35]                                        |![py]
@@ -1934,6 +1935,7 @@
 [29]:Problemset/0029-Divide%20Two%20Integers/README_CN.md#29-两数相除
 [30]:Problemset/0030-Substring%20with%20Concatenation%20of%20All%20Words/README_CN.md#30-串联所有单词的子串
 [31]:Problemset/0031-Next%20Permutation/README_CN.md#31-下一个排列
+[32]:Problemset/0032-Longest%20Valid%20Parentheses/README_CN.md#32-最长有效括号
 [33]:Problemset/0033-Search%20in%20Rotated%20Sorted%20Array/README_CN.md#33-搜索旋转排序数组
 [34]:Problemset/0034-Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/README_CN.md#34-在排序数组中查找元素的第一个和最后一个位置
 [35]:Problemset/0035-Search%20Insert%20Position/README_CN.md#35-搜索插入位置
@@ -3826,6 +3828,7 @@
 [29l]:https://leetcode.cn/problems/divide-two-integers/
 [30l]:https://leetcode.cn/problems/substring-with-concatenation-of-all-words/
 [31l]:https://leetcode.cn/problems/next-permutation/
+[32l]:https://leetcode.cn/problems/longest-valid-parentheses/
 [33l]:https://leetcode.cn/problems/search-in-rotated-sorted-array/
 [34l]:https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/
 [35l]:https://leetcode.cn/problems/search-insert-position/
