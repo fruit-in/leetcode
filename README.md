@@ -1428,6 +1428,7 @@
 [1994][1994l]|[The Number of Good Subsets][1994]                                                    |![rs]
 [1995][1995l]|[Count Special Quadruplets][1995]                                                     |![py]
 [1996][1996l]|[The Number of Weak Characters in the Game][1996]                                     |![rs]
+[1997][1997l]|[First Day Where You Have Been in All the Rooms][1997]                                |![rs]
 [2000][2000l]|[Reverse Prefix of Word][2000]                                                        |![py]
 [2001][2001l]|[Number of Pairs of Interchangeable Rectangles][2001]                                 |![py]
 [2002][2002l]|[Maximum Product of the Length of Two Palindromic Subsequences][2002]                 |![rs]
@@ -3330,6 +3331,7 @@
 [1994]:Problemset/1994-The%20Number%20of%20Good%20Subsets/README.md#1994-the-number-of-good-subsets
 [1995]:Problemset/1995-Count%20Special%20Quadruplets/README.md#1995-count-special-quadruplets
 [1996]:Problemset/1996-The%20Number%20of%20Weak%20Characters%20in%20the%20Game/README.md#1996-the-number-of-weak-characters-in-the-game
+[1997]:Problemset/1997-First%20Day%20Where%20You%20Have%20Been%20in%20All%20the%20Rooms/README.md#1997-first-day-where-you-have-been-in-all-the-rooms
 [2000]:Problemset/2000-Reverse%20Prefix%20of%20Word/README.md#2000-reverse-prefix-of-word
 [2001]:Problemset/2001-Number%20of%20Pairs%20of%20Interchangeable%20Rectangles/README.md#2001-number-of-pairs-of-interchangeable-rectangles
 [2002]:Problemset/2002-Maximum%20Product%20of%20the%20Length%20of%20Two%20Palindromic%20Subsequences/README.md#2002-maximum-product-of-the-length-of-two-palindromic-subsequences
@@ -5226,6 +5228,7 @@
 [1994l]:https://leetcode.com/problems/the-number-of-good-subsets/
 [1995l]:https://leetcode.com/problems/count-special-quadruplets/
 [1996l]:https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
+[1997l]:https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/
 [2000l]:https://leetcode.com/problems/reverse-prefix-of-word/
 [2001l]:https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/
 [2002l]:https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/

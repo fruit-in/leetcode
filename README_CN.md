@@ -1428,6 +1428,7 @@
 [1994][1994l]|[好子集的数目][1994]                                      |![rs]
 [1995][1995l]|[统计特殊四元组][1995]                                    |![py]
 [1996][1996l]|[游戏中弱角色的数量][1996]                                |![rs]
+[1997][1997l]|[访问完所有房间的第一天][1997]                            |![rs]
 [2000][2000l]|[反转单词前缀][2000]                                      |![py]
 [2001][2001l]|[可互换矩形的组数][2001]                                  |![py]
 [2002][2002l]|[两个回文子序列长度的最大乘积][2002]                      |![rs]
@@ -3330,6 +3331,7 @@
 [1994]:Problemset/1994-The%20Number%20of%20Good%20Subsets/README_CN.md#1994-好子集的数目
 [1995]:Problemset/1995-Count%20Special%20Quadruplets/README_CN.md#1995-统计特殊四元组
 [1996]:Problemset/1996-The%20Number%20of%20Weak%20Characters%20in%20the%20Game/README_CN.md#1996-游戏中弱角色的数量
+[1997]:Problemset/1997-First%20Day%20Where%20You%20Have%20Been%20in%20All%20the%20Rooms/README_CN.md#1997-访问完所有房间的第一天
 [2000]:Problemset/2000-Reverse%20Prefix%20of%20Word/README_CN.md#2000-反转单词前缀
 [2001]:Problemset/2001-Number%20of%20Pairs%20of%20Interchangeable%20Rectangles/README_CN.md#2001-可互换矩形的组数
 [2002]:Problemset/2002-Maximum%20Product%20of%20the%20Length%20of%20Two%20Palindromic%20Subsequences/README_CN.md#2002-两个回文子序列长度的最大乘积
@@ -5226,6 +5228,7 @@
 [1994l]:https://leetcode.cn/problems/the-number-of-good-subsets/
 [1995l]:https://leetcode.cn/problems/count-special-quadruplets/
 [1996l]:https://leetcode.cn/problems/the-number-of-weak-characters-in-the-game/
+[1997l]:https://leetcode.cn/problems/first-day-where-you-have-been-in-all-the-rooms/
 [2000l]:https://leetcode.cn/problems/reverse-prefix-of-word/
 [2001l]:https://leetcode.cn/problems/number-of-pairs-of-interchangeable-rectangles/
 [2002l]:https://leetcode.cn/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/
