@@ -1869,6 +1869,7 @@
 [2580][2580l]|[Count Ways to Group Overlapping Ranges][2580]                                        |![rs]
 [2582][2582l]|[Pass the Pillow][2582]                                                               |![rs]
 [2583][2583l]|[Kth Largest Sum in a Binary Tree][2583]                                              |![py]
+[2584][2584l]|[Split the Array to Make Coprime Products][2584]                                      |![rs]
 [2585][2585l]|[Number of Ways to Earn Points][2585]                                                 |![rs]
 [2586][2586l]|[Count the Number of Vowel Strings in Range][2586]                                    |![py]
 [2587][2587l]|[Rearrange Array to Maximize Prefix Score][2587]                                      |![rs]
@@ -3770,6 +3771,7 @@
 [2580]:Problemset/2580-Count%20Ways%20to%20Group%20Overlapping%20Ranges/README.md#2580-count-ways-to-group-overlapping-ranges
 [2582]:Problemset/2582-Pass%20the%20Pillow/README.md#2582-pass-the-pillow
 [2583]:Problemset/2583-Kth%20Largest%20Sum%20in%20a%20Binary%20Tree/README.md#2583-kth-largest-sum-in-a-binary-tree
+[2584]:Problemset/2584-Split%20the%20Array%20to%20Make%20Coprime%20Products/README.md#2584-split-the-array-to-make-coprime-products
 [2585]:Problemset/2585-Number%20of%20Ways%20to%20Earn%20Points/README.md#2585-number-of-ways-to-earn-points
 [2586]:Problemset/2586-Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range/README.md#2586-count-the-number-of-vowel-strings-in-range
 [2587]:Problemset/2587-Rearrange%20Array%20to%20Maximize%20Prefix%20Score/README.md#2587-rearrange-array-to-maximize-prefix-score
@@ -5665,6 +5667,7 @@
 [2580l]:https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/
 [2582l]:https://leetcode.com/problems/pass-the-pillow/
 [2583l]:https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/
+[2584l]:https://leetcode.com/problems/split-the-array-to-make-coprime-products/
 [2585l]:https://leetcode.com/problems/number-of-ways-to-earn-points/
 [2586l]:https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/
 [2587l]:https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/

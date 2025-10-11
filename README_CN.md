@@ -1869,6 +1869,7 @@
 [2580][2580l]|[统计将重叠区间合并成组的方案数][2580]                    |![rs]
 [2582][2582l]|[递枕头][2582]                                            |![rs]
 [2583][2583l]|[二叉树中的第 K 大层和][2583]                             |![py]
+[2584][2584l]|[分割数组使乘积互质][2584]                                |![rs]
 [2585][2585l]|[获得分数的方法数][2585]                                  |![rs]
 [2586][2586l]|[统计范围内的元音字符串数][2586]                          |![py]
 [2587][2587l]|[重排数组以得到最大前缀分数][2587]                        |![rs]
@@ -3770,6 +3771,7 @@
 [2580]:Problemset/2580-Count%20Ways%20to%20Group%20Overlapping%20Ranges/README_CN.md#2580-统计将重叠区间合并成组的方案数
 [2582]:Problemset/2582-Pass%20the%20Pillow/README_CN.md#2582-递枕头
 [2583]:Problemset/2583-Kth%20Largest%20Sum%20in%20a%20Binary%20Tree/README_CN.md#2583-二叉树中的第-k-大层和
+[2584]:Problemset/2584-Split%20the%20Array%20to%20Make%20Coprime%20Products/README_CN.md#2584-分割数组使乘积互质
 [2585]:Problemset/2585-Number%20of%20Ways%20to%20Earn%20Points/README_CN.md#2585-获得分数的方法数
 [2586]:Problemset/2586-Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range/README_CN.md#2586-统计范围内的元音字符串数
 [2587]:Problemset/2587-Rearrange%20Array%20to%20Maximize%20Prefix%20Score/README_CN.md#2587-重排数组以得到最大前缀分数
@@ -5664,6 +5666,7 @@
 [2580l]:https://leetcode.cn/problems/count-ways-to-group-overlapping-ranges/
 [2582l]:https://leetcode.cn/problems/pass-the-pillow/
 [2583l]:https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree/
+[2584l]:https://leetcode.cn/problems/split-the-array-to-make-coprime-products/
 [2585l]:https://leetcode.cn/problems/number-of-ways-to-earn-points/
 [2586l]:https://leetcode.cn/problems/count-the-number-of-vowel-strings-in-range/
 [2587l]:https://leetcode.cn/problems/rearrange-array-to-maximize-prefix-score/
