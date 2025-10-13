@@ -1309,6 +1309,7 @@
 [1816][1816l]|[Truncate Sentence][1816]                                                             |![py]
 [1817][1817l]|[Finding the Users Active Minutes][1817]                                              |![rs]
 [1818][1818l]|[Minimum Absolute Sum Difference][1818]                                               |![rs]
+[1819][1819l]|[Number of Different Subsequences GCDs][1819]                                         |![py]
 [1822][1822l]|[Sign of the Product of an Array][1822]                                               |![rb]&nbsp;&nbsp;![rs]
 [1823][1823l]|[Find the Winner of the Circular Game][1823]                                          |![rs]
 [1824][1824l]|[Minimum Sideway Jumps][1824]                                                         |![rs]
@@ -3213,6 +3214,7 @@
 [1816]:Problemset/1816-Truncate%20Sentence/README.md#1816-truncate-sentence
 [1817]:Problemset/1817-Finding%20the%20Users%20Active%20Minutes/README.md#1817-finding-the-users-active-minutes
 [1818]:Problemset/1818-Minimum%20Absolute%20Sum%20Difference/README.md#1818-minimum-absolute-sum-difference
+[1819]:Problemset/1819-Number%20of%20Different%20Subsequences%20GCDs/README.md#1819-number-of-different-subsequences-gcds
 [1822]:Problemset/1822-Sign%20of%20the%20Product%20of%20an%20Array/README.md#1822-sign-of-the-product-of-an-array
 [1823]:Problemset/1823-Find%20the%20Winner%20of%20the%20Circular%20Game/README.md#1823-find-the-winner-of-the-circular-game
 [1824]:Problemset/1824-Minimum%20Sideway%20Jumps/README.md#1824-minimum-sideway-jumps
@@ -5111,6 +5113,7 @@
 [1816l]:https://leetcode.com/problems/truncate-sentence/
 [1817l]:https://leetcode.com/problems/finding-the-users-active-minutes/
 [1818l]:https://leetcode.com/problems/minimum-absolute-sum-difference/
+[1819l]:https://leetcode.com/problems/number-of-different-subsequences-gcds/
 [1822l]:https://leetcode.com/problems/sign-of-the-product-of-an-array/
 [1823l]:https://leetcode.com/problems/find-the-winner-of-the-circular-game/
 [1824l]:https://leetcode.com/problems/minimum-sideway-jumps/

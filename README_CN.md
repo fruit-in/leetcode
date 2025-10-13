@@ -1309,6 +1309,7 @@
 [1816][1816l]|[截断句子][1816]                                          |![py]
 [1817][1817l]|[查找用户活跃分钟数][1817]                                |![rs]
 [1818][1818l]|[绝对差值和][1818]                                        |![rs]
+[1819][1819l]|[序列中不同最大公约数的数目][1819]                        |![py]
 [1822][1822l]|[数组元素积的符号][1822]                                  |![rb]&nbsp;&nbsp;![rs]
 [1823][1823l]|[找出游戏的获胜者][1823]                                  |![rs]
 [1824][1824l]|[最少侧跳次数][1824]                                      |![rs]
@@ -3213,6 +3214,7 @@
 [1816]:Problemset/1816-Truncate%20Sentence/README_CN.md#1816-截断句子
 [1817]:Problemset/1817-Finding%20the%20Users%20Active%20Minutes/README_CN.md#1817-查找用户活跃分钟数
 [1818]:Problemset/1818-Minimum%20Absolute%20Sum%20Difference/README_CN.md#1818-绝对差值和
+[1819]:Problemset/1819-Number%20of%20Different%20Subsequences%20GCDs/README_CN.md#1819-序列中不同最大公约数的数目
 [1822]:Problemset/1822-Sign%20of%20the%20Product%20of%20an%20Array/README_CN.md#1822-数组元素积的符号
 [1823]:Problemset/1823-Find%20the%20Winner%20of%20the%20Circular%20Game/README_CN.md#1823-找出游戏的获胜者
 [1824]:Problemset/1824-Minimum%20Sideway%20Jumps/README_CN.md#1824-最少侧跳次数
@@ -5111,6 +5113,7 @@
 [1816l]:https://leetcode.cn/problems/truncate-sentence/
 [1817l]:https://leetcode.cn/problems/finding-the-users-active-minutes/
 [1818l]:https://leetcode.cn/problems/minimum-absolute-sum-difference/
+[1819l]:https://leetcode.cn/problems/number-of-different-subsequences-gcds/
 [1822l]:https://leetcode.cn/problems/sign-of-the-product-of-an-array/
 [1823l]:https://leetcode.cn/problems/find-the-winner-of-the-circular-game/
 [1824l]:https://leetcode.cn/problems/minimum-sideway-jumps/
