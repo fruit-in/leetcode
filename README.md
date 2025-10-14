@@ -1709,6 +1709,7 @@
 [2373][2373l]|[Largest Local Values in a Matrix][2373]                                              |![rs]
 [2374][2374l]|[Node With Highest Edge Score][2374]                                                  |![rs]
 [2375][2375l]|[Construct Smallest Number From DI String][2375]                                      |![rs]
+[2376][2376l]|[Count Special Integers][2376]                                                        |![py]
 [2379][2379l]|[Minimum Recolors to Get K Consecutive Black Blocks][2379]                            |![rs]
 [2381][2381l]|[Shifting Letters II][2381]                                                           |![rs]
 [2382][2382l]|[Maximum Segment Sum After Removals][2382]                                            |![py]
@@ -3614,6 +3615,7 @@
 [2373]:Problemset/2373-Largest%20Local%20Values%20in%20a%20Matrix/README.md#2373-largest-local-values-in-a-matrix
 [2374]:Problemset/2374-Node%20With%20Highest%20Edge%20Score/README.md#2374-node-with-highest-edge-score
 [2375]:Problemset/2375-Construct%20Smallest%20Number%20From%20DI%20String/README.md#2375-construct-smallest-number-from-di-string
+[2376]:Problemset/2376-Count%20Special%20Integers/README.md#2376count-special-integers
 [2379]:Problemset/2379-Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/README.md#2379-minimum-recolors-to-get-k-consecutive-black-blocks
 [2381]:Problemset/2381-Shifting%20Letters%20II/README.md#2381-shifting-letters-ii
 [2382]:Problemset/2382-Maximum%20Segment%20Sum%20After%20Removals/README.md#2382-maximum-segment-sum-after-removals
@@ -5513,6 +5515,7 @@
 [2373l]:https://leetcode.com/problems/largest-local-values-in-a-matrix/
 [2374l]:https://leetcode.com/problems/node-with-highest-edge-score/
 [2375l]:https://leetcode.com/problems/construct-smallest-number-from-di-string/
+[2376l]:https://leetcode.com/problems/count-special-integers/
 [2379l]:https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 [2381l]:https://leetcode.com/problems/shifting-letters-ii/
 [2382l]:https://leetcode.com/problems/maximum-segment-sum-after-removals/

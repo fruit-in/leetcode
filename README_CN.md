@@ -1709,6 +1709,7 @@
 [2373][2373l]|[矩阵中的局部最大值][2373]                                |![rs]
 [2374][2374l]|[边积分最高的节点][2374]                                  |![rs]
 [2375][2375l]|[根据模式串构造最小数字][2375]                            |![rs]
+[2376][2376l]|[统计特殊整数][2376]                                      |![py]
 [2379][2379l]|[得到 K 个黑块的最少涂色次数][2379]                       |![rs]
 [2381][2381l]|[字母移位 II][2381]                                       |![rs]
 [2382][2382l]|[删除操作后的最大子段和][2382]                            |![py]
@@ -3614,6 +3615,7 @@
 [2373]:Problemset/2373-Largest%20Local%20Values%20in%20a%20Matrix/README_CN.md#2373-矩阵中的局部最大值
 [2374]:Problemset/2374-Node%20With%20Highest%20Edge%20Score/README_CN.md#2374-边积分最高的节点
 [2375]:Problemset/2375-Construct%20Smallest%20Number%20From%20DI%20String/README_CN.md#2375-根据模式串构造最小数字
+[2376]:Problemset/2376-Count%20Special%20Integers/README_CN.md#2376-统计特殊整数
 [2379]:Problemset/2379-Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/README_CN.md#2379-得到-k-个黑块的最少涂色次数
 [2381]:Problemset/2381-Shifting%20Letters%20II/README_CN.md#2381-字母移位-ii
 [2382]:Problemset/2382-Maximum%20Segment%20Sum%20After%20Removals/README_CN.md#2382-删除操作后的最大子段和
@@ -5513,6 +5515,7 @@
 [2373l]:https://leetcode.cn/problems/largest-local-values-in-a-matrix/
 [2374l]:https://leetcode.cn/problems/node-with-highest-edge-score/
 [2375l]:https://leetcode.cn/problems/construct-smallest-number-from-di-string/
+[2376l]:https://leetcode.cn/problems/count-special-integers/
 [2379l]:https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
 [2381l]:https://leetcode.cn/problems/shifting-letters-ii/
 [2382l]:https://leetcode.cn/problems/maximum-segment-sum-after-removals/
