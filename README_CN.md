@@ -680,6 +680,7 @@
 [903][903l]  |[DI 序列的有效排列][903]                                  |![py]
 [904][904l]  |[水果成篮][904]                                           |![rs]
 [905][905l]  |[按奇偶排序数组][905]                                     |![rs]
+[906][906l]  |[超级回文数][906]                                         |![py]
 [907][907l]  |[子数组的最小值之和][907]                                 |![rs]
 [908][908l]  |[最小差值 I][908]                                         |![rs]
 [909][909l]  |[蛇梯棋][909]                                             |![rs]
@@ -2586,6 +2587,7 @@
 [903]:Problemset/0903-Valid%20Permutations%20for%20DI%20Sequence/README_CN.md#903-di-序列的有效排列
 [904]:Problemset/0904-Fruit%20Into%20Baskets/README_CN.md#904-水果成篮
 [905]:Problemset/0905-Sort%20Array%20By%20Parity/README_CN.md#905-按奇偶排序数组
+[906]:Problemset/0906-Super%20Palindromes/README_CN.md#906-超级回文数
 [907]:Problemset/0907-Sum%20of%20Subarray%20Minimums/README_CN.md#907-子数组的最小值之和
 [908]:Problemset/0908-Smallest%20Range%20I/README_CN.md#908-最小差值-i
 [909]:Problemset/0909-Snakes%20and%20Ladders/README_CN.md#909-蛇梯棋
@@ -4486,6 +4488,7 @@
 [903l]:https://leetcode.cn/problems/valid-permutations-for-di-sequence/
 [904l]:https://leetcode.cn/problems/fruit-into-baskets/
 [905l]:https://leetcode.cn/problems/sort-array-by-parity/
+[906l]:https://leetcode.cn/problems/super-palindromes/
 [907l]:https://leetcode.cn/problems/sum-of-subarray-minimums/
 [908l]:https://leetcode.cn/problems/smallest-range-i/
 [909l]:https://leetcode.cn/problems/snakes-and-ladders/
