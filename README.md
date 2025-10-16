@@ -725,6 +725,7 @@
 [956][956l]  |[Tallest Billboard][956]                                                              |![rs]
 [957][957l]  |[Prison Cells After N Days][957]                                                      |![rs]
 [958][958l]  |[Check Completeness of a Binary Tree][958]                                            |![py]
+[960][960l]  |[Delete Columns to Make Sorted III][960]                                              |![py]
 [961][961l]  |[N-Repeated Element in Size 2N Array][961]                                            |![rs]
 [962][962l]  |[Maximum Width Ramp][962]                                                             |![rs]
 [963][963l]  |[Minimum Area Rectangle II][963]                                                      |![rs]
@@ -2632,6 +2633,7 @@
 [956]:Problemset/0956-Tallest%20Billboard/README.md#956-tallest-billboard
 [957]:Problemset/0957-Prison%20Cells%20After%20N%20Days/README.md#957-prison-cells-after-n-days
 [958]:Problemset/0958-Check%20Completeness%20of%20a%20Binary%20Tree/README.md#958-check-completeness-of-a-binary-tree
+[960]:Problemset/0960-Delete%20Columns%20to%20Make%20Sorted%20III/README.md#960-delete-columns-to-make-sorted-iii
 [961]:Problemset/0961-N-Repeated%20Element%20in%20Size%202N%20Array/README.md#961-n-repeated-element-in-size-2n-array
 [962]:Problemset/0962-Maximum%20Width%20Ramp/README.md#962-maximum-width-ramp
 [963]:Problemset/0963-Minimum%20Area%20Rectangle%20II/README.md#963-minimum-area-rectangle-ii
@@ -4533,6 +4535,7 @@
 [956l]:https://leetcode.com/problems/tallest-billboard/
 [957l]:https://leetcode.com/problems/prison-cells-after-n-days/
 [958l]:https://leetcode.com/problems/check-completeness-of-a-binary-tree/
+[960l]:https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 [961l]:https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 [962l]:https://leetcode.com/problems/maximum-width-ramp/
 [963l]:https://leetcode.com/problems/minimum-area-rectangle-ii/

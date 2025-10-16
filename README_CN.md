@@ -725,6 +725,7 @@
 [956][956l]  |[最高的广告牌][956]                                       |![rs]
 [957][957l]  |[N 天后的牢房][957]                                       |![rs]
 [958][958l]  |[二叉树的完全性检验][958]                                 |![py]
+[960][960l]  |[删列造序 III][960]                                       |![py]
 [961][961l]  |[重复 N 次的元素][961]                                    |![rs]
 [962][962l]  |[最大宽度坡][962]                                         |![rs]
 [963][963l]  |[最小面积矩形 II][963]                                    |![rs]
@@ -2632,6 +2633,7 @@
 [956]:Problemset/0956-Tallest%20Billboard/README_CN.md#956-最高的广告牌
 [957]:Problemset/0957-Prison%20Cells%20After%20N%20Days/README_CN.md#957-n-天后的牢房
 [958]:Problemset/0958-Check%20Completeness%20of%20a%20Binary%20Tree/README_CN.md#958-二叉树的完全性检验
+[960]:Problemset/0960-Delete%20Columns%20to%20Make%20Sorted%20III/README_CN.md#960-删列造序-iii
 [961]:Problemset/0961-N-Repeated%20Element%20in%20Size%202N%20Array/README_CN.md#961-重复-n-次的元素
 [962]:Problemset/0962-Maximum%20Width%20Ramp/README_CN.md#962-最大宽度坡
 [963]:Problemset/0963-Minimum%20Area%20Rectangle%20II/README_CN.md#963-最小面积矩形-ii
@@ -4533,6 +4535,7 @@
 [956l]:https://leetcode.cn/problems/tallest-billboard/
 [957l]:https://leetcode.cn/problems/prison-cells-after-n-days/
 [958l]:https://leetcode.cn/problems/check-completeness-of-a-binary-tree/
+[960l]:https://leetcode.cn/problems/delete-columns-to-make-sorted-iii/
 [961l]:https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/
 [962l]:https://leetcode.cn/problems/maximum-width-ramp/
 [963l]:https://leetcode.cn/problems/minimum-area-rectangle-ii/
