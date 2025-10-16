@@ -1550,6 +1550,7 @@
 [2154][2154l]|[将找到的值乘以 2][2154]                                  |![rs]
 [2155][2155l]|[分组得分最高的所有下标][2155]                            |![rs]
 [2156][2156l]|[查找给定哈希值的子串][2156]                              |![py]
+[2157][2157l]|[字符串分组][2157]                                        |![py]
 [2160][2160l]|[拆分数位后四位数字的最小和][2160]                        |![rs]
 [2161][2161l]|[根据给定数字划分数组][2161]                              |![py]
 [2162][2162l]|[设置时间的最少代价][2162]                                |![rs]
@@ -3458,6 +3459,7 @@
 [2154]:Problemset/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README_CN.md#2154-将找到的值乘以-2
 [2155]:Problemset/2155-All%20Divisions%20With%20the%20Highest%20Score%20of%20a%20Binary%20Array/README_CN.md#2155-分组得分最高的所有下标
 [2156]:Problemset/2156-Find%20Substring%20With%20Given%20Hash%20Value/README_CN.md#2156-查找给定哈希值的子串
+[2157]:Problemset/2157-Groups%20of%20Strings/README_CN.md#2157-字符串分组
 [2160]:Problemset/2160-Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/README_CN.md#2160-拆分数位后四位数字的最小和
 [2161]:Problemset/2161-Partition%20Array%20According%20to%20Given%20Pivot/README_CN.md#2161-根据给定数字划分数组
 [2162]:Problemset/2162-Minimum%20Cost%20to%20Set%20Cooking%20Time/README_CN.md#2162-设置时间的最少代价
@@ -5360,6 +5362,7 @@
 [2154l]:https://leetcode.cn/problems/keep-multiplying-found-values-by-two/
 [2155l]:https://leetcode.cn/problems/all-divisions-with-the-highest-score-of-a-binary-array/
 [2156l]:https://leetcode.cn/problems/find-substring-with-given-hash-value/
+[2157l]:https://leetcode.cn/problems/groups-of-strings/
 [2160l]:https://leetcode.cn/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2161l]:https://leetcode.cn/problems/partition-array-according-to-given-pivot/
 [2162l]:https://leetcode.cn/problems/minimum-cost-to-set-cooking-time/

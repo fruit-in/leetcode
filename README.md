@@ -1550,6 +1550,7 @@
 [2154][2154l]|[Keep Multiplying Found Values by Two][2154]                                          |![rs]
 [2155][2155l]|[All Divisions With the Highest Score of a Binary Array][2155]                        |![rs]
 [2156][2156l]|[Find Substring With Given Hash Value][2156]                                          |![py]
+[2157][2157l]|[Groups of Strings][2157]                                                             |![py]
 [2160][2160l]|[Minimum Sum of Four Digit Number After Splitting Digits][2160]                       |![rs]
 [2161][2161l]|[Partition Array According to Given Pivot][2161]                                      |![py]
 [2162][2162l]|[Minimum Cost to Set Cooking Time][2162]                                              |![rs]
@@ -3458,6 +3459,7 @@
 [2154]:Problemset/2154-Keep%20Multiplying%20Found%20Values%20by%20Two/README.md#2154-keep-multiplying-found-values-by-two
 [2155]:Problemset/2155-All%20Divisions%20With%20the%20Highest%20Score%20of%20a%20Binary%20Array/README.md#2155-all-divisions-with-the-highest-score-of-a-binary-array
 [2156]:Problemset/2156-Find%20Substring%20With%20Given%20Hash%20Value/README.md#2156-find-substring-with-given-hash-value
+[2157]:Problemset/2157-Groups%20of%20Strings/README.md#2157-groups-of-strings
 [2160]:Problemset/2160-Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/README.md#2160-minimum-sum-of-four-digit-number-after-splitting-digits
 [2161]:Problemset/2161-Partition%20Array%20According%20to%20Given%20Pivot/README.md#2161-partition-array-according-to-given-pivot
 [2162]:Problemset/2162-Minimum%20Cost%20to%20Set%20Cooking%20Time/README.md#2162-minimum-cost-to-set-cooking-time
@@ -5360,6 +5362,7 @@
 [2154l]:https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 [2155l]:https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/
 [2156l]:https://leetcode.com/problems/find-substring-with-given-hash-value/
+[2157l]:https://leetcode.com/problems/groups-of-strings/
 [2160l]:https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2161l]:https://leetcode.com/problems/partition-array-according-to-given-pivot/
 [2162l]:https://leetcode.com/problems/minimum-cost-to-set-cooking-time/
