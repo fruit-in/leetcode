@@ -1904,6 +1904,7 @@
 [2616][2616l]|[Minimize the Maximum Difference of Pairs][2616]                                      |![py]
 [2639][2639l]|[Find the Width of Columns of a Grid][2639]                                           |![rs]
 [2641][2641l]|[Cousins in Binary Tree II][2641]                                                     |![py]
+[2642][2642l]|[Design Graph With Shortest Path Calculator][2642]                                    |![rs]
 
 
 [py]:./ico/python.ico
@@ -3814,6 +3815,7 @@
 [2616]:Problemset/2616-Minimize%20the%20Maximum%20Difference%20of%20Pairs/README.md#2616-minimize-the-maximum-difference-of-pairs
 [2639]:Problemset/2639-Find%20the%20Width%20of%20Columns%20of%20a%20Grid/README.md#2639-find-the-width-of-columns-of-a-grid
 [2641]:Problemset/2641-Cousins%20in%20Binary%20Tree%20II/README.md#2641-cousins-in-binary-tree-ii
+[2642]:Problemset/2642-Design%20Graph%20With%20Shortest%20Path%20Calculator/README.md#2642-design-graph-with-shortest-path-calculator
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -5718,3 +5720,4 @@
 [2616l]:https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/
 [2639l]:https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/
 [2641l]:https://leetcode.com/problems/cousins-in-binary-tree-ii/
+[2642l]:https://leetcode.com/problems/design-graph-with-shortest-path-calculator/

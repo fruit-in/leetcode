@@ -1904,6 +1904,7 @@
 [2616][2616l]|[最小化数对的最大差值][2616]                              |![py]
 [2639][2639l]|[查询网格图中每一列的宽度][2639]                          |![rs]
 [2641][2641l]|[二叉树的堂兄弟节点 II][2641]                             |![py]
+[2642][2642l]|[设计可以求最短路径的图类][2642]                          |![rs]
 
 
 [py]:./ico/python.ico
@@ -3814,6 +3815,7 @@
 [2616]:Problemset/2616-Minimize%20the%20Maximum%20Difference%20of%20Pairs/README_CN.md#2616-最小化数对的最大差值
 [2639]:Problemset/2639-Find%20the%20Width%20of%20Columns%20of%20a%20Grid/README_CN.md#2639-查询网格图中每一列的宽度
 [2641]:Problemset/2641-Cousins%20in%20Binary%20Tree%20II/README_CN.md#2641-二叉树的堂兄弟节点-ii
+[2642]:Problemset/2642-Design%20Graph%20With%20Shortest%20Path%20Calculator/README_CN.md#2642-设计可以求最短路径的图类
 
 [1l]:https://leetcode.cn/problems/two-sum/
 [2l]:https://leetcode.cn/problems/add-two-numbers/
@@ -5717,3 +5719,4 @@
 [2616l]:https://leetcode.cn/problems/minimize-the-maximum-difference-of-pairs/
 [2639l]:https://leetcode.cn/problems/find-the-width-of-columns-of-a-grid/
 [2641l]:https://leetcode.cn/problems/cousins-in-binary-tree-ii/
+[2642l]:https://leetcode.cn/problems/design-graph-with-shortest-path-calculator/
