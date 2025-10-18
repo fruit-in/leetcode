@@ -1903,6 +1903,7 @@
 [2615][2615l]|[Sum of Distances][2615]                                                              |![rs]
 [2616][2616l]|[Minimize the Maximum Difference of Pairs][2616]                                      |![py]
 [2639][2639l]|[Find the Width of Columns of a Grid][2639]                                           |![rs]
+[2640][2640l]|[Find the Score of All Prefixes of an Array][2640]                                    |![rs]
 [2641][2641l]|[Cousins in Binary Tree II][2641]                                                     |![py]
 [2642][2642l]|[Design Graph With Shortest Path Calculator][2642]                                    |![rs]
 [2643][2643l]|[Row With Maximum Ones][2643]                                                         |![rs]
@@ -3817,6 +3818,7 @@
 [2615]:Problemset/2615-Sum%20of%20Distances/README.md#2615-sum-of-distances
 [2616]:Problemset/2616-Minimize%20the%20Maximum%20Difference%20of%20Pairs/README.md#2616-minimize-the-maximum-difference-of-pairs
 [2639]:Problemset/2639-Find%20the%20Width%20of%20Columns%20of%20a%20Grid/README.md#2639-find-the-width-of-columns-of-a-grid
+[2640]:Problemset/2640-Find%20the%20Score%20of%20All%20Prefixes%20of%20an%20Array/README.md#2640-find-the-score-of-all-prefixes-of-an-array
 [2641]:Problemset/2641-Cousins%20in%20Binary%20Tree%20II/README.md#2641-cousins-in-binary-tree-ii
 [2642]:Problemset/2642-Design%20Graph%20With%20Shortest%20Path%20Calculator/README.md#2642-design-graph-with-shortest-path-calculator
 [2643]:Problemset/2643-Row%20With%20Maximum%20Ones/README.md#2643-row-with-maximum-ones
@@ -5725,6 +5727,7 @@
 [2615l]:https://leetcode.com/problems/sum-of-distances/
 [2616l]:https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/
 [2639l]:https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/
+[2640l]:https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/
 [2641l]:https://leetcode.com/problems/cousins-in-binary-tree-ii/
 [2642l]:https://leetcode.com/problems/design-graph-with-shortest-path-calculator/
 [2643l]:https://leetcode.com/problems/row-with-maximum-ones/
