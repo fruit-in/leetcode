@@ -1907,6 +1907,7 @@
 [2642][2642l]|[Design Graph With Shortest Path Calculator][2642]                                    |![rs]
 [2643][2643l]|[Row With Maximum Ones][2643]                                                         |![rs]
 [2644][2644l]|[Find the Maximum Divisibility Score][2644]                                           |![rs]
+[2645][2645l]|[Minimum Additions to Make Valid String][2645]                                        |![rs]
 
 
 [py]:./ico/python.ico
@@ -3820,6 +3821,7 @@
 [2642]:Problemset/2642-Design%20Graph%20With%20Shortest%20Path%20Calculator/README.md#2642-design-graph-with-shortest-path-calculator
 [2643]:Problemset/2643-Row%20With%20Maximum%20Ones/README.md#2643-row-with-maximum-ones
 [2644]:Problemset/2644-Find%20the%20Maximum%20Divisibility%20Score/README.md#2644-find-the-maximum-divisibility-score
+[2645]:Problemset/2645-Minimum%20Additions%20to%20Make%20Valid%20String/README.md#2645-minimum-additions-to-make-valid-string
 
 [1l]:https://leetcode.com/problems/two-sum/
 [2l]:https://leetcode.com/problems/add-two-numbers/
@@ -5727,3 +5729,4 @@
 [2642l]:https://leetcode.com/problems/design-graph-with-shortest-path-calculator/
 [2643l]:https://leetcode.com/problems/row-with-maximum-ones/
 [2644l]:https://leetcode.com/problems/find-the-maximum-divisibility-score/
+[2645l]:https://leetcode.com/problems/minimum-additions-to-make-valid-string/
