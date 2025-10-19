@@ -1250,6 +1250,7 @@
 [1723][1723l]|[Find Minimum Time to Finish All Jobs][1723]                                          |![py]
 [1725][1725l]|[Number Of Rectangles That Can Form The Largest Square][1725]                         |![rb]&nbsp;&nbsp;![rs]
 [1726][1726l]|[Tuple with Same Product][1726]                                                       |![rb]&nbsp;&nbsp;![rs]
+[1727][1727l]|[Largest Submatrix With Rearrangements][1727]                                         |![rs]
 [1732][1732l]|[Find the Highest Altitude][1732]                                                     |![rb]&nbsp;&nbsp;![rs]
 [1733][1733l]|[Minimum Number of People to Teach][1733]                                             |![rs]
 [1734][1734l]|[Decode XORed Permutation][1734]                                                      |![rs]
@@ -3165,6 +3166,7 @@
 [1723]:Problemset/1723-Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/README.md#1723-find-minimum-time-to-finish-all-jobs
 [1725]:Problemset/1725-Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/README.md#1725-number-of-rectangles-that-can-form-the-largest-square
 [1726]:Problemset/1726-Tuple%20with%20Same%20Product/README.md#1726-tuple-with-same-product
+[1727]:Problemset/1727-Largest%20Submatrix%20With%20Rearrangements/README.md#1727-largest-submatrix-with-rearrangements
 [1732]:Problemset/1732-Find%20the%20Highest%20Altitude/README.md#1732-find-the-highest-altitude
 [1733]:Problemset/1733-Minimum%20Number%20of%20People%20to%20Teach/README.md#1733-minimum-number-of-people-to-teach
 [1734]:Problemset/1734-Decode%20XORed%20Permutation/README.md#1734-decode-xored-permutation
@@ -5074,6 +5076,7 @@
 [1723l]:https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/
 [1725l]:https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
 [1726l]:https://leetcode.com/problems/tuple-with-same-product/
+[1727l]:https://leetcode.com/problems/largest-submatrix-with-rearrangements/
 [1732l]:https://leetcode.com/problems/find-the-highest-altitude/
 [1733l]:https://leetcode.com/problems/minimum-number-of-people-to-teach/
 [1734l]:https://leetcode.com/problems/decode-xored-permutation/

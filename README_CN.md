@@ -1250,6 +1250,7 @@
 [1723][1723l]|[完成所有工作的最短时间][1723]                            |![py]
 [1725][1725l]|[可以形成最大正方形的矩形数目][1725]                      |![rb]&nbsp;&nbsp;![rs]
 [1726][1726l]|[同积元组][1726]                                          |![rb]&nbsp;&nbsp;![rs]
+[1727][1727l]|[重新排列后的最大子矩阵][1727]                            |![rs]
 [1732][1732l]|[找到最高海拔][1732]                                      |![rb]&nbsp;&nbsp;![rs]
 [1733][1733l]|[需要教语言的最少人数][1733]                              |![rs]
 [1734][1734l]|[解码异或后的排列][1734]                                  |![rs]
@@ -3165,6 +3166,7 @@
 [1723]:Problemset/1723-Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/README_CN.md#1723-完成所有工作的最短时间
 [1725]:Problemset/1725-Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/README_CN.md#1725-可以形成最大正方形的矩形数目
 [1726]:Problemset/1726-Tuple%20with%20Same%20Product/README_CN.md#1726-同积元组
+[1727]:Problemset/1727-Largest%20Submatrix%20With%20Rearrangements/README_CN.md#1727-重新排列后的最大子矩阵
 [1732]:Problemset/1732-Find%20the%20Highest%20Altitude/README_CN.md#1732-找到最高海拔
 [1733]:Problemset/1733-Minimum%20Number%20of%20People%20to%20Teach/README_CN.md#1733-需要教语言的最少人数
 [1734]:Problemset/1734-Decode%20XORed%20Permutation/README_CN.md#1734-解码异或后的排列
@@ -5074,6 +5076,7 @@
 [1723l]:https://leetcode.cn/problems/find-minimum-time-to-finish-all-jobs/
 [1725l]:https://leetcode.cn/problems/number-of-rectangles-that-can-form-the-largest-square/
 [1726l]:https://leetcode.cn/problems/tuple-with-same-product/
+[1727l]:https://leetcode.cn/problems/largest-submatrix-with-rearrangements/
 [1732l]:https://leetcode.cn/problems/find-the-highest-altitude/
 [1733l]:https://leetcode.cn/problems/minimum-number-of-people-to-teach/
 [1734l]:https://leetcode.cn/problems/decode-xored-permutation/
