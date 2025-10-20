@@ -541,6 +541,7 @@
 [746][746l]  |[Min Cost Climbing Stairs][746]                                                       |![rs]
 [747][747l]  |[Largest Number At Least Twice of Others][747]                                        |![rs]
 [748][748l]  |[Shortest Completing Word][748]                                                       |![py]
+[749][749l]  |[Contain Virus][749]                                                                  |![rs]
 [752][752l]  |[Open the Lock][752]                                                                  |![rb]&nbsp;&nbsp;![rs]
 [753][753l]  |[Cracking the Safe][753]                                                              |![py]
 [754][754l]  |[Reach a Number][754]                                                                 |![rs]
@@ -2457,6 +2458,7 @@
 [746]:Problemset/0746-Min%20Cost%20Climbing%20Stairs/README.md#746-min-cost-climbing-stairs
 [747]:Problemset/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README.md#747-largest-number-at-least-twice-of-others
 [748]:Problemset/0748-Shortest%20Completing%20Word/README.md#748-shortest-completing-word
+[749]:Problemset/0749-Contain%20Virus/README.md#749-contain-virus
 [752]:Problemset/0752-Open%20the%20Lock/README.md#752-open-the-lock
 [753]:Problemset/0753-Cracking%20the%20Safe/README.md#753-cracking-the-safe
 [754]:Problemset/0754-Reach%20a%20Number/README.md#754-reach-a-number
@@ -4367,6 +4369,7 @@
 [746l]:https://leetcode.com/problems/min-cost-climbing-stairs/
 [747l]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 [748l]:https://leetcode.com/problems/shortest-completing-word/
+[749l]:https://leetcode.com/problems/contain-virus/
 [752l]:https://leetcode.com/problems/open-the-lock/
 [753l]:https://leetcode.com/problems/cracking-the-safe/
 [754l]:https://leetcode.com/problems/reach-a-number/

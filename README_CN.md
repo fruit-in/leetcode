@@ -541,6 +541,7 @@
 [746][746l]  |[使用最小花费爬楼梯][746]                                 |![rs]
 [747][747l]  |[至少是其他数字两倍的最大数][747]                         |![rs]
 [748][748l]  |[最短完整词][748]                                         |![py]
+[749][749l]  |[隔离病毒][749]                                           |![rs]
 [752][752l]  |[打开转盘锁][752]                                         |![rb]&nbsp;&nbsp;![rs]|
 [753][753l]  |[破解保险箱][753]                                         |![py]
 [754][754l]  |[到达终点数字][754]                                       |![rs]
@@ -2457,6 +2458,7 @@
 [746]:Problemset/0746-Min%20Cost%20Climbing%20Stairs/README_CN.md#746-使用最小花费爬楼梯
 [747]:Problemset/0747-Largest%20Number%20At%20Least%20Twice%20of%20Others/README_CN.md#747-至少是其他数字两倍的最大数
 [748]:Problemset/0748-Shortest%20Completing%20Word/README_CN.md#748-最短完整词
+[749]:Problemset/0749-Contain%20Virus/README_CN.md#749-隔离病毒
 [752]:Problemset/0752-Open%20the%20Lock/README_CN.md#752-打开转盘锁
 [753]:Problemset/0753-Cracking%20the%20Safe/README_CN.md#753-破解保险箱
 [754]:Problemset/0754-Reach%20a%20Number/README_CN.md#754-到达终点数字
@@ -4367,6 +4369,7 @@
 [746l]:https://leetcode.cn/problems/min-cost-climbing-stairs/
 [747l]:https://leetcode.cn/problems/largest-number-at-least-twice-of-others/
 [748l]:https://leetcode.cn/problems/shortest-completing-word/
+[749l]:https://leetcode.cn/problems/contain-virus/
 [752l]:https://leetcode.cn/problems/open-the-lock/
 [753l]:https://leetcode.cn/problems/cracking-the-safe/
 [754l]:https://leetcode.cn/problems/reach-a-number/
