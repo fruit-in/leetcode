@@ -1904,6 +1904,7 @@
 [2614][2614l]|[对角线上的质数][2614]                                    |![rs]
 [2615][2615l]|[等值距离和][2615]                                        |![rs]
 [2616][2616l]|[最小化数对的最大差值][2616]                              |![py]
+[2617][2617l]|[网格图中最少访问的格子数][2617]                          |![rs]
 [2639][2639l]|[查询网格图中每一列的宽度][2639]                          |![rs]
 [2640][2640l]|[一个数组所有前缀的分数][2640]                            |![rs]
 [2641][2641l]|[二叉树的堂兄弟节点 II][2641]                             |![py]
@@ -3821,6 +3822,7 @@
 [2614]:Problemset/2614-Prime%20In%20Diagonal/README_CN.md#2614-对角线上的质数
 [2615]:Problemset/2615-Sum%20of%20Distances/README_CN.md#2615-等值距离和
 [2616]:Problemset/2616-Minimize%20the%20Maximum%20Difference%20of%20Pairs/README_CN.md#2616-最小化数对的最大差值
+[2617]:Problemset/2617-Minimum%20Number%20of%20Visited%20Cells%20in%20a%20Grid/README_CN.md#2617-网格图中最少访问的格子数
 [2639]:Problemset/2639-Find%20the%20Width%20of%20Columns%20of%20a%20Grid/README_CN.md#2639-查询网格图中每一列的宽度
 [2640]:Problemset/2640-Find%20the%20Score%20of%20All%20Prefixes%20of%20an%20Array/README_CN.md#2640-一个数组所有前缀的分数
 [2641]:Problemset/2641-Cousins%20in%20Binary%20Tree%20II/README_CN.md#2641-二叉树的堂兄弟节点-ii
@@ -5731,6 +5733,7 @@
 [2614l]:https://leetcode.cn/problems/prime-in-diagonal/
 [2615l]:https://leetcode.cn/problems/sum-of-distances/
 [2616l]:https://leetcode.cn/problems/minimize-the-maximum-difference-of-pairs/
+[2617l]:https://leetcode.cn/problems/minimum-number-of-visited-cells-in-a-grid/
 [2639l]:https://leetcode.cn/problems/find-the-width-of-columns-of-a-grid/
 [2640l]:https://leetcode.cn/problems/find-the-score-of-all-prefixes-of-an-array/
 [2641l]:https://leetcode.cn/problems/cousins-in-binary-tree-ii/
