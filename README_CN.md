@@ -1303,6 +1303,7 @@
 [1800][1800l]|[最大升序子数组和][1800]                                  |![rb]&nbsp;&nbsp;![rs]
 [1801][1801l]|[积压订单中的订单总数][1801]                              |![rs]
 [1802][1802l]|[有界数组中指定下标处的最大值][1802]                      |![rs]
+[1803][1803l]|[统计异或值在范围内的数对有多少][1803]                    |![rs]
 [1805][1805l]|[字符串中不同整数的数目][1805]                            |![rs]
 [1806][1806l]|[还原排列的最少操作步数][1806]                            |![rs]
 [1807][1807l]|[替换字符串中的括号内容][1807]                            |![py]
@@ -3221,6 +3222,7 @@
 [1800]:Problemset/1800-Maximum%20Ascending%20Subarray%20Sum/README_CN.md#1800-最大升序子数组和
 [1801]:Problemset/1801-Number%20of%20Orders%20in%20the%20Backlog/README_CN.md#1801-积压订单中的订单总数
 [1802]:Problemset/1802-Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array/README_CN.md#1802-有界数组中指定下标处的最大值
+[1803]:Problemset/1803-Count%20Pairs%20With%20XOR%20in%20a%20Range/README_CN.md#1803-统计异或值在范围内的数对有多少
 [1805]:Problemset/1805-Number%20of%20Different%20Integers%20in%20a%20String/README_CN.md#1805-字符串中不同整数的数目
 [1806]:Problemset/1806-Minimum%20Number%20of%20Operations%20to%20Reinitialize%20a%20Permutation/README_CN.md#1806-还原排列的最少操作步数
 [1807]:Problemset/1807-Evaluate%20the%20Bracket%20Pairs%20of%20a%20String/README_CN.md#1807-替换字符串中的括号内容
@@ -5133,6 +5135,7 @@
 [1800l]:https://leetcode.cn/problems/maximum-ascending-subarray-sum/
 [1801l]:https://leetcode.cn/problems/number-of-orders-in-the-backlog/
 [1802l]:https://leetcode.cn/problems/maximum-value-at-a-given-index-in-a-bounded-array/
+[1803l]:https://leetcode.cn/problems/count-pairs-with-xor-in-a-range/
 [1805l]:https://leetcode.cn/problems/number-of-different-integers-in-a-string/
 [1806l]:https://leetcode.cn/problems/minimum-number-of-operations-to-reinitialize-a-permutation/
 [1807l]:https://leetcode.cn/problems/evaluate-the-bracket-pairs-of-a-string/
