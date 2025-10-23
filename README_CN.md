@@ -877,6 +877,7 @@
 [1200][1200l]|[最小绝对差][1200]                                        |![rs]
 [1201][1201l]|[丑数 III][1201]                                          |![py]
 [1202][1202l]|[交换字符串中的元素][1202]                                |![py]
+[1203][1203l]|[项目管理][1203]                                          |![py]
 [1206][1206l]|[设计跳表][1206]                                          |![py]
 [1207][1207l]|[独一无二的出现次数][1207]                                |![rs]
 [1208][1208l]|[尽可能使字符串相等][1208]                                |![rb]&nbsp;&nbsp;![rs]
@@ -2796,6 +2797,7 @@
 [1200]:Problemset/1200-Minimum%20Absolute%20Difference/README_CN.md#1200-最小绝对差
 [1201]:Problemset/1201-Ugly%20Number%20III/README_CN.md#1201-丑数-iii
 [1202]:Problemset/1202-Smallest%20String%20With%20Swaps/README_CN.md#1202-交换字符串中的元素
+[1203]:Problemset/1203-Sort%20Items%20by%20Groups%20Respecting%20Dependencies/README_CN.md#1203-项目管理
 [1206]:Problemset/1206-Design%20Skiplist/README_CN.md#1206-设计跳表
 [1207]:Problemset/1207-Unique%20Number%20of%20Occurrences/README_CN.md#1207-独一无二的出现次数
 [1208]:Problemset/1208-Get%20Equal%20Substrings%20Within%20Budget/README_CN.md#1208-尽可能使字符串相等
@@ -4709,6 +4711,7 @@
 [1200l]:https://leetcode.cn/problems/minimum-absolute-difference/
 [1201l]:https://leetcode.cn/problems/ugly-number-iii/
 [1202l]:https://leetcode.cn/problems/smallest-string-with-swaps/
+[1203l]:https://leetcode.cn/problems/sort-items-by-groups-respecting-dependencies/
 [1206l]:https://leetcode.cn/problems/design-skiplist/
 [1207l]:https://leetcode.cn/problems/unique-number-of-occurrences/
 [1208l]:https://leetcode.cn/problems/get-equal-substrings-within-budget/

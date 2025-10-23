@@ -877,6 +877,7 @@
 [1200][1200l]|[Minimum Absolute Difference][1200]                                                   |![rs]
 [1201][1201l]|[Ugly Number III][1201]                                                               |![py]
 [1202][1202l]|[Smallest String With Swaps][1202]                                                    |![py]
+[1203][1203l]|[Sort Items by Groups Respecting Dependencies][1203]                                  |![py]
 [1206][1206l]|[Design Skiplist][1206]                                                               |![py]
 [1207][1207l]|[Unique Number of Occurrences][1207]                                                  |![rs]
 [1208][1208l]|[Get Equal Substrings Within Budget][1208]                                            |![rb]&nbsp;&nbsp;![rs]
@@ -2796,6 +2797,7 @@
 [1200]:Problemset/1200-Minimum%20Absolute%20Difference/README.md#1200-minimum-absolute-difference
 [1201]:Problemset/1201-Ugly%20Number%20III/README.md#1201-ugly-number-iii
 [1202]:Problemset/1202-Smallest%20String%20With%20Swaps/README.md#1202-smallest-string-with-swaps
+[1203]:Problemset/1203-Sort%20Items%20by%20Groups%20Respecting%20Dependencies/README.md#1203-sort-items-by-groups-respecting-dependencies
 [1206]:Problemset/1206-Design%20Skiplist/README.md#1206-design-skiplist
 [1207]:Problemset/1207-Unique%20Number%20of%20Occurrences/README.md#1207-unique-number-of-occurrences
 [1208]:Problemset/1208-Get%20Equal%20Substrings%20Within%20Budget/README.md#1208-get-equal-substrings-within-budget
@@ -4709,6 +4711,7 @@
 [1200l]:https://leetcode.com/problems/minimum-absolute-difference/
 [1201l]:https://leetcode.com/problems/ugly-number-iii/
 [1202l]:https://leetcode.com/problems/smallest-string-with-swaps/
+[1203l]:https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
 [1206l]:https://leetcode.com/problems/design-skiplist/
 [1207l]:https://leetcode.com/problems/unique-number-of-occurrences/
 [1208l]:https://leetcode.com/problems/get-equal-substrings-within-budget/
