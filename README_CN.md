@@ -1413,6 +1413,7 @@
 [1955][1955l]|[统计特殊子序列的数目][1955]                              |![rs]
 [1957][1957l]|[删除字符使字符串变好][1957]                              |![py]
 [1958][1958l]|[检查操作是否合法][1958]                                  |![rs]
+[1959][1959l]|[K 次调整数组大小浪费的最小总空间][1959]                  |![py]
 [1961][1961l]|[检查字符串是否为数组前缀][1961]                          |![py]
 [1962][1962l]|[移除石子使总数最小][1962]                                |![rs]
 [1963][1963l]|[使字符串平衡的最小交换次数][1963]                        |![rs]
@@ -3333,6 +3334,7 @@
 [1955]:Problemset/1955-Count%20Number%20of%20Special%20Subsequences/README_CN.md#1955-统计特殊子序列的数目
 [1957]:Problemset/1957-Delete%20Characters%20to%20Make%20Fancy%20String/README_CN.md#1957-删除字符使字符串变好
 [1958]:Problemset/1958-Check%20if%20Move%20is%20Legal/README_CN.md#1958-检查操作是否合法
+[1959]:Problemset/1959-Minimum%20Total%20Space%20Wasted%20With%20K%20Resizing%20Operations/README_CN.md#1959-k-次调整数组大小浪费的最小总空间
 [1961]:Problemset/1961-Check%20If%20String%20Is%20a%20Prefix%20of%20Array/README_CN.md#1961-检查字符串是否为数组前缀
 [1962]:Problemset/1962-Remove%20Stones%20to%20Minimize%20the%20Total/README_CN.md#1962-移除石子使总数最小
 [1963]:Problemset/1963-Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced/README_CN.md#1963-使字符串平衡的最小交换次数
@@ -5247,6 +5249,7 @@
 [1955l]:https://leetcode.cn/problems/count-number-of-special-subsequences/
 [1957l]:https://leetcode.cn/problems/delete-characters-to-make-fancy-string/
 [1958l]:https://leetcode.cn/problems/check-if-move-is-legal/
+[1959l]:https://leetcode.cn/problems/minimum-total-space-wasted-with-k-resizing-operations/
 [1961l]:https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array/
 [1962l]:https://leetcode.cn/problems/remove-stones-to-minimize-the-total/
 [1963l]:https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-string-balanced/
