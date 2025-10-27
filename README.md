@@ -1533,6 +1533,7 @@
 [2124][2124l]|[Check if All A's Appears Before All B's][2124]                                       |![py]
 [2125][2125l]|[Number of Laser Beams in a Bank][2125]                                               |![py]
 [2126][2126l]|[Destroying Asteroids][2126]                                                          |![rs]
+[2127][2127l]|[Maximum Employees to Be Invited to a Meeting][2127]                                  |![rs]
 [2129][2129l]|[Capitalize the Title][2129]                                                          |![py]
 [2130][2130l]|[Maximum Twin Sum of a Linked List][2130]                                             |![py]
 [2131][2131l]|[Longest Palindrome by Concatenating Two Letter Words][2131]                          |![rs]
@@ -3454,6 +3455,7 @@
 [2124]:Problemset/2124-Check%20if%20All%20A's%20Appears%20Before%20All%20B's/README.md#2124-check-if-all-a's-appears-before-all-b's
 [2125]:Problemset/2125-Number%20of%20Laser%20Beams%20in%20a%20Bank/README.md#2125-number-of-laser-beams-in-a-bank
 [2126]:Problemset/2126-Destroying%20Asteroids/README.md#2126-destroying-asteroids
+[2127]:Problemset/2127-Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting/README.md#2127-maximum-employees-to-be-invited-to-a-meeting
 [2129]:Problemset/2129-Capitalize%20the%20Title/README.md#2129-capitalize-the-title
 [2130]:Problemset/2130-Maximum%20Twin%20Sum%20of%20a%20Linked%20List/README.md#2130-maximum-twin-sum-of-a-linked-list
 [2131]:Problemset/2131-Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/README.md#2131-longest-palindrome-by-concatenating-two-letter-words
@@ -5369,6 +5371,7 @@
 [2124l]:https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
 [2125l]:https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 [2126l]:https://leetcode.com/problems/destroying-asteroids/
+[2127l]:https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/
 [2129l]:https://leetcode.com/problems/capitalize-the-title/
 [2130l]:https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
 [2131l]:https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
