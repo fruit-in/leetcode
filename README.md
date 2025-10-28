@@ -259,6 +259,7 @@
 [331][331l]  |[Verify Preorder Serialization of a Binary Tree][331]                                 |![rs]
 [332][332l]  |[Reconstruct Itinerary][332]                                                          |![py]
 [334][334l]  |[Increasing Triplet Subsequence][334]                                                 |![rb]&nbsp;&nbsp;![rs]
+[335][335l]  |[Self Crossing][335]                                                                  |![rs]
 [337][337l]  |[House Robber III][337]                                                               |![py]&nbsp;&nbsp;![rb]
 [338][338l]  |[Counting Bits][338]                                                                  |![rs]
 [341][341l]  |[Flatten Nested List Iterator][341]                                                   |![rs]
@@ -2181,6 +2182,7 @@
 [331]:Problemset/0331-Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/README.md#331-verify-preorder-serialization-of-a-binary-tree
 [332]:Problemset/0332-Reconstruct%20Itinerary/README.md#332-reconstruct-itinerary
 [334]:Problemset/0334-Increasing%20Triplet%20Subsequence/README.md#334-increasing-triplet-subsequence
+[335]:Problemset/0335-Self%20Crossing/README.md#335-self-crossing
 [337]:Problemset/0337-House%20Robber%20III/README.md#337-house-robber-iii
 [338]:Problemset/0338-Counting%20Bits/README.md#338-counting-bits
 [341]:Problemset/0341-Flatten%20Nested%20List%20Iterator/README.md#341-flatten-nested-list-iterator
@@ -4096,6 +4098,7 @@
 [331l]:https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
 [332l]:https://leetcode.com/problems/reconstruct-itinerary/
 [334l]:https://leetcode.com/problems/increasing-triplet-subsequence/
+[335l]:https://leetcode.com/problems/self-crossing/
 [337l]:https://leetcode.com/problems/house-robber-iii/
 [338l]:https://leetcode.com/problems/counting-bits/
 [341l]:https://leetcode.com/problems/flatten-nested-list-iterator/

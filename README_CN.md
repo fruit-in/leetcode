@@ -259,6 +259,7 @@
 [331][331l]  |[验证二叉树的前序序列化][331]                             |![rs]
 [332][332l]  |[重新安排行程][332]                                       |![py]
 [334][334l]  |[递增的三元子序列][334]                                   |![rb]&nbsp;&nbsp;![rs]
+[335][335l]  |[路径交叉][335]                                           |![rs]
 [337][337l]  |[打家劫舍 III][337]                                       |![py]&nbsp;&nbsp;![rb]
 [338][338l]  |[比特位计数][338]                                         |![rs]
 [341][341l]  |[扁平化嵌套列表迭代器][341]                               |![rs]
@@ -2181,6 +2182,7 @@
 [331]:Problemset/0331-Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/README_CN.md#331-验证二叉树的前序序列化
 [332]:Problemset/0332-Reconstruct%20Itinerary/README_CN.md#332-重新安排行程
 [334]:Problemset/0334-Increasing%20Triplet%20Subsequence/README_CN.md#334-递增的三元子序列
+[335]:Problemset/0335-Self%20Crossing/README_CN.md#335-路径交叉
 [337]:Problemset/0337-House%20Robber%20III/README_CN.md#337-打家劫舍-iii
 [338]:Problemset/0338-Counting%20Bits/README_CN.md#338-比特位计数
 [341]:Problemset/0341-Flatten%20Nested%20List%20Iterator/README_CN.md#341-扁平化嵌套列表迭代器
@@ -4096,6 +4098,7 @@
 [331l]:https://leetcode.cn/problems/verify-preorder-serialization-of-a-binary-tree/
 [332l]:https://leetcode.cn/problems/reconstruct-itinerary/
 [334l]:https://leetcode.cn/problems/increasing-triplet-subsequence/
+[335l]:https://leetcode.cn/problems/self-crossing/
 [337l]:https://leetcode.cn/problems/house-robber-iii/
 [338l]:https://leetcode.cn/problems/counting-bits/
 [341l]:https://leetcode.cn/problems/flatten-nested-list-iterator/
