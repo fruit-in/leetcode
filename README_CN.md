@@ -1371,6 +1371,7 @@
 [1889][1889l]|[装包裹的最小浪费空间][1889]                              |![py]
 [1893][1893l]|[检查是否区域内所有整数都被覆盖][1893]                    |![py]
 [1894][1894l]|[找到需要补充粉笔的学生编号][1894]                        |![rs]
+[1895][1895l]|[最大的幻方][1895]                                        |![rs]
 [1897][1897l]|[重新分配字符使所有字符串都相等][1897]                    |![rs]
 [1898][1898l]|[可移除字符的最大数目][1898]                              |![py]
 [1899][1899l]|[合并若干三元组以形成目标三元组][1899]                    |![rs]
@@ -3294,6 +3295,7 @@
 [1889]:Problemset/1889-Minimum%20Space%20Wasted%20From%20Packaging/README_CN.md#1889-装包裹的最小浪费空间
 [1893]:Problemset/1893-Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered/README_CN.md#1893-检查是否区域内所有整数都被覆盖
 [1894]:Problemset/1894-Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/README_CN.md#1894-找到需要补充粉笔的学生编号
+[1895]:Problemset/1895-Largest%20Magic%20Square/README_CN.md#1895-最大的幻方
 [1897]:Problemset/1897-Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/README_CN.md#1897-重新分配字符使所有字符串都相等
 [1898]:Problemset/1898-Maximum%20Number%20of%20Removable%20Characters/README_CN.md#1898-可移除字符的最大数目
 [1899]:Problemset/1899-Merge%20Triplets%20to%20Form%20Target%20Triplet/README_CN.md#1899-合并若干三元组以形成目标三元组
@@ -5211,6 +5213,7 @@
 [1889l]:https://leetcode.cn/problems/minimum-space-wasted-from-packaging/
 [1893l]:https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/
 [1894l]:https://leetcode.cn/problems/find-the-student-that-will-replace-the-chalk/
+[1895l]:https://leetcode.cn/problems/largest-magic-square/
 [1897l]:https://leetcode.cn/problems/redistribute-characters-to-make-all-strings-equal/
 [1898l]:https://leetcode.cn/problems/maximum-number-of-removable-characters/
 [1899l]:https://leetcode.cn/problems/merge-triplets-to-form-target-triplet/

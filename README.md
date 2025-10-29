@@ -1371,6 +1371,7 @@
 [1889][1889l]|[Minimum Space Wasted From Packaging][1889]                                           |![py]
 [1893][1893l]|[Check if All the Integers in a Range Are Covered][1893]                              |![py]
 [1894][1894l]|[Find the Student that Will Replace the Chalk][1894]                                  |![rs]
+[1895][1895l]|[Largest Magic Square][1895]                                                          |![rs]
 [1897][1897l]|[Redistribute Characters to Make All Strings Equal][1897]                             |![rs]
 [1898][1898l]|[Maximum Number of Removable Characters][1898]                                        |![py]
 [1899][1899l]|[Merge Triplets to Form Target Triplet][1899]                                         |![rs]
@@ -3294,6 +3295,7 @@
 [1889]:Problemset/1889-Minimum%20Space%20Wasted%20From%20Packaging/README.md#1889-minimum-space-wasted-from-packaging
 [1893]:Problemset/1893-Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered/README.md#1893-check-if-all-the-integers-in-a-range-are-covered
 [1894]:Problemset/1894-Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/README.md#1894-find-the-student-that-will-replace-the-chalk
+[1895]:Problemset/1895-Largest%20Magic%20Square/README.md#1895-largest-magic-square
 [1897]:Problemset/1897-Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/README.md#1897-redistribute-characters-to-make-all-strings-equal
 [1898]:Problemset/1898-Maximum%20Number%20of%20Removable%20Characters/README.md#1898-maximum-number-of-removable-characters
 [1899]:Problemset/1899-Merge%20Triplets%20to%20Form%20Target%20Triplet/README.md#1899-merge-triplets-to-form-target-triplet
@@ -5211,6 +5213,7 @@
 [1889l]:https://leetcode.com/problems/minimum-space-wasted-from-packaging/
 [1893l]:https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 [1894l]:https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/
+[1895l]:https://leetcode.com/problems/largest-magic-square/
 [1897l]:https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
 [1898l]:https://leetcode.com/problems/maximum-number-of-removable-characters/
 [1899l]:https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
