@@ -1229,6 +1229,7 @@
 [1688][1688l]|[比赛中的配对次数][1688]                                  |![rb]&nbsp;&nbsp;![rs]
 [1689][1689l]|[十-二进制数的最少数目][1689]                             |![rb]&nbsp;&nbsp;![rs]
 [1690][1690l]|[石子游戏 VII][1690]                                      |![rs]
+[1691][1691l]|[堆叠长方体的最大高度][1691]                              |![rs]
 [1694][1694l]|[重新格式化电话号码][1694]                                |![py]
 [1695][1695l]|[删除子数组的最大得分][1695]                              |![rb]&nbsp;&nbsp;![rs]
 [1696][1696l]|[跳跃游戏 VI][1696]                                       |![rs]
@@ -3154,6 +3155,7 @@
 [1688]:Problemset/1688-Count%20of%20Matches%20in%20Tournament/README_CN.md#1688-比赛中的配对次数
 [1689]:Problemset/1689-Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/README_CN.md#1689-十-二进制数的最少数目
 [1690]:Problemset/1690-Stone%20Game%20VII/README_CN.md#1690-石子游戏-vii
+[1691]:Problemset/1691-Maximum%20Height%20by%20Stacking%20Cuboids/README_CN.md#1691-堆叠长方体的最大高度
 [1694]:Problemset/1694-Reformat%20Phone%20Number/README_CN.md#1694-重新格式化电话号码
 [1695]:Problemset/1695-Maximum%20Erasure%20Value/README_CN.md#1695-删除子数组的最大得分
 [1696]:Problemset/1696-Jump%20Game%20VI/README_CN.md#1696-跳跃游戏-vi
@@ -5073,6 +5075,7 @@
 [1688l]:https://leetcode.cn/problems/count-of-matches-in-tournament/
 [1689l]:https://leetcode.cn/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 [1690l]:https://leetcode.cn/problems/stone-game-vii/
+[1691l]:https://leetcode.cn/problems/maximum-height-by-stacking-cuboids/
 [1694l]:https://leetcode.cn/problems/reformat-phone-number/
 [1695l]:https://leetcode.cn/problems/maximum-erasure-value/
 [1696l]:https://leetcode.cn/problems/jump-game-vi/
