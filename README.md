@@ -1884,6 +1884,7 @@
 [2578][2578l]|[Split With Minimum Sum][2578]                                                        |![py]
 [2579][2579l]|[Count Total Number of Colored Cells][2579]                                           |![rs]
 [2580][2580l]|[Count Ways to Group Overlapping Ranges][2580]                                        |![rs]
+[2581][2581l]|[Count Number of Possible Root Nodes][2581]                                           |![rs]
 [2582][2582l]|[Pass the Pillow][2582]                                                               |![rs]
 [2583][2583l]|[Kth Largest Sum in a Binary Tree][2583]                                              |![py]
 [2584][2584l]|[Split the Array to Make Coprime Products][2584]                                      |![rs]
@@ -3810,6 +3811,7 @@
 [2578]:Problemset/2578-Split%20With%20Minimum%20Sum/README.md#2578-split-with-minimum-sum
 [2579]:Problemset/2579-Count%20Total%20Number%20of%20Colored%20Cells/README.md#2579-count-total-number-of-colored-cells
 [2580]:Problemset/2580-Count%20Ways%20to%20Group%20Overlapping%20Ranges/README.md#2580-count-ways-to-group-overlapping-ranges
+[2581]:Problemset/2581-Count%20Number%20of%20Possible%20Root%20Nodes/README.md#2581-count-number-of-possible-root-nodes
 [2582]:Problemset/2582-Pass%20the%20Pillow/README.md#2582-pass-the-pillow
 [2583]:Problemset/2583-Kth%20Largest%20Sum%20in%20a%20Binary%20Tree/README.md#2583-kth-largest-sum-in-a-binary-tree
 [2584]:Problemset/2584-Split%20the%20Array%20to%20Make%20Coprime%20Products/README.md#2584-split-the-array-to-make-coprime-products
@@ -5730,6 +5732,7 @@
 [2578l]:https://leetcode.com/problems/split-with-minimum-sum/
 [2579l]:https://leetcode.com/problems/count-total-number-of-colored-cells/
 [2580l]:https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/
+[2581l]:https://leetcode.com/problems/count-number-of-possible-root-nodes/
 [2582l]:https://leetcode.com/problems/pass-the-pillow/
 [2583l]:https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/
 [2584l]:https://leetcode.com/problems/split-the-array-to-make-coprime-products/

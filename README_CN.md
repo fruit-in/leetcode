@@ -1884,6 +1884,7 @@
 [2578][2578l]|[最小和分割][2578]                                        |![py]
 [2579][2579l]|[统计染色格子数][2579]                                    |![rs]
 [2580][2580l]|[统计将重叠区间合并成组的方案数][2580]                    |![rs]
+[2581][2581l]|[统计可能的树根数目][2581]                                |![rs]
 [2582][2582l]|[递枕头][2582]                                            |![rs]
 [2583][2583l]|[二叉树中的第 K 大层和][2583]                             |![py]
 [2584][2584l]|[分割数组使乘积互质][2584]                                |![rs]
@@ -3810,6 +3811,7 @@
 [2578]:Problemset/2578-Split%20With%20Minimum%20Sum/README_CN.md#2578-最小和分割
 [2579]:Problemset/2579-Count%20Total%20Number%20of%20Colored%20Cells/README_CN.md#2579-统计染色格子数
 [2580]:Problemset/2580-Count%20Ways%20to%20Group%20Overlapping%20Ranges/README_CN.md#2580-统计将重叠区间合并成组的方案数
+[2581]:Problemset/2581-Count%20Number%20of%20Possible%20Root%20Nodes/README_CN.md#2581-统计可能的树根数目
 [2582]:Problemset/2582-Pass%20the%20Pillow/README_CN.md#2582-递枕头
 [2583]:Problemset/2583-Kth%20Largest%20Sum%20in%20a%20Binary%20Tree/README_CN.md#2583-二叉树中的第-k-大层和
 [2584]:Problemset/2584-Split%20the%20Array%20to%20Make%20Coprime%20Products/README_CN.md#2584-分割数组使乘积互质
@@ -5729,6 +5731,7 @@
 [2578l]:https://leetcode.cn/problems/split-with-minimum-sum/
 [2579l]:https://leetcode.cn/problems/count-total-number-of-colored-cells/
 [2580l]:https://leetcode.cn/problems/count-ways-to-group-overlapping-ranges/
+[2581l]:https://leetcode.cn/problems/count-number-of-possible-root-nodes/
 [2582l]:https://leetcode.cn/problems/pass-the-pillow/
 [2583l]:https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree/
 [2584l]:https://leetcode.cn/problems/split-the-array-to-make-coprime-products/
