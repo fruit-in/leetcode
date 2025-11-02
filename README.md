@@ -875,6 +875,7 @@
 [1189][1189l]|[Maximum Number of Balloons][1189]                                                    |![rs]
 [1190][1190l]|[Reverse Substrings Between Each Pair of Parentheses][1190]                           |![rs]
 [1191][1191l]|[K-Concatenation Maximum Sum][1191]                                                   |![rb]&nbsp;&nbsp;![rs]
+[1192][1192l]|[Critical Connections in a Network][1192]                                             |![py]
 [1200][1200l]|[Minimum Absolute Difference][1200]                                                   |![rs]
 [1201][1201l]|[Ugly Number III][1201]                                                               |![py]
 [1202][1202l]|[Smallest String With Swaps][1202]                                                    |![py]
@@ -2802,6 +2803,7 @@
 [1189]:Problemset/1189-Maximum%20Number%20of%20Balloons/README.md#1189-maximum-number-of-balloons
 [1190]:Problemset/1190-Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/README.md#1190-reverse-substrings-between-each-pair-of-parentheses
 [1191]:Problemset/1191-K-Concatenation%20Maximum%20Sum/README.md#1191-k-concatenation-maximum-sum
+[1192]:Problemset/1192-Critical%20Connections%20in%20a%20Network/README.md#1192-critical-connections-in-a-network
 [1200]:Problemset/1200-Minimum%20Absolute%20Difference/README.md#1200-minimum-absolute-difference
 [1201]:Problemset/1201-Ugly%20Number%20III/README.md#1201-ugly-number-iii
 [1202]:Problemset/1202-Smallest%20String%20With%20Swaps/README.md#1202-smallest-string-with-swaps
@@ -4723,6 +4725,7 @@
 [1189l]:https://leetcode.com/problems/maximum-number-of-balloons/
 [1190l]:https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
 [1191l]:https://leetcode.com/problems/k-concatenation-maximum-sum/
+[1192l]:https://leetcode.com/problems/critical-connections-in-a-network/
 [1200l]:https://leetcode.com/problems/minimum-absolute-difference/
 [1201l]:https://leetcode.com/problems/ugly-number-iii/
 [1202l]:https://leetcode.com/problems/smallest-string-with-swaps/

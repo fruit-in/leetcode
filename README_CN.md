@@ -875,6 +875,7 @@
 [1189][1189l]|[“气球” 的最大数量][1189]                                 |![rs]
 [1190][1190l]|[反转每对括号间的子串][1190]                              |![rs]
 [1191][1191l]|[K 次串联后最大子数组之和][1191]                          |![rb]&nbsp;&nbsp;![rs]
+[1192][1192l]|[查找集群内的关键连接][1192]                              |![py]
 [1200][1200l]|[最小绝对差][1200]                                        |![rs]
 [1201][1201l]|[丑数 III][1201]                                          |![py]
 [1202][1202l]|[交换字符串中的元素][1202]                                |![py]
@@ -2802,6 +2803,7 @@
 [1189]:Problemset/1189-Maximum%20Number%20of%20Balloons/README_CN.md#1189-气球-的最大数量
 [1190]:Problemset/1190-Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/README_CN.md#1190-反转每对括号间的子串
 [1191]:Problemset/1191-K-Concatenation%20Maximum%20Sum/README_CN.md#1191-k-次串联后最大子数组之和
+[1192]:Problemset/1192-Critical%20Connections%20in%20a%20Network/README_CN.md#1192-查找集群内的关键连接
 [1200]:Problemset/1200-Minimum%20Absolute%20Difference/README_CN.md#1200-最小绝对差
 [1201]:Problemset/1201-Ugly%20Number%20III/README_CN.md#1201-丑数-iii
 [1202]:Problemset/1202-Smallest%20String%20With%20Swaps/README_CN.md#1202-交换字符串中的元素
@@ -4723,6 +4725,7 @@
 [1189l]:https://leetcode.cn/problems/maximum-number-of-balloons/
 [1190l]:https://leetcode.cn/problems/reverse-substrings-between-each-pair-of-parentheses/
 [1191l]:https://leetcode.cn/problems/k-concatenation-maximum-sum/
+[1192l]:https://leetcode.cn/problems/critical-connections-in-a-network/
 [1200l]:https://leetcode.cn/problems/minimum-absolute-difference/
 [1201l]:https://leetcode.cn/problems/ugly-number-iii/
 [1202l]:https://leetcode.cn/problems/smallest-string-with-swaps/
