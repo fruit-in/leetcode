@@ -546,6 +546,7 @@
 [752][752l]  |[打开转盘锁][752]                                         |![rb]&nbsp;&nbsp;![rs]|
 [753][753l]  |[破解保险箱][753]                                         |![py]
 [754][754l]  |[到达终点数字][754]                                       |![rs]
+[756][756l]  |[金字塔转换矩阵][756]                                     |![py]
 [757][757l]  |[设置交集大小至少为2][757]                                |![py]
 [762][762l]  |[二进制表示中质数个计算置位][762]                         |![py]
 [763][763l]  |[划分字母区间][763]                                       |![rs]
@@ -2475,6 +2476,7 @@
 [752]:Problemset/0752-Open%20the%20Lock/README_CN.md#752-打开转盘锁
 [753]:Problemset/0753-Cracking%20the%20Safe/README_CN.md#753-破解保险箱
 [754]:Problemset/0754-Reach%20a%20Number/README_CN.md#754-到达终点数字
+[756]:Problemset/0756-Pyramid%20Transition%20Matrix/README_CN.md#756-金字塔转换矩阵
 [757]:Problemset/0757-Set%20Intersection%20Size%20At%20Least%20Two/README_CN.md#757-设置交集大小至少为2
 [762]:Problemset/0762-Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/README_CN.md#762-二进制表示中质数个计算置位
 [763]:Problemset/0763-Partition%20Labels/README_CN.md#763-划分字母区间
@@ -4398,6 +4400,7 @@
 [752l]:https://leetcode.cn/problems/open-the-lock/
 [753l]:https://leetcode.cn/problems/cracking-the-safe/
 [754l]:https://leetcode.cn/problems/reach-a-number/
+[756l]:https://leetcode.cn/problems/pyramid-transition-matrix/
 [757l]:https://leetcode.cn/problems/set-intersection-size-at-least-two/
 [762l]:https://leetcode.cn/problems/prime-number-of-set-bits-in-binary-representation/
 [763l]:https://leetcode.cn/problems/partition-labels/
