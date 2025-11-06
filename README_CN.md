@@ -1437,6 +1437,7 @@
 [1981][1981l]|[最小化目标值与所选元素的差][1981]                        |![rs]
 [1984][1984l]|[学生分数的最小差值][1984]                                |![rs]
 [1985][1985l]|[找出数组中的第 K 大整数][1985]                           |![py]
+[1986][1986l]|[完成任务的最少工作时间段][1986]                          |![py]
 [1991][1991l]|[找到数组的中间位置][1991]                                |![py]
 [1992][1992l]|[找到所有的农场组][1992]                                  |![rs]
 [1993][1993l]|[树上的操作][1993]                                        |![rs]
@@ -3367,6 +3368,7 @@
 [1981]:Problemset/1981-Minimize%20the%20Difference%20Between%20Target%20and%20Chosen%20Elements/README_CN.md#1981-最小化目标值与所选元素的差
 [1984]:Problemset/1984-Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/README_CN.md#1984-学生分数的最小差值
 [1985]:Problemset/1985-Find%20the%20Kth%20Largest%20Integer%20in%20the%20Array/README_CN.md#1985-找出数组中的第-k-大整数
+[1986]:Problemset/1986-Minimum%20Number%20of%20Work%20Sessions%20to%20Finish%20the%20Tasks/README_CN.md#1986-完成任务的最少工作时间段
 [1991]:Problemset/1991-Find%20the%20Middle%20Index%20in%20Array/README_CN.md#1991-找到数组的中间位置
 [1992]:Problemset/1992-Find%20All%20Groups%20of%20Farmland/README_CN.md#1992-找到所有的农场组
 [1993]:Problemset/1993-Operations%20on%20Tree/README_CN.md#1993-树上的操作
@@ -5291,6 +5293,7 @@
 [1981l]:https://leetcode.cn/problems/minimize-the-difference-between-target-and-chosen-elements/
 [1984l]:https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 [1985l]:https://leetcode.cn/problems/find-the-kth-largest-integer-in-the-array/
+[1986l]:https://leetcode.cn/problems/minimum-number-of-work-sessions-to-finish-the-tasks/
 [1991l]:https://leetcode.cn/problems/find-the-middle-index-in-array/
 [1992l]:https://leetcode.cn/problems/find-all-groups-of-farmland/
 [1993l]:https://leetcode.cn/problems/operations-on-tree/
