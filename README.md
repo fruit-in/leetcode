@@ -714,6 +714,7 @@
 [937][937l]  |[Reorder Data in Log Files][937]                                                      |![py]
 [938][938l]  |[Range Sum of BST][938]                                                               |![py]
 [939][939l]  |[Minimum Area Rectangle][939]                                                         |![py]&nbsp;&nbsp;![rs]
+[940][940l]  |[Distinct Subsequences II][940]                                                       |![rs]
 [941][941l]  |[Valid Mountain Array][941]                                                           |![rs]
 [942][942l]  |[DI String Match][942]                                                                |![py]
 [944][944l]  |[Delete Columns to Make Sorted][944]                                                  |![py]
@@ -2645,6 +2646,7 @@
 [937]:Problemset/0937-Reorder%20Data%20in%20Log%20Files/README.md#937-reorder-data-in-log-files
 [938]:Problemset/0938-Range%20Sum%20of%20BST/README.md#938-range-sum-of-bst
 [939]:Problemset/0939-Minimum%20Area%20Rectangle/README.md#939-minimum-area-rectangle
+[940]:Problemset/0940-Distinct%20Subsequences%20II/README.md#940-distinct-subsequences-ii
 [941]:Problemset/0941-Valid%20Mountain%20Array/README.md#941-valid-mountain-array
 [942]:Problemset/0942-DI%20String%20Match/README.md#942-di-string-match
 [944]:Problemset/0944-Delete%20Columns%20to%20Make%20Sorted/README.md#944-delete-columns-to-make-sorted
@@ -4570,6 +4572,7 @@
 [937l]:https://leetcode.com/problems/reorder-data-in-log-files/
 [938l]:https://leetcode.com/problems/range-sum-of-bst/
 [939l]:https://leetcode.com/problems/minimum-area-rectangle/
+[940l]:https://leetcode.com/problems/distinct-subsequences-ii/
 [941l]:https://leetcode.com/problems/valid-mountain-array/
 [942l]:https://leetcode.com/problems/di-string-match/
 [944l]:https://leetcode.com/problems/delete-columns-to-make-sorted/

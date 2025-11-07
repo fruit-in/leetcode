@@ -714,6 +714,7 @@
 [937][937l]  |[重新排列日志文件][937]                                   |![py]
 [938][938l]  |[二叉搜索树的范围和][938]                                 |![py]
 [939][939l]  |[最小面积矩形][939]                                       |![py]&nbsp;&nbsp;![rs]
+[940][940l]  |[不同的子序列 II][940]                                    |![rs]
 [941][941l]  |[有效的山脉数组][941]                                     |![rs]
 [942][942l]  |[增减字符串匹配][942]                                     |![py]
 [944][944l]  |[删列造序][944]                                           |![py]
@@ -2645,6 +2646,7 @@
 [937]:Problemset/0937-Reorder%20Data%20in%20Log%20Files/README_CN.md#937-重新排列日志文件
 [938]:Problemset/0938-Range%20Sum%20of%20BST/README_CN.md#938-二叉搜索树的范围和
 [939]:Problemset/0939-Minimum%20Area%20Rectangle/README_CN.md#939-最小面积矩形
+[940]:Problemset/0940-Distinct%20Subsequences%20II/README_CN.md#940-不同的子序列-ii
 [941]:Problemset/0941-Valid%20Mountain%20Array/README_CN.md#941-有效的山脉数组
 [942]:Problemset/0942-DI%20String%20Match/README_CN.md#942-增减字符串匹配
 [944]:Problemset/0944-Delete%20Columns%20to%20Make%20Sorted/README_CN.md#944-删列造序
@@ -4570,6 +4572,7 @@
 [937l]:https://leetcode.cn/problems/reorder-data-in-log-files/
 [938l]:https://leetcode.cn/problems/range-sum-of-bst/
 [939l]:https://leetcode.cn/problems/minimum-area-rectangle/
+[940l]:https://leetcode.cn/problems/distinct-subsequences-ii/
 [941l]:https://leetcode.cn/problems/valid-mountain-array/
 [942l]:https://leetcode.cn/problems/di-string-match/
 [944l]:https://leetcode.cn/problems/delete-columns-to-make-sorted/
