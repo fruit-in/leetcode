@@ -1439,6 +1439,7 @@
 [1984][1984l]|[Minimum Difference Between Highest and Lowest of K Scores][1984]                     |![rs]
 [1985][1985l]|[Find the Kth Largest Integer in the Array][1985]                                     |![py]
 [1986][1986l]|[Minimum Number of Work Sessions to Finish the Tasks][1986]                           |![py]
+[1987][1987l]|[Number of Unique Good Subsequences][1987]                                            |![rs]
 [1991][1991l]|[Find the Middle Index in Array][1991]                                                |![py]
 [1992][1992l]|[Find All Groups of Farmland][1992]                                                   |![rs]
 [1993][1993l]|[Operations on Tree][1993]                                                            |![rs]
@@ -3371,6 +3372,7 @@
 [1984]:Problemset/1984-Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/README.md#1984-minimum-difference-between-highest-and-lowest-of-k-scores
 [1985]:Problemset/1985-Find%20the%20Kth%20Largest%20Integer%20in%20the%20Array/README.md#1985-find-the-kth-largest-integer-in-the-array
 [1986]:Problemset/1986-Minimum%20Number%20of%20Work%20Sessions%20to%20Finish%20the%20Tasks/README.md#1986-minimum-number-of-work-sessions-to-finish-the-tasks
+[1987]:Problemset/1987-Number%20of%20Unique%20Good%20Subsequences/README.md#1987-number-of-unique-good-subsequences
 [1991]:Problemset/1991-Find%20the%20Middle%20Index%20in%20Array/README.md#1991-find-the-middle-index-in-array
 [1992]:Problemset/1992-Find%20All%20Groups%20of%20Farmland/README.md#1992-find-all-groups-of-farmland
 [1993]:Problemset/1993-Operations%20on%20Tree/README.md#1993-operations-on-tree
@@ -5297,6 +5299,7 @@
 [1984l]:https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 [1985l]:https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 [1986l]:https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/
+[1987l]:https://leetcode.com/problems/number-of-unique-good-subsequences/
 [1991l]:https://leetcode.com/problems/find-the-middle-index-in-array/
 [1992l]:https://leetcode.com/problems/find-all-groups-of-farmland/
 [1993l]:https://leetcode.com/problems/operations-on-tree/
