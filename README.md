@@ -283,6 +283,7 @@
 [373][373l]  |[Find K Pairs with Smallest Sums][373]                                                |![rs]
 [374][374l]  |[Guess Number Higher or Lower][374]                                                   |![py]
 [375][375l]  |[Guess Number Higher or Lower II][375]                                                |![py]
+[376][376l]  |[Wiggle Subsequence][376]                                                             |![rs]
 [377][377l]  |[Combination Sum IV][377]                                                             |![rs]
 [378][378l]  |[Kth Smallest Element in a Sorted Matrix][378]                                        |![py]
 [380][380l]  |[Insert Delete GetRandom O(1)][380]                                                   |![rs]
@@ -2217,6 +2218,7 @@
 [373]:Problemset/0373-Find%20K%20Pairs%20with%20Smallest%20Sums/README.md#373-find-k-pairs-with-smallest-sums
 [374]:Problemset/0374-Guess%20Number%20Higher%20or%20Lower/README.md#374-guess-number-higher-or-lower
 [375]:Problemset/0375-Guess%20Number%20Higher%20or%20Lower%20II/README.md#375-guess-number-higher-or-lower-ii
+[376]:Problemset/0376-Wiggle%20Subsequence/README.md#376-wiggle-subsequence
 [377]:Problemset/0377-Combination%20Sum%20IV/README.md#377-combination-sum-iv
 [378]:Problemset/0378-Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/README.md#378-kth-smallest-element-in-a-sorted-matrix
 [380]:Problemset/0380-Insert%20Delete%20GetRandom%20O\(1\)/README.md#380-insert-delete-getrandom-o1
@@ -4144,6 +4146,7 @@
 [373l]:https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
 [374l]:https://leetcode.com/problems/guess-number-higher-or-lower/
 [375l]:https://leetcode.com/problems/guess-number-higher-or-lower-ii/
+[376l]:https://leetcode.com/problems/wiggle-subsequence/
 [377l]:https://leetcode.com/problems/combination-sum-iv/
 [378l]:https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 [380l]:https://leetcode.com/problems/insert-delete-getrandom-o1/
