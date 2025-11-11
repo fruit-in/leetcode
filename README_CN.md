@@ -444,6 +444,7 @@
 [594][594l]  |[最长和谐子序列][594]                                     |![rs]
 [598][598l]  |[范围求和 II][598]                                        |![rb]&nbsp;&nbsp;![rs]
 [599][599l]  |[两个列表的最小索引总和][599]                             |![rs]
+[600][600l]  |[不含连续1的非负整数][600]                                |![py]
 [605][605l]  |[种花问题][605]                                           |![rs]
 [606][606l]  |[根据二叉树创建字符串][606]                               |![py]
 [609][609l]  |[在系统中查找重复文件][609]                               |![rb]
@@ -2379,6 +2380,7 @@
 [594]:Problemset/0594-Longest%20Harmonious%20Subsequence/README_CN.md#594-最长和谐子序列
 [598]:Problemset/0598-Range%20Addition%20II/README_CN.md#598-范围求和-ii
 [599]:Problemset/0599-Minimum%20Index%20Sum%20of%20Two%20Lists/README_CN.md#599-两个列表的最小索引总和
+[600]:Problemset/0600-Non-negative%20Integers%20without%20Consecutive%20Ones/README_CN.md#600-不含连续1的非负整数
 [605]:Problemset/0605-Can%20Place%20Flowers/README_CN.md#605-种花问题
 [606]:Problemset/0606-Construct%20String%20from%20Binary%20Tree/README_CN.md#606-根据二叉树创建字符串
 [609]:Problemset/0609-Find%20Duplicate%20File%20in%20System/README_CN.md#609-在系统中查找重复文件
@@ -4308,6 +4310,7 @@
 [594l]:https://leetcode.cn/problems/longest-harmonious-subsequence/
 [598l]:https://leetcode.cn/problems/range-addition-ii/
 [599l]:https://leetcode.cn/problems/minimum-index-sum-of-two-lists/
+[600l]:https://leetcode.cn/problems/non-negative-integers-without-consecutive-ones/
 [605l]:https://leetcode.cn/problems/can-place-flowers/
 [606l]:https://leetcode.cn/problems/construct-string-from-binary-tree/
 [609l]:https://leetcode.cn/problems/find-duplicate-file-in-system/

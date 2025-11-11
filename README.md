@@ -444,6 +444,7 @@
 [594][594l]  |[Longest Harmonious Subsequence][594]                                                 |![rs]
 [598][598l]  |[Range Addition II][598]                                                              |![rb]&nbsp;&nbsp;![rs]
 [599][599l]  |[Minimum Index Sum of Two Lists][599]                                                 |![rs]
+[600][600l]  |[Non-negative Integers without Consecutive Ones][600]                                 |![py]
 [605][605l]  |[Can Place Flowers][605]                                                              |![rs]
 [606][606l]  |[Construct String from Binary Tree][606]                                              |![py]
 [609][609l]  |[Find Duplicate File in System][609]                                                  |![rb]
@@ -2379,6 +2380,7 @@
 [594]:Problemset/0594-Longest%20Harmonious%20Subsequence/README.md#594-longest-harmonious-subsequence
 [598]:Problemset/0598-Range%20Addition%20II/README.md#598-range-addition-ii
 [599]:Problemset/0599-Minimum%20Index%20Sum%20of%20Two%20Lists/README.md#599-minimum-index-sum-of-two-lists
+[600]:Problemset/0600-Non-negative%20Integers%20without%20Consecutive%20Ones/README.md#600-non-negative-integers-without-consecutive-ones
 [605]:Problemset/0605-Can%20Place%20Flowers/README.md#605-can-place-flowers
 [606]:Problemset/0606-Construct%20String%20from%20Binary%20Tree/README.md#606-construct-string-from-binary-tree
 [609]:Problemset/0609-Find%20Duplicate%20File%20in%20System/README.md#609-find-duplicate-file-in-system
@@ -4308,6 +4310,7 @@
 [594l]:https://leetcode.com/problems/longest-harmonious-subsequence/
 [598l]:https://leetcode.com/problems/range-addition-ii/
 [599l]:https://leetcode.com/problems/minimum-index-sum-of-two-lists/
+[600l]:https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
 [605l]:https://leetcode.com/problems/can-place-flowers/
 [606l]:https://leetcode.com/problems/construct-string-from-binary-tree/
 [609l]:https://leetcode.com/problems/find-duplicate-file-in-system/
