@@ -720,6 +720,7 @@
 [940][940l]  |[不同的子序列 II][940]                                    |![rs]
 [941][941l]  |[有效的山脉数组][941]                                     |![rs]
 [942][942l]  |[增减字符串匹配][942]                                     |![py]
+[943][943l]  |[最短超级串][943]                                         |![py]
 [944][944l]  |[删列造序][944]                                           |![py]
 [945][945l]  |[使数组唯一的最小增量][945]                               |![rb]&nbsp;&nbsp;![rs]
 [946][946l]  |[验证栈序列][946]                                         |![rb]&nbsp;&nbsp;![rs]
@@ -2656,6 +2657,7 @@
 [940]:Problemset/0940-Distinct%20Subsequences%20II/README_CN.md#940-不同的子序列-ii
 [941]:Problemset/0941-Valid%20Mountain%20Array/README_CN.md#941-有效的山脉数组
 [942]:Problemset/0942-DI%20String%20Match/README_CN.md#942-增减字符串匹配
+[943]:Problemset/0943-Find%20the%20Shortest%20Superstring/README_CN.md#943-最短超级串
 [944]:Problemset/0944-Delete%20Columns%20to%20Make%20Sorted/README_CN.md#944-删列造序
 [945]:Problemset/0945-Minimum%20Increment%20to%20Make%20Array%20Unique/README_CN.md#945-使数组唯一的最小增量
 [946]:Problemset/0946-Validate%20Stack%20Sequences/README_CN.md#946-验证栈序列
@@ -4586,6 +4588,7 @@
 [940l]:https://leetcode.cn/problems/distinct-subsequences-ii/
 [941l]:https://leetcode.cn/problems/valid-mountain-array/
 [942l]:https://leetcode.cn/problems/di-string-match/
+[943l]:https://leetcode.cn/problems/find-the-shortest-superstring/
 [944l]:https://leetcode.cn/problems/delete-columns-to-make-sorted/
 [945l]:https://leetcode.cn/problems/minimum-increment-to-make-array-unique/
 [946l]:https://leetcode.cn/problems/validate-stack-sequences/

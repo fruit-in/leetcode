@@ -720,6 +720,7 @@
 [940][940l]  |[Distinct Subsequences II][940]                                                       |![rs]
 [941][941l]  |[Valid Mountain Array][941]                                                           |![rs]
 [942][942l]  |[DI String Match][942]                                                                |![py]
+[943][943l]  |[Find the Shortest Superstring][943]                                                  |![py]
 [944][944l]  |[Delete Columns to Make Sorted][944]                                                  |![py]
 [945][945l]  |[Minimum Increment to Make Array Unique][945]                                         |![rb]&nbsp;&nbsp;![rs]
 [946][946l]  |[Validate Stack Sequences][946]                                                       |![rb]&nbsp;&nbsp;![rs]
@@ -2656,6 +2657,7 @@
 [940]:Problemset/0940-Distinct%20Subsequences%20II/README.md#940-distinct-subsequences-ii
 [941]:Problemset/0941-Valid%20Mountain%20Array/README.md#941-valid-mountain-array
 [942]:Problemset/0942-DI%20String%20Match/README.md#942-di-string-match
+[943]:Problemset/0943-Find%20the%20Shortest%20Superstring/README.md#943-find-the-shortest-superstring
 [944]:Problemset/0944-Delete%20Columns%20to%20Make%20Sorted/README.md#944-delete-columns-to-make-sorted
 [945]:Problemset/0945-Minimum%20Increment%20to%20Make%20Array%20Unique/README.md#945-minimum-increment-to-make-array-unique
 [946]:Problemset/0946-Validate%20Stack%20Sequences/README.md#946-validate-stack-sequences
@@ -4586,6 +4588,7 @@
 [940l]:https://leetcode.com/problems/distinct-subsequences-ii/
 [941l]:https://leetcode.com/problems/valid-mountain-array/
 [942l]:https://leetcode.com/problems/di-string-match/
+[943l]:https://leetcode.com/problems/find-the-shortest-superstring/
 [944l]:https://leetcode.com/problems/delete-columns-to-make-sorted/
 [945l]:https://leetcode.com/problems/minimum-increment-to-make-array-unique/
 [946l]:https://leetcode.com/problems/validate-stack-sequences/
