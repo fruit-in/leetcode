@@ -668,6 +668,7 @@
 [884][884l]  |[两句话中的不常见单词][884]                               |![py]
 [885][885l]  |[螺旋矩阵 III][885]                                       |![rs]
 [886][886l]  |[可能的二分法][886]                                       |![rs]
+[887][887l]  |[鸡蛋掉落][887]                                           |![py]
 [888][888l]  |[公平的糖果交换][888]                                     |![rs]
 [889][889l]  |[根据前序和后序遍历构造二叉树][889]                       |![py]
 [890][890l]  |[查找和替换模式][890]                                     |![py]
@@ -2605,6 +2606,7 @@
 [884]:Problemset/0884-Uncommon%20Words%20from%20Two%20Sentences/README_CN.md#884-两句话中的不常见单词
 [885]:Problemset/0885-Spiral%20Matrix%20III/README_CN.md#885-螺旋矩阵-iii
 [886]:Problemset/0886-Possible%20Bipartition/README_CN.md#886-可能的二分法
+[887]:Problemset/0887-Super%20Egg%20Drop/README_CN.md#887-鸡蛋掉落
 [888]:Problemset/0888-Fair%20Candy%20Swap/README_CN.md#888-公平的糖果交换
 [889]:Problemset/0889-Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal/README_CN.md#889-根据前序和后序遍历构造二叉树
 [890]:Problemset/0890-Find%20and%20Replace%20Pattern/README_CN.md#890-查找和替换模式
@@ -4536,6 +4538,7 @@
 [884l]:https://leetcode.cn/problems/uncommon-words-from-two-sentences/
 [885l]:https://leetcode.cn/problems/spiral-matrix-iii/
 [886l]:https://leetcode.cn/problems/possible-bipartition/
+[887l]:https://leetcode.cn/problems/super-egg-drop/
 [888l]:https://leetcode.cn/problems/fair-candy-swap/
 [889l]:https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 [890l]:https://leetcode.cn/problems/find-and-replace-pattern/
