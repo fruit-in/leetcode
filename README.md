@@ -833,6 +833,7 @@
 [1089][1089l]|[Duplicate Zeros][1089]                                                               |![rs]
 [1090][1090l]|[Largest Values From Labels][1090]                                                    |![rb]
 [1091][1091l]|[Shortest Path in Binary Matrix][1091]                                                |![rs]
+[1092][1092l]|[Shortest Common Supersequence][1092]                                                 |![py]
 [1093][1093l]|[Statistics from a Large Sample][1093]                                                |![rs]
 [1094][1094l]|[Car Pooling][1094]                                                                   |![rs]
 [1095][1095l]|[Find in Mountain Array][1095]                                                        |![py]
@@ -2771,6 +2772,7 @@
 [1089]:Problemset/1089-Duplicate%20Zeros/README.md#1089-duplicate-zeros
 [1090]:Problemset/1090-Largest%20Values%20From%20Labels/README.md#1090-largest-values-from-labels
 [1091]:Problemset/1091-Shortest%20Path%20in%20Binary%20Matrix/README.md#1091-shortest-path-in-binary-matrix
+[1092]:Problemset/1092-Shortest%20Common%20Supersequence/README.md#1092-shortest-common-supersequence
 [1093]:Problemset/1093-Statistics%20from%20a%20Large%20Sample/README.md#1093-statistics-from-a-large-sample
 [1094]:Problemset/1094-Car%20Pooling/README.md#1094-car-pooling
 [1095]:Problemset/1095-Find%20in%20Mountain%20Array/README.md#1095-find-in-mountain-array
@@ -4703,6 +4705,7 @@
 [1089l]:https://leetcode.com/problems/duplicate-zeros/
 [1090l]:https://leetcode.com/problems/largest-values-from-labels/
 [1091l]:https://leetcode.com/problems/shortest-path-in-binary-matrix/
+[1092l]:https://leetcode.com/problems/shortest-common-supersequence/
 [1093l]:https://leetcode.com/problems/statistics-from-a-large-sample/
 [1094l]:https://leetcode.com/problems/car-pooling/
 [1095l]:https://leetcode.com/problems/find-in-mountain-array/

@@ -833,6 +833,7 @@
 [1089][1089l]|[复写零][1089]                                            |![rs]
 [1090][1090l]|[受标签影响的最大值][1090]                                |![rb]
 [1091][1091l]|[二进制矩阵中的最短路径][1091]                            |![rs]
+[1092][1092l]|[最短公共超序列][1092]                                    |![py]
 [1093][1093l]|[大样本统计][1093]                                        |![rs]
 [1094][1094l]|[拼车][1094]                                              |![rs]
 [1095][1095l]|[山脉数组中查找目标值][1095]                              |![py]
@@ -2771,6 +2772,7 @@
 [1089]:Problemset/1089-Duplicate%20Zeros/README_CN.md#1089-复写零
 [1090]:Problemset/1090-Largest%20Values%20From%20Labels/README_CN.md#1090-受标签影响的最大值
 [1091]:Problemset/1091-Shortest%20Path%20in%20Binary%20Matrix/README_CN.md#1091-二进制矩阵中的最短路径
+[1092]:Problemset/1092-Shortest%20Common%20Supersequence/README_CN.md#1092-最短公共超序列
 [1093]:Problemset/1093-Statistics%20from%20a%20Large%20Sample/README_CN.md#1093-大样本统计
 [1094]:Problemset/1094-Car%20Pooling/README_CN.md#1094-拼车
 [1095]:Problemset/1095-Find%20in%20Mountain%20Array/README_CN.md#1095-山脉数组中查找目标值
@@ -4703,6 +4705,7 @@
 [1089l]:https://leetcode.cn/problems/duplicate-zeros/
 [1090l]:https://leetcode.cn/problems/largest-values-from-labels/
 [1091l]:https://leetcode.cn/problems/shortest-path-in-binary-matrix/
+[1092l]:https://leetcode.cn/problems/shortest-common-supersequence/
 [1093l]:https://leetcode.cn/problems/statistics-from-a-large-sample/
 [1094l]:https://leetcode.cn/problems/car-pooling/
 [1095l]:https://leetcode.cn/problems/find-in-mountain-array/
