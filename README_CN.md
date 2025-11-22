@@ -1933,6 +1933,7 @@
 [2643][2643l]|[一最多的行][2643]                                        |![rs]
 [2644][2644l]|[找出可整除性得分最大的整数][2644]                        |![rs]
 [2645][2645l]|[构造有效字符串的最少插入数][2645]                        |![rs]
+[2646][2646l]|[最小化旅行的价格总和][2646]                              |![py]
 
 
 [py]:./ico/python.ico
@@ -3872,6 +3873,7 @@
 [2643]:Problemset/2643-Row%20With%20Maximum%20Ones/README_CN.md#2643-一最多的行
 [2644]:Problemset/2644-Find%20the%20Maximum%20Divisibility%20Score/README_CN.md#2644-找出可整除性得分最大的整数
 [2645]:Problemset/2645-Minimum%20Additions%20to%20Make%20Valid%20String/README_CN.md#2645-构造有效字符串的最少插入数
+[2646]:Problemset/2646-Minimize%20the%20Total%20Price%20of%20the%20Trips/README_CN.md#2646-最小化旅行的价格总和
 
 [1l]:https://leetcode.cn/problems/two-sum/
 [2l]:https://leetcode.cn/problems/add-two-numbers/
@@ -5804,3 +5806,4 @@
 [2643l]:https://leetcode.cn/problems/row-with-maximum-ones/
 [2644l]:https://leetcode.cn/problems/find-the-maximum-divisibility-score/
 [2645l]:https://leetcode.cn/problems/minimum-additions-to-make-valid-string/
+[2646l]:https://leetcode.cn/problems/minimize-the-total-price-of-the-trips/
