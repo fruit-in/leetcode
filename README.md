@@ -1171,6 +1171,7 @@
 [1592][1592l]|[Rearrange Spaces Between Words][1592]                                                |![py]
 [1593][1593l]|[Split a String Into the Max Number of Unique Substrings][1593]                       |![py]
 [1594][1594l]|[Maximum Non Negative Product in a Matrix][1594]                                      |![rs]
+[1595][1595l]|[Minimum Cost to Connect Two Groups of Points][1595]                                  |![py]
 [1598][1598l]|[Crawler Log Folder][1598]                                                            |![rb]
 [1599][1599l]|[Maximum Profit of Operating a Centennial Wheel][1599]                                |![rs]
 [1600][1600l]|[Throne Inheritance][1600]                                                            |![rs]
@@ -3111,6 +3112,7 @@
 [1592]:Problemset/1592-Rearrange%20Spaces%20Between%20Words/README.md#1592-rearrange-spaces-between-words
 [1593]:Problemset/1593-Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings/README.md#1593-split-a-string-into-the-max-number-of-unique-substrings
 [1594]:Problemset/1594-Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/README.md#1594-maximum-non-negative-product-in-a-matrix
+[1595]:Problemset/1595-Minimum%20Cost%20to%20Connect%20Two%20Groups%20of%20Points/README.md#1595-minimum-cost-to-connect-two-groups-of-points
 [1598]:Problemset/1598-Crawler%20Log%20Folder/README.md#1598-crawler-log-folder
 [1599]:Problemset/1599-Maximum%20Profit%20of%20Operating%20a%20Centennial%20Wheel/README.md#1599-maximum-profit-of-operating-a-centennial-wheel
 [1600]:Problemset/1600-Throne%20Inheritance/README.md#1600-throne-inheritance
@@ -5045,6 +5047,7 @@
 [1592l]:https://leetcode.com/problems/rearrange-spaces-between-words/
 [1593l]:https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 [1594l]:https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
+[1595l]:https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 [1598l]:https://leetcode.com/problems/crawler-log-folder/
 [1599l]:https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/
 [1600l]:https://leetcode.com/problems/throne-inheritance/
