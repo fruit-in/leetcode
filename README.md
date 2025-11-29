@@ -1325,6 +1325,7 @@
 [1812][1812l]|[Determine Color of a Chessboard Square][1812]                                        |![py]&nbsp;&nbsp;![rb]
 [1813][1813l]|[Sentence Similarity III][1813]                                                       |![rs]
 [1814][1814l]|[Count Nice Pairs in an Array][1814]                                                  |![rs]
+[1815][1815l]|[Maximum Number of Groups Getting Fresh Donuts][1815]                                 |![py]
 [1816][1816l]|[Truncate Sentence][1816]                                                             |![py]
 [1817][1817l]|[Finding the Users Active Minutes][1817]                                              |![rs]
 [1818][1818l]|[Minimum Absolute Sum Difference][1818]                                               |![rs]
@@ -3266,6 +3267,7 @@
 [1812]:Problemset/1812-Determine%20Color%20of%20a%20Chessboard%20Square/README.md#1812-determine-color-of-a-chessboard-square
 [1813]:Problemset/1813-Sentence%20Similarity%20III/README.md#1813-sentence-similarity-iii
 [1814]:Problemset/1814-Count%20Nice%20Pairs%20in%20an%20Array/README.md#1814-count-nice-pairs-in-an-array
+[1815]:Problemset/1815-Maximum%20Number%20of%20Groups%20Getting%20Fresh%20Donuts/README.md#1815-maximum-number-of-groups-getting-fresh-donuts
 [1816]:Problemset/1816-Truncate%20Sentence/README.md#1816-truncate-sentence
 [1817]:Problemset/1817-Finding%20the%20Users%20Active%20Minutes/README.md#1817-finding-the-users-active-minutes
 [1818]:Problemset/1818-Minimum%20Absolute%20Sum%20Difference/README.md#1818-minimum-absolute-sum-difference
@@ -5201,6 +5203,7 @@
 [1812l]:https://leetcode.com/problems/determine-color-of-a-chessboard-square/
 [1813l]:https://leetcode.com/problems/sentence-similarity-iii/
 [1814l]:https://leetcode.com/problems/count-nice-pairs-in-an-array/
+[1815l]:https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/
 [1816l]:https://leetcode.com/problems/truncate-sentence/
 [1817l]:https://leetcode.com/problems/finding-the-users-active-minutes/
 [1818l]:https://leetcode.com/problems/minimum-absolute-sum-difference/

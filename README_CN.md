@@ -1325,6 +1325,7 @@
 [1812][1812l]|[判断国际象棋棋盘中一个格子的颜色][1812]                  |![py]&nbsp;&nbsp;![rb]
 [1813][1813l]|[句子相似性 III][1813]                                    |![rs]
 [1814][1814l]|[统计一个数组中好对子的数目][1814]                        |![rs]
+[1815][1815l]|[得到新鲜甜甜圈的最多组数][1815]                          |![py]
 [1816][1816l]|[截断句子][1816]                                          |![py]
 [1817][1817l]|[查找用户活跃分钟数][1817]                                |![rs]
 [1818][1818l]|[绝对差值和][1818]                                        |![rs]
@@ -3266,6 +3267,7 @@
 [1812]:Problemset/1812-Determine%20Color%20of%20a%20Chessboard%20Square/README_CN.md#1812-判断国际象棋棋盘中一个格子的颜色
 [1813]:Problemset/1813-Sentence%20Similarity%20III/README_CN.md#1813-句子相似性-iii
 [1814]:Problemset/1814-Count%20Nice%20Pairs%20in%20an%20Array/README_CN.md#1814-统计一个数组中好对子的数目
+[1815]:Problemset/1815-Maximum%20Number%20of%20Groups%20Getting%20Fresh%20Donuts/README_CN.md#1815-得到新鲜甜甜圈的最多组数
 [1816]:Problemset/1816-Truncate%20Sentence/README_CN.md#1816-截断句子
 [1817]:Problemset/1817-Finding%20the%20Users%20Active%20Minutes/README_CN.md#1817-查找用户活跃分钟数
 [1818]:Problemset/1818-Minimum%20Absolute%20Sum%20Difference/README_CN.md#1818-绝对差值和
@@ -5201,6 +5203,7 @@
 [1812l]:https://leetcode.cn/problems/determine-color-of-a-chessboard-square/
 [1813l]:https://leetcode.cn/problems/sentence-similarity-iii/
 [1814l]:https://leetcode.cn/problems/count-nice-pairs-in-an-array/
+[1815l]:https://leetcode.cn/problems/maximum-number-of-groups-getting-fresh-donuts/
 [1816l]:https://leetcode.cn/problems/truncate-sentence/
 [1817l]:https://leetcode.cn/problems/finding-the-users-active-minutes/
 [1818l]:https://leetcode.cn/problems/minimum-absolute-sum-difference/
