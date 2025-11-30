@@ -355,6 +355,7 @@
 [462][462l]  |[Minimum Moves to Equal Array Elements II][462]                                       |![rs]
 [463][463l]  |[Island Perimeter][463]                                                               |![rs]
 [464][464l]  |[Can I Win][464]                                                                      |![py]
+[466][466l]  |[Count The Repetitions][466]                                                          |![rs]
 [467][467l]  |[Unique Substrings in Wraparound String][467]                                         |![rb]&nbsp;&nbsp;![rs]
 [468][468l]  |[Validate IP Address][468]                                                            |![rs]
 [470][470l]  |[Implement Rand10() Using Rand7()][470]                                               |![rs]
@@ -2297,6 +2298,7 @@
 [462]:Problemset/0462-Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/README.md#462-minimum-moves-to-equal-array-elements-ii
 [463]:Problemset/0463-Island%20Perimeter/README.md#463-island-perimeter
 [464]:Problemset/0464-Can%20I%20Win/README.md#464-can-i-win
+[466]:Problemset/0466-Count%20The%20Repetitions/README.md#466-count-the-repetitions
 [467]:Problemset/0467-Unique%20Substrings%20in%20Wraparound%20String/README.md#467-unique-substrings-in-wraparound-string
 [468]:Problemset/0468-Validate%20IP%20Address/README.md#468-validate-ip-address
 [470]:Problemset/0470-Implement%20Rand10\(\)%20Using%20Rand7\(\)/README.md#470-implement-rand10-using-rand7
@@ -4233,6 +4235,7 @@
 [462l]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 [463l]:https://leetcode.com/problems/island-perimeter/
 [464l]:https://leetcode.com/problems/can-i-win/
+[466l]:https://leetcode.com/problems/count-the-repetitions/
 [467l]:https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 [468l]:https://leetcode.com/problems/validate-ip-address/
 [470l]:https://leetcode.com/problems/implement-rand10-using-rand7/

@@ -355,6 +355,7 @@
 [462][462l]  |[最少移动次数使数组元素相等 II][462]                      |![rs]
 [463][463l]  |[岛屿的周长][463]                                         |![rs]
 [464][464l]  |[我能赢吗][464]                                           |![py]
+[466][466l]  |[统计重复个数][466]                                       |![rs]
 [467][467l]  |[环绕字符串中唯一的子字符串][467]                         |![rb]&nbsp;&nbsp;![rs]
 [468][468l]  |[验证IP地址][468]                                         |![rs]
 [470][470l]  |[用 Rand7() 实现 Rand10()][470]                           |![rs]
@@ -2297,6 +2298,7 @@
 [462]:Problemset/0462-Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/README_CN.md#462-最少移动次数使数组元素相等-ii
 [463]:Problemset/0463-Island%20Perimeter/README_CN.md#463-岛屿的周长
 [464]:Problemset/0464-Can%20I%20Win/README_CN.md#464-我能赢吗
+[466]:Problemset/0466-Count%20The%20Repetitions/README_CN.md#466-统计重复个数
 [467]:Problemset/0467-Unique%20Substrings%20in%20Wraparound%20String/README_CN.md#467-环绕字符串中唯一的子字符串
 [468]:Problemset/0468-Validate%20IP%20Address/README_CN.md#468-验证ip地址
 [470]:Problemset/0470-Implement%20Rand10\(\)%20Using%20Rand7\(\)/README_CN.md#470-用-Rand7-实现-Rand10
@@ -4233,6 +4235,7 @@
 [462l]:https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/
 [463l]:https://leetcode.cn/problems/island-perimeter/
 [464l]:https://leetcode.cn/problems/can-i-win/
+[466l]:https://leetcode.cn/problems/count-the-repetitions/
 [467l]:https://leetcode.cn/problems/unique-substrings-in-wraparound-string/
 [468l]:https://leetcode.cn/problems/validate-ip-address/
 [470l]:https://leetcode.cn/problems/implement-rand10-using-rand7/
