@@ -1259,6 +1259,7 @@
 [1712][1712l]|[将数组分成三个子数组的方案数][1712]                      |![rs]
 [1713][1713l]|[得到子序列的最少操作次数][1713]                          |![rs]
 [1716][1716l]|[计算力扣银行的钱][1716]                                  |![rb]&nbsp;&nbsp;![rs]
+[1717][1717l]|[删除子字符串的最大得分][1717]                            |![rs]
 [1718][1718l]|[构建字典序最大的可行序列][1718]                          |![py]
 [1720][1720l]|[解码异或后的数组][1720]                                  |![rb]&nbsp;&nbsp;![rs]
 [1721][1721l]|[交换链表中的节点][1721]                                  |![rb]
@@ -3202,6 +3203,7 @@
 [1712]:Problemset/1712-Ways%20to%20Split%20Array%20Into%20Three%20Subarrays/README_CN.md#1712-将数组分成三个子数组的方案数
 [1713]:Problemset/1713-Minimum%20Operations%20to%20Make%20a%20Subsequence/README_CN.md#1713-得到子序列的最少操作次数
 [1716]:Problemset/1716-Calculate%20Money%20in%20Leetcode%20Bank/README_CN.md#1716-计算力扣银行的钱
+[1717]:Problemset/1717-Maximum%20Score%20From%20Removing%20Substrings/README_CN.md#1717-删除子字符串的最大得分
 [1718]:Problemset/1718-Construct%20the%20Lexicographically%20Largest%20Valid%20Sequence/README_CN.md#1718-构建字典序最大的可行序列
 [1720]:Problemset/1720-Decode%20XORed%20Array/README_CN.md#1720-解码异或后的数组
 [1721]:Problemset/1721-Swapping%20Nodes%20in%20a%20Linked%20List/README_CN.md#1721-交换链表中的节点
@@ -5139,6 +5141,7 @@
 [1712l]:https://leetcode.cn/problems/ways-to-split-array-into-three-subarrays/
 [1713l]:https://leetcode.cn/problems/minimum-operations-to-make-a-subsequence/
 [1716l]:https://leetcode.cn/problems/calculate-money-in-leetcode-bank/
+[1717l]:https://leetcode.cn/problems/maximum-score-from-removing-substrings/
 [1718l]:https://leetcode.cn/problems/construct-the-lexicographically-largest-valid-sequence/
 [1720l]:https://leetcode.cn/problems/decode-xored-array/
 [1721l]:https://leetcode.cn/problems/swapping-nodes-in-a-linked-list/
