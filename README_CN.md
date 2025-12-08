@@ -359,6 +359,7 @@
 [467][467l]  |[环绕字符串中唯一的子字符串][467]                         |![rb]&nbsp;&nbsp;![rs]
 [468][468l]  |[验证IP地址][468]                                         |![rs]
 [470][470l]  |[用 Rand7() 实现 Rand10()][470]                           |![rs]
+[472][472l]  |[连接词][472]                                             |![py]
 [473][473l]  |[火柴拼正方形][473]                                       |![py]
 [474][474l]  |[一和零][474]                                             |![rs]
 [475][475l]  |[供暖器][475]                                             |![rs]
@@ -2303,6 +2304,7 @@
 [467]:Problemset/0467-Unique%20Substrings%20in%20Wraparound%20String/README_CN.md#467-环绕字符串中唯一的子字符串
 [468]:Problemset/0468-Validate%20IP%20Address/README_CN.md#468-验证ip地址
 [470]:Problemset/0470-Implement%20Rand10\(\)%20Using%20Rand7\(\)/README_CN.md#470-用-Rand7-实现-Rand10
+[472]:Problemset/0472-Concatenated%20Words/README_CN.md#472-连接词
 [473]:Problemset/0473-Matchsticks%20to%20Square/README_CN.md#473-火柴拼正方形
 [474]:Problemset/0474-Ones%20and%20Zeroes/README_CN.md#474-一和零
 [475]:Problemset/0475-Heaters/README_CN.md#475-供暖器
@@ -4241,6 +4243,7 @@
 [467l]:https://leetcode.cn/problems/unique-substrings-in-wraparound-string/
 [468l]:https://leetcode.cn/problems/validate-ip-address/
 [470l]:https://leetcode.cn/problems/implement-rand10-using-rand7/
+[472l]:https://leetcode.cn/problems/concatenated-words/
 [473l]:https://leetcode.cn/problems/matchsticks-to-square/
 [474l]:https://leetcode.cn/problems/ones-and-zeroes/
 [475l]:https://leetcode.cn/problems/heaters/
