@@ -1810,6 +1810,7 @@
 [2460][2460l]|[Apply Operations to an Array][2460]                                                  |![rs]
 [2461][2461l]|[Maximum Sum of Distinct Subarrays With Length K][2461]                               |![rs]
 [2462][2462l]|[Total Cost to Hire K Workers][2462]                                                  |![rs]
+[2463][2463l]|[Minimum Total Distance Traveled][2463]                                               |![rs]
 [2465][2465l]|[Number of Distinct Averages][2465]                                                   |![rs]
 [2466][2466l]|[Count Ways To Build Good Strings][2466]                                              |![rs]
 [2468][2468l]|[Split Message Based on Limit][2468]                                                  |![rs]
@@ -3756,6 +3757,7 @@
 [2460]:Problemset/2460-Apply%20Operations%20to%20an%20Array/README.md#2460-apply-operations-to-an-array
 [2461]:Problemset/2461-Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K/README.md#2461-maximum-sum-of-distinct-subarrays-with-length-k
 [2462]:Problemset/2462-Total%20Cost%20to%20Hire%20K%20Workers/README.md#2462-total-cost-to-hire-k-workers
+[2463]:Problemset/2463-Minimum%20Total%20Distance%20Traveled/README.md#2463-minimum-total-distance-traveled
 [2465]:Problemset/2465-Number%20of%20Distinct%20Averages/README.md#2465-number-of-distinct-averages
 [2466]:Problemset/2466-Count%20Ways%20To%20Build%20Good%20Strings/README.md#2466-count-ways-to-build-good-strings
 [2468]:Problemset/2468-Split%20Message%20Based%20on%20Limit/README.md#2468-split-message-based-on-limit
@@ -5696,6 +5698,7 @@
 [2460l]:https://leetcode.com/problems/apply-operations-to-an-array/
 [2461l]:https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/
 [2462l]:https://leetcode.com/problems/total-cost-to-hire-k-workers/
+[2463l]:https://leetcode.com/problems/minimum-total-distance-traveled/
 [2465l]:https://leetcode.com/problems/number-of-distinct-averages/
 [2466l]:https://leetcode.com/problems/count-ways-to-build-good-strings/
 [2468l]:https://leetcode.com/problems/split-message-based-on-limit/

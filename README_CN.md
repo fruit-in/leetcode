@@ -1810,6 +1810,7 @@
 [2460][2460l]|[对数组执行操作][2460]                                    |![rs]
 [2461][2461l]|[长度为 K 子数组中的最大和][2461]                         |![rs]
 [2462][2462l]|[雇佣 K 位工人的总代价][2462]                             |![rs]
+[2463][2463l]|[最小移动总距离][2463]                                    |![rs]
 [2465][2465l]|[不同的平均值数目][2465]                                  |![rs]
 [2466][2466l]|[统计构造好字符串的方案数][2466]                          |![rs]
 [2468][2468l]|[根据限制分割消息][2468]                                  |![rs]
@@ -3756,6 +3757,7 @@
 [2460]:Problemset/2460-Apply%20Operations%20to%20an%20Array/README_CN.md#2460-对数组执行操作
 [2461]:Problemset/2461-Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K/README_CN.md#2461-长度为-k-子数组中的最大和
 [2462]:Problemset/2462-Total%20Cost%20to%20Hire%20K%20Workers/README_CN.md#2462-雇佣-k-位工人的总代价
+[2463]:Problemset/2463-Minimum%20Total%20Distance%20Traveled/README_CN.md#2463-最小移动总距离
 [2465]:Problemset/2465-Number%20of%20Distinct%20Averages/README_CN.md#2465-不同的平均值数目
 [2466]:Problemset/2466-Count%20Ways%20To%20Build%20Good%20Strings/README_CN.md#2466-统计构造好字符串的方案数
 [2468]:Problemset/2468-Split%20Message%20Based%20on%20Limit/README_CN.md#2468-根据限制分割消息
@@ -5695,6 +5697,7 @@
 [2460l]:https://leetcode.cn/problems/apply-operations-to-an-array/
 [2461l]:https://leetcode.cn/problems/maximum-sum-of-distinct-subarrays-with-length-k/
 [2462l]:https://leetcode.cn/problems/total-cost-to-hire-k-workers/
+[2463l]:https://leetcode.cn/problems/minimum-total-distance-traveled/
 [2465l]:https://leetcode.cn/problems/number-of-distinct-averages/
 [2466l]:https://leetcode.cn/problems/count-ways-to-build-good-strings/
 [2468l]:https://leetcode.cn/problems/split-message-based-on-limit/
