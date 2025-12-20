@@ -535,6 +535,7 @@
 [725][725l]  |[Split Linked List in Parts][725]                                                     |![py]
 [728][728l]  |[Self Dividing Numbers][728]                                                          |![py]
 [729][729l]  |[My Calendar I][729]                                                                  |![py]
+[730][730l]  |[Count Different Palindromic Subsequences][730]                                       |![rs]
 [731][731l]  |[My Calendar II][731]                                                                 |![py]
 [733][733l]  |[Flood Fill][733]                                                                     |![rs]
 [735][735l]  |[Asteroid Collision][735]                                                             |![rb]
@@ -2482,6 +2483,7 @@
 [725]:Problemset/0725-Split%20Linked%20List%20in%20Parts/README.md#725-split-linked-list-in-parts
 [728]:Problemset/0728-Self%20Dividing%20Numbers/README.md#728-self-dividing-numbers
 [729]:Problemset/0729-My%20Calendar%20I/README.md#729-my-calendar-i
+[730]:Problemset/0730-Count%20Different%20Palindromic%20Subsequences/README.md#730-count-different-palindromic-subsequences
 [731]:Problemset/0731-My%20Calendar%20II/README.md#731-my-calendar-ii
 [733]:Problemset/0733-Flood%20Fill/README.md#733-flood-fill
 [735]:Problemset/0735-Asteroid%20Collision/README.md#735-asteroid-collision
@@ -4423,6 +4425,7 @@
 [725l]:https://leetcode.com/problems/split-linked-list-in-parts/
 [728l]:https://leetcode.com/problems/self-dividing-numbers/
 [729l]:https://leetcode.com/problems/my-calendar-i/
+[730l]:https://leetcode.com/problems/count-different-palindromic-subsequences/
 [731l]:https://leetcode.com/problems/my-calendar-ii/
 [733l]:https://leetcode.com/problems/flood-fill/
 [735l]:https://leetcode.com/problems/asteroid-collision/
