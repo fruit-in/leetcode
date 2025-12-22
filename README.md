@@ -1842,6 +1842,7 @@
 [2502][2502l]|[Design Memory Allocator][2502]                                                       |![rs]
 [2503][2503l]|[Maximum Number of Points From Grid Queries][2503]                                    |![rs]
 [2506][2506l]|[Count Pairs Of Similar Strings][2506]                                                |![rs]
+[2507][2507l]|[Smallest Value After Replacing With Sum of Prime Factors][2507]                      |![py]
 [2508][2508l]|[Add Edges to Make Degrees of All Nodes Even][2508]                                   |![rs]
 [2509][2509l]|[Cycle Length Queries in a Tree][2509]                                                |![rs]
 [2511][2511l]|[Maximum Enemy Forts That Can Be Captured][2511]                                      |![rs]
@@ -3790,6 +3791,7 @@
 [2502]:Problemset/2502-Design%20Memory%20Allocator/README.md#2502-design-memory-allocator
 [2503]:Problemset/2503-Maximum%20Number%20of%20Points%20From%20Grid%20Queries/README.md#2503-maximum-number-of-points-from-grid-queries
 [2506]:Problemset/2506-Count%20Pairs%20Of%20Similar%20Strings/README.md#2506-count-pairs-of-similar-strings
+[2507]:Problemset/2507-Smallest%20Value%20After%20Replacing%20With%20Sum%20of%20Prime%20Factors/README.md#2507-smallest-value-after-replacing-with-sum-of-prime-factors
 [2508]:Problemset/2508-Add%20Edges%20to%20Make%20Degrees%20of%20All%20Nodes%20Even/README.md#2508-add-edges-to-make-degrees-of-all-nodes-even
 [2509]:Problemset/2509-Cycle%20Length%20Queries%20in%20a%20Tree/README.md#2509-cycle-length-queries-in-a-tree
 [2511]:Problemset/2511-Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured/README.md#2511-maximum-enemy-forts-that-can-be-captured
@@ -5732,6 +5734,7 @@
 [2502l]:https://leetcode.com/problems/design-memory-allocator/
 [2503l]:https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/
 [2506l]:https://leetcode.com/problems/count-pairs-of-similar-strings/
+[2507l]:https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/
 [2508l]:https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/
 [2509l]:https://leetcode.com/problems/cycle-length-queries-in-a-tree/
 [2511l]:https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/

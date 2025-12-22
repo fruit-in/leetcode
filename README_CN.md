@@ -1842,6 +1842,7 @@
 [2502][2502l]|[设计内存分配器][2502]                                    |![rs]
 [2503][2503l]|[矩阵查询可获得的最大分数][2503]                          |![rs]
 [2506][2506l]|[统计相似字符串对的数目][2506]                            |![rs]
+[2507][2507l]|[使用质因数之和替换后可以取到的最小值][2507]              |![py]
 [2508][2508l]|[添加边使所有节点度数都为偶数][2508]                      |![rs]
 [2509][2509l]|[查询树中环的长度][2509]                                  |![rs]
 [2511][2511l]|[最多可以摧毁的敌人城堡数目][2511]                        |![rs]
@@ -3790,6 +3791,7 @@
 [2502]:Problemset/2502-Design%20Memory%20Allocator/README_CN.md#2502-设计内存分配器
 [2503]:Problemset/2503-Maximum%20Number%20of%20Points%20From%20Grid%20Queries/README_CN.md#2503-矩阵查询可获得的最大分数
 [2506]:Problemset/2506-Count%20Pairs%20Of%20Similar%20Strings/README_CN.md#2506-统计相似字符串对的数目
+[2507]:Problemset/2507-Smallest%20Value%20After%20Replacing%20With%20Sum%20of%20Prime%20Factors/README_CN.md#2507-使用质因数之和替换后可以取到的最小值
 [2508]:Problemset/2508-Add%20Edges%20to%20Make%20Degrees%20of%20All%20Nodes%20Even/README_CN.md#2508-添加边使所有节点度数都为偶数
 [2509]:Problemset/2509-Cycle%20Length%20Queries%20in%20a%20Tree/README_CN.md#2509-查询树中环的长度
 [2511]:Problemset/2511-Maximum%20Enemy%20Forts%20That%20Can%20Be%20Captured/README_CN.md#2511-最多可以摧毁的敌人城堡数目
@@ -5731,6 +5733,7 @@
 [2502l]:https://leetcode.cn/problems/design-memory-allocator/
 [2503l]:https://leetcode.cn/problems/maximum-number-of-points-from-grid-queries/
 [2506l]:https://leetcode.cn/problems/count-pairs-of-similar-strings/
+[2507l]:https://leetcode.cn/problems/smallest-value-after-replacing-with-sum-of-prime-factors/
 [2508l]:https://leetcode.cn/problems/add-edges-to-make-degrees-of-all-nodes-even/
 [2509l]:https://leetcode.cn/problems/cycle-length-queries-in-a-tree/
 [2511l]:https://leetcode.cn/problems/maximum-enemy-forts-that-can-be-captured/
