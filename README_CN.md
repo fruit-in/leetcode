@@ -533,6 +533,7 @@
 [722][722l]  |[删除注释][722]                                           |![py]
 [724][724l]  |[寻找数组的中心索引][724]                                 |![rb]&nbsp;&nbsp;![rs]
 [725][725l]  |[分隔链表][725]                                           |![py]
+[726][726l]  |[原子的数量][726]                                         |![py]
 [728][728l]  |[自除数][728]                                             |![py]
 [729][729l]  |[我的日程安排表 I][729]                                   |![py]
 [730][730l]  |[统计不同回文子序列][730]                                 |![rs]
@@ -2482,6 +2483,7 @@
 [722]:Problemset/0722-Remove%20Comments/README_CN.md#722-删除注释
 [724]:Problemset/0724-Find%20Pivot%20Index/README_CN.md#724-寻找数组的中心索引
 [725]:Problemset/0725-Split%20Linked%20List%20in%20Parts/README_CN.md#725-分隔链表
+[726]:Problemset/0726-Number%20of%20Atoms/README_CN.md#726-原子的数量
 [728]:Problemset/0728-Self%20Dividing%20Numbers/README_CN.md#728-自除数
 [729]:Problemset/0729-My%20Calendar%20I/README_CN.md#729-我的日程安排表-i
 [730]:Problemset/0730-Count%20Different%20Palindromic%20Subsequences/README_CN.md#730-统计不同回文子序列
@@ -4425,6 +4427,7 @@
 [722l]:https://leetcode.cn/problems/remove-comments/
 [724l]:https://leetcode.cn/problems/find-pivot-index/
 [725l]:https://leetcode.cn/problems/split-linked-list-in-parts/
+[726l]:https://leetcode.cn/problems/number-of-atoms/
 [728l]:https://leetcode.cn/problems/self-dividing-numbers/
 [729l]:https://leetcode.cn/problems/my-calendar-i/
 [730l]:https://leetcode.cn/problems/count-different-palindromic-subsequences/

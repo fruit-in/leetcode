@@ -533,6 +533,7 @@
 [722][722l]  |[Remove Comments][722]                                                                |![py]
 [724][724l]  |[Find Pivot Index][724]                                                               |![rb]&nbsp;&nbsp;![rs]
 [725][725l]  |[Split Linked List in Parts][725]                                                     |![py]
+[726][726l]  |[Number of Atoms][726]                                                                |![py]
 [728][728l]  |[Self Dividing Numbers][728]                                                          |![py]
 [729][729l]  |[My Calendar I][729]                                                                  |![py]
 [730][730l]  |[Count Different Palindromic Subsequences][730]                                       |![rs]
@@ -2482,6 +2483,7 @@
 [722]:Problemset/0722-Remove%20Comments/README.md#722-remove-comments
 [724]:Problemset/0724-Find%20Pivot%20Index/README.md#724-find-pivot-index
 [725]:Problemset/0725-Split%20Linked%20List%20in%20Parts/README.md#725-split-linked-list-in-parts
+[726]:Problemset/0726-Number%20of%20Atoms/README.md#726-number-of-atoms
 [728]:Problemset/0728-Self%20Dividing%20Numbers/README.md#728-self-dividing-numbers
 [729]:Problemset/0729-My%20Calendar%20I/README.md#729-my-calendar-i
 [730]:Problemset/0730-Count%20Different%20Palindromic%20Subsequences/README.md#730-count-different-palindromic-subsequences
@@ -4425,6 +4427,7 @@
 [722l]:https://leetcode.com/problems/remove-comments/
 [724l]:https://leetcode.com/problems/find-pivot-index/
 [725l]:https://leetcode.com/problems/split-linked-list-in-parts/
+[726l]:https://leetcode.com/problems/number-of-atoms/
 [728l]:https://leetcode.com/problems/self-dividing-numbers/
 [729l]:https://leetcode.com/problems/my-calendar-i/
 [730l]:https://leetcode.com/problems/count-different-palindromic-subsequences/
