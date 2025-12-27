@@ -1817,6 +1817,7 @@
 [2466][2466l]|[Count Ways To Build Good Strings][2466]                                              |![rs]
 [2468][2468l]|[Split Message Based on Limit][2468]                                                  |![rs]
 [2469][2469l]|[Convert the Temperature][2469]                                                       |![rs]
+[2470][2470l]|[Number of Subarrays With LCM Equal to K][2470]                                       |![py]
 [2471][2471l]|[Minimum Number of Operations to Sort a Binary Tree by Level][2471]                   |![py]
 [2472][2472l]|[Maximum Number of Non-overlapping Palindrome Substrings][2472]                       |![rs]
 [2475][2475l]|[Number of Unequal Triplets in Array][2475]                                           |![rs]
@@ -3767,6 +3768,7 @@
 [2466]:Problemset/2466-Count%20Ways%20To%20Build%20Good%20Strings/README.md#2466-count-ways-to-build-good-strings
 [2468]:Problemset/2468-Split%20Message%20Based%20on%20Limit/README.md#2468-split-message-based-on-limit
 [2469]:Problemset/2469-Convert%20the%20Temperature/README.md#2469-convert-the-temperature
+[2470]:Problemset/2470-Number%20of%20Subarrays%20With%20LCM%20Equal%20to%20K/README.md#2470-number-of-subarrays-with-lcm-equal-to-k
 [2471]:Problemset/2471-Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level/README.md#2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level
 [2472]:Problemset/2472-Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings/README.md#2472-maximum-number-of-non-overlapping-palindrome-substrings
 [2475]:Problemset/2475-Number%20of%20Unequal%20Triplets%20in%20Array/README.md#2475-number-of-unequal-triplets-in-array
@@ -5711,6 +5713,7 @@
 [2466l]:https://leetcode.com/problems/count-ways-to-build-good-strings/
 [2468l]:https://leetcode.com/problems/split-message-based-on-limit/
 [2469l]:https://leetcode.com/problems/convert-the-temperature/
+[2470l]:https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/
 [2471l]:https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/
 [2472l]:https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/
 [2475l]:https://leetcode.com/problems/number-of-unequal-triplets-in-array/

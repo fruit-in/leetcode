@@ -1817,6 +1817,7 @@
 [2466][2466l]|[统计构造好字符串的方案数][2466]                          |![rs]
 [2468][2468l]|[根据限制分割消息][2468]                                  |![rs]
 [2469][2469l]|[温度转换][2469]                                          |![rs]
+[2470][2470l]|[最小公倍数等于 K 的子数组数目][2470]                     |![py]
 [2471][2471l]|[逐层排序二叉树所需的最少操作数目][2471]                  |![py]
 [2472][2472l]|[不重叠回文子字符串的最大数目][2472]                      |![rs]
 [2475][2475l]|[数组中不等三元组的数目][2475]                            |![rs]
@@ -3767,6 +3768,7 @@
 [2466]:Problemset/2466-Count%20Ways%20To%20Build%20Good%20Strings/README_CN.md#2466-统计构造好字符串的方案数
 [2468]:Problemset/2468-Split%20Message%20Based%20on%20Limit/README_CN.md#2468-根据限制分割消息
 [2469]:Problemset/2469-Convert%20the%20Temperature/README_CN.md#2469-温度转换
+[2470]:Problemset/2470-Number%20of%20Subarrays%20With%20LCM%20Equal%20to%20K/README_CN.md#2470-最小公倍数等于-k-的子数组数目
 [2471]:Problemset/2471-Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level/README_CN.md#2471-逐层排序二叉树所需的最少操作数目
 [2472]:Problemset/2472-Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings/README_CN.md#2472-不重叠回文子字符串的最大数目
 [2475]:Problemset/2475-Number%20of%20Unequal%20Triplets%20in%20Array/README_CN.md#2475-数组中不等三元组的数目
@@ -5710,6 +5712,7 @@
 [2466l]:https://leetcode.cn/problems/count-ways-to-build-good-strings/
 [2468l]:https://leetcode.cn/problems/split-message-based-on-limit/
 [2469l]:https://leetcode.cn/problems/convert-the-temperature/
+[2470l]:https://leetcode.cn/problems/number-of-subarrays-with-lcm-equal-to-k/
 [2471l]:https://leetcode.cn/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/
 [2472l]:https://leetcode.cn/problems/maximum-number-of-non-overlapping-palindrome-substrings/
 [2475l]:https://leetcode.cn/problems/number-of-unequal-triplets-in-array/
