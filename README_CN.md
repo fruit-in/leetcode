@@ -733,6 +733,7 @@
 [949][949l]  |[给定数字能组成的最大时间][949]                           |![py]
 [950][950l]  |[按递增顺序显示卡牌][950]                                 |![rs]
 [951][951l]  |[翻转等价二叉树][951]                                     |![rb]
+[952][952l]  |[按公因数计算最大组件大小][952]                           |![py]
 [953][953l]  |[验证外星语词典][953]                                     |![py]
 [954][954l]  |[二倍数对数组][954]                                       |![py]
 [956][956l]  |[最高的广告牌][956]                                       |![rs]
@@ -2684,6 +2685,7 @@
 [949]:Problemset/0949-Largest%20Time%20for%20Given%20Digits/README_CN.md#949-给定数字能组成的最大时间
 [950]:Problemset/0950-Reveal%20Cards%20In%20Increasing%20Order/README_CN.md#950-按递增顺序显示卡牌
 [951]:Problemset/0951-Flip%20Equivalent%20Binary%20Trees/README_CN.md#951-翻转等价二叉树
+[952]:Problemset/0952-Largest%20Component%20Size%20by%20Common%20Factor/README_CN.md#952-按公因数计算最大组件大小
 [953]:Problemset/0953-Verifying%20an%20Alien%20Dictionary/README_CN.md#953-验证外星语词典
 [954]:Problemset/0954-Array%20of%20Doubled%20Pairs/README_CN.md#954-二倍数对数组
 [956]:Problemset/0956-Tallest%20Billboard/README_CN.md#956-最高的广告牌
@@ -4629,6 +4631,7 @@
 [949l]:https://leetcode.cn/problems/largest-time-for-given-digits/
 [950l]:https://leetcode.cn/problems/reveal-cards-in-increasing-order/
 [951l]:https://leetcode.cn/problems/flip-equivalent-binary-trees/
+[952l]:https://leetcode.cn/problems/largest-component-size-by-common-factor/
 [953l]:https://leetcode.cn/problems/verifying-an-alien-dictionary/
 [954l]:https://leetcode.cn/problems/array-of-doubled-pairs/
 [956l]:https://leetcode.cn/problems/tallest-billboard/

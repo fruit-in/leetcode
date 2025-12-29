@@ -733,6 +733,7 @@
 [949][949l]  |[Largest Time for Given Digits][949]                                                  |![py]
 [950][950l]  |[Reveal Cards In Increasing Order][950]                                               |![rs]
 [951][951l]  |[Flip Equivalent Binary Trees][951]                                                   |![rb]
+[952][952l]  |[Largest Component Size by Common Factor][952]                                        |![py]
 [953][953l]  |[Verifying an Alien Dictionary][953]                                                  |![py]
 [954][954l]  |[Array of Doubled Pairs][954]                                                         |![py]
 [956][956l]  |[Tallest Billboard][956]                                                              |![rs]
@@ -2684,6 +2685,7 @@
 [949]:Problemset/0949-Largest%20Time%20for%20Given%20Digits/README.md#949-largest-time-for-given-digits
 [950]:Problemset/0950-Reveal%20Cards%20In%20Increasing%20Order/README.md#950-reveal-cards-in-increasing-order
 [951]:Problemset/0951-Flip%20Equivalent%20Binary%20Trees/README.md#951-flip-equivalent-binary-trees
+[952]:Problemset/0952-Largest%20Component%20Size%20by%20Common%20Factor/README.md#952-largest-component-size-by-common-factor
 [953]:Problemset/0953-Verifying%20an%20Alien%20Dictionary/README.md#953-verifying-an-alien-dictionary
 [954]:Problemset/0954-Array%20of%20Doubled%20Pairs/README.md#954-array-of-doubled-pairs
 [956]:Problemset/0956-Tallest%20Billboard/README.md#956-tallest-billboard
@@ -4629,6 +4631,7 @@
 [949l]:https://leetcode.com/problems/largest-time-for-given-digits/
 [950l]:https://leetcode.com/problems/reveal-cards-in-increasing-order/
 [951l]:https://leetcode.com/problems/flip-equivalent-binary-trees/
+[952l]:https://leetcode.com/problems/largest-component-size-by-common-factor/
 [953l]:https://leetcode.com/problems/verifying-an-alien-dictionary/
 [954l]:https://leetcode.com/problems/array-of-doubled-pairs/
 [956l]:https://leetcode.com/problems/tallest-billboard/
