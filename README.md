@@ -349,6 +349,7 @@
 [455][455l]  |[Assign Cookies][455]                                                                 |![rb]&nbsp;&nbsp;![rs]
 [456][456l]  |[132 Pattern][456]                                                                    |![rs]
 [457][457l]  |[Circular Array Loop][457]                                                            |![rs]
+[458][458l]  |[Poor Pigs][458]                                                                      |![py]
 [459][459l]  |[Repeated Substring Pattern][459]                                                     |![py]
 [460][460l]  |[LFU Cache][460]                                                                      |![py]
 [461][461l]  |[Hamming Distance][461]                                                               |![rs]
@@ -2301,6 +2302,7 @@
 [455]:Problemset/0455-Assign%20Cookies/README.md#455-assign-cookies
 [456]:Problemset/0456-132%20Pattern/README.md#456-132-pattern
 [457]:Problemset/0457-Circular%20Array%20Loop/README.md#457-circular-array-loop
+[458]:Problemset/0458-Poor%20Pigs/README.md#458-poor-pigs
 [459]:Problemset/0459-Repeated%20Substring%20Pattern/README.md#459-repeated-substring-pattern
 [460]:Problemset/0460-LFU%20Cache/README.md#460-lfu-cache
 [461]:Problemset/0461-Hamming%20Distance/README.md#461-hamming-distance
@@ -4247,6 +4249,7 @@
 [455l]:https://leetcode.com/problems/assign-cookies/
 [456l]:https://leetcode.com/problems/132-pattern/
 [457l]:https://leetcode.com/problems/circular-array-loop/
+[458l]:https://leetcode.com/problems/poor-pigs/
 [459l]:https://leetcode.com/problems/repeated-substring-pattern/
 [460l]:https://leetcode.com/problems/lfu-cache/
 [461l]:https://leetcode.com/problems/hamming-distance/
