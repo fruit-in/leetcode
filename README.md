@@ -101,6 +101,7 @@
 [96][96l]    |[Unique Binary Search Trees][96]                                                      |![rb]&nbsp;&nbsp;![rs]
 [97][97l]    |[Interleaving String][97]                                                             |![rs]
 [98][98l]    |[Validate Binary Search Tree][98]                                                     |![py]
+[99][99l]    |[Recover Binary Search Tree][99]                                                      |![py]
 [100][100l]  |[Same Tree][100]                                                                      |![py]
 [101][101l]  |[Symmetric Tree][101]                                                                 |![py]
 [102][102l]  |[Binary Tree Level Order Traversal][102]                                              |![py]
@@ -2054,6 +2055,7 @@
 [96]:Problemset/0096-Unique%20Binary%20Search%20Trees/README.md#96-unique-binary-search-trees
 [97]:Problemset/0097-Interleaving%20String/README.md#97-interleaving-string
 [98]:Problemset/0098-Validate%20Binary%20Search%20Tree/README.md#98-validate-binary-search-tree
+[99]:Problemset/0099-Recover%20Binary%20Search%20Tree/README.md#99-recover-binary-search-tree
 [100]:Problemset/0100-Same%20Tree/README.md#100-same-tree
 [101]:Problemset/0101-Symmetric%20Tree/README.md#101-symmetric-tree
 [102]:Problemset/0102-Binary%20Tree%20Level%20Order%20Traversal/README.md#102-binary-tree-level-order-traversal
@@ -4000,6 +4002,7 @@
 [96l]:https://leetcode.com/problems/unique-binary-search-trees/
 [97l]:https://leetcode.com/problems/interleaving-string/
 [98l]:https://leetcode.com/problems/validate-binary-search-tree/
+[99l]:https://leetcode.com/problems/recover-binary-search-tree/
 [100l]:https://leetcode.com/problems/same-tree/
 [101l]:https://leetcode.com/problems/symmetric-tree/
 [102l]:https://leetcode.com/problems/binary-tree-level-order-traversal/

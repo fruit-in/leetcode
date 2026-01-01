@@ -101,6 +101,7 @@
 [96][96l]    |[不同的二叉搜索树][96]                                    |![rb]&nbsp;&nbsp;![rs]
 [97][97l]    |[交错字符串][97]                                          |![rs]
 [98][98l]    |[验证二叉搜索树][98]                                      |![py]
+[99][99l]    |[恢复二叉搜索树][99]                                      |![py]
 [100][100l]  |[相同的树][100]                                           |![py]
 [101][101l]  |[对称二叉树][101]                                         |![py]
 [102][102l]  |[二叉树的层次遍历][102]                                   |![py]
@@ -2054,6 +2055,7 @@
 [96]:Problemset/0096-Unique%20Binary%20Search%20Trees/README_CN.md#96-不同的二叉搜索树
 [97]:Problemset/0097-Interleaving%20String/README_CN.md#97-交错字符串
 [98]:Problemset/0098-Validate%20Binary%20Search%20Tree/README_CN.md#98-验证二叉搜索树
+[99]:Problemset/0099-Recover%20Binary%20Search%20Tree/README_CN.md#99-恢复二叉搜索树
 [100]:Problemset/0100-Same%20Tree/README_CN.md#100-相同的树
 [101]:Problemset/0101-Symmetric%20Tree/README_CN.md#101-对称二叉树
 [102]:Problemset/0102-Binary%20Tree%20Level%20Order%20Traversal/README_CN.md#102-二叉树的层次遍历
@@ -4000,6 +4002,7 @@
 [96l]:https://leetcode.cn/problems/unique-binary-search-trees/
 [97l]:https://leetcode.cn/problems/interleaving-string/
 [98l]:https://leetcode.cn/problems/validate-binary-search-tree/
+[99l]:https://leetcode.cn/problems/recover-binary-search-tree/
 [100l]:https://leetcode.cn/problems/same-tree/
 [101l]:https://leetcode.cn/problems/symmetric-tree/
 [102l]:https://leetcode.cn/problems/binary-tree-level-order-traversal/
