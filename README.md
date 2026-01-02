@@ -1169,6 +1169,7 @@
 [1576][1576l]|[Replace All ?'s to Avoid Consecutive Repeating Characters][1576]                     |![rs]
 [1577][1577l]|[Number of Ways Where Square of Number Is Equal to Product of Two Numbers][1577]      |![py]
 [1578][1578l]|[Minimum Time to Make Rope Colorful][1578]                                            |![rs]
+[1579][1579l]|[Remove Max Number of Edges to Keep Graph Fully Traversable][1579]                    |![py]
 [1582][1582l]|[Special Positions in a Binary Matrix][1582]                                          |![rs]
 [1583][1583l]|[Count Unhappy Friends][1583]                                                         |![rs]
 [1584][1584l]|[Min Cost to Connect All Points][1584]                                                |![rs]
@@ -3123,6 +3124,7 @@
 [1576]:Problemset/1576-Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters/README.md#1576-replace-all-s-to-avoid-consecutive-repeating-characters
 [1577]:Problemset/1577-Number%20of%20Ways%20Where%20Square%20of%20Number%20Is%20Equal%20to%20Product%20of%20Two%20Numbers/README.md#1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers
 [1578]:Problemset/1578-Minimum%20Time%20to%20Make%20Rope%20Colorful/README.md#1578-minimum-time-to-make-rope-colorful
+[1579]:Problemset/1579-Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable/README.md#1579-remove-max-number-of-edges-to-keep-graph-fully-traversable
 [1582]:Problemset/1582-Special%20Positions%20in%20a%20Binary%20Matrix/README.md#1582-special-positions-in-a-binary-matrix
 [1583]:Problemset/1583-Count%20Unhappy%20Friends/README.md#1583-count-unhappy-friends
 [1584]:Problemset/1584-Min%20Cost%20to%20Connect%20All%20Points/README.md#1584-min-cost-to-connect-all-points
@@ -5071,6 +5073,7 @@
 [1576l]:https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
 [1577l]:https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
 [1578l]:https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
+[1579l]:https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
 [1582l]:https://leetcode.com/problems/special-positions-in-a-binary-matrix/
 [1583l]:https://leetcode.com/problems/count-unhappy-friends/
 [1584l]:https://leetcode.com/problems/min-cost-to-connect-all-points/

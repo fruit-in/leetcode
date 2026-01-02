@@ -1169,6 +1169,7 @@
 [1576][1576l]|[替换所有的问号][1576]                                    |![rs]
 [1577][1577l]|[数的平方等于两数乘积的方法数][1577]                      |![py]
 [1578][1578l]|[使绳子变成彩色的最短时间][1578]                          |![rs]
+[1579][1579l]|[保证图可完全遍历][1579]                                  |![py]
 [1582][1582l]|[二进制矩阵中的特殊位置][1582]                            |![rs]
 [1583][1583l]|[统计不开心的朋友][1583]                                  |![rs]
 [1584][1584l]|[连接所有点的最小费用][1584]                              |![rs]
@@ -3123,6 +3124,7 @@
 [1576]:Problemset/1576-Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters/README_CN.md#1576-替换所有的问号
 [1577]:Problemset/1577-Number%20of%20Ways%20Where%20Square%20of%20Number%20Is%20Equal%20to%20Product%20of%20Two%20Numbers/README_CN.md#1577-数的平方等于两数乘积的方法数
 [1578]:Problemset/1578-Minimum%20Time%20to%20Make%20Rope%20Colorful/README_CN.md#1578-使绳子变成彩色的最短时间
+[1579]:Problemset/1579-Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable/README_CN.md#1579-保证图可完全遍历
 [1582]:Problemset/1582-Special%20Positions%20in%20a%20Binary%20Matrix/README_CN.md#1582-二进制矩阵中的特殊位置
 [1583]:Problemset/1583-Count%20Unhappy%20Friends/README_CN.md#1583-统计不开心的朋友
 [1584]:Problemset/1584-Min%20Cost%20to%20Connect%20All%20Points/README_CN.md#1584-连接所有点的最小费用
@@ -5071,6 +5073,7 @@
 [1576l]:https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
 [1577l]:https://leetcode.cn/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
 [1578l]:https://leetcode.cn/problems/minimum-time-to-make-rope-colorful/
+[1579l]:https://leetcode.cn/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
 [1582l]:https://leetcode.cn/problems/special-positions-in-a-binary-matrix/
 [1583l]:https://leetcode.cn/problems/count-unhappy-friends/
 [1584l]:https://leetcode.cn/problems/min-cost-to-connect-all-points/
