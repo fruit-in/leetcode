@@ -149,6 +149,7 @@
 [145][145l]  |[Binary Tree Postorder Traversal][145]                                                |![py]
 [146][146l]  |[LRU Cache][146]                                                                      |![py]
 [147][147l]  |[Insertion Sort List][147]                                                            |![py]
+[148][148l]  |[Sort List][148]                                                                      |![py]
 [149][149l]  |[Max Points on a Line][149]                                                           |![py]
 [150][150l]  |[Evaluate Reverse Polish Notation][150]                                               |![rs]
 [151][151l]  |[Reverse Words in a String][151]                                                      |![rs]
@@ -2104,6 +2105,7 @@
 [145]:Problemset/0145-Binary%20Tree%20Postorder%20Traversal/README.md#145-binary-tree-postorder-traversal
 [146]:Problemset/0146-LRU%20Cache/README.md#146-lru-cache
 [147]:Problemset/0147-Insertion%20Sort%20List/README.md#147-insertion-sort-list
+[148]:Problemset/0148-Sort%20List/README.md#148-sort-list
 [149]:Problemset/0149-Max%20Points%20on%20a%20Line/README.md#149-max-points-on-a-line
 [150]:Problemset/0150-Evaluate%20Reverse%20Polish%20Notation/README.md#150-evaluate-reverse-polish-notation
 [151]:Problemset/0151-Reverse%20Words%20in%20a%20String/README.md#151-reverse-words-in-a-string
@@ -4052,6 +4054,7 @@
 [145l]:https://leetcode.com/problems/binary-tree-postorder-traversal/
 [146l]:https://leetcode.com/problems/lru-cache/
 [147l]:https://leetcode.com/problems/insertion-sort-list/
+[148l]:https://leetcode.com/problems/sort-list/
 [149l]:https://leetcode.com/problems/max-points-on-a-line/
 [150l]:https://leetcode.com/problems/evaluate-reverse-polish-notation/
 [151l]:https://leetcode.com/problems/reverse-words-in-a-string/
