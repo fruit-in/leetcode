@@ -1111,6 +1111,7 @@
 [1491][1491l]|[去掉最低工资和最高工资后的工资平均值][1491]              |![rb]&nbsp;&nbsp;![rs]
 [1492][1492l]|[n 的第 k 个因子][1492]                                   |![py]&nbsp;&nbsp;![rb]&nbsp;&nbsp;![rs]
 [1493][1493l]|[删掉一个元素以后全为 1 的最长子数组][1493]               |![rb]&nbsp;&nbsp;![rs]
+[1494][1494l]|[并行课程 II][1494]                                       |![py]
 [1496][1496l]|[判断路径是否相交][1496]                                  |![rs]
 [1497][1497l]|[检查数组对是否可以被 k 整除][1497]                       |![rs]
 [1498][1498l]|[满足条件的子序列数目][1498]                              |![rs]
@@ -3067,6 +3068,7 @@
 [1491]:Problemset/1491-Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README_CN.md#1491-去掉最低工资和最高工资后的工资平均值
 [1492]:Problemset/1492-The%20kth%20Factor%20of%20n/README_CN.md#1492-n-的第-k-个因子
 [1493]:Problemset/1493-Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/README_CN.md#1493-删掉一个元素以后全为-1-的最长子数组
+[1494]:Problemset/1494-Parallel%20Courses%20II/README_CN.md#1494-并行课程-ii
 [1496]:Problemset/1496-Path%20Crossing/README_CN.md#1496-判断路径是否相交
 [1497]:Problemset/1497-Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/README_CN.md#1497-检查数组对是否可以被-k-整除
 [1498]:Problemset/1498-Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition/README_CN.md#1498-满足条件的子序列数目
@@ -5017,6 +5019,7 @@
 [1491l]:https://leetcode.cn/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [1492l]:https://leetcode.cn/problems/the-kth-factor-of-n/
 [1493l]:https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/
+[1494l]:https://leetcode.cn/problems/parallel-courses-ii/
 [1496l]:https://leetcode.cn/problems/path-crossing/
 [1497l]:https://leetcode.cn/problems/check-if-array-pairs-are-divisible-by-k/
 [1498l]:https://leetcode.cn/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/

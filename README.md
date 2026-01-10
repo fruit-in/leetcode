@@ -1111,6 +1111,7 @@
 [1491][1491l]|[Average Salary Excluding the Minimum and Maximum Salary][1491]                       |![rb]&nbsp;&nbsp;![rs]
 [1492][1492l]|[The kth Factor of n][1492]                                                           |![py]&nbsp;&nbsp;![rb]&nbsp;&nbsp;![rs]
 [1493][1493l]|[Longest Subarray of 1's After Deleting One Element][1493]                            |![rb]&nbsp;&nbsp;![rs]
+[1494][1494l]|[Parallel Courses II][1494]                                                           |![py]
 [1496][1496l]|[Path Crossing][1496]                                                                 |![rs]
 [1497][1497l]|[Check If Array Pairs Are Divisible by k][1497]                                       |![rs]
 [1498][1498l]|[Number of Subsequences That Satisfy the Given Sum Condition][1498]                   |![rs]
@@ -3067,6 +3068,7 @@
 [1491]:Problemset/1491-Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/README.md#1491-average-salary-excluding-the-minimum-and-maximum-salary
 [1492]:Problemset/1492-The%20kth%20Factor%20of%20n/README.md#1492-the-kth-factor-of-n
 [1493]:Problemset/1493-Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/README.md#1493-longest-subarray-of-1s-after-deleting-one-element
+[1494]:Problemset/1494-Parallel%20Courses%20II/README.md#1494-parallel-courses-ii
 [1496]:Problemset/1496-Path%20Crossing/README.md#1496-path-crossing
 [1497]:Problemset/1497-Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/README.md#1497-check-if-array-pairs-are-divisible-by-k
 [1498]:Problemset/1498-Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition/README.md#1498-number-of-subsequences-that-satisfy-the-given-sum-condition
@@ -5017,6 +5019,7 @@
 [1491l]:https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [1492l]:https://leetcode.com/problems/the-kth-factor-of-n/
 [1493l]:https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+[1494l]:https://leetcode.com/problems/parallel-courses-ii/
 [1496l]:https://leetcode.com/problems/path-crossing/
 [1497l]:https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/
 [1498l]:https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
