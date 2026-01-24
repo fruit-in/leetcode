@@ -732,6 +732,7 @@
 [944][944l]  |[Delete Columns to Make Sorted][944]                                                  |![py]
 [945][945l]  |[Minimum Increment to Make Array Unique][945]                                         |![rb]&nbsp;&nbsp;![rs]
 [946][946l]  |[Validate Stack Sequences][946]                                                       |![rb]&nbsp;&nbsp;![rs]
+[947][947l]  |[Most Stones Removed with Same Row or Column][947]                                    |![py]
 [948][948l]  |[Bag of Tokens][948]                                                                  |![rb]&nbsp;&nbsp;![rs]
 [949][949l]  |[Largest Time for Given Digits][949]                                                  |![py]
 [950][950l]  |[Reveal Cards In Increasing Order][950]                                               |![rs]
@@ -2689,6 +2690,7 @@
 [944]:Problemset/0944-Delete%20Columns%20to%20Make%20Sorted/README.md#944-delete-columns-to-make-sorted
 [945]:Problemset/0945-Minimum%20Increment%20to%20Make%20Array%20Unique/README.md#945-minimum-increment-to-make-array-unique
 [946]:Problemset/0946-Validate%20Stack%20Sequences/README.md#946-validate-stack-sequences
+[947]:Problemset/0947-Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column/README.md#947-most-stones-removed-with-same-row-or-column
 [948]:Problemset/0948-Bag%20of%20Tokens/README.md#948-bag-of-tokens
 [949]:Problemset/0949-Largest%20Time%20for%20Given%20Digits/README.md#949-largest-time-for-given-digits
 [950]:Problemset/0950-Reveal%20Cards%20In%20Increasing%20Order/README.md#950-reveal-cards-in-increasing-order
@@ -4640,6 +4642,7 @@
 [944l]:https://leetcode.com/problems/delete-columns-to-make-sorted/
 [945l]:https://leetcode.com/problems/minimum-increment-to-make-array-unique/
 [946l]:https://leetcode.com/problems/validate-stack-sequences/
+[947l]:https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
 [948l]:https://leetcode.com/problems/bag-of-tokens/
 [949l]:https://leetcode.com/problems/largest-time-for-given-digits/
 [950l]:https://leetcode.com/problems/reveal-cards-in-increasing-order/

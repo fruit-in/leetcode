@@ -732,6 +732,7 @@
 [944][944l]  |[删列造序][944]                                           |![py]
 [945][945l]  |[使数组唯一的最小增量][945]                               |![rb]&nbsp;&nbsp;![rs]
 [946][946l]  |[验证栈序列][946]                                         |![rb]&nbsp;&nbsp;![rs]
+[947][947l]  |[移除最多的同行或同列石头][947]                           |![py]
 [948][948l]  |[令牌放置][948]                                           |![rb]&nbsp;&nbsp;![rs]
 [949][949l]  |[给定数字能组成的最大时间][949]                           |![py]
 [950][950l]  |[按递增顺序显示卡牌][950]                                 |![rs]
@@ -2689,6 +2690,7 @@
 [944]:Problemset/0944-Delete%20Columns%20to%20Make%20Sorted/README_CN.md#944-删列造序
 [945]:Problemset/0945-Minimum%20Increment%20to%20Make%20Array%20Unique/README_CN.md#945-使数组唯一的最小增量
 [946]:Problemset/0946-Validate%20Stack%20Sequences/README_CN.md#946-验证栈序列
+[947]:Problemset/0947-Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column/README_CN.md#947-移除最多的同行或同列石头
 [948]:Problemset/0948-Bag%20of%20Tokens/README_CN.md#948-令牌放置
 [949]:Problemset/0949-Largest%20Time%20for%20Given%20Digits/README_CN.md#949-给定数字能组成的最大时间
 [950]:Problemset/0950-Reveal%20Cards%20In%20Increasing%20Order/README_CN.md#950-按递增顺序显示卡牌
@@ -4640,6 +4642,7 @@
 [944l]:https://leetcode.cn/problems/delete-columns-to-make-sorted/
 [945l]:https://leetcode.cn/problems/minimum-increment-to-make-array-unique/
 [946l]:https://leetcode.cn/problems/validate-stack-sequences/
+[947l]:https://leetcode.cn/problems/most-stones-removed-with-same-row-or-column/
 [948l]:https://leetcode.cn/problems/bag-of-tokens/
 [949l]:https://leetcode.cn/problems/largest-time-for-given-digits/
 [950l]:https://leetcode.cn/problems/reveal-cards-in-increasing-order/
