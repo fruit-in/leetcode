@@ -755,6 +755,7 @@
 [969][969l]  |[Pancake Sorting][969]                                                                |![py]
 [970][970l]  |[Powerful Integers][970]                                                              |![rs]
 [971][971l]  |[Flip Binary Tree To Match Preorder Traversal][971]                                   |![py]
+[972][972l]  |[Equal Rational Numbers][972]                                                         |![py]
 [973][973l]  |[K Closest Points to Origin][973]                                                     |![rs]
 [974][974l]  |[Subarray Sums Divisible by K][974]                                                   |![rb]&nbsp;&nbsp;![rs]
 [975][975l]  |[Odd Even Jump][975]                                                                  |![py]
@@ -2713,6 +2714,7 @@
 [969]:Problemset/0969-Pancake%20Sorting/README.md#969-pancake-sorting
 [970]:Problemset/0970-Powerful%20Integers/README.md#970-powerful-integers
 [971]:Problemset/0971-Flip%20Binary%20Tree%20To%20Match%20Preorder%20Traversal/README.md#971-flip-binary-tree-to-match-preorder-traversal
+[972]:Problemset/0972-Equal%20Rational%20Numbers/README.md#972-equal-rational-numbers
 [973]:Problemset/0973-K%20Closest%20Points%20to%20Origin/README.md#973-k-closest-points-to-origin
 [974]:Problemset/0974-Subarray%20Sums%20Divisible%20by%20K/README.md#974-subarray-sums-divisible-by-k
 [975]:Problemset/0975-Odd%20Even%20Jump/README.md#975-odd-even-jump
@@ -4665,6 +4667,7 @@
 [969l]:https://leetcode.com/problems/pancake-sorting/
 [970l]:https://leetcode.com/problems/powerful-integers/
 [971l]:https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/
+[972l]:https://leetcode.com/problems/equal-rational-numbers/
 [973l]:https://leetcode.com/problems/k-closest-points-to-origin/
 [974l]:https://leetcode.com/problems/subarray-sums-divisible-by-k/
 [975l]:https://leetcode.com/problems/odd-even-jump/
