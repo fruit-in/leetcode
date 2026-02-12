@@ -1407,6 +1407,7 @@
 [1903][1903l]|[Largest Odd Number in String][1903]                                                  |![rs]
 [1904][1904l]|[The Number of Full Rounds You Have Played][1904]                                     |![py]
 [1905][1905l]|[Count Sub Islands][1905]                                                             |![rs]
+[1906][1906l]|[Minimum Absolute Difference Queries][1906]                                           |![rs]
 [1909][1909l]|[Remove One Element to Make the Array Strictly Increasing][1909]                      |![rs]
 [1910][1910l]|[Remove All Occurrences of a Substring][1910]                                         |![rs]
 [1911][1911l]|[Maximum Alternating Subsequence Sum][1911]                                           |![rs]
@@ -3366,6 +3367,7 @@
 [1903]:Problemset/1903-Largest%20Odd%20Number%20in%20String/README.md#1903-largest-odd-number-in-string
 [1904]:Problemset/1904-The%20Number%20of%20Full%20Rounds%20You%20Have%20Played/README.md#1904-the-number-of-full-rounds-you-have-played
 [1905]:Problemset/1905-Count%20Sub%20Islands/README.md#1905-count-sub-islands
+[1906]:Problemset/1906-Minimum%20Absolute%20Difference%20Queries/README.md#1906-minimum-absolute-difference-queries
 [1909]:Problemset/1909-Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing/README.md#1909-remove-one-element-to-make-the-array-strictly-increasing
 [1910]:Problemset/1910-Remove%20All%20Occurrences%20of%20a%20Substring/README.md#1910-remove-all-occurrences-of-a-substring
 [1911]:Problemset/1911-Maximum%20Alternating%20Subsequence%20Sum/README.md#1911-maximum-alternating-subsequence-sum
@@ -5319,6 +5321,7 @@
 [1903l]:https://leetcode.com/problems/largest-odd-number-in-string/
 [1904l]:https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/
 [1905l]:https://leetcode.com/problems/count-sub-islands/
+[1906l]:https://leetcode.com/problems/minimum-absolute-difference-queries/
 [1909l]:https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
 [1910l]:https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
 [1911l]:https://leetcode.com/problems/maximum-alternating-subsequence-sum/
