@@ -1094,6 +1094,7 @@
 [1463][1463l]|[Cherry Pickup II][1463]                                                              |![rs]
 [1464][1464l]|[Maximum Product of Two Elements in an Array][1464]                                   |![rs]
 [1465][1465l]|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts][1465]            |![py]
+[1466][1466l]|[Reorder Routes to Make All Paths Lead to the City Zero][1466]                        |![rs]
 [1467][1467l]|[Probability of a Two Boxes Having The Same Number of Distinct Balls][1467]           |![py]
 [1470][1470l]|[Shuffle the Array][1470]                                                             |![rs]
 [1471][1471l]|[The k Strongest Values in an Array][1471]                                            |![rb]&nbsp;&nbsp;![rs]
@@ -3055,6 +3056,7 @@
 [1463]:Problemset/1463-Cherry%20Pickup%20II/README.md#1463-cherry-pickup-ii
 [1464]:Problemset/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/README.md#1464-maximum-product-of-two-elements-in-an-array
 [1465]:Problemset/1465-Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts/README.md#1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+[1466]:Problemset/1466-Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero/README.md#1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero
 [1467]:Problemset/1467-Probability%20of%20a%20Two%20Boxes%20Having%20The%20Same%20Number%20of%20Distinct%20Balls/README.md#1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls
 [1470]:Problemset/1470-Shuffle%20the%20Array/README.md#1470-shuffle-the-array
 [1471]:Problemset/1471-The%20k%20Strongest%20Values%20in%20an%20Array/README.md#1471-the-k-strongest-values-in-an-array
@@ -5010,6 +5012,7 @@
 [1463l]:https://leetcode.com/problems/cherry-pickup-ii/
 [1464l]:https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 [1465l]:https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
+[1466l]:https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 [1467l]:https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/
 [1470l]:https://leetcode.com/problems/shuffle-the-array/
 [1471l]:https://leetcode.com/problems/the-k-strongest-values-in-an-array/
