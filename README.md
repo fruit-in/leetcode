@@ -1600,6 +1600,7 @@
 [2166][2166l]|[Design Bitset][2166]                                                                 |![py]
 [2167][2167l]|[Minimum Time to Remove All Cars Containing Illegal Goods][2167]                      |![rs]
 [2169][2169l]|[Count Operations to Obtain Zero][2169]                                               |![py]
+[2170][2170l]|[Minimum Operations to Make the Array Alternating][2170]                              |![rs]
 [2171][2171l]|[Removing Minimum Number of Magic Beans][2171]                                        |![rs]
 [2172][2172l]|[Maximum AND Sum of Array][2172]                                                      |![py]
 [2176][2176l]|[Count Equal and Divisible Pairs in an Array][2176]                                   |![rs]
@@ -3562,6 +3563,7 @@
 [2166]:Problemset/2166-Design%20Bitset/README.md#2166-design-bitset
 [2167]:Problemset/2167-Minimum%20Time%20to%20Remove%20All%20Cars%20Containing%20Illegal%20Goods/README.md#2167-minimum-time-to-remove-all-cars-containing-illegal-goods
 [2169]:Problemset/2169-Count%20Operations%20to%20Obtain%20Zero/README.md#2169-count-operations-to-obtain-zero
+[2170]:Problemset/2170-Minimum%20Operations%20to%20Make%20the%20Array%20Alternating/README.md#2170-minimum-operations-to-make-the-array-alternating
 [2171]:Problemset/2171-Removing%20Minimum%20Number%20of%20Magic%20Beans/README.md#2171-removing-minimum-number-of-magic-beans
 [2172]:Problemset/2172-Maximum%20AND%20Sum%20of%20Array/README.md#2172-maximum-and-sum-of-array
 [2176]:Problemset/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README.md#2176-count-equal-and-divisible-pairs-in-an-array
@@ -5518,6 +5520,7 @@
 [2166l]:https://leetcode.com/problems/design-bitset/
 [2167l]:https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/
 [2169l]:https://leetcode.com/problems/count-operations-to-obtain-zero/
+[2170l]:https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/
 [2171l]:https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
 [2172l]:https://leetcode.com/problems/maximum-and-sum-of-array/
 [2176l]:https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/

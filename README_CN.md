@@ -1600,6 +1600,7 @@
 [2166][2166l]|[设计位集][2166]                                          |![py]
 [2167][2167l]|[移除所有载有违禁货物车厢所需的最少时间][2167]            |![rs]
 [2169][2169l]|[得到 0 的操作数][2169]                                   |![py]
+[2170][2170l]|[使数组变成交替数组的最少操作数][2170]                    |![rs]
 [2171][2171l]|[拿出最少数目的魔法豆][2171]                              |![rs]
 [2172][2172l]|[数组的最大与和][2172]                                    |![py]
 [2176][2176l]|[统计数组中相等且可以被整除的数对][2176]                  |![rs]
@@ -3562,6 +3563,7 @@
 [2166]:Problemset/2166-Design%20Bitset/README_CN.md#2166-设计位集
 [2167]:Problemset/2167-Minimum%20Time%20to%20Remove%20All%20Cars%20Containing%20Illegal%20Goods/README_CN.md#2167-移除所有载有违禁货物车厢所需的最少时间
 [2169]:Problemset/2169-Count%20Operations%20to%20Obtain%20Zero/README_CN.md#2169-得到-0-的操作数
+[2170]:Problemset/2170-Minimum%20Operations%20to%20Make%20the%20Array%20Alternating/README_CN.md#2170-使数组变成交替数组的最少操作数
 [2171]:Problemset/2171-Removing%20Minimum%20Number%20of%20Magic%20Beans/README_CN.md#2171-拿出最少数目的魔法豆
 [2172]:Problemset/2172-Maximum%20AND%20Sum%20of%20Array/README_CN.md#2172-数组的最大与和
 [2176]:Problemset/2176-Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/README_CN.md#2176-统计数组中相等且可以被整除的数对
@@ -5518,6 +5520,7 @@
 [2166l]:https://leetcode.cn/problems/design-bitset/
 [2167l]:https://leetcode.cn/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/
 [2169l]:https://leetcode.cn/problems/count-operations-to-obtain-zero/
+[2170l]:https://leetcode.cn/problems/minimum-operations-to-make-the-array-alternating/
 [2171l]:https://leetcode.cn/problems/removing-minimum-number-of-magic-beans/
 [2172l]:https://leetcode.cn/problems/maximum-and-sum-of-array/
 [2176l]:https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/
