@@ -129,6 +129,7 @@
 [124][124l]  |[二叉树中的最大路径和][124]                               |![py]
 [125][125l]  |[验证回文串][125]                                         |![py]
 [126][126l]  |[单词接龙 II][126]                                        |![py]
+[127][127l]  |[单词接龙][127]                                           |![py]
 [128][128l]  |[最长连续序列][128]                                       |![rs]
 [129][129l]  |[求根到叶子节点数字之和][129]                             |![py]
 [130][130l]  |[被围绕的区域][130]                                       |![rs]
@@ -2092,6 +2093,7 @@
 [124]:Problemset/0124-Binary%20Tree%20Maximum%20Path%20Sum/README_CN.md#124-二叉树中的最大路径和
 [125]:Problemset/0125-Valid%20Palindrome/README_CN.md#125-验证回文串
 [126]:Problemset/0126-Word%20Ladder%20II/README_CN.md#126-单词接龙-ii
+[127]:Problemset/0127-Word%20Ladder/README_CN.md#127-单词接龙
 [128]:Problemset/0128-Longest%20Consecutive%20Sequence/README_CN.md#128-最长连续序列
 [129]:Problemset/0129-Sum%20Root%20to%20Leaf%20Numbers/README_CN.md#129-求根到叶子节点数字之和
 [130]:Problemset/0130-Surrounded%20Regions/README_CN.md#130-被围绕的区域
@@ -4048,6 +4050,7 @@
 [124l]:https://leetcode.cn/problems/binary-tree-maximum-path-sum/
 [125l]:https://leetcode.cn/problems/valid-palindrome/
 [126l]:https://leetcode.cn/problems/word-ladder-ii/
+[127l]:https://leetcode.cn/problems/word-ladder/
 [128l]:https://leetcode.cn/problems/longest-consecutive-sequence/
 [129l]:https://leetcode.cn/problems/sum-root-to-leaf-numbers/
 [130l]:https://leetcode.cn/problems/surrounded-regions/
