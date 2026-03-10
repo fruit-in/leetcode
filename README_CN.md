@@ -780,6 +780,7 @@
 [992][992l]  |[K 个不同整数的子数组][992]                               |![rs]
 [993][993l]  |[二叉树的堂兄弟节点][993]                                 |![py]
 [994][994l]  |[腐烂的橘子][994]                                         |![rs]
+[995][995l]  |[K 连续位的最小翻转次数][995]                             |![rs]
 [996][996l]  |[平方数组的数目][996]                                     |![py]
 [997][997l]  |[找到小镇的法官][997]                                     |![rs]
 [998][998l]  |[最大二叉树 II][998]                                      |![py]&nbsp;&nbsp;![rb]
@@ -2744,6 +2745,7 @@
 [992]:Problemset/0992-Subarrays%20with%20K%20Different%20Integers/README_CN.md#992-k-个不同整数的子数组
 [993]:Problemset/0993-Cousins%20in%20Binary%20Tree/README_CN.md#993-二叉树的堂兄弟节点
 [994]:Problemset/0994-Rotting%20Oranges/README_CN.md#994-腐烂的橘子
+[995]:Problemset/0995-Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/README_CN.md#995-k-连续位的最小翻转次数
 [996]:Problemset/0996-Number%20of%20Squareful%20Arrays/README_CN.md#996-平方数组的数目
 [997]:Problemset/0997-Find%20the%20Town%20Judge/README_CN.md#997-找到小镇的法官
 [998]:Problemset/0998-Maximum%20Binary%20Tree%20II/README_CN.md#998-最大二叉树-ii
@@ -4702,6 +4704,7 @@
 [992l]:https://leetcode.cn/problems/subarrays-with-k-different-integers/
 [993l]:https://leetcode.cn/problems/cousins-in-binary-tree/
 [994l]:https://leetcode.cn/problems/rotting-oranges/
+[995l]:https://leetcode.cn/problems/minimum-number-of-k-consecutive-bit-flips/
 [996l]:https://leetcode.cn/problems/number-of-squareful-arrays/
 [997l]:https://leetcode.cn/problems/find-the-town-judge/
 [998l]:https://leetcode.cn/problems/maximum-binary-tree-ii/
