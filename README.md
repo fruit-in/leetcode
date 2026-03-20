@@ -295,6 +295,7 @@
 [382][382l]  |[Linked List Random Node][382]                                                        |![py]
 [383][383l]  |[Ransom Note][383]                                                                    |![py]
 [384][384l]  |[Shuffle an Array][384]                                                               |![rs]
+[385][385l]  |[Mini Parser][385]                                                                    |![py]
 [386][386l]  |[Lexicographical Numbers][386]                                                        |![rs]
 [387][387l]  |[First Unique Character in a String][387]                                             |![rb]&nbsp;&nbsp;![rs]
 [389][389l]  |[Find the Difference][389]                                                            |![rs]
@@ -2261,6 +2262,7 @@
 [382]:Problemset/0382-Linked%20List%20Random%20Node/README.md#382-linked-list-random-node
 [383]:Problemset/0383-Ransom%20Note/README.md#383-ransom-note
 [384]:Problemset/0384-Shuffle%20an%20Array/README.md#384-shuffle-an-array
+[385]:Problemset/0385-Mini%20Parser/README.md#385-mini-parser
 [386]:Problemset/0386-Lexicographical%20Numbers/README.md#386-lexicographical-numbers
 [387]:Problemset/0387-First%20Unique%20Character%20in%20a%20String/README.md#387-first-unique-character-in-a-string
 [389]:Problemset/0389-Find%20the%20Difference/README.md#389-find-the-difference
@@ -4220,6 +4222,7 @@
 [382l]:https://leetcode.com/problems/linked-list-random-node/
 [383l]:https://leetcode.com/problems/ransom-note/
 [384l]:https://leetcode.com/problems/shuffle-an-array/
+[385l]:https://leetcode.com/problems/mini-parser/
 [386l]:https://leetcode.com/problems/lexicographical-numbers/
 [387l]:https://leetcode.com/problems/first-unique-character-in-a-string/
 [389l]:https://leetcode.com/problems/find-the-difference/

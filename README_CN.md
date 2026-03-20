@@ -295,6 +295,7 @@
 [382][382l]  |[链表随机节点][382]                                       |![py]
 [383][383l]  |[赎金信][383]                                             |![py]
 [384][384l]  |[打乱数组][384]                                           |![rs]
+[385][385l]  |[迷你语法分析器][385]                                     |![py]
 [386][386l]  |[字典序排数][386]                                         |![rs]
 [387][387l]  |[字符串中的第一个唯一字符][387]                           |![rb]&nbsp;&nbsp;![rs]
 [389][389l]  |[找不同][389]                                             |![rs]
@@ -2261,6 +2262,7 @@
 [382]:Problemset/0382-Linked%20List%20Random%20Node/README_CN.md#382-链表随机节点
 [383]:Problemset/0383-Ransom%20Note/README_CN.md#383-赎金信
 [384]:Problemset/0384-Shuffle%20an%20Array/README_CN.md#384-打乱数组
+[385]:Problemset/0385-Mini%20Parser/README_CN.md#385-迷你语法分析器
 [386]:Problemset/0386-Lexicographical%20Numbers/README_CN.md#386-字典序排数
 [387]:Problemset/0387-First%20Unique%20Character%20in%20a%20String/README_CN.md#387-字符串中的第一个唯一字符
 [389]:Problemset/0389-Find%20the%20Difference/README_CN.md#389-找不同
@@ -4220,6 +4222,7 @@
 [382l]:https://leetcode.cn/problems/linked-list-random-node/
 [383l]:https://leetcode.cn/problems/ransom-note/
 [384l]:https://leetcode.cn/problems/shuffle-an-array/
+[385l]:https://leetcode.cn/problems/mini-parser/
 [386l]:https://leetcode.cn/problems/lexicographical-numbers/
 [387l]:https://leetcode.cn/problems/first-unique-character-in-a-string/
 [389l]:https://leetcode.cn/problems/find-the-difference/
